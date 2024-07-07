@@ -44,9 +44,9 @@ current_date = end_date
 while current_date >= start_date:
     success = False
     attempts = 0
-    while not success and attempts < 3: 
+    while not success and attempts < 3:
         day_before = current_date - timedelta(days=1)
-        query = f"((from:elonmusk) until:{current_date.strftime('%Y-%m-%d')} since:{day_before.strftime('%Y-%m-%d')})"
+        query = f"(#memecoin until:{current_date.strftime('%Y-%m-%d')} since:{day_before.strftime('%Y-%m-%d')})"
         request_body = {"query": query, "count": 100}
 
         response = requests.post(api_endpoint, json=request_body, headers=headers, timeout=10)
@@ -64,7 +64,7 @@ while current_date >= start_date:
                 logging.info(f"Fetched {num_tweets} tweets for {current_date.strftime('%Y-%m-%d')}.")
                 success = True
             else:
-                logging.warning(f"No tweets fetched for {current_date.strftime('%Y-%m-%d')}. Pausing for 16 minutes before retrying...")
+                logging.warning(f"No tweets fetched for {current_date.strftime('%Y-%m-%d')}. Rate limited, pausing before retrying...")
                 time.sleep(960)  # Wait for 16 minutes before retrying
                 attempts += 1
         else:
@@ -80,7 +80,7 @@ while current_date >= start_date:
 logging.info(f"Operation completed. Total API calls made: {api_calls_count}. Total records fetched: {records_fetched}.")
 
 # Write data to a CSV file
-with open('data/elon_tweets.csv', 'w', encoding='utf-8', newline='') as file:
+with open('data/memecoin_tweets.csv', 'w', encoding='utf-8', newline='') as file:
     writer = csv.writer(file)
     writer.writerow(['tweet', 'datetime'])
     writer.writerows(tweets_data)
