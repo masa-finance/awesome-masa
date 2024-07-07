@@ -35,7 +35,7 @@ records_fetched = 0
 
 # Define the date range for the period
 end_date = datetime.now().date()
-start_date = end_date - timedelta(days=100)
+start_date = end_date - timedelta(days=1)
 
 logging.info("Starting to fetch tweets...")
 
