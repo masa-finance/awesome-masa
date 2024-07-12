@@ -2,7 +2,7 @@ import csv
 import bittensor
 
 # Initialize the wallet and subtensor
-wallet = bittensor.wallet(name="miner")
+wallet = bittensor.wallet(name="owner")
 subtensor = bittensor.subtensor("ws://100.28.51.29:9945")
 
 # Read the CSV file and extract Coldkeys
@@ -29,8 +29,8 @@ coldkeys_to_fund = [
 ]
 
 # Transfer 5 TAO to each Coldkey
-total_coldkeys = len(coldkeys)
-for index, coldkey in enumerate(coldkeys):
+total_coldkeys = len(coldkeys_to_fund)
+for index, coldkey in enumerate(coldkeys_to_fund):
     try:
         subtensor.transfer(wallet=wallet, dest=coldkey, amount=5.0)
         print(f"Transferred 5 TAO to {coldkey}")
