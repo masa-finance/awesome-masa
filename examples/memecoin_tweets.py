@@ -35,7 +35,7 @@ records_fetched = 0
 
 # Define the date range for the period
 end_date = datetime.now().date()
-start_date = end_date - timedelta(days=1)
+start_date = end_date - timedelta(days=30)
 
 logging.info("Starting to fetch tweets...")
 
@@ -47,7 +47,7 @@ while current_date >= start_date:
     while not success and attempts < 3:
         day_before = current_date - timedelta(days=1)
         query = f"(#memecoin until:{current_date.strftime('%Y-%m-%d')} since:{day_before.strftime('%Y-%m-%d')})"
-        request_body = {"query": query, "count": 100}
+        request_body = {"query": query, "count": 250}
 
         response = requests.post(api_endpoint, json=request_body, headers=headers, timeout=10)
         api_calls_count += 1
