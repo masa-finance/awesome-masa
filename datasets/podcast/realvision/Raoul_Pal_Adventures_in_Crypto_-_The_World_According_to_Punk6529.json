@@ -1,0 +1,802 @@
+[
+    {
+        "speaker": "A",
+        "text": "This podcast is sponsored by Ramp. Are you the decision maker in your company? Consider this for the first time in decades, there's a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your company's spending and control who spends what with each vendor. Ramp's software collects and verifies receipts instantly. To save your team valuable time. Ramp automates data entry and routine tasks with automated approvals, expense categorization, and bill payments, time consuming tasks, which means youll stop wasteful spending and close your books in hours instead of days. Businesses that use Ramp add up to 5% to their bottom line the first year. If youre a decision maker, adding Ramp could be one of the best decisions youve ever made. Get dollar 250 when you join ramp for free. Just go to ramp.com easy ramp.com easy ramp.com easy cards issued by Sutton bank and Celtic bank members of DIC. Terms and conditions apply. On the fifth and final day of Real Vision crypto holidays, we present to you the definitive interview with Punk 6529. If you want to understand how nfts are going to change everything, this is the interview for you. And I know some of you are saying, well, aren't nfts dead? Given our crypto winter, punk is here to correct you and show you just how wrong you are. So if you want to be prepared for 2023, don't miss this video. It's essential viewing and we'll have part two in which Rao follows up with punk, coming early in 2023. Enjoy and happy holidays from all of us here at real vision. See you in 2023."
+    },
+    {
+        "speaker": "B",
+        "text": "The world of crypto is an incredibly exciting journey that we're all going on together. We don't know where it's leading to, but we know it's going to be absolutely massive. Join me, Raoul Pal, as I guide you on our adventure, discover just what this new world will look like. Well, welcome, my friend. Welcome to Real Vision."
+    },
+    {
+        "speaker": "A",
+        "text": "Thank you very much. It's a pleasure to be here. Thank you for having me."
+    },
+    {
+        "speaker": "B",
+        "text": "You know, I must admit this has been one of the interviews I've most looked forward to in the last several years. So there's no pressure on you then?"
+    },
+    {
+        "speaker": "A",
+        "text": "No pressure at all, it sounds like."
+    },
+    {
+        "speaker": "B",
+        "text": "Look, without, I obviously don't want to dox you in any way, but I'd love to hear. I just go back a little bit about the history of how you got into the crypto space how it hit your radar screen, what was your lens of perspective at the time? And then we'll move forwards a bit from there to get to some of your major perspectives."
+    },
+    {
+        "speaker": "A",
+        "text": "Now, sure, I'll try and do this. I won't be able to give the full picture because it will dox me, but I'll stay a little bit conceptual about some of the things that I thought were interesting before. And then I think with that as background, it becomes very interesting to consider how those lead to where we are today and what I think the linkages, because I do think it is a straight line linkage from where I started in crypto."
+    },
+    {
+        "speaker": "B",
+        "text": "Fantastic."
+    },
+    {
+        "speaker": "A",
+        "text": "I came across crypto seriously for the first time in summer of 2013. Sure, I had actually come across bitcoin in 2011, but didn't take it seriously enough. I was thinking, oh, look, this is for the people who want to keep gold bars in their basement because the government's going to take their guns or something. Right. It had that aesthetic in 2011 and it was painful mistake. I didn't take it seriously. It came back on my radar screen in 2013. And in 2013 I read the white paper and I said, oh, oh, that's a big deal. I downloaded a node. I bought my first bitcoin. I called up a buddy who lived on the other side of the planet and told him to download a node and I sent him $20 worth of bitcoin. And thats fine. Thats probably 0.2 bitcoin. Back then. It was interesting because I was in New York, then he was in Europe. It was Saturday afternoon. And if you wanted to send a wire transfer to Europe on Saturday afternoon, of course you cant. Youre waiting till Monday. Depending on where its going, if its running through a correspondent bank, it will be there on Wednesday, most likely. And the wire transfer fees themselves are going to be $30. And so we're sitting there, we're playing around with it and said, all right, I'm sending you $20. And it's just there. And I said, oh, that's really interesting. It's kind of surprising how that worked. And then I started getting really into it. And I don't know how much the audience you remember from that era, but there was fall 2013 was kind of the first blossoming of crypto Twitter. It's when it started going mainstream's not the right word, but it's when a lot of the, I think the big thinkers on crypto Twitter coalesced in that period. And so it was a very intellectually fertile period when we went from being like, well, what is this and what does it do and what does it all mean? Right? And for me, the conclusion then was not that this is a great way to send remittances. I mean, it is sure. Or, oh, it's an inflation hedge. And I mean, sure, that's fine, but there's other inflation hedges in the world, right? It's not the only way you can hedge inflation. It was a much deeper idea, and it's a much deeper idea technically, but it's a much deeper idea socially. The technical deeper idea is the following. It has solved, under certain parameters, a major problem in distributed systems, in computer science, the byzantine generals problem, how people who don't know each other, who don't trust each other, can coordinate, can agree on a set of facts. That is a very, very big deal. That's number one. The implication of that, though, is you now have in a digital era, which is we've been in a digital era for decades, you now have a way where you can have store a set of information not in the database. And this was my big aha. Moment from even back then, where you don't think about it. But all modern society runs on databases. Your life is organized by thousands of databases. Which hotel you can check into, which uber you can step into, where you're allowed to vote, how much money is in your bank account, how much money is in your stock broker account. Literally thousands of databases organized your life. It is something that's happened in the last 50 years. Before computers, before widespread computers, and before the Internet. This was not as important a part of human society. And now it is integral for running any modern society. Any modern society runs on a database connected to the Internet, and in fact, thousands of databases connected to it. We take it for granted as completely obvious, because there's really the only way to do it. And what that means is that there are thousands of ttps around you, trusted third parties, people who you're in effect, trusting as a counterparty for some set of information. That set of information is how much money is in your bank account, or do you own this piece of property? Or are you a citizen of this republic? And like most centralized systems, it works okay. Centralized systems most of the time are better. And this is, I think, one of the things that a lot of people get wrong early in crypto, you're even seeing this now with big Web two CEO's who are saying, well, no, if I were to use a blockchain for anything, it's slower, it's more expensive, it's this? Look at my super fast database running on Amazon Web services. All that's true, of course. That's of course not the point. The point is not about how many transactions per second you have. The point is, what are the structural social implications of this? And the structural social implications of these are, generically, you're trusting someone. And specifically, as we have become progressively digital, you're trusting a smaller number of larger entities. One of the big surprises of the Internet for anyone who was around the first go around to me is the following. I remember, I was just old enough to remember when the Internet started becoming prominent and the whole idea was going to decentralize everything. Look, you don't have to be the New York Times to publish online, right? Anyone can publish online. And that turned out you don't have to be Walmart to sell things online. Anyone can sell online. And while that's true, and initially you had a lot of small businesses because there are no distribution barriers online, you ended up with bigger oligopolies than you had offline. And so the Internet tends to be somehow at the application level, centralizing big data, machine learning tends to be centralizing. Theres economies of scale, theres economies of scope, theres economies of data. All of this leads to centralization. And then blockchains appear, bitcoin appears. Really blockchains, bitcoin say, oh, so thats like, I mean, among other things, a bank account without a bank, and its a bank being run by a bunch of people who dont know each other and dont need to know each other and dont need to accept for certain assumptions, dont need to trust each other. My conclusion very early on was this is a 30 40 year big deal. You can re architect whole chunks of how society works with us. We suddenly have a second tool in the digital air before we have one tool. A great tool, an amazing tool. The database is a great tool. This is not like everything should be on a blockchain. In fact, there was once a graphic that was an infographic that says decision tree. It's the question, should this be in a blockchain? If you'd have to ask, the answer is no. Blockchain is not an all purpose replacement for all databases. Databases make a lot of sense in many cases, but they might be a replacement for the important things. So this and I have both a traditional finance background, I have a software development background. I have a big corporate background, let's say. But I've also been since 2013, quite active in the crypto world and quite active in education, outreach, advocacy, reaching out to people, this type of thing. I believe the types of things you see on my Twitter account now are the things that I've been harassing everyone about for eight years. It's just now under a different handle. One of the things that was frustrating me though, through spirit, bitcoin and then ethereum and then the whole ecosystem succeeded financially, I think, beyond anyones wildest dreams. In 2013, the types of numbers people thought wed see 20 years from now, in 2013, we saw five and seven and eight. And so the number went up. Everyone was happy. This is great. I kept getting stuck on the following. I would have this discussion over and over and over again with my friends in the crypto world. Okay, so what other applications have we built? Why? I have at times run organizations of different sizes, including fairly sizable ones, and I wake up in the morning and say, well, I believe in this more than anything else. How can I use crypto at work? Dancer 1 second I mean, how can I use bitcoin at work? I can't really. I mean, it's a payment system. Okay, but like, is it the right answer of this application? No, the database is the right answer to the application. So you say, well, I feel there's a there there. I feel there's another turn there. And of course, Ethereum smart contracts has another term and Defi has another term, but theyre still not exactly hitting core societal systems. Thats the background, lets say through a year and a half. Thats the intellectual background through a year and a half ago. Let me take a pause there, see if that makes sense."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, look, it makes total sense. Its a very similar journey to my own. It was 2012, probably saw it in 2011. 2012, I started properly digging into it, and I come through the lens of almost losing the european banking system after wed almost lost the global banking system in 2008. And I realized very quickly that bitcoin itself was interesting, but the blockchain itself was going to offer a whole lot."
+    },
+    {
+        "speaker": "A",
+        "text": "Of."
+    },
+    {
+        "speaker": "B",
+        "text": "Solutions to some of the huge problems in the world. And one of the big problems was ownership. And I started immediately. I was good friends with Emil woods and Chad Cascarilla, and they got me across the line very quickly in terms of this. And then, okay, well, what you can start to put on the blockchain, what's relevant and what's not. As you said, that journey was a journey where I realized, like you, that it was okay, that in 20 1415 there weren't that many applications because we knew theyd come. It was just a matter of when I think your journey super interesting because your mixed background, it gives you a massive advantage in this space. I was not a technologist. I had to get up some of the curve of that. I was a finance guy. But you having that mixed background must have been a huge help. 18 months ago. NfTs, which we all knew about. Any of us have been around the space for a while. We knew about, but it came in a different format than many of us first thought. I thought it might be through property or some sort of other form of IP, but it didnt talk me through that realization when the world suddenly changed again."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, as with bitcoin, but even more so, NFTs was a two part process. The 2017. Oh yeah, look at this. Oh, thats interesting. Okay, anyway, this is goofy. Let's get back to the real work of, I don't know, making smart contracts or whatever we're doing, right? Like this was, this was a distraction. I didn't get. I didn't get it the first time."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, right."
+    },
+    {
+        "speaker": "A",
+        "text": "It goes on the, just like, bitcoin eleven goes on the l list. NFTS 2017 goes on the L list. I was like, oh, that's cool, because I was like opposed to it. I wasn't a right click save as well. Okay, that's fun, but not particularly important, right? Something like that was the first go around. And it wasn't until I can't tell you exactly what the trigger was. I don't remember now, but I remember towards the end of 2020, I started getting that spidey sense and I started harassing all of my crypto friends, including some who are just like true crypto ogs. And like, I think there's something important here. And they're like, no, it's stupid, right? That's cartoons. Like, it's, you know, let's look at this new blockchain that does whatever, right? And I'm saying, okay. And I kept, and then I'd wait a month, and then it was still nagging at me. And then finally I said, I need to spend time on it. It's bothering me. And I thought, let's go buy some nfts. And the very first nft I bought was zero one eth or something. It was just like, let me just buy the cheapest nft I can buy on Opensea and see how I feel. I was like, oh, that was interesting. That was fun. Let me buy another one. Well, okay, that feels pretty good. Let me buy another one. And then I started bringing, hold on."
+    },
+    {
+        "speaker": "B",
+        "text": "Before we go on, what the hell were you buying? And why did it appear? Why did it appeal to you?"
+    },
+    {
+        "speaker": "A",
+        "text": "I literally said, like, okay, I learned by doing. That's my. I have a gut. And then I dont believe people can understand anything without doing it. I think one of the huge gaps we have with traditional system people and with regulators, theyve never done it. Their image of what bitcoin is, their image of what web three is, their image of what nfts are, is this wholly distorted image. I didnt know if I wanted to invest in nfts, and I just wanted to spend some time. I dont even remember what the first was. It was some pixelated character, because of course it was. But it was the furthest thing from an important collection. It was not, let's go buy grail nfts. It's let me play around and open suit for a bit. And what started happening was the following. And this was a very new experience, as I would grab a friend of mine, a family member, and will say, hey, let's try this. Pick something. I'll buy it here, set up a metamask. I'll send it to you and send it back to me. What I realized within a month, this is crypto's consumer moment. It is a well known truism and technology. The technologies become consumerized when you stop talking about the technology. I have spent eight years trying to convince people of the joys of decentralization. The whole time I've had this thought in the back of my mind, like, I know this is wrong. I can't tell you why it's wrong, but I know it's wrong because I'm talking about the byzantine general's problem. I know it's wrong because we're discussing the differences between how Solana reaches consensus and how ethereum reaches consensus. And of course, I personally find it very interesting. But this is nerd stuff, right? This is not consumer stuff. One of the ways I think about it, Instagram users ensure python and machine learning and cloud computing and routers and servers. But no one in the history of the world said, hey, you should use this cool Instagram app. It uses Python. That's not how consumer tech works. And what I noticed for the very first time in crypto here we were absolutely using decentralized rails. True crypto, ethereum, web, three applications, and we weren't talking about the tech, except for the basic ramp up curve. Here's how metamask works. Once we got past that, it was, oh, this one's cool. That's one cool. I want the one with a silly hat. I want this photograph."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, we are humans after all."
+    },
+    {
+        "speaker": "A",
+        "text": "Correct. But that's tech in and of itself isn't interesting, right? Tech is interesting to meet human needs. And so I was like, oh, wow, this is it. This is the positive way to say it. The classic way to say it is this is how crypto consumerizes the kind of inside baseball way to think about it. This could be a Trojan horse for decentralized rails. We know this. Eight years in, no one cares about decentralization per se. And I say this, and it's a harsh statement, but it's true."
+    },
+    {
+        "speaker": "B",
+        "text": "It's true."
+    },
+    {
+        "speaker": "A",
+        "text": "I think if you went and checked even the large majority of Twitter crypto, Silicon Valley thought leaders on decentralization have the majority of their crypto in Coinbase custody or something, which means everyone's larking everyone. You can't say, I care about decentralization and say, oh, I am the third party custodian. The threat model is exactly the same as being at JP Morgan. There's no difference. That is, bitcoin is a financial investment, not bitcoin, as a different way to organize things. Bitcoin as a financial investment has been extremely fruitful to early bitcoin people, right? But with the exception of, and it's funny because the bitcoin maxi narrative has been in some ways hijacked relative to what it is in my mind, right? The maxi narrative is like, I don't know, the today maxi narrative is that all other coins are scams and we have to all eat steaks or something, right? That's not the bitcoin maxi narrative. The bitcoin maxi narrative is you need to run your own node. You need to be self sovereign. You need to do the education to learn how to be responsible for yourself. Those OG bitcoiners I have infinity respect for because theyre the only ones who are actually doing it. Theres a lot of people who say, oh, bitcoins are good investment, but none of them are actually doing this. And its interesting. Ill flag this because itll be interesting as we get through the rest of this. Up until late last year, I think this is shocking to some people, including some bitcoiners who come across my feed and then I cant believe hes buying winky photos or something. I was close to, from a portfolio allocation perspective a year and a half ago, close to a bitcoin max. It has been through eight years of altcoins, icos, other things. About the only thing that has gotten me to sell bitcoin is nfts. It's interesting. I flagged that. I flagged that. So consumerization, now consumerization has another aspect. The first aspect is that people like it and it's not about the technology. The second aspect that's very, very different is that every organization on the planet has an incentive to mint an NFT. So I was in and around nft NYC. I didn't go to the conference for obvious reasons, but I was around and I went to the Dolce Gabbana party. And the interesting thing, that was the most interesting thing about the conference because specifically there was a Dolce Gabbana party. I've been to many crypto conferences. Dolce Gabbana does not show up to like Ethereum conferences."
+    },
+    {
+        "speaker": "B",
+        "text": "No."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. I also assume, I'm not sure, but I assume Dolce Gabbana does not throw parties at Cisco network administrator conferences either."
+    },
+    {
+        "speaker": "B",
+        "text": "I want to."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. Why would they? But NFTs can represent anything and everything. And anything and everything also includes Dolce Gabbana dresses. And Dolce Gabbana has an incredible brand equity. They have a customer base. And so they can monetize that with a 90 something percent gross margin product, as they did and as they should have. And Nike bought Artifact Adidas did their job. We're going to have every single fashion lifestyle company issue nfts in the coming months and years. It will then roll over to the consumer packaged goods companies. Youll have a QR code on your six pack of coke. Youll scratch it. Youll get an NFT. Why? Because then they can directly airdrop you a coupon for the two to one sale. They know you bought it in Atlanta. They know who bought that coke can they know if youve used the coupon, theyre not going to put in the classified newspaper the inset like, well move to the 21st century. Universities will do it for their alumni base. Sports teams will do it for their fans. Eventually, in the fullness of time, you'll be in the local barbecue pit Masters club and you will get the barbecue master of the month NFT in your wallet. Everyone's coming. Over the course of the decade, everyone is going to have many, many nfts. And I think it's important to note here the average NFT in your wallet is not going to be a grail Fedenza or whatever. It's going to be something closer to your Chipotle coupon card. But it doesn't matter. Like these two things mean there will be widespread adoption unless something goes wrong, which we'll talk about in the later section. So thesis one, it's a consumer application."
+    },
+    {
+        "speaker": "B",
+        "text": "And it's also a way of organizing complex adaptive societies. That's what really got me interested, and I've been very interested in social tokens and nfts for community as the new business model. And it creates a wholly different dynamic when you have combined network effects between your consumers or your network of users and yourself or your business."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, here is, this isn't in my mega thesis, but here's, here's a framework to thinking about this. I think of nfts in the variation you spoke about as two things. First of all, it's a community interest group where the database is publicly readable and writable. What do I mean by that? We don't know or need to know who all the punks holders are, but there's probably some psycho demographics that apply to them. And those are different psychodemographics that apply to bourdain holders, which is different than Azuki holders. And that's no different than the world at large. Right? If you're in the database of the Catholic Church, you're statistically not an individual basis, but an aggregate. Different than someone that's in the database. Lutheran church, but an individual might be. Not that, but an aggregate. You are. The difference is the punks database is publicly composable. You can not be a punk holder, you cannot be ugalabs now, and you can still write an application that air drops something to a punk or composes a punk or allows you to interact with that community. So first kind of version of this is it's turning community groups and membership groups inside out. They're sitting there in public as opposed to being hidden. And anytime something goes in public and is composable, it becomes a much bigger deal. The other part though that comes from the non fungibility is you can represent much more complex social structures with nfts than you can with fungible tokens. Non fungible tokens, arguably are a superset of functional tokens, not a subset. Right. Because if I made every single NFT the same, it's a fungible token. I think of doge as an open edition, one piece of art. NFT, right? Right. But with NFT is you can actually represent, and I have dozens of real life ideas that random organizations run. Organizations. Well, because you can get granular. You can represent granular roles in a way you cant with bitcoin."
+    },
+    {
+        "speaker": "B",
+        "text": "Absolutely."
+    },
+    {
+        "speaker": "A",
+        "text": "So I agree completely with this."
+    },
+    {
+        "speaker": "B",
+        "text": "Let me just stop you 1 second because youve brought something really interesting and I had not thought about this before, but I see it because of my bloody wallet. And you will see it is what we've essentially also got, amongst other things, is an open email address book."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes."
+    },
+    {
+        "speaker": "B",
+        "text": "So if you think of what we talked about was how do you contact your customers? Right now, most of us do it via email, or if not, you might do it via pop ups on a mobile site. But what we've done is made every single email database public in NFT world in the future world, which creates a bit of a problem of the excessive amounts of information that get thrown at you via your wallet because anybody can drop anything to any like minded person. And this is going to be a marketers dream for a period of time and it's going to be a nightmare for the rest of us."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't know."
+    },
+    {
+        "speaker": "B",
+        "text": "Have you thought about any of that?"
+    },
+    {
+        "speaker": "A",
+        "text": "I think it is simply email before effective anti spam. I think it is going to be first a marketers dream, then Im at the leading edge of this because the amount of scammy airdrops that get pushed to my wallet so that people think that Im minting the slithering snake collection is extraordinary. Like the activity feed its every couple of minutes, all day long someones throwing an NFT. This thing is a temporary problem because in the exact same way as we were able to build and effectively solve spam, this is just a form of spam. And eventually systems will be built and because they can be built in public will iterate pretty quickly to be like, this is a scamming collection. I'm just going to hide it from you in your interface. Like the token will be in your wallet but you're just never going to see it. And then people or collections that are serious or from trusted providers or that you've clicked in your address, folks that like Azuki airdropped to something today, certainly not what I want to see, some random thing. Maybe I'd let someone spam score it. And it can be community based ultimately spam scoring. You can see all the metrics if people use them and trade them and whatever. Thats pretty good collection. Let me surface it. Maybe youve actually gotten a nice nft here."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, because if youve got verified stuff, lets assume in that world. But lets assume youre a punks holder and Aku airdrop something, you need a verification that you havent verified. But whether its a large group because its distributed, we can pretty much solve that quite quickly by allowing the community to decide what is a verifiable thing and what isn't and then. So maybe that works."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think it's in the maturity of the tools. And it's fine because, I mean, all this behavior is emergent. No one thought that this was not an issue for anyone a year and a half ago, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "No."
+    },
+    {
+        "speaker": "A",
+        "text": "And so, like, now it's then people figured it out. And so I'm not so worried about that. I mean, you say it's like an open email address. Email is fairly open. That's why you see it as we get spam. But then we've solved it with filters. So two more big picture thesis. One, that is not, like, conceptually important, but it is, I think, important when we talk about nfts more specifically, I am pretty sure nfts are going to flip in fine art distribution. And one of the stories I told on Twitter. So I lived in Soho in Manhattan for 20 years, and it was always like an early in my life life dream to own an Andy Warhol tomato soup kit. And so when I was 22 in Manhattan and certainly did not have the money to pay that much for a print, I'd go to the museum and I'd take dates to the museum and we'd go look at them. Someday one of these will be mine, right? And then I got older, and then at some point I'm like, hmm, I think I have enough money to be able to do this. And I lived a block away from some of the top Warhol dealers on the planet. The process is hilariously bad, right? You go to them and say, hey, do you have an Andy Warhol tomato soup can? No. Okay. Do you know when you'll have one? Also? No. Will you call me when you have one? And they say, yes, but the guy there at the front desk is writing your name on a post it. And I'm like, oh, God, he's never going to call me. That post is going to be in the trash by tonight. And so this goes on for years. I'm popping every couple months."
+    },
+    {
+        "speaker": "B",
+        "text": "No."
+    },
+    {
+        "speaker": "A",
+        "text": "Do you want a black bean soup? We have a black bean soup. I'm like, I don't want a black bean soup. I want a tomato soup. It's like a life dream that I have one of these things. So this goes on for five years. And I think during that period there might have been one or two that I just missed. Of course, forgot to call me. Or they called some guy they wanted sold tomorrow, I don't know. Until finally I see one in the window and I said, okay, I want to buy this. And then how much is it? $140,000. Okay, why isn't this price? Because basically because we say so. Okay, fine. Here's me, like fairly naive art. How do I know it's an Andy Warhol? Here's his signature. I'm in crypto for years at this point. That doesn't mean anything. That's security theory. How do I know that's a signature? Well, we are going to give you this certificate that says. We say it's a signature. I'm like, you're printing it out right in front of me. It doesn't mean anything either. This was signed in the 1960s. You're printing out the certificate right in front of me today."
+    },
+    {
+        "speaker": "B",
+        "text": "And witnessed by whom?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, witnessed by me. Who also. How do you know it's a signature? Well, we bought it from this guy in Europe, and he had it in this closet for a very long time. As you can see, it's really good quality. I mean, a whole bunch of things were interesting, but not actually why. We know that it's Andy Warhol's signature. But that's how it is. That's how I bought it. And I'm pretty sure I have a certain one of those tomato soup cans. As sure as anyone else who buys from the gallery, but I wouldn't say I'd bet my life on it. Okay. An interesting process. And then I compare it to when I second time around at the punks, when I said, I'm going to buy a punk, and then another punk and another punk and can't stop. But there. Did I have to go to West Broadway and Soho? No, I was in fact, several thousand miles away from there. In fact, I was locked down in Covid. In fact, I couldn't leave my sofa. But all that I need Internet connection and metamask. And how do I know it was the right price? Well, I had the global order book since inception in front of me. Every sale, every bid, every ask, every transfer, I can bid anyone I want, even if it's not for sale. I can see who has them. You have full transparency, and you're like, oh, I see. This is art distribution's Internet moment. It's going from being a pre Internet business to a post Internet business. And here someone in our world. No, no, but we have websites where we sell art. That's different. This is now natively Internet. The whole thing is. It's not. You have an order management system and then a different unit ships this out to you. Ive done that, too. Ive shipped art across continents. It takes months. Its painful. It costs a surprising amount of money. EBay did not turn out to be some type of subset of Pennsylvania antique shops. It turned out to be a gigantic superset of Pennsylvania antique shops. It was the global marketplace for non standard goods or something. And that's what's going to happen here. It's not that I am not saying fine art galleries are going to go away. I mean, there's antique shops in Pennsylvania today, there's radio stations today. But the market opportunity for selling art and then a bunch of other things which we'll talk about in a second online, is vastly larger than selling it through a subscale retail shop that, on average, on a Tuesday afternoon, 11:00 has zero people in. Zero. None. That is actually typically what it looks like. It's better for artists. Damien Hirst, did this drop last year. Damon Hearst, of course, are very famous artists. Damon Hearst can sell his art whenever he wants, but he sold 10,000 pieces in five minutes. And even if he had five galleries working for him at the same time, they couldnt sell at that volume, at that pace in the real world. Even if youre Damien Hurst."
+    },
+    {
+        "speaker": "B",
+        "text": "I own one of those as well."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so do I. If you had to go to, I dont know, London or Geneva or Miami or New York to buy one, would you have gotten out of bed to buy one? I dont think I wouldve will, no."
+    },
+    {
+        "speaker": "B",
+        "text": "And look, ive tried to buy Damien Hirst in the past because that was a cultural reference for me, was a fucking nightmare."
+    },
+    {
+        "speaker": "A",
+        "text": "That's what I'm telling you."
+    },
+    {
+        "speaker": "B",
+        "text": "It's just as simple as that. It's just a nightmare. You don't know the price. The gallery's ripping you off, everybody's ripping you off. You don't really know what you're getting. And I just didn't bother. In the end, I bought signed rock and roll music photographs, Mick rock stuff, because it was easier to get validated because I could buy it from Mick Rock himself. But other than that, I gave up."
+    },
+    {
+        "speaker": "A",
+        "text": "Excellent. Yeah, I agree. This is how it is. The other end of the spectrum is societally more interesting because Damien Hirsch is going to be fine in both cases. But imagine you're like the top butterfly photographer of Knoxville, Tennessee. Realistically, in a physical retail system, you can't make a living. It has to be your hobby. You have to have some type of other job. How many people in Knoxville are going to buy photographs of butterflies in repeating quantities? Not enough. You're going to do your own website to try and solve them. Try and get into one of our big art difficult here though and I'm not saying it's easy but you can Chris Dixon style find your 50 or 100 true fans, that there are probably 100 people in the world who would buy a one or two butterfly nFTs a year from your style and you can turn your hobby into your actual profession. This is going to be an absolute boom for everyone who works in the creative professions. This is going to be the idea of oh the creative professions are not well paid is I think largely just because we dont have good technology to transport intangibles."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah they dont scale. They just dont scale generally unless youre Damien Hirst and you have a marketing engine. I was going to come onto this later but I think its at point is how discoverability is still a problem. I go into opensem overwhelmed and then I go to nifty gateway its even worse and then I go into rarible. It just becomes overwhelming."
+    },
+    {
+        "speaker": "A",
+        "text": "Huge problem."
+    },
+    {
+        "speaker": "B",
+        "text": "We're missing that layer I guess the Amazon, I hate to use that something like that but you know the Amazon experience where it'll find you and you."
+    },
+    {
+        "speaker": "A",
+        "text": "Find it, we will see vastly different cuts at this. Some of that will be that, some of that will be much better, some of them will be skeuomorphic real life style visualizations. I throw that again in the bucket of time, money, economic incentives, and the fact that it's extremely valuable to do discoverability well is going to solve this problem."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah I agree."
+    },
+    {
+        "speaker": "A",
+        "text": "And so it doesn't mean automatically because usually nft you're going to make money and it does not mean that at all. But you have access as a small artist to the same distribution rails as Damien Hirst has on a first class basis."
+    },
+    {
+        "speaker": "B",
+        "text": "And also whats really fascinating to me is not only do we do it because we can think in us terms, but we do it at a global scale. Weve got a global clearing price for art so you can be a young up and coming artist in Niger. Its game changing because you sell on a global basis at a global price which you dont have an ability to do right now."
+    },
+    {
+        "speaker": "A",
+        "text": "What are the best things about this? There's a huge community of indian photographers in denver t world and I bought some pieces from them and I've had this exact thought. What is the chance I would have bought from one of these photographers before? The chance is not one in a zillion. How would I find them? What ship it to me and what have you here you have the, you know it's interesting. You ask about discoverability. I don't actually discover anything. Opensea my discoverability engine is twitter."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Probably the best place to see NFTs today is twitter. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "I see you asking and people come back to you and give you stuff. So it's always, I love that."
+    },
+    {
+        "speaker": "A",
+        "text": "Right? Like you just, things come into my feed, my feed's large, obviously, but like, and they go, oh, that's interesting. And then you go and open c and look at the. So I think it is like all democratizing technologies good for people who have less access previously and then they'll be like, oh well, it's not fair. They sell their NFts cheaper. How can you really say that? You're going to say people shouldn't have access to the same payment rails as the rest of the world in some parts of the world. Why shouldn't they have access? Why shouldn't they get access? So I think it's going to be, and when I say it's going to flip in it, it's going to take time. Fine art galleries with physical works will be here in 50 years, right? Nothing's going away, but there'll be vastly more growth and potential in this area. But I think here's where we get to the meat of it. Obviously the most important thing about NFTs is not that we can put art on them, right? NFts are going to go, in my view, like this. Today we're doing art and collectibles, but also some other things, like the bored ape yacht club for me doesn't slot into art or collectibles cleanly. It's also like some weird decentralized lifestyle franchise media codes, something like that, right? I keep thinking of its like a franchisee model except you dont have to go to McDonalds University in Illinois and spend six months getting approved to have a McDonalds franchise. If you want to do something cool with a certain ape and what have you, you just buy it and then you have the license to commercially exploit it. And here its one where theres still a gigantic failure of imagination. Sure some things have happened, right? Like someone made a microbrew with their board ape and someone made a band and someone made a coffee brand. None of these things are big yet, but this is just a complete failure of imagination because obviously whether it happens with a board ape or any other project of this type, obviously a model where you are not rate limited by the number of people you hire in your startup, but your rate limited by the world global community is one of them, is going to commercialize vastly better than eyeing to hire a marketing person and a business development person. How do you scale globally? You cant limit it. So its just because these projects are early. In three to five years we will see global brands that were built off NFT collections probably first in the PFB space and the basis of acceptable solutions there now not acceptable solutions. People can do whatever they want, but the basis of solutions that are going to work is either commercial rights to token holders or public domain CC zero and PFP collections. From the moment that Yuga bought the punks IP and took the punks to the bored ape commercial model because they are the last important holdouts, it's over. It is impossible that you can say I want to make a competitive PFP collection and you, the holder, can't do anything with it. That's done now. So the question is just, and it's a very interesting question, which will do better. People who are they have their own rights themselves or go all the way to the nouns, the oh, I won't say the word Mfers and so on, where anyone can do anything. So that's the basis of competition. So the board apes are in that type of web three ish type business, sort of. We don't know what to call it yet. I don't think we've seen the even a fraction of the models we'll see, but there'll be a class of things that are like that."
+    },
+    {
+        "speaker": "B",
+        "text": "The other part of this that's happening quickly is music. I know it's part of the creative arts."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "But music feels like that is a big area that needs solving, and NFTs work perfectly for large parts of it."
+    },
+    {
+        "speaker": "A",
+        "text": "It's much less developed than the visual arts, but arguably. So let me take even a step back. The visual arts have been on their back foot for decades relative to music, right? The visual arts haven't been culturally as important as music for decades now. Right? Think about how much day to day impact and, you know, throw a dart at some, some random person in the world. How much impact has contemporary art had on them versus music? Right? It's not really even that close to mouse like. It's. Whereas some of the prior visual arts movements did, I think, have a bigger impact, NFTs in their first stage have brought the visual arts roaring back. Nfts today are still primarily visual arts, it's primarily a visual field, but there's all types of super interesting things that can happen in music as well. And I think interesting hybridizations between on chain and off chain in music. And it's the whole coming back to making a direct connection with your collectors, fans community that it's hard to do it in a nice way through a database. It's just not the same. There's not that same. Being a database entry in someone who's sending me an email just does not feel the same as owning a PFP from that person's collection. Like, the aesthetic experience is completely different, right? The psychological experience is completely different. You feel much better in the second. Right? So. But where do we go from here? We're gonna go to gaming. We're probably two to three years away from like the next generation of games. I mean, there's a lot of stuff, you know what's not going to work is that every PFP collection of 10,000 nfts makes their own like half baked game. For those 10,000 NFT homies, none of that's going to work."
+    },
+    {
+        "speaker": "B",
+        "text": "No. You need interoperability. And people who are good at gaming build gaming out."
+    },
+    {
+        "speaker": "A",
+        "text": "Correct. It's going to take a couple of years because building good games is like making a movie. It takes a big budget, it takes a couple of years. It needs a talented team. It's orders of magnitude more complex than putting out a PFE project. A lot of people are going to get disappointed. Rugged with gaming roadmaps in the short term, but eventually the idea that you can and should own your in game assets and that the take rate of the gaming company should drop from 100% to 3% feels inevitable. And that's coming. I would say from there you look at all societal intangibles and here we haven't scratched the surface of it. I think this is transportation tech for societal intangibles. It's like when people figured out how to create whole classes of financial instruments. And the fact that you can hold and own and transport and compose intangibles means they will become more valuable."
+    },
+    {
+        "speaker": "B",
+        "text": "I've been talking a lot about this, and a lot of people don't really understand what I'm trying to say. But there's $63 trillion of intangibles on the global balance sheets of corporations. That's just corporations, not the intangibles that we all have. $63 trillion. This turns tangibles, intangibles into tangibles. That is where the enormous multiplier effect on GDP and wealth comes from."
+    },
+    {
+        "speaker": "A",
+        "text": "We are on exactly the same page. Those are the ones that are countable, that intention."
+    },
+    {
+        "speaker": "B",
+        "text": "Correct. There's so many more we don't even know yet."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I mean, the United States of America, the Statue of Liberty, the us flag, the land of the free and the home of the brave, the american dream. These are all intangibles. Those intangibles are worth. My guess is individual. That complex of intangibles are worth trillions of dollars in the United States."
+    },
+    {
+        "speaker": "B",
+        "text": "I've generally found that the intangibles, once you tokenize them, just theoretically speaking and observationally speaking, are worth more than the actual equity of most things."
+    },
+    {
+        "speaker": "A",
+        "text": "Yep, correct. I think that's right. We are taking. The story of financial markets is taking things that were not tradable and making them tradable. This has been that way for centuries. More and more assets you can make markets in. People are going to hear this and say, oh, my God, this is terrible. It's the financialization in the world. The one thing we had left. I disagree completely. The starving artists is a bug, not a feature. Intangible cultural providers, in a world where all the basic stuff is going to get automated, should be highly paid."
+    },
+    {
+        "speaker": "B",
+        "text": "Culture is the most valuable thing we have. And I want to get into this conversation about memes and all of this because culture is it. That is what it is to be human. And as you said, we can allow the robots to take our jobs, but culture is all we have as humans. Sets valiant."
+    },
+    {
+        "speaker": "A",
+        "text": "I am well known for saying this. I use memes in my own interpretation. But they're like. I think it's the casual way to say the Harare intersubjective myths, the inter subjective myths that these are the. And what are interdicting things that don't really exist. But we all pretend they exist to organize large groups of people. The United States, human rights, General Motors. None of these things exist. You can't find General Motors. It's an idea. It's a framework. But the idea of General Motors existing allows you to organize a lot of people in a coherent manner. It's how you go from societies of 150 people to millions of people."
+    },
+    {
+        "speaker": "B",
+        "text": "Correct."
+    },
+    {
+        "speaker": "A",
+        "text": "They are the most important things in the world. Everything is downstream from them. Right? Like, Obama was a master me maker, Donald Trump was a master meemaker. Right? Yes, we can. And make America great again. Each of those two things give you access to enough nuclear weapons to destroy the planet, right? It's just some simple words, some simple imagery repeated many times, and you become the most powerful person on the planet. Just do it. Three little words, a very simple swoosh. How many tens of billions a year of additional revenue is that worth? Right? I see these estimates of how much the Nike IP is worth, and it's like tens of billions of dollars. That's wrong. It's way wrong. It's that much per year."
+    },
+    {
+        "speaker": "B",
+        "text": "Correct."
+    },
+    {
+        "speaker": "A",
+        "text": "Because otherwise, if Nike shoes were unbranded, they wouldn't sell for one fifth the price. So this is the basis of human society. This is how human society is architected."
+    },
+    {
+        "speaker": "B",
+        "text": "And now, sorry, that's religion, that's government. That's everything. Everything is a narrative that we tell ourselves in order to accept a societal organization."
+    },
+    {
+        "speaker": "A",
+        "text": "As you say, we are designed to think in narratives. The human brain thinks in narratives. And it's how society organizes itself. And what has happened now is those narratives are leaving the hands of centralized parties and are now accessible on an individual basis. They're being communityized. It is the exact same model that you had a bank account in 2013. And then I say, oh, bitcoin, right? It's a bank account without the bank. It's the same thing, but for narratives, for myths, for memes. So I keep saying, seize the memes of production."
+    },
+    {
+        "speaker": "B",
+        "text": "And what do you mean by that? Because I don't think me included really understand what you mean."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean what I just said a second ago. I gave two examples of people who became president, right? And they operated in a party system, right? Like if you were, if you were just as eloquent as Obama but ran as an independent, you probably couldn't become president, right? If you had a nice logo, but you weren't. Nike probably can't make a competitive, can't make a competitive company to them here you can actually directly own the intangibles on a first class basis with anyone else. If we agree that, and agree it's just a social construction, if we start moving around intangibles on tokens in a permissionless system that everyone can access, that everyone can use the same rails, that Nike doesn't have a distribution bench, they might have a marketing advantage. That's different. The marketing advantage and the distribution advantage are different. Damien Hirst might have a marketing advantage to the butterfly photographer in Knoxville, but Damien Hirst does not have a distribution advantage. Previously he had a distribution advantage. He was in the gallery in the big cities and the butterfly photographer is not. Now they're on the same rails, ERC tokens with a variety of marketplaces and discoverability and blah blah. They have a marketing event, which is fine. There's always going to be marketing events. So now any person on the planet has access to the same meme transportation technology as the most powerful person on the planet. And generally the medium is the message, right? Things change when mediums change. There's a land grab of sorts, right? Because the medium is the message. The message changes with the medium. So the message is changing because the medium has changed dramatically. And so there's a period that's not an infinite period where you can set new cultural and societal standards. That period is now. In ten years, it's going to solidify, it's going to ossify, and then 20 years from now, there'll be something else. There's that process always of renewal. But a society with television is different than a society without television. A society with the Internet is different than a society without the Internet. It's not the same pre Internet society, but with Google and Facebook and Twitter. The society itself changes when you have Twitter, everything about how humans interact changes when you have Facebook and match and Tinder and Uber and Airbnb, it becomes a different society. And here society will change because we now have direct, first class access to memetic rails. It's a huge deal. It's an endlessly big deal. Even I. I feel I see just the faintest outlines of what it's going to be. But what I think is going to be is actually gigantic. Right? And I think there's an opportunity today in this field for people with all types of different skills, including for people with skills which historically might have not been valued in the technology industry. The technology industry has sucked up a huge amount of societal value in the last 20 years because it's been very useful and it has favored a certain type of person. The type of person who can found a Google is not hugely different from the type of person who can found a Twitter. Well, here we've made the rails accessible. There's a little bit of tech you need to learn, but not that much. And then whatever your skill set is, you can actually, whatever your culture, your orientation, the thing you want to get out, you have access to the same rails as everyone else. And it's a very big deal. And so my kind of fourth bucket or what have you here is societal intangibles will start moving around in on rails and everyone says, okay, this is all made up. You guys are just playing a game with yourselves. It's just a social construction. Of course it's just a social construction, but so is the title deep to your house, right? It's a social construction that if a piece of paper is in a certain office and it has your name on it, you then have the right to put a fence on this piece of land and shoot someone who comes on it. That paper is that paper. The land is just as off chain to that paper as anything else we're doing in nfTs. The reason that paper means something is a whole agreed system that that paper means something. And what has emerged emergently is that if you own this token from this smart contract, in fact, token 6529, we're all going to agree that you own punk 6529. It's no different than if we say, hey, you have this title deed for this house. We're all going to agree. And then use a whole enforcement mechanism of society to protect your house. It's equally made up. You don't think of it. Houses feel very, very tangible. But the fact that the state will enforce your right to live in your house because your name's on the piece of paper is just as much a social convention that I can say. I'm six five to nine because this token's in my ethereum wall. Now we found a social convention for moving on to tangents. Big deal. Deeply unexplored yet, okay, we've barely scratched the surface. And then I'm going to take one more step because this is where the part that's most important to me and that's quote unquote metaverse."
+    },
+    {
+        "speaker": "B",
+        "text": "That was my next question. The battleground for the open metaverse."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, this, to me, also deeply misunderstood. First of all, everyone, a lot of people have the wrong idea with the metaverses. The metaverse is not going to be like some goofy second life number two, where you're walking out with VR glasses in like, minecraft or something. That's fun, it might be great. But that's not the metaverse. The metaverse is just the Internet. It's just the Internet with two differences. First of all, the visualization layer is going to get better as it has been for decades. I can see you now. And ten years ago, this would have been a conference call, right? I wouldn't be able to see you, but you're still like, kind of like two square inches on my screen, and I'm pretty sure you're a full sized man, right? And so in ten years, you're going to have a pair of sunglasses on. I'm going to have a pair of sunglasses on. There'll be heads up displays. We'll be in augmented reality on a permanent basis. We'll press a button. You'll shop in front of me, I'll shop in front of you. We'll talk about bored apes. They'll float in front of us. We'll talk about skeuomorphic discoverability and some type of virtual art gallery will show up in front of us. Right? It's going to be this blended digital hybrid space that we're in permanently. It's all your current screen time, but plus all the rest of your waking hours that are not screen time, because those glasses are never leaving your head because they're going to be super useful and convenient. And arguably, it's better even for, like, your friends and family that you don't have a phone stick in your head. You can be looking ahead of you. And then if a notification comes, it comes. Right? So the one is the visualization. The other part, though, goes back to where we started. We now have composable cross application digital objects. They have left the databases of a bunch of companies. We have digital objects now, but my digital objects now x my NFTs are in the Twitter database, my tweets on Facebook. There's pictures of me doing things. Oh, look, it's me eating a dumpling. It's in Facebook's database. If I want access to another application, what do I have to do? Get an API key, make sure I follow the terms of service code, a custom integration with another application. This is pre Internet type stuff. This is like trying to run the Internet with content management, proprietary content management systems, NFT. We've now invented hyperlinking, we've invented HTML, we've invented a common platform that I can take 6529 and put him in a social network, or put him in a gallery, or put him in a game, or put him in a lending platform, or put in any one of the next thousand applications are going to come. And so this is where all the innovation will happen to. Like, all the innovation is going to happen because you have permissionless innovation, just like a programmable, permissionless money with bitcoin, right? You now have permissionless innovation and cultural digital objects. So you put those two things together, the metaverse is going to be epically compelling because this is the part where people say, oh no, I'm not going to wear those glasses. Just like you're not going to get a smartphone, just like you're not going to use Google and Twitter and Facebook and email and elevation. Come on. All this stuff is hugely convenient. It makes you more productive. It fires your dopamine receptors. You're always going to do it, right? So since we're inevitably going to live in the space, then the most important societal discussion that we are not having is, since this world is coming, how should it be architected? And right now, there are only two choices. The ones we said at the beginning of the conversation. It can be those digital objects and your position. Those digital objects can be in a database, which roasted means a company's database, because I don't think the government is going to do the metaverse platforms or it can be in a blockchain. There is no third thing we've invented. These are your two choices. And so if you think nfts are not the way, then I ask you, tell me which company should own this. And my view is no company should own this because it is problematic, and it's problematic in the classic web, one web, two scenarios."
+    },
+    {
+        "speaker": "B",
+        "text": "But surely one company won't own it, right? Just a multitude of experiences of which we can move our digital identity and digital belongings across them."
+    },
+    {
+        "speaker": "A",
+        "text": "So then you can move them across if they're nfts, you cannot move them across if. Well, that's the whole battle."
+    },
+    {
+        "speaker": "B",
+        "text": "It doesn't work without nfts. It's impossible."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, but that's a whole battle because the whole battle, and it is a battle, we have not won this battle, right? Facebook does not want this to run on nfts. They want it to run in meta servers. Unreal. The CEO gave a speech the other day in Asia somewhere. It's a multi trillion dollar opportunity for my company. He means in his company's database. We have gone astray on Internet architecture."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm not sure that these people don't understand the magnitude of what is happening. Having spoken to quite a few very senior people at, let's say, meta, they get the interoperability, they get it. They're like, we can't stand in the way of this because nobody's going to trust us. Whether it happens, that's a different matter."
+    },
+    {
+        "speaker": "A",
+        "text": "Is that why you have to log into Facebook, to use inoculous?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, only now in the future, I'll just use my NFT, my digital identity, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "I know they're saying those things, right? And I hope you're right, by the way. Right. Nothing. I'm not an enemy of Facebook. I would like nothing. Facebook could be a huge force for decentralization if they supported decentralized digital objects natively on first class basis. Yeah, I agree that so far is blah blah. What is actually a released product is integrated ecosystem. And it's integrated ecosystem from the software platform to the hardware platform. And it's a bet the company integrated ecosystem as of today, when that changes, my view will change. I look at what people ship, not what they tell us. Web one had the right architecture, came out of academia, that's why. Right? Like they didn't think to monetize. So email is SMTP, which means it's an interoperable standard, which means if you like Gmail, you can use Gmail. If you like Outlook, you can use Outlook. If you don't like any of these things, you can run your own email server. Short messaging online turns out to be Twitter. And that has all types of weird outcomes, right? One thing that like, was, I think, a wake up call for a lot of governments around the world. It doesn't matter if you like Jack Dorsey or don't like Jack Dorsey. It doesn't matter if you like Donald Trump or don't like Donald Trump. This is completely relevant to what I'm about to say. It is deeply weird that for some strange reason, Jack Dorsey was one of the most important people who had to have an opinion on if there was a coup happening in the United States. Because Jack Dorsey is a talented Texas executive, but he's a random CEO of a random tech company. Why on earth would that be his decision? It's like saying we need to decide on, I don't know, our policy for national defense, and we're going to ask the CEO of Procter and Gamble. We have courts, we have elected representatives, we have police, we have all of these systems of democratic governance. And in no model of democratic governance would you assume that the person who can wipe you off the Internet should be the CEO of one or two random tech companies, and they were all within their rights. The First Amendment does not apply to private companies. The problem isn't that Twitter doesn't want Donald Trump on their servers. It's perfectly fine. They might not want it. That's a business decision. The problem is once you're not on Twitter servers, you are cut off from global short messaging. Whereas once you're Donald Trump, I don't know if he's been knocked off of people's posted emails, but he clearly can send emails because worst case scenario, he can have server. And the problem is, oh, but I don't like Donald Trump. They did the right thing. But the problem is they have to make this decision. For 8 billion people on the planet, it is impossible decision. The russian foreign ministry has a Twitter account. Are they more or less appropriate to have Twitter account? I have no idea. It's not like they can. It's impossible to make these decisions correctly. The answer, I mean, imagine it the other way. Imagine if we said, no, no, no. We need to have a CEO of email, and that CEO needs to be a public company CEO with all the obligations and risks and shareholder pressures of a CEO. And that CEO has to decide if every single person on the planet CEO. It's obviously ridiculous. And yet that's what short messaging is and it's what medium messaging is. Medium messaging is Facebook. And so project out now ten years. This metaverse isn't like Twitter. Isn't like Facebook. It's infinity times better. It's photorealistic. It's all around you. It's augmented. It has all these great features. If you can get kicked out of that space, it's like you're going to be cast into the darkness."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay?"
+    },
+    {
+        "speaker": "A",
+        "text": "You cannot. You could maybe live with losing your Twitter account. You will not be able to live with losing the metaverse. Right. Your productivity is not going to happen. You're not going to work. You're not going to be able to socialize with your friends."
+    },
+    {
+        "speaker": "B",
+        "text": "Essentially, it's like being put into prison."
+    },
+    {
+        "speaker": "A",
+        "text": "Correct."
+    },
+    {
+        "speaker": "B",
+        "text": "So it's a state level decision by the jurisdictional structure of society, and it can't be decided upon by a corporation."
+    },
+    {
+        "speaker": "A",
+        "text": "Right? And by corporation. I keep saying Jack Dorsey. Ha ha. It's not really Jack Dorsey. No. It's a bunch of teams somewhere in some outsourced data center trying to make these decisions. Right. It's wholly inappropriate, people to make these decisions. Right. Like, what context do they have? Do they have legal training? No, they're just following some checklist. How else can you do to scale? But there's also something else. I keep saying the end state is augmented reality. I think it is. Right? But why does augmented real, how does augmented reality work? Augmented reality works because you have a camera looking into your field of vision, right? So imagine you have a family, you have kids. Would you think to yourself, it would make a lot of sense for some tech company to have God's eye view of everything your son or daughter is seeing for the next 20 years? Even if they told you, no, don't worry, I'll be encrypted. We definitely won't use it inappropriately. Would any of those text executives say, yeah, you know, six, five to nine, I would be happy if you go place a camera on my family's face. Yeah. My wife, me, my kids. You have a camera. I'm sure your privacy policies are fine. It's five to nine. And you certainly won't do anything inappropriate with having constant video surveillance of my life, right? Because that's what it's going to be."
+    },
+    {
+        "speaker": "B",
+        "text": "And we remember that Mark Zuckerberg tapes over his camera on his laptop, if you remember."
+    },
+    {
+        "speaker": "A",
+        "text": "Correct. And this is going to be 100 times more intrusive. Right. And then the bigger problem is not mark, it's not Jack. Any system that generates this much power will be impossible for it not to fumble the power to the state. If you have global God's eye view of everyone on the planet on everything they're doing, the NSA is going to shut up to your door. And if it's not the NSA, it's someone else. The state will not be able to tolerate a company being vastly more powerful than the state infrastructure. And so the very weird thing, we know that China is building some type of social credit system of this other. There's all types of presentations of it. And you read things in the media. Not exactly. Right. But broadly it's. Right. Like, broadly, the idea that, like, oh, look, we weren't too thrilled with what you've been doing recently. Back to the second class trade, etcetera, etcetera, right? And we say, oh, I can't believe the Chinese are doing that. That's for me. We're building the same system. We're just building it by mistake and we're building it across all dimensions. We talked about the vat of versa visualization part, but we are progressively centralizing everywhere. Take a simple example, a taxi ride in New York 25 years ago. If you wanted to block me from taking a taxi, right, in New York, effectively you have to arrest it. Okay, how are you going to block. You hail a taxi, you take some cash out of your pocket. Take me to 52nd street. Okay. You have to arrest me to stop it. How do you stop today? We're not all the way there, but mostly there. If you just flip a switch on Uber and Lyft because you don't like me, I can't hail attacks now. There's still some yellow cabs. But I noticed the other day that Uber is now going to be also integrating yellow caps. The yellow cabs have their own app. Another three to four years, all taxi's are going to be electronically intermediated by like three or four companies. And then inevitably someone's going to be socially undesirable and blah, blah, blah, blah, and you violate the terms of service. And yeah, we don't want that type of person uber because we have liability. What if he punches a taxi driver? What if he punches a super driver? We don't like him. Right. And then you'll be able, with a flip of a switch to ban someone from taxis in New York, which sure sounds like the types of things that we say. Oh, that's very bad. Happening in China. The other dimension of this, cBDCs. CBDCs are very interesting. Should there be national sovereign currencies? True stable coins available online? Yeah, I think that's interesting. But what's less interesting, the less interesting part is this. If you look at what the BIS says, what the ACB says, it's a little bit more mixed in the US and the Fed is a little bit more mixed. There's voices in both directions, but, oh, it's great. We'll be able to, I don't know, effectively end crime because we can censor any undesirable transaction."
+    },
+    {
+        "speaker": "B",
+        "text": "They'll use it as a behavioral economic system. I've been saying this for ages, and that's obviously, that's both good and terrible."
+    },
+    {
+        "speaker": "A",
+        "text": "And it's even worse than that, that maybe that's good or bad. What will actually happen is some aspiring totalitarian will get ahold of their central bank's node and his or her political opponent's election time won't be able to buy a tomato. Okay? Because if you think about the top totalitarians of all time, they still couldn't prevent someone many time zones away from their capital from transacting. Right? Hard. It's hard to prevent people from transacting in cash. It's a very intensive process to get every transaction under control. Once you move everyone to a centralized permission CBDC, then you just run machine learning algorithms, you run big data algorithms, and you have what I worry about. And it's interesting because I've been worried about this for years, and all my in real life friends randomly are subjected to these rants at dinners and stuff. And they start with like, it's weird. We're like setting up. I think it's mostly accidental. It's partially, you know, it's partially the us surveillance infrastructure, financial surveillance infrastructure, but also partially accidental. We're bit by bit setting up the fall. A global sensible digital money system, a oligopolistic services infrastructure, cars, Airbnbs, et cetera, et cetera. Now, the digital space in which we're going to live all the time in ten years, the metaverse, let's say all of these end up in 1015 entities. You have set something up that if someday a truly bad person ever managed to grab power, it's the biggest honeypot in human history."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I totally agree. The issue I've got with all of this is we sold ourselves to the devil 15 years ago. Every single thing that we do we have given to databases controlled by very few people. I mean, people argue this as oh, you're taking my privacy. You haven't been able to take 10,000 pounds, or in Europe's case, in some cases, \u20ac2000, out of a bank account for ten years now, and move it around. So everything is now obviously anything the government wants to know, they can know. But even bigger than that, that I have a real problem with this is, I don't know if you've read this, is how they tell you that the world may end. About cyber hacking, written by the new Times. It's an extraordinary book, and it's utterly terrifying because it's not about, let's just say that democracy works and power is not seized in western democracies, that everything just ticks along, as it has been in the usual drama. That is a democracy. But the fact that this stuff can get hacked is the fact that you can have an entire sovereign state seized by a third party, and there's pretty much nothing you can do about it. It is utterly terrifying."
+    },
+    {
+        "speaker": "A",
+        "text": "Look, I think the reality is, and every decision on law and order is a. Is a trade off between private crime and public crime. Right? That's why we have constitutional democracies. If we said the state is always right, and then, by definition, you don't need civil rights, the state will always, by definition, make the right decision. If you're a bad person, you should be punished. And what's the need for due process? Right. Mike? The AML KYC infrastructure, which I'm not, as a matter of principle, opposed to AML KYC, but I am opposed to the way it's been architected."
+    },
+    {
+        "speaker": "B",
+        "text": "Agreed."
+    },
+    {
+        "speaker": "A",
+        "text": "It runs through FATF. There's very limited national debate on what the trade offs are, and there's no due process. You don't have to look far. The fact that most crypto companies can't get a bank account, even though crypto is perfectly legal, there's a perfect example of this. The democratic thing to do is to pass a law and say, it's illegal to be a crypto company. It's illegal to be an adult entertainer. It's illegal to have a marijuana shop. And then the people can choose, if they agree with what their elected representatives did and want to live in a country where crypto and adult they go, fine, it's all right. I if they say no, actually, I don't want that. They can elect different representatives, will change the laws. Here we have the laws that say x and a shadow system of bureaucrats that nobody has ever discussed, nobody elected, nobody has any transparency in what they're doing, who have just made up their own set of rules and doing their own thing. It's bizarre. And it's in very nice terms, risk management and this and that."
+    },
+    {
+        "speaker": "B",
+        "text": "It can't have avoided your attention that they've seized russian oligarchs, whatever. By what definition? All of their assets in foreign countries with no due legal process look slightly terrifying to me."
+    },
+    {
+        "speaker": "A",
+        "text": "The funniest one of all, I mean, not funny, but funny was the canadian thing, right? Because I've been. I've been harassing people about this stuff for a long time. And mostly people think I'm nuts. And, you know, I'm generally otherwise a pleasant and, I think, mild mannered person. Then they're like, oh, there he goes again. And I'd always like, look, what if some aspiring dictator does Justin Trudeau, really. Justin Trudeau, like Justin Trudeau hauled out the full, like, terrorism, national emergency. We're going to freeze everyone's accounts and starve them out of the square infrastructure for these things. I'm not saying these things aren't annoying. I'm sure they're annoying. I'm not even saying that I suspect I don't have very much in common with the guys that were causing all these issues. I suspect if I lived there, I'd find them immensely annoying. But the reality is, if you set the precedent that for something that I'm pretty sure was not the type of national emergency that Canada was going to fall, right. I don't think they were going to. Canada has a pretty serious army. Canada was not about to fall. If that means you can, without due process, freeze the money of anyone who's even sent them money for a sandwich. That is the model of which the next attack is going to happen. That's a small trial run over the most implausible place of all. And I don't even think Justin is planning something crazy. I think he got caught in the top spot and it was politically expedient to solve it this way instead of sending police and having fights in the street and people getting hurt and then being. But the reason he could do it is because the infrastructure is mostly centralized. Today it's mostly centralized and were heading for it to be 100% centralized. And once its there, the temptation to use it is high. Right. When even Justin Trudeau uses this, well, I mean, come on. Hes no future totalitarian dictator. Hes a fairly normal politician, but he was in a tight spot. The infrastructure was there. He used it. Someone else will use. The lines will erode. And there is probably, I think, the most popular treat storm like you don't actually have any constitutional rights in practice. If someone can just freeze your money, how do you. Oh, I want to exercise my right to free speech. Great. I want to go to DC in March. Oh, but I don't have any money. I can't spend money. I am socially undesirable. Oh, I want to buy a gun. All right, money again. I want to exercise my religion. Oh, right, there's a priest and a church."
+    },
+    {
+        "speaker": "B",
+        "text": "It's a cheaper way than putting people in prison because basically you're robbed of all your rights because you can't do anything."
+    },
+    {
+        "speaker": "A",
+        "text": "Correct. It is a cheap way of depriving the world all their constitutional rights indirectly."
+    },
+    {
+        "speaker": "B",
+        "text": "So I get it. I worry some parts of democracy, I think, okay, we've got to draw these battlegrounds anyway. I think democracy itself in this fourth turning moment needs to get redefined in some way that better represents democracy and not an oligopoly or a corporatist world. But, okay, so how we've talked about this battle for the metaverse, which is essentially all of this battle, there's two things I want to get from you is, okay, how do we solve that with blockchain, with what we're doing, what is required for that to be true? And also the other thing we didn't, we've kind of skirted around, I haven't talked about is digital identity to make this all unlock. So a couple of things I'd love to hear from you."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, let's start with the first one. And I think, you know, I can give this hyper complicated answer. Hyper complicated answers never are not viable for anything practical. I think the way we end up in an open metaverse is to get 100 million people using nfts."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "The reason for that is we have."
+    },
+    {
+        "speaker": "B",
+        "text": "To leverage nfts as opposed to fungible tokens."
+    },
+    {
+        "speaker": "A",
+        "text": "Correct. Nfts. And I'll tell you why I think that how it's going to play out, we said earlier, and I think it's a sensible that, like don't shoot banner and nike and everyone else and, you know, Ohio State University are going to issue nfts. It's an obvious money maker for them, right? So they have a very simple, they can take their Dolce Gabbana has valuable intangibles, though Ohio State Buckeyes have valuable intangibles. And so now they can directly monetize. So they will. If there's 100 million people using nfts, they will issue nfts. And if everyone issues nfts, then the network effects take over. And seven years from now there's a billion people using nfts and it's all."
+    },
+    {
+        "speaker": "B",
+        "text": "There'S no attack vector."
+    },
+    {
+        "speaker": "A",
+        "text": "In other words, if instead, if instead a year from now there's 2 million people using nfts and some web two company, maybe Facebook, launches a nfts like product that looks like nfts. Oh, you own this piece of art, this punk, but it's in a database. And they say yeah, Ohio State, you can mint to this database. Here's our software development kit or API, whatever. And that gets the lead. Ohio State University is going to do what Ohio State's university imperative is they have students and alums. And if their students and alums want their virtual buckeye hat on the Facebook platform and not as an ERC 721 token, Ohio State University is going to do that. And because we are maybe one or two years away from a tidal wave of institutions pushing for these things and pushing their own communities towards these things, the path dependence of if ten years from now are your digital objects behind some companys database or are they on open standard, that path dependence is going to get set in the next six to 18 months. The whole game is going to be done now."
+    },
+    {
+        "speaker": "B",
+        "text": "And do you not think that, I mean, yes, I agree. And I agree that nfts are very important because that is culture and some of the really important things. That is what brings in the masses. But can cryptocurrencies themselves? Because it's been interesting as people go down the learning journey, once they buy something, they learn a bit more about it and then understand this world of decentralization and the ability to own your own assets, wherever you are, however you are. Do you not think that applies as well? It depends what scales I guess, right."
+    },
+    {
+        "speaker": "A",
+        "text": "Im a little disappointed in that, to be honest. My disappointment has to do with a couple of factors, what we have, and its interesting to tease out why it may be different, may not be why it may be different than nfts. Right. Cryptocurrency has been adopted much more than faster than I expected, but it's all in centralized platforms. They say like, oh, 30 million people own cryptocurrency. And how many people own that in their own wallet? Yeah, tiny numbers. Right. The types of people who anyway were open to this message. We have not had any mass adoption of any decentralization message through fungible tokens. We have had a very interesting financial game, a very interesting technological set of breakthroughs, but we certainly havent built any robust decentralized infrastructure from it in my opinion. Its been eight years. Well, its been more than eight years since 2009. But if you think that first burst into mainstream media was in 2013. Right. Its been eight years. Well, or nine years. Itll be nine years soon. Well, I dont know. Is it just dying to happen and its not going to happen? I dont think so. I dont still, most of my friends dont own crypto, but my friends that own crypto all own it on an exchange. I think maybe someone, a custodian but mostly on exchange."
+    },
+    {
+        "speaker": "B",
+        "text": "Im kind of the person I defer to in this is the person I trust in this space. I don't know if you know Ian Rogers. I'm sure you've come across him."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, of course."
+    },
+    {
+        "speaker": "B",
+        "text": "And I think that's what he's trying to build is the ability for us to be able to move around with our own wallet outside of the cold storage of ledger. But a world where we don't leave it on an exchange because it's so easy to put it into a better environment. I don't know, what are your thoughts? And I kind of, I know he's working on that and you know, he's one of the world's best ux people. I kind of figured, I don't know."
+    },
+    {
+        "speaker": "A",
+        "text": "We'Ll get it started. I don't know. I have a different view on the reason NFTs might end up not in custodians is because there's more things you do with them. Right. The default thing you do with makes sense."
+    },
+    {
+        "speaker": "B",
+        "text": "Makes sense. You've got your own wallet because you're using them all the time."
+    },
+    {
+        "speaker": "A",
+        "text": "Correct. And that was one of like my big, I think my most important contribution to the NFT space, why I booted up 659, was like, oh, these might work for decentralization, which is going to be very important in the next decade in a way that practically across hundreds of millions of people in a way that tokens, fungible tokens have. And I mean, it's clear that they haven't. Right. Like what's the counter evidence that they have? And it's a UX problem, but it's a UX problem more broadly to fund. It's fun to play with your nfts. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "It's fun to go mince, take your, I don't know, cool cat and mint a baby cool cat or whatever you're doing or like put, take your NFT and put it in an on cyber gallery. It's fun. I'm an adult professional and I'm having."
+    },
+    {
+        "speaker": "B",
+        "text": "Fun with it, but it's still fucking terrifying. It's terrifying to move everything around. And I've had a, I've been involved in this space since 2013, and I'm still terrified of moving stuff around and. Are you clicking on the wrong link? Have you got the right address? It's utterly terrifying. That needs to get solved, but I think it will get solved. I think a wallet experience that allows us not to leave things on exchanges because for the reasons you say, I think youre right, actually. I think NFT is the spearhead from which I also think social tokens, because these are things youre going to use all day, every day, William."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. Because, by the way, you remember this, in 2013, we were going to use bitcoin all day every day as well. But the people just stash in the ground. People won. That's, I mean, okay, fine, the price has gone up, but people don't use bitcoin. Like, the whole bitcoin community is like, oh, people are trying to scam you out of your bitcoins. Like, don't use them. Well, okay, you go tell a normal person, don't use this, but also go through this super complicated infrastructure to, like, keep it safe. And they're gonna leave it. I mean, I'm quite technically experienced. I once at some point had to move the 6529 museum nfts from a treasure to hypnosis, multisig. This is not, I need to step up my security and I had to move like 1000 nfts or something, including some of the most iconic nfts in the world. And I spent the whole time terrified that I was going to fumble some type of cultural grail and then I was going to have to go on Twitter the next day in shame and be like, I know, like, I'm supposedly sophisticated, but I blew it."
+    },
+    {
+        "speaker": "B",
+        "text": "Can somebody send me my NFT back, please?"
+    },
+    {
+        "speaker": "A",
+        "text": "My NFT, it's gone forever. I've like, sent summer jpeg into the ether. It will never be seen again. Sorry, guys. Literally, when I spent, like, it took me like a week the whole time. That was the whole, I'm like, oh, God, I, I'm just going to screw up epically. The UX sucks. I have spent quite a bit of time behind the scenes, constructively sharing suggestions, let's say, with all the big infrastructure providers of the space. I have some sympathy for them because the space is 100 x. In the last year and a half, they're scrambling around just to make sure the lights stay on. But they need to hire every UX person on the planet and there needs to be a shift like there was with the auto industry when the auto industry shifted gears from saying accidents or user error to accidents and deaths are our fault. Okay, every time I see, and this is like every week someone has accidentally sent their board ape to some scam contract. My takeaway is different than the majority of Twitter is like oh there you go, the board ape idiots again, handing over their viable nfts. Right? No, that should be treated like a six sigma quality failure for the industry. Yes, it's obviously knowable by software which contracts are real bored apes contracts. Right? Like it's trivially. No, you should flag it at the software level. Right? There should be 27 warnings. Don't do this. Like the last three people who did this were underneath their bed in the puddle of tears afterwards. Are you still sure you want to do this? I mean that's how it should be. And because if we don't get this right we will end up on centralized systems because it's not societally acceptable or reasonable that someone makes a fairly innocent mistake in the scheme of things and loses a million dollars. It can't be that way. So the UX has to get much, much better. The industry has to work together, they should set common standards, they should use the same graphics, they should think about I mean things that happened and im not blaming anyone because its just, its a super challenge. But like Metamask and Trezor and Opensea at some point did upgrades at a different time and broke the whole infrastructure between themselves. No one was doing anything wrong but these things have to interoperate. So there needs to be a significant upgrading and investment of time, energy, UX on safety and usability because it's not ready for mass market. Mass market's coming and it's not ready for mass market. So we're just going to have people blowing themselves up and it's a shame and it's sad. And a world where the scammers win is not like any type of societal victory that's a failure state. Of course people should spend time in education. If I told you I'm giving you keys to my cardinal and no, you don't have to take driving lessons and you don't have to read the driver's manual and you don't have to pass a driving test. Well you crashed a car law right? I mean so there needs to be some awareness by people of like you should learn the basics but it's primarily an industry problem to solve. I think now we have another risk factor though that it's the most frustrating of all is that government is working against us, not with us, theoretically. And it's funny, I think about this primarily in the US and Europe, because, quite frankly, China's not going to be on our side on this. I don't think Russia is going to be on our side on this. The people who might think it's important that we have constitutional rights on transactions are going to be the major economies. Okay, well, where does everyone stand? The European Union, they lost web two epically to the Americans. Right? They are digital vassals to the Americans. They have all these conferences on how do we recover our national sovereignty and social networking and search, and they come up with these ideas that, of course, are never going to work. Like France is going to make its own search engine. None of this is going to work. Right. And sitting right in front of them for the last decade is the answer, because the most powerful thing the EU could do to reduce the power of the american tech, oligopolies, is web three."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Because it beats them."
+    },
+    {
+        "speaker": "A",
+        "text": "Oligopolies, of course. And they have another advantage that they don't have, the Howie test. So you don't have this thing that, like, the second you do something useful for your users, you're violating securities laws. Right? If you give nothing to your users, it's okay. If you give them their fees back. Oh, you're violating their rights somehow. Anyway, this is what it is. Europe doesn't have this. So Europe has this wide open opportunity to catch up, and they're in the process of fumbling. I don't know if you saw the news today, it moved out of committee. They are one step away from banning wallet. They're one step away from saying, yes, the future of crypto in Europe is you're going to hold your crypto in a subsidiary of Deutsche bank and associate general. Yeah, that's how web three is going to happen. EU is fumbling. The US, okay, definitely has much more infrastructure and a much more developed sector, but there has yet to be a party to just grab this by the horse and run with us. Trump was pretty deeply anti crypto. There's suspicion of crypto on the democratic side, even though arguably for the same reasons as the EU is favorable to him. Right. Like, it breaks up big corporations. But there's suspicion. And so there hasn't been an advocate in, a true advocate for, you know, if we had taken the same attitude in the mid nineties with the Internet, the us Internet would have not become the powerhouse it became. The us Internet was given some structural benefits. You don't have to collect sales taxes or we're going to treat e signatures real or section 230, it needs these to develop. And it turned out to be the greatest productivity machine over the last 50 years. And here not only were not getting these types of supportive measures, the whole crypto industry is trying to fight to just keep from going backwards. That thing that passed the infrastructure bill, and I forget offhand the name, it's section 50, blah, blah, blah, blah. If it's not changed, basically kills Defi in two years and is going to put a pretty, it would be fairly painful for nfTs, too, because since you have to report within ten days your counterparty for more than $10,000 or three eth, right, full KYC information, otherwise you're committing a felony. Well, in defi, it's just impossible because it's a liquidity pool. You don't know who your counterparty is. If that stays, Defi is dead for us citizens because you'll be committing felonies after felonies after felonies every time you go to uniswap, which is bizarre, I understand kind of the thought process, but it's pretty overkill, right? And then the other thing on NFTs, there at least you have a single individual counterparty. What it's going to mean that I think is inevitable, the big marketplaces are going to end up KYc'dan, because obviously if Im buying a bored ape on OpenSea, Im not going to be able to be like, hey, guy, can you give me your drivers license so I can fill out this form to send it to the treasury to tell them I sent you ade? Opencs going to have to do it. So for Opencs going to have to do it, theyre going to have to kyc you."
+    },
+    {
+        "speaker": "B",
+        "text": "This is one of the reasons weve just got to solve this digital identity. Its not that complicated to have zero knowledge proofs of our identity behind an anonymous, whether it's an NFT, however we want to do it. So then we can pass effortlessly around the Internet, and if the government wants to come and investigate us, there's a blockchain, they can figure it out and it just stops all of this mess, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "It is, of course, the right answer. Zero knowledge proofs are the right answer to all these things. But I'm in Europe these days and I met with a bank CEO and I was whining about how many times a year, primarily organizationally, not personal life. I have had to send my utility bill and my id card to everyone on the planet. I feel like half the institutions in Europe know how many kilowatts I spent last month."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, my assistant does this every week for me because somebody wants my KYC represented. It's a nightmare. India solved it with India stack. Now it's not decentralized. I get it, but they solved it. You could do it with your fingerprint."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. So I told him, look, you need to use zero knowledge proof of this. What you really need to know is that I live in this city and I'm a citizen of this country. You don't really need to know how much electricity I used last month. I might as well have been talking like, Mars language. The state of banking infrastructure in Europe and what a zero knowledge proof is and how they're going to integrate with the banking infrastructure. It's leave aside, there's not any political interest in doing this. Even if there was political interest, you're talking, what, 1020 years for that to get integrated across those systems. But the bigger problem is there's no political will for it. If there was political will, of course the US and Europe have enough technical capacity to do great things today. And I don't know how much of this is misunderstanding or how much of it is. I mean, the elephant in the room, which I think needs to be discussed openly and needs to be discussed openly at a political level, and we have an adult discussion of it. I suspect the elephant in the room that they don't say out loud is that they feel for national security purposes, it's better that they have control of infestation. I mean, thats whats probably going on behind the scenes."
+    },
+    {
+        "speaker": "B",
+        "text": "But they expose themselves to the attack vectors again, read that book. This is how they tell you the world will end. All youre doing by centralizing and being protective is making the exact mistake youre trying to stop, which is make yourself vulnerable."
+    },
+    {
+        "speaker": "A",
+        "text": "I agree with this, obviously. I think countries are more robust if you do not generate a gigantic honeypot. Right? Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Who'd have thought, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Like, because that honey pot, we described two different attack factors on the honey pot. You're saying a hacker could do it? I'm saying a politician could do it. In any case, it's generally not a great idea to take all the resources of a country, put it in one specific place and say, here's the key to get everything you own everything. If you unlock this thing. Right. And that's the type of discussion of the nature of maybe you have more crime if you have courts and defense lawyers and maybe sometimes criminals get set free. Right? If you let them defend themselves, maybe sometimes someone who was actually guilty gets away with it because the state was not able to prove beyond a reasonable doubt that committed the crime. Right. I, of course it happens, but we have decided in the democratic society that the cost of that happening is lower than the cost of saying the state can just. I don't like the look of your face. I'm throwing you away. Right. Because eventually in the beginning, you might solve crime and then later will be abused. It's this class of issue. It's a constitutional rights classification, it's a due process class of issue. And the level of discussion about it is in no way up to the task of the magnitude of the importance of it. You hear the type of stuff like, oh, it's money laundering. That's not the important point. Of course there's money laundering in the world, and of course it's better that there's less money laundering than more money laundering. But this is an architectural discussion. What is the right balance of various things in the right architecture? Right. Effectively? I have not seen any reasonable political debate about this so far. I don't know if you have, but I haven't."
+    },
+    {
+        "speaker": "B",
+        "text": "No, I've not. I don't think people grasp, although I must admit I have heard, bizarrely, the ECP starting to think somewhere in this they're kind of think tank of people. Yes, there's a bunch of politicians who have their own agendas, but there's actually a bunch of smart people who are trying to tell them the right thing. So it's there, but I don't know if anybody's listening."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, well, we have to. We have to. So I don't know. I view every now what I think we need to do, right. And how I'm trying to do my part, but my part is the basis of everything I do is like to see how many other people I can mobilize. Its not like I can do anything, I can do something, but the whole idea is to try and mobilize lots and lots of people, that everyone does something in the general right direction. So bucket one, get people to use nfts, doesnt matter what NFT, doesnt matter if its expensive NFT. I feel the feeling of having a digital visual asset and moving around and owning it and putting in gallery incident is compelling to people, even with the nuisance that it is now. It's compelling to people. Of course it's better if we get the UX better. Of course it's better if we onboard organizations like it sounds like you're going to do with your social tokens and get people to do it. So the more the better. I am in favor of all NFT collections. I am in favor of all infrastructure providers. I'm in favor of all wallets. The more the better. Because after all this, we have, I don't know, a million people using nfts, which means it's nothing."
+    },
+    {
+        "speaker": "B",
+        "text": "No, it's a small trial."
+    },
+    {
+        "speaker": "A",
+        "text": "It's a small trial. We need to get to several billion and the staging points, 100 million. So we got to onboard. So that's number one. Number two, we have to get these ideas into the air and the ideas that there are actual constitutional due process important issues at stake here. It's not a bunch. The important issue, while it's important and sad, if someone loses their money by losing their board ape or if someone, I don't know, commits tax fraud, or those are normal issues. Those are like normal crime issues that people should deal with as normal crime issues. We have to have the important debate of in an increasingly digital society, in a society that will be, like, primarily digital in the 2030s, how should we architect that society? Should it be ten big corporations in the government? Because I suspect in that world, we become some form of digital serfs. And I don't think, I mean, there might be some people in some government agencies who like that idea, but I don't think this is politically popular with voters."
+    },
+    {
+        "speaker": "B",
+        "text": "And I think you're right, because what happens, we're in a process of exponential change, and we are trying to use the past as a way to model how we operate in the future. As you say, I'm not really sure anybody's trying to be underhand or even slow. They just don't see the speed at which this is coming towards us and the magnitude of changes that are here."
+    },
+    {
+        "speaker": "A",
+        "text": "I just don't think people have. I had a discussion with an MEP in Europe a month ago. Now it's going on and on about my, we have to save the world through jpegs and the metaverse, this type of thing. The MEP is extremely sophisticated about crypto. Okay? As far as an MVP is concerned, generally sophisticated, but for an MVP, off the charts. And the answer was like, oh, I mean, we Europeans aren't interested in that gaming stuff or interested in real life, right? And I'm like, oh, oh, gosh, we have so much work to do, right? Like, this is an ally. This is someone who's, like, believes in our objectives. This is someone who's, like, been promoting crypto for many years. In Europe. And it's like, oh, it's a Minecraft little thing, right? It's silly. Like, who cares about the silly stuff, right? Like, I remember when Twitter was having the discussion, like I am now just old enough to see patterns. Remember when Twitter was having the discussion because Fred Wilson was blogging about it? I think not. Jack knows Fred, should it become a protocol or a service? And at the time it seemed like a normal startup business decision. The decision made was totally sensible. It's the safe choice. And Twitter back then was basically where tech rose in San Francisco, said, I'm going out to lunch. Who cares really if it's protocol or service? And you fast forward to today and suddenly it's the arbitrary of global geopolitics somehow. But now it's too late. It's a public company, it has shareholders, what have you. It's very interesting. What could Jack even possibly do now? Nothing. It's too late, right? That ship has sailed. And so we're at that phase now. And this is, this is the part I spent all day, night thinking about. Because by the time we get everyone on board to get everyone to your level of sophistication on nfts and my level, so it's going to be eight years from now, the path dependency is going to have happened. And so it has to happen now. We need to scale up now. We need to have, and I'm going to say this not to the crypto community, to the NFT community, the NFT community, which still, because it came out of the creative professions, sometimes has mixed feelings about business, about scale, about money or whatever."
+    },
+    {
+        "speaker": "B",
+        "text": "That's right."
+    },
+    {
+        "speaker": "A",
+        "text": "They have to get past that. We cannot have an impact if we're just playing a small game among ourselves. Eventually we'll just be like some niche thing, like the guys who are running their own bitcoin nodes. It'll be there in the corner in our own world, but the rest of the world will head another direction. And so everyone in NFT world who's a builder should be trying to think how they get ten and 50 times bigger the next two or three years. Otherwise, I mean, we won't get there."
+    },
+    {
+        "speaker": "B",
+        "text": "The good thing is I am seeing people thinking of scale. I thought what Yuga did now, it's still small, it's still amongst NFT people, but was interesting. And I like the fact that Tim Bland's building on top of it, creating music. And again, it's not really hit mainstream, but it feels like the shots are being taken and there are going to be some breakouts. Ive been watching what socios and Chiles have been trying to do with the football clubs. And theres not been a breakout because of how its been approached. But there are little fires going on everywhere that could turn into the raging bonfire. And the more of these that get experimented with and the more people push. It's getting there. But you're right, we don't have long."
+    },
+    {
+        "speaker": "A",
+        "text": "Look, Yuga is one has to track between apes, punks battle or whatever. Yuga as a business team is for sure the best performing business team in the space. They haven't made a wrong move yet. It's impressive, correct? My remarks were not addressed at Yuga. They've gone from zero to multibillion dollar business in less than twelve months. That is excellent hyper scaling. So they're doing great. The thing is, Yuga has a certain aesthetic and that aesthetics can appeal to certain people. And they're trying to be uninterruptible and do a game and what have you, and that's fine, that will work. But we need many swings at the bat."
+    },
+    {
+        "speaker": "B",
+        "text": "That's right."
+    },
+    {
+        "speaker": "A",
+        "text": "We need many yugas. We need many. When I say metaverse, but really what I mean is the metaverse is if I believe the metaverse is everything which I do, then really what we're calling metaverses are just visualization layers. It's one way to do a decentraland and one way to do something else. And so I think there is room for the metaverses have all been land first, and that's a good model and it's been a very lucrative model. And I think lots of people should try that. And it looks like you've been trying that. I think there's room for a different model. We're going to try something else. 6.5 to nine a, because everyone's trying land based models. That's covered anyway. But I'm not 100% convinced that's the right framework. I don't think that's what it has the feeling of. You know how the first tv shows were just radio shows, but the camera."
+    },
+    {
+        "speaker": "B",
+        "text": "Pointed at the radio? Physical location is not an. Not a thing in the metaverse."
+    },
+    {
+        "speaker": "A",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "So teleport everywhere. So I don't care if you build a house next to Snoop Dogg, it doesn't matter, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, maybe I want a house next to snoop Dogg anyway, but like, the idea that you start. That the experience starts with a bunch of brawl and. And then you have to like figure stuff out seems backwards, right? Like the experience should start with like something you actually might want to do. And then, you know, maybe I, that then drives value to different coordinates in that space. And so we're going to run a bunch of experiments in that direction. I think that's interesting. I think we need to keep building bridges to the rest of the world. One of the things, so people asked me this six months ago because we launched a fund, but isn't that the institution? Yeah it is an institution. It's rich. Rich people are messed up. Well is that Contra or towards the ethos?"
+    },
+    {
+        "speaker": "B",
+        "text": "That's right."
+    },
+    {
+        "speaker": "A",
+        "text": "And I said, well here's how I think about it. I might be wrong, but this is how I think about it. Are rich people going to succeed in buying nfts? Yes they are. It's a decentralized system and rich people are pretty good. If we think nfts may be an exciting business opportunity to go up in value, rich people are going to succeed one way or another. Then the questions are, well how is it going to happen? By default it'll be like some trad five people or some ex Goldman Sachs people or whatever and they'll do a fund and it will start with those values. First issue is, well I'd rather have it run by all pure NFT natives, the whole team. There is all these superstar NFT natives like Bharat and Bsy and Han and AC. So culturally they'll be more in tune. And then what? My not very secret plan is because I tweeted it and I told it to LP's, I'm hoping in time we solve some of the securities law stuff and theres some way you can tokenize the collection time and then keep it in a decentralized space. So my own collection, the 659 museum, ive said Im never selling it and its never going into centralized space. Its my skin in the game. Im now just mansplain for the last half an hour and a half on why decentralization is so important. If im then like cool lets sell this to Mark Zuckerberg. I dont know, just embarrassing. Like it'll be embarrassing right? So I'm saying this should stay in decentralized spaces. I control it, I can make that decision and it's going to stay there. And then my not very secret plan, again I tweeted it is to get a whole bunch of other institutions. I bought a bunch of nfts and I'm fortunate enough to buy a lot. And then I ran out of money and I got some of my friends to give me some money with the exciting proposition of they said oh what are you going to do? We're going to buy nfts. Oh, that's great. Then later we're going to sell them for more money. I said, no, no, no, we're not going to do that. They said, oh, are we going to sell all the NFTs together? No, no, we're not going to do that either. What are we going to do?"
+    },
+    {
+        "speaker": "B",
+        "text": "Fractionalize the ownership of them?"
+    },
+    {
+        "speaker": "A",
+        "text": "We're just going to stick them into the centralized space. Well, yeah, but where are we going to get our money back? I'm like, don't worry about it. We'll figure that out later. Right now we need to move cultural icons into decentralized spaces. It is better that they live in a decentralized space. I don't care which one we'll figure out. There'll be a vast set of experiments across everything from Decentraland to Yuga to 2030 50. That will come on which visualizations work. Eventually some of them are going to work and then I want to spend time. And so these important cultural objects, if it's important for the United States to have the Statue of Liberty, right. It's important for 6529 community to have on summer JPEG. We need these cultural options. They can't all, should not all just end up in the hands of like, the rich just trying to fight people. And then, okay, the model of like, my friend's giving me money and then I'm telling them I'm not going to bring it back. Has some limits eventually. And so he's like, so I said."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, well, you've got tolerant friends so far, that's all I can say."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, the first ones who sent me money actually are permanently on the, like, the good list, right? They're on the good Christmas list for the rest of their lives. Because literally the proposition was, hey, bro, I need like some eth."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm out of money. I've wasted money on monkeys."
+    },
+    {
+        "speaker": "A",
+        "text": "I wasted like eight figures on jpegs. And the most important thing in my life right now, I'm calling in all my chips and my friends, we need to buy more jpegs, you understand? Like, it's super, super important. We gotta buy more jpegs and cool. So what, when do you need it? Like in a month and six months, like tomorrow. Like a couple million bucks. An eth by tomorrow would be really great. Just, well, is there a company, like, just send it. You see this, this address? Just send your eth here. And what are we going to do? Well, I don't know. I'll set up a company, something we're just right now I need to eat because I got to buy this jPeg. Because you know, last summer I think as a collector I broke out of the Sian generative art. That's probably my relatively strongest area, right? And in like August or September, I was running around for some top chart of art pieces. But as was Suzu and a certain."
+    },
+    {
+        "speaker": "B",
+        "text": "Very wealthy European, right, a mutual friend."
+    },
+    {
+        "speaker": "A",
+        "text": "A mutual friend. A mutual friend and we're going after the same pieces. I was feeling pretty sorry for myself because I got like billionaires on one side and billionaires on the other side. And like sometimes I'd find the peace and I'd want it. And by the way, to make you."
+    },
+    {
+        "speaker": "B",
+        "text": "Feel better that our mutual friend called me up one day, he goes, fuck, I've got no money left. I need to start selling houses. So you're not the only one who ran out."
+    },
+    {
+        "speaker": "A",
+        "text": "Sometimes they're like, hold on, seller, I'm looking for ETh. And then our mutual friend would just come embody me. And I'm like, oh, okay, all right. So those guys that were there early, like I owe them. But it was interesting. So how do you scale this? Because me just putting my money and then my friends money doesn't scale. And then I said, I've been open with LP's. If I don't find a solution to permanently keep you in a decentralized space in ten years, whatever, we'll sell them. We'll give you your money back. But I think I'll find a solution. I've got a decade, I got a fund left of a decade. I'll find a solution. And then you can unlock large amounts of money. We have to. You can't say. We cannot say as a field. How much is meta saying they're spending on metaverse every year?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I can't remember. Tens of billions."
+    },
+    {
+        "speaker": "A",
+        "text": "This is some extraordinary number, right? And so we cant say, oh yeah, were going to build our own decentralized metaverse and were going to spend like, I dont know, $100 million. The other guys going to spend $10 billion, and ours is going to be better. And the other guys started with 3 billion daily users and were starting with 200,000 databases. None of thats going to work. Its not going to work. We have to scale up, we have to do things. We have to bring all our friends on board and then bring everyone else on board. And then convince companies and artists and sports teams and universities to issue nfts, not like some other goofy thing. And then bring capital providers on board, but try and find a solution to keep them on the decentralized side. Keep them on the. That it's important to them and maybe their future generations that maybe the world does not become an oligopoly run by ten firms. I don't think that's a good outcome. I should say this, I have no problem with any of the tech firms. They've done a wonderful job, they're incredible businesses. And what I would highly encourage them, they could change the course of history and solve this in an instant by themselves, committing to open standards. Because if they all commit to open standards, then it's game over. And I can, six, five to nine can retire."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean I'm having those conversations with people, it's early, but I'm having them because of, you know, and I can't disclose any of this, but by the stuff that I'm doing, I think there is a chance there, there is a crack in the window that I can get a crowbar in and potentially open it. The other one that I've looked at that I thought is maybe the easy way is NFT ticketing. Yes, it's a good one because everybody understands the idea of having a ticket on your phone. And if all you have to do is make some easy wallet that if you come to this concert by whoever it is, you have to download this and do that. Most music fans will do that. They will do a little bit of pain to have the unique experience of owning that NFT. That could be millions and it can happen pretty quick. So that's just another attack vector for you."
+    },
+    {
+        "speaker": "A",
+        "text": "Look, we didn't talk about this because I think it's less disruptive, but I'll flag it, since you mentioned it. We will also have nfts representing every other type of off chain object, real life object. It's just going to take longer because you need the bridge to off chain. And so hotel rooms, sports tickets, ad time on electronic billboards, sponsorships of stadiums, all of these things are going to become nfts. And one of the examples I give people that I think is interesting, let's say you were late in planning your european artist vacation, right? And you want, for some reason, you want to go to the training in mid August where like everyone on the planet wants to go to."
+    },
+    {
+        "speaker": "B",
+        "text": "No, you never do that. That's. Americans do that."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. But let's say all the Europeans, that's why it's full. Yeah, true. Right. And then you start calling hotels and they're like, oh, well, we're sold out. You're an idiot. You should have called, like, two months ago. Are they actually sold out? Is there nothing. You're wealthy, man. Is it likely that there's not some elderly couple in Manchester that's booked a hotel room in Barcelona and they paid \u20ac300 for it? And if you gave them \u20ac600 for it, they would happily come back in September because they're retired. But you only had that week off. Right? That's a great opportunity, but there's no way to make that trade because all that information, nobody has it. Their reservations and a bunch of reservation systems and booking.com or the hotel reservations, there's no practical way that you can."
+    },
+    {
+        "speaker": "B",
+        "text": "Ask them because these are centralized, so we see it with hotel rooms. Obviously, there's a centralized algorithm. If you made that, as you're saying, a distributed algorithm, then we've got a market clearing mechanism that is decentralized."
+    },
+    {
+        "speaker": "A",
+        "text": "It's."
+    },
+    {
+        "speaker": "B",
+        "text": "It's a great idea."
+    },
+    {
+        "speaker": "A",
+        "text": "Right? Imagine an open sea. It's whatever. W Barcelona. Is there w Barcelona? I assume it's W. Barcelona? Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "There is room."
+    },
+    {
+        "speaker": "A",
+        "text": "Right? Room 302. These nights I booked it because I wanted it, but also I have some reserve price that says, like, you know, if someone gave you $700 a night for this thing, I can go somewhere else. I don't want to go to Barcelona. Right? And for $700 I'll go somewhere else. And suddenly you will take something from being. It's just the same example as the galleries, right? The galleries have this completely fragmented, subscale, semi pointless order book, right? And then you have a global order book. The hotels have these subscale fragments, and I don't know how many hotels in the world. Tons, right? The order book is spread across hundreds of thousands of hotel databases. Right? And you could make it public. And then you say, I can see the global reserve price for a night in Barcelona at any type of hotel, on any type of floor at any night. All the inventory. Right? And I use hotel rooms as an easy example to visualize. This applies to everything. All of train houses. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And right now, for example, I never forget, there was that event in Coachella Valley, which was the desert trip, and it was the Rolling Stones, and it was Roger Waters and it was Bob Dylan. It was all of these, everybody together in one place. Paul McCartney. So I went to buy tickets for it because I thought, well, you never see all these people together. And it was the great baby boomer event I thought I should attend just to see the whole spectacle. So I tried to buy tickets and on Stubhub, you have your eyeballs ripped out. Ticket prices were trading with bid offer spreads of $2,000. And what it was basically was the high frequency market makers in the middle of that, taking these massive spreads, and you were not having a full market clearing event because there was basically an oligopoly of who was allowed to make prices. It was abusive. And that whole system, if it was done in this different way, when youve got liquidity providers, liquidity pools, and amm, before you know it, youve really created an efficient market. The one ive been looking into is time. Many people ask me for some of my time or you for some of your time, and there are ways that you could tokenize that time. So therefore, the market bids for that time, and you can decide whether you want to release that time. There are inefficient ways of doing that, but there are efficient ways as well where you can actually clear market time for people. And it actually becomes a way of organizing corporations. So at a corporation, the higher up you are, the more time demands that you have. But also, you can also be somebody who's a really in demand because you're doing too many projects at once and you're good at your job, and you've got all of these people wanting your time. If you're time traded freely within the corporation, you allocate resources effectively and you prioritize. There's some really interesting stuff around all of this."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, this is the very interesting saying that even in capitalist economies, most of the activity in corporations happens in a communist system. There's no the edges of the corporation and the edges of the corporation. Consumers operate in a capitalist economy, but the internal operations of any large organization have no price signals. None or very, very gross. Once a year. Let's do your performance review. You try and convince me that you're better than the other person at your level, and they'll give you $2,000 a year raise or something. There's no markets, right? And this is, I have a good friend from the first go around in crypto Twitter who I'm not going to docs, but this is very well known. And about a month after I booted up 6529, he dm'd 6529 not minds me and saying, hey, I'm really interested in these things you're saying for dinner. I was laughing. I'm like, that's enough. A call. And he's like, wait, it's you. No way. That's incredible. But it's very funny. Within, like, a few months, all my other account friends followed me, started dming me. It's interesting, right? I hope that was interesting. But anyway, what I started saying is NFTs are obviously trivially going to be vastly bigger than fungible tokens. They're going to be vastly bigger because on the one hand, they're the way you can represent arbitrarily the metaverse. Also they're the way once you have bridges to the off chain world, they can represent all assets in the world. And the world in general is non fungible. The only thing that is fungible in the world, financial instruments, everything else, is non fungible. And now we have a model to represent the world at large in a digital way. Composable ownership, transportation, financialization, all these things. Well, it's trivially the case that they're going to be bigger than fungible tokens, and today they're like 2% the market cap of fungible tokens. Come on, this is ridiculous. This is the single biggest mispricing in financial markets in the world. Right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so we cut to the chase because you and I can clearly talk for about 6 hours together. Okay, so everyone gets this. Now you've just let it's 2% of the current market, which is, I think, going to grow 100 x anyway. So this is ridiculous, right? Ridiculously. How does somebody, how does the average person, and don't say just buy something, because, you know, we've all bought something and most things are worth nothing. What is the single best way? Is it by saying, I'll buy some."
+    },
+    {
+        "speaker": "A",
+        "text": "Of the blockchains because I have an answer to this."
+    },
+    {
+        "speaker": "B",
+        "text": "Go on then."
+    },
+    {
+        "speaker": "A",
+        "text": "I have an answer to this. And this is based on watching my friends crypto civilians manage their crypto exposure over the last eight years. And the reality is, most versions of go buy something anything end in disaster. Ive told so many people since 2013 buy bitcoin, and a lot didnt. But even the ones that did somehow manage to lose money on it, which is incredible. My advice on the buying side tends to be very conservative relative to anyone on look, you should put an amount. I tell people if they want fungible tokens, buy the major ones in small quantities. Over time, assume your nfts you're going to buy are going to go to zero. Most nfts are not going to be a good financial investment. For someone who's not deeply into the NFT space, buying nfts as a way to fund your retirement is likely to end in tears. Also, and for normal people who are not used to the volatility of crypto, the best thing they can do is allocate a small amount of their net worth to it and allocate it and assume it's gone to zero. And when they look at me shocked, they say, okay, whatever number you had in mind was too much, just drop the number because otherwise whats going to happen the next time nuke 75% are going to sell and its definitely going to nuke 75%. Nfts in particular feel like altcoins. In 2013 I spent a year and a half in nfts. I look at bitcoin, ethereum now, they look like a treasury bond. Theyre so stable. The best thing people can do is educate themselves because the number of career opportunities in the space are going to be infinity. And whatever level you are in your career, your junior, your mid, your senior, you're an entrepreneur, you're a lawyer, you're accountant, you're a graphic designer, almost certainly your career path, your opportunities, your income stream. By orienting to this space, you're going to be better. And along the way, if you start doing things, you will get smarter about the space naturally, and then you'll make better decisions. You can't short circuit the fact that even, I mean, I consider myself quite sophisticated in crypto and half the time I wonder if I know what I'm doing. I've spent thousands of hours. And so the idea that there's some type of free lunch that you can tell someone, go, the only free lunch I would say is probably dollar cost averaging into bitcoin, ethereum, something else, and buy nfts for fun, that's probably close to free lunch, but over long periods of time and with huge drawdowns and whatever, so there's no free lunch of that type of thing. What is, though, a great idea is spend time on it because the single biggest, and this has always been the problem with crypto, it's been the problem for eight years. Problem. Today the ideas are there. We're short of people. And so if you are, I don't know, a bookkeeper, but you know how to read Etherscan, your hourly billing rate is going to triple."
+    },
+    {
+        "speaker": "B",
+        "text": "This is dead right. It's dead right. And so it's scarcely an unlimited demand."
+    },
+    {
+        "speaker": "A",
+        "text": "Correct. So instead of telling that bookkeeper out of the 5% of his salary he saved to go buy some tokens, my advice is learn how to read Etherscan. Say, hey, I can do crypto bookkeeping and your whole salary is going to trip. And then if you want to take some of that, because now you're in the space museum and buy some things. It's fine."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. I mean, my view has been that this is the biggest change of global business model weve seen in multiple hundreds of years. So if that is the case, exactly as youre saying, just go with the tide, just educate yourself and suddenly your value, your actual net worth goes up. I mean its hilarious, right? But thats as simple as that. You educate yourself in this space, your net worth goes up because your future opportunity set goes up because its moving exponentially."
+    },
+    {
+        "speaker": "A",
+        "text": "That's exactly right. And one of the things that people underestimate is the value of starting part time on the side. Okay. A lot of people look at it and say, well, I don't know, am I going to leave my secure life, go into the space and scary, right? Okay, do a little bit, spend a few hours on build up, supplement your current income at first, and then as you get into the space, then maybe one day the opportunity will come. Whether it's whether your life orientation is you want a job or your life orientation is your entrepreneur, you want to start a business. If you spend time in this rapidly expanding space, eventually you're going to see something that is likely a better expected value for your life than being in an industry that's growing at 5% a year. I've worked in industries of all types. There's nothing more painful than working in an industry that's slowly shrinking. You work just as hard as everything else, maybe harder, and you just can't win. It's just this dog fight with your competitors on who can grab the traps, and it's just painful. There's nothing fun about it. And so the economy does give us these price signals and they say, look, we apply your resources over, apply your labor over here. I think thats interesting."
+    },
+    {
+        "speaker": "B",
+        "text": "This was basically the fundamental principle for which I set up real vision crypto, the whole thing, because ive been following this space. Like you, I felt passionately about it and I thought people need to understand how big a thing this is. I created the rest of real vision subscription based, but we did it for free because it is a massive hack to understand what this is. Because if we got the fastest adoption of any technology in all history, it's growing at 185% a year, and you get some information, well, you're now a rarity."
+    },
+    {
+        "speaker": "A",
+        "text": "You're a rare PFP, and we all know how valuable those are."
+    },
+    {
+        "speaker": "B",
+        "text": "Exactly. Exactly. Listen, my friend, amazing conversation, thoroughly enjoyed it. I knew I would. And I really appreciate your time. You've spent a lot of time here helping us think all this through, and I think people find it super helpful."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, thank you for having me. This was a real pleasure. I mean, I feel like we are basically 100% aligned in how we see the world conceptually. And so it's been fun to talk about it. Hopefully, this has. Hopefully someone will listen to the discussion, and it will help change their life in some positive direction, and then that's the best we can hope for."
+    },
+    {
+        "speaker": "B",
+        "text": "Appreciate it, and I'm sure we will speak again."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. Thank you so much."
+    },
+    {
+        "speaker": "B",
+        "text": "Thank you."
+    }
+]

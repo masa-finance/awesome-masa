@@ -1,0 +1,399 @@
+Speaker A: Hey unchained listeners. As you know its hard keeping up with the fast paced world of crypto, so weve got just the thing for you. Subscribe to our free unchained daily newsletter at unchainedcrypto dot substack.com. youll get the latest crypto news in original articles from our reporters, as well as summaries of other happenings in bullet points. Plus our meme of the day, all curated and written by our amazing team. Its still your no hype resource for all things crypto, just in newsletter form. Sign up at unchainedcrypto dot substack.com dot. Again, the URL is unchainedcrypto dot substack.com dot.
+Speaker B: Not a dividend, its a tale of Tuqwan.
+Speaker C: Now your losses are on someone elses balance sheet.
+Speaker D: Generally speaking, airdrops are kind of pointless anyways.
+Speaker C: I manage trading firms who are very involved.
+Speaker B: Pollock Eth is the ultimate defi protocols.
+Speaker E: Are the antidote to this problem.
+Speaker C: Hello everybody. Welcome to the chopping block. Every couple weeks, the four of us get together and give the industry insider's perspective on the crypto topics of the day. We're doing a special late night episode. It is midnight here and we're all very tired, but we didn't have an episode for the chopping block this week, and so we thought we would record something for you. First up, we've got Tom, the defi maven and master of memes. Next, we've got Robert, crypto connoisseur and captain of compound. Then we've got Tarun, the giga brain and grand poo bah at Gauntlethe. And you've got myself, I'm a seeb. I'm the head hype man at Dragonfly. So we are early stage investors in crypto, but I want to caveat that nothing we say here is investment advice, legal advice, or even life advice. Please see chopping block that XYZ for more disclosures. So we're coming at you late at night. How are you guys doing on this? Very late, very well.
+Speaker E: Long time listener, first time caller. Just really excited to be here and chop it up.
+Speaker D: I just hope Tarun gets his pizza. I'm worried about him and his stomach. That's kind of my bigger.
+Speaker B: I did dye my hair, at least one of the colors that won the poll.
+Speaker C: So which color won the poll?
+Speaker B: Well, first of all, half of my head was shaved.
+Speaker C: That's true. There was one that shave it off. There was one that shave it off once.
+Speaker B: Orange or green one. I forget which one. So I had both. So it's a strong choice.
+Speaker C: Very nice.
+Speaker E: It's Max Cypherpunk right now.
+Speaker C: I'm glad that you're deferring to the chopping block, Dao. Unlike arbitrarily, you've learned a lesson about on chain governance, which is very good to see.
+Speaker B: I don't want Gary coming after me.
+Speaker C: I know. That's right. Well, so, okay, so this week, the news this week is all about regulation and legal stuff and Congress and people yelling at other people for being securities. Honestly, it's all kind of boring. And we were talking about like, hey, do we have to do another episode about more kind of legal naysaying? Like, there's nothing that important that happened this weekend. I, and we're also pretty tired. It's been a pretty grueling week as well. We thought maybe we'll shake it up today and try a little bit of variation in format. Instead of just rattling off the news and giving you vague opinions about them. We decided instead we're going to try something different. Tom, what's on the menu tonight?
+Speaker D: This is actually inspired by a tweet by Hill Dabi, who is our data scientist here at Dragonfly, where he had a nice little dune chart, but with some of the key information, such as the title scrubbed out and guess, people, just guess what the chart was. And so we're going to play a little guess that chart right now. So apologies to any audio listeners. We'll try to get some nice descriptions of what the chart depicts. So are you guys ready?
+Speaker B: Do you guys know what Geoguessr is?
+Speaker D: Yeah, of course.
+Speaker B: Yeah, we're basically, this is, this is the on chain geoguessrtaine a little bit for anyone listening.
+Speaker E: Tom has the charts. Haseeb Tarun and I do not know what chart hes about to put on the screen.
+Speaker D: I always know what chart im about to put on the screen, but here we go.
+Speaker C: All right, let me see if I can describe this chart.
+Speaker E: So the chart, oh, this is transaction fees per chain.
+Speaker D: Youre so confident.
+Speaker C: Okay, so the chart is, it starts at January 2020, and it shoots up basically up through July 2021 and then comes down quite a bit in January 2022, comes down again in the summer and then kind of hits a local bottom around beginning of 2023 and then starts going back up again. The biggest contributors? Ethereum by far. Then there's BNB chain, then polygon, then arbitrum and avalanche, gnosis, optimism. And there's tiny, tiny little contributions from everything that's not Ethereum.
+Speaker E: Right. And the key thing here is that. Okay, so I read too quickly. I was trying to do geoguessr style. I am not rainbow.
+Speaker D: It's in black and white and it's pixelated, so you might not be able to.
+Speaker E: So the y axis, it goes up to one b, and halfway up there, it's 500 m. So we're going with like 1,500,000,000. All the different chains are shown. But Ethereum is like 99% of this chart. And there's like a little bit of activity from like, whatever, BNB and polygon. But it's basically a chart of Ethereum.
+Speaker C: Yeah, last three. Okay. Something that daily maxes out at a billion and now is somewhere around 250 million.
+Speaker B: Could it also be stable coin volume?
+Speaker E: I think it's way higher than that. Like.
+Speaker C: No, because there's no Tron on here. Tron.
+Speaker B: Tron is gonna be a huge representative.
+Speaker C: Right. It's not even on this truck.
+Speaker D: Do you guys want a hint?
+Speaker C: No. No hints. No hints.
+Speaker E: No hints. If we don't get it in 1 minute, you're going to explain this to us. And at the end you're going to educate the listeners on why this chart's interesting.
+Speaker C: Yeah, I like that.
+Speaker E: Because you picked it out.
+Speaker C: I'm going to guess that it's transaction fees.
+Speaker E: That was my first guess. And I know I'm wrong because there's no way that there's a billion of transaction fees a day.
+Speaker C: Yeah, that doesn't seem right. Total fees paid? Maybe. I don't know. Maybe that does seem too high.
+Speaker E: Yeah. Total.
+Speaker B: Is it. Maybe it's issuance.
+Speaker C: No. A billion issuance a day. That doesn't make any sense.
+Speaker E: Yeah.
+Speaker C: Could it be like native assets moved, like the value of the native. Like the value of ETh, value of BNB, value of polygon move per day.
+Speaker E: Bad investment decisions per day.
+Speaker C: Lock that in.
+Speaker B: I mean, that billion a day must be anchored then.
+Speaker D: Yeah. Yeah, that's.
+Speaker B: That's the peak.
+Speaker D: No, your time is a bit off, Tarun. You gotta look at the time series down here. Is there no hints? Last guess.
+Speaker C: Give us a hint. Give us a. We're clearly waiting.
+Speaker D: It is a TVL metric.
+Speaker C: A TVL metric.
+Speaker E: Daily per chain bridge activity, maybe per day.
+Speaker C: Bridging in ass is bridged in perch. In bridging. TVL metric. EVL metric. Maybe like borrows. Like daily borrows borrows and that borrows.
+Speaker E: Gotta be less than that. All right, I formally concede. And give up on this.
+Speaker C: Any last guess?
+Speaker B: Go for it.
+Speaker C: All right, what do we got?
+Speaker E: Puzzle master stumped us.
+Speaker D: This is, again, this is Hill Dabi. This is tornado cash, TVL by chain. Oh, wow. So you see that big drop in August when the sanctions hit. So we do come back to regulation a little bit. Sorry. And then these other chains sort of popping off. Obviously, it's highly correlated with the price of ether. But you kind of see, you know.
+Speaker C: It'S like the daily per chain really threw us off. The daily per chain really got us off track.
+Speaker E: TVL and daily don't go together. That was true.
+Speaker C: Yeah, yeah, yeah.
+Speaker D: I'm gonna give this feedback.
+Speaker B: So, actually, one interesting question to me is, where is the BNB bridge hack? What? Do you remember when that was? Because I'm curious if you notice the BNB percentage is going up toward the last. I'm wondering if the BnB bridge hacker is part of the reason for that.
+Speaker C: Well, the BNB part also does look pretty stable, actually. I think it was just like. That's when BNB launched. Because initially it was ethereum, only it doesn't look like BNB grew or changed that much. It grew a little bit, I think, after July, after the sanctions hit. But overall, I think around the same slice.
+Speaker D: That's natural though, right? Because the BNB deployment was not sanctioned, but the Ethereum deployment was, which doesn't really make a lot of sense.
+Speaker C: True. I didn't think about that. It's the only legal place where you can interact with tornado caches on BNB channel legally.
+Speaker E: Yeah, sure.
+Speaker D: It's not illegal or it's not. Not legal. Yeah.
+Speaker C: Okay, understood.
+Speaker B: OFAC loves binance.
+Speaker E: Yeah. I think they're trying to advantage foreign actors.
+Speaker D: So.
+Speaker B: There we go.
+Speaker D: That was one. Do you guys wanna do another one, or is that too painful?
+Speaker C: Let's do one more. I'm sure the audio listeners are loving this, by the way. This is like a very audio friendly format.
+Speaker B: There's gonna be a lot of editing for this.
+Speaker E: Yeah. Hide your private key.
+Speaker C: Tom. Yeah. You know, there's a big. There's a big hack going around or something.
+Speaker E: Should we talk about it?
+Speaker B: Can we talk about the ledger ad? The chain thing?
+Speaker E: Oh, yeah. Where ledger is telling you to buy a new jewelry necklace and hang your ledger wallet around the neck.
+Speaker B: That might be the greatest guerrilla marketing ever.
+Speaker C: Okay, what are we looking at?
+Speaker D: This is a time series with a bunch of layer ones on them. From January 2022 to April 2023. Yes. Arbitrum. Starknet. Optimism. Loop, ring. Aztec connect, Polygon, zke, EVM, zksync, lite, zksync era. And then trend wise, it's kind of neck and neck. Arbitrum and optimism both hovering around this in aggregate, about two k each, contributing about 1000 dips during the summer of 2022. And then going into 2023, start growing again. Arbitrum growing a little bit more. And some of these other layer twos contributing more to the pie, exceeding three k in March and April 2023.
+Speaker C: All right, so this looks like a TVL of layer two's chart, except the units are off, right? The units go from zero to 3000.
+Speaker D: That's correct.
+Speaker C: Maybe it's like TVL and ether. Turns like ether.
+Speaker E: Number of contracts deployed.
+Speaker B: Yeah. Or daily users. No, the daily user's higher than this, right?
+Speaker C: Yeah, there's at least daily. That's too low for daily 3000 is definitely a lot more than 3000 daily.
+Speaker E: There's a lot of activity in the most recent month on Zksync.
+Speaker C: Well, zksync grew in TVL a lot.
+Speaker B: So they're like, that's also where all the, like, people are trying to airdrop farm the most.
+Speaker E: Oh, speculative air drop.
+Speaker B: Yeah, speculative airdrop farming. Yeah.
+Speaker C: It looks very proportional to TVL. So there's something that is, doesn't correlate with TVL, but is very different units.
+Speaker E: Hmm. Active developers, GitHub commit.
+Speaker C: You can't track that on Dune. How are you tracking that on Dune? All right, all right.
+Speaker E: That's. That's a good meta argument. Good meta argument.
+Speaker C: There you go. There you go.
+Speaker B: The only reason I'm not sure about whether this is total amount of ETH is that not all of these chains pay gas and ETH. If I remember correctly right now, it.
+Speaker C: Can'T be Eth, but they got to be.
+Speaker B: They can be rappingly small.
+Speaker D: Keep pulling that thread. Keep pulling that thread.
+Speaker C: Keep pulling that thread. Drune, pull the thread.
+Speaker E: This is like a chart murder mystery that's unfolding for our audience in real time.
+Speaker D: I'm like the dungeon master right now.
+Speaker C: Yeah, that's good.
+Speaker E: Roll a D 20 and see what happens.
+Speaker C: Is it inflows? Maybe it's like monthly inflows, because all these, I mean, I think that numbers have been going up basically pretty continuously. But no, that doesn't make any sense. Maybe it does.
+Speaker E: September 22 is sort of like the bottom of this chart.
+Speaker B: All the Solana Tvl clearly moved here.
+Speaker C: Whatever this is, because, like, no. Okay, so one k ether is like a million dollars. Like, that is not. It's way too small. Right? So, like, what is this one k thing? Is it bridge in events, maybe. No, that's too small.
+Speaker B: I do kind of like this. New contracts deployed or number of contracts interacted with or something. There's that. That like kind of could be in this range.
+Speaker C: Contracts deployed does make sense. Unique contracts maybe.
+Speaker B: Unique or contracts touched per day.
+Speaker D: They do contracts.
+Speaker B: Yeah, yeah. You can count which contracts were touched. And maybe this is bridge contract.
+Speaker E: I was going to make a joke about where Tarun touched the contract, but it's not funny.
+Speaker C: All right, I'm going to go. Final answer, unique contracts interacted with per month.
+Speaker E: My guess is going to be number of contracts deployed per month.
+Speaker B: My joke guess because I sort of think that's one of the latter two, is number of rug pulls per month.
+Speaker D: That is correct, Tarun. It's number of rug pulls per month. No, it's cost of publishing transaction data to a layer one, by the way, or twos per month.
+Speaker C: Wait, what?
+Speaker E: I was thinking along those lines, but I was like, I don't know if they would actually be able to get that.
+Speaker C: Oh, the total price paid in aggregate of posting call data to layer one over that month. Correct. I see, I see, I see. Okay, so that's actually quite interesting.
+Speaker B: Are we saying celestia is going to be making getting to a 3 million run rate per month?
+Speaker C: Well, no, 31 lower. Right. For the same amount of demand just to get the benchmark numbers right now, because it's actually kind of interesting. If you go back, I think it's about a thousand on arbitrum. Arbitrum is paying about what, $2 million a month to post call data. Optimism post right now it's 1800.
+Speaker D: So almost four mil.
+Speaker C: Closer to four mil per month. Optimism is about 1000. That's about two mil. And Starknet, Darknet, 93 eth. So that's like what, 100k or something? Or 200k.
+Speaker D: Deal.
+Speaker C: Fascinating. Oh, yeah. Okay.
+Speaker D: ZK sync is at 500.
+Speaker C: Yeah. So era is at 500.
+Speaker B: By the way, we should, we should maybe explain what, what these payments are for. Layer twos have some state management that they have to do on the layer one. The sequencer who's managing the state of the layer two has to post storage calls and other types of calls if there's a fraud proof, but there's not in any of these. And so that's what Hazib was referring to as call data is sort of the data that they have to post. It's kind of interesting that Zksync had such high cost growth relative to polygon.
+Speaker C: Polygon still has very low usage. I think zkvl I think theirs like 30 million or something compared to Zksync's like 250 million. But I mean everything, all these are like super young still.
+Speaker E: Here's a trivia question for you. If all of these l two s are spending about 3000 ether a month on the l one ethereum, what do you think the total ether spent in transactions on the l one would be in the absence of all of these l two s?
+Speaker C: The question like how much are they siphoning demand from the layer one?
+Speaker D: Yeah, I kind of believe in the induced demand theory where it's like a lot of the shit that's happening on layer twos is goofy nft stuff for people that would probably not happen on Ethereum today at these gas prices. And so it's like you actually just capture this new market that would be priced out otherwise.
+Speaker C: It can't be that there's nothing siphoned, but there obviously is some new activity that only makes sense at a lower price point.
+Speaker D: Of course.
+Speaker C: It's funny, I was getting into an argument with Kal Samani about this over telegram, which is always the best place to have arguments.
+Speaker B: He's a big layer two token bull short eth.
+Speaker C: Yes, he was making this big argument that the trade to do is to go long the l two s and go short ether and he thinks the l two s are going to siphon all this, but they're going to suck up all the value because ultimately they're closer to the user and users are going to interact more with l two s and basically the floor is going to drop out from under it because it's ultimately the l two s that are going to be valuable because they're directly user facing and they own the applications. I thought this was nonsense. And so my counterpoint to this, well, first of all I'm curious, does that hold any valence for you guys? This idea that the layer two s are actually potentially going to accrue more value than the layer one? If that's where the applications live, that's where all the users interact with, it's possible.
+Speaker E: I'm not going to say that his theory is automatically a good one, but if the applications are living on the l two s, and to Tom's point, you can have applications that couldn't exist on the l one's, then there'll probably be a lot of value accruing to the l two. But is it stealing value from the l one? Is it adding more usage and importance to the l one? I don't know. I mean with the switch to full proof of stake, you could also argue the exact opposite is that the l one is the economic security for all of the l two s and it will be significantly larger.
+Speaker B: Another thing to consider here is the main layer ones themselves are actually quite worried about this. And there's been a bunch of designs of things where the fees from the l two flow back more to the l one. So there's a thing called a based roll up from Justin Drake and the idea is basically to have some revenue share between the l one in eTh's case and the l two s and sort of like trying to force that. So it is interesting that some of the ETH researchers are actually sort of in the Somali camp that the L one needs to get some revenue from the L two.
+Speaker C: I would say that if you believe that's true, right. If you believe the l two s are siphoning value from the layer one, then that means you should. It sort of implies that you should also believe that lightning makes bitcoin less valuable because lightning is ultimately siphoning transaction fees from the layer one. Its got the same kind of substitution effect which makes bitcoin less valuable.
+Speaker D: That would be true if bitcoin had transaction fees.
+Speaker E: Yeah, I was about to say the same thing.
+Speaker C: Yes, but its supposed to, right? It does. And ultimately bitcoin is used to pay fees with.
+Speaker B: But you don't really use it for data availability in a dynamically posted manner like you do with ethereum. Lightning transactions are like I do a time lock at one point and I close a time lock another point. Everything stays off chain. There's not as much dynamic state updating. There's basically none. There's two UTX, sure, but it is.
+Speaker C: In the end siphoning demand for layer one transactions. Otherwise you'd be directly transacting on bitcoin if you couldn't use lightning to settle bitcoin.
+Speaker B: That hasn't been bitcoins problem for years though.
+Speaker C: I agree, I agree. Look, I'm not arguing that's bitcoin's problem, but I am saying that if you are going to be consistent with that view, that a substitution effect for demand for transactions lowers the value of the underlying layer one, then you should believe that lightning drives down the value of bitcoin. That doesn't seem plausible to me. The other thing of course, that on these layer twos, ether in its cash flow element, which is just how much ether gets burned because of transaction fees on layer one. But then there's also the element of ether as a form of money, which I would argue today is where the lion's share of its value comes from, because the transaction fees demonstrably are not that big. And on the l two s, like, eth is money on all the l two s, eth is what everyone uses. People don't use rap bitcoin, they don't use, you know, arb token on the layer twos as their form of money. They use ether. And so, if anything, these are etherized economies that are actually expanding the universe through which ether is used. Right? In the same way. Like, look, there are many ways to make the dollar valuable. One way is to grow the GDP of the US economy. Another way is to increase the tax rate. Another way is to get other people to use dollars.
+Speaker B: Do you think EtH held on layer twos is like a euro dollar? It's sort of like, yes, totally.
+Speaker C: That's a great analogy. That's a great analogy.
+Speaker E: Yes, but only if the time and cost bridge is full of friction. If it's literally extremely low friction to move ether in and out, then it's the same asset.
+Speaker D: I agree with the ceibs bigger point here, which is like, if you think about what factors go into ether's value today, it's like 95, 99% this money ness, and then like a small percentage, sort of the transaction fees and the burn and a lot of the economics that go into it. And it's like crypto people always sort of fall for this. Oh, well, like, this asset has these flows, and like, let's do like a discounted cash flow analysis. And it's like, maybe that's true for a very small number of assets, but for the most part, it's sort of this other thing.
+Speaker B: I mean, one question, and I was talking about this with a bunch of people working on who believe in the, like, there will be 5 million roll ups world. How does the user end up managing the UX for this? Like, none of the wallets that exist can really handle multi roll ups right now at all. Like, it's so clunky, right? You're like, going in changing rpcs. Some of them make you pay gas and native tokens, some make you pay an eth, you know, like, that part is still very confusing to me. And that's where I kind of can agree with the Solana maxis of, like, the UX is much easier at monolithic for the world.
+Speaker E: Yeah. This is not a dunk on Cosmos, but I personally find the cosmos ecosystem UX with multiple different chains to be, like, literally impossible as a user. I think to Tarun's point, if you have 1000 l two s, it's going to be the same user experience where it's like yes, it's possible to move between any two of them and all of these things, but what wallet software is going to make this easy and intuitive? And how are you going to do it? It's already hard. My network drop down just on the evm chains in metamask is too long.
+Speaker B: If you think about it. In ventraland there have been tens of companies founded for doing roll up as a service so that developers can start their own roll up the way they start an Amazon web service. Great, you can make your own blockchain easily. But then it's like no one is really funding wallets focused or even just some layer for making it easy for the end user. So I think that's going to be a big thing.
+Speaker C: Now part of the I totally agree with you Tarun. We funded a company recently called Caldera that does exactly this, does like layer two as a service. The difficulty, like you said, is that getting a bunch of layer two is up and running now. It's kind of doable. We have the open source stack. Obviously optimism is today the hot stack de jour that people are using. But actually managing assets across a kajillion chains super sucks. And of course we just had tax day in the US very recently. And obviously if youre trying to pay taxes across assets in 16 different ecosystems, its horrendous task, much less just being able to manage your own assets across all of them. And so I do think that at some point when the landscape settles down and the number of stacks settles down, there are definitely going to be software solutions that pop up, that start to get smarter about managing your assets. What you pay gas with meta transactions across different chains, consolidating assets for you and also helping it make it easier to do accounting across all your different chains. That stuff will come up as the space of chains stabilizes or the number of stacks stabilizes, but right now they're still super high flux. Anybody who's like, okay, I know exactly what I want to build for, I think people still don't know. It's still very much a moving target. A lot of people are like, okay, well, Solana is winning. I better build a bunch of tools for Solana. Or other people were like, oh well, cosmos needs to be taken over the world. I should build for cosmos chains. And now roll ups are the thing. It's like, okay, should I build this tooling for rollups. I think if you give it a couple of years, we're going to see some stabilization in the chains that people use and less turnover in the top ten chains by TVL. But over the last couple years it's been so volatile, I don't know how you would know what to work on.
+Speaker B: My suspicion is that there will be a lot of venture funding going into the moving up the stack. There's been so much money focused on infrastructure in the last twelve months and people are going to be like, oh shit, we actually need to really fund the basic new wallets and stuff like that because it doesn't feel like the existing wallets are willing to change their experience enough to handle this type of world.
+Speaker C: Part of it is fear too, right? Like the deeper you get into the guts of making decisions on behalf of users, the more risk there is for mistakes, for hacks, there's just more surface area to like mess things up. I mean, there was all this news this week about like really crazy hacks that nobody seems to know where they're coming from. Taylor Monahan, who was on the show recently, was talking about this like crazy web of old addresses that don't seem to have any ostensible connections to each other, many of which were super sophisticated, quote unquote cold wallet, quote unquote addresses that have been just getting sweeped by the same attacker. I've been getting more paranoid over the last, just like last month, I guess. I don't know if you guys are feeling similarly, but more and more, I just get paranoid about like, uh, I don't know, attackers are getting better and smarter and more sophisticated than, than before.
+Speaker E: Well, they absolutely are. I mean, you know, the underlying technology of security is not improving, but there's more sophistication outside that is improving. We were joking around about Ledger putting a really stupid ad on Twitter of buy the necklace keychain for your crypto hardware wallet. And that's obviously security moving backwards. But security in my mind is moving flat, and there's more sophistication around how to break security every single month. And I think a lot of it falls is rooted in human error in a lot of places, and I think a lot of it's in exposing zero days, so to speak. But I definitely think that over time, security is not fundamentally improving and there's not enough work spent on fundamentally improving the security architecture of crypto.
+Speaker C: I also think that large language models are going to be really good at attacking contracts and they're going to be like, I think the natural advantage to attack versus defense is going to grow with large language models, because I think it's a lot easier for a large language model to find a vulnerability than it is for a large language model to fix a vulnerability.
+Speaker B: Finally, the Cardano stans can win.
+Speaker C: Wait, what? Why?
+Speaker D: Formally verified.
+Speaker C: Oh, I see.
+Speaker D: Peer reviewed. Formally verified.
+Speaker C: Got it. Well, that's cordon itself, right?
+Speaker B: Yeah. Yeah. Well, the programming language that no one could use and at one point only had one transaction per block because the Eutxo thing was mixed up, but yes. Cardano.
+Speaker C: Okay. Okay. Cardano.
+Speaker B: These charts seem to have brought out the animal spirits. So what's the next?
+Speaker C: They're doing a good job waking us up.
+Speaker D: I didn't know you guys wanted another try.
+Speaker E: All right, chart number three.
+Speaker C: It's kind of like one of those Rorschach tests where, like, you look at a chart and it, like, brings up all the stuff you.
+Speaker D: That is true. That is true.
+Speaker C: Yeah, I like it. I feel like this is a good psychological test for how you feel about crypto.
+Speaker E: Yeah. It's the least fun party game that you can try at home.
+Speaker C: You have no idea what Tarun's parties are like.
+Speaker B: Did we need a disclaimer for the listeners to trigger warning? We're going to be playing the worst party game, but we're saving you from playing it. Do not attempt on your own.
+Speaker C: I actually would be super down for this party game if it was actually, like, a party game.
+Speaker E: I mean, we're, like, for crypto venture investors. Like, we're like. I think some of the only people that find this amusing, I think.
+Speaker D: I think I got a new one. Yeah, actually, this one. I don't even have the labels on it. Are you gonna be okay with that? Is that gonna be too hard otherwise? I think it's too obvious.
+Speaker C: Let's go. Let's go. No labels. I'm feeling risky tonight.
+Speaker B: I will say one thing. My first boss ever, very nice guy, this billionaire. The one thing he would fire people for on the spot was no units on their labels.
+Speaker D: That's legit. Cumulative time series. No units fired on the spot. I'm okay with that.
+Speaker E: So if it just said, like, 100, 200, 300, he was like, you're fired. Leave.
+Speaker B: Yeah.
+Speaker E: All right. So is Tom fired?
+Speaker C: It really is a party game. Wow. I mean, well, there are units on the. On the x axis.
+Speaker D: Yeah.
+Speaker E: All right, let's describe the chart so the listeners can understand what we're looking at, because we all just said, like, whoa. So the chart starts in January 2009.
+Speaker C: So my hunch, this is called a whale fin chart. I believe that's what this is called, or shark fin. Sorry, shark fin. Shark fin chart.
+Speaker E: My hunch is that we're thinking something in the bitcoin ecosystem, because the chart starts in 2009, and I don't think we would go all the way back if we weren't.
+Speaker D: Astute observation, Robert.
+Speaker E: So it looks like there's, like, no activity for 2000. 920, 10 20, 11, 20, 12, 20, 13. There's basically no activity on this until 2019. And then it starts to go way up. It peaks in, like, November 21, December 21, and then it goes back down to about half of its peak. And it looks truly like a shark fin. It's very symmetrical. It almost looks like a normal distribution.
+Speaker C: And there's also four colors, but we don't have the legend, so we don't know what those four colors correspond to. But it's mostly one color. It's like 90% one color.
+Speaker E: Yeah.
+Speaker D: Okay.
+Speaker E: We were talking about lightning before. My hunch is that this is a chart that has something to do with lightning or, like, a bitcoin type of transaction.
+Speaker B: Number of lightning nodes by client.
+Speaker E: It could be. Yeah, it could be based on client.
+Speaker C: It could be, like, 300,000 lightning nodes. It maxes at 300,000. That's too many. Well, the segue was 2017.
+Speaker E: Yeah, I don't know. Okay. Like, I'm just throwing ideas out.
+Speaker B: No, but actually, I remember binance only supported segwit deposits and withdrawals in, like, 2020. I remember there are a lot of people on Twitter, bitcoin Max. He's complaining and yelling at CZ about this.
+Speaker C: Yeah, yeah, but the chart looks like zero. It doesn't even look like it does.
+Speaker E: The chart looks like zero until, like, 2000.
+Speaker B: How about number of channels? In some number of nodes, I can see channels.
+Speaker C: I think channels make sense, but channel.
+Speaker B: By client, that's what I'm trying to figure out.
+Speaker C: Or maybe by capacity of the channel. And gray is zero to 100 or something.
+Speaker B: And then 300k BTC is 1.5 billion.
+Speaker C: No, no, I'm saying that it's the number of channels, but the colors are the capacity of the channel. They're like class sizes, right? So, like, small, medium, big.
+Speaker B: Has lightning capacity ever been over a billion? Because 300K BTC is a lot.
+Speaker C: No, no, I'm saying the units are not. The units are. Number of channels.
+Speaker B: Oh, number of channels.
+Speaker C: The colors are corresponding to the size.
+Speaker E: I don't think there's that many channels. That's a lot.
+Speaker B: I don't think there's that many channels either, because, like, aren't most of the channels, like, bit refill and, like, nothing else? That's what I remember.
+Speaker E: Yeah. I mean, it goes up to 300,000 whenever the.
+Speaker B: Also, like, what's this green thing that is like, was like, eating up demand through 2021 and then shrunk.
+Speaker D: Indeed.
+Speaker C: I feel like this, the green thing is kind of weird way down right now. Okay, Tom, you want to give us a hint? Can you give us a hint?
+Speaker D: You are correct. It is something related to the bitcoin ecosystem or related to bitcoin.
+Speaker C: Okay.
+Speaker B: Oh, what about wrapped? Wrapped bitcoin. Wrapped BTC type BTC.
+Speaker E: That's an interesting guess. I don't think there's 300. That there might be 300,000.
+Speaker C: There were more.
+Speaker B: Yeah. Rap BTC could have. Could have. Could have been. It might have been more. But, like, maybe Ren.
+Speaker C: Ren BTC.
+Speaker E: No, they never got that high. 300,000. Bitcoin is a lot of bitcoin, so.
+Speaker C: Yeah. Yeah. Okay. All right, Tom, next hint.
+Speaker D: I don't think I can give another hint because that would. I think that was a pretty big hint.
+Speaker C: I'm tapped. What is it?
+Speaker E: Yeah, what's the answer?
+Speaker D: Boom. It is BTC. Bitcoin.
+Speaker B: We were right there.
+Speaker D: Yeah.
+Speaker C: All right, so WBTC plus Ren, BTC plus everything. Okay, so it's like wrapped bitcoin or like HBTC.
+Speaker D: Do not forget HBTC.
+Speaker B: Also, the WBTC numbers off eth are sort of messed up post FTX. Right. Because they minted a bunch of stuff that wasn't collateralized.
+Speaker D: No, that was solid stuff. Yeah. Yeah, that was solid.
+Speaker B: But the, the weird thing is the solid and WBTC pools were sort of, like, drained to zero. Also, it got. It got a little dicey on.
+Speaker D: Oh, interesting.
+Speaker B: Right around.
+Speaker E: Good chart. Good chart.
+Speaker B: That one was good.
+Speaker C: Yeah, well, okay. That's solid.
+Speaker B: I was also about to be like, did dune index lightning? No way.
+Speaker C: Yeah, actually, now that you say that, I'm like, it doesn't seem like that would be anything for dune index.
+Speaker D: Yeah, I don't think they have lightning, but they do have just general bitcoin data now. So if you want to look at ordinal stuff.
+Speaker B: Yeah, yeah, that's right. There. There were ordinals.
+Speaker E: Well, I'm actually most interested in the fact that that chart has basically Halveda in, like, the past year or so. There's a lot of BTC that was on Ethereum. That is no longer on Ethereum, which is probably the most interesting takeaway yeah.
+Speaker B: Where did that BTC go?
+Speaker E: Just back to bitcoin FTX for sure. Alameda SPF.
+Speaker C: I don't think it's half of the outstanding bitcoin. That was a joke. Okay.
+Speaker D: Yeah. Because it peaked in April 2022 or May 2022. Oh, and then it was HBTC is basically nothing now. And then WBTC also fell quite a bit.
+Speaker C: It must be tied to lenders in some way. Yeah, like a lot of the lenders probably had to, like a lot of the lenders were using this stuff to get yield on bitcoin.
+Speaker B: Well, yeah, exactly. They were farming, farming on your behalf.
+Speaker C: Exactly.
+Speaker D: You could probably go check too, right? Because the WPTC redemptions are on chain. You can just see that probably was.
+Speaker E: Celsius and FTX and Genesis blockfi.
+Speaker C: All those guys who are finding ways to get yield with their BTC.
+Speaker E: The dinosaur graveyard of.
+Speaker C: Indeed, indeed. Yeah, that's very sad. Do any of you guys know like, how is lending making a comeback? Are people like putting their boots on again and facing the world or is lending just like kind of dead centralized lending? Centralized lending?
+Speaker B: Yeah, dead, dead, dead, dead defi lending is going up a little bit because of stake teeth.
+Speaker C: Yeah. Interesting. I would think that like, okay, there's like an extinction level event. There's no more yield anywhere. Like now feels like a time that like somebody should come in and start cleaning up and like, just offering like fairly low rates, pocketing big spreads, you know, like, just the lack of competition seems like it'd be a great time for somebody to come into the lending space. Why isn't that happening? And also like, okay, yeah, the risk free rate on dollars is high, but like, the rate on crypto assets is low. So like, well, it shouldn't be.
+Speaker E: I guess one of the things that would make it hard for a centralized lender is the fact that, like, right now borrowing costs in DeFi are like, hilariously low. It's cheaper to borrow in DeFi than it is any, like, borrowing costs. And DeFi are below the fed funds rate. Like, it's literally violates a lot of the laws of like, financial, fiscal.
+Speaker B: Yeah, I think you basically need, need rates to go down a bit.
+Speaker D: I've actually been thinking about this recently, Robert, to your point, there are hundreds of millions or billions of dollars in USDC sitting in Aave and compound earning 1.5%. Are these people who are using these as collateral? Are these people USDC that stuck? Why is this here?
+Speaker E: Yeah, it's a great question. There is so many stable coins earning so little in Defi. I think the reason it's there is because it's better than bridging it back to tradfi to get 4.7% or 4.1% on your Apple account or whatever is in the headlines lately, because it takes days to go back and forth, typically, and people want to have their stable coins available to buy the dip or invest in crypto. They don't actually want to leave the crypto asset purchasing ecosystem because crypto is still so volatile that if you can buy crypto and sell it for 1% higher, that's more money than you were expecting to make off of rates anyway. And you have all these people buying and selling crypto and just having it so readily available to take advantage of. Today, ether dropped 6%. That's more than a year of interest for someone who was in stables and was able to buy it and looking to sell it higher. Just in terms of that human market making, the expected returns are probably higher than the difficulty of, like, moving it to tradfi, missing an opportunity, whatever. Like, if you have stables, it's because you like crypto. You like crypto assets, you like to be able to trade in them and participate in them and all of these things. And it's like, it still is super high friction to move it back to Tradfi and back to crypto. And so there's a glut of stable coins in crypto that earn way, way less than the risk free rate. And I think people are mostly okay with that, where they're saying, hey, I'll just earn 1% or 2% because I know I can just turn it into ether and bitcoin in a second's notice in one block if I need to. And that's extremely valuable. And the reason why they're not bringing.
+Speaker B: It out of crypto, one funny thing is we're pretty close to the all time high, actually, of total stable coins. Right?
+Speaker E: Yeah, it's like 118 billion right now, I think.
+Speaker B: Yeah, 100. 3131 according to Defi Llama.
+Speaker E: Pull up the DeFi llama chart, Tom.
+Speaker B: Yeah, this one, the Defi llama stablecoin charts actually kind of. I mean, you can just see tether completely crushing it. Like, that's the number one thing here. You just see like, tether and USDC going in complete opposite directions at the end. Yeah, because it's crazy. Tether is near its all time high. It's not very far from its all time. It's only a couple of billion dollars away.
+Speaker E: Yeah. And USDC is quite far from its all time high. It's about half of its all time high.
+Speaker C: I mean, the other interesting thing is that there seems to be a pretty perfect substitution effect is that, like, the pie seems to be fixed of demand for stable coins, at least at any given moment in time. And so when one's going up, the other's going down. It doesn't ever seem like they're that correlated except when the whole market's going up.
+Speaker B: Yeah.
+Speaker E: Mouse over April 22, one year ago, what was the total table coins a year ago? Because there's 131 now. Let's add these up in our head real quick.
+Speaker B: It's like 161, 75. Yeah, 175.
+Speaker C: Yeah.
+Speaker B: So it's not down that much compared to, say, like, BTC and ETH being down 50%.
+Speaker C: Yeah.
+Speaker D: Don't have to do math anymore. Look at that.
+Speaker C: Oh, wow. We were off. Okay, it's 200 billion. So it's down about what? Like.
+Speaker E: No, no, market cap.
+Speaker C: Market cap.
+Speaker E: Not TDL.
+Speaker C: Yeah. Oh, oh, market cap. Sorry.
+Speaker B: Because, like, did they include ust? That's like, that's sort of one of the weird parts of the data.
+Speaker E: Oh, yeah.
+Speaker C: Terrorist link.
+Speaker B: But do we count ust?
+Speaker D: I'm guessing they did.
+Speaker B: Yeah. I just don't know whether.
+Speaker C: Because I just don't know whether it's aggregated. It'll show.
+Speaker B: It does show USTC, which is UST classic, which is, I guess, the successor. Yeah, yeah.
+Speaker D: Look, 16 bill right there.
+Speaker B: Yeah, yeah.
+Speaker D: Wow.
+Speaker C: Dramatic.
+Speaker D: Dramatic.
+Speaker C: Okay. All right, so if you ignore that 16 billion, it's still down. April 22.
+Speaker D: April was 187. And then now we're at 131. So, you know, it's down 20 mil. 20 bill, something like that.
+Speaker C: Yeah. Minus.
+Speaker B: But that's still not crazy, right? Like, it was down a lot more. Yeah, it definitely feels like it's not so, so crazy.
+Speaker C: Yeah, actually, it looks like right when terra collapse was the all time high for stable coin and market cap, the total circulating supply. And since then it's been, like, pretty stable after. I mean, it's gone down. It's like kind of trickled down every month. 20 million. Yeah. But very slightly. Not a very significant drawdown. I was just looking this up. You were talking, Rob, you were talking about, like, the risk free rate and the ability to instantaneously transfer stable coins in and out. I was looking at what are the rates that big banks are paying on cash deposits as kind of the analogy of like, okay, you can instantly turn. You know, you get the optionality. Chase is paying 0.02% APY on cash right now. So actually, if you consider stablecoins to be cash, then actually theyre getting higher yield than a bank account. Still, thats Chase might be unique.
+Speaker E: Anyone with access to a brokerage account can get higher yield. Yeah.
+Speaker C: Which is why right now, commercial bank deposits are kind of flying out.
+Speaker E: Yeah. And its why the profitability of the biggest banks like JPM should be going up.
+Speaker C: Unfortunately, yes. According to FDIC, the average APY across banks nationally is about 30 bps.
+Speaker E: That's so pathetic.
+Speaker C: That's crazy. Yeah.
+Speaker E: Yeah.
+Speaker C: Well, it turns out USCC is actually pretty good for being, like, instantaneous cash account.
+Speaker B: When do you think we'll be talking about tokenized treasuries over tokenized stable coins? Or like something that's like close to off chain yield?
+Speaker E: I mean, I think over the next two years, some incredible things are going to come to market that change how we think about tokenized dollars versus tokenized yield. I think it just needs to find a clear regulatory framework.
+Speaker C: Preston, I think the issue with real world assets, broadly speaking, this is super 1000 foot view, is that when we started, I remember when I first got into crypto, people used to talk about real world assets all the time, and that was like 2017, 2018, right. It was a big narrative, and that's six years ago now. Geez. At that time, I remember when people were tokenizing apartment complexes and they were putting them on the blockchain and being like, why isn't anyone buying my Miami apartment complex? And to be honest, people found these very random things that were totally illiquid and very hard to value and a lot of local knowledge, and were annoyed that, like, okay, I brought this thing on chain, I did all the legal work, and why isn't it magically liquid now? I think people had this mental model that blockchains magically make things liquid, which is obviously bullshit. There's nothing magic about tokenization that makes illiquid things liquid. And I think as a result, the order of operations through which blockchains approach real world assets was inverted. We started with the most illiquid, hard to value things that very few people want to own, like a specific piece of real estate in a specific apartment complex or whatever, as opposed to treasuries. Treasuries are the biggest market in the world. They're the biggest asset in the world. Huge amounts of demand. Nobody has trouble underwriting treasuries, but they haven't existed on the blockchain basically at all for the last five years. Now. A big part of the reason for that was that yields on treasuries were terrible. They were basically 25 basis points for the longest time. And when on chain yields were dramatic. Who cares? Why would you want to bring treasuries on chain now? It feels like that's reversing. There's now clearly more demand for treasuries on chain. There are a few projects that are doing it, and you're seeing a lot of on chain growth in the demand for treasuries. But more importantly, I think it shows that we're now thinking in the right order of operations about what kinds of real world assets need to build on chain and in what sequence they should be tokenized, as opposed to starting with a PE fund or some random piece of real estate or some other random thing that nobody else wants and nobody else knows even what it is. Starting with the biggest and most liquid assets and bringing them on chain, and following that sequence of optionality, such that eventually the marginal investor who's living in some random country around the world, it's like, okay, great, treasuries. I know what that is. I can see why I'd want that as part of my portfolio. And then I might want this other thing and this other thing and this other thing. And you get this menu forming in a sensible way that builds up this impression of, hey, I can go on chain and I can buy the kinds of assets that I understand and care about as part of a sound financial portfolio, as opposed to, I go on chain and I can find dollars and then really random stuff that some random entrepreneur decided they wanted to tokenize. And then basically, the crypto casino.
+Speaker E: And in between, we have nfts, which I think are a really fun approximation of assets that are semi liquid on chain.
+Speaker B: Yeah, well, we'll soon have the world coin orb identities.
+Speaker E: When are they coming on chain?
+Speaker B: I think they are. They are on their own l two right now. Right, but is poa. I think it's poa, though. I think the goal is for. They'll be posted. They'll be.
+Speaker C: Wait, they're on an l two. That's poa then how's it l two?
+Speaker B: Well, there's a plan to convert it.
+Speaker C: I see.
+Speaker E: You know what's funny? Like, we haven't used the phrase poa in, like, years. I feel like it was a phrase from 2017. But in a lot of ways, a lot of the l two s are kind of poa. Just, we don't use that phrase anymore.
+Speaker C: I think the term l two is a little bit aspirational at this point. Right. It's like l two kind of means. Like we have the goal of no longer being a multisig at some point, but basically pretty much all of these l two s, deep down somewhere there's a multisig. And the multisig, basically, if they wanted to, they could control it. Whether it's like controlling the fraud proofs and the fraud proofs are whitelisted or the code can be upgraded, or there are no fraud proofs and they crazy optimism stack or the ZK roll ups are all obviously super experimental. Everything is super protected. The reality is today l two is more like the destination as opposed to a description of the present.
+Speaker E: Well, I agree, but that's because I think it's technically extremely challenging to decentralize them fully, safely. Right. For all the different reasons, for sure.
+Speaker C: Yes.
+Speaker E: Right.
+Speaker C: I think it's correct that they're this way. I don't think they should skip a step.
+Speaker B: If we go back to our first chart, I mean, the question really is like, is that amount of revenue that has to be spent going to worth decentralizing? Right. Well, there's some sense in like, you.
+Speaker D: Missed the second chart, which was the profit, the delta between the fees they're charging people and what they're paying to settle. And so, you know, some of them are making what, like 1000 eth per month on the spread. So like, that is pretty attractive. But you know, it's also like going back to the Poa thing. It's like, you know, it's. There are levels to security. I think this stuff is all obviously better than like, you know, any sort of, you know, PoA network. And it's really what you're risking is the difference between from the last proof that was posted on chain. So it's like, you know, okay, sure, it's not ideal, but like, we're getting there. It's iterative.
+Speaker C: By the way, for those who don't know, Poa means proof of authority, which basically means a multisig, more or less.
+Speaker E: Yeah, it means you have the keys.
+Speaker B: But I will say there have been some successful chains that have transitioned from PoA to their own chains, like gnosis chain, which started as Xdai, which was POA, but now you can run a gnosis chain validator.
+Speaker C: Yeah. I've been wanting to write a blog post about this, and I've been caught up with a bunch of stuff, but I'm going to write it eventually. But I want to get you guys take on this in real time as I think through this thesis. So I feel like over the last six months, so we've been so we invested into Zksync. We've been big bulls of layer two generally. But I feel like lately the conversation has become, and I see this more and more, especially among the kind of crypto intelligentsia that layer ones are basically irrelevant now because. Or alto ones. Alto ones are basically relevant now because we have the roll ups. The promised land is here. We can finally get off this intermediate step, or like this ship that we were using to get onto the beautiful promised land of roll ups. And I guess my thesis is something along the lines of the all till ones are still really important and they're not going to go away. And I think they actually still have some structural advantages over l two s. Before I go into why, I think that I'm curious just to get your gut level reaction. Or do you think especially the EvM based Alt L one s, do you think they're like basically done once the layer twos are like fully feature complete?
+Speaker E: Well, I actually think the Alt L one s are long term more useful and more valuable than the l two s potentially, because, okay, interesting.
+Speaker C: Why?
+Speaker E: And maybe I'm tripping in like we didn't talk about this on like the last episode, or like I'm just imagining this, or maybe we did talk about this in the last episode, or maybe this was a conversation I just had with some crypto people, like on the streets of Brooklyn or something. But all the l two s are just EVM chains. And when it comes to being an application developer, even if there's 100 l two s, they're not really offering you any new capabilities that you don't already have for launching an application. And I give kudos to the Alt L one s that are actually providing different capabilities to application writers, mostly through choice of language or tech specs or whatever. But like Solana legitimately offers something different than Ethereum, Avalanche offers something different than Ethereum, Polkadot offers something different than Ethereum. All the l two s offer basically the same thing, and every l two offers basically the same thing as every other l two. Even if you have 400 of them, it doesn't really fundamentally change the toolkit available to, to application developers. And at the end of the day, the whole point of all of these platforms is to enable applications to be built on top of them. And so I think all the different allt l one s are more useful in that they offer different tools to developers that l two s don't. And so I don't think having 100 different eVM chains is the promised land 100 different eVM chains in my mind is almost exactly the same or is equally as good as having one eVM chain. I think it's a lot of wasted effort and a lot of wasted resources as a society. And I think there's so much more value that comes from totally different approaches that get tried than having yet another l two, which I think adds fundamentally nothing.
+Speaker B: So I would say that another interesting fact is that a little bit like Ethereum last bear market where the bitcoin maxis were constantly hounding them, but the developers were like dug their toes in. Like, fuck you, we're still going to keep building things here. I feel like Solana does have that and no other. All l one does have that, where there's this community of people who are like. They're like almost like a cult in belief on the developer side because we believe in particular attributes. Cosmos has that, but everyone in cosmos likes to cut each other. It's a knife fight constantly. A B. Anytime someone is like, hey, how do I make something easier for a user? Oh, guess what? Make another cosmos chain and add another token. It's like the equivalent of the XKCD, the comic on standards in technology. Like, hey, we have 15 standards. I'm going to make one that rules them all. Okay, now we have 16 standards. And like, Cosmos has that problem, like inherently in a way that I think is difficult. People are definitely working on trying to homogenize things, but I think sovereignty comes at a cost. Solano is actually weirdly, the developer community is so adamant there in a way that reminds me of Ethereum developers at the bottom of the last bear market, which is good.
+Speaker D: Yeah, I think that's honestly true for any chain. Like, you're talking about legit chains, legit communities, and legit developers. But go down Coingecko and choose any random 2017 era l one. And dude, there will be people in the discord, in the telegram, on the Reddit hyped about the chain for some particular reason. And it's sort of religious in some way. And it's not just number go up. People talk about applications and there are random devs, people who get married to a particular chain ideology in a same way. I just think they don't with l two. Maybe on a tangent from this topic, but something I was thinking about is it seems like to your point, around these layer twos as a service or stuff like base popping up, they kind of get co promoted or heralded by the chain optimism. These feel very cannibalistic right now. Optimism has to or any layer two basically has to make an argument as to why you need to sort of co locate on their chain with the other apps versus running your own fork of it. And that seems like a harder case to make over time or building on.
+Speaker C: Base, for that matter. Right? Isn't base directly cannibalistic from optimism? I mean, it's quite zero sum, right? They're the same damn stack, but one of them has coinbase distribution and one of them has op token.
+Speaker E: I'd be pissed if I was optimism.
+Speaker B: I don't think they're not. They definitely are not.
+Speaker C: Yeah, they're clearly celebrating this. I mean, I think it's not obvious. And the other thing too, I think in a lot of these cases, the token, at least in the short term, it's kind of a meme token, right? Obviously the fees for these layer twos, I mean, except for, like you said, the sort of the spread between the fees on chain and the call data they have to actually post, it's reasonable. What, like 20 million a year run rate or something like that. It's not a crazy amount of money, but it's not nothing. But it's obviously not worth like 10 billion ftv. So take Adam for example, right? Like atom. Obviously there is de minimis value going through the cosmos hub, which is what the atom token, actually Adam is dogecoin for nerds. Yes.
+Speaker B: It has no utility other than stroking Jaquan's ego, other than Jquan stroking his ego with it. There's really nothing else for a lot of these things.
+Speaker C: It is just the model, I think, for Op token. I don't know that there was a rational reason why when base launched, op tokens should go up. When base and the optimism, whatever it's called, the optimism, canonical distro. I don't know what your chain, whatever you call it, clearly these are in competition with each other and they use the same stack and you're going to deploy on one, you're going to deploy on the other. Base did say, well, we're going to give some of the fees to the optimism collective or whatever. But then they walked back how many fees they're going to give, and obviously they're not going to give the majority of the fees because it's their chain and they can change it at any time they want because it's up to them. Unless there's some contract, which would be kind of weird. So end of the day. And obviously they could always change, right? If there's going to be an alternative layer two stack that is open source and is totally license free. And they're like, oh, optimism wants to extract more rent from you. Coinbase can be like, okay, well, never mind optimism. We'll switch and do some regenesis or something and we'll create a transition plan to go to something else where somebody else gets the fees. So I just don't know. In the short term, I think nobody cares. In the short term, it's all meme warfare, and maybe appropriately so, maybe it's right for them to think about it as meme warfare. But I don't think the market's thinking about it this way because clearly when base launched, that was like, super. That's considered to be super bullish for optimism, despite the fact that now, okay, there's a third competitor on the layer two space.
+Speaker E: Well, I don't think the market thinks that much in general in crypto. Like, I don't think we have these, like, extremely rational markets where, you know, there's fundamental analysis done on all the different, arguably based.
+Speaker B: Not launching with a token, though, is very positive for op in the sense of securities stuff.
+Speaker E: No, I mean, it's going to be, you know, Coinbase runs a sequencer and the revenue goes to Coinbase Inc. Like, I don't think that's complicated.
+Speaker C: Well, I think. I think point is also a good one, is that the demand for investing into layer twos, there's only really today two tokens you can invest in, arbitrum and optimism. And if base had a token, there would be a third. And I think that's a simple enough analysis to be correct that that was good for optimism. That base did not launch a token.
+Speaker B: It's just buying BNB in late 2020. Op is the proxy, for better or worse. It's a 30 IQ move. But, you know, I am agreeing with the thesis that Haseeb was. I don't really have a strong view on that thesis, but I will say I think that's the logic people's, you know, the left curve logic is literally what I just.
+Speaker E: Right, yeah, well, there's no token, so they'll use op.
+Speaker C: But, like, so obviously, none of us are traders. As far as I know. You can see yourself a trader. I feel like you're the most active in markets of any of us. Okay.
+Speaker E: I am not active at all. I am not a trader.
+Speaker C: Okay, so none of us are traders. So to be clear, we're all totally incompetent at making these kinds of evaluations.
+Speaker E: But, yeah, nothing here is investment advice because we all suck.
+Speaker C: Obviously nothing investment advice, because we're all terrible at investing in short term trades. But I will say the longer I've been in crypto, the more that I've learned that the obvious thing is usually right. That's just, like, the number one piece of advice that I give to everybody in crypto.
+Speaker D: Ape token is trading at 4 billion fTV.
+Speaker C: You know, it's, hey, they're going to ship a metaverse.
+Speaker E: Ape is necessary to power the ecosystem.
+Speaker D: I'd be bullish if they launched. Earn optimism fork.
+Speaker C: Yeah.
+Speaker E: What? Ape is essential for future launch.
+Speaker C: Their own layer, too. Okay, I think we've technically hit an hour. This was a very experimental show. Also very late at night, so I hope you're feeling the late night chill vibes. Let's go ahead and sign off. I think next week we will do something a little more sensible than this, but I hope that this was coming at you with a slightly different flavor of chopping block. To be clear, this is what we used to do back when we were doing the, like, before the chopping block was a thing. We used to do Twitter spaces that was like the robot ventures, Dragonfly. Like, what was it like? Happy hours. Like, Friday happy hours. And we would just, like, talk about random stuff, and this was the volume.
+Speaker E: Have a beer and just, you know.
+Speaker C: Exactly. And then now we've gotten so professionalized, and we have an agenda, and we, like, talk about the news.
+Speaker D: We were gonna talk about Gary Gensler, and we didn't.
+Speaker C: Gary Gensler. See, we're always mixing up here at the chopping block. That's what the show's all about, keeping you guessing. Okay, that's it. Tarun, I hope your food has gotten here. I hope it's not too cold. What'd you order, by the way?
+Speaker B: I think turkey burger.
+Speaker C: Turkey burger. That's very healthy.
+Speaker E: We're not editing this out. We're gonna, like.
+Speaker C: That's what you would say if you ordered, like, two pizzas. You'd be like, I got a turkey burger.
+Speaker B: Look, Zuko's not listening, you know? Do you remember how Zuko was, like, a big meatarian and eating carnivore?
+Speaker C: Right?
+Speaker B: Yeah, yeah, yeah. But, you know, I feel like turkey burger is like, a cheap. You know, something people don't. Don't. Don't respect as much.
+Speaker C: Tarun, you know, that is a very feminized meal as a turkey burger. I can't believe you would.
+Speaker E: You don't respect it.
+Speaker C: I love it.
+Speaker E: You're showing hate.
+Speaker C: All right, signing off. Thanks, everyone.
+Speaker E: Tune in next week.

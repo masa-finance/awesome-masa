@@ -1,0 +1,270 @@
+[
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless everybody get 30."
+    },
+    {
+        "speaker": "C",
+        "text": "30, baby get 30. Baby get 20. 2020, baby get 2020. Bid to get 15. 1515 just $15 a month."
+    },
+    {
+        "speaker": "A",
+        "text": "So give it a try at Mint mobile.com switch $45 upfront for three months, plus taxes and fees. Promoting for new customers for limited time unlimited, more than 40gb per month slows full terms at Mint mobile.com dot. Hey, everyone, if you like this podcast, go behind the paywall to get privileged access to the smartest minds in finance. Join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten to get 10% off our central membership for the first year. And now to today's episode Holy Gone."
+    },
+    {
+        "speaker": "B",
+        "text": "And it's Tokenmatic. Took the world by storm a couple of years ago, and it's a layer two solution that's built on top of ethereum, and they've made headlines by partnering with some of the biggest people in the world, from Disney to Starbucks to Meta. I really want to find out the story of what this is all about. How do they get here and where the hell are they going? The world of crypto is an incredibly exciting journey that we're all going on together. We don't know where it's leading to, but we know it's going to be absolutely massive. Join me, Raoul pal, as I guide you on our adventure to discover just what this new world will look like. Anthony, fantastic to have you on real vision."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay. Hi. Hi, Rol. Nice. Nice to meet you in person."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, nice to meet you. So before we kick off, give us a bit of your background and how the hell you got into this in the first place."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, I am a very traditional guy. I mean, I was working at Deutsche bank for 17 years. And so what happened? Well, I have a good experience. I mean, I cannot say anything bad about them. And yes, it's part of our life. Also, you were in investment banking then. You have also your past, as we all have. No, but in my case, yes. I mean, I started in private wealth in Spain. I started an MBA, and then I went to the headquarters in Frankfurt. Then there I was working in. For me, what I have been always very curious is I always want to understand how a bank as a whole was working then, not only a single silo, let's say. And then, for this reason, I was a couple of years in investment banking, I was in a strategy, I was in risk. And my last stage, let's say, or my last activity was related with a digital asset platform for corporate banking. And then why I reached this point is basically because, as I was explaining, in 2011, I finished my MBA, and then I found two colleagues, Jordi and David. And then in 2015, Jordi, we were meeting always all the eight colleagues from this MBA, from this group, who were meeting for a dinner, who were speaking about different things. And Jordy was saying to me, Tony, there is one thing named ethereum, that it's an atomic bomb. And I was saying, okay, why? I mean, which is the price? Fifteen cents. And I said, okay, then, good luck. But he was telling Bartoni, this allow us to. To perform a smart contract. Everything is programmable. This will change the world. And I was saying, okay, Jordy. Because Jordy was the typical technical, a little, in a good sense, not a nerdy guy. I mean, the typical guy obsessed with computers. Then, six months ago, we met again. Okay, Tony, remember ethereum? Yes. Which is the price? 1.5. Oh, lucky you. I mean, you were lucky, but I'm doing this and doing that. He was involved in a lot of different projects. And then, six months later, okay, the price is 15. And then I said, okay, Jordi, we need to talk. Something is happening here. And then, thanks to him, I just started to attend Defcons headcounts. I studied a course on blockchain development. Very basic, of course. I am an economist. I cannot compare to these big guys. But it's true that I decided to be more involved in this world. And then after that, with Jordy, that was more the technical guy. There is another guy, that is David. David was working for big corporates, related with technology. And then he's the guy who is helping us to organize internally. And then I am the guy who is organizing more externally and more the structure, if you want. We decided to create a company that was ident three. And our first objective, this was in 2019, was to create solution based on zero knowledge, proof this technology where you can show that you know something without revealing the data. At the end, you can always answer yes or no, but you cannot lie. I mean, that's very important. And then our first project was related with identity. Identity. We're going to speak about that later, maybe. And yes, if I can continue. How I arrived to Polygon. What happened afterwards is we realized that in order to vote, you need to scale and then the second application of the zero knowledge proof one is identity. It's very clear the second is related with scalability. And then we decided to create Hermes. Hermes. At the end that we developed Hermes as a payment platform. Originally it's a voting platform. It's a way to scale voting. The only thing that we did is we adapted that to a payment platform in order to have some traction and to have users. And then two years ago, Jordy especially, I mean, he realized that he was able to create a ZK roll up, that it's compatible with the Ethereum virtual machine. Okay? Which means a Zkebm. Why is this important? Because all the smart contracts that are running on layer one will be able to run in layer two or in this deck roll up. Okay. This is something that also we can develop during this interview. But yes, my, as you can see when you were asking for my background is a very traditional one from one guy coming from the finance world, being in each time more involved in the in blockchain and at the end creating a company with two good friends. I mean, something so easy like that."
+    },
+    {
+        "speaker": "B",
+        "text": "And then how polygon. Then you got to the point where you see Polygon because you're creating this identity and other things on blockchain using ZK rollups. Looking at that technology, which is very new at that point. I mean, this is very, very new. But then why Polygon? What happened?"
+    },
+    {
+        "speaker": "C",
+        "text": "It's very easy. I mean, what happened is that Polygon originally was matic. They were three Indians, Anurag, Sandeep and JD. And they created a side chain. Okay, this was almost five years ago. They started to get some traction. And then during, yes, the spring of 2020, a serbian guy, Michaelo, arrived and said, okay, what we can do more than only a POS is like a layer two platform with different scalability solutions being one POS or proof of stake. That is the original that we all know from Polygon is where the NFTs and the Defi is trading today. Still, it's very important. But also other solutions like Super Nets, other solutions like the CK roll apps. And then with this spirit of, in the spring of 2020 and the summer of 2020, Polygon decided to acquire ZK teams, ZK Technology. And then they acquired maiden. This is a team based in the US where they named Polygon Zero. That is also one team based in the US. Brendan and Daniel Maiden is Bobbin. And then the third group was asked Washington, the Hermes team. And they acquired us. Why? Because what we proposed in the summer of 2020 was the roadmap to develop the ZKVM, the ZK roll up, totally compatible with Ethereum, that we are the only team in the world that as of today is able to deliver or is in a good place to deliver this product. I'm sure that during the next months, a lot of. I don't like the word competitors, not for me. There are partners, other teams, they will develop the same solution. I mean, this cake is picking up for all of us. But yes, why Polygon acquired us was for the solution. And then once we were inside, we realized, okay, guys, we are already part of Polygon. Scalability is the first problem that we need to solve. But for me, what will bring us to what I named Web 4.0 is the identity factor. I mean, scalability is fixed, but the identity solution that Polygon ID can bring, that is a solution based on zero knowledge, proof without revealing identity. You are a cell signal identity. You are taking care of all your data. You are the owner of that. Then we thought, okay, it makes sense to include this in the Polygon family because this will be the next step for this Web 4.0 that I think it will be more real in 2024. That's what we have in mind."
+    },
+    {
+        "speaker": "B",
+        "text": "We're going to come into all of that because, as you know, I'm super interested in all that idea. But talk me a little bit about polygon itself. What is the vision there on the overall, and then we'll talk about what your vision was and what this web for is. But what is Polygon's vision? What has Polygon out there to do? Because people don't. Some people know about it a lot, obviously, and it's been a very interesting chain, but other people don't know as much about it. So give people the understanding of, okay, what this is and why it matters and what the vision is."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, I mean, polygon at the end is a layer two, okay, is a solution that helps to scale Ethereum. So easy like that. And here I think it's important. And, well, you have been in the markets longer than me, but in 2019, the price of Ethereum was at $300. Okay, we agreed that there was a beer market, that there was a problem. But for me, the real reason, and I have spoken a lot about that with a lot of people, is because people realized that the Ethereum was not able to scale. And if it was not able to scale, it was going to die. Okay, very simple. Obviously, there are a lot of different reasons, but for me, this was very, very, very important. What happened that in 2020 different teams and Ethereum foundation was there. But Jordy and other ones realized that theoretically there was a solution to fix this. That is the ZK roll up. Okay, then there was a way to scale Ethereum. But until that day, the only team who was able to scale in a minimum way Ethereum, and still today, is the more implemented solution was the team of matic. And what they did is that they found a good compromise. They said, we have 100 validators, okay? It's not totally decentralized, but it is still better than one, two, three validators, as we have seen. And at the same time, this allow us a good finality, a very cheap transactions and a lot of throughput. Okay, this was the trade off."
+    },
+    {
+        "speaker": "B",
+        "text": "And this is done by batching transactions, right. So you use less of the Ethereum chain and you use the layer too. So it kind of puts a whole bunch together, batches them, so it's cheaper and faster to do stuff."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. You gather all these transactions, you synchronize all these nodes, these 100 nodes, and then as this is correct, you send this to us in a hash to Ethereum. And this is the anchor or the stamp that shows that everything has been performed in the right way and that if you were to recover, okay, for this reason we said that we are using the security of Ethereum because at the end it's over anchor. Okay, I think that's really important. But as I was explaining, this was in 2019, but in 2020, when we saw that there was another solution, a scalability solution, they realized that POS was a good solution, maybe for gaming, especially for gaming a lot of transactions with very low value, but in the future for bigger amounts of transactions with more security, was not the ideal solution. And then here is where they decided to acquire ZK rollups. And at the end of rollup, it's also a solution for scalability."
+    },
+    {
+        "speaker": "B",
+        "text": "Explain to people what ZK rollups are, because a lot of people say, oh yeah, ZK rollups, but they don't know what they mean. So explain what they are and why they're faster."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. No, here is the same way. Here we are gathering thousands of transactions. And through a computation with GK technology, what they are able to ensure is that all these transactions are correct. And then they are sending this hash to Ethereum. Okay? And here in the optimistic roll ups is what they named the proof of fraud. And here what we are ensuring is that the proofs are correct. The secure roll up is the main difference with other possible solutions. And this is what is so powerful because you don't need to disclose any data. Everything is set up in stone. In the future you can come back and retrieve the data if required. But what is more important is that you have the fuel security of Ethereum, and this is the solution that is more compatible with the original Ethereum platform. Then what is important is they realize that they had. When I speak that here we're speaking already about two solutions of layer two. One is the pos that I defined, another is the roll up. But also, and this was one idea of Mihailo, especially at the beginning, is you can for specific use cases, for almost for app change, you can create what we call a supernet, that is a network for your specific use case that afterwards it can be connected with other networks or with other supernets in order that they are interconnected. But you have the ownership in your company somehow of this data, and then you don't need to share the data with third parties. Then this is the more centralized but the less secure. In the middle we have the POS that is half, half, and then the one that is more decentralized and more secure, but also more expensive by definition, is the CK roll up. Then with this we are offering different scalability solutions to our users or to companies or to games or defi that is approaching us, but always with the objective of becoming a layer two for Ethereum. That is our mission."
+    },
+    {
+        "speaker": "B",
+        "text": "And so it all exists on the same chain. On the same chain, but different solutions of which you can choose what you want from that."
+    },
+    {
+        "speaker": "C",
+        "text": "No, they are different chains, but they are interconnected between them. And then somehow there are riches that we are creating between them. And then at a certain point you decide which is the one that is fitting better with what you need. Okay. Nevertheless, it seems that. I think it's very important that, well, you are aware, people know that the ZK rollout has been in testnet since Christmas. Since the 23 December there has been zero downtime. I mean, I think that that's very important. There have been more than 400,000 transactions without any error. If it's not yet deployed, it's because now there are some audits ongoing. And for us, security is very important and we want to do things in the right way. But yes, I don't want to say a specific timeline, but let's say in two months it will be deployed to Mainnet, that I am quite sure about that. And the good thing of the ZK roll up is that any big corporate will be able to create, if required, their own roll up. All these roll ups will be interconnected between them or there will be a roll up for gaming, a roll up for DeFi. And anyway, as we are able to batch so many transactions, because there are a lot of technicalities brought by the team of Myden, by the team of zero, that is improving a lot. All the system, the price of the transactions will be residual, will be zero, zero, four. I mean, it will be almost negligible. And with this, what I mean is that we expect that in the future the major part of the transactions will run on top of the CK roll ups. And in fact, some projections that we have is that in two years we can multiply by 50 the volume of transactions that currently Ethereum has."
+    },
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint mobile, unlimited premium wireless."
+    },
+    {
+        "speaker": "C",
+        "text": "Everybody get 30, 30, baby, get 30, get 20. 2020 to 15. 1515, just $15 a month."
+    },
+    {
+        "speaker": "A",
+        "text": "So give it a try at mint mobile.com switch. $45 up front for three months, plus taxes and fees. Promoting for new customers for a limited time, unlimited. More than 40gb per month slows full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "C",
+        "text": "To give you a perspective about how powerful we think this can be, I think that some people is not realizing how powerful and how disruptive this technology will be for Ethereum and for the blockchain world, because it's maybe the tool that will help us to become mainstream."
+    },
+    {
+        "speaker": "B",
+        "text": "How does value accrue in a layer two world? Ethereum value is Metcalfe's law and a bunch of other ways of looking at it. But the layer two is a kind of renting block space from. Do we just have to think of these as entirely separate things, or are they interconnected? Does it accrue? I just don't know whether the number of transactions, which you'll have a lot more than the Ethereum chain will have, whether that accrues to you, the Ethereum chain or, I don't know how are you thinking about it?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, here, obviously, tokenomics is one of our challenges, and I think your point is a very valid one. In fact, we are somehow thinking and thinking on what should be what we named Polygon 2.0 and possible togonomics to somehow create, create this whole ecosystem. After the discussions that we have had, I mean, basically layer two, each user, although zero, zero, four, a negligible price, a residual price will pay for transactions. Okay, that's clear. Then this price, what happens that with this price more people want to become a validator? Like in Ethereum, it's very similar. Then more people wants to stake a certain amount. In the case of Ethereum, 52 essers. In the case of Matic, we don't have a minimum, but a certain amount of Matic and they will receive a yield that is related with the number of transactions. According to that, what happens that if there is more demand, because there are more transactions and at the same time more people wants to become a validator, more people wants to stake tokens. Then with these two forces, this is what will help to increase the value of the token of matic. In this case, also in our case or in the ZK roll up, we will use ether also. And with this, what will happen that we will try to increase also the value of Ethereum. Then there is a synergy here between the layer two and Ethereum. Because at the end we are Ethereum believers and we want to contribute in the development and the security of Ethereum. Now, do you remember that there was the merge just six, seven months ago? And these are important things also for us. Then in our case it's very simple. Also in the future, if someone wants to create a tailor made app chain, they will need to stake an initial amount of tokens of matic. But if they want to use their own token, if they want to use ether, if they want to use Matic, we are very agnostic on that. Then for us what is important is to have transactions. And for this reason, the fact that now we have more than 220 million smart contracts deployed on top of Ethereum, we have 180 million users, then we are the most used platform, thanks mainly to nfts and defi. This is what we want to continue doing and this is our objective. Bring incumbents, bring the mainstream force to polygon in order that the token is accruing value through this mechanism that I."
+    },
+    {
+        "speaker": "B",
+        "text": "Just explained you the Polygon team have been astonishingly good with business development."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Yes. I mean, here I think that Sandeep is, is the master and commander. I mean, he's one of the three indian guys. And when I am with him, he's, well, he's unbelievable. And I can tell you, and I hope it doesn't sound in the wrong way, but I think we have brilliant, brilliant technical guys. I think that what David, Jordy, Brendan, Daniel and Bobbin are doing, JD, is amazing. But after that, what maybe also people is not realizing is that we have an extraordinary bd team. As I said, it's led by Sandeep. This guy is everywhere and he's closing deals like, well, it's difficult to follow his rhythm, let's say. Also now, I mean, also we hired, that is the president of Polygon Labs and he's helping a lot also to add some structure. And he's also now helping a lot on the deals. But in the last months and before we had the structure that we have today, the way that Sandeep has created this team, his hunger, his way to onboard as many companies as possible has been outstanding."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Because I've not seen as good bd. The two best bd teams I've seen. Really. Are you guys in Solana where you struck big deals with big people while a lot of others haven't managed to do that? And it's incredible to see. It's obviously the fact that Polygon is a great product. It's very fast, it's very efficient. It's an easy sell as well."
+    },
+    {
+        "speaker": "C",
+        "text": "No, I think that here are some deals that are more to give visibility if you want. I mean, they are important. But Starbucks at the end, what is showing to the world that we are able to create a loyalty program on top of Polygon, that it's very basic, the Disney accelerator also deal. But at the same time, we are trying to bring obviously all the ones related with Defi and gaming that the major part of the games are on top of Polygon. I mean, we are one of the replayers there. But also, maybe they are not so famous. But also the case of Reddit, the case of Reddit, by the way, was really organic. We were a little bit surprised also internally because it was more the community that decided to mint the NFTs on top of Polygon, which is great news. We had some discussions. This one is really, really organic and."
+    },
+    {
+        "speaker": "B",
+        "text": "That'S a really big thing. I think people don't really understand. I've been following this because I've got this other business, science Magic Studios. I think we're speaking to you guys already on a bunch of things. And I've said, look, Reddit is the prime example of how to do this carefully and well for somebody who's not native in the web three space, I think it was brilliant."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, for us it has been a great use case. But maybe also when I joined, because coming especially from the banking world, what I tried is to onboard all these incumbents, all the financial institutions. And here maybe we did an experiment or we did a PoC in Singapore with GP Morgan and there during a fair we should see a CBDC or a stablecoin. And it was able to be traded during this fair and to spend according to certain, in certain venues, which was great. And I can tell you that now we see a lot of movement or a lot of traction in asset tokenization. I think that's very important. Payments, data management, that's something that maybe people doesn't realize. But the way, how you monetize the data of your users, how you provide a better service to them without disclosing the data, that is very powerful. And as I was saying, this loyalty and rewards program, I think that's very powerful. It's something that is coming, obviously. As you were saying, we can speak also about the deal with meta, the deal with stripe. These are giving us a lot of visibility. They are great and we are very proud with the meta team. I was also heavily involved and they are very nice guys, nothing bad to say about them. But for me is more what is hidden below the surface, what is coming. And I think it's very powerful."
+    },
+    {
+        "speaker": "B",
+        "text": "Now, you've spoken to the financial institutions. We talked about Singapore. I just had Nandu Mahanty on again, who's the chief fintech officer, lovely guy. And he kind of really understands this. And he's blown away by India, where the rest of your guys are, where there's a huge revolution going on. But you've dealt with a lot of the financial institutions. Where are they in thinking about, we're seeing some people putting some assets, testing it out, but really the whole securities industry, the derivative industry, all of this should be on chain. And where are you when you have those conversations? Because I know there's a team at Nasdaq looking to this. There's a team at the London Stock Exchange, but nobody's moving. And Australia just stopped their project."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. No, precisely. Well, 1 hour ago or 2 hours ago, I was one of the top five big banks, I can tell you. And the use case was this one on options and derivatives. Yeah, because it's nFts. Exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, it's OTCs, are NFts, just change the name?"
+    },
+    {
+        "speaker": "C",
+        "text": "Totally, exactly. I mean, it's what I told them. I mean, obviously you are the masters, you are the ones who know the product, but we have the technology, I mean, we can help you with it. With nfts, we have the platform. Also, we're speaking that maybe we can create a supernet or a secure lab specific for them. I mean we have everything. But also, I mean, in the last year I can tell you that they have spoken with a lot of regulators with a lot of the question for the financial institution is precisely that, no, it's the regulation. I mean, they are very, very scared and especially, and you know that better than me. I mean, after 2008, all of them are very scared with possible fees. In fact, a lot of them have paid, and I know very well, billions and billions, billions of billions that were impacting in bonuses and the results of the company. I mean, that's very clear. And my impression is that they know that this is happening. They don't want to lose the opportunity here. Everybody wants to be the second, but nobody wants to be the first. That's my point. I mean, all of them are ready to jam, but all of them are looking to one eye to the regulator. And for this reason, I mean, I have been speaking with central banks, in my case, I have been speaking with members of the UK parliament, for example, with members of the European Parliament. And what I'm trying to explain is I cannot influence what they decide because they are more clever than me. But at least I'm trying to explain that this technology, if used in a good way, like all the technologies, could be very helpful. Obviously used in the wrong way, like all the technologies could create a lot of problems. But I think that legislators and regulators need to be more clear, need to set up a basis that, okay, the banks and the financial institutions are confident about what they are doing. They are not going to be penalized. And then after that they are ready to jump to this wall."
+    },
+    {
+        "speaker": "B",
+        "text": "My guess is we are going to have to see a leadership from either Singapore, Switzerland or maybe even India to show how this technology is used for settlement, how much capital it frees from the system, not having t plus two settlements, all of that stuff for margin, for derivatives, all of that stuff. We need somebody to do it because it feels that the US doesn't want to regulate because it's scared. Speaking to same thing is the US is not really interested, but Switzerland, Singapore, India and a few others are like, we can move this forwards."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I'm living in Switzerland and companies is located in Switzerland and then there. I have spoken a lot with SDX, with the stock exchange for digital assets of Switzerland. They are very open, they understand the product. Singapore, as I told you, these two use cases that we have done are in Singapore with financial institutions. I think still I am more positive maybe than you on UK."
+    },
+    {
+        "speaker": "B",
+        "text": "I still Risi Sunak likes it, he gets it. He's a hedge fund guy."
+    },
+    {
+        "speaker": "C",
+        "text": "And obviously they lost after the Brexit, they lost a lot of business from the city. And they need to do something different to recover that and blockchain, to become a hub for blockchain could be a perfect opportunity. Why not? And at least they have the flexibility to try to do it. I don't know what they will do. And this is a midterm shot. Also a very important Middle east. The guys are very."
+    },
+    {
+        "speaker": "B",
+        "text": "Dubai and Abu Dhabi."
+    },
+    {
+        "speaker": "C",
+        "text": "Dubai, Abu Dhabi, now Saudi Arabia, they are calling us. They are very interested in projects they want to implement. India, maybe, I don't know India. The question is that the developer basis is so powerful, but the government seems a little bit reluctant. Let's see, let's see which one is more powerful at the end."
+    },
+    {
+        "speaker": "B",
+        "text": "But they're just launching a CBDC and then just showed me the application. It's an unbelievable app. He couldn't believe it. He's like, I've never seen anything like this. Yeah, so they are going that way. So it kind of makes sense."
+    },
+    {
+        "speaker": "C",
+        "text": "And you are right also, but, well, let's see, because, you know, and you have spoken about that in the past about programmable money. And also China is launching a CBDC and they will be able to trace all our movements. And for example, in this case, I think that somehow the privacy that zero knowledge is providing could be very useful. That doesn't mean that you can do whatever you want and you can be always in a black market because if required, law enforcement with certain mechanisms should be able to guess or to have information about which is the malicious actor that there is behind. There are mechanisms to protect the people who are doing the right thing."
+    },
+    {
+        "speaker": "B",
+        "text": "We gave up all our privacy when we took mobile phones and we used Google. You know, there's a friend of mine who has a whole business that all it does is look for mobile phones, big data patterns, and figures out who's the criminal making calls with the connections and all of this stuff. And all the police forces use it. So we all think that it's about privacy of money. It's like we gave away our privacy. Yes, it went."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, but we have still somehow the dream that, okay, of course you should do the things in the right way and you should be whitelisted. No, I mean, I should pass. For example, when I go to whatever, to HSBC, I pass my kyc. But if afterwards I want to go to Santander or to Deutsche bank, why I need to pass the KYC again? The only thing that they need to know is that I passed the KYC. Yes. Then I'm waitlisted. That's all the things that they need."
+    },
+    {
+        "speaker": "B",
+        "text": "To know that brings us on to the next part. Right. The thing that you're working on this kind of web for id and identity. Identity and KYC, India did it, but not on blockchain. And they've got something called Indiastack and this Huda system where you can use your fingerprint and it'll give you KYC to the bank. You can open a bank account in seconds. Now that's a centralized system, et cetera, et cetera. But the technology is now here to do this at scale. One of the reasons why institutions can't use DeFi is because of KYC and AML. But the technologies you've got can solve for this and keep everybody hidden from who they are. So it's not like, oh, JP Morgan's coming into to borrow money or lend money on that platform. So let's just talk about the finance side. Then we'll get into the big id conversation as well, because I think that's."
+    },
+    {
+        "speaker": "C",
+        "text": "Really important, maybe in this specific use case. But we want to be the entry door for web three. Okay, what this means, obviously, this KYC with a bank is the last stage. It's the more complicated one. I mean, I have spoken with the FCA in UK and it will be very complicated. Nevertheless, it's doable, which is different. But for example, we will start with gaming. In gaming, you need to know that I am older than 18, that I am not from one band country. Then I pass one very simple qIc. I am whitelisted through a zero knowledge proof, but I am owner of my identity. Then when I go from one game to the other, I can show you that I passed a KYC with another game. This will be the first stage, second stage, defi. And you were saying that is, maybe there will be. I need to add a proof of address. Normally that's something very typical. Then I will be able to show that I passed my proof of address from Switzerland. And then from there I will have the second level. Then Polygon ID. Right now, or objective is to become the entry door for web three. Okay. Where you have the ownership of your data, but you are able to interact with different, with different web pages."
+    },
+    {
+        "speaker": "A",
+        "text": "You're a podcast listener and this is a podcast ad. Reach great listeners like yourself with podcast advertising from Lips and ads. Choose from hundreds of top podcasts offering host endorsements, or run a reproduced ad like this one across thousands of shows. To reach your target audience with lips and ads, go to lipsonads.com. now, that's Libsyn ads.com."
+    },
+    {
+        "speaker": "B",
+        "text": "So my theory on this is this is, and you might have heard me talk about this, this is really fucking urgent because we have the US election in two years time, we have AI that now scales so you have no idea what content or who is real and who's not, what is propaganda, what is not. And I don't think the governments are prepared to go into an election. It was hard enough to deal with Facebook two elections ago, let alone this. And so I think it's urgent that we have some form of authentication of people and content, which is I think what you're trying to solve here. And I thought about this at lengthen and I thought the only way of doing this to onboard this many people into web three is to go to Google, Amazon, Microsoft, Facebook and get them all together and Twitter, maybe get them all together and say will you accept each other's token so I can use my Amazon, so I do my Kyc on Amazon, zero knowledge. I can then go to Twitter and log in and it knows it's me, but it doesn't have to see me because it's zero knowledge. And so therefore everywhere I operate, whether it's in a game or anything else because this is 3.5 billion people. But let's assume they can do 3400 million people pretty fast by using a token system and they allow it to be interoperable. That's the key thing because the Amazon one must be interoperable with Google and vice versa."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean you can imagine, I mean this will be massive. I mean the question here, because we have spoken with some of these companies, if they really want to do it, that's the first question. And also the problem of these big companies is that they are very slow that we are able to create this alliance somehow it seems difficult to me. But I agree with you that in this world where they can manipulate us through our data and it's exactly what you were explaining a solution where you can, and this is exactly what happened to us somehow is okay, if you remember there were some different opinions on catalan independence and politicians and okay, here you can have your view. I mean I am not trying to convince anyone and I have obviously my one, but more than that is what we were thinking at that time. And this can apply to a number of places around the world is you should be able to vote on what you want, obviously in a responsible way with respect, being able to argue and to explain your reasons. And this applies to a lot of countries or I mean of cultures around the world. But the fact that we can create this kind of privacy. I think it's something almost mandatory in the current world. Otherwise, it seems to me that, as you were saying, it will be very easy to manipulate, honestly."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. We saw it from Brexit. We've seen it in Spain. We've seen it in anywhere where there's a very polarized view. We found other state actors in the middle manipulating people's opinions to make them angry with each other."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "Because it breaks the fabric of society. So it's very advantageous for whoever, without naming any of these big sovereigns, to do this because it weakens the country. And I'm really worried about the AI element now because of how fast these things can scale. I can create video content within the next six months. It can use an algorithm and say, every single person who has this kind of view, send them this. These guys do that. And we have no idea."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Unbelievable. And also. Yes, through eI. Exactly. I mean. I mean, your image will be able to say what these people want to listen. I mean, if you think about it, we should be a little bit scared."
+    },
+    {
+        "speaker": "B",
+        "text": "Because you can have Joe Biden saying, we're going to nuke Russia. It can be looking exactly like CNN headlines, and you'll see it in your Twitter feed. You won't think, I need to check CNN, and here's Joe Biden telling you something. And it's all possible now."
+    },
+    {
+        "speaker": "C",
+        "text": "Totally, yeah. This is one of our concerns. And here we are trying to create all this structure. Nevertheless, it's true that still, 2023 will be the year of the implementation of scalability. It should be the year of the implementation of the roll ups. I think that's something critical, because without the roll ups, there is no option also to expand any identity solution. I think that's our priority. But yes, this is something that we are already working on for the midterm."
+    },
+    {
+        "speaker": "B",
+        "text": "And how does it work when ethereum themselves have their own roll ups? Does it matter? There's plenty of room for everybody. You think? How are you thinking through the evolution of the space?"
+    },
+    {
+        "speaker": "C",
+        "text": "Here is what I was trying to explain. And in fact, for example, when Jordy was in the ideation phase of the Ziggurat lab, he was working very closely with Barry Whitehead, that is from the Ethereum Foundation. I mean, as I say, we are friends and we are colleagues and we are partners in this journey. And as I always try to explain now, we are fighting for this piece of cake, the polygons, solanas and arbitrums of the world. But once we have this scale, if we work together. Also if somehow we are able to explain to regulators the good things of the blockchain, I mean, we're able to explain why. Because I always speak about infrastructure. I'm not speaking about any kind of speculation. I mean, we are building product, that's what we are doing. Nothing else, nothing more. Technology. Exactly. Technology. Then this cake can multiply and could be a whole city. I mean, then for me there is place for everyone. And I can tell you we are open source. Totally. I mean, I think that's very important. Everyone can go and look to our proverb that is working, can access to our code. Obviously what we are not allowing is that one guy take it, copy it, and it says that it's their own work. Then for this reason there is a special license that is not allowing this. But you can take and you can create your own roll up. If you are doing that for yourself or to develop your own technology, that's not a problem for us. Then we are very open to the community. We are receiving a lot of feedback from developers. And for me, if we are able to multiply this cake, the growth will be exponential. Then we are working together. And if Ethereum has roll ups, it's better for all of us because we will have roll ups on top of Ethereum."
+    },
+    {
+        "speaker": "B",
+        "text": "Also, I wrote an article about this in global macro investor just last weekend. How I'm trying to explain this to people is Ethereum is the digital nation state, and you are building businesses within that country. So you might be Microsoft or Google within the United States, building on the infrastructure of the education system and the financial system and all of the things that are there that make the United States a very good place to build a business. You're doing the same in Ethereum. What happens is everybody can do well. You can build all these businesses in this Ethereum digital state. And that's what the really big thing is here."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, and maybe to say in a different way what you just said. To be clear, polygon is the execution layer for this, okay? There is super net, there is relapse, there are pos, but we are the execution layer. The value will be here. You will be able to transact what will happen. That at a certain point we gather all these transactions and the notary service is Ethereum pump and then you have the security of that. But what they expect. And maybe, okay, if it's an NFT that the value is 10 million, you prefer to do the transaction in Ethereum because it's more secure. But basically for me the execution layer will be polygon or any other layer two, then layer two so easily, like that."
+    },
+    {
+        "speaker": "B",
+        "text": "Final question, what are you the most excited about when you're looking at all of this? Right? You've got so many opportunities ahead. And I'm not talking about what Polygon's most excited about. What are you personally thinking? This is going to be really cool."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, honestly, I can tell you why I started this with Jordy, and this is the truth, because we had twelve different reasons to start. But at the end, my life, okay, was not perfect, but I mean, and you have been in a bank. My position was quite good. I was living in Germany with my family. Nothing bad. But for me, its legacy is to live a better world. And specifically in my case, where they banked. And then I was thinking, because if we are honest, maybe you and I, that we are living in developed countries, we don't need blockchain, in the sense that with our credit card, we can go everywhere. We can pay in dollars, we can pay in euros, in swiss francs. Obviously, we love, or we like Defi, we like investing, I like it. But when I am thinking in countries without infrastructure, when I am thinking in this, 2 million people without identity, okay. Last year I was one year through Africa. And I will tell you three very specific use cases. I was in Nazi Valley. It's the biggest refugee settlement in the world. Almost 200,000 people living there without identity, which means that they have no access to a bank account. Then you can imagine. Second thing, we were in Kenya. In Kenya, the woman, normally a woman, are picking the grains of coffee by hand. I didn't know, but they are doing that by hand. Normally with a kid on the back, they are receiving $1 per day. You can imagine if through blockchain, we can create a traceability that ensures that the coffee is coming from here, through legal conditions, whatever. And we are able to somehow these intermediate or that the fees of the middlemen are lower and more value is coming to this initial farmer who is going to the harvest. You can imagine the impact of that. And the third use case, I was in Zimbabwe, one of the poorest countries in the world. The remittances, they are charging 28% fees to the remittances. And when you can do that on top of polygon with a stable coin, I don't care which is stable coin. And honestly, if at the end it's not Polygon and it's another, I don't care. But I am trying to bring very clear used cases where I am very, very excited. And what I think we need to solve obviously in the meantime to have adoption and we need to onboard gaming, we need to onboard defy. We need to onboard in companies asset tokenization payments. What I was telling you. But if somehow we can bring this technology to these people or the financial repression in South America, it's also a use case where we are working with local people not to help their inflation and the stable coin is something that is very helpful for them. Then if we are able to solve problems for real people without infrastructure, that's what is really driving me every day. That's the real answer."
+    },
+    {
+        "speaker": "B",
+        "text": "That's an amazing vision. Listen, really fantastic to talk to you. I'm just really excited about what you guys are doing. And just good luck with everything. Good luck with the launch of the zero knowledge. It's a big step. The space has been waiting for this whole evolution. It's been talked about, worked on by people like you guys for a long time now. It's the next step of what I think comes and I think it'll play a big part of the narrative because it's a very narrative driven space. I think it'll play a big part of the narratives going forwards because it's an entirely new step change. Much like the layer twos were three years ago. It was a big step change. There's another one coming and it's really exciting to see."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, honestly. Well, thanks for having me here. It's a privilege. And in this space everything is going so fast. I mean, two years ago we had nothing, or one and a half years ago we had nothing. We're starting to code when I see where we are. This is thanks to the amazing technical team and all these brilliant minds. Yes, I hope that in one year we can speak again. Maybe I can give you an update. Maybe the entity is already there. I hope that the world of the secure olives is already deployed and creating a lot of use cases. I think that could be very interesting. I think 2023 is the year of the scalability and the roll ups. Let's be focused on that. But yes, thanks for having me here. And yes, looking forward to speak again."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I can't wait to hear the story as it develops. Thank you, my friend."
+    },
+    {
+        "speaker": "C",
+        "text": "Perfect, thanks. All."
+    },
+    {
+        "speaker": "B",
+        "text": "My key takeaways from this is really how fast these guys are moving all of the various tack vectors. They've got to expand the usage of this chain and how they're so open minded to everybody else in the space and let's say, let's do this together and I love Anthony's broader vision of how he can really help people. This space gets financialized really fast, but there's a real kind of societal critical mission here. I also think that the identity conversation, one of the things that I've been talking about a lot, is a really important conversation, and I'm hoping people watching this are starting to realize the scale of which we come at this problem and how fast it's coming and that I know there's a lot of people working on the technology in this space, but we need adoption at scale as opposed to trying to find some small use cases. And we need people like Polygon to solve this. I know it's a lot of responsibility, but somebody's going to have to do it, because if not, we could break society. Apartheid."
+    }
+]

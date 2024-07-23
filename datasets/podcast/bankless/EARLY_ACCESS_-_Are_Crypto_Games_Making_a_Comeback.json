@@ -1,0 +1,726 @@
+[
+    {
+        "speaker": "A",
+        "text": "You're going to see it start out international. You're going to see most of the users in Asia, you're going to see most of the users in Eastern Europe. And then as you build that side of the game, the labor side, you're going to see the capital side flow in and build the sustainable game economy. And I don't think the question is whether you can build a crypto game that works. There's no rules that say you can't. And what we're doing on Defi is kind of like an early iteration of a crypto game. Anyways, I think the question is, can you build a sustainable economy?"
+    },
+    {
+        "speaker": "B",
+        "text": "Welcome to bankless, where we explore the frontier of Internet money and Internet finance. This is how to get started, how to get better, how to front run the opportunity. This is Ryan. Sean Adams. I'm here with David Hoffman, and we are here to help you become more bankless. The question today, are crypto games making a comeback? So we did a bunch of episodes."
+    },
+    {
+        "speaker": "C",
+        "text": "Are we back?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I don't know. We're going to find out. We did a bunch of episodes on crypto gaming last hype cycle, and retrospectively it was a little bit early, David. But hey, that's what we say."
+    },
+    {
+        "speaker": "C",
+        "text": "Front running the opportunity, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think so. And this time things are whole different. We got cheap block space, we got better wallets. We've got games that are maybe actually fun to play. We've got Vance Spencer and Michael Anderson on the podcast from framework. They are investors in crypto gaming. They're on the frontier here, and they're here to make the case for why the time for crypto gaming is now. Crypto games are making a comeback. A few things we talk about. What's the state of crypto gaming as we head into 2022? Number two, why are guests think now is the time for crypto games to take off? Number three, which chain is going to win all of this crypto gaming activity? Is it Solana? Is it avalanche? Is it an ethereum? Layer two, there's actually a pretty compelling answer here. Number four, we talk about this one simple trick to route around iOS store and Google Play store, our current gatekeepers on the crypto gaming market. And number five, if everything they say comes to pass, the big question is, what does this mean for our assets? What does this mean for ether, for Defi tokens, for layer two, block space? David, you're sticking your finger in the air, pointing to the sign up. Why is this episode to you?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think just adjacently the story of framework. Vance Spencer's bull case for DeFi episode ten I think with us really early was one of the strongest articulations for Defi. And that's where framework as a VC firm cut their teeth and also made a killing, right? Investing in things that you will be familiar with back when it was super contrarian post 2017, Ico mania, things like Aave, Synthetix, Chainlink that just rocketed out of the bear market of 2018 to 2019. And so this is where framework got their start. And now is a very large VC firm, like large assets under management. Large, like hundreds of millions of dollars. And I think the story of like, how Vance and Michael, like, went from DeFi in the last bull market into gaming was because they had such a strong performance that they were like, well, now we have so much capital and we need to deploy it into a sector. And right now the rest of crypto is not large enough for us to deploy our sector, so we need something larger to deploy it to. And they came to the conclusion of gaming not exclusively, but gaming is something that they have been investing in for their, their thesis for a number of years now, because gaming is a way bigger industry than crypto and so that could actually absorb some of the investments that they need to make in this space. And now two years later, some of these investments are starting to bear fruit. This is my quick TLDR history of framework from my perspective, and I think it makes sense if, when we get to the part of why gamers and crypto people are really similar, if you believe that thesis, it makes sense that gaming is the next big frontier for crypto. If that story tracks with reality, then framework will have themselves set up because gamers like Vance said, they're always online. They're familiar with digitally native things. They've got technical chops, they've got computers. And so all of these ingredients are coming together. If you believe the thesis that Vance Sprentzer and Michael Anderson are about to make you very bullish on, and most."
+    },
+    {
+        "speaker": "B",
+        "text": "Importantly, maybe there's 3 billion of them out there, gamers out there that could become crypto users. Guys, we're going to get right to the episode, but first we disclose both David and I own some IMX tokens. And of course, you got to know Michael and Vance, they are venture capitalists, so they have a fund that invests in crypto gaming. So of course they're going to be bullish on crypto gaming, a particular set of assets. Guys, let's get right to the conversation. But before we do, we want to thank the sponsors that made this episode possible, including our number one recommended, crypto exchange. The way you get into crypto, that is opening an account on Kraken. Go check them out. Bankless nation. I couldn't be more excited to introduce you once again to Vance Spencer and also Michael Anderson for the first time, who lead framework ventures. Longtime bankless listeners should be familiar with Vance. We've had him on the show a couple of times. This is Michael's first time on the podcast, but they're both at framework. Michael, welcome. Vance, welcome back. It's good to have you guys."
+    },
+    {
+        "speaker": "D",
+        "text": "Thanks for having us."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, we want to dive into a topic we haven't talked about in a while, but I think it's going to be an important topic. It's gone dormant for a while, and this is the topic of crypto gaming. I can tell you we've explored this thoroughly, though it was probably most like two years ago. Let me read you some episode titles to get us kicked off here. The crypto gaming revolution. This is with Ariana Simpson. The emerging metaverse. This is where the folks at Galaxy, Galaxy Ventures, web three gaming 101. Amy Wu, the dawn of crypto gaming. We had Robby on what's real about crypto gaming. This was all, like two years ago when it felt like the crypto gaming narrative was, like, really taking off. And, you know, if you remember that time, Axie was hitting, like, all time highs and had grown from, like, I don't know, $10 million in market cap to multiple billions. Since that time, things have really quieted down. And I want to find out from you guys, do games still need crypto? Like, why? What's the story with games and crypto? Has it died? Is it set for a resurgence? Give us the take. We'll start with you, Michael."
+    },
+    {
+        "speaker": "D",
+        "text": "I mean, I think the thesis here is really simple. If you have two games and they're the exact same game, the same gameplay, the same game mechanics, one of them is in a digital ecosystem, like a PlayStation or an Xbox or computer that we're used to playing and have been for the last couple of decades. The other is the exact same game played on the exact same venue. But you actually own parts of the game, whether it be your characters or resources or attributes within the game. And you put that up against anyone who's an avid gamer, and you say, do you want to play this game or the other game, the one with ownership or the one without? I think just about everybody would say, okay, if it's the exact same game. And I'm going to enjoy it the exact same way. I want ownership, and I think we haven't. What we've been waiting for and taking it back to what you were talking about, Ryan, is two years ago, we didn't really have any fun to play games. There were sort of random number generator based games with two dimensional artwork. And what's happened since is there's been multiple years, hundreds of millions of dollars invested into games and game ecosystems that have been developing and gestating and are now kind of set to launch. And games are really, really massive markets, but they're also really hard to build. And so I'm excited just because we've been waiting and investing and building, and it's kind of time for that to come to the forefront."
+    },
+    {
+        "speaker": "B",
+        "text": "So, Michael, let me take the skeptic take for just a minute because we started this podcast on maybe a skeptical kind of lens, and I don't think we'll conclude there, but we got to start there because there's a lot of questions. You said that if you give any two games, one game, you can sell your assets, you have ownership of your assets. Gamers will prefer that rather than the other. Right? That was my thinking, too. I legitimately thought this. I think. I still think this. And yet we haven't seen that played out. Because if you call that thing an NFT right now, we've seen the gaming community kind of rebel against this. I must have watched like an hour and a half long video about how NFTs and games are just like, it's the end of gaming. Gamers, like, consistently, all sorts of threats. I know gamers like to complain, but there's a consistent chant of we hate nfTs. So it seems like if you call them NFTs might be in trouble. Maybe there's a branding problem. And then there's also this other accompanying thing, which is like, some gamers will tell you now, if you start monetizing it, it becomes too real for me and it becomes more like a job, and you actually take the fun. I go to games to escape. These have been two of the persistent, I think themes from gamers is. One is this anti NFT thing, they see it as exploitative, maybe. And another is like, if you inject economics into it, then it becomes like a job, and I start to lose the virtual escapism element of my game. So what's your take on that?"
+    },
+    {
+        "speaker": "A",
+        "text": "I've got a take on it. So, like, asking the, you know, the people who play or who like, go to kotaku, which is like a game rating website who play like super intense games like Dark Souls or Final Fantasy. Asking them if crypto gaming is real or the right thing to do is like asking traditional finance if defi is interesting. It's just not the right segment. It's not the right job to be done. The real answer of who's. And it's not about if crypto needs gaming or if gaming needs crypto. It's what users want. And I tweeted this out a few days ago, but when I was early in the NBA, top shot discord, it was filled with people trying to turn $5 into dollar ten, or people trying to turn their time into any amount of money. And if you think about the crypto use cases that we have today, like Defi is like a power user segment, NFTs are kind of this whole other thing. Games are really the only thing that can fulfill this need of like, you know, I've got some money, I've got some time, I'm trying to play a game. I want to have some ownership. And sure, like the people who play like Gears of War or Final Fantasy, like, they're not going to want the NFTs, but the people who are playing candy Crush, which is frankly most of the gaming market, the people who are overseas who don't have the same access to economic opportunity, those are going to be at least the first cohort of people that try and use these games. And you're going to see it start out international. You're going to see most of the users in Asia, you're going to see most of the users in eastern Europe. And then as you build that side of the game, the labor side, you're going to see the capital side flow in and build the sustainable game economy. I don't think the question is whether you can build a crypto game that works. There's no rules that say you can't. And what we're doing on Defi is kind of like an early iteration of a crypto game. Anyways, I think the question is, can you build a sustainable economy? And that's kind of like where the discussion gets more nuanced and more interesting. Like, I don't think anybody wants to recreate axie. It's just like financial napalm for retail. It just doesn't work. What you do want, though, is something that looks and feels like a game that you might play where you earn some money, but you also really like playing it. And that goes on in perpetuity. And that means probably less reflexive token economics, but it doesn't mean taking them out as a whole."
+    },
+    {
+        "speaker": "C",
+        "text": "I think that that's a lot of just what the resonated with me in the early days of gaming. Like, every single game establishes its own economy, right? And there's like the idealized, like, you get ownership, you get sovereignty as a player. You have your own assets. And this is one of the reasons why the idea around crypto gaming kind of took off way back when. I'm wondering if you. I'm hoping you guys can kind of just like, download us on the undercurrents that have been flowing in the crypto gaming space over the last two years, because most people, including myself, have been largely tapped out of it. And Michael, I think a bit of your answer was like, yo, building a game is long and hard, so it's going to be a while until the games come to market. But I think we're starting to see some games come to market. So if I had been tapped in for the last two years, and I would imagine this space has been dominated by devs, game devs building dev stuff, doing game dev stuff, how have they been interfacing with crypto? What does it mean to be a crypto game versus our expectations that we were left with post Axie Infinity? What are the undercurrents that are being established by some of the game devs right now?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I think there's two ways of looking at this. There's the financial capital and the amount of money that it takes to actually build the game, and then there's the technology. Maybe I'll start with ATT and CK, and we could talk about the financial side, the tech side, within any ecosystem right now, within crypto, within web three. It's exceedingly hard. It's much harder than what your average application is, whether it's. You're using it for payments, you're using it for DeFi, you're using it for any of the different ecosystems. You have to be pretty knowledgeable about metamask or whatever wallet solution you're using. You have to be knowledgeable about what network you're on. You have to bridge assets over. It's an exceedingly difficult process, even today. And at the end of 2023, gamers are not going to be able to put up with this. Gamers are also not going to be able to put up with any sort of system where every single time they need to do a transaction on chain, they have to pay a little bit of gas, even if that gas is $0.01 or one 10th of one penny, that's just not going to be something that's feasible. So the two major improvements, I would say, on the technology side are account abstraction, where you don't actually have to pay the gas yourself as a user, and then having the ecosystems, where you're abstracting away the blockchain elements via a unified wallet experience. And historically, when we talked to game developers, the biggest impediment to growth for them or their forecasted growth, is what they call the wallet wall, where you get hit with this metamaster wallet connect type ecosystem. When you just go to sign up for the game, it has to be as simple as username, password, email password, just like every other application. And so we have solved over the last few years, there are a number of solutions that have gone out and solved this problem, whether it be infrastructure providers or wallet solutions themselves, or games who have taken it upon themselves to build these solutions into their ecosystems. But I'd say that is sort of the clearing of the path of opportunity for these games to actually get real usage, actually get real gamers, and then to take to the financial side, you have to have tens of millions of dollars just to be able to build these games and we can talk about it further. Recording this on the eve of when Alluvium is going to announce or going to launch their open beta via the Epic Games store, I mean, they've spent tens of millions of dollars and they have hundreds of people building this game over the last three years. There's sort of an opportunity that if you want to have a game, you had to go back two years with all that capital, with all that time and all those people and build it. And I think that's just one thing that is a blocker for anybody who hasn't been able to do that."
+    },
+    {
+        "speaker": "C",
+        "text": "When it comes to games, there's just a massive spectrum. There's the AAA games that require a pretty fancy gpu built by some of the studios that we all know and love. And I think this is where Illuvium is in the sphere of very elegant graphics with a lot of development time. And then there's, on the other end of the spectrum, the mobile player candy crush. Where is web three crypto gaming assets interfacing on this spectrum? More or less? Is it lumpy? Is Illuvium kind of a special case? Is it more to what Vance was talking about, where it's further down on the cheaper game end of the Spectrum? If I'm allowed to call mobile games kind of the cheaper end, like where. Where's the distribution here."
+    },
+    {
+        "speaker": "A",
+        "text": "So Illuvium has a mobile app game that is kind of like a version of like Simcity Slash, like Clash of Clans. And that's for kind of the casual enjoyer of the game. Then they have the overworld, which is kind of like GTA on an alien planet, but you're mining resources and you're mining characters that you can then play in the arena, which is kind of like the classic Pokemon arena. Battle games are going to start at every end of the spectrum. Generally, we've seen people who are just building the mobile, fast casual side. We've seen people who are just building the super intense, crazy dark souls, Final Fantasy, GTA, overworld. Um, we've seen people start with just like a tft battler. I think that, you know, eventually you're going to need all three as a game to address these different audiences and to make your economic loops make sense. Um, but I think the key thing is, just like, the IP needs to be compelling. Like, if you're playing, you know, uh, clash of clan, or like, you know, let's say a candy crush with a token, there's not really a lot of expansiveness to that. The game kind of ends and starts, like, right, kind of in your. In your pocket. Like, there's not anything that would compel you to use or transact with that asset. In many ways, it mirrors the birth of Ethereum. What is Ethereum? It's a community of developers. We've built really strong ip around the core values, around the functioning of the system, around the mini games that exist on chain. And that's what I think the best games are going to do as well. I think Illuvium started from a perspective of what would Pokemon look like if it was web three. You have the characters, you have the mining, you have the Simcity builder. You can loop it all together with the economics. The token is the thing that unifies everything, just like the asset does to Ethereum network and the developer community. That's what's going to make these games stand out. I don't think it's necessarily the best game wins. I think there's a certain quality threshold that you need to get to. But the thing that's going to make these things like massive, interesting economy is the ip. And to Michael's point, let's think about whose opportunity this is. You needed to have started building a few years ago. If you're going to launch in the next year, there's probably ten teams that have done that. You need to have a couple hundred million. Of those ten teams, there's probably five who've done that. Then you need to actually have really compelling ip and a strong token economic flywheel. Of those five teams, there's maybe a couple. I think a lot of our thesis with how at least web three gaming plays out initially is that there's going to be a huge first mover advantage, just like there was with Defi. Some of that is because you're going to have the ability to bootstrap the economy. But another part of that, which is different than DeFi is the next wave of people who are going to chase. You are probably going to launch in two to three years. There's going to be lumpy success in web three gaming, but it's going to spur this multi year process of games getting funded, getting built, and then launching. That's how we think it'll play out."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, can we talk about the impediments or the blockers so far and just update us on again? The last that David and I probably left, this was more in the axie era and you're still playing with your metamask browser and it was kind of clunky and all these things. Tell me about a modern experience, like something like illuvium. So first of all, it's in the Epic store, right? So it's in the Epic Games store. So that is like much more native than something like Axie ever was from a distribution perspective. And then tell me about like the wallet experience. If I'm just a casual gamer, I just don't know anything about holding my private keys or like metamask. What's my experience? And then if you, if you could tell us about the front facing experience and then also for the crypto native whos listening to this, what parts are actually crypto? So when you said illuvium has its own kind of asset, thats like eth for its own economy, what is that, an ERC 20? Is that on some layer two somewhere? Is that on its own side chain? And were talking about these NFT assets, where are they sort? Could you just walk through what a modern game like Illuvium actually looks like right now?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yep. So first off, Alluvium is built on immutable X, which is an application specific blockchain built by Starkware. And I think this is kind of the example of the abstraction becoming the real important component of the tech stack. Most people who play Illuvium should never even know what Immutable X is or that it's built on starkware. The way that you enter into the ecosystem is another product called passport that is built by the immutable team. And think of passport as truly your password across all the different games that are built on the immutable platform. And the immutable platform has the starkware instances of the games that are built on top of them, Alluvium being one of them. They also have a ZKe EVM instance that they're starting, that they're launching in January. That's where most of the other games will be built. And then they'll have the opportunity for games that get big enough to actually have their own app chains. But once again, this is like, what type of database is your favorite social media application using? Nobody should actually ever know that. They just care about the product and the experience itself. The passport is the unifying layer of value that connects across all of these different game ecosystems. Once again, it's signup, email password, username password, and you put money or value into that passport experience where you can then use that to go off and buy or transact. But in the illuvium case, you're not actually ever doing anything if you don't have to, if you don't want to. And so I personally play the city builder. I can start playing the city builder without ever having to buy anything or spend any money. I can just start farming resources and then build up over time, if I want to expedite the process, I would be able to buy something, speed up the building, speed up the process, earn more resources in that process. But that's kind of the normal experience that you would expect with any digital game. If I was to go onto the Epic Games store right now and download any game, it'd be user email, username email password. To sign up, it would be me putting in my credit card just in the same way that you have with passport. Or I could fund it from another source and then start playing and start buying things."
+    },
+    {
+        "speaker": "B",
+        "text": "So the passport is kind of like a wallet for crypto."
+    },
+    {
+        "speaker": "D",
+        "text": "The passport is exactly, it's a wallet that connects across all the different games within the immutable ecosystem. And we're talking about immutable right now just because alluvium is topic de jour. But there are other ecosystems that are building games and other platforms, other blockchains that have similar type products."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so the experience for the typical gamer is going to actually feel very similar to traditional games. Then there's not going to be this wallet wall, this crypto learning curve that we've seen in the past with this generation of games that."
+    },
+    {
+        "speaker": "A",
+        "text": "Were you saying, no, no high gas fees either, like actually was on l."
+    },
+    {
+        "speaker": "B",
+        "text": "One, you know, for a while, right? And then they. They did their side chain, there was a hack, all sorts of things, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "And, you know, they built the l two and then they built the bridge. And then the bridge got like, you know, we're like so far away from that point. Like it was just a complete song show for a long time. And to kind of like the opener that you put to us, you know, you've done all these podcasts about crypto gaming, and they were early, and we're definitely guilty of that. We were excited about it, but you can't really judge it yet. We haven't seen any games launch. You have to defer your judgment. I don't think you can be bearish on web three gaming. I think you can just say it hasn't happened yet. But we haven't had any games launched. And we have all these things, the Ui, the low cost blockchains, the ability to abstract them away. The proof points get stronger as we go on."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, now link this. So now the crypto native kind of understands this, right? So I understand the backing of how this works. It's on immutable, so it's a layer two. You've got this passport thing that's basically like a wallet, and you own all of your own assets, whether that's all of the tokens in these ecosystems or the NFTs, like skins and items, all of these things, right? So I get that now for the gaming individual who is just like new to crypto. Okay, tell me, guys, how is this? Why? What benefits am I getting from a blockchain underneath all of this? I can get that same experience with other games. How do I feel the ownership of my own assets? Can I go take these assets and bring them into another world? Can I go onto ethereum, layer one and, I don't know, sell them in a uniswap market if I want? Now talk to the gamer. What are the benefits of being on a blockchain rather than a central database?"
+    },
+    {
+        "speaker": "D",
+        "text": "Frankly, just the marketplace capabilities of being able to sell these different assets. And it could be opensea, where you're selling these in that style of marketplace. It could be a mechanism that's built specific for the games that we're talking about. Or maybe there's a uniswap pool where you have a fungible asset or a fungible type asset like resources in a game that you're able to go off and make markets for. But really, it's the same way that we look at any digital asset that is in your metamask right now or an NFT that's in your metamask right now. You have ownership because you have agency and you have the ability to sell it. It's not, and I think one of the biggest misnomers and points of confusion is the ability to say, I'm going to take this asset from one game and bring it into the digital ecosystem of another game. That is such high complexity."
+    },
+    {
+        "speaker": "B",
+        "text": "That's never going to happen."
+    },
+    {
+        "speaker": "D",
+        "text": "That's never going to be a value proposition. I think that being able to use an NFL character in illuvium, maybe that's interesting, but nobody really cares about that. For us, ownership really just means the ability to sell these assets or make a market for them. That's how you imbue the sense of ownership, and it's exactly the same way as you would have with Defi tokens or any other asset."
+    },
+    {
+        "speaker": "B",
+        "text": "There's an interesting implication here that I want to get to, and then I bet David has a bunch of questions here, but it's like one is, what does that turn a gamer into? Does that turn a gamer into somebody who's working? Could gamers think of this as a job? I mean, you mentioned developing economies in developing countries, and that was certainly something that was incredibly popular during the Axie blow up days. There were stories of people in the Philippines who basically made their income from playing Axie all day, but it started to turn into a job for many people rather than a game. How do you guys see this fusion? Do you think that plays a role in things? When you introduce economics and the ability to sell things, that starts to sound a little bit like the real world. Like, after all, if we said before, I mean, I feel like maybe life is a game. Everything's a game. I mean, like, what are we doing? I'm going, I'm collecting like, you know, tokens and currencies and defi, is that a game? Like, I don't know. This gets complex pretty quickly, but what's your take on that? Does this shift the type of game player and the experience at all? When you introduce, like, real world economics."
+    },
+    {
+        "speaker": "A",
+        "text": "Here, it's a similar form factor to ethereum. Like from a highly speculative economy, we've built something that's sustainable. We built kind of these mini games on chain, like, whatever you want to call Defi, whatever you want to call NFTs. We've built the sustainable economy. And I'm sure some people do it for fun, some people do it for work. But it doesn't work without both of those character types. You need people who enjoy it, then you need people who are trying to get value or get work out of it. And again, it comes down to, can you build a sustainable economy? And one way of doing that is building something around financial services. Another way of doing it is building it around entertainment and consumption of digital assets in a non financialized way. And so for the gamer, it's basically the exact same premise as traditional gaming. You're going to play a game that you like, and maybe after everything, it's not just you giving the game developers thousands of dollars. Maybe you get something in return and you can make money on a micro level off of the assets that you've generated. And at a macro level, if you want to buy the token of the game, it's akin to owning a share of a stock. Like you get a direct upside participation in the game. That's pretty interesting. For developers, it's a different proposition. IDFA, which is the apple retargeting of ads, which drove most of the business models of free to play game developers. That's been killed. As of last year, most gaming studios saw the revenue trend down 30% to 40%. And there's more competition than ever because these games are easier and easier to build. So you need some sort of new monetization. Even if you can kind of stick with your existing IP, which is what you're seeing a lot of game developers in Asia do. Crypto is just the best monetization known to man. If you can earn 2% on every fungible token transaction, on every NFT transaction like immutable or like alluvium does, that gives you a whole different vector for not only monetization, but redistribution via token to the community. When you get to the point of finger pointing saying those aren't real gamers, those are just people that are working. That to me is an immediate indication of we're doing something right. The initial player base is going to be people from India, people from Asia, people from Africa, Eastern Europe. You go in these discords, those are the people, and that's fine. And that'll be kind of the initial like. If you think of it as like labor, if they're like working, or if they're enjoying it, those are gonna be the first people to play it, but they're gonna be the earliest participants as well. And I think that's kind of beautiful that in no other gaming function like, are you able to partake in the actual game success? And this is hopefully something that's a bit more egalitarian."
+    },
+    {
+        "speaker": "D",
+        "text": "The only thing I'd add is that I think, you know, in the 2021 era of web three gaming, the original sin was that speculation was basically the only thing that you had a. And I think that speculation is a necessary component, but it needs to be balanced with a fun to play ecosystem, high quality games, whether that's an alluvium type aaa quality, or just something that's really engaging and editing in the way that most digital games are. But the other element, which I think we haven't really touched on is, is it really hard to win? And if you have the ability to have it be really, really deep in terms of how far you could take it and how far you can go, that's going to make it a game of skill, or at least closer to skill. And that's where you start to see all of these variables start to coincide in a way that we just haven't seen yet. We've only seen one aspect, which is speculation, and I'm excited for the others."
+    },
+    {
+        "speaker": "A",
+        "text": "Let me ask you guys a question. David and Ryan, what's the best argument against crypto gaming?"
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, God, you're asking crypto bulls to argue against crypto stuff. The best argument against crypto gaming is, well, I could give you an answer in a variety of different respects. Like a, we haven't even figured out, like, wallets yet. Like smart contract wallets, account abstraction wallets, like. But I guess you could route around that just like, okay, you just have a centralized wallet, do all that stuff for you, and then all of it, and then you can take assets later. The best argument, I would say, is going to be something along the lines of crypto gaming is nothing is all going to be zero sum because somebody. If. If somebody's making money, right, which means somebody else is losing money. Which means, like, how do you really incentivize that? Like, we're. Or, like, there's no really, like, flywheel there. If it's a zero sum game, that'll be. That's why."
+    },
+    {
+        "speaker": "A",
+        "text": "Let me address that one."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "Ethereum has gone from, you know, what, fifty cents to whatever it is today. $2,000."
+    },
+    {
+        "speaker": "C",
+        "text": "Right? Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Is that zero sum or not?"
+    },
+    {
+        "speaker": "C",
+        "text": "Sure. Okay, so let's. Let's go back to illuvium. How. So how do I play alluvium? And do I need to deposit money first?"
+    },
+    {
+        "speaker": "A",
+        "text": "Nope, you can. You can just mine. You can mine. Not even, like eth where you had to buy it."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so I can enter the game and it's like some sort of, like I get some sort of like tutorial, like wooden shield and wooden sword. And then I like it can start and then, but then how do I get money?"
+    },
+    {
+        "speaker": "A",
+        "text": "You can craft things together, you can create new assets. You can sell them, you can partake in, in game actions that earn you the native currency of the game. There's a variety of ways to bootstrap your account without actually putting money in."
+    },
+    {
+        "speaker": "D",
+        "text": "Okay. In particular, what that means is you run around in the overworld, the ecosystem, and you could collect or catch alluvials. The alluvials are the characters, kind of like Pokemon, if you think of it that way. The other entry point is if you play arena or if you play x, which is their city builder game, you can actually just start a city, start farming resources, and just sell those resources in the ecosystem to earn enough capital to be able to go off and buy an alluvial. So there's multiple ways."
+    },
+    {
+        "speaker": "C",
+        "text": "So I can just sell this stuff, but someone's buying them, why are people buying them? So they can just get ahead?"
+    },
+    {
+        "speaker": "D",
+        "text": "Because you need those resources to be able to play the overworld game at a higher level."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so if there's going to be an economy and like, this is, this is also true for games, but before there's financial assets in the games, everyone is just like, I play Overwatch so I can win and feel momentarily good about that. With the dopamine, when there's finance, when there's financial assets, like that really ups the ante of why people are playing the game. And like some people are going to win and it's going to be the same, like well capitalized entities. Well capitalized players are going to win more than less well capitalized players because they have the advantage of capital. And so it doesn't like capital, just centralize over time and winners. Winners, like, it's like poker, right? Like all of the small fry come to the table and the big sharks, like, eat up all the small fries."
+    },
+    {
+        "speaker": "B",
+        "text": "You could buy your way in, right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, you buy your way in, but like, the skilled people end up taking all the money all the time, and then it's not fun because all the small fries keep having to shovel out money over and over and over again to play the game."
+    },
+    {
+        "speaker": "D",
+        "text": "I would argue that what you're describing is precisely the issue of a speculation only game. You have to have a good autonomy design that doesn't allow people to pay to win. It maybe means that you're able to pay to, for instance, in illuvium, if you want to pay for something, the main use of paying for things is to travel faster through the world. And it's like taking the train versus walking there. And that's kind of one of their core economic principles that I think is unique. And we just haven't seen those examples yet. But yes, I agree. If you're in the way that you're describing it, if you can just buy your way in and buy your way to the victory podium, then it doesn't matter. It's not a game, it's not fun."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so there's like the PvE element, like the player versus environment element, and then there's PvP, player versus player. And if we keep the monetization to increase your odds of winning versus the environment, we're okay with that."
+    },
+    {
+        "speaker": "A",
+        "text": "Your ability to win."
+    },
+    {
+        "speaker": "C",
+        "text": "In the player versus environment domain, I mean, I think that's okay."
+    },
+    {
+        "speaker": "A",
+        "text": "You have to have some function for paying for things at some point. And travel is not even in web three games. It's the most common thing that you're paying for."
+    },
+    {
+        "speaker": "D",
+        "text": "But also, look at Boom beach, for instance. You could either spend time and you could wait for things to reset for you to get more ammunition or more lives, whatever it may be. Or you could just pay $4.99 to Apple to be able to upgrade immediately and not have to wait 24 hours for that to reset."
+    },
+    {
+        "speaker": "A",
+        "text": "That is zero sum, totally."
+    },
+    {
+        "speaker": "D",
+        "text": "But those are the types of monetization elements that exist in mobile gaming. I think we will start to see and test what these different monetization elements are such that you have a sustainable game economy that we haven't seen yet in a game."
+    },
+    {
+        "speaker": "B",
+        "text": "Can I throw out some other to your questions, fans? So what about this? The idea that crypto can often collapse. And I worry about this, about defi, quite frankly, at some level to Ponzi and speculation. So you have these big boom busts or you have somebody who is willing to create a game that plays the short term kind of like games essentially. And you have these like axie style, it runs up into the billions and then it just like collapses. And just like there's something about human nature and speculation and tokens and prices that just like ruins things. And the whiplash is like too harsh, right? Because humans, you know, we go through this massive run up, we're all feeling great. And so many people buy the top and their experience, their net promoter score is really low because they purchased an asset that they thought was going to do well. And lost like 99%. They're very dissatisfied with this. What about this? The temptation of speculation, maybe. Let's say the temptation of pontification of pyramid scheme. Maybe that's a thing that could hold this whole crypto gaming thing back. What do you think about this?"
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, people will do that. People will start outright gaming Ponzis. I think they might do well for a time, but they won't last for much longer than that. You'll also have people who build really good games and have really good economic flywheels. And maybe there's a couple issues along the way, but it's not zero sum. You're growing the pie and you're distributing it to people who are playing your game. And so there will be both. I also think if you look at the traditional gaming industry, especially mobile games, there's people who spend hundreds of thousands of dollars on candy crush and things like that in the traditional free to play space. It's pretty sad, honestly. It's just like they're paypigging for these gigantic mobile gaming companies. When you're starting from that position, almost anything is better than it. Sure, there might be some creative destruction as we go from good games to bad games or vice versa, but I guess my point with this question was, there's no universal rule that says that we can't do this. And I think you just need to bet on entrepreneurs and innovators who really believe. And we don't need to just believe for much longer. We're going to have proof points in the next couple months. I think we'll hopefully have better arguments in a couple of months. But right now I don't think there's anything that's super convincing to me about why isn't this possible. There's no rule of physics that says it's not."
+    },
+    {
+        "speaker": "D",
+        "text": "One additional variable here. I think what's implied with all of these different questions is that you're assuming that people are having to pay a substantial amount of money just to enter into these game ecosystems. I think most of the smart game developers recognize that that's just never going to happen. Maybe you buy a subscription or a license in the same way that you would a digital game today. Maybe it costs $20 for a season type thing, but it's not going to be a situation where you're paying $10,000 for an axie and then it goes down to dollar five and everybody feels terrible and NP's is negative. The sentiment here is games are now coming to the realization that it has to be free to start, you have to be able to have monetization elements that you'd be able to earn your way to, but you could also pay for to expedite. And those are kind of the new norms that people are kind of circling around. Game developers are circling around, which I think is fundamentally different from anything that existed in 2021, where speculation once again was the overriding variable. So to Vance's point, I think this stuff is happening literally tomorrow and for the next few months. So I think we're just going to see a ton more shots on roll."
+    },
+    {
+        "speaker": "C",
+        "text": "I think the big questions I have about crypto gaming is more about just like, the scope of the success, not whether or not it's real or not. It's more like, how far does that realness take it? Because you could have the very, very bullish scenario versus the very, very bearish scenario. For example, maybe the most bearish scenario is something like, well, we have online casinos, literal casinos like Texas hold'em, blackjack, and then they also take like bitcoin or maybe stable coins too. And those are like, those are games and they take crypto payments. And so, like, we're starting to enter, we're starting to combine these primitives. And then there's on the complete opposite end of the spectrum, which is like something like ready player one, which is like a straight metaverse, and there's digital currencies and there's digital artifacts, and there's digital assets. And everything is an NFT. Everything is on chain. And then there's different stops along these visions. You have like, okay, maybe you have a fortnight, except the skins are NFTs, which is still like asset light, I would say. Or there's like we revitalize the Diablo three auction house and you discover in house items, except those are NFts, and you can sell those now for a currency on Ethereum that can go to uniswap. And now we're starting to get pretty heavy. So I guess, like, the real vision is, or the real question is like, where along this spectrum do we really end up? And can we really get all the way to the full, like, ready player one fully, like simulated economy, except it's not simulated because it's real and it's in the metaverse. Like, where do we end up here?"
+    },
+    {
+        "speaker": "D",
+        "text": "Let me say this. With every new technology platform for games, you've had a new dominant game model that takes over. And, you know, when it was, you know, console based, you had the depth of Diablo and first person shooters and things that required real high technical requirements to be able to play those games. When you had mobile, it became fast casual. And that was sort of the dominant game mode. We don't yet know what the dominant game mode will be. And something we talked about with the game developers we talked to on the regular is what's going to be that candy crush moment where it's like, boom, okay, we now see it. Everybody now has the playbook. That's how it's going to work. One of the theses that at least I have is, and something that we haven't talked about yet is UGC being a major component of web three gaming, where it's not you going in and saying, I've earned this resource, or I've got this, I now have ownership over it, I can sell it. What if you're in there in the digital ecosystem creating something, creating a template that other people may want to use in that same game, and then you are able to monetize that yourself. You own the template, people can buy it. Those are great ways that I think you just haven't seen in a. As a dominant game model yet. But we're starting to see a ton of those types of games employ UGC elements and monetization through UGC elements that would be unique. And so that is one possible path for web three gaming that we haven't seen yet."
+    },
+    {
+        "speaker": "A",
+        "text": "The other thing I'll say is, to your point of if it works, how big does it get? I think that's when you need to rely on the data that we have, and there's not a ton of it, but actually had more daily fees than Ethereum in the last bull run. For a period of months, it had the most users of any chain. Ronin at least, still has almost as many as the lower l two blockchains. These things are considerable size. The token itself obviously didn't stay there for a long time, but it was a $40 billion fdv outcome. These things are huge."
+    },
+    {
+        "speaker": "C",
+        "text": "Hang on, I want to throw a flag there because why were the fees paid? Well, because the token pumped and people could afford the fees. Because the token was very, very highly priced. Because it is a speculative mania. So in the final equilibrium of crypto gaming, we can't expect high fees to be paid just because these assets have these speculative premiums."
+    },
+    {
+        "speaker": "A",
+        "text": "Look, this is the data that we have. It's not the data that we would want to. What it tells you is that these things get quite large when they get going. And theres reflexive aspect to them. And so thats kind of like the backwards looking data. And then the data we have right now is all the playtest data thats coming in on these games. And almost unanimously the retention is 40 50% higher than traditional games. People come back because they know that they own something. Its not the most big brain explanation, but, but the aspects of ownership are compelling to people in a way that represents in the data. And so I feel more, not less confident as the playtest data comes in, whether or not the game of the future manifests in a similar way to axie. To your point, I don't think they're going to be paying crazy eth gas fees, but the monetization schemes that these things have is considerable. Alluvium is taking 2% of all fungible and non fungible transactions. Think about if this gets to be the size of opensea in terms of just like transactions. And I think that's like kind of where we think things are going to go. I think the NFT PFP market, other than like punks and fidenzas and things like that, I think that's pretty much done. What I do think is coming and going to be a lot bigger are in game asset nfTs. And if you think about like the theses that were thrown around back in the day of like the unbundling of these NFT marketplaces, it hasn't really happened because there's been nothing to unbundle other than maybe like the derivative side with blur and the spot side with Opensea. We're now going to see, just like gaming, nfts be their own thing and it's not going to be monetized by some third party NFT marketplace. It's going to be monetized by the game itself. And so you've got the game, but you've also got this 2% thing that's attached to it that imagine if that starts getting going and you start redistributing to token holders and it feeds on itself, you can see how it would become quite big."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, I can see how it can become quite big. And if that 2% is real and all of these things do become as large as we hope that they are going to become, you are going to then be faced with some extra obstacles. The smaller of the two is going to be like the distribution platforms, the Steam Epic games store, iOS store, which they are going to want their fee, they are going to want their tax. You know, you know who else is going to want their tax? The tax man, the actual tax man. And so we're going to start to get into like regulatory conversations as well. How do you guys navigate these conversations?"
+    },
+    {
+        "speaker": "A",
+        "text": "Not tax advice, but anytime you earn income, you owe taxes on that."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, but what about little Jimmy who's eight years old, who just downloaded a game, who doesn't know a damn thing about taxes."
+    },
+    {
+        "speaker": "B",
+        "text": "He's got an item drop and it's a taxable event that he's got a file, right? Yeah, you can see how this is weird."
+    },
+    {
+        "speaker": "A",
+        "text": "Jimmy can fend for himself. The iOS point is a good one. So a lot of the games that we see start off as no crypto in the iOS app store. And then if you own assets and you want to sell them, then you transfer them to a blockchain. And that's a way to, one, play nice with Apple. But two, you can have this graduating onboarding funnel where you say, cool, you now own the asset in the game you want to sell, you want to do different things. We're going to take you on chain, a place that is devoid of the iOS taxman."
+    },
+    {
+        "speaker": "D",
+        "text": "And just to clarify, if you are onboarding via a mobile device and you're buying something, and Apple has already come out and suggested that this is the path that they're going to to do with their guidelines for iOS app store transactions, you're going to pay 30%. The developer is going to pay 30% to Apple. Apple's exceedingly happy about this. They'll start promoting NFT based games. If you're going to be buying a $10 NFT in game, you're going to have the developers going to get $7 basically, but you're still paying $10. And what happens afterwards is you move outside, there probably won't be secondary marketplaces within iOS app store ecosystems, but you're still going to have that same once again passport and or connective wallet that connects your mobile device and your web device, and the web will be where you have that secondary market transaction and everything will live on chain."
+    },
+    {
+        "speaker": "B",
+        "text": "Wait, so are you guys saying we just have a back door here? We just have a loophole here which."
+    },
+    {
+        "speaker": "C",
+        "text": "Is like we just go on chain."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so basically the game is in steam or epic or it's in iOS, right? So like it's deployed there, but we're not exposing any of the kind of the like defi type economics inside of that wrapper. You just hit a button and you like export off chain when you want to sell all your assets. And that's just our simple loophole. Checkmate. It's that it's like Apple hasn't come."
+    },
+    {
+        "speaker": "D",
+        "text": "Out and said whether or not they will allow any of the Defi elements. Can you sell it via uniswap, you know, contract or pool? Assume that they won't allow that type of stuff. But yes, this is the way that most, most games are thinking about integrating both mobile and web experiences."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, that seems like it could be defensible here, right? Because, like, how. How would Apple argue that you can't export your own, like, metadata off, like, you know, off off their platform? It seems that would be a pretty."
+    },
+    {
+        "speaker": "C",
+        "text": "Because, Ryan, their metadata has never been worth money."
+    },
+    {
+        "speaker": "A",
+        "text": "I think you can come up with, like, creative reasons as to why it won't work, but right now it works. Like, there are games that do this. There's also people who are experimenting with Pwas and things of that nature. There's a few different ways you can skin this cat."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so you guys aren't very worried about the gatekeeping of kind of the, you know, the gaming platforms at all?"
+    },
+    {
+        "speaker": "D",
+        "text": "At all cross the ages. And this. This data was in France specific, which is where they started, was a top five game for the last two months. And it's an NFT based game."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so to go back to David's question, there's another class of gatekeeper. We touched upon it with a tax man and whatever. Little Jimmy's gonna have to download some software to help him figure out his taxes."
+    },
+    {
+        "speaker": "A",
+        "text": "You know, he'll be 1099."
+    },
+    {
+        "speaker": "B",
+        "text": "Little Jimmy's gonna have quite the education. But there's another class of regulators out there, and this is the kind of the SEC. Gary Gensler class. And right now, at least in the US, Gary can't tell us whether a Pokemon card, if it's tokenized, is a security or nothing. Does this put a foil, throw a wrench into the works here? We're going to have a problem with regulators on the crypto gaming side."
+    },
+    {
+        "speaker": "A",
+        "text": "Pack it up. It's over. No, I mean, like, you know, they're going to. How it's manifested in practice has been that the us game developers have gotten really gun shy. Like, they don't want to launch tokens. They don't want to launch NFTs unless it's like 100% chance of them being compliant. But that's just left this door open for all the international developers who have, frankly, better regulation countries. And I hope our country gets there in time as well. I think it will. But people aren't stopping. They're not like, ooh, sounds like Gary Genso doesn't like this. Potentially."
+    },
+    {
+        "speaker": "D",
+        "text": "We don't even have an answer."
+    },
+    {
+        "speaker": "A",
+        "text": "We don't even know."
+    },
+    {
+        "speaker": "D",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "Like, there's a certain subset of people that will stop. And those probably people probably should not be entrepreneurs, but, like, nobody really cares."
+    },
+    {
+        "speaker": "C",
+        "text": "Sorry, Gary."
+    },
+    {
+        "speaker": "B",
+        "text": "Does this get. So this gets solved through jurisdictional arbitrage, right? Like, if for a period of time, the US is just very harsh. There's not clarity. Then maybe less game development happens in the US and just escapes outside of the US. And then the US realizes our population wants access to these games and they have to update. Is that how this plays out in your mind?"
+    },
+    {
+        "speaker": "D",
+        "text": "I'll tell you this. 75% of the games we talked to, the number one jurisdiction or the number one region that they're targeting from a gameplay standpoint, is Asia or Southeast Asia."
+    },
+    {
+        "speaker": "B",
+        "text": "Really not even in Europe? Not the US."
+    },
+    {
+        "speaker": "A",
+        "text": "Europe more so the US is like kind of an afterthought."
+    },
+    {
+        "speaker": "B",
+        "text": "Is this reflected because of regulation? Specifically because of us?"
+    },
+    {
+        "speaker": "A",
+        "text": "No, no, it's because, I mean, look."
+    },
+    {
+        "speaker": "C",
+        "text": "The biggest games are high."
+    },
+    {
+        "speaker": "A",
+        "text": "Biggest games in Asia are pay to win games. You pay $5 more, you win the game. Congratulations. Asia has no problem with this conceptual, huge problem with this conceptually. And so it's like, you know, wait."
+    },
+    {
+        "speaker": "B",
+        "text": "What'S a pay to win game? That's just like gambling, right? That's like a casino is a pay to win game, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "It's not like you're gambling against anyone else. So, like, a good example of how this does not fly in the US is the latest NBA two K update where you. You can pay to enhance your player. People threw a hissy fit over this on the Internet forums and just like, you know, fair. Because it's not fair. Yeah, people stamping their feet. It's not fair. People in Asia don't care about this. And so, look, it may sound strange, may sound like a different mental model, but it's like that to me, is like a very good sign of there's a market that's largely unseen for what we're trying to build that isn't really comparable to what exists today, but that could be massive. And like, if Axie Infinity can be a 40 billion ftv outcome with only southeast asian players, guess where everyone's going to go. Like, it's like, you know, it's sad that people are not going to target the Us. I do think that is changing as the quality of game increases. Like, most of the illuvium play testers are western oriented just from perusing the discord, but that's certainly not who they're targeting."
+    },
+    {
+        "speaker": "D",
+        "text": "The other thing I'd add too, is just in terms of technology, obviously Android heavy in all of those regions. And Android just has a much more open ecosystem for games and gameplay."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, I want to turn the conversation to chains. Games and chains. So like the ethereum, I think stance towards games that, oh, every single game is going to want their own chain. Like give game developers the sovereignty and the control that they have over the game, over the chain that there are assets run on. The Solana narrative is probably something along the lines of games need maximum amount of scale. The avalanche narrative of which I know games and Avalanche for some reason go together, is probably something similar to the Solana narrative. I don't really know. Hopefully you can tell me. But just like, what do game devs, crypto game devs think about the chains that they're building on? How do we think about these things?"
+    },
+    {
+        "speaker": "D",
+        "text": "There's a really interesting stat, which is of the games that are still in development that we've talked to, or some of our investments are partnered with something along the lines of like 40% to 50% of the games that are building. Games currently have not even chosen a blockchain yet."
+    },
+    {
+        "speaker": "C",
+        "text": "Does it matter really?"
+    },
+    {
+        "speaker": "D",
+        "text": "And it doesn't really matter to them. What really matters to them is throughput, therefore cost and where assets are or users are. And so where that starts to aggregate is whoever has the lowest cost per transaction is going to be something that's really viable for games. But you also have to be able to have people. One thing we haven't talked about yet is there's this massive industry in the traditional games industry. In traditional games for user acquisition, it costs tens of millions of dollars to develop these games. Well, it also costs tens of millions of dollars to market these games, to have them break through, have them actually get attention from the game players that they want. And that is something that just hasn't even been around yet. Historically, within DeFi, this has been like farming. Or if you're in discord, you have to be in the know. But what we're talking about attracting here is people who are not in these web three native discords, not people who are web three native per se. These are people who want to play the game because it looks interesting. And then you come for the game and then you stay for the ownership. That is a totally different model that we just haven't really seen yet. Does it really matter where these net new users are going to be from a blockchain perspective? Not as much as it does from a DeFi perspective, where really security and TVL are the core metrics."
+    },
+    {
+        "speaker": "A",
+        "text": "I think there still is the EVM versus everyone else dynamic. And I would still say that 90% of games we see are building on some form of the EVM, most of them, frankly, on IMX, just because they're oriented and focused towards that. Just to give you an example of where the ecosystem stands today, Polygon signed a partnership with imxdeze that basically makes IMX like the default gaming super chain of their network."
+    },
+    {
+        "speaker": "B",
+        "text": "But by the way, IMX is immutable. We talked about immutable."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, immutable."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, same thing."
+    },
+    {
+        "speaker": "A",
+        "text": "And IMX has like, they're extraordinarily well resourced. They've got like 250 million of cash. They've got like more than 600 or $700 million of their own tokens on their balance sheet. And it's structured as an equity company, so they have like a large degree of discretion over like how and I. When grants are given out and they're able to win a lot of game developers, just because capital for games is so thin right now, that being able to offer an integrated blockchain, a passport solution, that's the UI layer and some grants and some capital to build a game, it's pretty compelling. Solana, we've seen less games go to recently, just since the foundation is geared down a little bit on that, just from resourcing. It's also just like you're on your own island. There's no base chain that's adjacent to you with a shit ton of users or ethel one that you can do interesting pack drops or things like parallel has been doing. So that's definitely happening. Then you have a string of also rans that are giving out small chunkier grants. But instead of having 200 games like IMX has, they've got three. Gaming, as we all know, is a shots on goal business because you never know what's going to hit. And it's a power law distribution when it does so, it's still the EVM's game. 90% of games are building on the EVM. I would say, like, immutable is probably the one that's been the most focused and concentrated and has won the most. And if you flash forward a year, like, does this look different? It does, because once you start to have, say, immutable gets like a ton of users on their chain, that's just another value prop you want to launch on a chain with a shitload of gaming users that are willing to try your product, try IMX. And so once the flywheel starts spinning, the moats are going to build. And I think that is kind of the next phase of like, say, illuvium works and theres like 50 million players, guess where everyones going to want to launch on immutable, where they are."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so immutable is like kind of one piece of real estate for everyone to share. What I didn't hear is any sort of conversation about one chain per game, or at least when that chain, that game hits scale, that they might be interested in having their own domicile, having their own sovereign network. Maybe it's just too early for these conversations. We'll see when that game gets that large. Maybe that's your response."
+    },
+    {
+        "speaker": "A",
+        "text": "They will, you know, but that's probably like three or four years down the line, and it may even be still within the same, like, IMX or Polygon or whatever ecosystem. But I think, like, the job to be done right now is like, build successful games once, you know, we've already seen that, like, on a long enough time horizon, everyone wants to launch their own l two. I'm sure that will happen here, too, but, like, we're just not in that phase of the game quite yet."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, can you guys. This was another narrative that started to kick off in the gaming, like, crypto gaming world in 2021, which is like, the traditional gaming studios are coming, right? This is kind of like the herd is coming type of riff, I think."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't think they're coming. I think."
+    },
+    {
+        "speaker": "B",
+        "text": "Tell me about that. I heard there was like, maybe two weeks ago, Lance May was the Roblox CEO, and he said something to the effect of, hey, you know, it might make sense to do something on Roblox like an NFT. He actually used the NFT word. So, like, I is. But you don't think they're coming at all? Is that not going to be a tailwind for crypto gaming that traditional studios start to play around with immutable and deploying assets and fortnite skins? You know, like, that was the thing."
+    },
+    {
+        "speaker": "A",
+        "text": "In 2021, it's kind of like when Netflix was first coming up, it was this streaming enabled player. They were faster, they were smarter, they had more data. They used all the new technology to their advantage, and they leapfrogged everyone else. And then you had HBO Max that was trying to launch their own streaming service for ten years. And they launched it once, half ass. They pulled it back. At one point, they had HBO go and HBO Max. They, like, pulled that back. They rebranded his max. They're trying to compete with all the major streaming players, but they're not even a 10th of the scale. The people who actually use this technology from first principles versus like we're thinking about an NFT. What do you think? It's just like. It's like worlds of difference. So I think it's the innovators dilemma always. And the entrepreneurs who they're competing against are just like not sleeping, you know."
+    },
+    {
+        "speaker": "B",
+        "text": "It'S like we don't need trad gaming then we just don't need them."
+    },
+    {
+        "speaker": "D",
+        "text": "I mean, look at the past platform shift of desktop or console to mobile. The biggest mobile based game developers are not the biggest developers of games from previous platforms either. It's not the Ubisoft, it's not the epics. Sure they have mobile games, but it took them so long because for them it was. How are we going to be able to fit this Call of Duty game, this first person shooter, onto a mobile device? We're going to have to degrade the service so much. And to Vance's point, that's a classic innovators dilemma problem. You have to start from the ground up with the new platform and that's what blockchains represent. Maybe eventually the Ubisofts or the kings of the world, or even the zyngas, the tape twos, they're going to be able to build something that's on chain or integrated nfts, but I think they're going to have to be shown what that playbook is. And it's going to have to be not just one instance of it, it's going to have to be like we hit them over the head 20 times before they start to get pitcher. And we haven't even started yet. We haven't hit that candy crush moment."
+    },
+    {
+        "speaker": "B",
+        "text": "So far we've been talking about games that are sort of using the blockchain for the property rights type use case. And if that sounds too pie in the sky, just basically saying the assets, whether it's a token, a coin of some sort, or it's an NFT, an item, a skin or something like this, they're all registered on chain, but the rest of the game is just on like traditional gaming servers in an AWS server somewhere or something like this. There has been another, I guess, theme that is sort of very indie right now. And actually David's been on the frontier of exploring this a bit more, which is like fully on chain games. I don't know if David, maybe you should give like an explainer of this, not for Michael and Vance, but for bankless listeners to pose the question of like, what do you guys think about this? But what's a fully on chain game."
+    },
+    {
+        "speaker": "C",
+        "text": "David, the way I would define it is just like the state of the game is derived from data that's held on chain. So when you are looking at your computer screen and you're looking at some visual image of that, it's not coming from a server that is being served to you by Activision Blizzard. That data of how it's being displayed to you is coming from reading a blockchain. And so, fully on chain game, like the physics are on chain, the assets are on chain, moves are on chain, like everything is on chain. So it's actually just like the entire game logic we talk about. DeFi is putting business logic on chain. Fully on chains are like all gaming logic exists on chain, which is a completely different endeavor than just building a game with some assets in it."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "What do you guys think of this? Is this sci-fi? Is this near term at all? Are you guys looking at this at all?"
+    },
+    {
+        "speaker": "D",
+        "text": "We've looked at a couple of different. I mean, Dark Forest is kind of like the start of this concept of, you know, Dark Forest took down Xdai because of the amount of throughput. You're always going to be battling with a throughput problem. And I think it could be interesting to have things that game types or game models that don't necessarily need synchronous throughput as a core component to make it a fun to play game. Maybe this is like a turn based game or something that you kind of. You make your play and then you wait for other people to make theirs. There are game models that I think could work. I also think with infrastructure getting faster and cheaper and better, the cost of using putting something fully on chain is going to go down as well. There could be other things that come up, but frankly, it's not Sci-Fi but I think this is probably way further out than the traditional game types that are going to be launching soon."
+    },
+    {
+        "speaker": "A",
+        "text": "Strikes me as a little bit urbit esque. We all need self sovereign servers because reasons you never fully get to the why. And I think why we're bullish on gaming is a different reason than most people are bullish on on chain games. We're bullish gaming because there's billions of people who play it and they look, feel and act very much like crypto people, and we're not that far. Like putting it even further away from them doesn't feel like, at least for us, like the best path go into."
+    },
+    {
+        "speaker": "C",
+        "text": "That a little bit more. Vance, why are gamers like crypto people? Or how cut from the same cloth are we?"
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, have you ever hung out in a, like, a gaming discord and they're all screeching at each other for, you know, you really can't even interpret. And they're. They're on their computer. You know, they're Internet people. They're obsessive. They own digital items. They participate in digital economies."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, a lot of freaking nerds, David."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "They are literally, like, you know, somewhere in the genealogical tree, like, there are cousins, and so it just doesn't feel like a large lift to get them in here. It's a lot different than, like, I don't know, say, like, music people. Like, music people are cool. They go out, you know, they do different things. They're not, they don't own digital assets other than something on, like, iTunes."
+    },
+    {
+        "speaker": "C",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "You know, it's just different."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, one other thing I'd say to that is, like, almost everyone I've met in crypto has, like, been a gamer, like, previously, or is gamer now still."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "You played runescape. You played. Wow. Like, so many origin stories are from that stuff. Including Vitaliks."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, exactly."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Including Vitaliks. Yeah. Our Diablo two, I think, is the game that Ryan and I share the most, just with nostalgia and with crypto memes, 100%."
+    },
+    {
+        "speaker": "A",
+        "text": "Like the cat Cl 120 or whatever. Like, he's always streaming league, you know, like, pop in and watch that. He's playing that with, like, Ansem and, like, a few other crypto people. Like, they are us. You know? Like, it's the same thing."
+    },
+    {
+        "speaker": "B",
+        "text": "So let's talk about the, let's talk about our bags for a minute. Okay. So, like, by our, I mean, crypto natives. So I feel like one of the themes lately has been we've created all of this cheap block space. Now, who's going to buy it?"
+    },
+    {
+        "speaker": "C",
+        "text": "Right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Like, and I'm wanting you to say that's going to be the crypto gamers and the crypto games. All of these layer twos pumping up block space. Mostly it's empty block space. And in order for the economics of this entire crypto system to work and the promise of crypto to work, somebody actually has to want that block space, actually has to demand it. And of course, we're ultra bullish on Defi, all sorts of other use cases. But could crypto gaming be the big demand catalyst for our block space? What if the 2023 2024 version of crypto gaming is maximally successful? What does that do to layer twos and block space? What does that do even to defi? What are the riplon effects in the crypto native economy, do you think the."
+    },
+    {
+        "speaker": "A",
+        "text": "Biggest to your last point, other than binance, the main exchange for trading illuvium tokens is sushiswap on ethel one. Yeah. Gaming is going to benefit all the infrastructure from ETH that's getting posted for data availability and settlement to the actual defi primitives like sushiswap. A rising tide will lift all boats. It will be lumpy. Alluvium will probably have days where it's making more fees than the l two that it's based on. Immutable might have some days where, if all the games are firing, it's the most revenue generating blockchain that exists. But generally a rising tide is going to lift all boats. And I'm more concerned at the margins about an ecosystem that's trying to create a mini ETH. We have a mini defi protocol and we have smaller nfts that are cheaper. I just don't think that's a differentiated use case of block space, and it's also not the same quality as ETH. I think what you're going to need to have to fill all this block space is differentiated use cases. I'm more bullish on a gaming chain that rolls up to an ETH chain, and I'm more bullish on, I don't know, maybe even an NFT specific chain that rolls up to the chain. But recreating mini versions of ETH, I don't think is a good use of block space."
+    },
+    {
+        "speaker": "B",
+        "text": "Let me just unpack what that means. When you said Sushiswap was the biggest exchange, like maybe the deepest liquidity for alluvials, which is kind of. These are the assets of alluvium."
+    },
+    {
+        "speaker": "A",
+        "text": "They're called fungible token."
+    },
+    {
+        "speaker": "B",
+        "text": "Fungible tokens. Okay, so these are the tokens, the eRc twenty s of the alluvium ecosystem. So how does that work practically? It's just all the activity happens inside of the mutable chain. And then when people want deep liquidity to actually, like, exchange their alluvials, then they just bridge back to, like, eth l one right now. I mean, in the future, that could be an l two with deep liquidity, and that's where they sell it. And so, effectively, what's the knock on effect of that? More consumption of block space for the ethereum and for defi, and actual use of the DeFi protocols through these on chain assets. And that's essentially the upside for everything in the crypto economy, is that where we've just provided the banking, financial infrastructure for all of these games, all of these on chain games that we're creating, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Like for most people, Defi isn't something that you do. DeFi is something that facilitates something that you're doing. You want to get an asset, you want to get out of an asset. It's not like you came on chain to trade defi, it's like you came on chain to play a game. And there's an ownership aspect of it, and a lot of it is kind of infrastructure esque. I so I think about ETH, and I'm not concerned about block space demand there. It takes somewhat chaotic of an afternoon to send gue to 100 for most of the day in a semi bull market for most of these other l two s. I just don't understand if you're not vertically oriented with apps, how you drive block space demand. Because it can't just be a mini version of ETH. It needs to be something that's oriented around gaming or some other consumer use case. And I think that's where we net out, is that maybe the generalized l two s of today are not really what ends up being powerful tomorrow. It's like value capture, especially in this space, is so fleeting. Where Opensea can be worth 13.5 billion one day, and then a year later it's worth 900 million or whatever it's worth today on secondaries. I think you could see some of that happen with the abundance of l two s that we have today."
+    },
+    {
+        "speaker": "D",
+        "text": "Only thing I'd add is that I think we're also just discounting the amount of scale that successful games have. One example is a game that we've been talking to, and they did their initial mint of just badges as nfts, that if you're in the discord, or if you're participating in the ecosystem, you get one of these nfts and it grants you access to the alpha or the beta product as they start testing new features and things. That mint alone was 40% of all transactions in March of this year on Polygon. And that's just one game that hasn't even launched yet. You think about the scale of something that just hits a million or a couple million of monthly active users. That's probably more activity than we've seen on chain yet in any of the markets that we've been in over the last few years."
+    },
+    {
+        "speaker": "B",
+        "text": "Can I ask you guys question? So, so how many gamers are there worldwide right now?"
+    },
+    {
+        "speaker": "D",
+        "text": "3 billion playlist?"
+    },
+    {
+        "speaker": "C",
+        "text": "There's like 8 billion people. Yeah, 3 billion are gamers. Hang on."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes, yes, yes. No games."
+    },
+    {
+        "speaker": "D",
+        "text": "3 billion people play a digital game every single month. Month. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, so there's 3 billion. Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "What portion of those 3 billion own crypto, do you think?"
+    },
+    {
+        "speaker": "A",
+        "text": "I don't know. If there was a Venn diagram, I'm not sure how much those circles would intersect. But, like, crypto is first and foremost a demographic and geographic phenomenon. It's more popular with young people, it's more popular in developing countries than it is in developed countries."
+    },
+    {
+        "speaker": "B",
+        "text": "And, like, I'm wondering if in addition to block space consumption and defi consumption, all of these things is like. And maybe this is a recycled 2021 narrative. And by the way, all the good narratives do come true in the fullness of time. Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "But, like, narratives are multi cycle."
+    },
+    {
+        "speaker": "B",
+        "text": "That's right. Well said. So we got 3 billion gamers, and their first experience with crypto is not like buying bitcoin or ether, like we all thought, hard money. Guys, come on. They don't care about that. They've just played a fantastic game, and now they see the value of crypto because they've just mined a bunch of alluviums. Sorry, mining is probably the wrong term, but they've played hard to earn these alluviums, and now they're selling it in crypto, and that turns them on to, oh, what is this asset called? Ether? And do they become net buyers of that? Am I getting too bullish there, or do you think this is really an onboarding mechanism that we haven't tapped into fully yet and could actually pump our assets?"
+    },
+    {
+        "speaker": "D",
+        "text": "Guys, bring it home."
+    },
+    {
+        "speaker": "A",
+        "text": "There we go."
+    },
+    {
+        "speaker": "B",
+        "text": "Just wondering."
+    },
+    {
+        "speaker": "D",
+        "text": "My guess is that in a year or two's time, with what's to be hundreds of games launching, we're going to have 100 million people, net new people into the web three ecosystem with private key ownership. Whether or not they know it, I think doesn't really matter. You're going to have 100 million people on chain in a few years time. Most of that's going to be driven by games."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, well, let's close this out, guys. This has been a fantastic tour. You've gotten me excited about crypto games again, and I haven't felt this excitement in a good 18 months or so. I would say I'm pretty excited."
+    },
+    {
+        "speaker": "C",
+        "text": "So when's the last time you played a game, Ryan?"
+    },
+    {
+        "speaker": "B",
+        "text": "It's been a while, David. Let's not get into it more than I like that. You know, I gotta pass the torch to a new generation of gamers here. But so we mentioned alluvium, right? And that's coming out imminently. Is it available right now? Like, tell us about the games tomorrow. Okay, so at the time of recording."
+    },
+    {
+        "speaker": "C",
+        "text": "Today is the 27 November."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So we'll get this out soon. So it'll be out by the time you guys are hearing this episode. And so is that the game? If you were to pick one game for people to get started that showcases the glory of crypto gaming for crypto natives. Now, would it be alluvium? They should go check that out."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, go check it out. It's the first one that's launching. That's like, you know, of the major crypto games. I would say there's like maybe two or three of those, and then there's kind of a whole long tail. But like, if you really want something that's high fidelity, that looks amazing. It's alluvium."
+    },
+    {
+        "speaker": "B",
+        "text": "It's alluvium."
+    },
+    {
+        "speaker": "C",
+        "text": "Do you need a gpu?"
+    },
+    {
+        "speaker": "A",
+        "text": "No."
+    },
+    {
+        "speaker": "D",
+        "text": "Oh, yes you do."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. For some versions of the game you do. Yeah. For the, for the."
+    },
+    {
+        "speaker": "D",
+        "text": "Depends on which game you're playing. Yeah, but you need to play it on a computer."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so that's the game. And then as far as your platforms out there that are, that are kind of crypto gaming platforms, immutable, is that, is that kind of the biggest one? Are they you winning the most market share at this point?"
+    },
+    {
+        "speaker": "D",
+        "text": "I would say that definitely seems to be the case so far. But once again, Illuvium is built on immutable. I think thats the start of when we see these games launch and where they aggregate. But immutable seems to have all the technology pieces that weve been missing the last few years."
+    },
+    {
+        "speaker": "B",
+        "text": "There we go, guys. All right, well, its an exciting time to be in crypto. Crypto gaming leading into 2024. Were going to do it this time, everybody. Michael Vance, thank you so much for joining us. This has been a lot of fun."
+    },
+    {
+        "speaker": "A",
+        "text": "Thanks, guys."
+    },
+    {
+        "speaker": "D",
+        "text": "Thank you."
+    },
+    {
+        "speaker": "A",
+        "text": "Appreciate it."
+    },
+    {
+        "speaker": "B",
+        "text": "Bankless nation. If you want to dip into the archive and hear what we were thinking about crypto gaming about 18 to 24 months ago, we'll include a list of previous episodes for you. I think a lot of those concepts are multi cycle. Right, Vance? I'm pretty sure. Exactly. Got to end with this. Of course, risks and disclaimers, none of this has been financial advice. Neither crypto financial advice nor gaming financial advice. You could lose what you put in. But we are headed west. This is the frontier. It's not for everyone. But we're glad you're with us in the bankless journey."
+    }
+]

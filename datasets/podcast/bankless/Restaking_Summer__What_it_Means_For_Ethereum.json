@@ -1,0 +1,510 @@
+[
+    {
+        "speaker": "A",
+        "text": "Hey, bankless nation. Welcome to bankless takes. This is where David and I just talk about maybe links. We saw articles, we read stuff. Just whatever's top of mind."
+    },
+    {
+        "speaker": "B",
+        "text": "We read you tweets."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it's a free form episode today, David. I think maybe the theme is wisdom in general, maybe some investing wisdom, but also just life wisdom. That sounds a little deep for a bankless podcast, but, you know, we get deep on you."
+    },
+    {
+        "speaker": "B",
+        "text": "We've done deep before."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah. So there's a great Twitter thread that we'll get into investing wisdom from Chris Berninski. So we got to talk about that. What else we got?"
+    },
+    {
+        "speaker": "B",
+        "text": "Vitalik wrote an article on his blog titled the end of my childhood, which the title's already deep. Vitalik turned 30 years old. Happy birthday. Belated birthday, Vitalik. And he wrote a reflective article that touched on many different things, not even one thing in particular. So we'll unpack that a little bit in our favorite part."
+    },
+    {
+        "speaker": "A",
+        "text": "I wanna hear your take on it. Cause you recently turned 30, didn't you? It's like 31 Vitalik. 31. Okay, 31 Vitalik. You got a year in Vitalik still."
+    },
+    {
+        "speaker": "B",
+        "text": "But like $150 billion network on me."
+    },
+    {
+        "speaker": "A",
+        "text": "Though, so he's done some things. Also, I want to talk about restaking, summer in particular. What's the price impact to ether? Ether the asset. So that's what's on slate for today. David, I think wisdom is a good place to start. I'm feeling reflective. So, crazy story. I know we're a little late to record this, but this morning there was a really bad car accident on my."
+    },
+    {
+        "speaker": "B",
+        "text": "Street, and you sent me a picture. I got a message from Ryan. I've gotten messages like this from Ryan before, where I actually don't know how to gauge the severity of it. You sent me a message one time, and it was like something bad just happened. It's like, serious. And I'm like, and then you go off and deal with unsaid things, and I'm just like, what?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I did that."
+    },
+    {
+        "speaker": "B",
+        "text": "Then you come, then you come back. Was it serious?"
+    },
+    {
+        "speaker": "A",
+        "text": "Do you remember what it was?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Well, you didn't tell me what the nature of it was. And I thought when you finally come back online, like 3 hours later, later, like, I was like, wife, kids, how are they doing? And you're like, oh, nothing like that. Like, I got a letter from the SEc about like, an old project that felt so bad, but holy hell, please specify. Yeah, so Ryan says, like, my friend was in a car accident. Like, I gotta go help. I'm like, uh oh. And then I get a picture of an upside down, car looking street."
+    },
+    {
+        "speaker": "A",
+        "text": "It was crazy. And the reason I can laugh about this is he's totally fine. But this was like a carpool that, you know, stops by my house every morning. I actually. David, though, there was, like, ambulance and fire truck and all of this. It was just outside my house at the end of my street. I honestly, I thought it was one of my kids for a minute. It was like a carpool full of kids. And so, like, yeah, I didn't get into that detail. So I rushed out of the house and didn't know for a few minutes. Anyway, I'm in a reflective mood because, like, man, life happens so fast. This is just like going to this episode. We're talking about wisdom. Just like, go give somebody a hug you love. Go call your mom. Like, get her on the phone. Because you never know. Like, just shit happens in life and you can't predict it. And it's, like, outside of all of your framework for analyzing the future, things that you didn't anticipate happen can happen in an instant. So that's the mood I'm in this morning."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. You remember? I know you know this. Wait, but why? From Tim. Urbanization."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "He just, like, he says, like, hey, you have a limited amount of time left. How many books are you reading a year? Like, two books a year? Three books a year? How many years you got left? All right, you got, like, 40 years left. All right, you got 120 books you're going to read in the rest of your life, and then you're reading a shitty book. Maybe you should put that one down. Right? Yeah. And then it goes into, like, all right, how many times you see your parents a year? Like, three times a year? Four times a year. All right, how many years you got left?"
+    },
+    {
+        "speaker": "A",
+        "text": "It's something like, people don't like it."
+    },
+    {
+        "speaker": "B",
+        "text": "When I bring this up, but, no, it's deep."
+    },
+    {
+        "speaker": "A",
+        "text": "I guess we're breaking. We're talking about it all this morning."
+    },
+    {
+        "speaker": "B",
+        "text": "This is not in the agenda."
+    },
+    {
+        "speaker": "A",
+        "text": "He does something. He also says something to the effect of, like, if you have kids, the time from zero to 18, you will have spent something like 97% of all of your time with your kids during those years. And so after they're 18, after they're out of the house, you only have, like, 3% left."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, but that 3% is extra quality, though, because, like, a decent amount of the time in the 97%, you were, like, clean and poop out of their diapers."
+    },
+    {
+        "speaker": "A",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "You can trade that for, like, deep conversations that happened in the last, like, 3%."
+    },
+    {
+        "speaker": "A",
+        "text": "Absolutely. I know you've. You've spent some good quality time with your mom recently, too."
+    },
+    {
+        "speaker": "B",
+        "text": "Like Argentina, right? Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "None of this is in the agenda."
+    },
+    {
+        "speaker": "B",
+        "text": "Had never seen that corner of the world. And, like, none of her friends or whenever she's talking about, like, hey, let's go traveling with my friends. They're like, you're up. Never did she would ever imagine herself, like, walking on a glacier in, like, this, the very far south."
+    },
+    {
+        "speaker": "A",
+        "text": "That's cool, man. Like, you just having, like, a trip with your mom into adulthood, right? So there is quality time that. That can be spent. And, uh, yeah, that's, uh, that's really cool. You get to do that. Anyway, the theme is investing."
+    },
+    {
+        "speaker": "B",
+        "text": "Now, your job, Ryan, is to transition this conversation into the Chris Berniski thread that we're about to pull up."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. Uh, Chris has some wisdom for us as well. I don't know if it's life advice or investing advice, but I, uh, I think it applies to both. This is the first tweet, and Chris is probably. Chris Berninski, uh, is probably one of the people I go to most often when it comes to, like, fundamentals, wisdom type of like. Like a Charlie Munger type thing, but for crypto. Or imagine if Charlie didn't hate crypto. I rest in peace. Charlie and Warren Buffett. It's these types of takes. He also got me crypto assets. Was one of the first books I readdeze in going down the crypto rabbit hole. Chris. Anyway, he starts off this tweet thread like this. You are responsible for every investing decision you make. I'm going to repeat that. You are responsible for every investing decision you make. If you blindly follow what other people say with no opinion or critical thinking of your own, you're playing a fool's game. Not only will you not hone your practice, but you'll likely lose money in the coming years. So that's how he. He starts this off, and then he goes on to make a general comment, I think, about crypto, Twitter, maybe, and some of the scenes and the culture that that's entered here recently. He says, I see an increasing amount of misinterpretation in my replies that says, Twitter replies and many long time crypto Twitter personality showing signs of exhaustion, which tells me there's a new crop of culture zeters. He says, xers, uh, x eaters. I don't know what that is amongst us. Um, and he. He says this. A lot of the misinterpretation comes from not accepting what you are responsible for or misunderstanding the high level lay of the land. Start with, the less entitled you are, the more you'll learn. What are your thoughts on this?"
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, there's a line that has been burned into my brain. Um, I can't remember where it came from, but, um, it's about, it's about copy trading, basically, where, like, there's some person publishing their trades and like, hey, here's what I'm doing. And this is a common practice for traders to do. It's like, you know, it's like social media for traders. Like, here's my trade. Here's what I'm doing. I, you can copy someone's trade, but you can never copy their conviction. So, like, two people can try to attempt the same strategy in investing, but if one person was, it was their original idea that they decided to come to a conclusion to based on evidence and analysis, and that was theirs versus somebody else who's like, oh, I think that's a good idea, and they just copy them. You're kind of becoming a weather vane. You're a leaf in the wind. You're going to see somebody else's trade and be like, oh, that's also a good idea. Let me just copy that trade, too. But those two things conflict, and it."
+    },
+    {
+        "speaker": "A",
+        "text": "Will be generally after they've been successful. So it's like, after it's worked and you're kind of like looking at that and you're sort of buying the top of the, after it's worked, you weren't looking at them when they were contrarian, right. And it looked like they didn't know what they were talking about."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. And so generally, Chris is just asking for people to reflect and consider, like, just critical thinking and independent thought, which is something that I think very, just massively is lacking, especially in crypto, probably all financial markets. I bet you this is a thing across all markets, but especially with crypto, where people who make a lot of money get turned into, like, deities by the average person on crypto, Twitter. And people just want to cop, like, just like, you know, live in their draft, for example. So, like, this is a rampant behavior where people are just, like, using other people's and, like, trying to copy their lifestyle, copy their investment strategy, just copy them. And Chris is asking like, hey, you can copy them, but that's on you. Like, that's your, that. If that's your strategy to copy others, that's on you."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I think he's also saying here is just like, back to that r word of, like, responsibility right. And so, I mean, you are accountable for your own investments that, like, you have to kind of own that, right? It's like you press the buy button. You know, you failed to press the sell button. And I think that's just a good life principle for investing. But just like anything, right? Specifically, markets are great at figuring out what's true, and they will tell you over time whether you are right or wrong. And it's important, when you get the signals of you being wrong, that you are self reflective about that. You own up to it, because that's how you become a better investor in this space. You go back through, you do a retrospective, and you're like, where did I mess up? Was this a psychological fault? Was it a fault in my understanding of the project? Was I maybe copy trading to your point, David, was I copy trading someone else or following some youtuber trying to mirror their success rather than doing my own thing? And so the very first step, I think, in a investor journey and crypto investor journey is, like, own your actions, right? Like, and by the way, you're not entitled to the upside. You got to work for it, and it's not necessarily going to come overnight. Right. Like, it could take a lot of time in the market, uh, to. To meet your goals. He. He also says this. Know which assets, style, and timeframes you are choosing. You know, that thing we say so often, david, is when you come into crypto, you got to pick your character class 100%. What do we mean by that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So, um, I came into crypto in 2017, which was my meme coin era. Like, people ping me with meme coins all the time. I'm like, that's just not about that life. This is when I was. You already did that trade. This is when I was, like, pressing the buy and sell button on the same assets inside of the same week on binance in 2017. And this is just because I think everyone kind of enters this crypto world, and they think that the charts and trading and speculation, and that's definitely what I did in 2017. I got that out of it."
+    },
+    {
+        "speaker": "A",
+        "text": "I think that's the game. You think that's what everyone's doing."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And so everyone. Everyone dabbles with, like, the charter trader, like, character class, because that's just, like, that's the beginning, or that's a beginner character class. And then it wasn't until the bear market, when I was. Still had so many more questions that I was like, well, there are other ways to navigate crypto. And also, I'm here for the long term. And so I need to, like, find a different strategy, because that didn't work. That one did not work. And so, you know, different character classes emerge, especially if you're just going to be in crypto. You can't just trade all the time unless you're a trader. But, like, there's other ways to fill your time. There are the tweet influencer character classes. There are the research character class. There is the content producer character class. There is the investor character class. And I think part of what Chris is saying here is, like, yo, I wrote this book called Crypto Assets in 2016, and it was about me and my journey in developing my investing strategy as it relates to crypto assets, hence why I'm writing this book called Crypto Assets. And so he identifies his character class in this tweet. I am a crypto assets focused, long, only long term investor. Three to seven year time horizons. I handle both public market positions and venture investments that turn liquid. This is, you know, it's exactly, exactly, yeah. And so, like, I think you and me, Ryan, we came together because our investing strategies, like, line up pretty damn well. We want to deeply identify why crypto assets are priced and valued the way that they are, um, from a variety of different angles and think about them in, I think, like, the longest of terms. Like, bankless has always been bankless. The podcast has always been, like, a truth seeking endeavor because we want to look, see, we want to make hypotheses theses about the way that the crypto world will look in 100 years. How will it end up, like, what are the converging basins of attraction that will imply our investments now? And this is our strategy. And I think there's been, like, everyone gives everyone else flak in this industry for, like, having a particular strategy. And I think there is a certain subset of people who have different timeframes, mainly, and perhaps also different ways of valuing things that these conflict. And so, like, people, a lot of arguments that happen in crypto are very frequently about timeframes. And I think you and I have developed a strategy that's about, um, trying to discover the. The deepest fundamentals in the longest term timeframes. And then we've made a media company around this, and that's what we would call bankless, and that is our strategy."
+    },
+    {
+        "speaker": "A",
+        "text": "I think that's also important when people are choosing their character classes to just, like, um, uh, follow those sources that will benefit their character class. Right? So Chris says this. Know your sources, their role in the industry, their credibility, ideally across multiple cycles, the asset styles and timeframes of any investor you follow. If you are an investor, like character class, and you're kind of long term buy and hold, and your goal is to increase your crypto denominated wealth, right? And by that, I mean, like, whatever your unit of denomination is for your portfolio. For me personally, it's ether. That's my money. Yeah, that's my money. And so I'm trying to, like, how much wealth do I have as denominated in units of ether? Right. That's literally what I'm doing. But if I was consuming content from, like, a crypto trader, that is just kind of like trading the bitcoin eth ratio, and that's in my brain, and I think I, like, I'm probably going to the wrong source of content for my character class."
+    },
+    {
+        "speaker": "B",
+        "text": "Do you remember what Arthur Hayes, we asked this question, Arthur Hayes, what do you denominate in? Do you remember what he said?"
+    },
+    {
+        "speaker": "A",
+        "text": "Didn't he say, like, he would do tins, like cans of oil if he could strap it to a belt?"
+    },
+    {
+        "speaker": "B",
+        "text": "He said hydrocarbons. I denominate energy."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Which is a very interesting perspective. And 99.9% of the people that follow Arthur are not thinking like that. Most people just like, I denominate in dollars, bitcoin eth, Solana."
+    },
+    {
+        "speaker": "A",
+        "text": "Arthur knows his character class, so he knows what he denominates in. And by the way, he knows his strategy for increasing his denominations, increasing his hydrocarbons, which is he's trading and he's trading not on, like the week by week cycle, but if you, like, ask him or talk to him, it's like months. It's like three to nine month types of trends. He's got his character class absolutely nailed down. Chris has some other takes here. Chance favors the prepared mind, but there's still amount of chance involved. Chance never favors you forever. Right? I'm. You can get lucky some of the time, but you're not going to get lucky all of the time. In crypto, he goes on, all idols are false. Something we were saying earlier. Form your own opinions. Don't try to mimic your idols."
+    },
+    {
+        "speaker": "B",
+        "text": "Following a hero in crypto is dangerous. And this is the same thing with copy traders. There's a bunch of traders out there who play the influencer game, and they very much enjoy when people follow their trades because that also makes their trades more lucrative. And if some people can make money, that's why they, like some people, just glorify these people. You know, it's just like we had."
+    },
+    {
+        "speaker": "A",
+        "text": "A lot of bad idols last cycle, didn't we? 2021 idols."
+    },
+    {
+        "speaker": "B",
+        "text": "I think we always have bad idols. And I think this is what Chris was saying. I think higher up in the thread where he just says, um, just like, know your sources. Also with character classes and especially, especially for people who go through one cycle that he highlights, uh, people morph character classes, sadly, in crypto, and you can be one strategy, one character class on the way up and a different character class on the way down. And you can be like shifting around depending on the nature of the game. And, uh, fine, that's fine. Uh, but if you are somebody who's like, looking towards these people as leadership, you need to be aware that, like, their strategy, their strategy changes how they get value and how they make their trades can also change. And so have you ever. Sometimes it's more beneficial to identify the people who are not changing their strategies across cycles."
+    },
+    {
+        "speaker": "A",
+        "text": "Agreed. And people change. Right. And to your point, their styles change over time. Have you ever heard naval's framing of this, where he's like, early in your life you want to be a mercenary, and kind of later, once you've made it, you become a missionary, and then later in your life, once you've done that, you become an artist? He's like mercenary, missionary, and then artist. Right. And I think I've seen many people in crypto sort of follow that trajectory where at first they're like, mercenary, they're just like, okay, but I want to get faster than you, right? Like I'm just gonna. And then they move into kind of a missionary where they're part mercenary still. They're still trying to make a profit, but they have a legal. Yeah, and I would say I've kind of like, I'm part mercenary, you know, part missionary now. And like the missionary has grown, like, over time for me in my, my crypto journey, and the mercenary has, has shrunk a little bit and then I could see the artist thing on the horizon. Like, by the way, this gets to Vitalik's post, where I think for Vitalik, it's actually like he skipped all that. It's mercenary, missionary and monk. And he just went all the way to Monk face."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, he. Vitalik has lived a very sped up life."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes, he has, man. Uh, anyway, we'll get to that in just a second, David, but first I want to talk to you about something less deep, but something that is on the near term horizon and that is restaking. And I know you're doing, as we."
+    },
+    {
+        "speaker": "B",
+        "text": "Turn to restaking, can we also place this in, like, about our strategy as content producer investors. Let's. Let's try and do that. I think, like, restaking and Eigen layer has resonated with you and me for a particular reason, and I think it's because it fits in our understanding of crypto networks, where crypto networks are going, and it is, like, resonant with our strategy and why we are excited about it."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, there's two parts to this. Like, for me, anyway, I'd love to hear what you say about it. It's like one long standing thesis that out of crypto will emerge monetary instruments like stores of value, through which you can and probably should denominate your wealth in a bankless way. Right outside of the existing fiat central bank system, we've created this new store of value, this new money. Right. And there have been some longstanding contenders to where that money can emerge. Bitcoin has been in the fray. Bankless has long argued that ethereum is in the fray and should be in the fray."
+    },
+    {
+        "speaker": "B",
+        "text": "And I think we've been on well accepted by now."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, we've been on kind of, like, the writer side of that argument. It's not fully fledged, but, like, ether has become more money over the past three years, since we started the Bankless podcast and kind of, like, dove into the space. And so the interest for me in restaking is one. This establishes ether as a monetary instrument even more, and so makes me even more excited to denominate my wealth. But then there's also, like, again, the mercenary side, the trader side. There's a lot of value being created in the restaking economy through, like, eigen layer and all of these restaking protocols. And that is more short, that is shorter term. That's like defi summer. Like, you see this kind of emerge, it's going to emerge in speculative frenzy, but there's opportunity in that speculative frenzy, and we're also going to create something that I think is going to be much more lasting than just the bulbas cycle of the speculative frenzy. There's both a long term play and there's a short term play here that I see. How does that reflect how you think about this?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think it aligns with the concept of smart contracts on Ethereum, which, let's go back to 2015, was a revolutionary concept. Smart contracts are no longer revolutionary concept, but that's because ether, like, popularized them."
+    },
+    {
+        "speaker": "A",
+        "text": "Do you mean, like programmable money?"
+    },
+    {
+        "speaker": "B",
+        "text": "Programmable money, yeah. And so, like, we have crypto networks with native assets, and then we have smart contracts and turing complete, like, languages, like, solidity. Those two particles come together, and boom, we have programmable money and eigen layer. And restaking is a continuation of those two particles being smashed together back in 2015."
+    },
+    {
+        "speaker": "A",
+        "text": "Yep."
+    },
+    {
+        "speaker": "B",
+        "text": "And so it's a return to, like, a very core principle of, like, why people? Why there was this original brain drain from bitcoin into ethereum in the first place, where it's, like, people just thought, oh, it's. It's bitcoin, but it's programmable. It's bitcoin with programmable money. Bitcoin. Bitcoin is digital gold. ETH is programmable money. Uh, and now, like, Eigen layer is taking programmable money and using that to create new crypto economic networks that do new things that are, like, completely adjacent from a blockchain, but are still crypto. And that's kind of the exciting new thing that I think is getting a lot of people's imaginations going."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly. And I know you're doing an episode about the shorter term or this new ecosystem that's springing up with restaking protocols. Right. You're doing a speed dating episode. Where are you interviewing? I don't know. Five or so of the teams and giving them 15 minutes. Give me your pitch type is that."
+    },
+    {
+        "speaker": "B",
+        "text": "The episode format might be six. So maybe just to really just place this into context, we have Ethi asset and the very center of a set of concentric circles. It is programmable money. Then we have liquid staked ETh. Right. The LST tokens, the staked Eth from Lido reth from rocket pool. That is the next concentric circle out. With Eigen layer, we are going one more concentric circle out, which is liquid restaked ETH. Liquid restaked tokens, lrts. And this is brand new. And so there are so many teams going after this. I think, really there's six that represent over 95% of all of the TVL and liquid restaking tokens. So I'm doing a speed dating episode so we can get to know all of these projects. And so, like, 15 minutes or less for every single project, one by one by one. And so that episode recording most of those this week, and then we'll be finished recording next week, and then hopefully, it was out around Ethan Burton."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so what I want to talk about is maybe the bigger picture vision here of why is restaking good for ether? And so, in what you just said, right, you said there's ETH and there's staked ETH, and there's restaked ETh. I think one analog. If you're looking at this through a monetary lens, like, let's say you take fiat. Let's say you take the dollar, okay? That is similar to ether. Now, let's say you put that dollar in a bond, right? So you lend it back to the protocol, you lend it back to the us government. Well, it becomes a treasury, a t bill, and you earn some yield that is equivalent to staked ether. All right? So you've got the dollar, and then you wrap it inside of a T bill, a treasury, and then it becomes the staked dollar, okay? And then if you use that staked dollar in some sort of form, you can kind of create and use the economic security of the nation state. You can kind of create a different bond market. That is the corporate bond market. And that's kind of what I see with restaking is it's like a form of corporate bond market for all of these apps that are being built on top of Ethereum, these avss that are using the economic security of Ethereum. So I think we're starting to frame out, like the next frontier. We talked about ether so much on bankless as sort of a different form of monetary unit versus fiat. And then we got really excited. We started talking about staked ether, right? That's the next phase. Now we're in the corporate bond market. That's kind of how I see things. I don't know if that resonates with you 100%."
+    },
+    {
+        "speaker": "B",
+        "text": "The main difference is that when you have a dollar and then you turn it into a treasury, you can't also turn it into a corporate bond. You have to turn it into a treasury in order to turn it into a corporate bond. So we have the yield of corporate bonds being stacked on top of the treasuries. One of the big bullish things about crypto is just the instances in singularity, if you will, that I see. It's just like what was separate and disparate in trad markets is now the same and synergistic in crypto worlds. Things just like more harmonious, more stacked on top, more synergistic in the crypto world. And this is an example of those we can do more of the same things at the same time very frequently. Capital just was so much more efficient in crypto, and this is exactly illustrating that exact point. So we have corporate bond markets, which is just like in the trad world. Corporate bond markets is just like Tesla or Amazon saying, hey, I need a loan and I'll pay 6%. And then the market will come and fulfill that order. And that is usually higher than a treasury market, where the treasury market's giving like 4%, which is the incentive."
+    },
+    {
+        "speaker": "A",
+        "text": "It has to. It has to be higher because the cost of capital, or the zero risk form of capital is actually treasuries. So corporate bonds always sort of have to, because they imply greater risk of."
+    },
+    {
+        "speaker": "B",
+        "text": "Tesla could default, but it's assumed that the United States will never default because we have the money printer. They have the money printer, and so they'll just, oh, we don't have enough money. Oh, boom, we just made more money, right? Tesla can't do that."
+    },
+    {
+        "speaker": "A",
+        "text": "The US will never default nominally, right? It could default in terms of real returns."
+    },
+    {
+        "speaker": "B",
+        "text": "And that's not a default."
+    },
+    {
+        "speaker": "A",
+        "text": "Gotcha on a technicality."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. So there's always higher yields for the corporate bond market. This is actually different in the Ethereum context, where the yields being added on to Ethereum, ether re staking, are actually quite marginal. They're quite nominal, which is actually the point, which is why, like, cosmos validators who have to, like, find their own security, share their own security, have to actually pay a lot. But when you can aggregate these things together, you can get a very comparable level of security for much."
+    },
+    {
+        "speaker": "A",
+        "text": "We do that. We do that. Like, we tradfi does that, David, in that they'll group a whole bunch of bonds together, and they'll give them a rating, and you could buy a mutual fund of kind of like a class of bonds, basically. Well, they'll just smush a whole bunch of the corporate bonds into kind of like one unit that you can purchase."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, but that's actually not what I was referring to. So, like, with restaking, $1 of capital can be applied to, like, turn into $7 of security for seven different networks. But with, like, what you were just saying, like, $1 of capital is $1 of capital. It's just like, being aggregated across all of these bonds. And so all of these different corporate bonds that are using, like, corporate networks, AV's networks, we need to stop calling them corporate networks. They can all actually become more efficient with their security spend. So they get to secure their protocol for, like, marginal, marginal amounts of spend, security spend. But then it all aggregates together into a shared, like, commons of security, which is the rest taking markets."
+    },
+    {
+        "speaker": "A",
+        "text": "So the question I think that maybe people are listening to, who owns some ether? Is, is restaking going to be good for the price of ether, the fiat denominated price of ether? And I want to maybe give a take on that. And I'd love your thoughts on this, David. So one is, we're looking at a chart of the amount of eth that staked over time. Since basically this functionality was launched, uh, back in, you know, 2021, it has been basically up only in terms of the amount of ETH actually staked, because there's raw eth, of course, and there's eth that you can stake. And here's a chart that just shows kind of the trajectory. And as I said, it's just kind of up only. So the total amount of ether staked is almost 30 million right now, which is what is that, like 25% of the mid twenties, something like that, in terms of percent of the network. And so one, I think, obvious thing that well see is there will be increased demand for staking eth. Why? Because you get some additional yield on top of it. Because there's more reward for staking eth. And I guess the question is, how does that reflect in terms of price? Or what does that do to the unit of ether? And I guess I have a few things I think it does. So, number one, unit of value. This is even more of a reason to denominate in ether, because now your unit of account."
+    },
+    {
+        "speaker": "B",
+        "text": "Not unit of value."
+    },
+    {
+        "speaker": "A",
+        "text": "Unit of account, yeah, unit of account. Now, your ether becomes like a asset that you can use not just to purchase gas, not just to watch it go up in fiat terms, but it becomes an asset that you can use to generate yield in other places, the market. Right. For me, as a holder of eth, it makes me even more attractive to hold it. And you compare that to, say, dollars. There's a lot of utility for dollars out there. But the nice thing about ether, of course, is it generates yield, and we know what the supply schedule looks like. It's attractive from that perspective. I also think it creates additional monetary value, monetary premium for ether, the asset, because this use case really establishes ether as a collateral, as a bond. Not just a bond for its own internal network, but a bond for an entire economy of applications that are built on top of it. And I think what that does is it creates some narrative value. So this meme that we've talked about, I think the very beginning of a bankless of ether as an Internet bond, sort of starts to really reinforce that narrative value proposition, and that creates a liquidity flywheel. So recall one definition, a great definition of money from the Austrians is that its the most saleable good. And what that means is its the most liquid good, right."
+    },
+    {
+        "speaker": "B",
+        "text": "No matter the time, no matter the place, the depth of the market is extremely deep."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So you could sell hundreds of millions of dollars and a very liquid market would not move the price. That is one definition of money and I think it's probably the truest definition of money in an asset test. So this liquidity flywheel means there will be more places to buy and sell ether. It expands in terms of market cap and it becomes a more saleable good. And then we also have all of these yield products that are built on top of this. And I think that narrative probably in a year or twos time will start to take over tradfi where they start to see ether not just as a productive asset being staked, but its a productive asset for this whole like well call it the corporate bond economy, essentially inside of ethereum. And so that will have to double."
+    },
+    {
+        "speaker": "B",
+        "text": "Down on that point. Not just is ether a productive asset natively inside of ethereum. Cool crypto bros, you guys figured out this a cool insular economy, but they will also see ETH being a productive outs productive asset that's expanding beyond its own internal ethereum network. So the asset itself is being productive for non native use cases, which we are calling avss."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah exactly. And that's sort of what I like about this is because right where these yields ultimately come from in restaking, well there has to be some valuable avss applications that are built on top of restaking eigen layer. But to the extent thats true, it becomes a crypto specific economy source of yield for ether that is outside of tradfis existing apparatus. Its not like a mortgage, its not like a corporate bond or some other source of yield. Its internal to the crypto economy. Thats cool. And lastly, what I would say is its a pretty strong moat for ether as a monetary unit. So bitcoin is not being used in this way. I think there are attempts to try to make bitcoin."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah the Eigen layer equivalent for bitcoin is called Babylon. But whether or not there is actually product market fit is yet to be discovered."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. And because bitcoin is not as expressive as ethereum, it's just much harder to kind of draw that out in a trustless way. And so. Yeah and then you look at alternative layer ones, right I. They're not being used in this way as a money. So it kind of establishes ether even."
+    },
+    {
+        "speaker": "B",
+        "text": "More high market cap. But it went down today and I'm sorry, you can't restake on a network that goes down."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. So eth as programmable money is kind of a moat. So all that said, I think it's look, restaking this is why we're excited about it from a time horizon, long time horizon perspective, is because it really establishes, maybe cements the monetary value proposition of ether as an asset, as a bond for applications on the Internet."
+    },
+    {
+        "speaker": "B",
+        "text": "So at the time of recording, there's 1.72 million ether deposited into Eigen layer. Almost 600,000 of that is natively restaked, which is just like raw vanilla ether going straight into Eigen layer. But inside of that natively restaked, it's also some LRT competitors. So we have liquid restaking, which is taking your rocket pool ether, your swell staked ether, your lido staked ether, and you're just depositing it into Eigen layer. And then there's native restaking, which is where many of the lrts are competing, which is they're taking your ether, they're creating an eigen layer, a node on the Ethereum layer one, and validating node on the ethereum layer one. And then hooking that into the Eigen layer contracts for native restaking. So 1.7 million ether. And then the liquid restaking wars are some of the. Probably one of the hottest things in Ethereum."
+    },
+    {
+        "speaker": "A",
+        "text": "Do you have a prediction? How big do you think this is going to grow if we're at 1.7 right now? You think we get to 5 million? Think we get to ten."
+    },
+    {
+        "speaker": "B",
+        "text": "And, like, one of my predictions for 2024. Right. Which one of them came right today? I think you can know which one it was. The second one I have is that $10 billion gets put inside of eigen layer in 2024."
+    },
+    {
+        "speaker": "A",
+        "text": "$10 billion. Now, ETH denominate that."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, it depends on the ETH price, but we are at 2 billion, I think 1.7 billion. Let me actually do the actual real math on that with my calculator, because the bankless nation knows I'm terrible at math. 1.7 million times 2300, is that where we at? Which comes to $3.9 billion. Yeah, I made this prediction below $1 billion."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes."
+    },
+    {
+        "speaker": "B",
+        "text": "So we're well on our way there."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, actually, the problem with your prediction might be, like, you weigh under predicted here. I think we could get well past."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, but I want to go for five for five this year. I've got one. The other one is $5 billion. Gets airdropped to users in 2024. That one's."
+    },
+    {
+        "speaker": "A",
+        "text": "Come on. That's going to happen. We're probably already, like, two or 3 billion in right now."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I can't remember what the other two were in. We'll pull that up later, when I get five for five this year. Anyways, okay, so $4 billion in eigen layer, 1.7 million ether. The early Ethereum predictions from the protocol devs, the Justin Drakes, Vitaliks, Tim Baker's, Danny Ryan's of the world were like, yeah, the equilibrium will be 20 to 30 million ether native, like, just staked and validating the chain. That would give us a minimum threshold of security that would make us feel comfortable. And right now, we are at 29 million. So we're at the upper end of that prediction. But that prediction was before lsts were a big deal and way before Eigen layer was even a thing. If you look at other ethereum, other proof of stake networks, all of the cosmos chains, Solana included, their stake rate of how much their native asset is staked to the network is around like 60% to 70%. Why are these variables so different? Like all other proof of stake, networks are starting at a very high stake rate and actually trying to get theirs lower, whereas Ethereum started at zero and has tried to get its higher. Now, Ethereum is currently fine. It doesn't matter if it goes up or down, but it's going to go up, and I'll get there in a second. Whereas other networks are, like, started off with delegated proof of stake, started off with not very robust defi ecosystems, there's not really a reason to not stake. Therefore, everyone wants the inflation. And so with the eigen layer, and in the increasing yields that all AV's networks will place into restaked ETH, the incentive to stake ETH will go up and up and up. And so all of a sudden, the new predictions around the percentage of ETH staked have. I've seen from go, like, I haven't even heard of predictions specifically from the EF folk, but just from other people in the space, like Mike Capolito, he thinks it's going to approach like 60%."
+    },
+    {
+        "speaker": "A",
+        "text": "That's interesting. I actually, this is a whole nother episode. I don't know that it'll get that high, because I think, like, if we get into eth monetary economics, like, there's an asymptote where you get to a certain point in time and, like, the yield, at least from raw staking eth, ignore the LSTs, and the additional yield juice on that starts to, like, go down. And so this is kind of like an ETH monetary policy type of decision. It's like a mechanism design of what, what's in the best interest of, of the network? Do we actually want, like, 50, 60, 70% of ETH staked or not. And I think the answer is I. I think we don't want that for network latency reasons, other reasons. But this is a good question. We should ask some core devs ETH researchers. It's a Justin Drake type question."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, we are doing an update to the Ethereum roadmap episode with Mike Norder and Dom on Friday, so I think we will just have that included in the episode. Yeah, the networking issue gets fixed with the EIP max effective balance, who mike nor one of the guests on the podcast is actually championing. Apparently it's not getting pushed through to Elektra, which is a big bummer, but we can talk about that in the episode."
+    },
+    {
+        "speaker": "A",
+        "text": "There we go. David, you want to get to Vitalik's post, end of my childhood."
+    },
+    {
+        "speaker": "B",
+        "text": "But first, a moment to talk about some of these fantastic sponsors that make the show possible."
+    },
+    {
+        "speaker": "A",
+        "text": "The end of my childhood. This was a blog post from Vitalik. I don't miss anything this guy writes. I don't know if you know Vitalik, David. He's really, really."
+    },
+    {
+        "speaker": "B",
+        "text": "I know him more than I met him."
+    },
+    {
+        "speaker": "A",
+        "text": "Just turned 30, and he's someone that I've long looked up to in this industry. He's not one of the main characters who has been kind of like, eliminated from the script. He's got some durability and we've had enough conversations with Vitalik. Yeah, I feel like I know the human being and from reading his writings, good person. And this is, I think the overall vibe of this article that he wrote was like, vitaliks going like kind of pure monk era here. Right? And so he was talking about how he doesn't want to be the only leader of Ethereum and how more people are stepping up and how that is so great to see because he's basically not always going to be as plugged in as he is now."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "But this was all about dropping wisdom. And one reflection I had is I just. I can't wait to have an interview, a conversation or hear an interview with Vitalik in his forties because he's aging very well, I would say, in terms of, like, wisdom per unit of year. And that was really reflected in this article. How did this hit you?"
+    },
+    {
+        "speaker": "B",
+        "text": "The first thing I noticed about this article is it was just structured differently than previous normal Vitalik articles. It's a little more prosy. It's a little bit more, oh, I'm a story time. This is story time. He titles the sections 1234 rather than just like, here's this one is about like, stealth addresses or whatever. And it's a little bit like writing for writing sake, which I think that was the first thing that stood out to me. I sent this article, actually, to my mom after she sent me, forwarded me a message, or not even forwarded me, just sent me the message. Like, I just read about bit boy in the New York Times and like, oh, I'm just so disgusted. Like, terrible."
+    },
+    {
+        "speaker": "A",
+        "text": "It was. I think it was. I saw this. I saw this art. It was like, from the New York Post."
+    },
+    {
+        "speaker": "B",
+        "text": "New York Post, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "And it basically was like, look at this crypto scammer grifter."
+    },
+    {
+        "speaker": "B",
+        "text": "Right?"
+    },
+    {
+        "speaker": "A",
+        "text": "He's. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "With the air of like, this is what crypto is."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it's bit boy 100% right."
+    },
+    {
+        "speaker": "B",
+        "text": "And like, perfect product market fit for its readers who definitely want their, like, dose of crypto schroding Freud, which is like what I sent my mom, and she was like, I totally understand that. And then I sent my mom this article from Vitalik, and she was like, oh, my God, that was so beautiful. Like such a fantastic cleanse. Like, what an incredible mind. Yes. This is my side of crypto. This is the preferred side of crypto. This is what I see when I see crypto completely."
+    },
+    {
+        "speaker": "A",
+        "text": "One of the images he captured in the article was this. It was a chat GPT prompt, and he asked for some prompt for show me bitcoin. And then you said, show me ethereum. And he kind of juxtaposes the two."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, no, no, not just that. Show me bitcoin now. Make it 1000 times more ethereum. Turn ethereum up to eleven and show me what that looks like."
+    },
+    {
+        "speaker": "A",
+        "text": "And for people who can't see this in the podcast, bitcoin is kind of like very much gold types of tones, sort of like these, these browns and yellows that you find."
+    },
+    {
+        "speaker": "B",
+        "text": "It's very gilded with a big guy, a guy wearing a crown and some sunglasses on a throne with bitcoin necklace scepter."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. And there's all the kind of the unit of bitcoin around. And then you move to the ethereum. Yes, the same question now make it 100 more etherium y. And chat DPT really captured the vibe of these two cultures. So Ethereum is much more like, I would say, like Tron style, like futuristic."
+    },
+    {
+        "speaker": "B",
+        "text": "Metaverse, the video game movie."
+    },
+    {
+        "speaker": "A",
+        "text": "Movie. Yes."
+    },
+    {
+        "speaker": "B",
+        "text": "When I first saw this image of the Ethereum image, I was like, oh, that's Carl Florsch."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, really? Looks a little bit like Carl mixed with Vitalik. To me, it's kind of like futuristic. These purple hues, these neon type colors."
+    },
+    {
+        "speaker": "B",
+        "text": "Purple, blue hues, actually ironically sell on the colors."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. One thing that we can kind of capture from this is a difference between bitcoiner and ethereum culture. Another thing that struck me in this post was actually somehow he manners to this conversation about how we get there in crypto. And he put together a diagram that I've not seen somewhere else about, like these four different kind of sub tribes within crypto. And so we've got the token holders and the DeFi users as one group. We've got the application builders. As another group, we've got the pragmatic users. These are different than the DeFi users who are doing the speculation and the token hold, not the investors. Pragmatic users are just like, we call that adoption. Yeah, adoption. Like real world use cases. This is people in Argentina using it as a stable coin to kind of like get by and denominate their wealth and that sort of thing. And you got the intellectuals who are the researchers, the protocol devs. And he paints this picture of how they all interact, and all of these tribes have different goals and different identities. And he says the token holders and DeFi users contribute greatly to financing the whole thing. That's their value proposition to the network, which has been key to getting technologies like consensus algos and zero knowledge proofs to production. Intellectuals provide the ideas to make sure that the space is actually doing something meaningful. The builders bridge the gap and try to build applications that serve users and put their ideas into practice. And the pragmatic users are the people we are all ultimately serving. Some wisdom here. I definitely see that in the tribes. Sometimes the intellectuals don't understand what in the world the token holders and defi users are doing, right. Sometimes the builders don't fully understand, but the builders are most connected, I would say, to these three groups. And sometimes the token holders and defi users are just like degens, all about the next thing where they can get some return and they don't see the bigger picture. Anyway, it's been interesting very much to observe the interplay between all of these sub communities within crypto, and they all help one another. They all have different goals as well."
+    },
+    {
+        "speaker": "B",
+        "text": "I think the part of the article that stands out to me the most, and there's so much depth to this article, and we are just skimming our favorite parts off the surface. And so what we are doing is not at all in supposed to replace. Actually reading the article, we're just talking about, I think, parts that stood out to us. This one passage that I'll read is the one that stood out to me the most. And Vitalik writes, but how beyond stories do we make this happen? And this being like adding decentralization and crypto values to the world? Here we get back to some of the issues that I raised in my post from three years ago, the changing nature of motivation. Often, people with an overly financed, focused theory of motivation, or at least a theory of motivation within which financial motives can be understood and analyzed and everything else is treated as that mysterious black box we call culture, are confused by the space because there are a lot of behaviors that seem to go against financial motives. Quote, users don't care about decentralization, and yet projects still often try hard to decentralize. Quote, consensus runs on game theory, and yet successful social campaigns to chase people off the dominant mining or staking pool have worked in bitcoin and in ethereum. I think the punchline of this short little passage is that there are other forces at work, hidden forces at work, that are steering the ship of crypto that are not just financial motivations. Like, there is a very strong culture of decentralization that has permeated in crypto from day one. You can see that in, like, the rocket pool community. You can see that in anyone who's, like, chanting get off geth. You can see that in, like, the bitcoiners who, like, for better or for worse, have turned into this, like, weird bit of just, like, religious zealots about, like, BTC, the asset. Like, we have motivations that are beyond just, like, natural financial motivations. But the thing that's nerds like, to me about crypto is, like, this relationship between code and culture. There is a back and forth conversation between these two things. And this is why in crypto, we find people to be so tribal is like, somebody writes code that represents value, literal value, as in, like, BTC, the asset, eth the asset, but also human values. And then humans look at those things and then they see, oh, bitcoin has some set of, like, values. They're like the Austrians. Like, Ethereum has some set of values. They're like the Sci-Fi tinkerers. Like, oh, Solana has some set of values. Those are the low level devs, the pragmatists, which do I resonate with the most? Oh, okay, that's my tribe. That's my culture. And these are the cultures that I want preserved as this thing scales out into the world. And I think there's just a very powerful way of showing just like, hey, like, it's not just money. Even if you think it's just about money, you've actually chosen a particular set of values, which is represents your tribe, and the choices that you make are implicitly an attempt to scale those values out to the world. Like Solana wants to scale Solana values to the world, Ethereum wants to scale Ethereum values to the world, et cetera, et cetera. And the fact that we can articulate these things and just prove that, hey, it's not just financial motivations. I think it's powerful. At least powerful enough to build a brand around crypto that's not merely degeneracy."
+    },
+    {
+        "speaker": "A",
+        "text": "I 100% agree, and I think we'll get there. And I love the optimistic note through which Vitalik leaves the post, which is just generally optimistic and bullish on humanity and bullish on this thing that we're creating here. So I will include a link in the show notes to this article. Let's end with this recent disclaimers crypto is risky. You could lose what you put in. But we are headed west. This is the frontier. It's not for everyone, but we're glad you're with us on the bankless journey. Thanks a lot."
+    }
+]

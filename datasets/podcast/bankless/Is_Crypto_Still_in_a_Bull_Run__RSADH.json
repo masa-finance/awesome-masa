@@ -1,0 +1,478 @@
+[
+    {
+        "speaker": "A",
+        "text": "Bankless nation. Question for you today on bankless takes. Is the bull market over? David, I was scanning crypto Twitter, catching up on the weekend, and it certainly seemed like it by the time everyone's bearish."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Why?"
+    },
+    {
+        "speaker": "A",
+        "text": "When? Why? Why did crypto sentiment flip bearish? It was like, it was like four things. It was the ETH. ETF will be nothing. What's the take? Gox mount Gox is going to dump on you. It was. There's no new crypto use cases. This cycle is not like 2021. There's too much token supply."
+    },
+    {
+        "speaker": "B",
+        "text": "No retail."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, no new retail."
+    },
+    {
+        "speaker": "B",
+        "text": "All the flood is compounding Germany's dumping on us."
+    },
+    {
+        "speaker": "A",
+        "text": "An entire country. Yeah, what the heck? Come on, Germany, get with it. So I guess the question for today, is this just summertime slowness or is the bull market over? Did we hit all time highs?"
+    },
+    {
+        "speaker": "B",
+        "text": "Was that it? So the last bull market, 2021, I think everyone said, like, ended really abruptly and kind of like, prematurely. So, like, are we getting that twice? Is that just like what crypto is? Maybe crypto is always just like. We're destined to be sub $5 trillion market cap. That's just what we are."
+    },
+    {
+        "speaker": "A",
+        "text": "I think that's the topic for today. Right. We want to gauge the sentiment. We want to talk about the bear case for a while, and then maybe, maybe the other side of that, maybe the bull case. And what we actually think towards the end of this, David, as we're going to this episode, prices were down actually significantly, like a fair amount, but they kind of popped before this episode. So, uh, no idea what prices will be by the time you are listening. But, like, we got a little bit of a. Should we call it a dead cat bounce?"
+    },
+    {
+        "speaker": "B",
+        "text": "Can I call it that? So bitcoin dropped down below $60,000 to 59 and a half. We are currently almost back up to $62,000. Uh, ether did something pretty similar. Uh, ether is at 3400. We've seen these prices recently. We've seen these prices. What was it like before the ETH ETF was approved? Ether got down to 2900. Its bottom was 3300. So, like, we are at a higher low, but sentiment is at a lower low. Like, sentiment is just like. You know what? I'm jumping."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, guys, so that's the episode today. We're going to give you the diagnosis here on what's going on in Bearville. Is the bear, is the bull market over? And what do these things mean? The Mount Gox news, if you haven't heard about that, we'll get into it. ETF flows. Maybe they're not what people will hope. We'll get into all of these topics and more, but before we do, we want to thank the sponsors. David, welcome to Bearville. So this is a tweet. I don't know when this was dated. The 24th, 2024. So that was, I guess, on yesterday."
+    },
+    {
+        "speaker": "B",
+        "text": "Monday we're recording the 25th."
+    },
+    {
+        "speaker": "A",
+        "text": "Today marks the largest drawdown on bitcoin in more than a year. We felt the knock on effects of a slow bleed down from 70k, but really hard to put to words how strong today's selling was relative to the last few months. We got an 8% sell off of."
+    },
+    {
+        "speaker": "B",
+        "text": "Bitcoin candle down one day candle."
+    },
+    {
+        "speaker": "A",
+        "text": "That's a lot. Okay. Like, no wonder people are failing bearish after this. What's going on here?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, there's a bunch of different things all putting it together. I think the big news that we're going to talk about is the Mount Gox distributions. That is kind of the new thing that's in the meta. And if you've been around in crypto before, you know that Mount Gox always comes back. There's been this supply of Mount Gox, of bitcoins that is perceived to be going to be sold by the market as soon as Mount Gox creditors get their bitcoins. Mount Gox, the of course, infamous crypto exchange that got hacked, 15% of the bitcoins were recovered. And over the last, like, eleven years, creditors of Mount Gox have been squabbling over, like, the distribution details. And it seems to be like that. Those arguments, those debates have finally come to a head and they have finally determined a release date for the Mount Gox coins. And this has created just the bearish action, like the price action perceived to be the reason behind the Bears price action. But I would call it like, it's not just Mount Gox, it's just like, Mount Gox is like the next sucker punch out of just like a seemingly lack of ability to get some momentum. Like, we, we crossed all time highs in bitcoin and that was it. And then we went down below them. Like, we haven't, and we haven't had the bull market that we wanted. And so I think Mount Gox is just like another sucker punch to the gut and people are tired of just like, why am I getting punched? I thought I was getting bull market."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, they're saying this wasn't the bull market we were promised and we hoped for. So what's going on here? And is that kind of the end? This is Jim Bianco commenting on that 8% down, like the largest bitcoin candle down in a year. If this holds, it will be bitcoin's worst day since March 2023. You know what happened in March 2023. Not only were we still kind of in the. In the bear market, it was the Silicon Valley bank panic. Remember all that, that chaos? That's what precipitated it last time. An 8% down, and, like, I guess maybe Mount Gox and other just bearish sentiment precipitated at this time. Um, how about this? To give you an image of how much net Delta was sold today across futures and spot bitcoin major exchanges. On bitcoin alone, we sold more than 57,000 bitcoin, or 3.4 billion net."
+    },
+    {
+        "speaker": "B",
+        "text": "That's how much. How much dollars was sold into the market. So that implying that's actually, like, buy. There's also that much buying. Uh, but like, yeah, so, like $3.4 billion, like, what hit the market in a cell pressure."
+    },
+    {
+        "speaker": "A",
+        "text": "Here's a colorful chart. What are you showing here?"
+    },
+    {
+        "speaker": "B",
+        "text": "This is a chart of bitcoin, as well as a bunch of column art altcoins, just random altcoins, like litecoin, Cardano, Doge, XRP, Wifi, and bitcoin is down worse than all of them. Bitcoin in this chart is down, like 2.3%, while most of these things are down 1% or less. And this is uncharacteristic, where bitcoin is usually the safe haven as you go down the market cap stack, as things get more illiquid, they. They usually just get absolutely wrecked. When bitcoin goes down 2%. Like, bitcoin going down 2%, that means other things are going down 6% or greater. Uh, but this is kind of the inverse. And so, like, what's up with these uncharacteristic, uh, uh, like, decreasing bitcoin price? Usually not what happens."
+    },
+    {
+        "speaker": "A",
+        "text": "Also saw this tweet thread that kind of summed it up from Jason Choi. He says he titles the whole thread. It's kind of a long one. Welcome to Beartown. I'm not going to read it all, but he goes through all of these different metrics that he's seeing that makes it feel kind of like crypto, feel toppy, let's say. And I'll point out this one, a qualitative observation. He talks about large VC funds and kind of like, LP's being more reluctant to kind of like, invest. So LP capital in private crypto funds kind of drying up. And he also says this celebrity coins usually signal an increasingly frothy market. While these once hailed as crypto Twitter's heroes, they're now castigated as the scapegoat for the pains of the market. All reliable signs of late cycle. The TL doctor is the qualitative signals that he, Jason observed in late 2021 have reared their heads in alternative forms today. It's been kind of a weird cycle for that, too. Right? Like, we already got the celebrity involvement, Iggy Azalea and, like, Andrew Tate, like."
+    },
+    {
+        "speaker": "B",
+        "text": "Watching their own print here now."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, Jay, really. And it's like these tokens have pumped and then sold off. So Jason's saying, hey, there's these qualitative metrics too that make this feel a little toppy and, like, falling off the top, including celebrity involvement and celebrity endorsement."
+    },
+    {
+        "speaker": "B",
+        "text": "There's another take. I saw my timeline that I thought was just, like, emblematic of the times in quotes. Crypto trading close to all time high. Arguments are logically flawed, as they lack timing and benchmark decisions. Yes, crypto is still trading below 2021 highs. That's a problem. It's a sign of weakness, not a strength. And so I think I've said this, maybe, maybe we have said this is just like, yo, Chris, like ether, still below all time highs. Bitcoin crossed all time highs but fell back down below. Still plenty of, like, upside left in this market. And this individual is giving the opposite side of the count. Like, the spy is massively at all time highs. Like, many equities are at huge all time highs. And crypto is not, that is a sign of weakness, not strength. And so just like, another bullish or bearish take that has been, like, circling around, like, my feed these last weeks. And I'm kind of reminded of in the episode we did with Chris Berniski not too long ago, the last episode we did where bearish takes go viral when everyone is bearish, and of course, vice versa. Bullish takes also go viral when, when the market is, like, looking for bullishness and, like, bearish takes were going viral over the last, like, three days, four days."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, sentiment is reflexive. But I do think there's something to this underlying tweet is like, people are looking over at the S and P and, like, the stock market, and they're seeing all time highs over there, and they're looking at crypto and they're seeing, like, no all time highs, nothing close. And so, like, there's almost a question of, like, what happened. Maybe, maybe this I, the glass half full interpretation of that is, like, wow, this is a sign of weakness. Is there something structurally wrong with crypto? The reason we, we have all time highs of the stock market, but we don't have them in crypto. It's like one interpretation of this is, has the whole, like, industry, has the whole market liquidity kind of pivoted to AI. Nvidia is like sucking in all of these games. It's like smoking things, whereas crypto is stagnant and off all time highs. So that, that's kind of the sentiment right now that we're looking at. So I think we should dissect these, these one by one, like, kind of like the fud, and then we'll talk about the, the bull case, too. The Eth ETF will be nothing. Gox is going to dump on you. There's no new use cases in crypto. There's too much token supplies. Let's take some of these one by one. David, there was a thread that went somewhat viral on the impact of the Ethereum ETF, an analysis so many folks had been saying, including, like, uh, you know, our take, bank list take, is that theorem ETF is going to be absolutely massive, right? Uh, not necessarily."
+    },
+    {
+        "speaker": "B",
+        "text": "Is going to love the ETH ETF."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes, and not necessarily immediately, but like, inflows will steadily, like, come in and we'll get like, you know, 20% of the inflows or so of the bitcoin ETF. And maybe that's a conservative estimate. And those flows will be good for Ethereum because there's not very much ETh supply on the market. This take, this analysis from Andrew Kang does the exact opposite. So his analysis is that the ETH ETF's will be basically nothing. What's some of the summary of Andrew's take on this?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, he says, personally, I believe the expectations of crypto natives are overinflated and disconnected from the true preferences of tradfi allocators. So I think that's kind of the main punchline here, is that the true preferences of tradfi allocators is actually just not on the radar of crypto natives. We actually aren't tuned to what, what they actually want. Uh, and he goes in and, uh, says some of the things that we actually have frequently said about ether and why tradfi might like it. Like ether, it's a cash flowing asset. It does a buyback and burn. Like, you can model this out, you can put it in DCF. This is something that tradfi can reason about. It's a tech asset. Uh, but then Andrew Kangan goes into some of the actual metrics, uh, with, you know, $1.5 billion, 30 day annualized revenue, gives Ethereum ether a 300 x price to sales ratio, which is like, very expensive, with negative earnings to p e ratio after inflation. He says that how, like, if we. It's a tech asset. These metrics are dog shit. It's a dog shit tech asset in the grand scheme of things. Uh, and then he also goes to say that, like, well, we got net bitcoin inflows at around 5 billion, $5 billion of buy pressure. Uh, there's $15 billion of net inflows into the bitcoin ETF's, but some of that is doing a bunch of delta neutral stuff. So some of that bitcoin ETF inflows is also selling on, um, some different exchange. So net inflows are 5 billion. That, that's Andrew Kang's math. And then he thinks when you, you know, do the. How the correlation with how much is going to go into ether, he's thinking 0.5 to 1.5 billion, which is a much lower number. That's not a, that's not a very high number at all."
+    },
+    {
+        "speaker": "A",
+        "text": "He says this in conclusion, before the ETF launch, I expect ETH to trade from three k to 3800. So that's within range of where we are now after the ETF launch. My expectation is 2400 to 300. So, David, a price point lower than we are now after the Ethereum ETF products go live. Right? It's like, I think a lot of the bull case would be like, obviously, new inflows. We're going to go up. And he's saying we go down because the inflows will actually disappoint crypto investors and the market in total. He also, in another tweet, like, on the back of this, compared Ethereum charts and ETh bitcoin ratio to intel. Actually, he shows, like, kind of intel, sorry to hit an all time high and then just like, never fully recovered in terms of all time highs against some sort of indices. And the question is, has ethereum lost its steam, too? Will the ETH ETF flows disappoint? Anyway, we got to get. We got to get the bear cases out before we get to the bull case. But that, that is the bear case on the eth ETF. And we talk about Mount Gox again. All right, how many times we talked."
+    },
+    {
+        "speaker": "B",
+        "text": "About Mount Gox in this podcast?"
+    },
+    {
+        "speaker": "A",
+        "text": "All right, Mount Gox. This was actually breaking news after how many years has it been? David? 1111 years. Is the, is the Mount Gox, is all of that supply finally going to become unleashed on the market? What are we looking at here?"
+    },
+    {
+        "speaker": "B",
+        "text": "Not all of it, but yes, we actually are getting a date that is going to be July, early July is what they said, which is, you know, that's like two weeks. So the rumor is that $9 billion of bitcoin is going to become available and distributed to creditors of Mount Gox. It is perceived by the market. The classic, like Mount Gox Fud is that, well, these creditors have had their capital locked up in these like Mount Gox distribution court cases for eleven years. And Bitcoin has, you know, what's, what's eleven years of price action? It's like really, really good."
+    },
+    {
+        "speaker": "A",
+        "text": "A lot."
+    },
+    {
+        "speaker": "B",
+        "text": "It's a lot. And so they would. They're going to sell. Clearly they're going to sell. They're like forest holders for eleven years. They're going, that's, that's going to be selling pressure. And so it's been perceived by the market that when these Mount Gox coins finally get put into the hands of their owners, per the distribution of the courts, then all of those people are going to sell. And that's why like this Mount Gox flood has been like overhanging the market. As long as I've been in crypto I 2017, it's just been this like, meme that has occurred down through the generations."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. It's like one of those like China's banning crypto type recurring, like cycles. Mount Gox, like supply is going to become released, but this time it actually looks like it's going to be true. And we're talking about a substantial amount of bitcoin. $9 billion worth of bitcoin."
+    },
+    {
+        "speaker": "B",
+        "text": "Remember earlier in this podcast we just talked about how $3.4 billion was net sold on Monday? That was the big red candle day."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And so the market is like, we got nine more billion to get sold."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So maybe like, obviously part of the Monday price jump was your price drop, was frontrunning some of that activity. But like, we actually haven't seen the pressure. So when is that happening? Am I reading July, early July, yeah. And does it all come in a lump sum? All 9 billion is available right away."
+    },
+    {
+        "speaker": "B",
+        "text": "No, we'll talk about that. But does the market know that? I'm not so sure."
+    },
+    {
+        "speaker": "A",
+        "text": "Interesting. And to add insult to injury, David, do you know that Germany, the country of Germany, is actually dumping on us?"
+    },
+    {
+        "speaker": "B",
+        "text": "Where did Germany get bitcoin?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, they got it in a seizure. So there was I don't know. It was like, I'm just not the pirate bay, but it's some sort of black market, gray market type of thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Intelligence seizure."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. German government sees $3 billion worth of bitcoin. They've started to sell, and they're continuing to sell. You can see their transactions. They're just paper on chain. Yeah. So the entire country of Germany, Arkham is doing this. So, yeah, they're paper handing. I don't know. Maybe they have to. By law. It feels like maybe, like they should kind of. They're going to regret that in ten years."
+    },
+    {
+        "speaker": "B",
+        "text": "They should change that."
+    },
+    {
+        "speaker": "A",
+        "text": "Anyway, they're dumping on us, too. It's not just Mount Gox, and that's not all. The fud kind of continues. So how about this? We have no new use cases in crypto take. Like, the best we can do are these cheap celebrity meme coins. We got nothing new. What's. What take are we looking at here?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, this is Saigar, who. I wouldn't say that this take is. Well, this take is actually old. This is June 14. So, like, a little bit over a week ago. But it's a take that has been, like, brewing. And a lot of the recent, like, I'm saying, a lot of the recent sucker punches that we've got just recently, the Mount Gox, the Germany selling, all this kind of stuff is, like, layering on, like, this previously, like, nihilist sentiment about the current state of crypto. And so all these, like, events that's happening this week just feel way worse because we have these, like, there's no new use cases for crypto this cycle. So Saigar, he tweets out 2017, we had icos. 2020, we had Defi. Summer 2021, we had nfts 2024. What the hell do we have? He says the real mania begins when a new paradigm comes around and bringing in new entrants to crypto. My guess, the innovation this time around will evolve around consumer friendly apps that are unlocked by better tooling. But where is the apps? Where are the apps? And so we have these ideas about where the apps are. But, like, right now, we have celebrity meme coins. And Jason Drillo is coming back to launch his, like, fourth or fifth, like, rug that he's been in crypto."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, he's done this before."
+    },
+    {
+        "speaker": "B",
+        "text": "He's done this, like, four times before. Jason Zack XPT is, like, in his mentions, in his replies, like, every tweet, saying, like, just FYI, this guy's a scammer. He actually got community noted by the Twitter app. Saying, like, hey, by the way, this guy has done this before. He's. This is like his fourth time. Like, don't buy his bullshit. And so, like, no, you don't get to put, like, celebrity meme coins as, like, the. The mania that is bringing people in in 20:24 a.m. i."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. That he usually does this, like, near cycle tops, too. It's like when things."
+    },
+    {
+        "speaker": "B",
+        "text": "He doesn't do it in bear markets, that's for sure."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, he doesn't do it bear markets. This is a David Phelps take, which is related. This has to be the strangest era in crypto I can remember. The tech is finally ready to be used at scale, but almost nothing useful is being built. This is nearly the exact opposite of how it was in 2017 and 2021. 2017, we just discovered programmable money and smart contracts and some early use cases like icos as a result of that. That was a magical time. 2021, it was the world waking up to defi. And what do we have this time, David?"
+    },
+    {
+        "speaker": "B",
+        "text": "That's a good question. What do we have this time? Yeah, that's why all the apps that I'm using are the apps that I've been using."
+    },
+    {
+        "speaker": "A",
+        "text": "That's why it's a weird market cycle. This is miles making the case that, like, crypto media is suffering as well. Crypto YouTube views are disproportionately lagging. The bitcoin price. I don't know if these are his YouTube views."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, it's a whole bunch. So even we're in there. I thought that that's what kind of why I included in this. This is just all crypto, like, YouTube views. So, like, we're on there. Altcoin daily is here. Bitboy, crypto is there. Just, like, data dash, bunch of just, like, youtubers, crypto youtubers. Uh, and the bitcoin price is up. Epic at all time highs. But just, like, views on YouTube have not, have not followed. Like, we had our, like, mark cuban interview in the middle of 2021 that got, like, literally at 1 million views, and we don't, we don't have anything like that this cycle. Like, the people searching crypto terms on YouTube just aren't the same as it was in 2021."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Again, it's retail. It's not here. Uh, we don't have any tweets on this, but we could add to, like, there's. There's a feeling of too much supply. The number of tokens out there are at all time highs. There's a lot of vc unlocks that have been coming and people are like, you know, people are getting sick of the airdrop meta, people are getting sick of the, you know, high low float."
+    },
+    {
+        "speaker": "B",
+        "text": "High FTV is getting its first unlock in like four weeks coming up soon, so, like, that's going to be fine to watch. Like, if you're a world coin investor, like, you're selling, that's what you're doing. You're up a bajillion X."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I don't, I don't know what it is now, but I remember seeing like a close to a hundred billion dollar market cap for this thing, at least from, sorry, not market cap, fully diluted valuation at least, which is absolutely crazy. All right, so that's the bear case. I feel like we've established that enough. David, give me some hope, man. Where's the hope coming from?"
+    },
+    {
+        "speaker": "B",
+        "text": "Right after we talked to some of these fantastic sponsors, they make this show possible."
+    },
+    {
+        "speaker": "A",
+        "text": "David, I asked for hope, you give me a commercial. What's going on here, man? Well, you gotta make money."
+    },
+    {
+        "speaker": "B",
+        "text": "The views are down, man. The views are down."
+    },
+    {
+        "speaker": "A",
+        "text": "Here's some hope, maybe from Eric Eth. Once crypto Twitter is bearish, you're too late. Rest in peace."
+    },
+    {
+        "speaker": "B",
+        "text": "This is something that I definitely learned pretty, like, early in my, well, late in my first cycle, but, like, relatively early in my crypto career is like, if everyone around you is bearish, that's because the bearish price action has already happened."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "If everyone is around you is bearish. Like, you can't sell, but you can't sell on that bearish. You can sell for whatever reason, you can sell whatever you want, but you can't sell because, like, oh, everyone's bearish. Now I'm going to sell everyone's bearish because the price went down. And so, like, everyone being bearish is like bearishness being priced in. And so, like, you are not like, oh, everyone around us, me bearish, maybe I should sell. Uh, I don't think that's like, a valid, valid statement. And so this is why you always have, like, the line of be greedy when everyone's fearful and be fearful when everyone's greedy. Right now, everyone's fearful, everyone's scared. Right now, everyone's in dire straits."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. By the way, on this, because it's bearish, you got to focus on the, the bearish. But the inverse is also true. It's like, once crypto Twitter gets really bullish, uh, you better think about your sell plan. Like, in particular, start executing on that."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I did. I, I think I remember talking about this take, and I generally agree when there's retail here, but I think all of crypto Twitter was extremely bullish. Like the end of 2020."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm talking drunk, stupid, exuberant, like, super cycle."
+    },
+    {
+        "speaker": "B",
+        "text": "That type of bullish. Yeah, we hadn't uttered the word super cycle."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I'm talking about that level of bullishness, not the kind that we see, which was like relatively tame bullishness. But anyway, so Eric says, like, you know, once people are already bearish, it's too late. There's like, don't do anything, basically."
+    },
+    {
+        "speaker": "B",
+        "text": "So when everyone's bullish, a tweet from miles here who says it's equally as easy to make a bull case two, and this is in response to Andrew King, who elicited, like, all the reasons to be bearish. So Michael just responds, it's easy. It's also easy to be bullish. We have the election in November, which people think is going to a, put eyes on crypto and just be, Donald Trump's going to be the pro crypto president. That's, that's, he's going to put attention around it, shift in regulatory stance towards crypto. That's definitely true. Eth, ETF, imminent equities rotate their profits into crypto. And also the markets oversold. The sentiment is Max bearishen. And so basically saying, like, hey, bearish takes go viral when everyone's feeling bearish. But that doesn't mean, like, bullish takes aren't valid. And so he just lifts off a bunch of, in my opinion, valid bullish takes."
+    },
+    {
+        "speaker": "A",
+        "text": "The glass is half full. You can look at it from, from the opposite perspective as well. Let's get into some details, though, on some of these actual bear cases. Let's start with maybe Mount Gox. When you get into the details, I'm not sure how bearish it actually is. What's this tweet?"
+    },
+    {
+        "speaker": "B",
+        "text": "So this is the take that insiders who knew that this Mount Gox disbursement announcement was coming, front ran that announcement because we know that Gox like disbursement Fud has moved the market, has frequently moved the markets in the past. And so the real one, which this is the one we got, we got the actual real one of like, the tokens are coming, the bitcoins are getting distributed. Insiders front run that by just selling the bitcoins, which made the price go down, and then the announcement was made, which means that this was already priced in kind of, kind of another side to the same coin of Eric Connor's take of, like, if everyone's bearish then it's too, too late. And then he continues to say after. In my opinion, this probably means the nuke on the announcement was the final pricing in. I continue to view the macro front as quite bullish. So I've been confused about Crypto's weakness lately. This may all make sense now because of the announcement. Based on all of these view as the final pricing in, it's time to deploy a bit of cash today."
+    },
+    {
+        "speaker": "A",
+        "text": "I like how you said deploy, David. Yeah. So he's basically saying the market's reaction to this all already happened. When you saw that 8% drop on bitcoin, that was the candle down, that like just now priced all of that selling in and it's like we don't have to worry about it from here on out."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Alex Thorne, who works at Galaxy, who understands how these markets work, they do just, they do a bunch of market analysis, market structure stuff. He says that there's a chance that people are overshooting the bearishness. He says creditors have been stuck in Mount Gox bankruptcy for ten plus years. Finally, trustee says in kind distribution of bitcoin will begin in July. We think we as Galaxy will think that fewer coins will be distributed than people think and it will cause less bitcoin sell pressure than the market expects. Here's why. And then basically it goes through a bunch of analysis that says the real number of distributed bitcoin is 65,000 bitcoins, not the 142,000 that's frequently reported, which means that $4 billion is distributed on $8 billion. Also, the people that are being distributed to bitcoins aren't necessarily like these long term holders because you can sell your claims on Mount Gox. Mount Gox claims have been like, it was already super liquid, a decently liquid market since this, like, for many, many times. And so people have bought claims, and the people that have bought claims are like hedge funds, people that are trying to buy bitcoin at a discount, like long term holders. And so a lot of that sell pressure has actually already been expressed in the private markets. Uh, and so the, of the bitcoins that are actually going to go to these, like, long term holders, the people that have been identified as, like, I'm a long term holder of these mount Gox claims are by definition long term holders. That's what they had the option to leave."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And so they could have left."
+    },
+    {
+        "speaker": "A",
+        "text": "Alex brought the full analysis here. I gotta say a plus one for Alex. Like, he was dead on, right? Do you remember we had him on the podcast? We were talking about the bitcoin ETF and kind of, like, flows and the analysis there, and he nailed that. Like, he totally killed it. Yeah. So, you know, in this type of case, like, he might be more informed than the general market about this. You like, one other tidbit, David, is not just the bitcoin that unlocks from Mount Cox. It's all the bitcoin cash."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay? That is bearish. That part is very bearish."
+    },
+    {
+        "speaker": "A",
+        "text": "That's very bearish for bitcoin cash."
+    },
+    {
+        "speaker": "B",
+        "text": "Going to zero."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, my God. Imagine all of that liquidity of bitcoin cash."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, people are going to the infinite sea of liquidity for bitcoin cash is."
+    },
+    {
+        "speaker": "A",
+        "text": "Going to be a race to hit the sell button on that one. So maybe don't be in bitcoin cash would be some advice that holds. Okay, how about the ETF fud? Does that hold?"
+    },
+    {
+        "speaker": "B",
+        "text": "Perhaps. I mean, we're not going to know until after the fact, but there's plenty of reasons to be bullish in addition to, like, the perceived bearishness that people are giving takes of. I mean, the real question is, like, does the ETH ETF attract a meaningful amount of capital? That's always been the question. Some people are saying it's not going to. Some people are saying it is going to. Now, just the loudness of the bears are getting louder because this is bearish time. Bearish tastes go viral during bear times. However, this is another tweet from zaheer. ETH CME open interest in ETH terms has officially hit an all time high. And so this is the CME open interest for ether futures. Cause you don't have the actual ETF, but the ether futures is at all time high interest. And that just means, like, buying pressure, basically. Uh, and so, well, I mean, that's a pretty clear sentiment of just, like, demand. Maybe there's some trading going on here. Maybe they're gonna try and do some arbitrage. But just like, you can't say it's bearish if, uh, futures interest is that."
+    },
+    {
+        "speaker": "A",
+        "text": "It'S very, very tradfi. I mean, it's the freaking CME, right? So open interest all time high is. Is kind of bullish."
+    },
+    {
+        "speaker": "B",
+        "text": "Additionally, eth supply on centralized exchanges are at all time lows. Um, this is also. I think a lot of people are missing the fact that, like, um, this is also because exchanges are staking the ETh. So there is supply on exchanges, but they have put it away. Uh, the supply is off the order books, but it is. But ether is being staked by exchanges. And so that's why this, like, this, uh, Eth supply and exchange is at all time low. I don't know how much signal there is in that, but nonetheless, like, it's not on the order books."
+    },
+    {
+        "speaker": "A",
+        "text": "It's, it's crazy. All time low, too, I guess. ETh staking explains a portion of this, but probably not all of it, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's definitely not all of it."
+    },
+    {
+        "speaker": "A",
+        "text": "Here's a retort from a DC investor, which is like, kind of like striking the balance here. He says a few things. Yeah. Some people are saying, by the way, that ethereum ETF getting launched in the summer is like Max bearish because, you know, Tradfi sell in May and then go away. It's, everyone's on summer vacations. DC is like, yeah, it probably would have been more bullish if they launched in fall rather than the summer, but it's better early than never. At least we have it. And so what if it starts out a little bit slow, it can kind of like, catch up. He also says, I don't expect fireworks out of the gate, and there could be some initial sell the news, just like with, with bitcoin, but it's more about this slow type melt up. So even if we don't see fireworks out of the gate, it's like all of the, the inflows getting tracked on a weekly basis. You see these ETF's that are like 25% ETH and 75% bitcoin. Those will start like, moving into tradfi circles. And also he said, do you know the comment we were reading earlier from Andrew Kang about ETH being sort of a cash flow asset? DC says that's just the cherry on top. I don't think Wall street will analyze ETH on a cash flow basis as this is not the value prop of ETH. Instead, he says ETH will be pitched as a tech platform with financial and other apps built on top of it. Right. So it's not necessarily about pe. Certainly bitcoin is not being rated on a, on a pe ratio perspective. And so Tradfi will take a broader take on the whole asset class. So that's a take that maybe balances the difference between the bear and the bull. And I think is, you know, pretty rational."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Yeah, that's right."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, so we talked about Gox, we talked about the ETH, ETF. What about this? Hey, there's no new use cases thing. And I mean, there's truth to that. We haven't seen any breakout use cases this cycle. Do you have a silver lining on that, David."
+    },
+    {
+        "speaker": "B",
+        "text": "Not like a global silver lining for the entire market. But I will say polymarket, the prediction market platform, they have open interest in all time highs in like activity. So they like, I don't know if they measure it in TVL, but just like the most amount of like gambling bets, money being placed on polymarket bets is at all time highs. And so that's pretty cool. Like it's great to actually have like prediction market like taking off in a very big way. Yeah, so that's. We got one. We got one."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I'll actually plus one that because like, you know, prediction markets were an old use case for crypto and I think like we don't need new use cases because the old use cases were pretty damn old."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, we have ideas in crypto. Let's just dig some up from the grave."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. Defi hasn't been fully realized. Uniswap is now doing trillions in value. Stable coins are just continuing to rise. That's going to be transformational on its own. When you look at some of the Defi blue chips like Maker and Aave collateralized lending, that's all time highs in terms of profit."
+    },
+    {
+        "speaker": "B",
+        "text": "Defi revenues are at all time highs in a very big way. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "So the old use cases I'm actually more bullish on than some like net new thing that we haven't discovered. Let's just finish up the old use cases because like we're talking about a global financial system for the world that's, that's huge. That's absolutely massive. And we haven't been able to realize that because we've needed better onboarding, we've needed better ux. And now we have cheap block space, we have easy wallets. They're kind of getting there. We have exchanges in the game like base is going to onboard so many people from, from crypto exchanges on chain for the first time. We have tradfi liquidity getting to stablecoins on chain treasuries. Blackrock is on chain right now. We have a solve for fragmentation. I think Vitalik put a tweet out and he's just like, we don't need full synchronous composability. The Internet runs on asynchronous composability. What we kind of need is some adoption of ux standards basically. Right. And he goes through a few short term gains and how we can get there. So the building blocks are in place for user experience. And I feel like we are closer than ever to tying all of that together to realizing the old use cases, we don't need new use cases. Like we, crypto is a use case in itself."
+    },
+    {
+        "speaker": "B",
+        "text": "We will definitely take some new, take."
+    },
+    {
+        "speaker": "A",
+        "text": "What we can get at this time."
+    },
+    {
+        "speaker": "B",
+        "text": "I will say just like a lot of the conversation that you and I have on the show, and especially when we talk about market stuff that we do, is the crypto market is so short term. It is so short term focus. Oh, yeah. We think of things maybe ten days in advance, some drama will happen and we will forget about it like a week later. And I think you and me, like we are just long term people. We've been here for, we, I got you out in 2016. I got in 2017. We've, the whole content, editorial policy of bankless is like thinking long term, long time frames. So like we don't really do well in like short term markets is because like why, why would you care about the short term? Just like I just let things cook and there's like so many things that I just want to let things cook. Coinbase fixing, like the leading the charge on like fixing ux with like the base and the integrated wallet and then getting base up to a gigas and like onboarding a bunch of people circles. Marketing campaigns, bitwise is marketing campaigns. Coinbase's ads, these are all like phenomenal, like marketing campaigns for the industry. Stablecoin growth, just slowly grinding up revenue and yield of defi apps have, like I said, has been up. Blackrock, tokenizing biddle and like, they're not stopping there. Like all, like Larry Fink is bullish on tokenization. Just like a lot of things. You just need to let cook."
+    },
+    {
+        "speaker": "A",
+        "text": "Give it a minute."
+    },
+    {
+        "speaker": "B",
+        "text": "Give it a minute. That includes the bitcoin ETF, which has like a pause and flows. That includes the ETH. ETF once we get it, like everything just needs to cook. But like time is on our side with all of these things. And I think like with the bitcoin price go hitting all time highs but not discovering price action, ether's not there. It's just like, just let things go. Just let things go."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I totally agree. And if this is your first cycle or second cycle and you're kind of like panicking, this is, is this asking yourself, is this the end of the, the bull market? Just realize everyone always asks themselves this question in the midst of a bull market. Like, it happens every single time. When in doubt, this bull market has."
+    },
+    {
+        "speaker": "B",
+        "text": "Been just so mellow and not yet crazy."
+    },
+    {
+        "speaker": "A",
+        "text": "It has been."
+    },
+    {
+        "speaker": "B",
+        "text": "The only place it's been crazy is in like illiquid Solana meme coins. But, like, that's not. It's not like the whole entire market has not been crazy. So, like, my mind is like, it's a bear bull market over. I'm like, it kind of hasn't started. We've just been slowly cooking this entire time."
+    },
+    {
+        "speaker": "A",
+        "text": "This is Chris Berninski. He's retweeting something he tweeted in the depths of the bear market, November 12, 2022. November 12, 2022, right after FTX. He says bullish from near the bottom. Hope to see you all at 10 trillion. He's talking about the total market cap of crypto. We're at about 2,000,000,000,002.3 trillion, 2.5 trillion, something like that. He thinks we'll go to 10 trillion. And he says this, he reposts that, and he said unwaveringly, 10 trillion remains the target. We're still on target like that. That is like, around the estimates of what we've been talking about as well. In fact, I think that might be the base case estimate, sort of a conservative estimate. But he thinks we're still on target, too."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, on target for 10 trillion stable coins."
+    },
+    {
+        "speaker": "A",
+        "text": "David, should we end him with? End with some charts here. What's this? I feel like this could still be."
+    },
+    {
+        "speaker": "B",
+        "text": "In the two charts that I pulled out from my trader friend who does this way better than I, and he posted these charts on June 22, 21st, 22nd, right before the crash. And he goes, I feel like this could still be in the cards. And he is showing the bitcoin price falling down to literally exactly where it fell, 59,000. And same thing with the ETH price, both the bitcoin and the Eth price falling down to exactly where they fell and then bouncing back up. So I'm just kind of shouting out him that he kind of called that he need for the next part, for him to be right. We have to go up. But there are traders. There are traders out there who are saying like, yeah, first we're going to go down and then we're going to go up. And we've actually just did the down part. Yeah, hopefully we do the up part."
+    },
+    {
+        "speaker": "A",
+        "text": "So that was the heart. But, like, before up, we could be, like, in stasis for a while. We could be back to no man's land. We could be in, like, what we saw call the crab market. Like, this could be a slow summer."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, what, march?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, and I'm totally fine with a slow summer. And maybe we could kind of, like, summarize and close this out. Right. My take here, David, is the crypto gods have blessed us yet again. We get another mid bull cycle accumulation opportunity this summer. And, like, obviously you have to buy with a long term in mind. So think in years, not months, when you're buying crypto asset. And if it's not worth holding for the long term, like, don't buy it. And if you're scared, dollar cost average in, and if you're terrified, buy more lump sum, right. But be prepared to wait. This could take a while. Be prepared to wait years, right. So that you can, like every single month not be like, oh, is price going up yet? Is price going up yet? And overall, I would say just like, for as long as I've been in crypto, I'm the least worried that I've ever been about my positions and about this bull market feels pretty secure, like building more than ever. We've solved some fundamental problems. We've got regulatory tailwinds that are starting to move in our direction."
+    },
+    {
+        "speaker": "B",
+        "text": "Things that matter. Yeah, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "The biggest risk, I think, is being offsides and getting shaken out by these markets. Right. And nothing. People lose more money in crypto by actually not having exposure to crypto. Right. Or selling at the wrong times. And I would not want to be offside in this market either."
+    },
+    {
+        "speaker": "B",
+        "text": "But that's what we always say, so."
+    },
+    {
+        "speaker": "A",
+        "text": "That is what we always say. And I'll end with something else we always say, of course, you know, crypto is risky. You could lose what you put in. But we are headed west. This is the frontier. Not for everyone, but we're glad you're with us on the bankless journey. Thanks a lot. Hope to see you all at ten. Sorry for Murphy. Hold on. It is his birthday, but he's being an ass."
+    }
+]

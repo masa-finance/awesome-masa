@@ -1,0 +1,238 @@
+[
+    {
+        "speaker": "A",
+        "text": "Hey, bankless nation, welcome to the episode after our episode with the Ethereum attestation service. I guess that's the title through which we released this episode. David attestations."
+    },
+    {
+        "speaker": "B",
+        "text": "Hard one to work with. Not a lot of clay there. Clay is pretty."
+    },
+    {
+        "speaker": "A",
+        "text": "What were your takeaways from this episode?"
+    },
+    {
+        "speaker": "B",
+        "text": "Oh God, it's like, I feel like it's like an entire other half of the crypto world that is on the other side of this unlock on the other side of this door, and the door is just like, there's a lot of very deep crypto subjects around this. We have this primitive, we have this new standard that we need to get people to coordinate around and we have to do it the good old fashioned way because there's no token and no business model, and so we just have to adopt the standard. But hey, as soon as we do, it's going to be great."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I guess for me, I don't know. So a few things that are interesting to me, like attestations as the primitive for identity is kind of powerful to me. What is your identity? What is your reputation? It's basically what all of what everyone else says about you, what they'll attest to you, about you, what institutions will attest to you, about you. I guess that piece of it is a revelation in itself. I think the challenge here is like, is that, do you think that's going to be a general purpose use case for Ethereum in the way that assets and money actually are? I guess I just see that being a byproduct of what we're building, but not necessarily the main event. And I think that."
+    },
+    {
+        "speaker": "B",
+        "text": "Hmm, I think that's right."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So, but as a byproduct, I guess it's not as, I don't know, it's not as central to the crypto use. I mean, I think you can turn harness Ethereum and have it become an identity layer, an attestation system, if you get Ethereum addresses and private keys in the hands of a whole lot of people. Right. So it's kind of borne off of that. I don't think it's going to cause like, or, you know, be the Genesis point for a new wave of adoption. What do you think?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think the Ethereum attestation service or the vision that it provides us allows for the final form of web three to be one that's much more high fidelity, much more surface area. I think part of what you're saying is that like, yeah, but it's not really Ethereum, is it? Because it's not necessarily using the blockchain. It's really just private keys that are the big unlock here. And I remember Brantley wrote this article for the bankless newsletter once that was like Ethereum, and tokens and money and all the gambling and speculation are just like a Trojan horse for getting private keys, people's hands, so that we can do other things. But for the first step is to get private keys into people's hands. This is kind of like that. So like we have the Ethereum blockchain and then the layer twos, we have that, we have the block space that is Ethereum, which is like the core centerpiece of what I would call this industry. But then you have like the other, what I'll call like the off chain Internet, which is like web three, but it's imbued with these properties that Ethereum shares, which is like trustlessness, decentralization, credible neutrality, all the things that, all the values that brought us here. But it's not the Ethereum protocol, but it is the off chain signature. It's the off chain web, and it has a lot of these same standards and the same values and same implications, but it's not specifically the blockchain that we're talking about. But it is still like crypto. It's just not cryptocurrency."
+    },
+    {
+        "speaker": "A",
+        "text": "I think I have a harder time imagining."
+    },
+    {
+        "speaker": "B",
+        "text": "To me, I imagine it as like the webbing between the chains, like we have."
+    },
+    {
+        "speaker": "A",
+        "text": "You imagine what attestations is the webbing between the chains?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, yeah. So we have the Ethereum layer one, right? And then you have like the five dominant layer twos. And then they each are going to have 10,000 chains off of all of them. So like you get an image of like a tree structure, right? And then you have attestations, which is like anything that's worthwhile to make trustless, but not necessarily needing to be on an actual blockchain. You're just imbuing the Internet with trustlessness and authenticity. And that Internet is around circumventing the actual block space of it all."
+    },
+    {
+        "speaker": "A",
+        "text": "I guess maybe another, your digital signature is kind of another way to, I guess, say all of this, right? I recently, I just like roll, I had an old like 401K or an IRA or something like this, and I had to roll it over in like my, you know, trad five fidelity account. And this required a notary service. Have you ever used like a notary service?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. Yeah. It's really dumb and bad."
+    },
+    {
+        "speaker": "A",
+        "text": "It's really bad."
+    },
+    {
+        "speaker": "B",
+        "text": "I go to the UPS store and say, hey, I need something notarized. And then they pull out their stamp, and I'm like, I'm paying you $10 for this stamp."
+    },
+    {
+        "speaker": "A",
+        "text": "What this particular notary requires was for myself and my wife to both be present while a third party notary also signs. Right. And so there's now a web server, like a website called notary.com or something you can go to, and somebody beams in, like, via webcam, and you're both there, and you both, like, sign. This person's registered in a particular state, has some kind of legal status, jurisdiction. And I went through that process, and I remember thinking, how stupid and clunky is this? Like, we have private keys that if, you know, we could prove that a certain private key was mine, a certain private key was held by my wife, and then there was some third party with the private key. We could all do this via digital signature. Like, actual digital signature, not like a."
+    },
+    {
+        "speaker": "B",
+        "text": "At this point."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, you wouldn't. You wouldn't. But we would have to be, I guess, registered in some sort of that, like, by the nation state or by, like, the government or whoever authorized this type of that. This was my address, and this is my wife's address, and we had kind of signing authority. I guess that's how it would work anyway. Maybe digital signatures is kind of a way to think about this."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Like, rather than your actual physical. I'm signing, you know, the paperwork, it's just a digital signature to attest to something. Is that all we're doing here?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I'd say so. We're doing it in a way that it's the digital signature and also the package that it comes in. And so you have, like, a document, right? And then you actually take out your pen, and then you sign your name on it, and then all of a sudden, that's your signature. But the form factor of the document is also important. Right. It's contextual, I think, is the way that the dev would say it. Like, your signature is just your signature, but when it's inside of a document on a particular line or whatever that document is, like, all of a sudden that document is the thing that is relevant, not your signature. And so we also need the form factors for documents, right? And so, like, the Ethereum annotation service is like, providing the paper to all of our pens so that we can actually sign something in a way that, like, other people understand."
+    },
+    {
+        "speaker": "A",
+        "text": "I think that, you know, right, right now, so people have their off chain identity, I would say, right. Sort of where they, you know, what they occupy in the physical space. And then each of us, with the birth of the Internet, we all now have an online identity too, which is somewhat different than our."
+    },
+    {
+        "speaker": "B",
+        "text": "Now we have online identity."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So that's the third. That's the third piece, the on chain identity. I don't think the on chain identity will subsume or consume the online identity or the offline identity. I think it'll be just a new category at first for a while. So I think on chain identity and attestation services will take a long time before Harvard attests to this specific ethereum address being yours and assigning a diploma to it. I think that's almost like the real world assets type of elusive use case that's always escaped crypto. I think where we're most likely to find private a product market fit is for probably attestations for like, financial and crypto related use cases. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "So how do we unlock more capital?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah. Where I'm seeing on chain attestations being used in optimism is primarily around airdrops."
+    },
+    {
+        "speaker": "B",
+        "text": "And governance votes and under collateralized lending is like a primitive that people have on their crosshairs."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, maybe, but I don't know if that's being used in optimism right now."
+    },
+    {
+        "speaker": "B",
+        "text": "No, not yet. People are working on it, but not yet."
+    },
+    {
+        "speaker": "A",
+        "text": "For token distribution on optimism, you want to know whether an individual is a human or not, or whether it's a bunch of civil attacking robots that are just there to harvest and farm your token. And so that's what some subset of attestations on optimism or being activated for. It's basically you're attesting to this specific web two account is mine. I am a real human here. I am, I'm unique. Then you get on token airdrop distribution list. That way we can start to do governance use cases that way as well. But it'll be a while, I think, before we replace the offline stuff or the online stuff that social media today and web 2.0 does better."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I agree with that. Like, I don't really see, like, you're not going to be bestowed upon you a set of private keys upon birth by the nation state. And then on the nation states like, hey, don't lose these. This is, yeah, that's your Social Security number. It's not going to, it's not going to be like that. Maybe some progressive countries start to recognize this and be forward thinking, but I don't know the incumbency of United nations nation state identities. That doesn't necessarily even need to go anywhere. It's just that your web three, your on chain identity is just going to become so useful and so expressive and unlock so many online doors to you that you're just going to have. You're just going to run in parallel. Just like these financial systems are running in parallel, these identity systems are also going to run in parallel. And one's going to be more fun and be more individualistic and be in the corners of the Internet that you also want to be in. And so I don't even know if people are really going to. You're not going to turn 16 or something and get your online on chain identity. You're just going to slowly grow it over time in many different ways, shapes and forms. However you go across the Internet and at some point you're going to grow up and you're going to run into your first blockchain with your first set of private keys, you know, baby's first private keys. And then they're just going to grow their on chain footprint, and growing your on chain footprint. And your, and establishing an on chain identity is just going to be the same activity. You won't even really think about it."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, but one thing I like is very much how the team is building this and thinking about this is it's. It's really simple."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "There's just two smart contracts here, and it's. It's almost as simple as like an ERC 20 type standard. Right. It's just now it's just a matter of getting everyone to agree that this is. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "It doesn't even seem like it's a technical lift. It's just a social coordination lift at the end of it."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And I mean, it helps that this is completely open source, that this is EVM, that this is not schlepping a token, that this is not. Has no constraints or. Sorry, it has no, like, preconceived notions about the types of things you can or should attest to. It's just. Doesn't have any baggage or identity tied into it. It's just like, it's just here if people want to adopt it. So I like the approach that they're taking, which is probably the reason we did this particular episode, is because this felt very public goodsy."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, certainly, like we said, the spiritual sister to the sign in with Ethereum episode, the way that they speak and just their demeanors are just so Ethereum. Like public goods devv. Like, I don't know. I mean, it's kind of just like a vibe, but they just fit the bill of people who work on an open source project and don't really care about VC funding or issuing a token. They just want to tinker and build something."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, no, that's great. It's laudable. Anything else on this?"
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, there's an infinity number of things probably."
+    },
+    {
+        "speaker": "A",
+        "text": "What about the talking smack about soulbound tokens?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I've always been a token hater. I've never really understood the value."
+    },
+    {
+        "speaker": "A",
+        "text": "What are soul bound tokens for people who."
+    },
+    {
+        "speaker": "B",
+        "text": "Tokens that are non transferable. So they're fixed to your address."
+    },
+    {
+        "speaker": "A",
+        "text": "It's an NFT. Right. That is non transferable. And what's the idea is that this could be a type of identity primitive, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. Yeah. It's like you pick up this soulbound token. Like one of the soul bounds tokens that was theorized was all of the, there's like a collection of people who really helped proof of stake ship and they were, have been given a soul bound token that gives them free access to Devcon and devconnect tickets for life. But like you don't need that. It doesn't need to be a token. I don't know. It seems like a means to an end here."
+    },
+    {
+        "speaker": "A",
+        "text": "What, what do you think it could be instead? Just an attestation?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. It's a credential that you issue to someone."
+    },
+    {
+        "speaker": "A",
+        "text": "What's the difference between a credential on an attestation?"
+    },
+    {
+        "speaker": "B",
+        "text": "I don't think much. That's actually a good question. We should have asked them that."
+    },
+    {
+        "speaker": "A",
+        "text": "I think I, you know, I take them to be something same, but. So it's basically an attestation that this particular address helped with."
+    },
+    {
+        "speaker": "B",
+        "text": "This address fit criteria. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "And then I guess you're identifying it on chain and that's all. So bound token is. And it's non transferable. Right. So you can't give it to another address."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. Yeah. The way I've had dids and VC's explained to me, a did, decentralized identifier. A did is an issuer of a VC, a verifiable credential. And so if you are a, the Ethereum foundation, you can issue a verifiable credential. You can issue a credential verifiably that says this person is Danny Ryan. He gets free access to all dev content, all events for life."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So I think assuming that credentials and attestations are the same thing and there's not really a meaningful distinction, then the issuer in this case would be like, let's say the Ethereum foundation or the Ethereum community. Right. And then the credential. Or the attestation is they did great work for proof of stake. They should get ethereum conferences for life, basically. Yeah. That's cool. Interesting. Yeah. Well, I don't know how many. What else do we have to explore in identity, David?"
+    },
+    {
+        "speaker": "B",
+        "text": "Something's going on in the corner of optimism about identity, they're imbuing their opsac chains with identity. So I think that's. That would be our next step, is to explore what is manifesting in the op corner of the world."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I feel like that maybe has to develop a bit more."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, yeah, that's still bacon. Leave that one in the oven for a little bit."
+    },
+    {
+        "speaker": "A",
+        "text": "It's real important. It's really important that we get this right. So that's cool. All right, guys, hope you enjoyed the debrief. See you later."
+    }
+]

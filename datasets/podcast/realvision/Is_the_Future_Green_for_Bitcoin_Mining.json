@@ -1,0 +1,194 @@
+[
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless everybody get 30. 30, baby get 30, baby get 20. 2020, baby get 2020. Bid to get 15. 1515 just $15 a month, so give."
+    },
+    {
+        "speaker": "A",
+        "text": "It a try at Mint mobile.com switch."
+    },
+    {
+        "speaker": "C",
+        "text": "$45 upfront for three months, plus taxes and fees. Promoting for new customers for limited time unlimited, more than 40gb per month slows full terms at Mint mobile.com dot."
+    },
+    {
+        "speaker": "D",
+        "text": "Hey everyone, if you like this podcast, go behind the paywall. To get privileged access to the smartest minds in finance, join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off our essential membership for the first year. Now to the top analysis of today's crypto markets."
+    },
+    {
+        "speaker": "E",
+        "text": "Welcome to the real Vision Crypto Daily briefing. We've got a great show for you today. I'm speaking with Fred Thiel, CEO of Marathon Digital, one of the large publicly traded bitcoin miners. Fred, welcome to real vision."
+    },
+    {
+        "speaker": "F",
+        "text": "Great to be here."
+    },
+    {
+        "speaker": "E",
+        "text": "So much to talk about. We're talking a little bit off camera about what's happening right now in the mining space. Energy, bitcoin, a big picture. Where is the mining business today?"
+    },
+    {
+        "speaker": "F",
+        "text": "So bitcoin mining is growing and expanding. The way to measure that is just look at the global hash rate. Global hash rate is up about 23% year to date, which means more miners are plugging miners in to take advantage of the uptick in the price of bitcoin that's happened since the beginning of the year. I think bitcoin's up over 70 plus percent since the beginning of the year. One of the best performing assets out there, even from a risk adjusted basis. So supply of hashrate always lags price of bitcoin by a few months. And so we're starting to see that come online ourselves, marathon. We're growing our capacity about threefold over where we ended last year by middle of this year. So it gives you a feel for the amount of growth we're putting in place. And then you're seeing a lot of expansion offshore, a lot of mining going on in other countries outside the US that's coming online now as well. And then next year around this timeframe, we have the halving where the rewards that bitcoin miners receive will be chopped by 50%, which happens every four years. And so it's going to be very interesting to see what happens as bitcoin price continues to appreciate or if it stays where it is today, and the impact of that on the industry. But we're very excited certainly about what we're up to and what the industry's doing, even though there's some headwinds in the news from the regulatory perspective. And just obviously capital markets being quite constrained for those in the industry that need to tap the capital markets to grow, which luckily we don't have to do at this point."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, and some additional environmental concerns. We'll talk about all that in just one moment. But you mentioned price, and I wanted to bring this up. Bitcoin up 75% on a year to date basis, on a trailing twelve month basis, down nearly 27%. Obviously a volatile asset, some movement to the upside here that we've seen recently. Give us a little bit of the context on how you guys think about price."
+    },
+    {
+        "speaker": "F",
+        "text": "Sure. So if you look back historically, the price of bitcoin goes through kind of two years of growth, two years of declines. And I'm being very general now, there are obviously lots of spikes and dips in between, but the price of bitcoin essentially goes in this four year cycle. Typically, if you go back over prior cycles, you'll see that about six months after a halving event again. Next having event is in May. Bitcoin price reaches a peak, which would be December of next year. And then it does a slow decline down, reaches a bottom about 36 months, kind of through the cycle, and then it turns around and goes back up again. That's the historical pattern. And I'm not necessarily saying that the pattern will repeat itself, but it has repeated itself three times exactly this way in the prior three halving events. So our perspective is we typically develop kind of three scenarios, bear based bull, where we think price of bitcoin and the global hash rate are going to be. Because in our business, global hashrate is critical to understand because that drives our productivity, if you would. And the more miners that are hashing, the harder it is for us to win a block, the harder it is for get that block reward."
+    },
+    {
+        "speaker": "E",
+        "text": "For those who may not know, just this, a little bit of background here. This is the aggregate computational capacity online at any given time. And obviously there's a free market in this. So it's a supply and demand issue. Talk a little bit about that and why it's so critical to understanding the mining business."
+    },
+    {
+        "speaker": "F",
+        "text": "Sure. Yeah, it's a great point. And I think we take it for granted sometimes, just because we're in the midst of it all. So think of it as there is a fixed number of bitcoin that can be awarded a day, and today, that's 900 bitcoin. At the halving, it'll be 450 a day. And all the miners globally are contributing hash power. Think of it as just compute power to solving, essentially the puzzle that we try and solve. And if we solve that puzzle successfully, then we get to mint a block and we get the block reward. There are a little over 2000 blocks awarded a day. So that 900 bitcoin per day pays out about 6.25 bitcoin per block. And in theory, a block is meant to happen every ten minutes. And that's the way the software for bitcoin blockchain is written. And to maintain that consistent speed, if more compute power comes online, which means the problems are being solved faster, then it makes the problem more difficult, so that that ten minute interval is maintained. And again, if you double the number of people competing for that 900 bitcoin, it gets twice as hard. And so each miner has to work twice as hard to get the same amount of bitcoin block rewards. So that's how that works. It's kind of a zero sum game. Unlike oil or gold, wherever somebody can sit on reserves and determine, I'm going to extract more or less based on price. In the market, we are constantly fighting over this fixed number of bitcoins, so that you go through a period like when the global hash rate dropped dramatically because China prohibited mining and all the miners in China had to shut down, then what effectively happened was the hash rate dropped by half, almost. And so bitcoin miners were rewarded accordingly. I think you guys are showing a chart now that shows the hashrate. And then we return to the trend line. But bitcoin hashrate continues to grow right now as miners put on more capacity, and it gets more difficult with each difficulty adjustment, but sometimes it's adjusted downwards. And we had earlier this year a downward adjustment, for example, when the, the price of bitcoin was low."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, it's important. I'm so glad you were able to describe that, Fred, because it really is important for people to understand the supply and demand and the financial and economic dynamics of this business, because it determines so much in terms of the capacity that gets put online and the profitability of mining. So let's talk. Go ahead, please."
+    },
+    {
+        "speaker": "F",
+        "text": "No, go ahead."
+    },
+    {
+        "speaker": "E",
+        "text": "So let's talk a little bit about something that you've been intimately involved with, which is what's happening right now in regulation. I know that you were down on the hill talking to some folks and briefing them about what's happening. Where are we right now in this process of oversight from Congress and the potential legislation we may hopefully, but may see in the future?"
+    },
+    {
+        "speaker": "F",
+        "text": "Well, I think while last year before FTX, three arrows, capital, Celsius mining, et cetera, happened to, lawmakers were, generally speaking, open to learning about crypto, how it could help, where were their risks, et cetera. And we're working with many of the crypto firms to kind of understand things and move things forward. And while the SEC hasn't really changed their tune, they've always been kind of come speak to us and we may or may not decide to let you do what you're going to do. What happened post FTX and these other crashes is that basically the tone went to consumers have been harmed, therefore, we need to regulate this industry. But because no lawmakers are willing to really, a handful of lawmakers have put forward bills, but there's not enough traction, I think, at the moment, in Washington to get those bills passed. And so we're in an environment where we don't have a regulatory framework where companies can operate. And generally speaking, the regulators are anti crypto and digital assets. Bitcoin mining sits in its own little niche a little bit, because while bitcoin has been deemed a commodity by both the SEC and the CFTC, and even the IR's, because we pay taxes on it, the issues around bitcoin mining tend to be more related to climate and energy politics. And so it requires a lot of education from our side to educate people. Just like we spoke about the global hashrate and understanding the dynamics of global hashrate, we have to also educate lawmakers and their staffs, more importantly about the energy and the climate aspects of bitcoin mining, and how bitcoin mining actually contributes to grid stability, and how it contributes to lowering the cost of renewable energy to consumers and contributes to the growth of renewable energy in this country, which without baseload offtake customers like bitcoin mining, there would be little incentive for outside of government incentives. And if you want, I'm happy to riff about what's called the duck curve and how energy markets work so that people can understand about that. But essentially, we're just doing a lot of education on capital, talking to staffers and helping them kind of understand and winning over some people who maybe were sitting on the fence before, now that they have a better understanding, are forming more informed opinions. And that's what we're really trying to do is we want lawmakers to have informed opinions, not opinions based on stuff that's printed in the New York Times or that's inflammatory in nature where they don't have the benefit of hearing the counter argument."
+    },
+    {
+        "speaker": "E",
+        "text": "Hey, everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back."
+    },
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited premium wireless. Everybody to get 30, 30 biddy get 30 Biddy get 20. 2020 to 15. 1515, just $15 a month."
+    },
+    {
+        "speaker": "A",
+        "text": "So give it a try@mintmobile.com."
+    },
+    {
+        "speaker": "C",
+        "text": "Switch $45 up front for three months, plus taxes and fees. Promoting for new customers for limited time unlimited. More than 40gb per month slows full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, we're going to talk in just a second about that New York Times article, but let's dive deep on exactly that, exactly those points you just made. Tell us a little bit about how the bitcoin mining business works in terms of energy. I think it's probably counterintuitive for some people to understand this idea that by consuming energy to do bitcoin mining, there are some potential benefits to that. Talk big picture and let's start at the very beginning. For people who may not understand or just haven't had the opportunity to hear this conversation before, let's explain that issue."
+    },
+    {
+        "speaker": "F",
+        "text": "Sure. So if you look at the energy markets, for one thing, the amount of electrical energy that's generated in this country, it's not a zero sum game. Meaning if one person consumes electricity, it's not that that electricity is now not electricity won't be available to somebody else. So we actually generate, and have capacity to generate much more electricity in this country than is consumed. Start there. The other thing is the grid, which is the transmission mechanism that sends electricity from a power generator to your home and the plug in your wall, it cannot store energy. It's a plumbing. So just like plumbing, it can only hold as much water, in this case electrons, as is being pulled or demanded or consumed by consumers. So what the grid does is it signals to the generators, hey, turn on more capacity because consumers need more electricity, or turn off capacity because demand is dropping. Now, what most people, and this is where most people really don't have a proper understanding of this, is that demand during the day and night changes fairly dramatically. During certain periods of the day. And so the grid's challenge is, how do I balance demand and supply?"
+    },
+    {
+        "speaker": "E",
+        "text": "This is what economists call a peak load problem. The challenge that you have loads that are much higher at one period and much lower at another. How do you balance that out?"
+    },
+    {
+        "speaker": "F",
+        "text": "Exactly. So the issue with load balancing, as it's called, is that essentially there isn't a very. The typical pattern during the day is that people get up in the morning around 09:00 a.m. there's a small peak because people are making breakfast, they turn on the heat, they turn on a washing machine, they're consuming energy, then they go to work, demand drops. And there's this, what they call the duck curve. Think of the shape of the bottom, silhouette of a duck. You have the tail here, little peak where the tail is. Then you have the belly of the duck, which is a dip, and then up to the belt, the nib in the mouth, up at the top. In the morning, you have the little tail peak, then it dips into the belly, and then it goes up into the kind of really peak load during the day, which is 04:00 p.m. to 09:00 p.m. during the day. That's peak demand. That's when people are turning on ac, turning on heat, etcetera. So now you've got this energy that's needed, and you have different types of energy that are generated, some types of energy that are generated. You can regulate up and down. Other ones you can't. So, at the bottom of the energy pyramid is nuclear. Why is it at the bottom? Well, you can't tell a nuclear power plant, I need 40% more power, I need 30% less power. Doesn't work that way. It takes a long time for the nuclear power plant to react. And so they put that at the bottom where there will be guaranteed demand, so that all of the energy generated by nuclear power plants gets sucked up first. The layer above that is coal. And why is coal the next layer? Well, coal, you can turn up and down just a little, but it takes hours, if not days, for that response in demand to happen. And so coal is the next layer. Then comes natural gas. Why natural gas? Well, natural gas, or what they call peaker plants, is a type of power where you can turn it on, and in 30 or 40 minutes, it comes online, and then when demand has slackened, it can be shut off, and then it doesn't have to cool down like a boiler does in the traditional kind of coal world. And then only comes solar and wind and other renewable forms, which are intermittent. Why are they intermittent? Well, the sun shines from 09:00 a.m. to 03:00 p.m. go back to that duck curve I talked about the dip from 09:00 a.m. to kind of 03:00 p.m. is when the least demand is there. So what happens? The grid operators say, okay, I don't have peak demand. I need to start shutting off supply. And they go from the top down in that pyramid. They shut off wind, they shut off solar, then they shut off natural gas, and then they keep coal and nuclear running as base load. So what ends up happening is when solar is most productive is when they have the hardest time to sell it, because there's the least demand in the market, and that causes solar energy to be negatively priced during parts of the day. In Texas, up to 20% of the day, solar and wind energy can be negatively priced, meaning the generator pays people to take it. The other challenge we have is that as we bring on more renewable energy, that renewable energy is just competing for that little peak of the pyramid, which only is in demand during peak power times. How do you get somebody who can only sell energy a few hours of the day to be profitable if they're typically being shut off or curtailed? A bitcoin miner can step into the picture and they can work with a renewable energy provider and say, we'll take all the excess energy you produce. That will give you a base level of revenue. So now you're getting a return on your investment in this renewable energy generation project. And you can charge the consumer less money because most of these marketplaces are bidding. Marketplaces where the generator has to bid against the demand side to make the energy market work, so to say. And so by having a baseload customer like us, the renewable guy can lower their prices and bids, which means they may win more of that bids, which makes them overall more profitable, and the consumer gets more renewable mix in the pipeline. In the US today, we have almost a two year backlog between renewable energy coming online and available transmission lines. So what that means is you're adding all this generating capacity, but you can't get it to the consumers because power lines don't have the capacity to transport it. Because most solar and wind is built where people aren't, because that's where you have cheap land. That's where you have access to good wind. It's where you have access to good solar, like West Texas. Yet 70% of the population of Texas is in the eastern part of the state, you can only transmit electricity about 600 miles before you lose so much power in the transmission line that it becomes inefficient. And by the way, in this country, we lose anywhere from 15% to 25% of the electricity generated just in transmission line inefficiencies. So let's look at how much energy does bitcoin mining use globally? Bitcoin mining uses less than a fraction of 1% of the available electricity that's generated, less than a fraction of 1%. Now, bitcoin mining uses about a quarter of the energy that ATM used in the US. Cash is something that's going out of style. Last I heard, people are paying with things on their cell phones, yet we still pay to have all these ATM's running all over the place. Bitcoin mining uses less energy than holiday lights do in the US. Bitcoin mining uses less energy than video game consoles. Bitcoin mining uses less energy than all the streaming service providers data centers use. Yet people deem that bitcoin mining is a waste of resources. So I think people really need to educate themselves, understand the nature of how the energy markets work, realize how we help load balance the grid. Because when the grid needs quickly 200 mw, bitcoin miners in Texas can shed that load in ten minutes and have all that energy available to the general public. And then when there's too much energy being generated, we can start our systems up again in very short period of time we run. So we are this perfect interruptible load that can load shed immediately, essentially from a grid parlance. And then we can bring up our demand again, so that the energy generators again have an opportunity to generate revenues and cash flows when the demand side of the marketplace doesnt call for it. So we act as this great balancer of the grid that overall is helping fund more renewable energy and overall helping decrease the cost of electricity to consumers. It doesn't mean that we're causing more fossil fuel to come online, because energy is not a zero sum game. There is plenty of energy generation capacity and our industry predominantly selects renewable energy. We are as an industry, over 50% fueled by renewable energy. No other industry in the US does that. The average the us grid by the way, is only 25 26% renewable anyway. So as an industry we are the most environmentally friendly, we don't generate CO2 emissions by our operations and we're using renewable energy. So I think people really need to be educated and understand this, to understand the benefit bitcoin mining brings to the grid and balancing it and making it operate more efficiently."
+    },
+    {
+        "speaker": "E",
+        "text": "Hey, everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing. A true deep dive there on the nature of mining and I think some of the aspects of the grid and power generation here in the United States that people may not have been aware of. A lot of facts. Thank you for sharing that perspective. I want to open this up to our viewers right now. Come and join the conversation. Put your questions down in the chat. Wherever you're watching, we're going to ask the best ones on the air. Remember, real vision members take priority, but the good news is membership is free. Go to real vision.com crypto to sign up. That's real vision.com crypto to sign up. And by the way, I should say, as you just heard from that last answer there, an incredible amount of detail about the way not just bitcoin mining works, but also the power grid and electricity generation here on the United States. Real vision is absolutely committed to keeping this content free to you. So if you're watching on YouTube, please tweet this link out. You can always follow me as well at ashbennington on Twitter. And of course follow real vision at real vision on Twitter. Fred, a really detailed information dump. There's so much to talk about. I'm pretty surprised actually to hear that ATM's use more capacity than, than bitcoin mining. That's a pretty striking statistic, particularly when you think about the relative role and the importance of the sort of the future of the financial system. And according to those of us who are passionate about this technology versus the past, I mean, ATM's are clearly going the way of the dodo bird as things become much more digital in their transfers. Talk a little bit more about that absolute capacity number because it's a striking one."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah. So if you think about it, ATM's have to be on 24 7365. Banks do not make it a priority to identify renewable energy sources for those ATM's. Most ATM's are just plugged into whatever supply of energy is being provided to a bank branch. And I haven't seen any bank ESG reporting because that hasn't really become mandatory quite yet. But I'm sure the regulators will make that mandatory at some point here. And it'll become quite evident that the energy mix that banks use is most probably predominantly carbon based as opposed to renewable. So it's an area, I think that it's important that if we're going to highlight one industry's energy use, let's look at everybody's energy use. At least make it an even playing field. And while you're looking at just data centers and bitcoin mining operations are really just data centers, look at the data center industry as a whole. Look at how much these large learning models that we're now starting to use for chat, GPT and AI and things like that. Educating and teaching those models. Building those models uses a huge amount of compute power also, which uses a lot of energy, 25% of the capacity of the Internet. The bandwidth of the Internet is consumed by streaming services. We don't talk about that either. The Internet's meant to be free, yet these streaming services use the majority of the energy of the bandwidth of the Internet. So I think consumers need to become educated about these things. And unfortunately, the lack of that education makes them very susceptible to questionable practices by the media and reporting on the industry."
+    },
+    {
+        "speaker": "E",
+        "text": "Talking of which, one of the things that you mentioned earlier in the show is the New York Times article. I read it, uh, when it came out and I was really struck uh, by the fact that, listen, the article, if you havent read the article yet, it literally begins with 40 people freezing to death in Texas during a storm and then transit transitions immediately into bitcoin mining, implying a causal connection between the two. Uh, it was really, um. Well, lets just say it was quite striking to me when I read that article, some thoughts about it, uh, Fred, and the implications for this kind of information flow."
+    },
+    {
+        "speaker": "F",
+        "text": "So I think I would deem this as a hit piece, as we call it, where it was very specific in its agenda. The New York Times did not speak to us in preparing for this article. So had they done that, we would have shared our perspective. I believe some of our colleagues in the industry riot platforms has commented extensively, rebutting a lot of the points the New York Times made, and you can find that on their website. They have a detailed rebuttal there. It's also generally available on Twitter. But essentially the New York Times conveniently forgot to do the energy discussion about the energy pyramid I went through. They conveniently forgot to mention the fact that energy is not a zero sum game. And they conveniently forgot to look at the benefits that Aircott in Texas has seen. And conveniently forgot to mention is the Texas griddenne."
+    },
+    {
+        "speaker": "E",
+        "text": "Three grids in the United States for electrical transmission. There's the east grid, the west grid, and ERCOT, which is the Texas grid. They have their own."
+    },
+    {
+        "speaker": "F",
+        "text": "Yep, correct. So Texas is unique in that it's an unregulated market. So it's a free marketplace where bidders who have supply generators can bid against demand and match that. So it's a very. It's a fabulous grid because of that. Now, you know, winter storm, Ian, where Texas had the great freeze, where they had, you know, homes, water pipes burst and all that. When you look at that, the core driver of a lot of that problem was a. The Texas grid at the time was not connected to the broader grid infrastructure in the US. And more importantly, a lot of the infrastructure that froze was not necessarily power generating, it was things like gas pipelines. So even though the gas power plants were there and ready to go, the pipeline was frozen and they couldn't get it. So, fast forward to the winter storms that happened last year. Now, all of a sudden, ERCot had the ability to curtail a lot of bitcoin miners, because a lot of capacity had come online last year. All that curtailment resulted in the fact that they did not have to shut off electricity to consumers, they did not have to cause brownouts. And you didn't have any of these disasters because there was more than ample power available, because bitcoin miners voluntarily shut down their systems based on demand signals from ERCOT. More importantly, a number of us voluntarily shut down in advance of the storm so that ERCOT would have the energy capacity buffer ready without having to send a curtailment signal. So this industry does a lot to balance the grid. And I think, again, it gets back to education, and I think the New York Times piece was very motivated, whether it was political or just based on the principles of the publishers, to paint the bitcoin mining industry as this machine that just consumes endless amounts of energy. And by the way, it wasn't long ago the World Economic Forum published a paper that said bitcoin mining industry would consume more energy than the world produces by the mid 2020s. Here we are in 2023. We still consume less than a fraction of 1% of the energy that's generated. And, oh, by the way, we're becoming more and more energy efficient every month. For example, our fleet of miners has an average energy efficiency in the low to mid twenties of joules per terrahash. Think of it as kind of watts per compute power entity. Terahash is just a measure of compute power where the overall industry is in the mid forties, which is still very generally efficient, but we're very focused at being the most energy efficient miner out there, because we think, over time, the amount of energy our industry will consume will decrease because we're going to become much more efficient."
+    },
+    {
+        "speaker": "E",
+        "text": "Let me jump in and ask some of these viewer questions. Roger actually is interested in exactly this topic. Roger wants to know, is Fred saying marathon is 100% green energy? And this is coming from Fred from the real vision website."
+    },
+    {
+        "speaker": "F",
+        "text": "Sure. So we operate, the bulk of our capacity is behind the meter at wind farms or adjacent to wind farms. So we're primarily taking wind energy for as long as that wind energy is available. So in west Texas, for example, we have a facility, King Mountain, and we essentially sit co located on the wind farm. You can see videos of it on our website if you want, but you see the windmills and you see our mining facility right below it. So we're taking that wind energy that they otherwise aren't selling to the grid and using that to run our operations. And then when the wind is not blowing, we will procure energy from the grid, which we fully offset with what are called recs, which are renewable energy credits. And what recs do is essentially if you have generated electricity using renewable means, you get a renewable energy credit and you can use one of those to offset energy. You buy that isn't. And so the grid mix in Texas has some component of fossil and nuclear, and then the bulk of it is renewable. So we're generally using either our wind energy or we're buying energy off the Texas grid and then offsetting any fossil components. So we're fully carbon neutral in our operations in that regard. In North Dakota, we sit adjacent to a wind farm. We take predominantly wind energy, though it comes via the grid. And any non renewable that we take, we offset, again with Rex, its offset by Rex."
+    },
+    {
+        "speaker": "E",
+        "text": "And you get to 100% carbon neutrality that way. Any sense of terms of the percentage of what the actual organic generation from true renewables is, not including the offsets from credits."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, its about. And this is a little back to the envelope estimate, a little over 54%."
+    },
+    {
+        "speaker": "E",
+        "text": "So it is in fact a majority."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "E",
+        "text": "Roger also wants to know, do green bitcoins command any kind of premium on the market? That's an interesting question. And for a fungible good."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah. The challenge with that is a green bitcoin is only green as long as it has never left the miners wallet if the miner mined it using fully green energy the minute. So here's kind of a way to think about it. That your bitcoin wallet holds a ledger amount. It doesn't hold physical bitcoins, right. So if you're in your wallet, you're going to have a balance just like in your checking account, if you were to go to your bank and say, I want to know the serial numbers for every dollar bill that's in my bank account, they would say, we can't because there are no dollar bills actually in your bank account. It's a ledger entry. Same thing applies to bitcoin. So the challenge is, even though I might mine a bitcoin, the minute I transfer it somewhere, there is no serial number on that bitcoin. Therefore, it is no longer green. It's now. Preston, I want to jump in because."
+    },
+    {
+        "speaker": "E",
+        "text": "We got a couple more questions that I want to hit because there's some good ones from our viewers. The first ones come to us from Ralph on the real vision website. Ralph wants to know two questions. Is marathon involved with or doesn't mine other protocols? That's number one. Number two, what happens to the mining business after bitcoin reaches 21 million?"
+    },
+    {
+        "speaker": "F",
+        "text": "Great question. So, answer to the first question is, no, we only mine bitcoin. And the second question is, it's not until 21 40, which is over 100 years from now, when the last bitcoin will be mined, that we've mined about 19.3 million bitcoin to date. There are still obviously a little under 2 million bitcoin left to be mined. That's driven by this halving process that every four years, half as many bitcoin are awarded. Today it's 900. Next year. This time, or in May next year, it'll be 450, and then 2028, it'll be half of that, et cetera."
+    },
+    {
+        "speaker": "E",
+        "text": "Right. I know we're out of time here, but I wanted to ask this last question from Gary from the real vision website, because it's such a great question. Gary wants to know, does marathon have a plan on how to make, uh, this energy use, energy use education? In other words, uh, what he's asking is, do you have a plan for how to educate people about, uh, how the energy industry works? I mean, I think it would be great to have more open debate on this. I think environmentalists who dislike bitcoin should come to the table and explain their case. I think that bitcoin miners, uh, such as yourself, who have this perspective should go out there and show some data. And one of the things that's so challenging about it is most people just seem so completely in the dark about the way this process works. Do you guys at marathon, the question from Gary have a plan for how to do more in terms of energy education?"
+    },
+    {
+        "speaker": "F",
+        "text": "Absolutely. So we're focused on a number of different avenues. The first is funding academic research in the space around the energy use. Why are we funding academic as opposed to just publishing the data ourselves? Well, the theory is that if we publish it ourselves, which we intend to do still, but it would be put in question, possibly as being biased because we're the ones publishing it. So therefore, we're going to fund academic research into the space and let them form their own opinions. The other is working with energy companies and working with, ideally, the general members of the general public that have an interest in this, in really educating people about energy. This country has a need to educate itself on energy well beyond the bitcoin mining industry. If we're going into a world with electric vehicles who are, by the way, generate much more carbon than the bitcoin mining industry does, when you think about the amount of electricity they're going to use, as that fleet gets to be 25, 30, 40% of the vehicle fleet in this country, we need energy infrastructure that is able to be balanced and that is able to be interrupted. And we're going to need more capacity of the services that bitcoin miners provide to the grid than we have today, because otherwise you're not going to find a place to fuel your EV vehicle in the middle of the country. The other thing is, there's a move to move from natural gas heating and cooking. California's passing rules about that. The state of New York and the city of New York are passing rules about that. And again, there's going to be more and more load on the infrastructure of the grid, and we need to build out that infrastructure. Again, we're behind in infrastructure for transmission versus generation. And so we're going to educate, we're hoping the power industry will educate people so that the voting public can understand and vote with knowledge versus voting with hearsay."
+    },
+    {
+        "speaker": "E",
+        "text": "Fred Thiel, fantastic conversation. I learned a great deal from this. I hope you'll come back and join us again soon."
+    },
+    {
+        "speaker": "F",
+        "text": "Absolutely. Anytime."
+    },
+    {
+        "speaker": "E",
+        "text": "Thanks for joining us, and thanks for watching, everyone. Have a great weekend."
+    },
+    {
+        "speaker": "A",
+        "text": "What's up, revolutionaries? Thanks for tuning in to the real Vision daily briefing. For more content like this, head over to Realvision.com and get unfiltered access to the very best, brightest, and biggest names in finance."
+    }
+]

@@ -1,0 +1,238 @@
+[
+    {
+        "speaker": "A",
+        "text": "Rick rule is a favorite in the real vision community. If you'd like to meet up with Rick and get a master class from the master himself, you'll want to head to the Rick Rule Symposium on Natural Resource investing in Florida, July 23 to the 27th. You'll get access to industry insiders, elite bullion dealers, gold council members and uranium pros. Just head over to realvision.com ricken."
+    },
+    {
+        "speaker": "B",
+        "text": "What's up, everybody? It's Ash Bennington. Welcome to real Vision Crypto Daily briefing. Joining me today is Kane Warwick, founder of Synthetix. Kane, welcome to the show."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, Ash, thanks for having me."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, it's great to have you here, Cain. You're a guy who's had an extremely interesting life. Talk about how you got into the digital asset crypto defi space."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So I came from a retail payments background, which I guess made me interested in crypto as a payment method. Right. So the first time I got my head around bitcoin as an alternative to the fiat payment rails, it seemed pretty interesting. And then later on, I developed a payment gateway that allowed people to put cash into digital wallets. And one of the early use cases was for crypto purchases because in Australia, banks make it very difficult for people to buy crypto blocking transactions, that sort of thing. And so cash was kind of the optimal way to get into crypto. So that was back in 2014 that we launched that."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Okay, so let's talk a little bit about what you were thinking about when you started up synthetix. What was the problem you were looking to solve?"
+    },
+    {
+        "speaker": "C",
+        "text": "It was the same problem, really. It was trying to create a stable coin, so trying to create a token that tracked a dollar that would allow people to make purchases, to buy things, sell things the same way that they would with a Visa or Mastercard or Amex. That evolved from Haven, which was the original project, this original stablecoin project into synthetics, which became a derivatives protocol."
+    },
+    {
+        "speaker": "B",
+        "text": "It was blueshift, then Haven, then synthetix. Is that right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So Blueshift was a payment gateway. I launched Haven as a separate project. While I was running blueshift, I saw this kind of gap in the market, the stablecoin gap, and I thought ITd be something that would be interesting to work on. And then Haven evolved into synthetix once things like USDC and TrueuSD launched these kind of semi regulated stablecoins. Back in the day, it was only tether, and people were very concerned about tether and its backing, and they still are, but they were really concerned back in 2015, 2016. And so the idea was to create a decentralized version of that that was, like, provably secured and safe."
+    },
+    {
+        "speaker": "B",
+        "text": "So tell us a little bit about the functionality of synthetix today."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, so initially it was just a dollar as a token on blockchain, and then it evolved into gold, silver, bitcoin, various other assets that were sort of tokenized, essentially, so you could trade bitcoin on Ethereum. And back when we first launched that, there weren't many options to do that, no wrapped bitcoin yet. So being able to trade bitcoin on Ethereum was pretty novel. Today we have 40, 50 different assets, so different instruments, so spot instruments, derivatives, perpetual contracts, and we've got a whole bunch of different markets as well. So mainly crypto assets, but also some commodities and foreign currencies, you know, euro, GBP, et cetera."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, so let's talk a little bit about this. I think in the wake of the terra Luna collapse, people are always curious about what the mechanism is for maintaining those pegs. Talk a little bit about how that happens."
+    },
+    {
+        "speaker": "C",
+        "text": "So there's a lot of variations on stablecoin designs, but at their core, you have sort of collateralized stablecoins. So there's something that the token is driving its value from. And then you've got algorithmic stablecoins, where it's just a set of rules that ideally keep the thing stable. And with terra Luna, the rules kept it stable until they didn't. Once the value fell below some kind of critical threshold, the mechanism essentially printed more tokens to try and prop it up, which created this death spiral with synthetix. There's a similar issue. It looks a little bit similar. The difference is that the collateral that backs the tokens in the synthetix ecosystem is derived from the fees that are generated. So we are generating about a million dollars a week in fees, and those fees are paid to token holders. So the synthetix token, the SNX token, sort of has this intrinsic value that's coming from the cash flow that the network is generating, and that's what makes it a better form of collateral. But ultimately, the tokens are sort of freely floating tokens. They're not algorithmically pegged to the assets that they track. They're pegged those assets by an oracle."
+    },
+    {
+        "speaker": "B",
+        "text": "So walk us through how that. How that pegging works and how the cash flows from synthetix play into it. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "So in order to mint this stable coin. So let's just talk about the us dollar. Stablecoin S USD in order to mint that you need to lock s and x and you can borrow against it. So one of the primary mechanisms we have is a very high collateralization ratio. So you can only borrow 20% of the value of your collateral in the stablecoin. So that creates a fairly large buffer. You need a significant drawdown in the collateral value for it to become insolvent, and then on a weekly basis in order for you to claim the rewards in the system. So inflation, predominantly, you need to have that collateralization ratio above 500%. So each week, the users need to decide if the collateral value has dropped a do they repay some debt, do they top up the collateral? And they kind of need to maintain their margin on a weekly basis. And so this kind of continuously rolls. And so on any given week, even if the price has dropped by 10% or 20%, most people are inclined to repay that loan or to add collateral. And the network tends to stay fairly well collateralized. The collateral ratio sort of sits between four and 500% most of the time."
+    },
+    {
+        "speaker": "B",
+        "text": "And that's because the act of walking away from the collateral based on the collateral rate would actually generate a net loss for them if they were to walk away because of how highly collateralized it is."
+    },
+    {
+        "speaker": "C",
+        "text": "That's correct, yeah. In most cases, barring some huge drawdown, you're going to be better off paying down the debt and getting the collateral and then selling the collateral."
+    },
+    {
+        "speaker": "B",
+        "text": "We're going to talk about the risks of a huge drawdown, because price instability seems to me like it's a risk of any type of stablecoin asset. Walk us through how this process works. For example, for us dollar stablecoins, what would it look like for someone who wants to come into the ecosystem?"
+    },
+    {
+        "speaker": "C",
+        "text": "So you can essentially just buy the stablecoin, if that's what you're looking for. You can buy the stablecoin through amms. So you go to curve, for example, and trade USDC into S USD, and you can get significant size there into the millions of dollars. And then you've got SUSD within the ecosystem. Once you have SUSD, you have the ability to convert that into other tokens that track different prices. So you could take that SUSD, you pay a transaction fee, and you could convert it into synthetic bitcoin. And now you've got an instrument that tracks the price of bitcoin. Or you could take that SUSD and you could use it to margin a perpetual contract. So you go out and take a ten x leverage bitcoin, long or short position."
+    },
+    {
+        "speaker": "B",
+        "text": "So how does it work with bitcoin on the long side and on the short side. Walk us through that. I get it. You need to own s USD in order to come into the bitcoin synthetics contract. Talk a little bit about how that works and what the risks are."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, so traditional. I say traditional, they've been around for five years. But a perpetual contract that was maybe a little bit longer, that was invented by Bitmex, or maybe invented, is probably the wrong terminal, systematized it and tweaked a little bit, and made it productionized, if you will. These perpetual contracts were designed to not require rolling over contracts. So you didn't have some future dated contract. You could just hold this position and it just runs perpetually. You never have to roll, it's never delivered, et cetera. And the advantage is obviously pretty high there. The disadvantage is not having settlement means that the price can diverge. There's no reason for the spot price and this perpetual price to really stay together. And so that's where funding rates come in. And so the way that funding rates are calculated in a traditional perpetual product is the further the divergence from spot that the instrument is, the higher the funding rate, which incentivizes people to rebalance, essentially, and bring the price back into alignment with the spot price. So that works fairly well, and it's worked for the traditional protocols. Sorry, not protocols, perp exchanges. So Bitmax, et cetera, and finance, all of these exchanges have listed these with synthetix. We don't have that divergence because it works by an oracle. So the price of bitcoin is always the price of bitcoin on both the spot and the perpetual product. And what that means is the issue for us is that you can potentially have the market skew diverge in a very bullish environment. You could have 90 or 95% of people long and 5% of people short, because it's an amm. What that does is creates this systemic risk within. Within the network and within the AMM pool. And so what we do is we have funding rates that basically disincentivize longs, so the shorts will be paid, and they would come in and collect that funding rate to take a short position, which then brings the SKU back into alignment. And so that's the case for all of these perpetual markets, and that's to reduce the risk to the debt pool, to the amm pool."
+    },
+    {
+        "speaker": "B",
+        "text": "And what about the converse, when you see the short positions, I assume, I mean, it's the same basic mechanism, but things can move down short side faster, a lot quicker than they can move to the upside in the event of a catastrophic risk for any one of these real world assets that you're tracking, how does that work, and how do those funding rate mechanisms begin to bring into balance the supply and demand dynamics? Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "So there's a secondary mechanism as well, which is the further a trade is going to bring the market out of alignment, the more the price slippage is induced. Essentially, you're getting a worse fill as you get further away from that, which creates a disincentive. And then obviously, you got the funding rate on top of that to discourage long term holding of that. And so what we've seen empirically, I mean, probably the best, most recent example is ripple. So XRP moved up in the space of several hours, the volatility increased significantly. It moved up 50%, then pulled back, and then moved up 50% again. And during that time, the funding rate was fairly effective. And this sort of slippage mechanism, directional slippage mechanism was fairly effective at keeping the market in alignment. And I think across something like $50 million worth of notional volume, there was $200,000 worth of price impact in the amm pool itself. So it was very tightly align between longs and shorts that entire time. Despite that volatility."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's like 60 to one. So there are about 20 trading pairs right now, is that right, in terms of real world assets that you can trade on synthetix?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, there's a range of perps and spot, so I think it's over 40 now, just across the perps and spot, but that's growing every day. And in an ideal world, we'll have the top hundred assets, crypto assets, plus some real world assets like forex and commodities. Ideally, when we launch the new version, perps v three, we'll start scaling out those assets again. And the target is to have the top 100 assets."
+    },
+    {
+        "speaker": "B",
+        "text": "So it's about 20 pairs and then perps and spot for each. Is that sort of."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that's correct. There's a few where there's spot tokens, but not perp tokens, and a few where there's perps and no spots. Um, you know, it's not. It's not perfectly symmetrical."
+    },
+    {
+        "speaker": "B",
+        "text": "Now, is this something that users are able to do without being KyC'd?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So it's an amm. So it runs on the optimism network, which is a layer two network on Ethereum. And so, you know, like Uniswap, like a lot of the Dexs, a user is just transacting against these contracts. You know, they self custody, they have signing keys and, you know, all of the things that you sort of associate with Defi trading."
+    },
+    {
+        "speaker": "B",
+        "text": "And this is an ERC 20 token, right?"
+    },
+    {
+        "speaker": "C",
+        "text": "So some of them are ERC 20s, some of them are positions that are held in a contract. So they're not actually tokenized. So the perps themselves, you have a position, but the position is maintained in the contract. It's not actually tokenized. You can't transfer it out or move it around or use it as collateral or anything like that."
+    },
+    {
+        "speaker": "B",
+        "text": "Does the absence of Kyc present, in your view, a risk to the protocol itself? I know that we are in this environment right now of obviously increased surveillance, increased regulatory sort of oversight and activity right now. How do you think about that? How do you think about the risks and how do you think about the ethos of the space?"
+    },
+    {
+        "speaker": "C",
+        "text": "So there's the contracts and then there are the front ends of, I guess, right? And they're kind of distinct things. So the contracts themselves, they're deployed, they're managed by governance. So Synthetix has a fairly robust decentralized governance framework. It's split into different components. So the treasury parameterization grants and various other things are kind of separated out."
+    },
+    {
+        "speaker": "B",
+        "text": "Are these the three distinct daos that you're referring to?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, they're like a council that's elected by token holders. Essentially. All this stuff happens on chain and allows token holders to govern the protocol. So at a protocol level there is, I guess, not much that could be done to stop the protocol. It's just this set of contracts that run on the blockchain. Then when you start considering the front end, those front ends are hosted in various different places. So some of them are hosted centrally. There's some front ends that are running on decentralized networks. And so you have this range of front ends. And for the front ends it really comes down to, I guess, their risk tolerance. So all of these different interfaces need to make decisions around what they want to implement in terms of KYC, geo blocking, things like that. But the contracts are pretty agnostic to that. Anyone who turns up that has tokens on Ethereum or tokens on optimism can interact with them."
+    },
+    {
+        "speaker": "B",
+        "text": "So you think of it as sort of, that's the layer at which you have anonymity and credible neutrality. And then on top of that, the front end, the ability to access it, is where you see the potential for the regulatory component to exist."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think the fact that front ends are still not as decentralized, they're more distributed. So you have multiple different front ends, but the front ends themselves need to run on, I guess, more traditional infrastructure that's changing. And we have some better tooling to run front ends on more decentralized infrastructure. But that's definitely the break for me. You've got the contracts on one side and then you've got the interfaces on the other, and they have sort of different properties and different considerations."
+    },
+    {
+        "speaker": "B",
+        "text": "Ken, are you talking to regulators about this? Are you talking to legal, regulatory and compliance folks about this? What's the feedback that you're getting when you talk to lawyers about this?"
+    },
+    {
+        "speaker": "C",
+        "text": "So I think the reality is that we've been operating in an environment that is fairly uncertain for a long time. And it's unclear what the DeFi version, if you will, of each of the tradfi components is. The contract on Ethereum, the exchange is self custodying. Um, you know, different to having a custodian in a. In a trad environment. You know, what, what, where's the breakpoint? There is an exchange that, you know, is a full stack exchange. So it operates the contracts and is a custodian and, you know, has front ends. Is that something, you know, that is, doesn't have sort of, I guess, analog in the tradfi world, right, where the things are typically separated out. And the reality is there's just a lot of uncertainty. So I think to operate in Defi today, you're sort of forced into a situation where you need to make the best guess as to what the ideal approach is. But I think there's also an ideological component, which is that regulators, the outcome that they want is fair and transparent markets. I think. I think there's some people that question some of the motivations around regulations at times. But my personal view is that I think most regulators are well meaning. They just want open, transparent markets that are fair. That's it. And in tradfi, that takes a lot of work, because there's a lot of places where people can cut corners or do things that are maybe not in the best interest of their counterparties or whatever. And so you really need a lot of oversight. You need to be able to inspect what people are doing. You've got a lot of opacity in different systems. In Defi, you don't."
+    },
+    {
+        "speaker": "B",
+        "text": "Let me just ask you this, though, in terms of this idea that all they want is open and transparent markets. I mean, I think that that's certainly one of the concerns. But another thing that we hear coming up is AmL KyC and the ability to geofence out actors from certain states. Now, that's just the framework that they have to it. And it seems as though it's something that they are interested in pursuing rather vigorously. And it's interesting to see these sort of two worlds colliding and to see how this gets negotiated out, because it's a, it's a very distinct difference between the way the traditional financial services system work and the way DeFi works."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that's a very fair point. And so I think obviously different regulators have different approaches. And I would still argue that wanting to geofence, for example, falls into the category of wanting fair and transparent markets, because if you allow people to come from a jurisdiction where there are less regulations, you have less oversight and interact with people in a jurisdiction where you have high oversight, then you create this sort of distinction where they can maybe out compete a regulated entity. I think from a regulatory perspective, that's very problematic. Now. Then you've got other things like counterterrorism financing and money laundering issues. And I think that's a distinct set of issues. But when it comes to geofencing and saying, well, if you're going to operate in this more lax regulatory environment, we don't want you interacting with the people in our regulatory environment. We want to wall that off. Right. And keep you out."
+    },
+    {
+        "speaker": "B",
+        "text": "I think some of it's more than lax regulatory environments. Some of it is states that have been sanctioned through OFAC regulation here in the United States and the agreements that exist across the western world more broadly. So it's not simply a question of regulatory arbitrage. In many cases, it's about OFAC compliance and not funding states that the authorities in the west believe are involved in things that they don't want money flows."
+    },
+    {
+        "speaker": "C",
+        "text": "Going to for sure. And I put that again into the category of sanctions. So sanctions against various parties being able to participate, typically that works the other way. You don't want a sanctioned entity interacting with a us bank, for example. Theyre like, well were regulating the banks. And we say, banks, we dont want you interacting there. Its I would say less likely that the concern is an iranian derivatives exchange that theyre trying to stop from interacting with us persons. Its more likely that its going to be some entity thats operating out of the Bahamas or something like that. And theyre saying, well, were concerned about the oversight in that region and we don't want an exchange or we don't want some, you know, we don't want counterparties there operating, you know, with our citizens. So I think there's a number of different considerations. Right. But, you know, when, when you focus on, we don't want our citizens in our jurisdiction to, you know, interact with a less regulated entity. You know, defi kind of avoids that a little bit, because if it's something running on the blockchain, you can see the rules, it's transparent, it doesn't need the same level of oversight. But the unfortunate thing, I think, is that there's a fundamental assumption, I suppose, of regardless of how the system is constructed, we want the same level of oversight. I think in DeFi we say there is a distinction here. You don't need the same level of oversight of Uniswap as you do of Goldman Sachs. They just are distinct types of entities that are interacting with people."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I guess we'll see. Ultimately, regulators get to make those determinations and we'll see how that shakes out. I want to talk a little bit more about your vision for the future here. Big picture. I know that your plan is to take on some of the centralized exchanges, talk a little bit about how you see this in terms of your vision for what the future will look like in both the DeFi space as well as the interaction with traditional assets."
+    },
+    {
+        "speaker": "C",
+        "text": "So for the longest time, I think it's been the case within crypto that the vast majority of people interacting with crypto are doing it with centralized entities, which is just a problematic situation, but it's easy."
+    },
+    {
+        "speaker": "B",
+        "text": "And by the way, we should say we saw some of that with the collapse of FTX and precisely points you're speaking to."
+    },
+    {
+        "speaker": "C",
+        "text": "Absolutely. There's a significant counterparty risk. My view is that something like FTX feels more to me like Goldman Sachs. It does need regulatory oversight. If you have people that have counterparty risk and are custodying assets and have minimal oversight, that's the problem. That's something that I think needs to be solved. Whereas if you have something that's on chain, it's self custody, that ideally it needs less regulatory oversight because everyone can inspect it and see that it's operating as expected. And so my sense is that when it comes to crypto, you've got this ethos of decentralization and self custody and everything, and yet the vast majority of crypto is held with custodians and is subject to this counterparty risk. And we've been trying to play catch up with this for more than a decade, but it's always easier to build a centralized database and store people's assets in that than it is to build decentralized infrastructure. The decentralized infrastructure has been playing catch up. I think in the last cycle, we've finally caught up where we're close to feature parity. So we can close to future parity with the centralized exchanges with centralized exchanges and other CFI entities. Whether it's a CFI lending platform where you hand over your bitcoin and they essentially lend it out, whatever the category is, I think we've got robust defi infrastructure that can compete. Where I still think we're lagging is on the user experience. So if a user who was coming into space for the first time in 2024 turns up and they've got two options, they can go to binance, and they can create an account with a username, email password, and deposit some fee and buy some tokens and start trading. Or someone can explain to them how to download metamask plugin for their browser, create a private key, save their seed phrase, and write it down on 24 sheets of paper and bury it in their backyard and do all of these additional steps and most likely not do that and lose their money. And all of the friction that we have right now for a new user coming in, then, all things being equal, the vast majority of users are going to flow down that centralized pipeline theyre going to go to because it's just easier, right? And there's also a forcing function here, which is the person that they're probably relying on, who is helping them to understand crypto for the first time, is going to try and optimize for the least likelihood of that person coming back and asking more questions. And I've done this myself where I'm like, someone's like, hey, I want to do, I'm like, you know what, honestly, go on to binance. Like, it's easy. Just sign up. You just want to buy one bitcoin, like, just go to binance, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Otherwise you get drafted into tech support with a metamask."
+    },
+    {
+        "speaker": "C",
+        "text": "Now you're tech support, right, forever, right. You know, and you got to educate them. And so I do think that creates this issue, right. And so what was missing last cycle was self custody or, you know, or non custodial, trustless solutions that were as easy to use. And we're not 100% there, right? We're close, but we're not 100% there. But with a few compromises, I think we can get there. And so my view is that because we now have that feature parity on the backend, the actual infrastructure, and all of the tooling and everything is there, it's sort of beholden on us now, come and meet the user where they live and really make it easy to onboard into Defi as it is into c five or into tradfi or whatever."
+    },
+    {
+        "speaker": "B",
+        "text": "And that's what you guys are working on now with v three."
+    },
+    {
+        "speaker": "C",
+        "text": "So that's what I'm working on with Infinex. Infinex is another front end, right? It's another gateway, if you will, into synthetics. But rather than be driven by metamask and signing keys and private keys, public keys, all that stuff, you just use a username and password to sign up. It's really trying to bridge that gap, make it as easy as possible so that I can confidently say to my mother or my grandmother, if you want to go and buy some ether, you can actually go and do this and you can buy some ether. And I'm confident they're going to be able to do it. Create that username, password, sign up, and they're not going to lose their funds. They're not going to be subject to counterparty risk."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, this is one of the things that's so interesting about the web three world is the stackability, the composability of these different attributes where you can build front ends on different layers, on top, beneath, below, above, different protocols. It's really fascinating. Listen, Cain, I know I would be remiss. My viewers and listeners would yell at me if I didn't ask them about the price of the token. If we take a look at the s and X token all duration Max chart, it is not a pretty one. Talk a little bit about what we see there on that chart."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, there's a very famous personality on Twitter that has been talking for a long time about this three year DeFi bear market, which started back in 2021, and we're a couple of years into that. I think that the reality is that the optimism about what DeFi would be able to deliver got ahead of the actual tech, and it's taken us a couple of years to catch up. I think if you look over the last, say, six months, a lot of different DeFi protocols that were around in 2017, 2018 have gotten to this point where I think that they are actually competitive with their CFI competitors, which has just not been a thing that we could really claim historically. The next step in my mind, is we've got a bunch of people in crypto that are still here, and being able to credibly capture that audience within DeFi and get them off centralized exchanges is the first step. And if we can do that, then the next wave of people that come in, whenever that happens, 2024 or 2025, I think we've got a decent chance of not having them get siphoned off into frauds and Ponzi schemes and things like that. We can actually keep them in DeFi where ideally it's much safer. And the transparency is there."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, we've seen all kinds of frauds and Ponzi schemes in traditional, uh, centralized exchanges. Different sets of risks, I guess, perhaps, uh, over on the defi side, but really spectacularly interesting, bleeding edge stuff that you guys are working on. High potential opportunities, in my view, at least. Very high risk right now. This is stuff that's, uh, definitely in front of the curve. Final thoughts, key takeaways that you'd like to leave us with?"
+    },
+    {
+        "speaker": "C",
+        "text": "Kate? Um, yeah, I think, uh, ultimately what it comes down to is, you know, we are trying to build this new financial infrastructure. We believe that these decentralized technologies are new enabling technologies. They lower barriers to entry for people to participate in finance, and that the infrastructure and tooling we're building is going to drive finance in the next decade or two decades. But we're still very early and we're still working out some of the kinks. But I think eventually, like the web, it's just a better technology for running finance. Once we can get to some level of cut through, I think that that will become much more obvious."
+    },
+    {
+        "speaker": "B",
+        "text": "Kane Warwick, very interesting stuff. Thanks for joining us, man."
+    },
+    {
+        "speaker": "C",
+        "text": "Thanks, Ash."
+    },
+    {
+        "speaker": "B",
+        "text": "That's it for today. Make sure to check out our website, realvision.com forward Slash crypto. That's real vision.com forward slash crypto. It's free to sign up for our crypto content tomorrow. We'll be joined by Joe Zao for macro and crypto conversation. You don't want to miss it. See you live at 09:00 a.m. pacific noon Eastern, 05:00 p.m. london time. Thanks for watching, everybody. Have a great day."
+    },
+    {
+        "speaker": "D",
+        "text": "Rick Ruhl Rick Ruhl is a favorite of the real vision community. If you'd like to meet Rick and get a masterclass from the master himself, you'll want to head to the Rick Rule Symposium on Natural Resource investing in Florida July 23 to 27th. You'll get access to industry insiders, elite bullion dealers, gold council members, and uranium pros. Just head over to realvision.com Rick for tickets. That's realvision.com rick."
+    }
+]

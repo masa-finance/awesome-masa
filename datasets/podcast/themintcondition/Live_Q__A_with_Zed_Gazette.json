@@ -1,0 +1,1254 @@
+[
+    {
+        "speaker": "A",
+        "text": "Hello and welcome to the mint Condition episode twelve. We are live today for our first live show ever. Can you believe it? Chamber, how you doing?"
+    },
+    {
+        "speaker": "B",
+        "text": "I cannot believe the technology that is at our fingertips at this very moment."
+    },
+    {
+        "speaker": "A",
+        "text": "We are. Yeah, it is just, it's a special time here. I'm looking at the tweet now. I can see our faces going live on Twitter. We. I don't think we've ever done a live show, actually. No, that's not true. With rect, we've done a couple, but not for a while. I came dressed as a hot dog once on Halloween."
+    },
+    {
+        "speaker": "B",
+        "text": "That's right."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So. And then. And Des came dressed today as corporate douchebag. How you doing, Des?"
+    },
+    {
+        "speaker": "C",
+        "text": "I feel like one. I feel like one. But, you know, I'm going to take it. I'm going to take it in stride and. Yeah, but, you know, I mean, this is our first live show, but we're one take wonders, man. We don't do much editing anyway, so we're always live."
+    },
+    {
+        "speaker": "A",
+        "text": "It's just I don't broadcast a little bit later. Have we ever edited?"
+    },
+    {
+        "speaker": "B",
+        "text": "I may have edited our first episode and that's probably the only episode I've edited."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I'm pumped to be here, so I don't know if anybody's actually going to be watching, but we are live, so if anybody has any comments or questions. Questions for the legendary Adam from Zed Gazette. We've got that. We can be chatting Zed. We've got some other, we've got some other things that we're going to talk about today as well that Adam just put us onto. So we might have. We might have Zed run dose coming at us soon. So, Adam, how you doing, buddy?"
+    },
+    {
+        "speaker": "D",
+        "text": "I'm doing pretty good. Trying to win a race in this new game. Um, but I'm pretty terrible at it. So it's, uh, it's coming a little bit of a learning curve, I think."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, learning curves are good games. Games of discovery, as we would say in the Zed run universe. So, I mean, let's get to maybe, I guess probably the biggest news coming out of Zed since we last all talked was the terra drop, which has been met with know, some cheers, some booze, and, you know, I think a lot of things that maybe we need to work on going forward for dropping horses. But overall chamber, what was your thoughts on terra drop?"
+    },
+    {
+        "speaker": "B",
+        "text": "It was expensive. It was very expensive. I spent a lot of money. It was. And then the worst part, honestly, the worst part is, is that Ethereum blasted like the next day. And just murdered all my eth value, which was unfortunate. But, you know, the horse, it was. I think it was easier than the, than the last one. I like the, I like doing it on matic. I thought that was much easier. You know, everything was a lot more instant once you figured out how to kind of filter through everything, you know, the horses were showing up pretty good. So, you know, I wanted specifically Phillies, and there was a certain price range I was trying to stick within. So once you could add those filters in, I thought, I thought it would work pretty well, actually. I'd give it a seven."
+    },
+    {
+        "speaker": "A",
+        "text": "7.57.5 horses out of ten."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, that's what we're."
+    },
+    {
+        "speaker": "A",
+        "text": "That's the horse."
+    },
+    {
+        "speaker": "B",
+        "text": "Jars of glue."
+    },
+    {
+        "speaker": "A",
+        "text": "I like it. Yeah. Des, what were your thoughts on terra drop?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, it was nice. It's just funny. You solve one problem, you create another. Right? And so many people were mad about not having gasless or gasless drop the last time, paying for gas every failed transaction. Of course, now you solve that problem, and then you get the problem of transferring the cost to transfer eth to wethehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehehe and people complaining about that and then not getting horses and then having to pull it back out. And so, you know, it was a good attempt. I also thought the irony of last time, if you last drop before tear drop, if you did anything with the filters, you screwed yourself. You completely screwed yourself. And this time, the only way to get a horse was to use the filters. So it's just, it's, you know, it's kind of an era of comedies, of comedy rares, and, you know, it. You know, it is what it is. They're going to be better. The next drop is going to be smoother. They're going to figure out some problems. They're probably going to create some more problems, but that's how it goes."
+    },
+    {
+        "speaker": "A",
+        "text": "Adam, you ran for the hills. You did not participate in teardrop. You were out camping. Are you happy that that was the case and you missed all the action?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, definitely. Right. Because you just look at the math of how many new members joined the discord in the last couple weeks, and there's no way they were going to be able to match that demand with, you know, there's only 38,000 total genesis. It's not like they're going to drop 38,000 now there's 50,000 members of Discord. It's just, it's not, it's bad math. And if you look at, you know, if it was a success, success or not, yeah, there's definitely some some louder voices that are negative. But you look at the numbers, it was like 83% of the horses that went out, went to unique stables, and then, you know, 17% was. Was a stacked bit. So a lot of people got first horses. And, you know, definitely the people are loudest that didn't. But I think 83% is a pretty good number."
+    },
+    {
+        "speaker": "A",
+        "text": "I was thinking the same thing, and I. That was a point that I wanted to make as well, is, you know, it was like 6300 out of the 72 were unique, which I think is pretty good considering. Right. So especially for a first attempt at, uh, getting everybody a first horse, I think, uh, you know, like you said, the demand is love. Love the haircut chamber. The demand is. Is wild, and it's going to continue to be. And there's only maybe one or two drops left of genesis horses, period. Uh, the other thing, though, I do want to make a point of, is if you missed out and if, uh. So if you don't, didn't get a Genesis horse from this drop and you still want to participate in the ecosystem, you can very well do so without a Genesis horse, right. So, you know, that's the beauty of this game, right? The genesis horses will be gone by the end of next year, and all the people that come in after that, they're going to have to start somewhere. And I think this game allows you so many opportunities to build from the ground up, whether it's buying a legendary horse or an exclusive. And, you know, as Adam will attest, a game of breeding, right, so you can kind of breed your way into a successful stable. And I think that's what's attractive about this game. And when they do finally open up breeding, which hopefully is coming soon, I think it's going to get a ton of people who missed out their first horse or their second horse or their third horse. Right. So, you know, just a point that I wanted to make, you know, because I understand people's frustration that they didn't get one, but it's not the only way to play the game, and, you know, lots of opportunity there. So now we, if you have any questions, drop them in the chat. We can obviously bring them up. That's the beauty of being live, and we can have your questions answered for you. The first question I'm going to talk about comes from ocon clicks when breeding. Adam, when do we think breeding is happening here?"
+    },
+    {
+        "speaker": "D",
+        "text": "Uh, it can't be soon enough, honestly. Right. Because of what you just stated, that it really answers all the problems that we have right now in the ecosystem. But they didn't warn us last time, and I don't think they're going to warn us again this time."
+    },
+    {
+        "speaker": "A",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "We all woke up in America like some bitch breeding has been open for 7 hours. Where was my notice? Right. Like, I would have set an alarm for this, but. So I think it's just going to be dropped on us when it is. I think they, they got, they got this Preakness thing coming out. Right. That's super exciting. So that's moving quickly. So I'm sure they've been busy doing that. I mean, to not be in the Kentucky Derby, but then a part of the Preakness, that's a, that's a short window of stuff happened."
+    },
+    {
+        "speaker": "A",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "So that's super exciting. I'm excited. I mean, my dad talked to me about this for the first time. He called me. He's like, hey, did you see about this? I was like, yeah, man, the shit I've been talking about."
+    },
+    {
+        "speaker": "A",
+        "text": "Isn'T that, isn't that the best? You're like, I told you, yeah, I have. I have 30 thoroughbreds. I did. But, yeah, no, I think that's a great point. And that was something I wanted to touch on. So we woke up today with an announcement that Zed has partnered with the Preakness. And the Preakness is putting out their own NfT auctioned of, like, legendary preakness moments and things like that. And they are actually coming along with, if you win the auction, you also get a unique z ten, I believe so. Unique genesis horse that has a preakness skin on it, which is pretty cool. They look really sharp. Yeah, they look really sharp. And I don't know, I'm curious to see how these auctions, do they feel gettable to me. Like, it feels like it's gonna be gettable because it doesn't sound like it has or it doesn't seem like it had too, too much hype. If you actually go, you could see it on Opensea right now. I'm not sure what the current bids are on. Has anybody looked? Adam, did you take a look?"
+    },
+    {
+        "speaker": "C",
+        "text": "They were super low. They were incredibly low. Like, no one's really bid, truthfully."
+    },
+    {
+        "speaker": "A",
+        "text": "And it's like, I put a bit."
+    },
+    {
+        "speaker": "C",
+        "text": "On it just to make sure it was, like, working."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And it ends, like, Saturday. So, you know, I think things like, you know, it's potentially very attainable to win an auction, and then you get that potentially rare with it. You don't think so? You think it's gonna blow up by."
+    },
+    {
+        "speaker": "C",
+        "text": "The time it's gonna absolutely blow up to get a z ten with. I mean, if you. I get. It's not as cool as, like, the unique one of one skin for billions. But this is, again, the first time they're opening this up to the public. Let's say a unique skin is gonna."
+    },
+    {
+        "speaker": "B",
+        "text": "Be worth, like, at least, what, three times the value of a regular z ten would."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, but that. I mean, I still not. That's still. That's still cheap, right? A z ten went for 125. So you're talking. Even if it's five x, you're going $600. I'd pay that."
+    },
+    {
+        "speaker": "C",
+        "text": "Custom skins."
+    },
+    {
+        "speaker": "A",
+        "text": "Adam says ten grand. We. Adam. Yeah, I agree. That's a great estimate. Like. Yeah, like two and a half, three. Do you raise or do you raise? Well, so this is a good. Good question. So, Adam, do you know, is this skin attached to the horse, or will you be able to. Because we've talked in the past about you being able to separate the skin from the horse. You know, is that. Do you know if that's unique or is it actually going to be."
+    },
+    {
+        "speaker": "D",
+        "text": "It hasn't been said which kind of ERC token standard it is yet, which would give us a little bit of a clue. Once they tell us that, then we can get a little more insight to it. But they're being very sneaky about it right now, and probably purposefully. This is, like, the first major, I would say, marketing partnership that they've had. Right. It's more than just, you know, Atari having the ip or unicorn having the gambling. This is. This is going mainstream into the horse racing world. You know, it's really pretty cool."
+    },
+    {
+        "speaker": "A",
+        "text": "And in a. In a triple crown race, like we were taught, we were thinking this might be a year or two out. And here we are, you know, two weeks after the derby."
+    },
+    {
+        "speaker": "C",
+        "text": "I just think. I think it's a missed opportunity because you get a partnership, like the Preakness. You should have a digital preakness on the same day or day after. Like, that's. That partnership would be sick. Where, you know, the horse. The in real life horse racing community is, like, okay. With there being a parallel version of it in the digital realm, that would be sick."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Shout out pony plug. And shout out my hat. Thank you. They said that pony plug says, zG needs a hat like this."
+    },
+    {
+        "speaker": "B",
+        "text": "I wish our Twitter comments were showing up here. So we have comments from."
+    },
+    {
+        "speaker": "A",
+        "text": "The Twitter comments are. The Twitter comments are."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, so it's. The periscope ones are, but not the. Not from the tweet itself. Because my favorite one comes from. I want to give him a proper shout out. Frankie, Jax at Frank Jackal, the four stages of white people. All represented."
+    },
+    {
+        "speaker": "A",
+        "text": "We are the four horsemen of white."
+    },
+    {
+        "speaker": "D",
+        "text": "Yes."
+    },
+    {
+        "speaker": "A",
+        "text": "That's so funny."
+    },
+    {
+        "speaker": "B",
+        "text": "Devastating tweets."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, it's so good. It's so good. All right, so let's. Let's get to a couple of these questions chamber. Just start throwing them on screen."
+    },
+    {
+        "speaker": "B",
+        "text": "We got one here from Spicer 81. Sean Spicer 81. I didn't know he was in the horses."
+    },
+    {
+        "speaker": "A",
+        "text": "That's what happens when you're live. Not all of chambers jokes are."
+    },
+    {
+        "speaker": "B",
+        "text": "They're all golden. It's just a matter of where you guys catch them. So the question is, will Genesis horses. Will Genesis horse value rise once final drop has ended, even raced horses? I don't know."
+    },
+    {
+        "speaker": "C",
+        "text": "I think I would think so. Right. Anytime something ceased to exist or more of them cease to exist or be made, usually the value goes up as people panic that they might not ever get one. So, yeah, I don't see why not. And I don't think, you know, it was said earlier in the show that we're, you know, by next year, we won't have any Genesis. I think, honestly, by, like, September, we won't have any genesis."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I meant to say the end of this year. Yeah. Is what I meant to say. I think it's the end of this year. And this question to me, I'll let ZG comment in a second, but I think this is more of. I think this is a certainty, and I think it's because of, if you see the game as a breeding game, the value of the Genesis horses are huge. Right. And so, you know, Des and I were talking about this kind of, in our little chat the other day, was, you know, we were looking at the new stable evaluator site, and we were trying to decide, is it an accurate value of Genesis horses or what will that value look like in the future? But, zg, what do you think when you, you know, when the Genesis horses are gone, raced or unraced, I feel like they're going to become pretty valuable as the building blocks of the game as it moves forward."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I think there'll probably be. In my opinion, there's going to be two groups of Genesis horses, eventually useful ones and not so useful ones. And it's very easily can make a horse go from a not useful group to the useful group. But at first, they're going to go up in price and then probably start to divide. Right, where, like Zion, if he wasn't knocking out Wildcatter and Ykykyk, his. His price would drop over time, comparatively to horses that are popping out. Good horses are winning consistently on the track. And why would you want to pay the same price? It's going to be that dutch auction style where it's going to lower the price just naturally with the floor dropping, because people trying to make that money underneath each other. So there's going to be definitely two groups, I think. Right. It's. Zion is a great example of something that was $300 before on stud farm. That's going to be two granddaugh now. Right."
+    },
+    {
+        "speaker": "A",
+        "text": "Interesting. Yeah. What do you just, what do you think about just maybe the value of owning a genesis and how important it would be, you know, down the line because of how far away from the bloodline you might get?"
+    },
+    {
+        "speaker": "D",
+        "text": "It depends if we learn how to breed with bad horses. Right. Right. Because if we don't know how to breed. Like, I have a couple that are. They're just bad and they're genesis. They're, you know, I got a couple of those. Yeah, they're all over the place. But what do we do with those is the question. And once we figure that out, I think all the prices will rise together. But until then, it's still so early that you're going to be able to get some snags in the secondary market maybe in like a year, where people just kind of like, ah, there's nothing I can do. It's got 30 offspring and. And they're all terrible. And I've just spent 200 eth trying to figure out how to raise it and it's still terrible. Right. And I'm not waiting for jumping and turns anymore. Right. I'm selling this horse, and you'll be able to get it for cheap. And eventually we'll figure out how to use it because it's like, you know, they are the building blocks. They are what's going to build the future of this game because you just need them for the recursive nature of it. And it's. It's going to be interesting to see how it plays out just in the long term."
+    },
+    {
+        "speaker": "A",
+        "text": "I think that needs to be one of your t shirts. Hash recursive nature, that one. That's one of the phrases that comes out a lot. I like. It needs to be a teacher. What do we got next? Chamber?"
+    },
+    {
+        "speaker": "B",
+        "text": "We got one here from Br. Vivero. Is it wiser to keep multiple z ten s or sell a couple to upgrade to a higher end horse through the next drop? That's a. That's a good question. I actually. That was my whole thought process while buying up horses on the terra drop, and I'm not sure if I did it properly."
+    },
+    {
+        "speaker": "A",
+        "text": "Adam, what do you think about that one?"
+    },
+    {
+        "speaker": "D",
+        "text": "It depends on how you're playing the game, right? If you have a community to work with, then yeah, that's okay to move up and only have maybe one horse or two horses in your stable. But if you don't have anyone to work with and you haven't spent the time to maybe join a breeding coalition or something like that, it's going to be difficult for you to make the horses that you need through inbreeding because you just don't have the stable to do it. If you have five horses, you can have a real interesting inbred stable really quickly. But if you can build a community and you want to start playing zabas with people and Nakamoto's, I think it's wise, but just make sure you have that community outreach so you're not stranded on an island and paying absorbent prices because you can't hit anyone up and say, hey, let's time this perfectly. Let's throw it out there cheap and knock it out."
+    },
+    {
+        "speaker": "A",
+        "text": "I think that's a really, really good point. Des, what's your strategy on that?"
+    },
+    {
+        "speaker": "C",
+        "text": "It's a great question. I think you also have to really take into account what kind of player you're going to be. Right. Because if you. If you do like, let's say you go all the way to the top and you get a Nakamoto, there's a good chance you're going to be in class one, two or three with that horse. And those fees per race are substantially higher than class five and class four. And you can have a lot of fun in class five and four. And so I think you have to keep that in mind. Right. I personally would say, you know, just get your feet wet, get comfortable with the game. Get comfortable with the prices of the game. Start with some z ten s, race them, get. Get used to class four or class five. And then. And, you know, it's kind of crazy, but there's not a huge drop off between raced and unraced horses, especially if you have a couple to fire off and you'll most likely have a winner in there, you can make up your value pretty quickly. So, you know, I. I think you just have to really, you know, think about what kind of game you're playing and I think long term, you know, your goal of obtaining Nakamoto's and being in class one and things like that, that's a great goal. How you get there is, is up to you."
+    },
+    {
+        "speaker": "B",
+        "text": "I have a question just kind of regards to that. I raced because I went with the higher end ones in the last drop. I didn't get a bunch of z ten s. I had three horses. And by the time I raced my two z five s, I had my z three left. And I'm like, screw it, I'm going to race it."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, you did? You did?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Yeah, totally. And it's, and it's, you know, it was, it was racing pretty well. But where I'm finding myself is I got, I got into class two, and I'm not winning as much as I was, but I'm not winning much at all, actually. But my ranking isn't coming down. Like, I'm like, oh. Like, maybe I'll lose enough where I can go down to a class three and just kind of terrorize down there, but it's not working that, what am I, am I doing something wrong? Do I just got to keep losing because it's expensive to race in class two? Man, I lost, like, like you said, like, I think I lost $500."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, my goodness."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, my goodness. Yeah. Like, easily, like, I'm like, well, maybe if I go into a higher end race and lose, I'll get, you know, dropped down. That did not work."
+    },
+    {
+        "speaker": "C",
+        "text": "It's a product of the issues with the class system. I think a lot of people talk about the class system right now being a little broken, and it is to some extent, but you just have to realize that, you know, we're still at, like, the tip of the iceberg as far as race dynamics. You know, they still are only down to distance preference. We haven't introduced anything. We've been talking about it for, you know, two months for us. ZG has been talking about it for a year plus. But, you know, we still haven't introduced all that stuff. So until that gets worked out, until there are different ways to, like, differentiate different races within classes, you're gonna have a weird stack up where if you don't have one of those, you shaped curves, which everybody talks about, you know, I love calling it the Ricky Bobby. Right. If you're not first, you're last. If you don't have one of those distributions, then you're, you're really stuck in this game a little bit. You're just going to pay pretty high fees to just stay in the same class."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Now, what can you, like, I've noticed on this particular horse that I'm talking about and I don't know if it's a thing. I don't know if it's just. If it means anything, but I noticed the way this horse gallops or runs is a different way than some of my other horses. Like, it almost looks like it's got one leg longer than the other, or something. Something weird is happening."
+    },
+    {
+        "speaker": "A",
+        "text": "We were in a. One of the clubhouses and ebbs came in and he tipped his cap a little to somebody who had noticed that kind of thing. There's a certain way that they walk differently or gallop differently."
+    },
+    {
+        "speaker": "B",
+        "text": "This one gallops in a weird way."
+    },
+    {
+        "speaker": "A",
+        "text": "He wouldn't tell us what it is like, but he did kind of tip his cap that there was some kind of significance to that. Adam, do you. I think you were in there. Do you remember what he said? I can't remember what he was, what exactly we were talking about."
+    },
+    {
+        "speaker": "C",
+        "text": "It was the head bob."
+    },
+    {
+        "speaker": "D",
+        "text": "Yes."
+    },
+    {
+        "speaker": "A",
+        "text": "It was like the head bob."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. The head bob. Yeah. Because it's more. One is a little bit more thrashing and one's a little bit more smooth. Right. So it kind of reminds me of, like, a tired horse, right. When you're watching at the track and it's like it can't keep its head still anymore and it's just kind of bouncing back and forth. You know, that horse is done. It's got no kick at the end of the race. Right. So I think that's probably what it is. Right. It's, um. It's. It's something. It doesn't necessarily help or hinder performance, but it does give a hint to the performance capability. So it's probably giving hints to the distance preference."
+    },
+    {
+        "speaker": "A",
+        "text": "Interesting."
+    },
+    {
+        "speaker": "D",
+        "text": "That's interesting."
+    },
+    {
+        "speaker": "A",
+        "text": "Another t shirt idea. Straight lines, sunny days. Those are your. That's another one that you say all the time. All right, what do we got next for a. For a question here, chamber."
+    },
+    {
+        "speaker": "B",
+        "text": "I got one here from. From top shot bargains. What are your breeding strategies? What are your breeding strategies?"
+    },
+    {
+        "speaker": "C",
+        "text": "I still want to hear CG's opinion on this. I want, like, top three things he's trying to test in the next breeding cycle."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, that's a good one. Let's go there."
+    },
+    {
+        "speaker": "D",
+        "text": "Number one thing I want to test is stallion style, where I have. Yes, stalling style. Could be a shirt. So that's where you have a cult where it has a seven day breeding period, but you time it with a mare where it has one breeding period and then refreshes and has another breeding period within that same seven days for a colt. So then you have two sets of twins on the same breeding cycle of one cult. So then you can really look at the crossover mutation to see what changes and what doesn't."
+    },
+    {
+        "speaker": "A",
+        "text": "So, yeah, so that. So it's. It's the same. It's the same cycle for the colts, and then you're straddling the end of a cycle and the beginning of another with the mayor, correct?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yep."
+    },
+    {
+        "speaker": "A",
+        "text": "Hashtag stallion style. So. All right, so that's a pretty advanced. That's a pretty advanced strategy, I would say. Right, so what about a beginner strategy, somebody who's just getting their feet wet with or something else wet with breeding for the first time?"
+    },
+    {
+        "speaker": "D",
+        "text": "The long arm. Yeah. So I would say it's probably. If you have a mare, I would say you have two options to start with. Again, twins is a good thing because you can see where the mutation is different. Like, I've done a 2200 mare on a 2200 colt. One came out 2200 preference, and the other one's only 1600 preference. But the 1600 preference was way better. I've only got to do that one time because they keep taking breeding away, and I was last time just, like, mad dash, like, let's see if we can rub this on this and this and that and this and that. So, yeah, twins is a good way to test variations and variables that we can kind of control. And another one is if you have a mare to breed with two different cults immediately, and those offspring can breed together even though the mom is the same, because sire lineage is what traces siblings. So when they say you can't breed brother and sister together, it's only determined by the father, not by the mare. So you can immediately have inbred lines."
+    },
+    {
+        "speaker": "A",
+        "text": "Interesting."
+    },
+    {
+        "speaker": "D",
+        "text": "I'm really excited to try that."
+    },
+    {
+        "speaker": "A",
+        "text": "So you can breed a step sibling through the mother, just not the father."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. We're about to get terrorized by the super duck, Ducky Malone. I. Ducky Malone has so many good offspring that are about to rub together. Right."
+    },
+    {
+        "speaker": "A",
+        "text": "So, Des, you were saying when we were talking about breeding, maybe a couple weeks ago when it was open, that was one of your things you were trying to look for is distance preference on distance preference. Right. So is that still part of your strategy?"
+    },
+    {
+        "speaker": "C",
+        "text": "Absolutely. Yeah. It's one of my kind of, like, three things I want to test during this next breeding cycle. I mean, it makes sense, right? If that's part of the genetic algorithm that determines. Well, then it's got to be set up one particular way. And we talk about stacking. I think that, in general, kind of visual terms is what you're going for. Right. You're trying to stack. If you look at what happened with Escobar and Roy Rager, my theory, and it's a very rudimentary, like, two year old theory, but is you had all these traits, and when two horses come together, if they line up, you know, perfectly or close to perfectly, you know, it's. It's good for the offspring. Well, what happens when, if you get three extra chances at lining that up, right. It all becomes one. And that's what I feel like happened with Roid Rager and Escobar. So, you know, trying to stack similar genetics is. Is what I'm going for. So that's. That's one way to do it, is. Is distance preference."
+    },
+    {
+        "speaker": "A",
+        "text": "I think that's smart. I think we need, like, boys to mend. I'll make love to you. Playing over this portion of the podcast."
+    },
+    {
+        "speaker": "C",
+        "text": "I'm seeing, like, increasingly graphic images on Twitter of the horses doing. I feel like if they don't drop it, some really scary shit."
+    },
+    {
+        "speaker": "B",
+        "text": "I keep thinking of, like, meth cooks using these strategies to interbreed with themselves to create a super meth cooker."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, yeah. We're Walter White. We're Walter White."
+    },
+    {
+        "speaker": "D",
+        "text": "That's what I call it, the Walter White recipe. Right. I want to make Walter White recipe, but I don't have the ingredients. But I know someone will eventually, and they can use the plan and then make, you know, the blue magic. Right. That's. That's what we need the best horse to be."
+    },
+    {
+        "speaker": "C",
+        "text": "Magic."
+    },
+    {
+        "speaker": "D",
+        "text": "That's right. Now we're just making biker Crankley."
+    },
+    {
+        "speaker": "A",
+        "text": "So, yeah, I think the. So I think if you're a beginner, definitely take a little bit out of those strategies that these guys just gave. But I think, you know, the examples they gave proves that you kind of need to think about it ahead of time. Right. So you really need to think about what pieces you have of the puzzle in your stable. And as Adam said before, if you don't have them all, find somebody who may and do some research into what exactly you want to look for. Right. Because breeding can get, I think, very expensive if you are just throwing stuff at the wall and seeing what sticks. Right. So have a plan. I think that's super important."
+    },
+    {
+        "speaker": "C",
+        "text": "I think community is so important to this. And that's one aspect where, like, community really thrives. I mean, ZG hooked me up with his boy doctor ian to kind of do a inbred, insane hymn offspring this next breeding cycle. And we're going to do that. We've been talking, but what's great about that is you make that connection with another person, you work it out, and if you trust the person and everything, you can send a horse over to the other stable and you can save some money on the breeding costs, which is great. So that's one way to do it and build through community. Some of the greatest horses, you know, were done through that, like, split, you know, split deal, where you get the two offspring and you split it amongst partners. You know, Secretariat is probably one of the most famous ones. There was two offspring of bull ruler and, you know, they did a coin flip to figure out who gets the offspring. Secretariat and some other horse. I can't remember. It was actually a really good horse, but not as good as secretariat."
+    },
+    {
+        "speaker": "A",
+        "text": "That's like everybody in your office pool buying a lottery ticket, Des, and you get the. You get the winning one and I get the shit one. That's kind of like what that is."
+    },
+    {
+        "speaker": "C",
+        "text": "Pretty much it. I mean, yeah. Yeah. It's a lottery ticket of all lottery tickets. So, um."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Are they doing those in your office? Is that what you're. You did you. Are you in charge of the run in the pool or."
+    },
+    {
+        "speaker": "C",
+        "text": "That's why I'm wearing this. Yeah, because I won the last powerball. So."
+    },
+    {
+        "speaker": "A",
+        "text": "What do we got next? Chamber?"
+    },
+    {
+        "speaker": "B",
+        "text": "I got one here from mini. I don't know what question."
+    },
+    {
+        "speaker": "C",
+        "text": "We have some great questions coming in. I'm not gonna lie."
+    },
+    {
+        "speaker": "B",
+        "text": "What are your thoughts on accuracy of prices on zedranker.com?"
+    },
+    {
+        "speaker": "A",
+        "text": "I wish you were true."
+    },
+    {
+        "speaker": "C",
+        "text": "I wish it were true. I don't think it's checked one of my."
+    },
+    {
+        "speaker": "B",
+        "text": "I checked on a mine. I wish it wasn't true."
+    },
+    {
+        "speaker": "A",
+        "text": "So here's the thing with that. I think there's a lot of. So, like, the difference if you. If you've ever been on, like, moment ranks on top shot, right. There's a very easy way to value a moment as far as what it's being sold for. And then the only human element is essentially, how do you value a serial number? Right. The. There's a lot of nuance, I think, that comes into valuing a horse, and I think that's partially because there's a lot that we don't know about the future of the game and there's, you know, very little that we do know, really. So, you know, it really depends. Like, if you looked at that. If you looked at that website, it said, like, breathless edge was worth, like, two and a half eth. Nobody in their right mind would say breathless edge is worth two and a half eth. Right. It's just not right. But, you know, and the reason why is because of all these nuanced factors that you can't get by just pulling data from listings and genotype on Opensea. So there's got to be some human element that goes into that. So when you're looking at that, keep that in mind as far as maybe you have something way more valuable than it's telling you. And I think it's good for potentially a floor valuation of what your horse is. Right. Like, if you're looking at a single horse, anybody else want to chime in there or you guys feel the same?"
+    },
+    {
+        "speaker": "D",
+        "text": "Sounds good."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Jumping to pull up zed rank. So kind of show people and maybe pull up."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes."
+    },
+    {
+        "speaker": "B",
+        "text": "Name of a horse."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. I think it's always going to be, you know, you're always going to need that human factor to make sure that it's because what if they've been running him in free races or against weak competition on purpose. Right. There's always, you need to be able to have someone with a trained eye to look at what. What they're doing."
+    },
+    {
+        "speaker": "B",
+        "text": "Is there a particular horse we want to check out or."
+    },
+    {
+        "speaker": "C",
+        "text": "Let's go insane. Him. For. For my sake. Since I just bought into that bloodline."
+    },
+    {
+        "speaker": "A",
+        "text": "I was. I was really waiting to see if. I was really waiting to see if chamber was going to put, like, just him or if he was going to do the. He's a good catholic boy."
+    },
+    {
+        "speaker": "C",
+        "text": "Are you kidding me?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I got them hymns. I got them hymns. So, yeah, this one comes. This one shows up at like, yeah, 7.82 to 9.28. Ethereum."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. I mean, I don't feel like that's a crazy, terrible evaluation."
+    },
+    {
+        "speaker": "C",
+        "text": "It's not horribly off."
+    },
+    {
+        "speaker": "A",
+        "text": "No, no. Like, some of the other ones I've seen are pretty."
+    },
+    {
+        "speaker": "C",
+        "text": "Let's do breathless edge. Just go back to breathless edge, see."
+    },
+    {
+        "speaker": "A",
+        "text": "If they fix it because it might have been a glitch."
+    },
+    {
+        "speaker": "C",
+        "text": "I noticed they changed my evaluation on a couple horses and it's probably more accurate now. So maybe they're. They're tweaking stuff."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, okay. Yeah. Literally. Yeah. Because yesterday this said two and a half each."
+    },
+    {
+        "speaker": "C",
+        "text": "Phenomenal."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm going to change. I'm going to check mine."
+    },
+    {
+        "speaker": "C",
+        "text": "That's great."
+    },
+    {
+        "speaker": "B",
+        "text": "My z three that I checked the other day, I think, came in at, like, it was. It was a sad number. I think I bought it. Like, what were we buying? The z 34? Like, four."
+    },
+    {
+        "speaker": "C",
+        "text": "We have to make."
+    },
+    {
+        "speaker": "A",
+        "text": "We have to make ZG."
+    },
+    {
+        "speaker": "C",
+        "text": "We have to make ZG blush and look up supreme polarity eventually."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Of course. I mean, I can't believe we've waited this long."
+    },
+    {
+        "speaker": "B",
+        "text": "This is what I'm dealing with right here, guys. Everybody else get 20 eth. I bought this. I bought this dud, this Elmer glue for four, for 3.8 e."
+    },
+    {
+        "speaker": "A",
+        "text": "It's late. All right, look up vgs."
+    },
+    {
+        "speaker": "B",
+        "text": "Sorry, what was that? What was the name?"
+    },
+    {
+        "speaker": "C",
+        "text": "Supreme polarity."
+    },
+    {
+        "speaker": "A",
+        "text": "If you don't know, now you know chamber, if you don't. If you don't know, you better ask somebody."
+    },
+    {
+        "speaker": "C",
+        "text": "I think it's such a cool name. Especially what we talked about, the U shaped patterns, like, just a nod to, like, the supreme polarity of a horse."
+    },
+    {
+        "speaker": "D",
+        "text": "And so do you want to know my. I don't know if I've told you guys my conspiracy. Conspiracy on this one."
+    },
+    {
+        "speaker": "A",
+        "text": "No."
+    },
+    {
+        "speaker": "D",
+        "text": "Let's hear it."
+    },
+    {
+        "speaker": "C",
+        "text": "I believe they attribute horse attributes to the names beforehand. Is that your conspiracy?"
+    },
+    {
+        "speaker": "D",
+        "text": "Well, this one's extra special, right? Because this is from the December drop that was unannounced and the first one moved to die. That's where master of time was two z, one supreme polarity. And if you look up supreme polarity in Cantonese, which is where the Hong Kong genetic algorithms from, it's Tai chi. And that's literally the translation to supreme polarity."
+    },
+    {
+        "speaker": "A",
+        "text": "That is a good one. That is."
+    },
+    {
+        "speaker": "D",
+        "text": "And the color is China rose."
+    },
+    {
+        "speaker": "A",
+        "text": "Look at this. So for all the. For the all always sunny fans out there, this is the Pepe Silvia board. He's got piles full of pepe. Yeah, there's. There might be some credence to that one, though. There's a lot of dots that connect there."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. And I got some screenshots from Rob, like, hey, you know your stuff about supreme polarity. So I'm like, mm hmm. I'm excited to see what we can do."
+    },
+    {
+        "speaker": "A",
+        "text": "So that looks way more. I feel like that one was."
+    },
+    {
+        "speaker": "C",
+        "text": "That one was particularly under. But I did do, like, the changes they made on breathless edge, so."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. Like, there. It's. It's way better than when we looked yesterday."
+    },
+    {
+        "speaker": "D",
+        "text": "Looks better."
+    },
+    {
+        "speaker": "A",
+        "text": "But, yeah. So, uh, chamber, I think you missed a couple decent questions up."
+    },
+    {
+        "speaker": "B",
+        "text": "Uh, yeah, I got a. I got this one here I thought was really good. This is from Gucci estates. How many races slash data do you need to collect an order for your horse to be considered an ad donkey?"
+    },
+    {
+        "speaker": "A",
+        "text": "A donkey. I'm assuming if it was an ad donkey, that'd be pretty."
+    },
+    {
+        "speaker": "B",
+        "text": "You could just like."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, Pepsi right on the side of it. The. So I'll let. I'll let Adam and Des go first on this one. Adam, what do you think?"
+    },
+    {
+        "speaker": "D",
+        "text": "Go ahead."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, uh, I I would def. This is one of those questions where I would defer to you, but I'll take a stab and I'll say. I'll say 25."
+    },
+    {
+        "speaker": "A",
+        "text": "You agree? 25?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, it was cutting it and out. So. Sorry, guys. Um, yeah, 30. 30 is good. Um, for me, usually for. But I like a little bit more for bread horses. I think bred horses have a little bit more to develop in them. Um, I mean, if you. If you look at, um, pinkman. Pinkman was like, a 12% winner until, like, 75 races, and then Pinkman took off. So I think 50 is a good one for bread horses. Like, maybe because I still think that ETh earned is plugged into the racing algorithm, since there's two racing algorithms, one for bread horses, one for Genesis, they. They could put a delay in the ETh one to make it. So it's kind of a delayed liftoff comparatively to Genesis horses."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So this is an interesting point as well. I was talking to my brother about this theory with the ETH one today, and, you know, we've. We've had the odds debate all across discord and everything about, you know, what the odds show, what's too much to know, when should. And, you know, it should be based on performance. But I feel like if it is eth one. Right. Like you said, that is a way to build in past performance to your odds. Right. And it also goes with the theory that maybe your odds get better over time if you're winning, which we've seen. So, seen a little bit of data on. I believe that's one of your theories as well. Right, Adam? Yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "Back in the. Yeah. Because I've read through. So what I did, because I'm a crazy person, is I read through the entire discord history and took screenshots."
+    },
+    {
+        "speaker": "B",
+        "text": "That's a reasonable thing to do."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Yeah. So I got some good screenshots of. Of what they wanted the game to be, what it became, and things like that. Like what? Because they would. They said a whole bunch of stuff back in the day, like, oh, you can look at, we're going to be trying to use weather, we're going to be trying to use this incontinent. And, and then you can kind of glean from what they're saying today that they're still thinking about those things. You know, it's still going to be incorporated, but they're a little more hush hush now. You can kind of figure out what they could still be using and whatnot. And one thing was always, they wanted there to be an experience factor, but they didn't want it to be so much experience factor that it kind of. It kept other players from playing, you know, because if you see breathless edge out there and it's got 200 eth one, do you want to race breathless edge? Probably not, if you know, but I think it also plays in a good. If it impacts the odds, I think it's good for the future of the game, because, say, I didn't ever race supreme polarity, and I put her in against breathless Ed, she would look like, even though they are pretty much the same horse, right. When they're in the race together, they get the same odds. They just go back and forth, like maybe a couple points up and down. So when you look at that, and if she came in the game two years later, she would look like an underdog, but in actuality, she's pretty even. And it could be a really good upset for the future, right. It could be a brand new start to the game because of these upsets available through the algorithm, recognizing that the genetics are about the same, but the ETH one is going to give a little bit of weight, so it could make some really interesting upsets in the future."
+    },
+    {
+        "speaker": "A",
+        "text": "That's interesting. So just a follow up, would you. So you think that's ETh one is more accurate than maybe, say, having a, you know, a horse that's good at five dollar races versus ten dollar races and some, or something like that?"
+    },
+    {
+        "speaker": "D",
+        "text": "I just think it's more important than win percentage."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, sure. That makes sense."
+    },
+    {
+        "speaker": "D",
+        "text": "It gives the ponies that can't win something to do. Finally, they get that eth one in the belt, then they can mint maybe some better horses. Right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "Maybe Excalibur is just waiting for half an east, and then she's going to pop out champions like crazy. She's one of those that just keeps moving up in class and can't win shit."
+    },
+    {
+        "speaker": "A",
+        "text": "Right? Sure. That makes sense. Right, right. Cool. What else? What else we got? Chamber?"
+    },
+    {
+        "speaker": "B",
+        "text": "I got one from Mark O'Sullivan. Do you think there will be a penalty for horses bred from horses which have bred a lot? So some, you know, if you're. If your horse is going around town."
+    },
+    {
+        "speaker": "D",
+        "text": "You know, breathless edging."
+    },
+    {
+        "speaker": "B",
+        "text": "Breathless edging."
+    },
+    {
+        "speaker": "A",
+        "text": "Breathless edging. That needs to be a hashtag all over. So good."
+    },
+    {
+        "speaker": "B",
+        "text": "Will there be a penalty?"
+    },
+    {
+        "speaker": "C",
+        "text": "Will."
+    },
+    {
+        "speaker": "B",
+        "text": "Will there be a shaming? Of sorts."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Shout out to Mark, right? Mark is one of the ogs. He's been around for years, right? He's like, I've. Like, I've only been here since October of last year, so I've not been here that long. But Mark, he's been here with like, lucky Jack and Bob the Nailer, right? Bob the builders, porn star cousin. They've been around for like two or three years. So it's been, you know, it's good to see that they're still around and supporting the community so. Well, number one. But when it comes to a penalty, I think it'll be mostly a penalty, not in performance or anything like that. But why would I pay you x amount when there's 40 breathless edge offsprings and there's only two from like, insane him or something? Right? Insane hens. Two offsprings divided by the value of, you know, demand is just going to be easier to get a better price on."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure. So, I mean, conversely, right, if you."
+    },
+    {
+        "speaker": "D",
+        "text": "Own one of those. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "If you own one of those in the bloodline, then you could go pay somebody cheaper for somewhere down the line in the, in the bloodline rather than go right to the source. Right. You still have, you know, you can play with a budget that way if somebody is willing to, you know, breathless edge you."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm going to ask my wife if she wants to breathless edge me tonight."
+    },
+    {
+        "speaker": "D",
+        "text": "I."
+    },
+    {
+        "speaker": "A",
+        "text": "This is supposed to be a family show, I think. I don't know, you know, families are tuning in."
+    },
+    {
+        "speaker": "C",
+        "text": "Come on."
+    },
+    {
+        "speaker": "D",
+        "text": "18 and up game. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, I put, I put the show on all my kids I. Or all my kids devices just so we get views."
+    },
+    {
+        "speaker": "A",
+        "text": "Just so you can get the views."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "I gotta get that algorithm."
+    },
+    {
+        "speaker": "A",
+        "text": "Go to. Go to this one from keto. Zero, nine, two. Because that's a, a beginner odds question that we should touch on for anybody that's brand new."
+    },
+    {
+        "speaker": "B",
+        "text": "This one here?"
+    },
+    {
+        "speaker": "A",
+        "text": "No, not that one. The one above it."
+    },
+    {
+        "speaker": "B",
+        "text": "Above this one. So there we go. Oh, this was part of me. That was two of two. So part one of two. Okay, I have a question that's been really confusing me. What do odds mean in a race? Six ish odds. And then I'll bring up part two. Hang on 1 second. But no real wins. What exactly do, do the odds relate to? Is a horse with low odds expected to win? That would be my thought is if you're getting six, if you're odds."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Just not a large enough sample size. You can do two things. You can keep racing it or you can sell it to me really quickly for a super low price because it hasn't won yet."
+    },
+    {
+        "speaker": "A",
+        "text": "So what's the name of it?"
+    },
+    {
+        "speaker": "B",
+        "text": "We'll put it in the. We'll put it in the right."
+    },
+    {
+        "speaker": "A",
+        "text": "Zg, you take this one, because this is a, you know, a debate, the odds debate on what it's showing and what it means is raging all the time in the community when they're not arguing about terror drops."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, no, we've been arguing about the odds since I showed up in October. So it's. For me, odds are everything. I don't care about performance. I don't care about time. I don't care about anything else. If zero wins and it has four odds, I want it. If it has all whole bunch of wins and it has 20 odds, I don't want it. Right. Because I view it. I think it's a. It's a fallacy to. I. They should have never called it odds. It should have just been called fitness. Right. What is the fitness of the horse in that race at that distance. Right. And then they should have built the. The betting line off those fitness odds that you could call them. Right. Or fitness line and then go from there. But calling them odds has just made it so much more confusing for everyone. Just like the rapt Ethan, we say another lesson. So."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, no, I think that's a good point, because it doesn't necessarily work."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Tez, are you gonna do some math for us on odds in the. But on the whiteboard behind you."
+    },
+    {
+        "speaker": "C",
+        "text": "I was gonna draw something because."
+    },
+    {
+        "speaker": "A",
+        "text": "Go ahead."
+    },
+    {
+        "speaker": "C",
+        "text": "I know, I know."
+    },
+    {
+        "speaker": "B",
+        "text": "Draw a horse. My kids always ask me to draw a horse. Hardest. Hardest animal to draw."
+    },
+    {
+        "speaker": "C",
+        "text": "Hardest animal to do. Hardest animals."
+    },
+    {
+        "speaker": "D",
+        "text": "Easily to make it ugly."
+    },
+    {
+        "speaker": "C",
+        "text": "No, but, you know, there was. I, too, think odds are supremely important now, understanding what those odds really are, that's the name of the game. I do really like that one theory that's out there, which is like, every horse is capable of different races, their best race, their worst race, their average race. And that distribution looks very different. And so sometimes you can have a well balanced horse where every race is their average race. You don't want that type of horse. Cause that's gonna be your, like, your z three, who just kind of finishes in the middle of the pack every. Every race and doesn't move up or down, doesn't win, doesn't lose. It's like the least thing you want. You have a really. Yeah, I'm doing a really good job pumping your bags right now. My bad. Chamber. Maybe we just don't share. Oh, no, we already shared. It was le freak. Nevermind."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, don't worry about it."
+    },
+    {
+        "speaker": "C",
+        "text": "Maybe sometimes your horse has. Is capable of a really great race, but it's only one of its five races. Right. And so it's going to really suck, but that one in five times, it's going to really outperform and really dominate. Well, if you took an average of all those performances, that's kind of what I envisioned the odds would be like. So you can have, you know, really, you know, difference in performance in the odds level out here. If you have just an absolute monster of a horse, then maybe you have a few of its races are way up here, has one or two races of its capabilities. Down here it still shows great odds, but you have too small of a sample size, which for the Seto guy, I think that's just what we're looking at."
+    },
+    {
+        "speaker": "A",
+        "text": "I think that's a good way to describe it. Shout out to Josh in the, in the chat, he hosts all those twitter spaces that the community joins every day that I'm sure Josh Ong's in the chat. Yeah, I'm sure that ZG. You probably have to run to a Twitter space or ten after this, but anyway. But he said, let's rename it the pony mass index. I like that. Cultivating mass."
+    },
+    {
+        "speaker": "D",
+        "text": "The PMI. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, Chambery, we got any more questions in here?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think we might. There was one that I saw, we got breeding strategies. Here's one from imprecinct opinions on partnering with friend person to create a stable versus creating individually owned stables. So is it good to. Whether it's."
+    },
+    {
+        "speaker": "D",
+        "text": "I don't know."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm assuming whether it's to, you know, kind of gather funds together to buy higher end horses, maybe mix those two together and. And get the most. Most horses possible for maximum breeding potential for the most, you know, I want to call it careless whispers, breathless whispers as possible."
+    },
+    {
+        "speaker": "A",
+        "text": "You need to name one of your bread horses. Careless whispers."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, careless whispers and a cloudy biker crank, I think is going to be the next one. Cloudy biker crank is going to be definitely one."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, I think this question goes back to what we were saying before, is it's part of the community piece, right? Where if you're. It takes the community to be able to work together. And I was going to say breed together, but that's, you know, to create, you know, these bred horses, it takes multiple people. Right. So I think owning a stable with somebody is a totally fair way to play. And I know some people who do that. You know, if you're pooling funds together, I would just say make sure that you have the same vision if you are going to pull your funds together to buy horses in a shared stable. Right. Because if you, if you're thinking you're gonna race and your buddy thinks, oh, no, we're gonna leave these unraced and just sell them, or we want to breed champions, but we want to breed them in our own stable. Like, just make sure. I would say that your goals are the same if you're going to work with somebody. And, Adam, you got anything to add to that one?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. And I'd say that some added security to that is that fractional stable ownership is on the way. It's on the roadmap. So with the dow that comes out, I saw someone ask about the Des token. That'll be for, you know, maintaining the Dow with the voting system, but it'll be, yeah, that's funny. Stays together. Yeah, I like, there's a few of them. Like, I I like to say that there's going to be horses that aren't good on the streets but good in the sheets. Right. That, that's going to be a big thing, too. Right. That's going to be your zions and stuff like that. But, yeah, no, they're going to be. We don't know very much about breeding right now, obviously, because there's a whole bunch of crappy breastless edge kids out there, and there's some really good Zion kids, and we're like, all right, I guess we should start breeding with Zion. Right? That's, that's the new plan. So we really are just figuring it out as we're going. Right."
+    },
+    {
+        "speaker": "C",
+        "text": "One of the craziest lines that baffles me is grandeur's line. I mean, grandeur's line. Poseidon's horse, like that has produced some of the biggest donkeys in the game."
+    },
+    {
+        "speaker": "D",
+        "text": "And 45 was supreme polarity on Griffin with wildfire."
+    },
+    {
+        "speaker": "A",
+        "text": "Wow."
+    },
+    {
+        "speaker": "C",
+        "text": "Just doesn't make sense. The whole line is cursed. It's a, it's an amazing horse, but that line is so cursed, it's bad."
+    },
+    {
+        "speaker": "D",
+        "text": "See, I would think, like, the flip of the coin, and we did that one before we did twins, Doctor Ian and I. So we always have this, like, fear of, like, we got that 45 to one odds. What was the other side of the coin?"
+    },
+    {
+        "speaker": "A",
+        "text": "Right. Schrodinger's horse."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. So we really, really wonder about that one all the time."
+    },
+    {
+        "speaker": "A",
+        "text": "Chamber, bring that one back up from our."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I know. I thought it was our buddy tag anchor us. I thought he was trolling des, but I keep forgetting that there's a DES token within, within Zedron. So any idea what the DES token will be used for? So you kind of touched on a little bit there. Adam, do you want to maybe elaborate a little bit more?"
+    },
+    {
+        "speaker": "D",
+        "text": "Well, originally it was going to be so originally the plan was for Zed to move over to near protocol, not matic. It was supposed to be hosted over there because that's where the zest platform is. And what they are doing on near is that you can stake nfts to secure the network and be paid in DES token, but I don't think that's within the realm of possibility on matic. So I think we're going to be staking des token as a defi coin for voting in the Dow and just kind of supporting the overall ecosystem. Something I've suggested to the devs is like, we should be able to burn our bred horses. Like, say, it's just a garbage donkey glue factory. Get out of here. You're just taking up space on trying to find the right horse in this race. We got plenty of those out there. But burn it and then get paid back in des coin. So then you get to go back into the ecosystem and start buying things because eventually we're going to have bridles, saddles, all that good stuff that's going to make them look really cool. And you'll be able to use Des for those purchases. And zest is supposed to be able to use in the ecosystem eventually soon, too. So once they get that all ironed out, zest should be incorporated as well."
+    },
+    {
+        "speaker": "A",
+        "text": "You're going to be, you're going to be, you're going to be hood rich with that. When that zest hits, you got, you got 2 million zest, I think, right?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, yeah. I just needed to go doge and then we'll be good."
+    },
+    {
+        "speaker": "A",
+        "text": "I like Josh's comment down below there. Chamber. Pull that one up."
+    },
+    {
+        "speaker": "B",
+        "text": "This one here."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Can we stuff the Dow voting to get Des token minted with Des, his face on it."
+    },
+    {
+        "speaker": "C",
+        "text": "Chris evs has mentioned it before. Yeah, I got it. I got to draft up what that work would look like, but, yeah, happy."
+    },
+    {
+        "speaker": "D",
+        "text": "Happy to live forever on the blockchain. Right."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, that's a pretty, that's a, that's an honor. Like, that would be like getting your face on the $1 bill, you know? Yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "Walk of fame. Absolutely."
+    },
+    {
+        "speaker": "A",
+        "text": "I think I'd rather have it on Des than the $1 bill, quite honestly, you know, but anyway, I think we might have hit the end of the questions right at the 1 hour mark. Look at that. Almost like we planned it like this. It's almost like it wasn't a live show."
+    },
+    {
+        "speaker": "B",
+        "text": "Wasn't a lot."
+    },
+    {
+        "speaker": "A",
+        "text": "If we have no other questions, we should pull up the thing we were talking about right before the show."
+    },
+    {
+        "speaker": "B",
+        "text": "I was messing around with it a little bit."
+    },
+    {
+        "speaker": "D",
+        "text": "It's kind of fun."
+    },
+    {
+        "speaker": "C",
+        "text": "I got my free car. I got my free racer. I'm all set."
+    },
+    {
+        "speaker": "A",
+        "text": "The host didn't get to do any of this."
+    },
+    {
+        "speaker": "D",
+        "text": "We're all over here just racing cars."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm refereeing a conversation here."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, walk me through this, Adam. I'm not sure if I did it right."
+    },
+    {
+        "speaker": "D",
+        "text": "So what am I looking at here now? All right, so this is a new game. It's on ico right now. Initial coin offering, brand new. Looks like it's. I just found it today. I haven't done a lot of DD on it, but it's the same thing as Zed run. You got to sign up with Metamask in an email. Just on the top right corner. Yeah. And then you have to click the."
+    },
+    {
+        "speaker": "B",
+        "text": "Can I log in with metamask instead?"
+    },
+    {
+        "speaker": "D",
+        "text": "I think it's anyways, but yes. Well, no buffer says here. You see the little red here?"
+    },
+    {
+        "speaker": "A",
+        "text": "What's it called?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, that one."
+    },
+    {
+        "speaker": "B",
+        "text": "It's called trader race manager, or part of me trade."
+    },
+    {
+        "speaker": "C",
+        "text": "Yep."
+    },
+    {
+        "speaker": "D",
+        "text": "All right, so sign up metamask."
+    },
+    {
+        "speaker": "B",
+        "text": "So I'm gonna sign up."
+    },
+    {
+        "speaker": "C",
+        "text": "Interesting that they went with the I o I logo. It's kind of, like, dark for anyone who knows. Ready player one."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, I think it's a new coin. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so now I just create a username. So I'll go with the old chamber rekt, and then I will use."
+    },
+    {
+        "speaker": "C",
+        "text": "Just gonna live post his password."
+    },
+    {
+        "speaker": "A",
+        "text": "I was just thinking we didn't touch on which. We need to touch on that before we get out of here, though."
+    },
+    {
+        "speaker": "B",
+        "text": "On what?"
+    },
+    {
+        "speaker": "A",
+        "text": "The password, the hack. Just remind people to be safe."
+    },
+    {
+        "speaker": "C",
+        "text": "Don't be clicking on any links that you don't know where that thing's going."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, right, yeah, I saw that. Okay, well, I'm going to hide this for a second."
+    },
+    {
+        "speaker": "C",
+        "text": "Poor jeeves from SB breeding. Got it. For anyone who doesn't know, I'm pretty sure it's all over every single discord channel for Zed at this point. But, you know, a person got scammed today where they were given a link. They went to the link to check out either a horse or ranking of a horse, and it ended up swooping up somehow. Their metamask and all their information and a lot of the horses, I guess, were taken from the stable, transferred out. So that's a big warning, you know, just don't be smart. Be smart."
+    },
+    {
+        "speaker": "A",
+        "text": "Message."
+    },
+    {
+        "speaker": "C",
+        "text": "People you trust don't be clicking on any random links."
+    },
+    {
+        "speaker": "A",
+        "text": "It also makes me very scared of, like, how much funds I have on just, like, a browser wallet that, you know what I like. It's a lot like, you don't realize it when it's nfts because it just doesn't. I don't know. It doesn't seem the same as if it was a pile of eth. Right. But you got a lot of valuable stuff on these wallets, so please make sure that you're protecting yourself. I mean, I do stupid shit all the time that I shouldn't be doing for somebody who's been around for four years. And so I could definitely take some pointers. Did your lights just go out? Dude, he's larping. He's larping. He can't even. He's wearing the suit. He can't even pay his electric bill. What a larp."
+    },
+    {
+        "speaker": "B",
+        "text": "So, Adam, I signed up. I picked a color. They gave me a choice between red or blue. I picked red. And then they gave me a choice of three teams. There was a BTC team, a one on one team, and an Alt team."
+    },
+    {
+        "speaker": "A",
+        "text": "I went, sure looks like you picked blue."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it sure does. Right? I did pick red, for the record. And then I picked the team. So I picked the alts. The alt team. Alt 101, I think it was. And then it said, now it says, congratulations, you got a new car. This is a free basic. No NFT car. You've received automatically for free. Buy our NFT cards to start earning more money in races, also simply by holding them."
+    },
+    {
+        "speaker": "C",
+        "text": "It looks like a Nissan Z."
+    },
+    {
+        "speaker": "B",
+        "text": "It does look. So, racer rookie, congratulations. You got a new racer. You've just received a common tier, non NFT avatar. Each avatar has a special skill. Common level avatars have only the basic affiliate function. Buy NFT avatars to gain access to other special skills. Excellent. Okay. And then that's me looking like I'm winning a race."
+    },
+    {
+        "speaker": "A",
+        "text": "Look at you. So what is this called again?"
+    },
+    {
+        "speaker": "B",
+        "text": "For anybody who didn't, this is called trade race manager."
+    },
+    {
+        "speaker": "A",
+        "text": "Yep. And this was brought to us by Adam. So, you know, I'm gonna say it's probably ground floor. Yeah, you should at least. You should at least check it out if they're giving you a free car, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "I got a freeze ed today, so. That's nice. You did well. The car is like a 370 z or whatever. Three. Oh, you guys. You guys say z, right? 370?"
+    },
+    {
+        "speaker": "C",
+        "text": "You can't say Zed in."
+    },
+    {
+        "speaker": "B",
+        "text": "I live in Canada. I say Zed most of the time."
+    },
+    {
+        "speaker": "A",
+        "text": "Very confused."
+    },
+    {
+        "speaker": "D",
+        "text": "When I was teaching English in China. There was a russian teacher doing the ABCs and she hit Zed. I looked at my wife and I was like, what the fuck is Zed?"
+    },
+    {
+        "speaker": "A",
+        "text": "Little. Little did you know your whole life? That's funny. All right, man. If we have no more questions, do any of you guys have any questions for Adam before we jump off here?"
+    },
+    {
+        "speaker": "B",
+        "text": "I have one more quick one from Mark O'Sullivan. Og to the stars. How would you like the next drop of horses to work? Auction system. Dutch auction. Something else."
+    },
+    {
+        "speaker": "A",
+        "text": "Man. Good question. What do you think is the most fair distribution possibility, Adam?"
+    },
+    {
+        "speaker": "D",
+        "text": "I think with the amount of z one s to z four s left, there's 75 of each, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yes."
+    },
+    {
+        "speaker": "D",
+        "text": "Those are going to be auctioned off similar to how, like, these Atari ones are being done and the preakness. I think all of those z one to z four s are going to be specialty like that. Because we still have a bunch of rare colors we need to get out to. Right, the one of a kind, 100 colors, like billions. We need to get 98 more of those, right. One of those already lost. You know, it's one of those dead seahorses. So it's. It's. It's hard to say. I think that with it only being finnies and boots, probably it would be easier to do the pack drop cue style. Right. Because right now, with the four bloodlines and the different z numbers, you really don't have that option. What are you going to. Because that's what I kind of told abs was we could, you know, come up with some sort of way to randomize the, you know, throw ten horses out there at random. And if you don't have a nakamoto, bad luck. But if you're just going to auction off the rest of the horses, then, you know, the high. The lows ease the high, you know, high priced ones. I think a queue system could work. Now, if you sign up for boots or if you sign up for fins."
+    },
+    {
+        "speaker": "A",
+        "text": "Interesting. Yeah, I think that might be the most fair way. And then, you know, you can. I think it is important to get as many new people a genesis horse as possible. But I. You know, if it's got to be. It's got to be done in a way that is unique. Right? Like, it gives it. Limits it. Right. If you have a way to advantage the system, people are going to do it. And, you know, it wasn't explicitly against the rules, so lots of people did it, including. We got in a couple different drops. Right. So, you know, it's got to be done in a way that if that's their goal, it needs to be unique. So whether that is, you know, the queue style or whether that is, you know, an auction full des."
+    },
+    {
+        "speaker": "B",
+        "text": "Nobody'S watching at this place. An hour and three minutes."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm not even."
+    },
+    {
+        "speaker": "C",
+        "text": "I'm not even gonna. Yeah, it's completely fair."
+    },
+    {
+        "speaker": "A",
+        "text": "I said, hey, look, we all were in multiple drops, the three of us, for sure, so. Three of us."
+    },
+    {
+        "speaker": "C",
+        "text": "I was just clearly more successful than you guys."
+    },
+    {
+        "speaker": "B",
+        "text": "I made some awful decisions."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. You chamber bot lay freak. And now has been tied up all his money, you know."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "But. All right, I think that's going to do it for us. So, Adam, we really do appreciate you joining us. We hope you had a good time talking about horses with us, and we hope you'll join us again soon for another kind of Q and a here, but that is going to do it for us. So, four chamber four, Des. And thank you very much, Adam. Until next time, stay mint."
+    }
+]

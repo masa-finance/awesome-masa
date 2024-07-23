@@ -1,0 +1,378 @@
+[
+    {
+        "speaker": "A",
+        "text": "Franklin Templeton has entered the chat. And maybe more broadly, Tradfi has entered the chat. What chat are we talking about, David?"
+    },
+    {
+        "speaker": "B",
+        "text": "The laser eyed chat."
+    },
+    {
+        "speaker": "A",
+        "text": "Crypto. Yeah. The question of today's episode, Franklin Templeton is a tradfi company with 1.5 trillion in assets."
+    },
+    {
+        "speaker": "B",
+        "text": "You can tell it's Tradfi because of the name."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Franklin Tefleton."
+    },
+    {
+        "speaker": "B",
+        "text": "Franklin Tefleton."
+    },
+    {
+        "speaker": "A",
+        "text": "It's not the name of a defi protocol, but what do they think of crypto? In fact, what does Tradfi think of crypto? We have an executive from Franklin Templeton weighing in on all of that, and this was an incredible conversation. We'll get to that later. But a few takeaways for you. In the episode, we ask Sandy Kroll, who's the senior vice president. Franklin Templeton, how do you explain crypto to tradfi? Number two, we ask why Tradfi has been so resistant to crypto up to this point. Number three, Sandy tells us why she thinks crypto adoption in Wall street is inevitable. Number four, we ask Sandy's opinion on the Ethereum ETF, and she tells us why she resonates more with the Ethereum ETF than even the bitcoin ETF. And finally, we end the episode with an overrated, underrated lightning round where we talk about CBC's stablecoins and the 2024 election."
+    },
+    {
+        "speaker": "B",
+        "text": "But before we get into that conversation with Sandy, call first a message from our friends and sponsors over."
+    },
+    {
+        "speaker": "A",
+        "text": "What were your overall reflections on this episode we're about to get into with Sandy?"
+    },
+    {
+        "speaker": "B",
+        "text": "Sandy's really cool. Franklin Templeton has been in crypto way longer than I figured the name would imply."
+    },
+    {
+        "speaker": "A",
+        "text": "They're running validators."
+    },
+    {
+        "speaker": "B",
+        "text": "They are staking Eth natively, their own money. Um, she really had to specify that one. It was like, not customers money, our money. Yeah, I read through the lines on that one. And, yeah, like, their digital asset team, it probably walks among us. They're probably in the chat rooms with us as we speak. I mean, we also asked her at the very end of the episode, who the hell shot out those memes out of the Franklin Templeton Twitter account? But, like, there's a lot more under the hood that I think Franklin Templeton probably should deserves credit for, for just being way more crypto native, like I said, than the name suggests."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, we also asked her some of the hard questions, like, are they going to come in and try to aml KyC all of crypto, you know, raised eyebrows on what is tradfi going to do when it meets the cypherpunk values of the crypto sphere. And that is still, I think, an outstanding question."
+    },
+    {
+        "speaker": "B",
+        "text": "So, you know, Larry Fink had that clip about, like, hey, what excites you about crypto? And he goes like, ooh, like, identity. We're going to work on identity. And then Sandy is like, oh, identity. I'm like, oh, all the trading institutions really like identity. Like, oh, that, that scares me. That scares me. I'm not sure I enjoy that part."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, guys, we're gonna get right to the conversation with Sandy. But before we do, we want to thank the sponsors that made this episode possible, including bankless nation. I'm very excited to introduce you to Sandy call. She is a crypto bull, and she's also the senior vice president at Franklin Templeton. What is Franklin Templeton, you might ask? I don't know if you're listening to this and are unsure, but Franklin Templeton is an investment management company. So you could think mutual funds. You can think ETF's. They manage over 1.5 trillion in assets. So about the market cap of crypto, I'd say. And Franklin Templeton is what we at bankless affectionately refer to as Tradfi, traditional finance. They recently came out with a bitcoin ETF. They have big plans for tokenization. They seem to be, at least from their Twitter account, incredibly bullish on this whole crypto thing. And this intersection between crypto and tradfi that is the focus of today's episode. Sandy, welcome to Bankless."
+    },
+    {
+        "speaker": "C",
+        "text": "Thank you so much. I'm so happy to be here."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, so we want to hear how you explain this whole crypto thing to folks in tradfi. How do you explain what's going on here?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So I think that the best way to explain it to people in traditional finance, because there's a lot of just emotional response when they hear about this space, is to bring it back down to reality. Right? We have been living in an age where we have seen the emergence of a network economy through the provision of platforms. Right. We are living in a platform economy age, and we see this through Uber, Facebook, Google, so many, Amazon, so many of the companies that people have invested in and have been able to make really significant profits in, in most instances if they timed it right. And that has been the big growth opportunity from an investing perspective in this age, what we are entering is the network era 2.0 that we call it, where instead of having a platform based economy that is owned, where the platform is owned by a company, and you can invest in the stock of a company, we are moving into a protocol economy where the platforms are now open architecture anyone can join. And the way that you invest in these open networks, these protocols, is through the coins that they issue and the coins that the apps that sit on top of them issue. So it is a huge innovation space. It is a huge growth space, and it is a natural evolution that the technology is enabling. It's just such a different business model that people have had a hard time getting their heads around it."
+    },
+    {
+        "speaker": "B",
+        "text": "That is something that we have definitely experienced as podcasters is trying to help people get their heads around what's going on in crypto. And Sandy, I think that's a fantastic articulation that I've actually never heard before, a platform centric articulation of what crypto is. Is this an articulation of crypto that you've developed? Because I would imagine explaining crypto to the outside world is something that you've done a number of times. Is this an articulation that has resonated with clients and customers of Franklin Templeton?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think it really is, David. I think it's starting to cut through a lot of the noise and a lot of the emotional responses that people are having. New things are often scary. What I try to explain to people is think about the 1990s and the way that we saw the huge explosion in Internet stocks. And you could argue that maybe any company that issued something that said it was Internet got tons of buying interest, and that helped to lead to the.com bubble. But we're almost seeing exactly the opposite reaction now. We're almost seeing the fact that there's this whole new set of new innovations that are emerging that are transforming the way that the business models work. But because it's different, almost no one, from a huge. When you think about the size of the overall investor pool, almost only a small percentage of people are investing in it. And so whereas we may have overhyped the Internet stocks, I think we're under hyping what is happening in the crypto space, when you think about it, from a broad investor portfolio position, that's so."
+    },
+    {
+        "speaker": "A",
+        "text": "Interesting, under hyping what's going on in the crypto space. You hear that, David?"
+    },
+    {
+        "speaker": "C",
+        "text": "We got."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's rare that I've heard that."
+    },
+    {
+        "speaker": "A",
+        "text": "No one has accused bankless of that before. But I think the perspective you're taking is really from tradfi. They're basically underexposed to this asset class because they're not treating it the way they did. The stocks, the Internet stocks of the nineties and so your framing of this, just to make sure I understand, is like, we have a kind of, like, maybe this is the framing of the Internet. And I sort of think about, you know, Chris. Chris Dixon's like, framing of, you have web one and two and then you have web three, right? And it's similar to that. Whereas web one and two kind of gave us this platform type of economy. So we got our ubers, we got our amazons, we got our facebooks, of course, and that was a platform type of network. And now we have a protocol, uh, network and a protocol economy. So these would be things like bitcoin or. Or things like ethereum or things like uniswap. And the reason you're. You're maybe I'm guessing that you are painting this narrative to folks in traditional finance is because everyone knows within living memory, everyone felt the nineties Internet, right? And they. And they certainly felt all of the impressive wave of innovation that hit us. And there were a lot of skeptics at the time, particularly in kind of the early nineties, right. This Internet thing, what is it? I remember there was a David Letterman with Bill Gates. There's kind of an interview where Bill Gates is trying to describe the Internet, and he's describing something that, like, probably is best manifest in Spotify, you know, like it's. It's the ability to share music. And Letterman goes to him. He's something like, oh, so you're talking about radio. I mean, we already have radio. And the crowd laughs. Right. So this, this is kind of the analogy that you're using, and you're saying, is that starting to lat to land with a traditional."
+    },
+    {
+        "speaker": "C",
+        "text": "I think that it is starting to, because one of the odd things about the last few years is that traditional investors have tried to separate out the technology from the ecosystem that's actually creating and developing the technology. So a lot of institutional and a lot of professional investors will say, oh, yes, well, I'm very interested in investing in blockchain, but they're not actually investing in the models that blockchain is creating. They keep waiting for some magical moment that blockchain transforms into something they recognize from the current world. And I think that the evolution of the space in the crypto domain has advanced so far now that it really is becoming easier and easier to get them to understand that there's a whole new story emerging, and that that new story is where growth is really going to move. And we may even see a lot of the platform companies from this web two era begin to move in that direction as well, which would just be almost the ultimate affirmation of this idea that we're moving from the network era 1.0 to the network era 2.0."
+    },
+    {
+        "speaker": "B",
+        "text": "Sandy Ryan and I got into crypto in 2017, and much earlier in phase in cryptos like Lifespan. We were not ready to talk to Franklin Templeton back in 2017. As an industry, we just weren't ready for that. But as I've watched crypto develop and become more mature, I've also seen society look more and more towards futurist tech as investment vehicles. And so, like, as crypto has become less like a wild west, a little bit more civilized, the traditional world of finance has looked into more and more futurist investments. And so, like, I've seen this, like, slow collision of the. Our two worlds kind of come together. And I think that's why crypto people right now are very excited about the bitcoin ETF. It is the first actual point of contact between our two worlds. And I want to ask you about, like, when you're talking to your clients and your customers and the capital base that is in the world of Wall street, why weren't they here sooner? Like, what were they resistant to about the crypto world? And is it something as simple as they just needed a trusted brand, a trusted entity to really be that conduit? Or are there other reasons that they're more still resistant to crypto investment opportunities?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, it's a great question. Just for your reference, too, I wrote my first big piece of thought, leadership about tokenization in 2017 and spoke with a lot of the big trad five players, and a lot of them got up and walked out. To be quite honest with you, they were not ready to hear it at that point, but they're more ready to hear it. And there's a few reasons, and it's not necessarily these bad reasons that sometimes people attribute to tradfi. Number one, they are fiduciaries. Any decision they make, they make on behalf of their clients, and they are personally held responsible. A firm like Franklin Templeton that invests its clients money has a fiduciary responsibility to those clients. And therefore, it is very hard to operate in domains that don't have clear regulations, don't have clear consumer protection. That is naturally a point where they're going to have to move very slowly, because it's very hard for them to operate in any domain where there's that type of uncertainty. It's also, there is a culture within traditional finance that is slow to change it was a culture that was very much focused on proprietary technology just to make the crypto folks feel better. It took a lot of years, a lot of years for the traditional financial firms to even to begin to embrace cloud technologies. They were very much operating with a set of proprietarily built apps, and they felt like the only way they could keep control of their business was through using this proprietary infrastructure. So there has had to be a lot of shifting in the embracing of basically the new era of technologies for these firms to even be in a receptive position to think about and understand crypto. So a lot of these firms have been around for decades and decades. And so to them, getting into a new marketplace within the first ten or 15 years is actually pretty fast. Right. It's just crypto has developed so quickly at the speed of innovation and change, and really, truly creative thinking has been happening so fast. I think that there has been a real. It's almost like one set of participants is strolling along the stream and the other set of participants is running on a treadmill. Right. So the speed with which they tend to operate is very different. But that is starting to come together. And I think you're right. What we're really finding is that, that we're starting to now pull together the ingenuity of the crypto domain with, I think, some of the really necessary and important understanding about where consumer protections and controls are required that tradfi has been very comfortable operating within. And I think the result is very powerful."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I mean, we certainly agree with you. And so I think the case you make of why there's been some resistance to it makes sense, I've got to say. Maybe just zoning in on this sort of visceral reaction. You said you came out with a thought piece in 2017, or somewhere along that, and there was a reaction of get up and walk out. There seems to be something we didn't see in the nineties with the tech stocks. And of course, you have to embrace this new world of the Internet, and that's hard to wrap your head around. But there was some doubt as to whether stock price was as valuable as it was. But there was never the castigation, there was never the sense in traditional finance that made people want to get up and walk out. The sense that crypto is just full of ponzi schemes, it's fraud, and it's all of these things. Why do you think there's that kind of stronger reaction here? Is it because they're just nothing keeping tabs on the industry or is there something else? I mean, crypto is kind of like disrupting some things in traditional finance as well. I don't know if that's scary for folks or if that factors into this."
+    },
+    {
+        "speaker": "C",
+        "text": "I definitely think that's absolutely one of the factors. I think there's a few things right. I think that some of the reason people had a negative response to that report that I had come out with in 2017 is I really spoke about tokenization as replacing traditional equities and bonds over time. That was a very threatening proposition to people whose entire core business has been based around equities and bonds. Now, what we're seeing is it's transforming them rather than replacing them. But we're still in early days. I still think in the long run, the structure of an equity or a bond could be improved, but that will happen over time. I do think that one of the reasons why there is this backlash is some of the nomenclature that's used, that the crypto domain was originated by the cypherpunks. That's a scary term. That sounds very radical. I think that some of the early uses, when bitcoin was really flying under the regulatory perimeter through the Silk Road and things, people have a lot of lasting memory about that. But I think that the most important one is that everyone in traditional finance makes their living about modeling an asset class that has been really well researched and modeled for many years, and they understand the underlying value drivers. The biggest pushback I get from a lot of people who are unfamiliar with the space is, well, what are any of these things worth? I mean, I can hold up a piece of paper and tell you this piece of paper is really valuable, and you can bid for me on it, and if people are willing to buy it, mean it's valuable. So they're mistaking this idea of what does a network effect accomplish? It's not that there is no asset there. The asset is the network that is supporting and participating in the creation of the commerce that takes place on that network. But that's a very new concept to measure in terms of the network itself being the value that moves away from a lot of the traditional ways that analysts in traditional finance analyze assets. So that has been a new situation that they've had to deal with, and tokenomics is a completely new type of analysis that they've had to think about and learn. And a lot of people's tokenomics are still developing, and there's not a lot of standardization. So it's taken a lot of commitment to really understand the space. And I think I'm lucky that Franklin Templeton is a firm that is very committed to understanding that."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so let's get into that. So if that's how you kind of explain crypto, you talk about platform networks versus protocol networks, and these are new forms of networks, you're finding yourself in the position of also having to explain a new asset. So you can't get the exposure to the protocol network in a stock, necessarily. And that's how most in traditional finance finance will have gotten exposure to the upside in a network. There are these new assets, these things called tokens. So could you get into that, sandy, how do you explain tokens to people in traditional finance?"
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, the first thing we have to explain is that not every token is the same, right? That there's different kinds of tokens, and that certain tokens are very suitable for potential investment, and other types of tokens probably are not, right? And so we try and differentiate between a token that has a tie able relationship to a modelable economic revenue stream. Whether that revenue stream, whether the token creates an obligation on that revenue stream or not, it at least is representing something that can be modeled and that growth can be understood, and the revenue generation that's going to come from that can be anticipated and extrapolated. So there's tokens that do offer that opportunity. There's other tokens that may not. But when you look at a governance token, when you look at a pure utility token, these are not necessarily tokens that we would put into an investment portfolio for a client, because it may not have the same underlying investment case, it still may go up, it still may be a fun investment for people who want to put money there, who believe in that type of cause or that type of community that they're participating in. And communities will have value, just like networks have value. So you could start to extrapolate the argument, but for now, we're trying to focus on those tokens that represent the growth of a truly revenue tied, modelable investment entity. Right. And just because it's a network doesn't mean you can't model where it's going to go in terms of growth, uptake and revenues. And that's where we try and focus as a company."
+    },
+    {
+        "speaker": "B",
+        "text": "This is actually where Ryan and I started bankless, really trying to beat the table on. Hey, some of these crypto assets can actually become very familiar with tried and true valuation models that the rest of the world will understand, and therefore the rest of the world will understand crypto via tokens like this. And I kind of think that's actually a Trojan horse to the rest of the crypto assets out there, the whole rest of the spectrum. And I'm really happy that we have these cash flowing token models to take to Wall street and show them like, hey, these should be familiar to you. Look what they're doing. They're producing cash flows. And I would have reckoned that that's where we start our relationship with Wall street. But then things can kind of expand from there. Like, first, cash flowing suit and tie assets, like MKR maker Dow, for example. But then when we view tokens as simply a vehicle for a financial asset, we can expand what a token is. And as investors become more comfortable with crypto assets, then we can maybe go a little bit down the line into more exotic crypto assets, if you will. And I would imagine this would be Franklin Templeton's plan, where all of a sudden there's this new financial asset to package up and sell to Wall street. It starts with the very safe, very secure, very tried and true crypto assets, and then it expands from there. Maybe you could shed some light on Franklin Templeton's future relationship with tokens. What do you guys have in store?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, first off, I think it's important to understand even what we've already done in terms of tokens. We started operating on public blockchains back in 2019, do our own node verification, because we believe you cannot understand a network unless you are a part of the network. So we are actually running our own node validators on networks that we're investing into."
+    },
+    {
+        "speaker": "B",
+        "text": "ETH staking. You're staking ETH not just running a node, but you're actually validating the chain."
+    },
+    {
+        "speaker": "C",
+        "text": "For our own money and our own chain for our own knowledge and understanding. We are also putting together, we have a whole research team who's doing individual coin level research and publishing that research for our thinking and for our investors. We have a whole set of multicoin model portfolios that range from fully systematic portfolios to fully discretionary portfolios that have live track records, many of them now over three years. And we have a venture capital fund where we're doing series a and early stage investing into the ecosystem where we see growth happening. So we're very engaged in the ecosystem. We are also the firm that has created the first on chain government money market fund. Our fund, Benji, has been trading on the blockchain, public blockchains, since 2020."
+    },
+    {
+        "speaker": "A",
+        "text": "These are like tokenized treasuries, like t bills. Correct me, though, sandy on stellar, is that right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Market fund. A regular government money market fund, where each token represents one share in the fund. We worked with the SEC on developing a transfer agency system to actually administer this fund, and we built our own wallet solution that we've patented to help ensure the KYC AML coordination around the wallets. And we got authorization or no objection to be able to start offering this publicly. We have an app, you can download it from the app store and actually purchase shares of this. And we have been running that fund on public blockchain officially since 2022, early 2022. And we have now expanded the number of public blockchains that we're operating on with this fund across multiple blockchains. So we have a lot of experience in the digital native space. And what we have been able to think about for the future is a few things. One of the things we are working on is this idea that as you invest more in networks, and because the network effect is so much a function of participation, that there are certain new factors that we think could begin to emerge that can offer return to investors. And when you think about crowd factors, factors that relate to crowd behavior and activities, these could become whole new drivers of investment returns. So we're working on really defining what new investment factors are becoming available when you start to think about having a network driven business model, as opposed to a company driven business model. So that's one area we're exploring to the point you made, David. We think tokenization itself has been the imaginations of where this could move are quite substantial. We have a lot of research that we've published about this idea of cultural assets and things that really resonate with individuals. Songs, film, music, memes. Memes, maybe. And we're really exploring how do we use this new tokenization wrapper to begin to use the smart contracts to democratize and make available more widely some of these types of assets that institutions have been putting in their portfolios for many years. But the operational complexity of administering the cash flows or administering the rights across a huge pool of investors is difficult, right? So how can we use smart contract capabilities to actually democratize that and start to make that into an investment product? So that's an area where we're doing a lot of research and development. And then finally, when you think about corporations, and you think about how today they bundle so much of their value into a single instrument of inequity, are there opportunities for these corporations to begin to issue new types of investments, opportunities that could fund them in different ways, might they start to fund their research and development efforts through using a direct token issuance that gives the holders the rights to participate in a percentage of the revenues to be generated off of R and D products? Or could they start to monetize their data pools in a different way by offering tokens directly to own a portion of their data pool? So we think that there's potentially even new ways that we could see corporations thinking about how to do capital, raising that expand the options beyond just equities or bonds."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I mean, you tapped into a ton of the use cases that I think we're very excited about. And I got to say, like, 2019, me would be so excited to hear somebody from traditional finance sort of talk about these things and push into the innovation here. There's many of the frontiers you just described. And for those that aren't aware, when you were talking about a money market, when Sandy was talking about a money market, that's basically like dollars, but with the yield, the Fed fund rate yield, right? So dollars plus, like the 5% or whatever. And right now, Franklin Templeton has hundreds of millions in money market on the stellar blockchain as well. So exciting to see where that goes. I want to take us back to this fundamentals basement explanation of tokens that you were talking about, because I think I've also heard you call them the chameleon asset. And I think part of what is so difficult for people from traditional finance to get their heads wrapped around is they don't have a bucket for this token thing. You were talking about revenue and cash flow. And of course, like the very first crypto product that tradfi is really bringing to market, called bitcoin in the form of an ETF, it doesn't really have cash flows. Like we could. We could do cash flows for Ethereum, we could do discounted cash flow valuation for some of the Defi protocols, right? And it's like. But you can't with bitcoin. And so what the heck is a token? Is it a commodity? Is it a currency? Is it like an equity? Gary Gensler thinks they're all securities, apparently, aside from. From bitcoin. So even some of the regulators are confused about this. How do you explain that?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, I think it's its own unique thing, right? I mean, and that's why we do sometimes think of it as a chameleon, right? In some ways, it's a security. And some tokens absolutely have security like characteristics. Many also have commodity like characteristics. Bitcoin has commodity like characteristics associated with it in terms of its limitations on supply, how the supply is mined. Right. Those are commodity like characteristics. You have currency like characteristics because you're using this to actually pay for transactions and enable transactions. But there's also aspects of tokens that don't fit into any of those categorizations, right? The decentralized nature of the tokens, they don't fit in to any of those explanations because they are not being directly linked back to either a company or someone who is doing the extraction or a bank or a government, right? It's something new, right? The way that they are governed is very new. There's nothing that really exists like that, that is an operating financial instrument today. And I think that the ways that we are seeing them being used in terms of composability means that sometimes something changes the way it's being used and can change back after it has been kind of unwound, right? So when you start to lock your assets into a liquidity pool or a staking pool, those assets become something else, right? They become almost like a repo or like a securities lending transaction that get you revenue streams that are different than what the asset itself generates. There's all these new aspects of both how they are constructed, how they operate and how they are used that don't fit neatly into a security, a commodity or a currency bucket. So I think that's why we encourage people learn about tokens. Don't keep trying to push them back into an analogy or fit them into a bucket, because then you're starting to limit your understanding of the power of the tokenization structure."
+    },
+    {
+        "speaker": "A",
+        "text": "The other thing that's weird about this is also the supply side of a token. We talked about maybe the demand side or the revenue side, we'll say the top line. But most, I guess, commodities have some sort of a supply schedule that would be defined by how quickly you can mine precious metal from the ground. But this gets to the tokenomics economics side of things that traditional finance must have to understand. I'm wondering how you kind of explain that because with the token asset class you can have some sort of algorithmic issuance like bitcoin, where it's going to like increment up to 21 million or something like ethereum's scheme, which is like based on kind of the stake rate and the amount of people validating. And so they have to understand supply in all sorts of different ways as well. Is that part of your explanation? Is that part of the learning curve here?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. In fact, we've published several articles on really being able to talk about the supply side of tokenomics because it is such an important part of being able to participate in the space, and you've drawn attention to some of the key aspects, but each protocol might have a different approach to this, and some of them are algorithmically programmed and that supply is going to get created no matter what. Right. With gold, even if you had an extraction schedule, if for some reason there were a dramatic change in the price of gold, you really might be able to hold back or cut back on production. Right. When you have these algorithmically programmed assets, that's just not possible. You can't go in and tweak the algorithm as you go, or it's not any algorithmically driven process any longer. I think the transparency of the supply schedule is also often something that is harder for tradfi folks to get their minds around, because it's not often that you tell people exactly when your insiders are going to get out of their lockups or when you are going to see a big drop of new supply. Right. These are things that typically a market has got to figure out."
+    },
+    {
+        "speaker": "A",
+        "text": "I'd expect, sandy, they'd love that. It's all on chain like. Look at all of the information. You have to wait for a quarterly report. It's right there."
+    },
+    {
+        "speaker": "C",
+        "text": "But that's why I'm saying once people get over this kind of visceral reluctance to look at the space as an opportunity, once they start to move past that, the real opportunities and the real excitement about what the crypto domain is offering really starts to hit home. In fact, I always ask people, what was your aha moment like? There is always an aha moment for people in trad five when suddenly they get it. And so many people who have moved from tradfi into the crypto world have done so, because when they have that aha moment, they see, oh my goodness, this could really change so much and solve so many of the issues that we're dealing with in the industry. I have to be a part of making this happen. So I think that's also a lot more people are having aha moments that is helping to bring the two worlds together as well."
+    },
+    {
+        "speaker": "B",
+        "text": "I think perhaps one of the ways that you describe tokens, the chameleon asset, is another way to articulate why it's actually so hard to convince people about crypto tokens, is because when they ask, what's a token? We can tell them a token can be anything, which actually only inspires further questions, not any further answers. And that has created just a little bit of confusion. But then also likely that aha moment that you were talking about Sandy, where I, you know, the supply schedule is completely up to a developer and their code. And so we can create any sort of spectrum of an asset, which is the power of crypto, of course. And then it produces the simple assets like bitcoin, and then the more complex assets that are further down the long tail. And I think this has also kind of confused the regulators as well, because all of a sudden, every single regulator sees a token, and then they see, like, an opportunity for them to regulate, which has created just a lack of consensus among our regulators about what to do with this space, and then has also created confusion inside of tradfi about how to even interpret these things. But I kind of want to ask you, as the understanding around and the appetite for tokens and crypto assets expands, evolves in tradfi, we're going to need our regulators to also see clarity in what these things can be, and rather than resist, kind of, hopefully, at least lean into the strengths of what these assets can provide regulators to. But what would you say is preventing Franklin Templeton from really being able to dive into the deep end of tokens, where we see tokens being expressed in their truest forms, which are also likely the tokens that give concerns to tradfi investors? What is preventing institutions like Franklin Templeton from just diving into the deep end of tokens? Why can't we just skip over to the very end? I know we have to do this incrementally. Is it confusion in regulatory relationships? Is it just not full understanding, out of investor appetite? Why can't we just skip to the end of the token investment story?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, look, everybody wants to get to the end of the story, but then you lose the beauty of the journey. I think that there's a few things at play here. Number one is education. And this is why I think the bitcoin ETF is going to be so transformational. Because organizations that have basically been able to ignore crypto, because there's not a regulated way for them to participate, are now really asking for the education to begin to better understand the space, because they know they can now go to their investment committees and start to say, yes, I have a regulated way that I can get into these markets. So I think that that wave of education, which we're already getting tremendous demand for, will really help to start to accelerate the dialogue. I think, secondly, there's a trillion and a half of crypto assets, but there's about 180 trillion of traditional assets. And everyone who is going to potentially be an investor into the crypto assets. The vast majority of them also own these traditional assets. And we need to see the rails come into closer alignment. And we are really seeing very rapid progress in that direction outside the US, not so much inside the US yet, but when you look at what's happening in Europe with the pilot regime and with Mica, and with the transformation of some of the major clearinghouses and exchanges, and what they're looking to issue in terms of digital equities, digital bonds, digital funds, you know, we're seeing this 50 year old market infrastructure begin to shift. We're seeing this in Asia and Hong Kong and Singapore. We're seeing it in the Middle east, in the UAE and Saudi Arabia. We're seeing it in Brazil. So the financial market infrastructure that all of the traditional assets have run across, the security that is starting to move on to blockchain rails. And that's going to allow for greater interoperability between the crypto domain and the traditional assets. But it's also going to introduce the concept of a digital wallet to these financial players. And right now, most institutional investors do not have a digital wallet and they do not understand why they need a digital wallet. And so they need some basic infrastructure in place, because these investments have to be part of their broader portfolio and they need to understand the risks. That's why I think some of this work we're doing on crowd factors is so important because it is a factor driven portfolio construction approach that most institutions use. And that is what is causing them to hold back a little, because they don't know how to allocate to this in their portfolio, because they don't know what factors they are necessarily hitting. So I think that there's a few things that still need to come together, but we are seeing them start to emerge."
+    },
+    {
+        "speaker": "B",
+        "text": "Sandy, you just mentioned a lack of infrastructure or a lack of products or solutions being offered to the world of tradfi, the world of Wall street, in order to ease their way into crypto. If this was a call for startups, do you have any inspiration for builders out there as to what are really good products that Wall street would be interested in? Somebody who's about to start a company, what advice would you have for this type of person?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, me personally, when I look at what I think really is going to help to transform and bring these two worlds closer together, I think that the areas I get very excited about are identity solutions. How can we improve the way that we attach an identity to a transaction so that we can accelerate the know your customer and anti money laundering aspects of being able to transact. So I think that that's going to be an important aspect. I think that compliance, the monitoring of wallets, the understanding of where coins have come from, that's going to be an important area to really bring traffic and crypto together. I think that the other one is going to be this wallet technology. And how can they interoperate across accounts, which are just data records on big ledgers and assets that are sitting in digital wallets? How can you interoperate to get consolidated portfolio views across that whole set of holdings? Because that's how all the major institutions in the world are going to be looking at these portfolios for probably the next three or four decades, at least. Don't forget, a lot of these institutions invest in equities and bonds with a 30 year, 40 year time horizon. So those portions of the portfolio are not going to go away for quite some time. So we're going to have both brand new assets needing to sit in the same portfolio with traditional assets, and we're going to have to be able to administer them, measure the risk in them, be able to interoperate across them in ways that aren't yet quite built."
+    },
+    {
+        "speaker": "A",
+        "text": "I had this part of the discussion a little bit later scheduled in the conversation, but we may as well have it now because you sort of let into it a little bit about some of the things that tradfi needs to enter, and that's kind of like identity, Aml Kyc, that sort of thing. The government basically makes you do it. If you don't do it, then I don't know what happens. Bad things happen. They shut you down, you go to jail, all of these bad things. And so this is, I mean, you were mentioning earlier in the conversation, kind of like original crypto cypherpunk values and how that's kind of scary for folks at bank like us or, sorry, folks on Wall street to kind of consider. I will also see this is kind of like a tribe meets tribe sort of thing, right, where we still have a lot of the cypherpunks in the audience and bankless listeners. You heard you talk about Aml Kyc, and they just kind of like, were like, I don't know, this makes me worried. Right. And I think there's a real question as tradfi and crypto kind of intersect is like how tradfi and crypto cultures kind of like converge, what the wins are and what some of the losses are. Right. So I think for many in crypto, it's been certainly legitimizing to see Tradfi start to adopt all of these crypto use cases like the bitcoin ETF cheering that on. That's fantastic. Right? And getting some of the capital flows in, getting education about the asset class, the valuations that you guys bring to the table is something that crypto investors are not very good at. Do you know, like the rigor where you're like, hey, it's about cash flows, and like, let's get some rigor inside of the analysis. But I also have to say some folks in crypto are a little bit worried that tradfi is going to kind of, like, co opt things, or like, here come the suits, here come the bankers, and they're going to bring the same system that we left. And what we're here for is kind of a permissionless, open financial system that benefits the entire world and respectful of all of the regulation that traditional finance needs to follow. But we also don't want to see this entire thing that we are trying to create something with the open innovation power of the Internet be kind of co opted. I don't know if there's anything you can say on that. It's just kind of like a vibe check, I guess. But what are your thoughts on that kind of sentiment?"
+    },
+    {
+        "speaker": "C",
+        "text": "Look, I think that a lot of the concerns that the crypto domain brought to the forefront of the dialogue are so important for everyone to consider. Right. I mean, you know, the origins of all of this was in concerns about the right to privacy over your own data. Right. A lot of this was about the ability to not be censored because of factors that could be very random. I mean, we live in the United States. Luckily, we have a fairly open financial system, but that's not the case in many regimes. And a change in political party control could result in people losing their access to their money and their ability to transact. So I think this has really raised some critical issues that we need to grapple with in the world, and I think that it may demand new kinds of solutions that kind of strike compromise between the way that the rules have worked in decentralized traditional finance and in the new crypto domain. I could see something where you have identity attached to a transaction for just a moment in time, and then once that moment is passed, that identity disappears so that you can maintain more privacy. That could be a workable solution that you could potentially get past regulators and crypto. So I think that we'll start to find better common ground. I think the ability to take control of your own data via the blockchain is going to be a huge, important social movement as we start to see more and more people understand the power of what taking control of your own data could mean from a revenue perspective, what it could mean from a privacy perspective. I think that that's going to change significantly in the future. I think these days of people having unfettered access to my data and using it in whatever ways they want, I think they're already ending and I think that they will move very far in the coming years. So I think there are issues. Right. Right now, there is no option for tradfi. You don't get a choice on whether you want to subscribe to KYC, AML, or some of these investor controls we are required to. So I think that in getting the closer alignment, you're also going to have to open up some hard dialogue. But I think that the best answer is going to lie in thinking about what are the capabilities of the new technology, and can it start to be used in a way that satisfies the very legitimate concerns that many in the crypto domain had that originated all of this innovation and at the same time satisfy some of the needs to help people who are acting as fiduciaries for their customers really be able to navigate and operate in the space. I think we might see some creative solutions down the road, but it's going to be a tough conversation and dialogue, I think."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And hopeful. We don't often have the opportunity to talk to a traditional finance executive, but certainly you guys talk to the regulators all of the time. I think many regulators actually listen to bankless. So hopefully we are on the same side of some of those battles of trying to find this good middle ground so that we're not losing our civil liberties to encryption or even just the ability to run a validator from our home without identifying ourselves. Right. That, to me, is an important liberty that we try to preserve. I want to get back to kind of like the token discussion and some of the critiques that I'm sure come up from folks, when you're talking about crypto, particularly in traditional finance, which is you were talking about the chameleon aspect of tokens. And they might point to that, Sandy, and they might say, yeah, they're chameleon assets because they're used to scam retail. Right? Like they can be anything. They could be chameleon like a scam. Right. And others, and I've certainly heard this reflection a lot. We already have securities and commodities markets. They're the best in the world. This is America like capital comes to us. Delaware LLCs. Rah, rah, rah. We're the best. And all I see when I look at crypto is a casino. All I see is Sam Bankman, fried and FTX. All I see is speculation over jpegs. How do you get around those objections? Because I find it hard when I'm just talking to, like, normal people. I can imagine it's also hard when you're talking too, like, traditional, buttoned up investors with hundreds of millions in capital."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, well, there's a few points there. So first, I like to pull out my favorite Schopenhauer quote, which is that all truth passes through three stages. First it's ridiculed, then it's violently resisted, and then it's accepted as self evident. And I tell people, you can't start to open your mind to something if you think it's ridiculous. You can disagree with me, but let's at least get into the dialogue. So helping to get them into that cycle, I think, is always the starting point. I don't think traditional finance is unique in that I think many areas of the world have people that can make ridiculous statements that are really patently untrue and silly. So there will be people who make those kinds of statements. But what I point out to them is, is take a real step back and be honest. Right. The number of public equities in the United States has been falling dramatically. Money has been moving out of the public security markets into the private domain, and more and more of the growth opportunities in our public securities markets has shifted to only private funds, where only a certain qualified tier of investors can get access. This is a known problem, and traditional finance knows this problem well. In addition, we are seeing, because of the increasing capital rules being placed on banks, more banks getting out of different types of lending businesses, and we are seeing more of those lending businesses move into the private credit and private debt domain, again, only accessible to a certain tier of investors. So there are known problems with our existing security systems that people are well aware of and trying to grapple with. And so, you know, it doesn't mean that new things can't be interesting and new answers, and it doesn't mean that the existing system is just perfect and we don't need to make any changes. So I do point out to them that there has been a lot of dynamics that have made our securities markets less competitive, particularly for the average investor. I then point out that we do see new business models emerge all the time. The first time you heard about Uber or the first time you heard about Airbnb, that might not have been a business model that you would have even considered. You might have thought, that sounds a little crazy. I'm not going to get into some stranger's car and just drive off with them. I'm not going to go into some stranger's house and rent that house for a weekend. But within a few years, that starts to feel like a very normal business model and you see people embracing it. So just because there's a new business model doesn't mean that it doesn't represent value and that it's not going to succeed. And then I point to the growth of these ecosystems. Right. When you look at bitcoin, bitcoin has just approached a trillion transactions. That's a lot of transactions, right? It had a transaction volume that was higher than the visa network, higher than the Mastercard network. I think that most rational investors would agree that Visa and Mastercard have valuable networks. So if bitcoin is exceeding the transaction volume on those networks, how can you argue back that it is not a valuable network? I think when bringing it back to some of the facts that they recognize and some of the patterns that they already deploy in their investing and using them and showing them that those same patterns are extrapolatable and applying to the crypto domain is really helpful in moving the dialogue away from violently resisted to accepted. So I think that getting into the dialogue is the first point, having good explanations and facts and then really helping people and realizing it might take people a little time to get their head around it. But I think that if you keep talking, we will see the majority of people really start to understand."
+    },
+    {
+        "speaker": "A",
+        "text": "I get the sense that some of this is about the messenger as well. So I'm sure they take these statements from you or someone like you, Sandy, much more seriously than they do from a couple of nerdy guys with a crypto podcast, David and myself. So sometimes I think it's like, well, so I want to ask you, there seems to be like two points in crypto tradfi history. There was before the bitcoin etfeminal, and there's after the bitcoin ETF. Now we are living in the reality of after the bitcoin ETF, and I'm wondering if it's made these conversations easier. Does the bitcoin ETF in its existence, does that help these types of conversations with folks in the traditional investment world? Or is it kind of like business as usual? Everyone knew this was coming."
+    },
+    {
+        "speaker": "C",
+        "text": "No, it's definitely not business as usual. Everyone knew this was coming, right? I think a lot of people are. Now, I would say that the reaction from most people is one of, oh, well, now I really have to figure out what this is all about."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, really? I was wondering about that. Sandy, did this sort of hit Wall street, traditional finance, kind of like an earthquake? I mean, I was wondering if boardrooms everywhere are kind of scattered and they're just like, what's our crypto plan? We got to come up with something. Franklin Templeton's got an ETF and we don't."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I would love if it were at that point yet, but I don't think we're quite there. I think that we're at the. This is not a space I'm interested in talking about, which might have been the response a year ago to, okay, now I think I need more education to better understand this space, which is, I think, where we are now. But I do want to be clear. I still think that is the majority response, but there is a significant subset of people in traditional finance and wealth management as an advisory, who have been very excited and waiting for this. So, you know, I think that that is still the minority of the traditional financial and wealth worlds, but there is a significant number of people in those roles that are very excited. But I would say the vast majority are still. This has really been the catalyst for them to understand that they can't ignore the space. Right. And that now they need to learn more. I would expect you guys are going to get higher and higher listenership because people are going to want to understand more. So I think that will be a good thing."
+    },
+    {
+        "speaker": "A",
+        "text": "Welcome to everyone from Tradfi who's now listening to the bankless podcast. It's great to have you."
+    },
+    {
+        "speaker": "B",
+        "text": "We've been waiting for you, Sandy. I want to present my next question with a huge disclaimer of my bias about this question. Bankless listeners, this will come as no surprise towards. I've always thought or suspected or had an intuition. Imagine that the ether ETF, in contrast to the bitcoin ETF, might have outsized demand if you control for the market cap of bitcoin to Ethereum. So, like bitcoin, three to four times larger than bitcoin. Excuse me, bitcoin, three to four times larger market cap than Ethereum. And I've always thought perhaps that the Ethereum investment opportunity would resonate with traditional Wall street investors a little bit more than bitcoin, simply because of the platform metaphor that we started this podcast with. Ethereum is a platform for apps. Ether has cash flows that we can put into a DCF model. It aligns with tech, whereas bitcoin more aligns with gold. And gold isn't really that sexy of an asset, at least like, there's not that much gold on institutional balance sheets. And so for a bunch of reasons, I would always suspect that, like, at least in comparison, if you control the market caps between bitcoin, Ethereum, that ether would experience some outsized demand versus bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "It also has yield, David."
+    },
+    {
+        "speaker": "B",
+        "text": "It also has yield. Yeah. That has the cash flows. Right? We know what yields are like ETH, the Internet bond. This is a narrative that traditional Wall street investors could get behind. This is my hope, Sandy. This is what I want to be true, because bankless listeners knows that I have an outsized portfolio in eth comparison to other crypto assets. Can you check my biases on that? How does that a thesis? Or is that actually showing up in conversations with financial firms? What is your response to that?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think it will show up in conversations with financial firms. Right. So I happen to agree with that thesis. I think that the investment story for ether is actually a stronger investment story than for bitcoin. Not only because of all the points that you mentioned, but because there's, there's other businesses growing up around the Ethereum main net, because there is, I think, these new indexes that are out and people are beginning to write swaps and write derivatives against those indices. That's a huge development that traditional financial participants will welcome because that is a huge part of risk management for the traditional financial world. I do think that there is a broader investment story around Ethereum, and I think that there is a. It will probably be a little bit easier story to tell because you can make analogies to things like the, you know, the open alliance or to the Apple app Store, right? So these are things that I think people could relate to a little easier. But I think that, you know, I think that the staking concept is going to also kind of give people a little pause. Right. I think that the way that, that we calculate the rewards and we calculate the return, that's going to also open up lots of complexity in conversations. But I do think that, for me, I had been watching bitcoin for many years, but my personal aha. Moment came when I really got introduced to Ethereum. So I think that there is something, I think about the evolution from the block blockchain to the layer one concept that is very important, from the payment network to the layer one that is very important in getting people into understanding this whole protocol economy analogy. So I don't necessarily disagree with your thesis at all. I think it's probably right. But remember, go back to where we are in the education. People are finally going to start to learn, I think, about bitcoin now because of the bitcoin ETF. And then, just like we had to start the education with bitcoin, we're going to have to then further the education when Ethereum and when Ethereum ETF's finally become available and then be able to kind of educate all over again. And then I think after those two, it will become much easier, right, it will become much easier to start to explain the space and the future assets once that education is done. But I think that that educating people on Ethereum is going to be equally as much of a lift as educating people on the bitcoin ETF."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I certainly see that. It's interesting that you describe Ethereum staking as a hiccup in understanding, because I usually articulate it as a reason, an incentive, because this is the yield ETH, the Internet bond. You stake your ETH, you stake your dollars, you get the fed funds rate, you stake your ETH, you get the ETH protocol rate. I also understand that it is a hiccup with the SEC, and that is something that is a different between the bitcoin ETF and the ETH ETF and something that is unique to the ETF that we have to get over. And so that's like why some of the ETF commentators out there actually have a lower prediction, lower percentage of probability of approval for the ETTF, and eventually we'll get the ETF in time. That's just where the incentives lie. But then first we have the vanilla eth ETF and then the staked ETH ETF, which is a different hurdle in time. Do you have any sort of indication or prediction about, like the gap between those two events, like how big of a hurdle is a staked ETH ETF versus the vanilla eth ETF?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, the problem isn't anything to do with the crypto domain. The problem there, David, is really the authorization under the 1933 act that is being used to create these types in this category of ETF's. That is what is prohibiting the inclusion of any kind of derivative or swap that could bring that staking reward in. So this is something that we're working hard to think about. How do you find a solution to that in this space? We're being really, I think, handicapped by people trying to apply 90 year old rules. So you really may need to update the rules to get people to start to accommodate more modern products."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, that seems reasonable. You know, like every 100 years or so, like something happens and we gotta update some things, like maybe computers or the Internet. Like, it feels like we're due for an update."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. You know, 50 years with the same financial market infrastructure too. Right. It seems like this is a good time to rethink it, but, yeah, I mean, I think you will see all of that happen. I have no doubt that we will have both an ETh ETF and a staked ETF. Staked ETF at some point in the future. It's just a matter of getting the regulators progressively more comfortable. And we always look at that as a series of steps. First you have to get them comfortable with one series of steps, and then the next series of steps, and then the next. It's not that regulators don't move. I find regulators are very anxious to learn, but they're very cautious because they know once these rules are out there, they're going to maybe be around for the next 90 years. So they're very cautious and trying."
+    },
+    {
+        "speaker": "A",
+        "text": "If you think tradfi is slow, oh, boy, have you met the regulators? Right. It's designed to be even more slow. And this brings up kind of like maybe another piece that I think I'm just starting to appreciate. Right. So we've talked so much about crypto and like, the different, for instance, tokens as this chameleon asset being sort of an education type of problem. And it certainly is. There's a lot of education that needs to happen. A lot of people need to kind of research what's actually going on. But there's actual. There's also a structural problem, and that makes it even slower. Right. You talked about the 1937 securities act. Like that's something structural. Okay. And the fact that my understanding of traditional finance is it's not organized to deal with a chameleon asset. It's organized in, like, these sections, these divisions. Like, you have the stocks people, and you have the bonds people, and you have the commodities people, and these are all different silos, and they're not comfortable. The structure is not comfortable with some sort of an asset where you're like, no, it's all of these things. It's none of these things. It can be any of these things. Right. I'm wondering if you'd comment on that, because I don't think I've previously been aware of that, but am increasingly aware that it's actually not just an education problem. It's a structural problem in the system, and that's why it's taking extra long for this stuff to happen."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, especially here in the US. I mean, what you're finding is in some regulatory regimes and other jurisdictions, those responsibilities are more aggregated. The way that the US system has grown up is much more siloed. And so that is adding that extra layer of confusion. I also think that you need laws, right? You need Congress to get involved because regulators are supposed to be interpreting the laws that Congress puts into place. And right now there are new laws for them to interpret. So they keep going back to the laws that are on the books and trying to fit them in. So, you know, I think that all of that has to progress. But, you know, these conversations are happening every day. They're happening at the regulators. The regulators are very engaged. They're happening with the different branches of Congress. They're happening at key universities. And you have real advocates helping to try and explain. They're happening with crypto natives starting to get engaged in the dialogue to a far greater degree alongside traditional finance. I am not disheartened that we're not there today. I do believe that we are firmly on the path, even here in the US. And I think that as we watch other jurisdictions move more quickly, that will continue to ramp up the pressure for us to get to our own solutions on these items."
+    },
+    {
+        "speaker": "A",
+        "text": "So, Sandy, this has been tremendously helpful, and unfortunately, we weren't able to talk about all the topics that I would have liked to pick your brain on. But we do have time, I think, for a quick lightning round. So if you allow me, this is kind of like an overrated or underrated set of questions. We'll have maybe like three to five of them, however many we can fit, and just want to get your gut take on some of these things. So we'll start with the first. Overrated or underrated? The Ethereum, ETF. What do you think?"
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, I think underrated. I think it's going to be far more transformational than people expect because, as David said, I think it has a better investment case."
+    },
+    {
+        "speaker": "B",
+        "text": "Central bank, digital currencies, CBDCs."
+    },
+    {
+        "speaker": "A",
+        "text": "Overrated."
+    },
+    {
+        "speaker": "B",
+        "text": "Underrated. Overrated."
+    },
+    {
+        "speaker": "C",
+        "text": "Overrated. Particularly for any developed nation. I think that the banking systems go back to the argument you've made before about we have very good security markets, we have very good commodity markets, while we really do have very good government currency markets. So I think that that is a tough lift for most developed nations, and so overhyped, I think, from a developed nation perspective."
+    },
+    {
+        "speaker": "A",
+        "text": "How about stable coins? Overrated or underrated?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think well rated, actually. I think people are very enthusiastic about stablecoins, but understand some of the shortcomings and where there might need to be improvements in the oversight and regulation."
+    },
+    {
+        "speaker": "B",
+        "text": "Mica legislation. Mica legislation. The crypto legislation in Europe. Overrated. Underrated."
+    },
+    {
+        "speaker": "C",
+        "text": "I think underrated because the implementation is still far enough off that people aren't grappling with the implications. But I think as we get closer, it will become a major point of discussion and focus in the industry, kind of as we see every time Europe puts in a big set of regulations, people kind of wait until we're right up against the implementation windows."
+    },
+    {
+        "speaker": "A",
+        "text": "A lot of talk of the 2024 elections and its impact on crypto. Do you think the 2024 elections are overrated or underrated in terms of its impact on crypto?"
+    },
+    {
+        "speaker": "C",
+        "text": "That was a tough one. My gut would be that it is overrated because I think no matter who wins, you're going to have to get to a point where we start to have more clear regulation, simply because I think the global community will put pressure on the US. But it may be underrated because depending on the outcomes, we may have a very unsettled period in the US which might make any legislating harm interesting."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so you're saying it is just generally less relevant over time because we know that we need to get Congress to pass a bill?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think other jurisdictions and other regulators will be pushing us in that direction regardless of who wins in the election."
+    },
+    {
+        "speaker": "A",
+        "text": "Sandy, this has been a fantastic conversation. I've learned a lot, and hopefully bankless listeners have gotten more insight into how tradfi and crypto will work together moving forward. You've certainly been on the cusp of this in traditional finance. So you've seen some of these things before. Many of your colleagues, in fact, I would say like 99% of your colleagues or higher. And I'm curious, as we kind of close this conversation out to a last question, which is like we were talking about other people's aha moments and how you kind of have to go through a process to get that from people in tradfi. And you talked about your own aha moment. I wonder if you go into more detail on that. So I understand your crypto story. You first heard about bitcoin in 2011, but that wasn't the aha moment for you. So what did you miss then that you now see? And how did that happen?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, I thought it was interesting. Right? I thought bitcoin was very interesting, but I wasn't sure what was going to happen with it. I wasn't sure where the use cases would start to come from. I wasn't sure how the network would build. I wasn't sure where it would fit into kind of what I knew as the existing financial system. So it was kind of one of those on my radar. I'm watching. I wish I had gone beyond watching to investing. That would have made my life easier, but I was watching. But when I heard, to David's point earlier, when I heard about ethereum, and I understood the smart contracts and the interoperability and the composability, the biggest issue that Tradfi has is that the contracts that govern assets and the assets are completely separate things. And therefore the reconciliation between the contracts and the assets that they actually govern is what a large percentage of people in traditional finance spend their whole jobs working to keep in sync. And when I realized that you could actually embolden."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I've never heard that angle before."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. When you could embed the contract in the asset and it could become transferable together, I was like, oh, my God, this is going to change everything. That was really my aha moment."
+    },
+    {
+        "speaker": "B",
+        "text": "Wow. This is what we get when we bring new people into the fold of crypto, is we get better articulations, more precise articulations for the particular cohort of which they come. Sandy, I actually have one last question before you leave us here. Who runs the Franklin Templeton Twitter account?"
+    },
+    {
+        "speaker": "C",
+        "text": "We have a wonderful marketing and pr team that runs our account, and they have been very encouraging of our analysts and our interns and our younger colleagues in the digital asset unit and in our marketing unit, and they are tremendously creative folks."
+    },
+    {
+        "speaker": "B",
+        "text": "Did they know what they were getting into when they had that idea?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, they knew what they were getting into. I mean, we are, as I said, we are part of the community, and we really wanted to honor what was happening with the launch of the bitcoin ETF's. We were super excited. It was one of the most exciting weeks I think I've had in my whole career. So, yes, I think that we understood, and I think that this is an important part of bringing the world together, and it always doesn't go perfectly smoothly for everyone. But that's part of what happens when you evolve. Right? Nothing is a straight line. But we were very excited and I'm very proud of the work that our team did in really helping to bring through that we really believe in and are part of this native, digital native space."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, our previous relationship with big corporate Twitter accounts in the crypto industry has generally, in years past, being characterized as cringe. And I would just like to applaud you guys for not being cringe and actually being quite the opposite of that. Very, very cool. Like, Franklin Templeton's brand, I think, got, like, a big thumbs up from whoever was, like, leveraging the Twitter account that day, which is a hard thing to do in crypto."
+    },
+    {
+        "speaker": "C",
+        "text": "Wow. I will pass that along. I'm sure they will be super excited to hear that from you."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Thank you. Thank you for the shared culture. Sandy, it's been a pleasure to have you. I think a lot of things shared in this episode, so thank you so much."
+    },
+    {
+        "speaker": "C",
+        "text": "Thank you, guys. I really enjoyed the conversation. So thank you for having me."
+    },
+    {
+        "speaker": "A",
+        "text": "And you know what we'll do as part of a hat tip, maybe, to Franklin Templeton Twitter account. And those who operate it will include a link in the show notes to the Franklin Templeton Twitter account. So, bankless, lister, you can go follow it, pick up some dank memes. It's pretty good. It's pretty good. Gotta end with this, of course. Wrist and disclaimers. None of this has been financial advice. Crypto is risky, the traditional form of crypto. And also this new crypto frontier that we are pursuing. We are headed west. It's not for everyone, but we're glad you're with us on the bankless journey. Thanks a lot."
+    }
+]

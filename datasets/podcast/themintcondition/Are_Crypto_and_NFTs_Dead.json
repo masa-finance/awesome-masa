@@ -1,0 +1,1154 @@
+[
+    {
+        "speaker": "A",
+        "text": "I was. I was gonna say it live on camera."
+    },
+    {
+        "speaker": "B",
+        "text": "It was the best one I could find."
+    },
+    {
+        "speaker": "A",
+        "text": "You were patient enough for me to do it live on camera, but, yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Technically, we're live right now."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, well, that's good."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Nobody's watching."
+    },
+    {
+        "speaker": "B",
+        "text": "No, actually. Surprising amount of number."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, wow, look at that."
+    },
+    {
+        "speaker": "B",
+        "text": "There's some people on the brink right now."
+    },
+    {
+        "speaker": "A",
+        "text": "Hopefully we'll be here for them. All right, let's start the show."
+    },
+    {
+        "speaker": "C",
+        "text": "This episode is brought to you by the DGEn community network media for the decentralized generation. If you want to connect or to check out more great NFT and crypto content, go to dgen.net work. That's dgen.net work."
+    },
+    {
+        "speaker": "A",
+        "text": "Hello and welcome to the Mint Condition podcast. I am wrecked a bunch. You. Sorry. I am Bunchu, alongside my esteemed colleague and co host, chamber."
+    },
+    {
+        "speaker": "C",
+        "text": "Chamber."
+    },
+    {
+        "speaker": "A",
+        "text": "How you doing, buddy?"
+    },
+    {
+        "speaker": "B",
+        "text": "Honestly, doing great. You know, woke up this morning, sun was shining, birds were chirping."
+    },
+    {
+        "speaker": "A",
+        "text": "Wow, you got birds in Canada?"
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, lots. Lots of little birdies. But blood on the streets, man. Blood on the streets."
+    },
+    {
+        "speaker": "A",
+        "text": "I think I can see it in your background here. You've got the. It's bloody over in your neck of the woods, huh?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's a massacre."
+    },
+    {
+        "speaker": "A",
+        "text": "We are currently living a live massacre right now. You know, I'm going to blame this on us as, as most markets are our fault. Most of them, you know, we have, I think, what has it been, two weeks? Did we take a two week hiatus?"
+    },
+    {
+        "speaker": "B",
+        "text": "We did not."
+    },
+    {
+        "speaker": "A",
+        "text": "Not on purpose. We didn't try to abandon you. It just, you know, sometimes it just doesn't work out. Yeah, sometimes it just doesn't work out. But we are here. We're actually going to be doing two, count them, two shows for you this week. Today's is on our, not usual Wednesday, but we felt as if we needed to have an emergency pod here."
+    },
+    {
+        "speaker": "B",
+        "text": "I was going to say, we talked about this on Friday, that we're going to do a Monday show."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. But it turns out that it's now emergency podcast discussing this current state of affairs. And it's, I mean, it's not great out there. It's just not. There's no."
+    },
+    {
+        "speaker": "B",
+        "text": "I think for a lot of people, this is, this is some pain that they may have never felt before, at least in."
+    },
+    {
+        "speaker": "A",
+        "text": "I think we're getting close. We're getting very close to Max Payne. We're starting to see folks turn their pfps into their LinkedIn profile pictures. Starting to see some PFP capitulation on Twitter."
+    },
+    {
+        "speaker": "B",
+        "text": "Did you tweet that the other day or yesterday. That was a good tweet. That was a good tweet."
+    },
+    {
+        "speaker": "A",
+        "text": "If. Yeah. The bottom's not in until everybody starts using their real face as."
+    },
+    {
+        "speaker": "B",
+        "text": "It's so true. I didn't think of that."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I mean, people are going to be embarrassed to even be associated with nfts in a couple of weeks, you know?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, no doubt. Well, especially. Especially apes. Not to pick on apes right away."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, come on. Really? We haven't even. Those are the two minutes and you're."
+    },
+    {
+        "speaker": "B",
+        "text": "Those are the most recognizable nfTs. Do you know what I'm saying? Like, sure."
+    },
+    {
+        "speaker": "A",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "There's a high percentage of regular people."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. People will know it's an NF. It's right. Yeah, I see. I see."
+    },
+    {
+        "speaker": "B",
+        "text": "No fud."
+    },
+    {
+        "speaker": "A",
+        "text": "Come on. No fud. You're like King Kong of Fud."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, no, I'm a moonbird now. That's. I'm all moonbird all the time."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, that's only because pickeroons didn't work out for you because there's still that great tweet or that great discord post from you that says pickeroons greater than moonbirds. And, you know, JP likes to drop."
+    },
+    {
+        "speaker": "B",
+        "text": "That one and drew likes to drop that one on me."
+    },
+    {
+        "speaker": "A",
+        "text": "I love that one. That one's one of my favorites."
+    },
+    {
+        "speaker": "B",
+        "text": "It's very good. It's very good."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes."
+    },
+    {
+        "speaker": "B",
+        "text": "That's funny. Yes. Do you have any other, like, nfts you're hiding or."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't even have any other nfts at this point. Todd. Todd. Roll. Rollink says, good day, djenz. Enjoy your last days of covering your ugly mugs with your yuga bags. Soon we're all gonna see the ugly mugs that only your mother's could. Yeah, you're gonna have to put. The worst is when Steve's gonna put his back on his real face."
+    },
+    {
+        "speaker": "B",
+        "text": "And. And, you know, he is a, a hair away from that because, a, you know, he has a face that you could put in a picture and not feel too bad about it. I'm not my mug anywhere."
+    },
+    {
+        "speaker": "A",
+        "text": "Correct."
+    },
+    {
+        "speaker": "B",
+        "text": "And you. And b, I think he loves his face, too. Not only is it a good face, he loves it. And I wouldn't be shocked if that was one of the first pillars to fall."
+    },
+    {
+        "speaker": "A",
+        "text": "If you took the under on chamber fighting apes. You win."
+    },
+    {
+        "speaker": "B",
+        "text": "That was fast."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, that was fast. That was maybe. Maybe the fastest ever, but. All right, we got to give the people some comfort here. Not your first bear market rodeo. In fact, you were born. You were born in a bear."
+    },
+    {
+        "speaker": "B",
+        "text": "This is my. This is where I was born right here in the blue, that is."
+    },
+    {
+        "speaker": "A",
+        "text": "You were born in blood. You're like Dexter."
+    },
+    {
+        "speaker": "B",
+        "text": "Like Dexter. Much like Dexter."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, you. You're. You're like Dexter without, like, all the."
+    },
+    {
+        "speaker": "B",
+        "text": "Cool parts and my Miami shirts."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, right, right. Exactly. The fact that you were born in blood. Wear those Miami shirts. Those are the two things you have in common with Dexter. The rest, maybe. Maybe the murder. I don't know."
+    },
+    {
+        "speaker": "B",
+        "text": "We don't like to talk about that."
+    },
+    {
+        "speaker": "A",
+        "text": "You don't like to, you don't, you don't like to leave your house. So I don't know, maybe, but give people some comfort. Give people some solace. You were born in the bear. Let's talk about your. Let's talk about that. So that was 2017. You basically bought the absolute, you bought the giga top or at the time, for sure. Picotop. Yes, at the time you bought the top, it was like November 2017. Right? All right, talk about your experience here."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that top was crazy, too. Like, just in proportion, if you're going. I think the previous all time high was like a thousand, uh, prior to the 20k we saw in 2017. So I was like a 20 x from previous all time high. Uh, obviously, we didn't get that this time. I think we only got like a three and a half x, maybe. I think on bitcoin specifically, that's going to happen."
+    },
+    {
+        "speaker": "A",
+        "text": "Right? Every time. Exactly. Every time we go up from here, all time highs are going to get less of a. Yeah, but there. But from the bottom, you're still going to have a nice, a nice multiple, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Absolutely."
+    },
+    {
+        "speaker": "A",
+        "text": "Like, to get back to, to get back to all time highs from here, you're almost at. It's. It's basically at the 20, you know, for give or take a couple thousand year exact 2017 top, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, but, yeah, no, I think. I think, you know, going through that bear market, you know, you just, I mean, there was days like, I was like, numb. Like, I'm like, oh, shit. Like, what the, what did I do? I think in 2018, in early 2018, I had a baby. Like, it was, it was bad news. Like, I was like, oh, I've totally messed things up. Set myself back a few years and, but, you know, we stayed in it, stuck through it, didn't, you know, pull the chute and, and bail. We were talking in our discord today, like, you know, the guy that got me in, he hasn't touched crypto since early 2018. And who knows what he could have established, you know, between now and then or between then and now. But I think you know, it's almost over. Like, you know, the worst is be careful. I mean, it'll be long, but, like, the down. Like, there's not much more downside. I mean, we've gone down $3,000 on eth specifically. We'll talk about. I mean, we're not. There's no 3000."
+    },
+    {
+        "speaker": "A",
+        "text": "This is bitcoin that you're looking at right here. So right now, we're looking at bitcoin. You know, the big thing to check out here is this little line right here. This is your 200. This is your 200 week moving average for bitcoin that historically has provided an area of insane support."
+    },
+    {
+        "speaker": "B",
+        "text": "Are we touching that? Did we touch that? Is that where that little."
+    },
+    {
+        "speaker": "A",
+        "text": "It's really, really, really close to touching it, but it did nothing technically touch it yet. Right. So you've got your 200 pretty close is like, we are about a $1,000 away from that. Right. So now maybe, who knows that this. You could get front run on that a little bit because every. Everybody and their mother's looking at that line, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Totally."
+    },
+    {
+        "speaker": "A",
+        "text": "My mother's looking at it."
+    },
+    {
+        "speaker": "B",
+        "text": "She texted me."
+    },
+    {
+        "speaker": "A",
+        "text": "She did. She's like, yo, she's like, I front ran the 200 weekly, you asshole. And she's like, good luck, Ngmi. Like, good luck getting filled, nerd. I was like, who is this? Mom. Mom."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's funny. But, yeah, I mean, there's. There's not. Is it gonna go sub 500? I doubt it. You know what I mean?"
+    },
+    {
+        "speaker": "A",
+        "text": "So we're talking heath."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah. Sorry, sorry, sorry."
+    },
+    {
+        "speaker": "A",
+        "text": "Like, let me. Let me bring up some heath. So Eth did East did hit this number."
+    },
+    {
+        "speaker": "B",
+        "text": "It did hit the. The 200 week."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So this is a daily chart on Eth. So it definitely. It definitely hit it. It broke it for a small amount of time, and then it got. And then it got gobbled up here. So that's typically what you see around level. Right. And here's your volume that you like to watch, and you like to see that. So that's. That's nice. What does this tell you?"
+    },
+    {
+        "speaker": "B",
+        "text": "I don't know. There is a good amount of volume. We still have another 6 hours until the close, I think five or 6 hours. So that's daily volume, I'm assuming we're looking at here. So that number that, you know, that column is still going to go up significantly. We've already matched. I'm looking on trading view now. We're about the same volume we did early may when we had that big plummet where pierced $1800. So we're already at that volume for the day with five, 6 hours left. So we're going to have a. We're going to have one of the biggest volume days today. And if in Ethereum since. Let me just go back a bit here. Uh, since been a massive day since May."
+    },
+    {
+        "speaker": "A",
+        "text": "Man, look how dirty this is. This is gross."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's. It's been a year since we've had this kind of volume, uh, in, in Ethereum, and the last time we had that volume, it was on the way up, not on the way down. So. Yeah, I mean, you got. You can see it there, too, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Like, well, so you had a similar volume day."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that was early May. That was the first drop. 1800."
+    },
+    {
+        "speaker": "A",
+        "text": "That was the first drop to 1800 then you had here. This was a drop. This was a drop."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, that was a drop. You're right."
+    },
+    {
+        "speaker": "A",
+        "text": "This was a drop from, you know, here to 30."
+    },
+    {
+        "speaker": "B",
+        "text": "That was a big one."
+    },
+    {
+        "speaker": "A",
+        "text": "Geez."
+    },
+    {
+        "speaker": "B",
+        "text": "I forgot what happened. I forget what happened then."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, my God, look at this candle."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it was a massive one. Eh."
+    },
+    {
+        "speaker": "A",
+        "text": "Holy crap. I don't remember this 30, because I."
+    },
+    {
+        "speaker": "B",
+        "text": "Remember the big candle from 2020, 3400."
+    },
+    {
+        "speaker": "A",
+        "text": "To 1800 in one day. I don't remember. Where was I asleep? May 2021."
+    },
+    {
+        "speaker": "B",
+        "text": "You know, we try to. It's a, it's a, it's a, you know, when something traumatic happens, you get those. Your body defends itself."
+    },
+    {
+        "speaker": "A",
+        "text": "Look at it. I mean, that's a, that's one day candle."
+    },
+    {
+        "speaker": "B",
+        "text": "That's crazy."
+    },
+    {
+        "speaker": "A",
+        "text": "That's nuts."
+    },
+    {
+        "speaker": "B",
+        "text": "So since then, we haven't had that kind of volume, basically."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. But so, like, I mean, look, there's a lot of people that bought a lot of ethn, high prices, higher than we're at here now. And what does. Well, that's. That's for the thumbnail. What. So what do you have to say for those folks out there? Give them a little bit of. Is the world ending?"
+    },
+    {
+        "speaker": "B",
+        "text": "It's definitely not ending, but it can end if, again, if you decide to pack it up and walk away. You know what I mean? Like, that's a great point."
+    },
+    {
+        "speaker": "A",
+        "text": "You only you can prevent this from ending. Right? Like the okay little personal story was, you know, we've been doing this podcast, not this one we did wrecked, but same, same idea. We've been podcasting since 2018, and we went through a really big bear market in that time that, like, led into what defi summer when it really started coming back. Right. The. I kind of went away. Like, we still did the show, but, like, I was. You were. I really was. I was. You were. I remember now. I was effectively out. Right. And like, I wasn't dcaing. I wasn't really participating in the market. I kind of took my ball and went home and you, on the other hand, did the opposite and you stayed and you were buying dips and dollar cost averaging. And when it was time to turn around, you were light years ahead of where I was. And, um, so I say that to say this, don't, don't do what I did in 2018, 2019, because you're going to regret it in the sense, we've talked about this before on the show, where by the time stuff turns around, if you decide you're out and this may not v shape recovery, and I don't think it will because of the macro that we're seeing, I think."
+    },
+    {
+        "speaker": "B",
+        "text": "Agreed."
+    },
+    {
+        "speaker": "A",
+        "text": "I think what you're saying about it's almost over, I think you're right in this terms of, like, the price downside from here, it's almost over."
+    },
+    {
+        "speaker": "B",
+        "text": "But I can go on for, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "I think the length of time it's going to take to recover from this is, is much larger or longer. So what I would say is I think youre targets here for buying start now. Right? Like, like if you want to start."
+    },
+    {
+        "speaker": "B",
+        "text": "Dollar cost averaging now. I think that's now, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Because, because of what you see historically with this 200 week moving average. Right. This has always provided really great buying opportunities. Every time price has hit this. So, like, look at the last time eth has hit this. It really hasn't. Like, it's back here, right? Like way back here. Uh, bitcoin's a little different, but, uh, and we can go, we could look at that. But like, you know, this 200 week moving average is pretty strong, uh, price support typically. Now there's more downside. Of course, if it flips and closes that, you know, I could see, you know, this area falling under 1000 and I can see hitting triple digits and into those nine fig $900 to maybe even as low as 750, which I have marked on this chart. But point being is, I think now is your time to start building your bags. What do you agree? What is your strategy at these levels?"
+    },
+    {
+        "speaker": "B",
+        "text": "I am trying to get."
+    },
+    {
+        "speaker": "A",
+        "text": "Wait, first you have to answer this question. Mister Mojo says, does ECA and NfT mean you buy a pickaroon every week?"
+    },
+    {
+        "speaker": "B",
+        "text": "Not every, every other week. He's got a pickaroon one week and then maybe one of those frankie nfts the following week. Those are good. I think you'll have a nice little bag. Sorry, what was your question?"
+    },
+    {
+        "speaker": "A",
+        "text": "What's your, do you agree with that. And what is your strategy here coming back in?"
+    },
+    {
+        "speaker": "B",
+        "text": "I agree with you. The smart. If I was a smart man, I would probably do that. I am a greedy man."
+    },
+    {
+        "speaker": "A",
+        "text": "And you're going to wait for the bottom. You're going to try?"
+    },
+    {
+        "speaker": "B",
+        "text": "I want to try. Yeah. I want to hold, like, you know, I did. I did at $1800 that first little touchdown back in early May. I did buy some. Yeah. And I wasn't sure what the market was going to do, like, if 1800 was going to be the bottom."
+    },
+    {
+        "speaker": "A",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "So I didn't want. Yeah, I just. I just didn't want it to just bounce and then never get to that level again. So I wanted to take advantage of that level a little bit. So I probably deployed about a third there."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so you technically have already started."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Oh, totally. Yeah. Sub 2000 at that $1800 level, maybe a third, maybe quarter to a third of my USDC holdings. So I got about, you know, 765% to 75% that remaining. And I'm really just trying to maximize the ETH I can buy at this point. And I'm honestly, I'm getting, I'm looking, just looking at the chart when we hit. I had a marker at 1400 and we hit that a couple of days ago and the volume was not there and I just knew it was going lower. And now the volume is here. We haven't touched 1000 yet, which is kind of my, my kind of target. We did get into. We got into, we got. I got 1163 as a low for today, which is pretty low. And I think that's a number you threw out there a couple of days ago, too."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. You know, well, I said pretty darn close to that. I called this 200 week moving average, which was that, 190, 1193. I think it was actually what I said, but, I mean, I don't. What is your, what's your thinking on, does that number hold or do you, are you pretty confident?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Like, as the day goes by, again, that much volume, maybe it is the bottom. I don't know. I'm just gonna. Yeah. You're saying no, right? Like, I don't know. As the day goes on, I'm getting less confident that's gonna go lower. I'm still like 80% sure it's gonna go lower. But as the day goes on, it's like the play. I might deploy a little bit here."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, you may get. You may start seeing range, right? Like, yeah, you may start. We may start ranging from here to here to here to here to here to here. Right, right. And then it becomes, okay, is there power to break through that? Or is this just going to keep testing till it breaks down? You know what I mean? That's what's going. That's really what we're looking at. And for your point is volume is key, right? Is how much volume are we seeing at these levels? You know, it's a little different than 2018 because there's all this macro stuff going on that we didn't have last."
+    },
+    {
+        "speaker": "B",
+        "text": "Time because the s and p looks like shit too."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. And that's why I think you probably will go a little lower. But I think, like I said, I think you're safe to. Safe, relatively, to start DCA ing here. And I will start DCA here. Meaning."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, so you're gonna. You're gonna get more eth and more bitcoin here? Or is it just eth?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, that was my next question is how are you treating bitcoin? Or are you just looking to buy eth?"
+    },
+    {
+        "speaker": "B",
+        "text": "Probably just eat for now. Um, it's just been. I'm not. I have bitcoin, um, in a hardware wallet. Uh, I don't touch that. I just think that I like the volatility in eth a little bit more. Um. And there's more. I don't know, it just seems to work. We're getting the, um, the new, you know, new users for particular. Cryptocurrency seems to happen on eth the most, at least for the time being. And that's what I'm looking at."
+    },
+    {
+        "speaker": "A",
+        "text": "Drew says, quoting me, I'm going to start Dc ing your sick brag that I still."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I know it's tough. Yeah, I think just eth for the time being. The other thing I wanted to touch on as well is you kind of alluded to it earlier, was a lot of you might be just straight eth, straight nfts, and, you know, that's. That's where, you know, I got out of some alts. I dabbled in small earlier this year, but I'm. Yeah, I'm basically just straight eth some bitcoin and some, you know, some NFTs that I, a, can't get rid of or b, want to hang on to."
+    },
+    {
+        "speaker": "A",
+        "text": "We haven't even touched. We're technically an NFT podcast. We haven't. I think that's the first time we've said NFT today, like, on the show. Yeah. Yeah. So, okay, so that's a great segue into, you know, what is your strategy here with nfts?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, that's kind of where I was going. So like, my strategy for nfts specifically, in my opinion, and this is going to be the kiss of death for this particular project. There's, there's nothing I can see currently that's, that has upside, that has hope than moonbirds, you know."
+    },
+    {
+        "speaker": "A",
+        "text": "Wrong with moon birds."
+    },
+    {
+        "speaker": "B",
+        "text": "I think, again, I'm going to shit on some projects, but I think Yuga has a stain on it. I think the market's done with them. All the people that have their mutants and apes and all the stuff, they're going to yell till they're dead, basically that it's great, but I think getting new people into those projects is going to be difficult. People that have the type of eth required. 1 second here, hang on. I think I'm getting a communique from outer space."
+    },
+    {
+        "speaker": "A",
+        "text": "We've taken Des on the streets to Des in space. I gotta stop sharing my screen so we can."
+    },
+    {
+        "speaker": "B",
+        "text": "Everybody."
+    },
+    {
+        "speaker": "C",
+        "text": "How epic is that though?"
+    },
+    {
+        "speaker": "B",
+        "text": "That's great."
+    },
+    {
+        "speaker": "A",
+        "text": "It's amazing."
+    },
+    {
+        "speaker": "B",
+        "text": "Let's say Satoshi on it too. That's great."
+    },
+    {
+        "speaker": "C",
+        "text": "I'm trying, I'm trying to put some good juju in the, you know, in the atmosphere. Quite literally sprinkle that in the atmosphere."
+    },
+    {
+        "speaker": "A",
+        "text": "What exactly is this?"
+    },
+    {
+        "speaker": "C",
+        "text": "This is, uh, this is, this is web four. This is web four."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. This is exactly what the people needed. So while everybody else is, uh, burning in hell, Tez has made it to the moon. We've got Dez on the moon. Thanks for joining us, Des. We've missed you."
+    },
+    {
+        "speaker": "C",
+        "text": "I apologize. Yeah, obviously we're shooting on a little bit of different day, so I had to make some adjustments. But also the reception from space is quite horrible."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, well, I mean, that's really it. We couldn't get the communication to you fast enough. It took a while, but, you know, we haven't caught up in a few weeks here. Chamber and I were just talking about the overall crypto market. We, we haven't even really touched too much into nfts."
+    },
+    {
+        "speaker": "C",
+        "text": "What's your, did something happen to the crypto market? I haven't checked."
+    },
+    {
+        "speaker": "B",
+        "text": "Coin data probably hasn't reached you yet."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah, the data hasn't. Data hasn't reached yet. Morgan says that you look like the Michelin man."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh."
+    },
+    {
+        "speaker": "A",
+        "text": "Drew wants to know if you're using the thingdom's iPhone to broadcast from space. Des, give us your overall thoughts. Any words of wisdom, any words of comfort for the people out there, or just go the other way and tell them all the panic."
+    },
+    {
+        "speaker": "C",
+        "text": "I like chambers version better. I'll be honest. Whatever he said about, you know, Armageddon blood on his face. Whatever sentiment he's throwing out today, I'm going to jump on that bandwagon."
+    },
+    {
+        "speaker": "B",
+        "text": "I love it."
+    },
+    {
+        "speaker": "A",
+        "text": "How are you acting in this current environment? And by environment I mean the market, not the space that you are in currently in the atmosphere."
+    },
+    {
+        "speaker": "B",
+        "text": "There is no atmosphere there."
+    },
+    {
+        "speaker": "A",
+        "text": "That's right. Sorry."
+    },
+    {
+        "speaker": "C",
+        "text": "So yeah, I mean, I'll be honest, you know, I've always advocated to taking some profits along the way and you know, fiat isn't the devil we, we always call it. Um, but you know, so I don't know, I, in these moments you're kind of happy you took some profits along the way. Um, but, you know, still never timed the top or whatever. So it's, it's, it's all just, it gives you a ton of perspective, I think. Um, but what am I actually actively doing right now? Um, you know, honestly, it's, it's provided a little bit of a breather to be able to like focus on some of the stuff we're trying to build with goats and, you know, it's, yeah, it's good for that. So I'm focusing more on that. I'm not really minting stuff, buying stuff. There was like a couple things I tried to take advantage of during like the crazy goblin town rise. Just through a couple shots in the dark there. Nothing really panned out. But yeah, no, just remaining said, focused on the things that make web three great and that I think will last beyond any dip or, or anything like that."
+    },
+    {
+        "speaker": "A",
+        "text": "Unicorn creative says that they love the hat that you're wearing inside the helmet. Is that comfortable? We lost him. His visor went down. Geez, you got a whole world going on in there."
+    },
+    {
+        "speaker": "B",
+        "text": "But what it must be like to be Des is all I'm saying."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. That life is good when you're Des. Life's good when you're a goat. Um, yeah, I think that's right. I think you're gonna see. How about, how about the NFT market as a whole? What do you think, Des, on? Like, you know, this is pretty, I would say, devastating to a lot of projects out there. Um, what's your overall thought on, you know, do some of these recover? What are you looking at, if any, buying opportunities, when potentially are you looking at a buying opportunity? What's your current thought on that?"
+    },
+    {
+        "speaker": "C",
+        "text": "Sure. Well, from a project standpoint, you know, I do think some projects are going to struggle because another thing I've always preached is figure out your budget for your project. This is from a founder operator side, but figure out your budget for your project and put it into fiat. That way, either way, you're good to go. And I know a lot of projects have not done that and a lot of their project budget is sitting in eth. That kind of scares me a little bit for some projects. So from that side, it's interesting. We'll see how that plays out. But as far as when I get jump, you know, back into the market a little bit heavily, I really just got to figure out what the next catalyst would be."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "C",
+        "text": "We always kind of talk about in the future what things are coming. And for a lot of us, sadly, it was, you know, thinking Coinbase NFT would be a catalyst. And, you know, that didn't pan out. Even people thought, you know, maybe NFT NYC in the buzz around that. But, you know, eth is."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't even want to go anymore."
+    },
+    {
+        "speaker": "B",
+        "text": "I believe it."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm an hour away and I'm already thinking about how I can fake having Covid."
+    },
+    {
+        "speaker": "C",
+        "text": "Can I ask the why?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, one, I'm really, I just am tired and I don't want to be social, but. No, but I'm mostly joking about that. And it's going to be. It's gonna be a lot of fun. It's just a very weird dynamic to see all of these projects that are going to be throwing these massive parties when in the same breath we're talking about potentially having insolvent budgets and you're like, okay, where's the. And, you know, you would assume things for sure. Yeah, sure. And it's. It's like, are we, are we celebrating? What are we celebrating? Why are we there? What's the point? Like, you know, a lot of just, you know, level setting ourselves and expectations. So I'm mostly joking."
+    },
+    {
+        "speaker": "C",
+        "text": "No, I asked because I, you know, obviously I'm going and I'm excited for it. And I. For the most part, I think, yes, it'll dampen some moods, but I think for the most part, things will go on as continue. Like, people will still be excited to get together. This space seems to love to just actually have in real life events, and there's no better in real life events than NFT NYC. So, you know, I think in my."
+    },
+    {
+        "speaker": "B",
+        "text": "Mind, they'll just be less drinking. Like, I can imagine when everybody's, like, when Eth is at. Everybody's just a millionaire. You know, the. The booze flies the tabs. You know what I mean? Like, you know, money is no expense. And I feel like everybody's gonna be like, I've had my two drinks. We're good. It was great meeting everybody."
+    },
+    {
+        "speaker": "C",
+        "text": "You might be right about that."
+    },
+    {
+        "speaker": "A",
+        "text": "Dickensis says last chance for party utility. That's probably true."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. No kidding."
+    },
+    {
+        "speaker": "A",
+        "text": "You can't. You. This will be the last time anybody throws a party."
+    },
+    {
+        "speaker": "B",
+        "text": "And the other thing we're not really thinking about, too, or we're not talking about. I've been thinking about. About it."
+    },
+    {
+        "speaker": "A",
+        "text": "Drew says he's drinking more."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's, that's true. That's a good point. But he's. He's from Boston. They have a problem over there. Yeah. Go warriors. But the other. Yeah, the other thing we're not talking about is, you know, NFTs came out of a, you know, like, we've talked about this lots, but like, you know, all coins came out of bitcoin and ethereum or really just bitcoin. You had all coins that were a big thing. And then, you know, we talked about, earlier today, we talked about Defi projects that were a big thing, and then it was nfts. And honestly, we. You have to be prepared, or the smart one should be prepared for whatever. There could be another thing that we don't know what it is yet that will require some sort of cryptocurrency that we need to be. We need to keep our eyes on because that might be the next big thing and that might be incorporated with nfts in some way. Might be, you know, who knows what that's going to look like? But you need to stay aware of what's happening and don't die on the NFT hill if there's nothing there to die for. You know what I mean?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I mean, you've talked about this. This a lot, right? It's part of the reason we say to stay around in times like this is because you, there may be some opportunities that aren't nfts that are great opportunities that you miss if you go."
+    },
+    {
+        "speaker": "B",
+        "text": "Away that will require crypto of some sort."
+    },
+    {
+        "speaker": "A",
+        "text": "You're like, you're like my son, and he just likes to chase the bubbles around. You're just looking for the next bubble and you're just trying to chase it. It."
+    },
+    {
+        "speaker": "B",
+        "text": "Absolutely. Yeah. Actual bubbles and market bubbles."
+    },
+    {
+        "speaker": "A",
+        "text": "You're chasing market bubbles."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, but, yeah, I know. Like, obviously, I don't think nfts are going anywhere, but do I think it's going to be like it was a year ago again? I don't know. It's really tough to, you know, to rekindle the magic that happens when something new that pops like that. So. Yeah, like, you know, kind of like the Internet right. Like the Internet bubble blew and there was a bunch of Internet companies that went belly up, but, you know, the good ones continued. So I think now as a matter of, you know, we talked about just finding the good projects. There's probably more to come, but there's probably some currently that are going to do some stuff in the very long term that you want to kind of hit your wagon to. But there also could be something else, and I don't know what that is."
+    },
+    {
+        "speaker": "A",
+        "text": "There also will be some that never recover."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, the majority will never recover. Um, you know, it's crazy, and I don't know which ones, but, uh, yeah, there will be a handful that. That continue to do well. Um, and, you know, you might come to a point where 20 years from now, if you can still access your metamask wallet, you might be able to sell some of those shitty nfts as a classic Nft. You know what I mean? Like, like, I spent an exorbitant amount on vinyl records that are, you know, I spend way too much money on. Maybe it'll be that sort of, you know, opportunity for people."
+    },
+    {
+        "speaker": "A",
+        "text": "I didn't know you were a vinyl collector."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, no. Oh, yeah, I got lots. Yeah, lots. Too much. Too much."
+    },
+    {
+        "speaker": "A",
+        "text": "Des, do you collect? Do you have any physical collections?"
+    },
+    {
+        "speaker": "C",
+        "text": "I did this sports card thing for a little while. Um, but, uh, no, not. Not too much collectibles."
+    },
+    {
+        "speaker": "A",
+        "text": "Des just collects money. That's it."
+    },
+    {
+        "speaker": "B",
+        "text": "My, my most recent, uh, uh, vinyl purchase that I spent too much money on was a, uh, original, uh, rambling Bob Dylan from 1961."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, wow."
+    },
+    {
+        "speaker": "B",
+        "text": "Original press."
+    },
+    {
+        "speaker": "A",
+        "text": "Wow."
+    },
+    {
+        "speaker": "B",
+        "text": "Way too much money. That's some nft money I had to spend on that one."
+    },
+    {
+        "speaker": "A",
+        "text": "Wow."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. That probably goes for a pretty penny."
+    },
+    {
+        "speaker": "B",
+        "text": "It was guaranteed they paid less when they bought it originally."
+    },
+    {
+        "speaker": "A",
+        "text": "Buzzkill bunch you is not a moniker I usually get. I'm usually. I don't know. Actually, maybe that's not true. I was. I was bear bunch you for a while back in the rec podcast days. But the. Yeah, so, I mean, it's tough because there's a lot of people that are getting in the middle of getting burnt really badly that did not. You know, this is their first bear market. It's very much staircase up, elevator down type max pain feeling. So if you're feeling that way right now, this has happened many times before. It will recover at some point. You just have to decide if you're in it for the right reasons and if you want to stick around, and I think you're. You'll be rewarded if you stick around."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, yeah. You get to call yourself."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, you're now an OG."
+    },
+    {
+        "speaker": "B",
+        "text": "An OG, man. That's the whole point. I'd spend millions of dollars to be, to be called an OG, but, yeah, no, that's, there are some silver linings. You get to be, you get to be respected in the next bull run for your wisdom, which is great."
+    },
+    {
+        "speaker": "A",
+        "text": "Sat wants you to describe your disdain for yuga. Yuga has 400 million laying in the bank along with revenue from ape. Interesting for you to hear that. You think Bayc is Sean."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. No, the public will dictate what, you know, what yuga does. It's great to have all that money, but I've seen a lot of people leave with a lot more than that, too. Right? My boy, my boy up in Canada, went to India, got, got that deli bell, got that deli belly."
+    },
+    {
+        "speaker": "A",
+        "text": "Are you talking about, are you talking about Quadriga?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I'm talking about Quadriga. I think he left with a cool half bill."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, but he died."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, he died. Of course. Yeah. Yeah. Are, is Yuga doxxed? There'll be some sort of. Yes, there'll be some sort of boat accident. I'm sure that. But, yeah, no, hey, who am I? I'm just some schmuck that doesn't know what he's talking about. You know, I don't hope anybody gets wrecked, but, you know, I just, I don't see the public again. I just don't think people with a ton of ethnic that have eth to spend on some of these things will be spending it on them, and then you'll get that trickle, whatever they do. It seems to me that yuga, the last couple of moves that they've done have been missteps and they can generate income, but you can only generate income to a certain amount. What are they going to do with that income afterwards? Right? Yeah, they can, you know, they can throw strokes concerts and Beck concerts, but I don't know if nobody's buying, if it's just the same people coming over and over because they've held on to their board ape for like 1015 years. Like, I don't know. It doesn't seem, I just don't see it. I just see other opportunities I think are better."
+    },
+    {
+        "speaker": "A",
+        "text": "Des, care to rebut there on chambers? Yuga? Fud. I mean, this is nothing new here, chambers."
+    },
+    {
+        "speaker": "B",
+        "text": "No."
+    },
+    {
+        "speaker": "C",
+        "text": "That'S to be expected. No, I mean, listen, if any, I mean, I think you'd agree with it. If any brand is to make it out of this and continue to grow I think Yugo probably is best positioned for that. So, you know, I still, you know, despite the market and everything going on and I try to have perspective and not just look at it from my lens, but I still believe in a lot of the technology, a lot of the functionality, a lot of the community aspects of what we're doing and what we've been doing for the last year. And I just don't see that changing. I think there's, you know, enough use case and utility in real life. I mean just if you, if you boil all this down to like public crowdfunding and social crowdfunding, like it's going to last. That concept is strong as a simplistic, you know, model. And yeah, I think we've honestly just nfts and everything is just such a small portion of what I think eventually this evolves to."
+    },
+    {
+        "speaker": "B",
+        "text": "Agree."
+    },
+    {
+        "speaker": "A",
+        "text": "Totally agree. And I think that one thing that you said that was super important and this is the, you know, not to, not to tout the, the Gary V. Horn, but like the, the idea that individual projects are all going to last is probably not correct. But the idea behind the technology and blockchain and nfts as a use case, it's just going to evolve and get stronger and it's not, there's no putting the genie back in the bottle here. It's coming and it's more. Okay, if you believe that, double and triple down where appropriate in the sense that maybe it's not pickeroons, but maybe it is, you know, but maybe it's eth, right? Maybe you double, triple your position here in ETH at these price levels or, you know, a little lower. Or maybe it's blue chip projects with great teams that you think will be around for the next ten years, but it's not going anywhere. To your I point does, and I think, you know, the, what's interesting that you did say though is the crowdfunding mechanism, which was what we saw with icos, that's pretty much gone. But there's this social version of this about community that I don't think is going anywhere. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I agree with that."
+    },
+    {
+        "speaker": "A",
+        "text": "Sat didn't know that you were the resident."
+    },
+    {
+        "speaker": "B",
+        "text": "I know, I feel bad. Satan, nice to meet you. I don't necessarily hate Yuga. I just, you know, when things are."
+    },
+    {
+        "speaker": "A",
+        "text": "But he kind of hates yuga."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, I'm not going to buy a board ape anytime soon, put it that way. And honestly, like what, what would you rather buy to me, like at what price is buying a floor ape a good investment?"
+    },
+    {
+        "speaker": "A",
+        "text": "Now, that's a good question, Des. What do you think?"
+    },
+    {
+        "speaker": "C",
+        "text": "I. God, stop asking me these hard questions."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I asked you because I didn't want to answer first."
+    },
+    {
+        "speaker": "B",
+        "text": "That's still about a hundred grand, and."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm the damn host. Yes. Still over 100 grand. Well, was this more, give or take?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "You buying a. You buying an 800 grand, Des?"
+    },
+    {
+        "speaker": "C",
+        "text": "No."
+    },
+    {
+        "speaker": "A",
+        "text": "You selling an eight at a hundred grand?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes."
+    },
+    {
+        "speaker": "A",
+        "text": "I bet you there's. I bet you there's no answers on both sides."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, I'm guaranteed."
+    },
+    {
+        "speaker": "C",
+        "text": "I honestly wouldn't. Just because if you've helped this long, that means you've reaped the rewards along the way, in your way up."
+    },
+    {
+        "speaker": "B",
+        "text": "So that's kind of my point, too. It's like you're just gonna have these people that have apes for, like, a long time, and I don't think they're gonna change hands all that much. You know what I mean?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, for sure. But I think I would answer no to both of those things as well, I think."
+    },
+    {
+        "speaker": "B",
+        "text": "Are you buying moonbirds? Is the real question."
+    },
+    {
+        "speaker": "A",
+        "text": "I would buy moonbirds. I would still buy. I would still be buying moonbirds, I."
+    },
+    {
+        "speaker": "B",
+        "text": "Think, 15 or 16 eth right now."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think I would buy moonbirds because you're. For the same reason you kind of said about yuga, that you've reaped the benefits along the way. You're at such an early stage in the life cycle with. With the project, like moonbirds with, you know, an a class t, a plus team. And so I think there's a lot of those fringe benefits to still be had. So I'm. I'm definitely still bullish on. On those. Those owls. What about you?"
+    },
+    {
+        "speaker": "B",
+        "text": "Is there anything else you guys are looking at? Like, if it cat, you know, it comes down in price, that looks like a. Like, are we looking. Maybe those. What's the proof pass?"
+    },
+    {
+        "speaker": "A",
+        "text": "Or maybe some art. No, Jeff, there's, like, some grail art pieces. The other thing that's somewhat intriguing to me, at some point, it would have to go way lower, but at some point, I'd probably be interested in a crypto punk."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I agree."
+    },
+    {
+        "speaker": "A",
+        "text": "There's some. There's some classic that I would be there, like, you talked about the NFT historian, in ten years, 100% from here. Oh, I like this answer. Nouns and little nouns. Have you. Are you familiar with this project?"
+    },
+    {
+        "speaker": "B",
+        "text": "It sounds familiar."
+    },
+    {
+        "speaker": "A",
+        "text": "I've been eyeing little nouns auctions for the last couple days, trying to scoop a cheap one. Des, you have any nouns exposure?"
+    },
+    {
+        "speaker": "C",
+        "text": "No, but one of my favorite follows is super bullish. Into nouns."
+    },
+    {
+        "speaker": "A",
+        "text": "But the concept is so fascinating to me, especially with the little nouns, because the little noun supply is just going to be astronomical at some point."
+    },
+    {
+        "speaker": "B",
+        "text": "But is there going to be a. Never mind. I was going to say what the Solana equivalent was, but I confused nouns with not."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, nouns."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. I actually think nouns is an interesting one to watch."
+    },
+    {
+        "speaker": "B",
+        "text": "For."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure."
+    },
+    {
+        "speaker": "B",
+        "text": "I like your idea."
+    },
+    {
+        "speaker": "C",
+        "text": "I like your idea on punks, though. I really like your idea on punks. Um, and then also to your point, like, just great projects that haven't done anything yet. And I would throw, like, if I already hold a bag of clones, but if clones got low enough, I'd actually maybe buy some more. Um, just because they've shown already that they're able to deliver stuff, but they still haven't delivered on, like, 80% of the stuff that they have committed to."
+    },
+    {
+        "speaker": "B",
+        "text": "We're talking about clone x, right? Specifically. Yeah, yeah, yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Um, so I like that one. Plus, they have the ability with Nike to generate the craziest partnerships in the spaces."
+    },
+    {
+        "speaker": "B",
+        "text": "I agree."
+    },
+    {
+        "speaker": "C",
+        "text": "Like, just the craziest partnerships going forward."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I agree. Um, I think, you know, I mean."
+    },
+    {
+        "speaker": "C",
+        "text": "I have a question."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, go ahead."
+    },
+    {
+        "speaker": "C",
+        "text": "What does a 16 z do with their 4.5 billion in this kind of market? What do they do?"
+    },
+    {
+        "speaker": "A",
+        "text": "What do you mean? Like, where are they?"
+    },
+    {
+        "speaker": "C",
+        "text": "So they, they raised a ton of capital to go off and do big things and develop and buy."
+    },
+    {
+        "speaker": "A",
+        "text": "That's right. They did. They did just do that, like, last week."
+    },
+    {
+        "speaker": "C",
+        "text": "Right, right. Which is interesting because that's fiat, which is just incredibly powerful now. You know, what do they do? Do they try to consolidate a couple top brands? Do they try to. You know, it's so fascinating what you could do with 4.5 billion. You could create the better marketplace. You could buy the better market. I mean, there's just endless amounts of stuff that they could do with a fund like that. I'm curious where they choose to spend it, because it's all really for this space. I mean, it has to go somewhere in this space. It's not just going to set as FIA."
+    },
+    {
+        "speaker": "A",
+        "text": "Interesting. That's actually a fantastic question. I don't know if somebody from the."
+    },
+    {
+        "speaker": "B",
+        "text": "Team could just dm us and let us know what they're doing prior to doing it."
+    },
+    {
+        "speaker": "A",
+        "text": "What's your wallet address?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that would be ideal."
+    },
+    {
+        "speaker": "A",
+        "text": "That'd be great. I like how, I like what phonics. I don't know if this is true or not, but it is, and I'm very upset. Colognex, that's exactly where I was going. I was like if they didn't name it Colognex, it is a giant missed opportunity."
+    },
+    {
+        "speaker": "C",
+        "text": "Missed opportunity. It's really funny because they teased out that they were partnering with a french company and, you know, everyone was like, oh, is it Louis Vuitton? Is it Balenciaga? Is it like all these, you know, different french brands that Nike could easily partner with and have partnered with before and then they go and release a fragrance. I could not believe it. That is just amazing. In a bear market, that would, that was almost comical to do."
+    },
+    {
+        "speaker": "B",
+        "text": "They're winning me over with that kind of, with these kind of moves."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, well, we have a hard stop here soon so we're going to end up closing this down. But I did just want to say chamber, a beautifully designed shirt that I'm wearing."
+    },
+    {
+        "speaker": "B",
+        "text": "I like that one. That's a good one."
+    },
+    {
+        "speaker": "A",
+        "text": "That's picked up from the Djen network store. So if you. I bought a bunch of them to wear to NFt NYC. Thank God I picked up the goblin town one. That one's going to come in handy next, next week. But yeah, that, that's going to do it. Shout out, by the way, to all of our other dj network shows. Check out coffee with captain. It's a Twitter spaces every morning on the DJ network handle or Captain Zwingli or NFT."
+    },
+    {
+        "speaker": "B",
+        "text": "I was on there flooding apes this morning, too, by the way."
+    },
+    {
+        "speaker": "A",
+        "text": "I heard you. I heard you make an appearance on there. Go check that show out. Really awesome crew every morning. We're actually going to be doing a live coffee with captain event next Tuesday at NFT NYC. Also shout out to the NFT night shift. Those guys are super sharp. Alpha guys, big grinders. You want to know about specific projects dropping. They're the guys with the pulse on the market. Check them out. And lastly, if you've probably heard us talk about the DJ network war room a million times on this show, if you would like an invite in there, shoot me a DM on Twitter at bunchubetz and I will get you in. Get a little taste of the war room, which we've really upgraded lately. So cool stuff going on there. Des."
+    },
+    {
+        "speaker": "C",
+        "text": "It helps to slip him about 0.5 ETH as well."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it's like I'm like the bouncer. Yeah, right. It's like just a quick thirteen dollars dollar zero five, Ethan and we'll be good to go. You can get yourself on the war. That is going to do it for us. We'll be back Wednesday. We have a guest coming on Wednesday. Super excited. We will have James Costa on from Clubhouse archives, which will be a super fun conversation. James is a member of the War room and DJ network supporter and he's launching a project in the next couple weeks. I think it's super innovative what he's doing with that project and can't wait to talk all about it, demo it every and all that good stuff. So we will be back on Wednesday in our typical time slot, four to five eastern time. Des, will you be able to join us from the moon? Maybe."
+    },
+    {
+        "speaker": "C",
+        "text": "Maybe. I am closely watching that project. Possibly a society key holder. So super excited to hear about that."
+    },
+    {
+        "speaker": "A",
+        "text": "Society key holder."
+    },
+    {
+        "speaker": "B",
+        "text": "I want to be a key holder."
+    },
+    {
+        "speaker": "A",
+        "text": "You got it. You got to socialize. A little more chamber. You can't just stay in your bloody room back there and think that you're just."
+    },
+    {
+        "speaker": "B",
+        "text": "I just wait for bunch of DM's. You need one of these."
+    },
+    {
+        "speaker": "A",
+        "text": "I was last. I was last in line for the key holder. So I, you know, we. Maybe we'll see what we could do on Wednesday."
+    },
+    {
+        "speaker": "B",
+        "text": "All right."
+    },
+    {
+        "speaker": "A",
+        "text": "If you don't see, if I don't see you before then, I'll be wearing these wonderful stickers on myself at NFT NYC, the courtesy of Jen Cabo, who made those. She does a great job. So check her out if you need. These are cool to walk around with at these conferences because nobody knows what you really look like behind your avatars and everything, so. But that is going to do it for us. Until next time, stay mint."
+    }
+]

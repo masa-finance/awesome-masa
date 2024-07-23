@@ -1,0 +1,594 @@
+[
+    {
+        "speaker": "A",
+        "text": "Hey, guys. Welcome to debrief the holy grail for bitcoin. Is it bit vm? We had the founder, Robin Linus, on this. David, I wasn't going to do this episode, actually. I was just, like, thinking, okay, this will be optional."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "More a David research episode. But I'm very glad I came. Let me just say I think you're."
+    },
+    {
+        "speaker": "B",
+        "text": "Glad for every episode that you end up coming to."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. I never regret the decision to join an episode, but let me just say, bitcoin builders go hard."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Like, they're, like, kind of Chad's."
+    },
+    {
+        "speaker": "A",
+        "text": "They're just like a different kind of breed, I would say. They're just, I don't know, just hardcore, like, so. And I know you have to just."
+    },
+    {
+        "speaker": "B",
+        "text": "Chew glass to, like, Dev and bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "You have to really give a hard."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Like, it's not easy."
+    },
+    {
+        "speaker": "A",
+        "text": "No. You have to be all in in order to, like, take on this painstaking work. And so that's one observation just like, how he's like, I want to kill all altcoins. It's just like, something you'd never hear from Ethereum."
+    },
+    {
+        "speaker": "B",
+        "text": "Robin, what do you think bitcoin will be like in 50 years? Like, oh, well, it will have totally eaten up the entire altcoin market. There will be no crypto market. Yeah, it will destroy crypto."
+    },
+    {
+        "speaker": "A",
+        "text": "Says it without emotion on, like, a podcast. Like, known for being, like, very bullish on the log. Yeah, he just like, you guys won't exist."
+    },
+    {
+        "speaker": "B",
+        "text": "Your business model will suffer."
+    },
+    {
+        "speaker": "A",
+        "text": "That's funny. But actually, it didn't annoy me very much. I don't know why it didn't bother me. Didn't annoy me. Even his quip about, like, yeah, Vitalik wakes up and, you know, like, hard forks."
+    },
+    {
+        "speaker": "B",
+        "text": "Hard forks."
+    },
+    {
+        "speaker": "A",
+        "text": "Ethereum in the morning, I was just like, all right, well played. Whatever. That's not how I have it."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so. But, like, Casey Rodemore is also, like, this, like, chew glass bitcoiner that believes in, like, the money of BTC, the austrian economics and all that stuff."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure."
+    },
+    {
+        "speaker": "B",
+        "text": "But. And they're all trying to make bitcoin more expressive so you can build what the altcoin market is doing off bitcoin and put it on bitcoin. But then both of them have this, like, existential identity crisis of, like, oh."
+    },
+    {
+        "speaker": "A",
+        "text": "I hate what I built."
+    },
+    {
+        "speaker": "B",
+        "text": "What have I done to bitcoin? I've put the altcoin market on bitcoin. Oh, no. All the scammers are on bitcoin now."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, they're all Doctor Frankenstein's. Right. And they're just looking at their creation and they hate it. In fact, that's feels like that's part of the. That you. Well, I don't think it's an act. Let me just say that. But, like, it's part of the culture to do that. Like, you built something that spits out scam or enables scams and, you know."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, it enables everything, including scams. And then scams come first."
+    },
+    {
+        "speaker": "A",
+        "text": "They have to get over that."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I just. They know."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And they know. But, I mean, I guess they have to get over it. They have to get over it to the extent that they're willing to do it, knowing that this is not just the possibility that it's, like, absolutely going to breed a new game of, like, investor casino and. But they don't have to be okay with that. They can still say every, like, 99.9% of the projects built on top of this protocol I built are shit. Don't buy them. And that. That's kind of like Casey and Robin had that in common."
+    },
+    {
+        "speaker": "B",
+        "text": "Right? What? Right. What did."
+    },
+    {
+        "speaker": "A",
+        "text": "What did you make of. I think we stumbled. At least I didn't know this was a beef. I think we stumbled upon a bitcoin beef of, like, Eric wall in the Opcat warriors, right? They're trying to get a soft fork into bitcoin to add opcat. And Eric thinks that this is incredibly important."
+    },
+    {
+        "speaker": "B",
+        "text": "Doesn't this? Like, because Robin was like, you can't do multiplication on bitcoin, but Opcat means op concatenate, which, like, is a stand in for multiplication. I think that's kind of the deal."
+    },
+    {
+        "speaker": "A",
+        "text": "I think so. I mean, the gist of our episode with. With Eric, which bank listener? Guys, if you haven't listened to it, like, you gotta listen to that one, too."
+    },
+    {
+        "speaker": "B",
+        "text": "Apparently, technically wrong. According to Robin."
+    },
+    {
+        "speaker": "A",
+        "text": "According to Robin. So this is the beef. Eric is all in on op Cat. And he basically says that everything we built on top of something like BitVM will be infuriate, inferior, and inadequate. Until we get op cat. And then op cat, we can actually create, like, true, true roll ups. Right? And his take was because of the capital challenges. He didn't say two weeks, by the way. He said, like, in the worst case scenario, Eric Waldid. Anyway, you get some sort of. Well, the operators of BiTVM have to have reserves of, like, six months, not just two weeks. Like, two weeks is, like, the best case scenario. He was saying, like, up to six months. And that's, like, way too capital efficient. And by the way, when it all collapses, it'll collapse in a way that is similar to like a chapter eleven bankruptcy."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "And so you're kind of like built on. And so he's basically like, bit VM has this fatal flaw and it's not going to work. And so we need op cat. And, you know, it seemed like Robin was having none of that. He was just like."
+    },
+    {
+        "speaker": "B",
+        "text": "It was funny. Like, Robin is super german. Like, pretty straight face, but then you could see him like, crack a smile. When I brought up the Eric wall thing, he's like, oh, I know what this is."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, he. I think he would be on the side of people active on bitcoiners, actively campaigning against Opcat."
+    },
+    {
+        "speaker": "B",
+        "text": "I got that vibe. Well, it's not maybe. I know. I don't know if I got that vibe. I think he's indifferent to op cat just because it doesn't. It doesn't affect what he's doing. It's just like he's building bit vm regardless."
+    },
+    {
+        "speaker": "A",
+        "text": "But he used the phrase attack on bitcoin."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Something associated with that conversation which made me think he's just like, not, would not be super happy to see Opcat consume all of that precious, you know, bitcoin block space."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. I think even for, like, the bitcoin builders, like Casey and Robin, who I'm kind of categorizing into the same kind of archetype. I think even Eric Wall is still a little bit too, like, progressive and liberal. And he's like, yeah, he's two ethereum. He wants to change things and, like, do stuff, and it was just him. And, like, from the bit. And, like, there's resistance to all change in bitcoin. There's resistance to Eric Wall. Like Eric Wall and Udi, when they went on to the bitcoin conference mainstage, they were like, if you guys, all you laser eyed maxis can't even, like, survive the Eric wall and Ud attack on bitcoin, how do you expect to stand up to a nation, take, say, attack on bitcoin? But like, a lot of bitcoiners view what Eric Wall is doing as an attack on bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I knew that, but I didn't know that existed because I squarely had put Robin in the category of bitcoin Renaissance bitcoin builders. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "Shoulder. Shoulder with Eric Wall."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah. I was like, oh, there's the laser maximalists. Call them the Catholics, right? And then you got the bitcoin builders that are the Protestants. Well, it turns out within the protestant, like, denomination, there's all of these sub splitting yeah, Methodists and, you know, Unitarians and, like, I don't know, all the different Baptists and such. And so I didn't realize there was infighting in the kind of the bitcoin builder protestant group, but apparently there is. So. Which makes it more entertaining. Let me just say. It makes it way more entertaining. And, yeah, I came out of this episode bullish."
+    },
+    {
+        "speaker": "B",
+        "text": "Bullish? Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Honestly, an optimistic fraud proof with a permission set of bridge operators with a, what is it? N of one kind of trust assumption where it's just like. And the only thing that they can do, they can't steal funds. So the only thing that they can do is, like, liveness attacks, where it's just like, they freeze everything. Sensitra, don't let you withdraw. That's not a bad trust assumption. It's not as good as what you'd get with Ethereum, but, like, maybe it covers a lot, doesn't it? I don't know. You'd have to ask a protocol researcher, a game theoretician mechanism designer to map out the game theory. But it's pretty good, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Um, it's kind of interesting. Bitcoin is going through. It's like layer two era, which I would. I'll say, like, bitcoin is in 2020 2019, Ethereum land for its layer two landscape. But Ethereum, of course, is in 2024 of its, of its era of roll ups. And this isn't to say, like, these things are competing and Ethereum's ahead. It's actually just like bitcoin just borrowing tech from Ethereum. Wait, why? Has been the plan."
+    },
+    {
+        "speaker": "A",
+        "text": "They are competing, right? We'll come back to."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, but that's not the perspective that I'm offering right now. I see they are competing. Ethereum's totally winning. But adjacent to that, we don't. We all know that's true, so why bring it up? So the technology that the Ethereum roll up landscape is working on right now is recomposability, like defragmentation of layer twos. And that comes with actual technical improvements to the layer two constructs themselves. But it also comes with interchain abstraction, layers of which bitcoin will also be able to benefit and apply from. So by the time the bitcoin layer two landscape matures and grows up and turns into the 2021 to 2022 era of Ethereum roll ups, like Ethereum technology will be able to, like, kind of blend bitcoin roll ups with the stack of Ethereum roll ups because we'll have abstraction technology and ux improvements and so I kind of think like the Ethereum and bitcoin world are going to meld together faster than what people think Ethereum."
+    },
+    {
+        "speaker": "A",
+        "text": "Is doing so much for bitcoin that I feel like. I'm serious, David. I feel like bitcoiners do not yet appreciate, like the hardcore, I hate all altcoins bitcoiners do not appreciate because not only have they pioneered roll ups and fraud proofs and the exact approach that BitVM is kind of taking so you can kind of learn all of those lessons. I mean, we've talked to on the bankless venture side projects, more legitimate than kind of the bitcoin layer too. It's just like pumping token type of projects, but projects that are just taking op code, like optimistic roll up code. And you're like, we've got a ready made EVM. Ethereum already built it for us. And all we have to do is once bitvm is enabled, then boom, we've got a bitcoin secured, optimistic roll up on top of bitcoin, right. And I don't know if Robin would like that or not because it creates altcoin, shitcoin casino again, like, or the possibility of that. Free markets buddy, he doesn't have to. And so what do you get from that? If all of this actually works, then you get something close ish to the optimistic optimism ecosystem on top of bitcoin. And like Ethereum has already built it. Bitcoiners should be thankful."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, I'm going to take off my Ethereum hat and put on my bitcoiner hat. And so bitcoin, they won't be able to do optimistic roll ups. They're skipping straight to ZK rollups because that's, that's what Bitvm is. ZK roll up. ZK."
+    },
+    {
+        "speaker": "A",
+        "text": "But it's not really, I mean, I know you said ZK, it's using some ZK tech, but it's still like fraud proofs in the way that you have to do. Yeah, so ZK, ZK roll ups on, in the Ethereum context, it just, there's no window, there's no like back and forth game fraud proof type thing."
+    },
+    {
+        "speaker": "B",
+        "text": "And so for, with the withdrawals. For the withdrawals."
+    },
+    {
+        "speaker": "A",
+        "text": "For the withdrawals."
+    },
+    {
+        "speaker": "B",
+        "text": "But the proofs are settled to bitcoin are not fraud proofs. They are ZK proofs."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah, but that's, that aside, it's still using a fraud proof game, which."
+    },
+    {
+        "speaker": "B",
+        "text": "Makes it seem more like using a withdraw period. Withdraw period."
+    },
+    {
+        "speaker": "A",
+        "text": "And also you have to supply the capital. It has the same problems as optimistic. That's why I always talk about them as like BitVM is much more like optimistic roll ups and just like not very much like the ZK EVM ZK whirl up world, at least of ethereum because you don't have this like seven day or you know, multi week withdrawal period."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't think that's true. The execution of a bitcoin bit vm roll up will be like ZK zks. Well, I guess it depends on what the EVM is, the withdrawals. You're totally right. You're totally right."
+    },
+    {
+        "speaker": "A",
+        "text": "But Robin withdrawals are everything. I'm just saying like Robin was like."
+    },
+    {
+        "speaker": "B",
+        "text": "Why you don't ever need to withdraw. Actually, everything goes to the layer twos and it kind of stays there. And if you want to hop around layer twos, you can use like bridges that like an intents that we have in Ethereum."
+    },
+    {
+        "speaker": "A",
+        "text": "This is getting out of my technical competency, our technical competency, I think a little bit."
+    },
+    {
+        "speaker": "B",
+        "text": "But like he alluded to that. He alluded to that."
+    },
+    {
+        "speaker": "A",
+        "text": "My understanding is that BitvM is based on like fraud proof style games the same way."
+    },
+    {
+        "speaker": "B",
+        "text": "That's right."
+    },
+    {
+        "speaker": "A",
+        "text": "Scroll ups are. And ZK rollups on Ethereum, right. Are not based on fraud proof games which makes them superior in lots of instantaneous."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, composable instantaneous, all that kind of stuff."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. And bitcoin cannot get that style of ZK roll up until it like, yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "It has a VVM on the layer one, which will, I don't know, maybe. But the point is, is that like he was alluding to like, okay, once we get this technology, everything will move up to the layer twos on bitcoin. Kind of like how we've alluded to on Ethereum. And then all bitcoin is, is it just, it verifies proofs. That's all it does. And he talks like, well, that's actually like an argument for even increasing the bitcoin block space because verifying blocks are going to be a lot easier when we replace all the scripting stuff with just like basic proof verification. So he's basically talking about a more simple bitcoin layer one that's just trivially easy to verify with a layer two landscape of ZKVM chains and other optimistic, whatever VM chains on the layer two space. And the layer one becomes trivial and the layer two becomes very expressive. And this is the same model as Ethereum and it's the same model as Celestia. And so actually in this world, like bitcoin the bitcoin block space doesn't actually have any, like the state bloat or the tech debt that Ethereum has. And so this is a bitcoin moving, like you just said, convergence moving to like what the bitcoiners have always said, which is everything will eventually become absorbed by bitcoin and will be built on bitcoin. So don't pay attention to the altcoin world. You know, Ethereum is a bunch of shitcoiners. They hard fork whenever Vitalik wants to and like, look, it's just happening on bitcoin. Like bitcoin has. It's bitcoin still four times the market cap of Ethereum. Like, it actually is fulfilling the Ethereum vision in the world in which BitVM is like live and produces stable layer two. So why the fuck do we need Ethereum?"
+    },
+    {
+        "speaker": "A",
+        "text": "This is the first time I've actually heard some legs to that argument or supporting evidence for that argument, really with like BitVM is kind of the first time because they used to say this with lightning and they used to say this with just like some sort of blind faith that bitcoin would just ultimately slurp in all of the rest of crypto's innovation and then finally in like, the altcoins will die. Right, but BitVM is actually like, that's actually it. Yeah, it's still not going to happen, of course. I mean there's so many ways that Ethereum, from a scaling perspective and layer two strategy perspective is just like light years ahead. And not only light years ahead, it's just like running faster than bitcoin because."
+    },
+    {
+        "speaker": "B",
+        "text": "We have all the engineering."
+    },
+    {
+        "speaker": "A",
+        "text": "But bitcoin is ahead in moneyness in the name of money, which I think."
+    },
+    {
+        "speaker": "B",
+        "text": "Most of the market underrates."
+    },
+    {
+        "speaker": "A",
+        "text": "I think that's true. I think the market both also underrates Ethereum and ethers meme of money ness. We've always been one to kind of promote that where at the end of the day I don't see bitcoin, Ethereum being that much different in terms of their strategy. And this is just more convergence. It's kind of cool. It makes me excited, it makes me bullish. It's more bankless, decentralized money, much more bankless. Yeah, getting built. I'm very excited."
+    },
+    {
+        "speaker": "B",
+        "text": "Would like it to be proof of stake, but that's heresy for bitcoiners."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, they're not going to. That's okay. I'm totally, I'm glad to have a proof of work system out there in the wild, just as a."
+    },
+    {
+        "speaker": "B",
+        "text": "It doesn't inspire me."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure. But then you can."
+    },
+    {
+        "speaker": "B",
+        "text": "A lot of, like, people like John Charbonneau have said, like, okay, the more I study proof of stake, the more I appreciate proof of work. But I think you can only appreciate proof of work if you look past in contrast to the shortcomings of proof of stake and the complexities of proof of stake, like Lido governance, for example. Like, bitcoin doesn't have that. But you know what bitcoin does have? Like, fucking supply chains and hardware manufacturers. Like, I don't want that."
+    },
+    {
+        "speaker": "A",
+        "text": "I can't wait to get back to those debates with. Between bitcoin and ethereum. Right? Those debates sounds."
+    },
+    {
+        "speaker": "B",
+        "text": "Those were fun."
+    },
+    {
+        "speaker": "A",
+        "text": "2017."
+    },
+    {
+        "speaker": "B",
+        "text": "The debates between Solana and Ethereum. Like, we've only had one of those, and we just had one. And that was the first one and only good one that we've had in five years."
+    },
+    {
+        "speaker": "A",
+        "text": "Let's get back to the proof of work versus proof of stake debates of, you know, yesteryear of Ethereum, when it was kind of like, talking about its transition as a 2017 era debate."
+    },
+    {
+        "speaker": "B",
+        "text": "I."
+    },
+    {
+        "speaker": "A",
+        "text": "Another tech that he mentioned, piece of tech that he mentioned is encapsulated in Babylon the project, which is like the Eigen layer for bitcoin."
+    },
+    {
+        "speaker": "B",
+        "text": "And as soon as I said Babylon, he was like, yeah, I don't endorse Babylon."
+    },
+    {
+        "speaker": "A",
+        "text": "I know. And I think this is this mentality of, I don't want to be associated with your vc scam and shitcoinery, because maybe Babylon's going to like in it for the tech. The money is the tech, whatever. You know what I'm saying? But. Okay, so, I mean, he seems to think that's real. And the core principle is using bitcoin's moneyness, property and validator set for economic security for other things, other types of applications. And Robin seems to think there's actual kind of legs and that can be developed. I don't know if you have any, you know, status updates on the Babylon project, but that, that might be a next step. Is it David?"
+    },
+    {
+        "speaker": "B",
+        "text": "David Sebroy Tse David say he was actually an academic that Sriram worked with professionally or in an academic setting. Sriram from iglam guy? Yeah, exactly. Yeah. They were like. I think David say was like his. Sriram's mentor, I think."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, wow. Imagine having a bitcoiner as your mentor, and then you go, Ethereum, huh?"
+    },
+    {
+        "speaker": "B",
+        "text": "Imagine having your mentor copy your startup and just apply it on bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, this is a, you know, sith lord apprentice type of set up here, I think. Yeah. So anyway, I think that could be a next stop on our trip down what's real in the bitcoin builder space later. I wouldn't mind doing that."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think I'd enjoy probably a David say episode."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, do you think this episode is going to stir up a little bit of controversy, a little bit of back and forth between the opcat."
+    },
+    {
+        "speaker": "B",
+        "text": "Every time we have a bitcoiner on, we get the classic bitcoin maxis that you know of like Predator and like, all the other ones, like clipping our show and then posting it on Twitter and then like, finding something that makes us like, shit corners. And then they say, like, look at bankless. Look at their shitcoiners."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, really?"
+    },
+    {
+        "speaker": "B",
+        "text": "Like, who's that?"
+    },
+    {
+        "speaker": "A",
+        "text": "A big."
+    },
+    {
+        "speaker": "B",
+        "text": "He's like, you probably haven't blocked. I think I have him blocked. He's just a bitcoiner. But the thing is, he's a laser eyed maxi. But like, they find our clips so fast. I think they all watch bankless, bro."
+    },
+    {
+        "speaker": "A",
+        "text": "There's a lot of hate watchers of bankless."
+    },
+    {
+        "speaker": "B",
+        "text": "There's so many hate watchers."
+    },
+    {
+        "speaker": "A",
+        "text": "They're very vocal on Twitter, I think. Was there another, like, I hate bankless kind of thing going around Twitter?"
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, the one today based carbon? Yeah, but he's an Ethereum guy, I think. I don't know what he is."
+    },
+    {
+        "speaker": "A",
+        "text": "It's funny, I feel like sometimes, David, we get it from all camps."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, we get it from everyone. We're like, we're the person with like ten knives pointed at them and hashtag."
+    },
+    {
+        "speaker": "A",
+        "text": "Feels bad, Mandy, like a little bit. Especially when you go on Twitter. Like, it's just like, now we get attacked by the Ethereum community for doing like podcasts like this."
+    },
+    {
+        "speaker": "B",
+        "text": "Some in the Ethereum community."
+    },
+    {
+        "speaker": "A",
+        "text": "Some. Yes, some. Exactly. That's the thing. It's just not everybody. You posted a meme. You posted a meme today, which I think it completely encapsulates it, which is basically."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that means doing numbers, actually."
+    },
+    {
+        "speaker": "A",
+        "text": "Is it? Yeah, it should. Okay, describe this meme."
+    },
+    {
+        "speaker": "B",
+        "text": "You want to pull it up and you can share screen? All right, I think maybe I can."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, you share screen."
+    },
+    {
+        "speaker": "B",
+        "text": "So this is the base carbon tweet. And he tweeted out it was retweeting this old, like one of our sponsor cards. So like a rate card. So if you want to sponsor us, like, you can like, buy a package, you can buy a full sponsorship, have sponsorship, blah, blah, blah, blah. And I don't think people are ready for like, people don't know, don't realize that this is a business. Like, they think that we do this for free. And so when they see our rate card, they're like, what the fuck? You guys are making money."
+    },
+    {
+        "speaker": "A",
+        "text": "Sponsors pay us money because we have."
+    },
+    {
+        "speaker": "B",
+        "text": "Sponsors pay us money, 20 employees, and."
+    },
+    {
+        "speaker": "A",
+        "text": "We'Re trying to create sustainable, like, media company, organization, whatever."
+    },
+    {
+        "speaker": "B",
+        "text": "Anyways, and so he was retweeting that. Okay, wait, no, hold on while I'm going to talk about this. And also update my system settings at the same time. Oh, wow. And so let's see. And so he retweeted this tweet, and he said, if everyone hates bankless, who the fuck is still paying them money? And why? I can't share because I need to give permissions. Can you share? I'm going to send it to you on discord. Yeah, just if everyone hates bankless, then who the fuck is still giving them money and why? And so I need to explain the allegory of the cave for this to work. The allegory of the cave is a plato meme of sorts. And the idea that there are people in this cave and there's two parties of people, and there's also a fire in this cave, and there's one party of people that are making signs with their hands, and they're making, like, shadows on the wall. And then there's the audience who's watching these signs, and these people in the cave have never left the cave for their entire life. So this is their reality. And they think the people making shadows on the wall are reality because they don't know anything else. And so whatever shadows are going on the wall is. Is what reality is. And so you have, like, two people. You have the thought leaders on Twitter that everyone thinks are based and listened to. And then you have the people looking at the shadows. And so base carbon, I think, is, like, I'm calling, like, one of the people making the shadows on the wall, and they're saying, if everyone hates bankless, then who the fuck is still giving the money? And why? And then there's people who have realized that they're in the cave and they are climbing out of the cave to see daylight and see the world around them for as it is. And I've labeled these people normal fucking humans. Because if you ever, like. This is something that I constantly tell Ryan about. Like, Ryan. Ryan sometimes is stuck in the cave because you don't go to conferences and you don't, like, meet people. No, they make hands."
+    },
+    {
+        "speaker": "A",
+        "text": "They make me think that the doppelganger, the shadow that they've created in the cave, of bankless or of me is, like, real, and they almost psyop me into, like, well, Max, like, am I in a theory?"
+    },
+    {
+        "speaker": "B",
+        "text": "Am I an asshole?"
+    },
+    {
+        "speaker": "A",
+        "text": "Does everyone hate us? Like, what's. Like, what's going on? And, yeah, you're saying that's not normal. That's just people in the cave in the echo."
+    },
+    {
+        "speaker": "B",
+        "text": "That's just people who forget to leave crypto Twitter and think, like, and honestly, like, crypto rewards being degenerately online. It rewards being in the trenches. It rewards, like, shutting your blind. Try the computer 20 hours. Yeah, but then, like, if you go out and, like, meet people, everyone, like, loves bankless, like, everyone I meet in real, like, honestly, of course I'm going. I'm not going to Solana. Actually, I did go to. I went to a Solana conference, and people are like, hey, I, like, I listen to the podcast. I really appreciate it. And so, like, even the Solana community is. Is, like, will come up to me when I go to their conferences and say, hey, I appreciate some of the episodes that you guys do, like, and they, of course, don't have to agree with our takes about Solana, but they don't hate us, is the thing. All the hate just stays in, like, these degenerate channels of crypto Twitter."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it's just like, I feel like we have had an open posture to basically any crypto community now. It doesn't mean that we'll agree with someone who comes on, doesn't mean that we're actively buying their bags or agree with the way that we have an opinion on the way some of these systems are designed. And we skew decentralization, Maxi. And we've definitely skewed Ethereum in the design principles of Ethereum in the past. But, like, we do bitcoin episodes all the time and are super excited when bitcoin is scaling like that, is scaling bankless values, when bitcoin scales in a trustless, decentralized way, it doesn't use, like, you know, blockfi to scale or something like this for its lending. And same thing with Solana is just like we do Solana debates."
+    },
+    {
+        "speaker": "B",
+        "text": "Anatoly, I did my damnedest to reach out to Solana. I did, like, so many Solana episodes that, like, the Ethereum camp was like, david, what the fuck are you doing?"
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, ton. Like, now. And now that has caused this contingent."
+    },
+    {
+        "speaker": "B",
+        "text": "No, the Ethereum camp doesn't like it."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, Ethereum camp to hate us. One of the recent, I think part of the, I guess the recent round of Crypto Hate is, I actually invited Charles Hoskinson on the podcast. Just like, hey, Charles, could you just give us an update on Cardano? Like, my perception is there's really, like, not very much going on there because we look at the crypto space in general and just like, there's not. We never see anything."
+    },
+    {
+        "speaker": "B",
+        "text": "Such an island."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, but what do we know? He can opportunity to update us, and he's like, you come to my conference. I'll put you in a black, black Hawk helicopter. We'll do the podcast there. I'm just like, dude, I barely. I only go to one conference a year. Yeah, he wanted. And I was like, are you going to take me up in a helicopter? This is what I thought he meant. Like, I'm not going in a helicopter with this guy. I don't even go to conferences, dude. I'm not going to spend that much time. I just want to do a podcast with you. And then I was like, no, thank you."
+    },
+    {
+        "speaker": "B",
+        "text": "Click a link, bro."
+    },
+    {
+        "speaker": "A",
+        "text": "Like, a podcast, a super normal podcast would just be perfect. And then he publishes this eight minute video of how bankless always hated Cardano and is not open to their community. I don't really understand that in general, and this is some backlash on crypto that we're dealing with, too."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I don't think that video was addressed to us. I think that video was addressed to his community. Addressed to us."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, but it said things like, we, you know, we supported Tara Luna in the past. We supported Solana."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, he said that. I stopped listening at, like, four minutes."
+    },
+    {
+        "speaker": "A",
+        "text": "He called us bankless bastards. You should listen the whole."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, wow."
+    },
+    {
+        "speaker": "A",
+        "text": "He was like. I was just like, dude, what are you. Anyway, I'm getting into Rantzone. This is supposed to be a debrief on the. On the episode that just was new bankless format."
+    },
+    {
+        "speaker": "B",
+        "text": "Bankless rants."
+    },
+    {
+        "speaker": "A",
+        "text": "Bankless rants. Bankless vents. It's basically what it is. Anyway, I don't understand. I do think we get the perspectives of many in the community and try to do our best to just."
+    },
+    {
+        "speaker": "B",
+        "text": "This is what I'm proud of. Is that normal fucking humans, like I said on the meme, listen to bankless."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay?"
+    },
+    {
+        "speaker": "B",
+        "text": "That is our audience."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't see the normal humans in person. I don't ever hear from them. I just hear from Twitter, avatars, and people online. All right, so bitcoin Renaissance is here. Bitvm seems cool. I'm interested in any follow up from this episode. Somebody point out the fatal flaw of Bitvm. That would be much appreciated. Until then, I think we're good on our bitcoin series for now."
+    },
+    {
+        "speaker": "B",
+        "text": "Until another season comes around."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, see you guys later."
+    },
+    {
+        "speaker": "B",
+        "text": "Thanks, everyone. Bye."
+    }
+]

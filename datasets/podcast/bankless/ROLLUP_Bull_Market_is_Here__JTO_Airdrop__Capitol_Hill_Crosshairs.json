@@ -1,0 +1,626 @@
+[
+    {
+        "speaker": "A",
+        "text": "Bankless nation. It is the second Friday of December and it's time to welcome you to our Friday weekly roll up. We got bitcoin above 40k. Welcome to the bull market, my friends. I think it's bull season. How about you, David?"
+    },
+    {
+        "speaker": "B",
+        "text": "Are we calling it? Is it official? We've been warming up to the. Did we, did we already called it?"
+    },
+    {
+        "speaker": "A",
+        "text": "We already called that. We were entering the bull market and now I'm ready to just welcome people. I'm just like, you can't, you can't even deny it now."
+    },
+    {
+        "speaker": "B",
+        "text": "It's no longer, it's no longer like 90 ten. It's now like 99 one."
+    },
+    {
+        "speaker": "A",
+        "text": "It's no longer in dispute. This is the bull market. And so I just want to cordially welcome everyone to the weekly roll up on the bull market. We are officially there. December 2023. It took us how long? Not too long. Honestly."
+    },
+    {
+        "speaker": "B",
+        "text": "It was a short. It was like, in the grand scheme of things, it was a short bear market. It was a. It was a one year of down one year of flat, whereas last bear market, it was one year of down two years of flat."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. If this is your first cycle or you're going into your second cycle, then consider yourself blessed. That bear market wasn't so bad, all things considered."
+    },
+    {
+        "speaker": "B",
+        "text": "I guess back in my day, our bear markets lasted two years."
+    },
+    {
+        "speaker": "A",
+        "text": "There we go. Here we go, grandpa bankless. David, what do we got to cover this week? What are the topics?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, the markets downstream of bitcoin are getting hotter. Solana airdrop season. At the time of recording, Gedo, the combo lido plus mev boost application on Solana just had its airdrop is probably going to be one of the most hot tokens in the Solana ecosystem. Just started trading. So we're going to take a look at what it is trading at and how much wealth was distributed to jitto soul holders. Gamefi tokens. Also moving, but most bullishly, we have specific dates, at least a very specific window for the dates for a spot. Bitcoin ETF, and that is just the market section. What else we got, Ryan?"
+    },
+    {
+        "speaker": "A",
+        "text": "We got crypto back in the crosshairs on Capitol Hill. So the US treasury wants to clamp down on crypto, imposing what might be, and I quote, the broadest expansions of power since the Patriot act. It's not good. Treasury is not saying good things."
+    },
+    {
+        "speaker": "B",
+        "text": "Also, I'm going to do the market section. You're going to do that section?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I'll do, I'll do the sad stuff. Also, in a typical banker move, Jamie diamond bent the knee to Elizabeth Warren in front of Congress today. I think he's getting aboard the anti crypto army. He, of course, is the CEO of JPMorgan. 3 trillion in assets. So we'll talk about this. But there's good news, man. You get all the good news stuff."
+    },
+    {
+        "speaker": "B",
+        "text": "What's I get?"
+    },
+    {
+        "speaker": "A",
+        "text": "Building, right? What are we building?"
+    },
+    {
+        "speaker": "B",
+        "text": "Coinbase wallet gets some payment infrastructure that has way better ux than probably what you're used to. We got a bunch of new liquid staking updates to talk about that all lead into a big Eigen layer update, as well as Eigen layer opening up the doors for more ether deposits. We will see how long it takes for Eigen Lair to reach its cap. Every other time Eigen Lair has reached its cap, it was very, very quickly under. Under hours. Anyway, so we're going to get to all of that stuff, especially the market section, big hot market section this week. But first, we're going to talk to our friends over."
+    },
+    {
+        "speaker": "A",
+        "text": "Good news. We are above 40k in bitcoin land. What's the. What's the price this week?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, started the week at 38,800, up 12% on the week. I think we're at, like, two, three weeks in a row of double digit moves in bitcoin world, currently coming in at $43,600. And Ryan mainstream is starting to pick up on the bitcoin rally. Bloomberg had this article talking about the bitcoin hype mania that goes into overdrive as it passes. $42,000. Here's a quote. Bitcoin topping $42,000 is just the start of a fresh crypto super cycle. What you just saw the word supercycle in. Bloomberg started a fresh that will push the world's biggest token above $500,000 in what adherents say is a new monetary order taking Wall street by storm. So really bullish words coming out of Bloomberg, just so you know."
+    },
+    {
+        "speaker": "A",
+        "text": "You guys know, at Bloomberg, super cycle actually meant that, you know, a cycle that never dies. No bear market. That was an old 3 hours capital Suzu thing, but super. Yeah, yeah, it does sound great. How about this one, David? This is. Well, bitcoin is up 130% on the year. It's actually just an average year for bitcoin. If you look at, like, full historical context now, this is not necessarily a predictor moving forward, of course. I think, you know, things can't always be in overdrive exponential growth territory. But what are we looking at here?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, we're looking at just the yearly returns of bitcoin from inception. We have three insanely positive years that we are never going to get back. So don't put your expectations there. 2013, bitcoin went up 5200 percent. 2011, 1400 percent. 2017, 1300 percent. And then the three worst years. 2014, negative 56%. 2022, negative 64%. 2018, negative 73%. We are smack in the middle at a 100, a reasonable, healthy 128% year over year. Ryan, I remember about a year ago when we were talking about the. If the four year cycle, uh, meme played out again, we were going to look back on the year that was 2023, and it was going to be a year of perceived pain, perceived bearishness. And then when we look back on it, it's going to be up only. And that is exactly what happened. 2023, we were up 138%, and it really didn't feel bullish until Q four. But really, it's been up. It's been up the entire year."
+    },
+    {
+        "speaker": "A",
+        "text": "David. I got to say, my friend, we are right on schedule, are we not?"
+    },
+    {
+        "speaker": "B",
+        "text": "We are right on schedule."
+    },
+    {
+        "speaker": "A",
+        "text": "It feels like the bear market was short, but also the bull market is right on schedule in these four year cycles. Uh, David, let's talk about another schedule, which is when are we going to get the bitcoin spot ETF? You promised some dates. Give us the dates."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So this is James Safer, who now says the window is officially January 5 through January 10. I already knew this because this is when I go find my Horcrux. And he says, really? This means that any potential approval orders are going to come either Monday or Tuesday because, you know, the prior two days are the weekend. Monday, January 8, or Tuesday, January 9, or perhaps Wednesday, January 10. Mark your calendars, people."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so you're gonna be there."
+    },
+    {
+        "speaker": "B",
+        "text": "Shout out Fitzroy Mountain in Patagonia where bitcoin ETF will be destroyed. That is why I'm doing this."
+    },
+    {
+        "speaker": "A",
+        "text": "Wait, so I'm gonna have to do a show that day on my own, and I need to schedule a show."
+    },
+    {
+        "speaker": "B",
+        "text": "Without me because I will be on a mountainous."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, man. Well, I'm happy to do that. You just fight your fight, okay? You get this done for us."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm doing my part."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, that's great to have some dates for when you're going to destroy that Horcrux. And when we get there, can you do the ether one after that, please?"
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, yeah. So that's in July. Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "All right. What mount is on?"
+    },
+    {
+        "speaker": "B",
+        "text": "Switzerland. Perfect."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, let's talk about ether price on the week. Thank you. To these wonderful charts from Kraken pro that are showing."
+    },
+    {
+        "speaker": "B",
+        "text": "They look even more beautiful. The more green and up they are."
+    },
+    {
+        "speaker": "A",
+        "text": "I like the green lines, especially the ones that are very long and tall. And we got, we got so long tall ones this week. What are we at on Eth price?"
+    },
+    {
+        "speaker": "B",
+        "text": "EtH price starting the week at $2100, up 11% to 23 30. Coming in with a last minute green candle right before we started recording this Thursday morning. And also some burn metrics, if you will entertain me, Ryan, we got some burn metrics to talk about."
+    },
+    {
+        "speaker": "A",
+        "text": "Happy to entertain. The burn metrics."
+    },
+    {
+        "speaker": "B",
+        "text": "Weekly burn of negative 0.77% with a monthly burn of 0.47%. So we are accelerating in our deflation of the ETH supply. If the us dollar inflated by 3% month over month by over the last year, the ETH deflated by 0.47% year over year with accelerating burn because of the gas prices. Activity layer one, activity is up bigly. We are also, Ryan, approaching new ETH lows in ETH supply after two months of inflation. We had inflationary period of September to October in which on chain activity was just basically dead."
+    },
+    {
+        "speaker": "A",
+        "text": "But it's coming back one day that deflation is going to make its way in the price of ether. It feels almost criminal to see some of these other assets flying so high. And ether is just lagging behind, my friend. So ultrasound money is not helping it out right now from a price perspective, but I guess we should be grateful. Does that mean the ratio is flat on the week?"
+    },
+    {
+        "speaker": "B",
+        "text": "Ratio is pretty flat. Yeah, it's pretty flat. Yep."
+    },
+    {
+        "speaker": "A",
+        "text": "A."
+    },
+    {
+        "speaker": "B",
+        "text": ".054 it's flat. And I low is setting. It's at a long term, like, floor threshold of the ETH ratio to bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, let's get the juices flowing. Tell me about some tokens that we're really moving this week. The first is this doesn't do anything for my juices. This is bonk. But you wanted to include it. What in the world is bonk and why did it just go up 170% last week and 1200 percent on the month, hitting a $1 billion valuation? I'm sure this is like a new revolutionary layer one, right? Something very cool."
+    },
+    {
+        "speaker": "B",
+        "text": "Not at all. It is. It is basically the socially enshrined meme coin of Solana. The story of bonk is kind of like a doggy coin. It's basically a doggy coin. The dog coin of the people of Solana. The bonk, how they became the socially enshrined, like, meme coin of Solana is like, whoever minted this thing kind of just did the distribution play. So they just, like, gave Bonk out across the ecosystem. And then everyone was like, oh, we all own bonk. I now love this thing. Sole price is up bigly. Solana is getting this wealth effect from airdrops. We all know that meme coins are just like an inherent feature of life in the crypto World bank. Bonk has just rocketed over the last month, 1200 percent in a month hitting a $1 billion valuation."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, it's definitely a bull market if we've got the dog coins back. David, this is another one. Beam. Tell me about beam."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, beam is in the gamefi sector. I recently did an interview with one of their founders, Marco. The beam is also a product. It's a crypto gaming tech stack that is a product out of merit Circle, which is a dao. A little bit like Ygg Ryan, if you remember that. But that was specifically a gamer's guild. This is more of a dao in the traditional sense, is like they have investments, they build products, they just do a little bit of everything. Beam, which is their gaming tech, stack up almost 300% since last October. It started on an avalanche subnet on the gaming focus. Avalanche subnet. Their price appreciation was triggered by the strategic partnership with Pantera Capital, which is when some of the price started moving pretty bigly. And Pantera, it's just announced that they have a lot of beam tokens. And then the most recent news is that they're actually migrating from avalanche to immutable. They're saying they're keeping all of their pre existing infrastructure on avalanche. They're just now also deploying on immutable to keep it politically balanced. But yeah, so the whole idea is that immutable teamed up with Polygon because immutable was going after gaming, Polygon was going after gaming. And they were like, well, let's just bring these forces together. Immutable. And so Polygon is now the underlying tech stack. Immutable is more of like the gaming infra merit Circle and beam are now also gaming like gaming infra, but kind of at a higher level than immutable. And so all of these three things are just coming together to be more or less what is crypto gaming is now, I would say the immutable ecosystem."
+    },
+    {
+        "speaker": "A",
+        "text": "Gamefi is back on the menu. It sounds like a little narrative brewing with the immutable. And, you know, Vance and Michael from framework. I think we put that episode out this week. They got me bullish, a little bit of gamefi. I think we're making a comeback here. David, tell me about the total crypto market. Cap, what are we at?"
+    },
+    {
+        "speaker": "B",
+        "text": "$1.68 trillion, which is up over $200 billion since last week."
+    },
+    {
+        "speaker": "A",
+        "text": "What?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that was a big move. I mean, bitcoin's just been painting numbers, bro."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And when bitcoin moves, yeah, it adds to the crypto market cap, that's for sure. Well, speaking of bitcoin, David, you know something else that's been moving? I noticed this. This is the crypto fees dot in fo. Look at bitcoin. On the seven day average fee, it is almost ethereum meaningful. It's very meaningful, actually. Look at these. One day fees is basically second place to ethereum. So from a one day perspective, ethereum sold about $15 million in one day of block space. Wow. Go Ethereum. Bitcoin sold 12 million, though, David. It doesn't usually do that. Usually it's not way down on the list. You know, bringing, I remember a few months ago is just bringing in like a few hundred k per day on the, on the daily fees. So what is going on? Who's buying all this? Where's all this bitcoin block space demand coming from?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, so this is coming out of ordinals, out of the BRC 20 tokens, which I think is like the inscription. There's like this BRC 20 inscription, ordinals phenomenon. Bitcoin is just congested because of bitcoin's internal, like, token standard. Uh, also what happened this week, Ryan, is that, uh, the bitcoin mem pool hit its highest level of load ever. Like, basically just like the highest number of awaiting transactions to be confirmed ever. It's the most block space demand that bitcoin has ever seen. Over 280,000 transactions were waiting to be confirmed. The size of transactions waiting to be added to bitcoin reached 1.57gb, which is nuts. Uh, just, it's all ordinals. It's all ordinals. So like we were talking about like, friendtech versus ordinals, like the friend. That ordinals movement just died out and friendtech lasted way longer. And now friend text dead and ordinals are bad."
+    },
+    {
+        "speaker": "A",
+        "text": "What's also weird is, uh, bitcoin is becoming like a token platform. Bitcoin, like, I thought I'd never see it. The bitcoin of 2023 is like people, the community is getting excited about tokens. They're getting excited about nfts. That used to be just a theorem shtick. And now bitcoin is moving over there, whereas on, you know, in the Ethereum world, we're talking about ethos money. It's kind of an interesting flip flop or maybe a convergence there that this bull cycle. But how is near protocol involved in this? You included this in this section?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So near protocol also has a record high of transactions. 13.2 million transactions in 24 hours. With. Near also has a burn with 350,000 near tokens. Burned. Where did all this crazy demand come from? From near inscriptions. And this is also not the only chain that is experiencing the inscription effect."
+    },
+    {
+        "speaker": "A",
+        "text": "Wait, what do you mean, near inscription?"
+    },
+    {
+        "speaker": "B",
+        "text": "So is this phenomenon. They're just a standard?"
+    },
+    {
+        "speaker": "A",
+        "text": "Does this have anything to do with, like, the bitcoin network?"
+    },
+    {
+        "speaker": "B",
+        "text": "Nope. Well, other than the fact it's more about inscriptions, there's no tie formally to the bitcoin network. It's just, like, inscription inscriptions on bitcoin. And then there was eth scriptions, which started on, then after the bitcoin whole thing with. With Ethereum, then Solana got it, and then now near got it. And I would guess. I don't have a link handy, but I would guess avalanche also has it, too. There's just, like, this locus of inscriptions going around."
+    },
+    {
+        "speaker": "A",
+        "text": "What do you mean by all the different people who aren't familiar? Like, I understand why bitcoin needs this, right? It's because they don't have a smart contract, like a virtual machine environment, so they do their BRC twenties as inscriptions. They do nfts as inscriptions. Why in the world would somebody be purchasing inscriptions in a. Like, a virtual machine in something like Nier?"
+    },
+    {
+        "speaker": "B",
+        "text": "I don't know. I've always considered inscriptions to be like, a rudimentary form, like, very blunt, primitive form of an NFT. And they're super inefficient. You can't do very much with them by comparison of an NFT. They just consume a ton of block space, and they're pretty expensive, and for some reason, people. People love them."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, I get why bitcoin's doing it."
+    },
+    {
+        "speaker": "B",
+        "text": "I get why bitcoin is doing it."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm writing this off for other smart contract platforms. Is. Oh, that's a thing I don't understand."
+    },
+    {
+        "speaker": "B",
+        "text": "And before we get into the rest of the news, Ryan, I want to. I want to shout out our friend of the pod, Kyla Scanlon, who just retweeted this tweet from dictionary.com dot. The term vibe session refers to widespread pessimism about the economy, regardless of actual economic situations. Learn more about its term and its origin. Its origin is Kyla Scanlon. She coined this term vibe session to talk about, well, the consumers of the economy feel bad, but the fundamentals of the economy look good."
+    },
+    {
+        "speaker": "A",
+        "text": "And she's saying, that's what we've been in for the past."
+    },
+    {
+        "speaker": "B",
+        "text": "That's what we've been in for the year or so. Yeah. Even pre Silicon Valley banking crisis. And, I mean, she's a prolific content producer. She's absolutely hilarious, some surreal zoomer humor, and she got a word into the dictionary that she invented because of just the content that everyone appreciates. So just big shout out to Kyla Scanlon, and congrats for inventing a word."
+    },
+    {
+        "speaker": "A",
+        "text": "Is that the story? Is that what we've been on in, like, a vibe session? Is she right? I saw this tweet this week, too. The US economy. GDP growth 5.2% percent. Inflation was zero last month. Wage growth remains robust. Strongest recovery in the g seven. This is talking about the US lowest uninsured rate in us history. Medium wealth up 37% down, nearing all time highs. This person is saying, well done all. A lot of metrics look pretty strong in the economy. This recession that people have been talking about has never come. Just in that vibe session, I guess."
+    },
+    {
+        "speaker": "B",
+        "text": "Perhaps I'm always slightly skeptical about metrics reporting truth. There's truth and then there are metrics, and these things aren't always the same. Sometimes consumer sentiment is just as valid of a metric as others. But to the actual truth behind the scenes, I'm not really sure. But vibe session has caught enough of resonance with people that it's added to the dictionary."
+    },
+    {
+        "speaker": "A",
+        "text": "It's interesting because it's political season, so there's lots of political reasons entering 2024 that people would want to be optimistic about the economy and others pessimistic. So it's hard to know, really what, what to believe at this point in time. Actually, David, I saw on Vanex one of their predictions going into 2024. We're going to talk to Vanek about their crypto predictions, but their crypto group is actually predicting recession in the first half of Q 120 24. So it's always going to be perpetually this debate is, are things good? Are things going to get bad soon? We don't really know at this point."
+    },
+    {
+        "speaker": "B",
+        "text": "The whole recession predictors, there's just like that GiF of the truck running into the wall, but before it runs into the wall, it cuts and then it kind of repeats, and then you're waiting for it to crash and just hasn't come yet. It's been at some point. I've been referencing that meme for, like, two years now."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I mean, recessions do come. I mean, everything's cyclical right. We'll have to see. That's a discussion topic for 2024. But on today's episode, what else we're going to cover."
+    },
+    {
+        "speaker": "B",
+        "text": "David, coming up next, we're going to talk about the Jito airdrop that just started trading on Solana is perhaps Solana's uni airdrop moment. We're going to talk about what the valuation is of that. We also got crypto versus the treasury. Oof. And then also Jamie Dimon simping for Elizabeth Warren. Get out your cringe hats and put them on. We're going to get to all of that and more, but first I'm going to talk about some of these fantastic sponsors that make this show possible."
+    },
+    {
+        "speaker": "A",
+        "text": "Big wealth effect coming to Solana starting this week. You called this Solana's uni airdrop moment. This is the Jito airdrop. We mentioned it last week and now it is out and available. David, give us the details on this."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, so total supply of jitto coming in at 1 billion jitto tokens. Jitto is a combination of something like Lido and ethereum plus mev boost. So it is a liquid staking token for Solana. So the jitto soul asset is Solana staked. So you get the yield of Solana just like how you get the yield of Ethereum and staked eth. It also has mev capture baked into it as well. You get the issuance of Solana baked into the sole jitto token and then you also get whatever mev is captured through the Jito client. You smack these things together, you get jito. It is decently one of these applications that also is very, very related to the layer one. In the same way that rocket pool or lido or stakewise are applications of Ethereum that relate to the protocol. To say it's like a big deal in the Solana community is kind of like an understatement. It's closer to like, critical infrastructure. There's other alternatives to Cheetah, but it's kind of like the beloved staking token of Solana. So, okay, 1 billion token supply currently trading. I think if you had Coinbase up a second ago, currently trading at 1.87, $1.87, it got up to like $2.01."
+    },
+    {
+        "speaker": "A",
+        "text": "Got down to what's the valuation on that sucker?"
+    },
+    {
+        "speaker": "B",
+        "text": "Valuations coming in at $1.88 billion. For comparison purposes, Ryan, Lido on Ethereum is about 2.5 billion. So it's not, it's within striking distance of being a lido valuation. We are seeing it discover price right now, it's been trading for like an hour or so. So still in price discovery mode, but things are settling around the. So, yeah, $2 billion just got minted out of thin air to the Solana ecosystem through the Lido airdrop. Excuse me, the Jito airdrop."
+    },
+    {
+        "speaker": "A",
+        "text": "That is an absolutely incredible wealth generation event, I think, for a lot of folks in the Solana community. And Steven Dogetoshi on Twitter puts it this way, the Solana airdrop farming is going to be split into the pre and post judo eras. Expect crazy mercenary liquidity to come into the ecosystem. If GTO trades well, it looks like it is trading well, at least at first. And so this is where maybe the comparison to Uniswap comes in, from a 2022 Ethereum airdrop that was very widely distributed. I think there's very wide 200, 150 to 200,000 eth addresses that were eligible for this, and it created a pretty large wealth effect. And then every airdrop since has been smaller in size, smaller in scope on Ethereum, and kind of like, there's the pre unit Uniswap airdrop era and the post. And I think Dogetoshi is making a similar comparison here with, with Jito and the Solana community."
+    },
+    {
+        "speaker": "B",
+        "text": "So I think if I remember my numbers correctly, 250,000 ish addresses, I think it was actually 240,000. I do remember."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, wow."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Got the uniswap airdrop, and then that dropped at $1,200 at like, trading at $3. And so that was about 300 million ish dollars airdrop from the uni token to the Ethereum community, setting off airdrop season. Airdrops got bigger after this. The Jito airdrop is actually relatively similar. So 1 billion jitto tokens, 10% was airdropped to the Jito ecosystem, mostly Jito soul holders. And so if it was trading at $2 billion and 10%, $200 million got airdropped to the Solana community. So $200 million just put into people's pockets."
+    },
+    {
+        "speaker": "A",
+        "text": "Here's a tweet combined with a bonk pith Cheeto airdrops in the last month, if you did the bare minimum use solana bit, you would have probably netted 20k easily. Feels like Defi summer all over again."
+    },
+    {
+        "speaker": "B",
+        "text": "Sounds familiar."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Massive wealth effect going on."
+    },
+    {
+        "speaker": "B",
+        "text": "And for all you bankless citizens out there who use the airdrop hunter that we have on the bankless website, there's about 112 of you who completed the tasks for capturing the predicted tasks for capturing the Jito airdrop. And I believe every single one of you got the Jito airdrop, that's 112 of you got a minimum of $10,000. I think some of them got to over $20,000 just from doing the things that are listed on the airdrop hunter. So congrats to all the citizens that followed the, that did the homework, did the things, got your on chain skills up, and then did the thing that crypto always does, which is pay you to use it. There is a link in the show notes. If you want to do the airdrop hunter, it is across all ecosystems, including Solana."
+    },
+    {
+        "speaker": "A",
+        "text": "David, that was a little bit of a self show, but."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, that was absolutely a self show."
+    },
+    {
+        "speaker": "A",
+        "text": "It pays for itself. You guys are going to make money. If these airdrops continue in this way."
+    },
+    {
+        "speaker": "B",
+        "text": "By you get one airdrop, it pays for itself. You only need to get one absolutely crazy, positive roi."
+    },
+    {
+        "speaker": "A",
+        "text": "By the way, we know this is going to happen again because it already happened. It is happening now. Anyway, what else we got? David, there's some bad news on Capitol Hill. Tell me about the US treasury official and what kind of nonsense is he speaking right now?"
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so remember, treasury, of all departments out there, we have the CFTC, we have the SEC. Treasury is the real one. Treasury is the final boss because they."
+    },
+    {
+        "speaker": "A",
+        "text": "Do the financial surveillance. This is like Finn's."
+    },
+    {
+        "speaker": "B",
+        "text": "It's the anti Terrorism act. Yeah, it's the national security arm rather than the Gary Gensler, like, if you have the big doge, little doge meme. Gary Gensler is the little doge. And this is the big doge."
+    },
+    {
+        "speaker": "A",
+        "text": "And this Janet Yellen leads this office, right? She's the secretary of treasury right now."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. And so there is a call from Deputy Secretary Wally Adimino. Adeyemo's proposal calls to expand authority, tools and resources to go after illicit actors and the digital asset space. I mean, I'm all a fan of illicit actors not being in crypto, but then they talk about terrorist groups, including Hamas, use new virtual currency methods to move, store, and obfuscate their funding streams, which we've already, as an industry, totally debunked any meaningful amount of activity of this nature. He goes on and says these methods often use evasive cryptocurrency networks and services, including mixers. They're talking about tornado cash here. So the proposal here is really to beef up the Treasury Department's powers under the Bank Secrecy act, allowing for the targeting of crypto entities and services that facilitate funding for tariffs. Of course, the definitions of who is doing these things is always very squishy under this new proposal. A new category of financial institutions under the Bank Secrecy act would include exchanges, virtual asset service providers, virtual asset wallet providers, validators, defi apps. The threshold for becoming a highly regulated entity under this new proposal is very, very low, including the distribution and writing of open source software. This is what I would call an attack on crypto, right, Ryan?"
+    },
+    {
+        "speaker": "A",
+        "text": "100%. This is one of the worst things that I've seen coming out of treasury, maybe ever. They really want to expand their powers and use terrorist financing as an excuse to do that. We know where this is coming from. Tethere might totally be in their sites as well. This is Niraj from Coin center. This is his take on this. The Treasury Department has recommended a massive expansion of warrantless surveillance and power to sanction open source software. This would include expanding the definition of financial institution to include any asset, wallet provider, any blockchain, validator node. Think of an ether scan, DeFi services like Uniswap. Basically what this means is treating all wallets and DeFi service providers as if they were custodial, subjecting them to the same AML KYC financial surveillance apparatus as a custodial wallet. I mean, David, this is one of those things which is like, this kind of kills Defi in the US. Like, it's kind of like an extension extinction event doesn't mean DeFi won't, you know, go outside, but it has to go underground effectively in the US, or it becomes a lot more like tradfi. This is Austin Campbell's take. Do you want to read this out, David?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I won't read the whole thing because it's pretty long, but there's a link in the show notes for people who want to dive down deeper. Austin Campbell. We've had him on the podcast before. Great guy. He says it has some reasonable points, but is also asking for the broadest expansion of powers since the Patriot act, and in a way that makes a mockery of some of the technical details of modern communication, with a side benefit of probably causing major geopolitic conflict due to the overreach. To me, it's a little bit like an Icarus kind of moment for treasury. It's just like not being informed about the technology, being just like a bull in a china shop when it comes to geopolitical relations and enforcing our rules externally upon other countries, regardless of whether they want them or not. It's kind of it, to me, feels like a grasping for power overdem, this thing that they should know they can't really have that."
+    },
+    {
+        "speaker": "A",
+        "text": "It's 100% that but it's also, I think this is coming from this political push that led by Elizabeth Warren and others, to really squash out crypto. Right. And so treasury doesn't have the authority to do this, to expand the bank Secrecy act in the way that they're proposing to, like, do something as invasive as the Patriot act. Like, what authority do they have to do that? The answer is they don't have the authority. So what are they doing? They're going to Congress to go ask for it, to push for it. And that's why it's been so imperative for Elizabeth Warren and the anti crypto army to basically tie crypto with terrorist financing and Hamas. That's why they've been really pushing that narrative, including through mainstream media. You could see it all coming together. And now treasury is saying, yes, we have to do something about that, and we know just what the solution is. Let me go to Congress and tell you guys what you should be doing."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, Congress put 20 signatures on a piece of paper that talked about the calling of reigning in the crypto industry because of terrorist financing, because of this Wall Street Journal article. Was it Wall Street Journal?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yes."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Well, the Wall Street Journal article, like, oh, we have to. We, like, we now have to do something. Even though the foundations for the rationale are completely vapid, like, most people aren't going to look that far."
+    },
+    {
+        "speaker": "A",
+        "text": "They're recruiting others to the anti crypto army as well. Did you see this clip of Jamie Dimon in front of Congress? Let me play this for you."
+    },
+    {
+        "speaker": "C",
+        "text": "I've always been deeply opposed to crypto, bitcoin, et cetera. You pointed out the only true use case for it is criminals, drug traffickers, anti money laundering, tax avoidance. And that is a use case because it is somewhat anonymous, not fully, and because you can move money instantaneously, because it doesn't go through. As you mentioned, all these systems have built up over many years. Know your customers sanctions, Ofac, it's, they can get bypassed, all of that. If I was the government's, I'd close it down."
+    },
+    {
+        "speaker": "A",
+        "text": "If I was the government's, I would close it down. That is Jamie Dimon. He is the CEO, longtime CEO of $3 trillion in asset bank. Okay, this is a bank. There's a banker strike back called JP Morgan. And of course, that question was fielded to him by none other than Elizabeth Warren. Do you see what's happening here, David?"
+    },
+    {
+        "speaker": "B",
+        "text": "And Elizabeth Warren is giving Jamie Dimon the opportunity to bend the knee, and he's just saying, oh, absolutely, I will totally do that. Also, all the services that he says that crypto does to the world, like money laundering and tax evasion and terrorist financing is just what banks do. That's what banks."
+    },
+    {
+        "speaker": "A",
+        "text": "David, he also said that that's the only purpose of crypto. Do you hear his words? It's like, that's the only purpose of crypto. David, do you engage in criminal activity? Are you a crypto user?"
+    },
+    {
+        "speaker": "B",
+        "text": "That would be news to me."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, wow. So, like, there's at least one person here who is using crypto for non."
+    },
+    {
+        "speaker": "B",
+        "text": "Criminal, hopefully, at least."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes, I'll say. I also do not use crypto for criminal activity. I mean, like, it's just unbelievable what a broad strokes brush. But is it that surprising that the world's largest bank CEO doesn't like a system to help people go bankless? I mean, is it that surprising?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, well, I mean, same thing with a political establishment. Yeah. And this is, this is what sectors like this have to do. They have to bend the knee because being aligned with the monopoly over violence ultimately is the final game. Sad."
+    },
+    {
+        "speaker": "A",
+        "text": "It's, it's, it is sad. It's sad for the american people. I also wonder here, David, do you know JP Morgane has a project, a crypto project called Onyx? Onyx, yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. They've been in collaboration with consensus for like years now. They had their own private, stable coin, too."
+    },
+    {
+        "speaker": "A",
+        "text": "It's like an Ethereum chain. Like, I've actually met people who work for Onyx and they're smart, great people. Yeah, some of them are. It's just a complete private chain. So I don't know what he's saying about this."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, there's this chance that, like, Jamie Dimon is like, oh, I have to go into Congress and chant. The chant that lives with one wants me to chant. And in the back I'm just gonna go build on crypto because it's the future."
+    },
+    {
+        "speaker": "A",
+        "text": "He's playing both sides. Right. So right now it's politically expedient to do this thing and make this unholy alliance anyway. You can see all the pieces coming together and this is, this is our challenge going into 2024. But I got to tell you, David, crypto markets don't care. It seems like that on the way. Neither do the builders. We got a lot of builder topics to cover in the next section. What are we going to talk about?"
+    },
+    {
+        "speaker": "B",
+        "text": "We got some LST updates to bring to you. Stakewise. Getting an upgrade. The mantle layer two joining the liquid staking token game. We have a layer two playing it in the LST arena. And then with all of these LST updates. Eigen layer is opening its doors to more liquid staking tokens and ether to play in its first AV's that's going online. Eigen Da we're going to talk about that and we just have a mountain of incremental UX improvements coming to the Ethereum ecosystem. Coinbase wallet enabling free USDC transfers on a variety of different networks. We got cross train marketplaces. We're going to talk about all of this and more, but first, a moment to talk about some of these fantastic sponsors that make this show possible."
+    },
+    {
+        "speaker": "A",
+        "text": "David some new crypto UX improvements that have made me bullish on the week. It feels like crypto actually might be starting to solve some of its user experience pain. We're going to talk about a few things, but the first is Coinbase wallet. They say the ability to send money anywhere you can send a link. What have they just rolled out?"
+    },
+    {
+        "speaker": "B",
+        "text": "David so this is peer to peer payments via link, where inside of your Coinbase wallet you can make a link that has a USDC payment embedded in it, kind of like a link as a bill. Send that link to somebody, however you want to do that, any sort of messenger. And then once they click that link, they will be taken to their Coinbase wallet or they'll download the Coinbase wallet and then that link will be able to dispense to them USDC on any chain on which this payment system is working, which is arbitrum base, optimism, polygon and avalanche. And so free USDC transfers zero fees for payments inside of a link. And so I can just mint a link and send it to anyone. I think one of the themes that we're seeing this week is that UX is not just being improved, it's just being totally obfuscated as much as possible."
+    },
+    {
+        "speaker": "A",
+        "text": "Also, in UX improvements this week, you know, the safe multisig that basically everyone in crypto and ethereum kind of uses. Well, now you can sign up using your email address. So removing the wallet wall from the experience, which is kind of difficult, just sign up using your Gmail account. Also, Zora has something similar for onboarding new users. Today we're making it even easier to get started on Zora. All you need is an email in your imagination, no wallet or crypto required. That's really the theme, this abstraction from setting up seed phrases and private keys and all of this difficulty and just getting started in a much easier way. Rather than going through the nine step process that it used to take back in our day when we started in."
+    },
+    {
+        "speaker": "B",
+        "text": "Crypto, the same thing that's powering the Zora innovation is also the same way that everyone on Friendtech got their wallets. That's with a privy backend. Privy is like a wallet management service. And so this is just a matter of just like we don't, it's not about making seed phrases and private keys easier to manage, it's just about deleting them and just having them be automatically managed in the backend in safe and secure ways. And so the whole chains are becoming invisible. Thing is just only getting better and better and better. Including this also this recent update from Matcha and also socket. So matcha is a Dex aggregator. It's now hooking into sockets to become a cross chain aggregator, Dex aggregator. So you can swap tokens across chains, access cross chain liquidity. And so it's one of these many incremental ways in which all of Ethereum's layer two s are just slowly weaving together in 10,000 different ways."
+    },
+    {
+        "speaker": "A",
+        "text": "That's so good because chain fragmentation, like liquidity across all of these chains is difficult. And now I guess we're starting to bridge all of that. David, there's also some cool things going on in the liquid staking world and I think this bull cycle, there'll be lots of opportunities to earn yield on top of your ether. But what is stakewise doing here?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, so stakewise V three is this pretty hotly anticipated upgrade to stakewise, and it's making the stakewise staking system more modular. So you can have different pods if you will, like daos, subdaos orgs come together and become a module in the stakewise system so they can govern their own independent structure. So it kind of pushes complexity to the margins and allows people to onboard themselves into stakewise v three as a part of this larger staking system. So each individual vault, they call it a vault, can manage their fees, custom mevs strategies, DVT, insurance, et cetera. Also there is a restaking system through Eigen layer. We're about to talk about that in a second. And so one of the modules is that you can become an eigen layered restaking network. And of course it's also fully permissionless as well. This is very similar to the lido structure as well. If you guys all remember the episode that we did with Hasoo, Mantle also is entering the liquid restaking protocol. Mantle is an ethereum layer too. It also has one of the largest ETH treasuries in the world, like billions of dollars of ETH. And they have made meth, meth meth. And so it has its own native staking token for its own native layer too. And so they're like, why are we going to use Lido when we have so much eth? We're just going to make our own. And they have enough ETH to do that. And so Jordy Alexander has a comment here from Coindesk. Mantles treasury has been successful in its own right. We want to be like the third largest eventually, after Lido and rocket pool. So big fan of the diversity. Also interesting that a layer two has its own LST token. You can only imagine the building blocks that they are able to produce with that."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, like we were saying, I do think this is a big story of ether being exported to other chains and other locations and new yield opportunities for ether, which brings us, I think, to Eigen layer. So they're doing some cool things these days. And I think I this is going to carry forth into 2024. Every time Eigen layer seems to open the valve and let some more eth into the system, it almost instantly gets filled up. Is that what's going on this week?"
+    },
+    {
+        "speaker": "B",
+        "text": "Two things out of Eigen layer. This week they're launching their Eigen layer partner program, which is basically just a category of layer twos that are using Eigen layers Eigen Da network. Their first Eigen layer restaking network for data availability. So much lower fees, much more stable fees just to have higher scalability for all these layer twos that are using them. One of them is mantle that we were just talking about. Layer N cello, Caldera movement polymer. There's a bunch of layer twos that are all using Eigen data availability for their data availability. And this is going to be one of the ways in which these layer twos are adding yield to the native stake rate of restaked ether. And so this is the second part of the Eigen layer announcement this week. They are increasing the rest, taking caps as well. So previously, vanilla ether, Lido staked ether, rocket pool staked ether was able to all become Eigen layer restaked ether. They're adding more lsts as well. Stakewise swell origin stater, Binance and anchor are now all liquid staking tokens that are becoming liquid restaking tokens. I know it sounds very complicated, but basically it's just like you get the eth stake rate because you're staked, and then you also get the Eigen layer. AV's active validated services, the yield coming from Eigen networks as well. So this is happening on December 18, that is in ten days from now. And so if you were not able to get your ether into the eigen layer system, they are increasing the caps and increasing the diversity of liquid staking tokens coming into the protocol. So individual lsts will now have the deposit cap at 200,000 ether. That is up from 100,000. And then at 500,000 eth, cumulatively restaked liquid staking token deposits will be paused globally. But vanilla ether always remains uncapped. But why, why would you deposit vanilla ether when you can deposit, you know, staking ether?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, yeah, I guess I like my."
+    },
+    {
+        "speaker": "B",
+        "text": "Yields on yields on yields, sir."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah, yeah. You want to stake your stake, right? And stake it as many times as you can to juice those yields. I guess there's obviously some risk that goes with the territory and all of these things, but I think this is."
+    },
+    {
+        "speaker": "B",
+        "text": "I say we're pretty early on the euthanasia roller coaster. Yeah, we're still on the second loop. The liquid staking tokens is the first loop. The second is data availability. We'll eventually get pretty degen, but we've got, we've got a lot of."
+    },
+    {
+        "speaker": "A",
+        "text": "I think this will be a big story in 2024. This will be a big narrative in 2024, which is like all of the other services that ethers monetary value can actually enable and secure. Right, and one of them is data availability. So it's very interesting that if a layer two is looking for some cheap data availability, of course, proto Dank sharding is coming up 4844. That'll be native to Ethereum. Then there's all of these other providers that are spinning up, but one of them is Eigen layer DA, and that is also secured by ether, the asset, but in a slightly different way. That's going to be really cool to see all of the yield opportunities for ETH in this coming bull run."
+    },
+    {
+        "speaker": "B",
+        "text": "One particular av's I'm kind of excited about is the near one. That's what we did. We did that Twitter space with Ilya not too long ago, and he talked about NIr's data availability layer, which also leverages Eigen layer's fast finality settlement system. So right before you can get final settlement on the Ethereum layer one from your layer two, you can get Eigen layer settlement assurances using nears like superfast sharded smart contract transactions. So you combine Eigen layer near and all the Ethereum layer twos that are trying to find composability with each other, and you can get settlement assurances, which is basically the silver bullet for getting recomposability of ethereum layer twos, and that's also an Eigen layer restaking network. And so the cool thing about eigen layers, networks is that they're not chains, but they are networks, and they are networks that demand fees."
+    },
+    {
+        "speaker": "A",
+        "text": "I saw a question from a bankless citizen. What kind of services can we build on top of this? Could we build."
+    },
+    {
+        "speaker": "B",
+        "text": "What kind of services can't you build on it?"
+    },
+    {
+        "speaker": "A",
+        "text": "Right. Could we build, like, a chain link type competitor? And, like, you could, you could totally succeed. It's going to be a pretty burgeoning ecosystem of new innovation there. I'm super excited about it. David. Last thing, we got to go check on the bad boys of crypto do Kwan. He's being extradited from Montenegro, where he was held in captivity, I believe, for where's. So where is he being extradited to?"
+    },
+    {
+        "speaker": "B",
+        "text": "Speaker one, there has been a big tug of war between South Korea, where, uh, do Kwan was building Terra to, versus the United States, where do Kwan went to school."
+    },
+    {
+        "speaker": "A",
+        "text": "And I think it's Berkeley something, if I remember correct."
+    },
+    {
+        "speaker": "B",
+        "text": "Stanford. Stanford, was it? I think it was Stanford, yeah. So, quote, Montenegro's top justice official has previously said he plans to send disgraced crypto tycoon do Kwon to the United States rather than South Korea to face criminal charges. People familiar with the matter said, ryan, remember when I was in Montenegro earlier this year? Right, as do Kwan."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I do. There's some horror crux joke there, but I won't make it."
+    },
+    {
+        "speaker": "B",
+        "text": "I was talking with one of the montenegrin semi officials, if you will, and he showed me the picture of do Kwan's fake passport that he was using."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, wow."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. So the story was Doquan was in Serbia. He fled to Serbia to hide."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. I remember that."
+    },
+    {
+        "speaker": "B",
+        "text": "And then we knew that. And so Serbia. I was apparently looking for him. He hopped the border into Montenegro. Like, across the border. There's no real border. You just climb through mountains, I guess."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "And then he is in the Podrasilla airport trying to fly to Costa Rica, I think, and he has a. He has a. There's a korean man with a costa rican passport in Montenegro out of as he legally crossed the border from Serbia. It was one of the most surreal things I had ever seen, man."
+    },
+    {
+        "speaker": "A",
+        "text": "What is the story? How does the US end up with everybody? Do they just say, no, sorry, South Korea. We want him. What gives them kind of authority? I guess the financial army. Yeah, I guess it looms large across all sorts of jurisdictions. And so if the US wants do Kwon they get him."
+    },
+    {
+        "speaker": "B",
+        "text": "That works. Do Kwon is a south korean citizen, but he harmed United States citizens. And we have the bigger army. So we get him here."
+    },
+    {
+        "speaker": "A",
+        "text": "Do Kwan here. SBF here. Right. What about Alex Mashinsky? What's he up to?"
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, he's in jail, bro. He's awaiting trial."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. I haven't kept up with all the bad boys of crypto, but maybe next week. It's time for that. David, we got a meme of the week. I think this is quite fitting on the week, as we were talking about all of the exciting tokens that we're pumping. What are we looking at?"
+    },
+    {
+        "speaker": "B",
+        "text": "We have the classic distracted dude meme, and he's got his girlfriend fundamentals that he's holding hands with, but he's looking back at this other girl who. And that girl is narratives. And that, Ryan, is what a bull market is."
+    },
+    {
+        "speaker": "A",
+        "text": "Yep. It's that part of the cycle, for sure. Disclosures, guys. On the week, both David and I are advisors for Eigen layer. We're also angel investors in immutable and socket. As a reminder, we are long term investors. We're not journalists. We don't do paid content. There's always a link to our disclosures@bankless.com. disclosures. And you got to know, none of this has been financial advice. You could lose what you put in the. We are headed west. This is the frontier. It's not for everyone. But we're glad you're with us on the bankless journey. Thanks a lot."
+    },
+    {
+        "speaker": "D",
+        "text": "I don't know if you all saw, but Sam Bankman Freed was found guilty on all charges. If you don't know who Sam Bankman freed is, he's the dude who looked like somebody microwaved Shia Labeouf. He was behind a multi billion dollar crypto scandal, and, you know, took a lot of people's money. God had a lot of powerful friends, so he could take a lot of people's money. He was found guilty, and, you know, he made. He made a serious mistake. He stole money from rich people. When you think about it, it's really all he did wrong. If you steal from the poor, you're gonna be pretty good off, like, I don't know, this dude gonna go away for a long time, which is crazy. Cause I don't really understand what he."
+    },
+    {
+        "speaker": "A",
+        "text": "Did."
+    },
+    {
+        "speaker": "D",
+        "text": "But I'm glad he didn't do it to me. I'm like, you ever? Cause I never got into crypto. Cause I didn't understand it, so. You ever just be so dumb? You miss a whole tragedy, you lose because I saw the whole thing coming. I was having FoMO and everything, and then everybody started losing their money. I was like, maybe it pays to not read sometimes. Maybe it's. Maybe it's to my benefit that I have stayed as ignorant as possible on various specific subjects in life."
+    }
+]

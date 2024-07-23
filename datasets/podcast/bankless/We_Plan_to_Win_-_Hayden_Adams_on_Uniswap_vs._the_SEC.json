@@ -1,0 +1,250 @@
+[
+    {
+        "speaker": "A",
+        "text": "The big question in our minds, in everyone's mind, is, are you going to win? The SEC is dropping a lawsuit on Uniswap. This is absolutely monumental. A massive escalation when it comes to the prosecution of crypto, and more specifically this time, Defi. We have Hayden Adams, the founder of Uniswap, on the podcast today."
+    },
+    {
+        "speaker": "B",
+        "text": "Two different reactions. One could be, I'm scared. They're coming for the most beloved, most enjoyed Defi protocol with a United States founder with offices in the United States. Oh, no. What are we doing? Where is future Defi going? An alternative reaction is they are coming for our best example. They are coming for our best people with our most. With the most amount of support. I personally, in the latter camp, where I think Hayden Adams is going to take the SEC to the absolute ringer. And because they represent Uniswap labs and Uniswap, the protocol represents the purest form of defi. And so, at the very least, once this probably long court case wraps up, Uniswap will be claimed the Victor, I hope, and we will have actually have some strong precedent about some of the things that makes defi tick."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, let's go. It's fight time. And Hayden Adams seems ready to fight. He's going to be right on. But before we get to the conversation, we want to thank the sponsors that made this episode possible, including bankless nation."
+    },
+    {
+        "speaker": "B",
+        "text": "The SEC versus crypto round, like, 74, but this time, a little bit different. This time versus Uniswap labs. Hayden, Uniswap recently got a wells notice from the SEC. Can you shed a little bit more light as to the nature of that wells notice? What is the SEC concerned about? What are they coming to talk to you guys about? Why are they delivering you guys a wells notice?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So, you know, this gets at, like, the heart of everything that we do. You know, normally it's up to Congress to set the rules, and then it's up to the SEC to enforce those rules. But we're in this kind of strange regulation by enforcement era where Congress has not set clear rules. And in that absence, the SEC is essentially taking very aggressive stances and basically trying to shut down crypto and going after all sorts of projects and uniswap labs and Uniswap. The protocol is the largest protocol in Defi. And I think they ultimately think that it shouldn't exist, that DeFi shouldn't exist. And so they're bringing a case against one of the best actors in the space. And I think we've seen that as a pattern. They didn't really go after FTX until it was way too late, but they went after Coinbase. Now they're going after us. We think that we're on the right side of history. We think that everything that we start up. One of our first hires was our chief legal officer, employee number six or seven, which is unprecedented in startup world. And we've been very careful to comply with the law since the very beginning in the absence of very clear laws. And so this is sort of like the next step in this regulation by enforcement journey. But we think that we have a really good case. We think we're going to win."
+    },
+    {
+        "speaker": "B",
+        "text": "Were there any communications between Uniswap Labs and the SEC prior to the Wells notice, or was the wells notice the first instance of any sort of communication between the company and the SEC?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So they've been going. I think that you probably saw there was a Wall Street Journal article back in 2021. I think maybe it was. So there's been years of collecting information, et cetera, but at the same time, they sort of investigate everyone in crypto. It's been reported, they're investigating the ethereum foundation. It's been reported almost everyone in crypto has been investigated by the SEC. So it doesn't really mean a lot, but I think that the difference here is that we've now received a wells notice, which means that they're intending to bring a case. By the way, you did ask earlier, and I wasn't trying to avoid, when you asked what the case is about. What the case is about, essentially, is three big things. And there's going to be, I'm sure there'll be a lot more details public, especially once, or if slash, when they actually bring a case. The wells notice is just a first step to getting there, but it essentially gets at three core issues. The first one is whether or not our interfaces, both the wallet and the web app, are a broker. And this is the thing that they just lost in court on, like, two weeks ago with Coinbase. Right? With Coinbase where. And they didn't just, like, lose in court. It didn't go to trial, and they lost in court. It lost at the earliest possible stage that you can lose at the."
+    },
+    {
+        "speaker": "A",
+        "text": "A judge threw it out, basically. It wasn't even worth."
+    },
+    {
+        "speaker": "B",
+        "text": "The whole thing was invalid."
+    },
+    {
+        "speaker": "C",
+        "text": "Right. It wasn't even worth, like, discussing in court. It was so clearly not a broker."
+    },
+    {
+        "speaker": "A",
+        "text": "It got yo, don't waste our time type of message."
+    },
+    {
+        "speaker": "C",
+        "text": "It was like, it's not worth discovery, it's not worth arguments. It's just like this thing is clearly not a broker. And our wallet is very similar to their Coinbase wallet, almost like we have like a, probably fewer features, but. And then our interface is again, very similar, at least in terms of how it comes to trading and interacting with tokens."
+    },
+    {
+        "speaker": "B",
+        "text": "The interface, meaning the uniswap front end, like Uniswap app, the website is the interface is what you're talking about."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, exactly. And then it's going to get at whether or not. So we think very obvious win there. I mean, we think obvious win every step of the way, but that's sort of one of them. And then next kind of big bucket would be, is uni a security? And there's a pretty strict definition of what is a security. You have to meet all the prongs of the Howey test. And we're pretty, we're very confident that it is not. So there's no contract between labs in the community of hundreds of thousands of people. The tokens were airdropped to the community for free. There's no investment of money. I think that you can go through all of it. But the point here is it's not surprising that they're bringing this case, despite how obvious it is us, that it's not, because they also think EtH is a security and they're going after ETH or rethink, at least that was sort of, there was some news around that in the past few weeks, I'm pretty sure you guys covered. And so if they think they basically want to dramatically expand the definition of what is a security to encompass all digital assets, or that's at least my impression. And a very kind of salient example here is that when you, I don't know if you saw that there was a. I'm sure you did, but there was a court hearing where a congressman asked, are Pokemon card securities Richie toys."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, yeah, Richie Toys."
+    },
+    {
+        "speaker": "C",
+        "text": "And the answer was no. But then it was like, well, if you put a Pokemon card on a blockchain, is it a security? And it's like, well, maybe. I don't know."
+    },
+    {
+        "speaker": "A",
+        "text": "So it's like facts and circumstances."
+    },
+    {
+        "speaker": "C",
+        "text": "It's just a file format. It's like, you know, if it's like, it's so obvious that the difference between whether or not something's a security is not whether or not it lives on a blockchain. The vast majority of tokens are very clearly not securities, commodities, eth, bitcoins, stablecoins, meme, coins, whatever it is, it's very clear. So we also think very, very good case there final one gets at really the heart of Defi and open source code. It's basically, is the Uniswap protocol, a unregistered securities exchange."
+    },
+    {
+        "speaker": "A",
+        "text": "Wait, wait, wait, wait. You think that they are going after that as well? The actual smart contract code on chain that is basically you guys don't have any access keys to?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think it's not, there's no, I mean, I think it's more like, is Uniswap labs operating in unregistered securities exchange because this protocol exists, are we somehow like manufacturing because they publish code? Yeah, they help. Yeah, exactly. So it gets at the heart of like, you know, publishing. Is publishing code operating in exchange? We don't think so. So it's really going to go. And this is where, when I talk about like, this probably ends in the Supreme Court or whatever, it gets at these like, very fundamental things. And we think that when you deploy open source code to a decentralized blockchain that is not operating or managing an exchange, it's very obvious to me, I'm not a lawyer, but I have a rudimentary understanding of the technology, which is something that maybe they don't. I will add onto this one that I think that they know this as well, probably because there was this exchange rulemaking. Not sure if you guys follow that, but basically earlier this year, or I guess last year, they tried to redefine what an exchange was, to be dramatically broader, to the point where it captures all sorts of things, all sorts of various systems for transmitting information. It's just very broad, redefined definition that is going to have to go through. And I assume if they eventually tried to go through with that would also be challenged in court. But the fact that they kind of had to try to, they sort of, in parallel to trying to bring a case and claim it already is one, they're also trying to redefine what an exchange means because I think they ultimately know that it's not, but they're bringing the case anyway. And that's, again, just my impression."
+    },
+    {
+        "speaker": "B",
+        "text": "Do you want this to go to the Supreme Court just because like, hey, let's just settle this?"
+    },
+    {
+        "speaker": "C",
+        "text": "I would, I mean, it depends on what you mean by want. What I want is I think that the technology that we build is good for the world. We think it's empowering. We think it creates fairer, more transparent systems, more secure systems, and we want our, and we think that our technology should be used and widely adopted. And if that means we have to take this to the Supreme Court, we will, we would rather not have to. And that, you know, we would rather more clear laws be put in place that make it clear that this technology is legal. And again, we think that laws are already clear there, but we would rather that to be made more explicit versus having to take to the Supreme Court. But if I have to wear unisocks to the Supreme Court in three years as the culmination of all this, that's where we're going to end up."
+    },
+    {
+        "speaker": "A",
+        "text": "Please do. I mean, three years, what a whole bunch of wasted time, though, I would say."
+    },
+    {
+        "speaker": "C",
+        "text": "And it's going to be like tens of millions of dollars. It's going to be crazy, and it's going to be thousands of hours of time. So it is really disappointing and frustrating. I will say that the community's sort of support and reaction on Twitter and more broadly was really motivating because it is a really long battle. And today is like, you know, we're kind of, you know, we're sort of, like, motivated. Like, we stand by what we do and we're excited to defend ourselves. And I think to some degree, like this sort of like, potential looming threat versus just like, we know what we're up against. And being able to talk about it and face it head on is really nice and sort of like a good moment for us. But at the same time, it's like, also really, you know, frustrating. And if we were a smaller, like a lot of, for a lot of startups, this would just, like, completely shut them down and they wouldn't be able to operate. And so this chilling effect on other people. So that's part of why we want to really be vocal and public and defend ourselves."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, can you talk about this? Because it wasn't long ago when you were that kind of the bright eyed startup founder in Defi. It really wasn't that long ago. And I remember having discussions with you in the early days of that, and I'm wondering what you think this does to us based entrepreneurs, crypto entrepreneurs, Defi entrepreneurs, people who were exactly in your shoes five or six years ago."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So, look, I love living in New York. It's my home, and I love the country that we live in. And at the same time, I would never recommend at this point anyone who's starting a crypto project to base their operations here. I will say that there's sort of a broader thing, which is even if it's not just are you based there, it's like, do you have any us users? There is sort of this broader nexus. They can still go if you have us users, they still can claim and go after you. I'd say that there's definitely, it seems like there's this desire by the SEC to just shut it down and be like, we don't want this thing to exist. Whereas it's very obvious to me that this technology is here to stay. It's kind of almost imagined in the earliest days of the Internet. And you don't even have to imagine it's actually what happened in the very earliest days of the Internet. There were efforts to be like, oh, people can just buy and sell things on the Internet. That's horrible, that should be illegal. So there were efforts to stop e commerce and imagine what would have happened. And then what ultimately happened is almost like a safe harbour esque thing was put in place because this was under Bill Clinton era, which was basically like, well for this technology, this technology is clearly so powerful, we don't want it to all go abroad. We want it to be built in the US. And what did that allow? It allowed all the tech companies to be built in the United States. And so you have the Googles and the Apples and the Microsofts in part because the Internet was recognized as an important enough technology to give it some space to grow. While the things that came around it were really complex. What we're seeing, unfortunately with crypto, which is very obviously like the next evolution, where the Internet democratized information and made information more programmable and accessible. And what we're doing with blockchains is make value and ownership more kind of universal and standardized and accessible. But what we're seeing this time around is essentially a few rogue government agencies or like a rogue government agency and a few kind of like even like not, I don't even know if it's the majority, but like politicians essentially for political reasons, like trying to shut it down and not recognizing like its importance to the future of this country. And so it's really not good for the country. I think that like ultimately, you know, like the Internet, it's inevitable and it's just being made more painful and what you'll end up happening is a lot of the innovation will start happening abroad and then like the taxes are going to other countries and whatever, all that. And so it's not good for America in my opinion. But it is."
+    },
+    {
+        "speaker": "A",
+        "text": "I completely agree. I'm just curious, your take on why they're doing it then is it we just have different leadership at the helm. Right. So my parallel is you look at the nineties Internet, it was birthed in the US and mostly all we needed from legislators and lawmakers is just to kind of get out of the way of the entrepreneurs in the US. I mean, it's helpful to get some regulation, but can you imagine if the FTC, for example, regulates communications in the US? If they went to Google and brought them to court in circa 1999, imagine how bad that would be for american Internet entrepreneurs. And it seems to be the approach that the US is taking to the Internet of value. I'm just curious, why is it because the US has too much vested interest in their financial system, they didn't have for a communications protocol? Why is this happening in crypto?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think that sometimes in crypto we tend to try to reduce everything and, well, it's all this one massive coordinated thing. Whereas I think that what is really happening is you have a combination of factors. So you have, I'd say, a kind of slightly rogue government agency with political, that is sort of more dictated. Their strategy is more dictated by creating headlines, bringing cases against Kim Kardashian or whatever, versus going after real bad actors that are harming people, or not saying, not wading into that specific thing. But I'm just saying that there's a political motivation, from what I can tell for the SEC, and then I'd say within, within Congress and whatever, there's like varied levels of support and interest. I think a lot of it is like some degree. It's almost like. Some of it is almost like disinterest or deference or just like, okay, we'll let them deal with it. And like, then some of it is, you know, probably more politically motivated. And then some of it is probably like, you know, misunderstanding or ignorance around the technology. There is certainly some support. I think some of it is sort of like. I think the one thing that I hope for our industry in this moment is that we can do a little bit of a better job telling our story. I think what we've seen historically is that a lot of other people have sort of been able to portray crypto in a certain type of way. Probably one of the biggest moments in shifting of crypto narrative was actually when meta, at that time, Facebook announced Libra and was going to do their stablecoin to compete with the us dollar. And I think that was like a moment where suddenly, for an entire contingent of the political spectrum, it almost associated crypto with big tech. Whereas what we actually are is more of a grassroots, kind of bottoms up movement, which is often more in line. And so I think that there's these. A lot of politics is just like knee jerk tribalism and reactions and, oh, my side thinks this one thing about this one thing. So I think this thing, too, like, what we really need to do is better tell our story about how we help people. And I think that, like, one really interesting thing that came out of that I've seen in the past two days, and I tweeted about this yesterday, was that shockingly, to some degree, but not entirely shocking. Like, the media reporting around this case, the mainstream media reporting was actually some of the best we've ever had. Like, a few years ago, it would have been like, yo, like, crypto project, which is primarily used for illegal money laundering and whatever, now sued for, obviously, versus this time around, you have, the fortune piece was really good. You also have things like the Wall Street Journal explaining that this is an automated system that runs on a blockchain where you have a much higher quality. Some of the reporting around it has actually given us a more fair representation. It's not perfect, but it's like, I think people are starting, more and more people are starting to recognize that there is a more important story here, that there's a more important technology here. And so I think the past sometimes is this very adversarial stance crypto takes against the world, which can make sense in certain contexts. But I think at the same time, part of it is we actually have to still build bridges and, like, explain, like, when you build something that is, like, good for the world, like, if we believe what we're doing is good, we believe it's empowering. And so when you do that, it's like, part of it is just about how can we explain things to people in a way that they understand, in a way that they recognize the value of. And the more we do that, the more support we have. And so, like, in the, and I think that, like, that. So there is, like a, there is some reality to, like the, quote, of public opinion and, like, just like the public sentiment around crypto, voter sentiment around crypto, it doesn't necessarily, there's still going to be an ongoing court case that will play out. And what will matter most, there is the law. And we think we're right there as well. And on the right side. We think we're on the right side of the law. But when it comes to the world's adoption of crypto and sort of the understanding by policymakers and et cetera, the more voters care about it, the more, the more clear the benefits are to people which we know, you know and understand. But I think haven't always made the best case to the world about."
+    },
+    {
+        "speaker": "A",
+        "text": "Can I just read the fortune title that you tweeted out, Hayden? It's the SEC wants to sink one of finance's most innovative technologies. That's from Fortune. That's a great headline."
+    },
+    {
+        "speaker": "B",
+        "text": "I do want to zoom out, though, and because while the education has gotten better and as evidenced by this fortune article, this brand Uniswap and this court case with the SEC is going to become one of the bigger court cases that will be in the halls of crypto history. And yet there's still plenty of work to do about public understanding about what is exactly going on in the crypto world. So maybe it's going to be, I'm sure, Hayden, some web, two tradfi reporters, journalists listening to this just to get their grasp as to what's going on here, who actually still might not be familiar with the nuances of a decentralized exchange on a crypto protocol versus a centralized exchange like Coinbase. And so the SEC is suing uniswap labs, the LLC inside of United States. There is also this Uniswap protocol on Ethereum as a decentralized exchange. And this is like the nuance that we have been trying to educate about for the outside world for like years and years and years now. So maybe just starting and zooming all the way out and starting from base principles, what should people know about the differences of this structure and the Uniswap labs relationship with the Uniswap protocol and how it's similar and also very different from actual centralized exchanges like the Nasdaq or Coinbase?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So I think that a lot of the current world of tech and finance and whatever relies on trust, users need to trust the institutions that they're interacting with. Right. If you're interacting with a bank, you really need to trust the bank if you're interacting with whatever platform, because the platforms themselves tend to have full control over the assets underlying them and over the logic of the systems that they're building. And the transparency for those systems comes through the form of things like audits, quarterly audits every three months, or public disclosures in the form of. And these are real systems that do help create better transparency within a world of centralization. Part of what is, and I think that part of what blockchains and crypto enables is things that it kind of goes from, like, Google had this model of, like, don't be evil, and I. I think crypto could take on this model of can't be evil because we can build systems that don't rely on the goodwill of centralized entities for people to know what's going to happen with their money or whatever it is, their assets. Instead, we can build systems where anyone with access to the Internet can verify the integrity, can verify the underlying accounting, can choose where their funds are custodied. So, right, like when you interact with a centralized exchange, you also have to custody your funds. With that centralized exchange, there's sort of this like all in package. And so if the. And you're sort of trusting that system, but here you can kind of like separate out and break out the system into components. And people can choose to self custody, they can choose to custody with someone, whatever entity they trust, while still being able to trade with other people. As an example, I think that part of what this all gets at is this Internet analogy I gave before, which is much of what the Internet did, is create a standard set of essentially what are called protocols to standardize how you transmit and interact with information. This is part of what makes the Internet empowering. So an example of this is that you have this protocol called SMTP, which is the protocol that underlies email. And so the reason that Gmail can speak to, I can barely think of another email client, hotmail, which used to exist. Gmail is pretty popular, but the reason that different email, or protonmail, that's a good one. So the reason that different email clients can speak to each other is because they're using standard underlying infrastructure that is sort of inherently neutral, and that's what allows anyone to create a competing email client, but they all work together. The world of ownership of assets and finance is very different from this every single. And by the way, that system creates very good competition. If you had to own, if you had to recreate SMTP to create an email client, then it would be much, much harder to compete with Gmail or to compete with whatever the early email clients were that ultimately lost to Gmail. And then when you have in the world of asset ownership of assets and finance, it's so different from the Internet, by the way, it also has email, but it's also this HTTPs, which is why all websites work in all browsers. When you get to the world of finance and ownership, it's so different from the Internet. It's so siloed, the technology is so old and broken, and it doesn't fit together. There's all these different regulations, rules put in place to try to create some sense of safety within a system that is extremely opaque, extremely outdated, extremely non standardized, every different asset class has a completely different set of rules, a completely different set of infrastructure. And in crypto, we have this standardized protocols for how you transmit and interact with value. That's the basis of the technology. What you can do when you have that is you can create better, fairer systems on top of it. Examples are for the Uniswap protocol. It dramatically lowers the barrier of entry to creating a marketplace, to creating liquidity, to trading. It's sort of like that sort of gets at what is the difference between the world of movies getting launched in theaters one by one? How hard was it to create a movie versus how hard is it to create a YouTube video? And what has that enabled? It's enabled way more people to create content and monetize it, access it. And so it's the same thing. The world of finance has very bad competition. It doesn't have good competitive dynamics. It doesn't have good technology. There's very high barriers to entry. And so what we're trying to do with decentralized finance is to fix that problem and to dramatically improve it. In addition, create radical transparency by blockchains. You have all of the code, all the transaction histories are in real time, publicly available. We think it's really powerful. We think it's really good for the world. And so that's why we stand by it."
+    },
+    {
+        "speaker": "B",
+        "text": "And to really drive this point home, what's Uniswap's lab's relationship with the Uniswap protocol and all the people trading on it and all the assets inside of it, on top of the Ethereum blockchain?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, something that. I'll answer that. But something to analogize here is, if you remember years back, or even last year, for example, Reddit closed off some of their API, and a lot of projects built on top of Reddit had to shut down or they made their API more expensive. And a few years back, Twitter closed their API or changed their API, and a lot of projects that were building on top of Twitter, very hard for me to say the word X. Unispuff. X is the best x. But derailing myself, the Twitter API closed off, and all these projects that were building on top of the Twitter API were essentially what we would say in crypto were rugged. They could no longer operate. The cool thing about the Uniswap protocol is that there's nothing that I can do to the protocol that you, David, cannot. It's simply open source code published to a blockchain that is running autonomously. So the only way to shut it down would be to shut down every blockchain node the only way. It's not something that I'm operating. It's not something that I'm running. It's just a piece of software that runs automatically and then different people can interact with it in different ways. We have our interface, but the cool thing about it is that even though we have maybe the most popular interface because we put a lot of work into making it really nice, other people, there's dozens of other interfaces that are also integrated with the same protocol. And if our interface had to shut down, there would be other interfaces that would continue running. And that kind of speaks at the, like the, you know why this is better, right? Like, we built this protocol, but we don't have exclusive access or exclusive rights to it. It speaks up part of why it's different. Like, you know, why it requires different thought, different rules, different regulations. Because, you know, we can't have, if we can't prevent someone else from building an interface, that inherently creates a more fair playing field. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "The Uniswap protocol doesn't enshrine your front end any more than it does anyone else's. It actually doesn't even know that there's a Uniswap labs company that has built a front end as it's differentiated from any of the other front ends that also tap into as well."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, we're like a software development shop. We've done some of the core development of the protocol for. They started to be more other people contributing to that. And then in addition, we also have built an interface to the protocol that we run, but many, many other people have done the same."
+    },
+    {
+        "speaker": "A",
+        "text": "It's kind of an interesting exercise that I think people have to get their heads wrapped around. So it's like, even if some regulatory agency like the SEC, forced Uniswap labs to shut down, okay, in order to shut down the, quote, unquote Uniswap protocol that you're talking about, the code that's deployed on chain, how far would they actually have to go? You have to shut down Ethereum. You have to block us users ability to access the Internet. You have to, like, shut down the Internet itself. How far is the SEC prepared to go to, like, control this decentralized exchange?"
+    },
+    {
+        "speaker": "B",
+        "text": "That's SWAT teams entering people's homes."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. You're going to come get all the bank listeners listening to this episode."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Which gets at why this sort of. The rules are clear. We just need to enforce some narrative from the SEC is kind of ludicrous. It's very clear. This technology is so different, and it's the scale of. You can just go after a centralized thing and shut it down, but you can't here. And so it's very clear the rules have to be different. And it's very clear that. Yeah, so it's pretty crazy."
+    },
+    {
+        "speaker": "A",
+        "text": "My favorite way to sort of understate, because I think what happens in sort of mainstream consciousness is people associate, like, just the average american. And by the way, you're gonna have the opportunity here, as this escalates, to make your case in front of the american people, which. David reframed this for me a bit. It's like, at first I was incredibly disappointed. Like, how could America do this? What's wrong with our regulators? Thank you."
+    },
+    {
+        "speaker": "B",
+        "text": "How dare you touch Hayden Adams."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, how dare you? Okay, another Adams. All right. But now I'm just like, wow, this is a tremendous opportunity to make the case for Uniswap. Who better than Uniswap to actually be, like, brought to the forefront to make their case in front of the american people? I think people right now have a tendency to associate crypto with the bad crypto actors as well. Right, so SBF. But what Uniswap provides is SBF can't f you up, you know? Cause it's uniswap. There is no SBF in the Uniswap protocol. And you have the opportunity to tell that story. Your tweet yesterday was really cool. You said this. When you build technology that improves people's lives, you don't need to hide. You don't need to hide. I hope that is still true in America, Hayden. And I wanna ask you, maybe just address the average american citizen who has no idea about SMTP protocols and how the Internet was made. They just enjoy, like, the fruits of the Internet. Okay, what's your case? To the average American, the average Joe public, where you get to say, this is why Uniswap improves your life, why it's good for the world."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, look, what we're doing simply, and it's in the early. DeFi is like an early industries in its infancy. It's like the Internet 20, maybe more like 30 years ago. So we're in the earliest stages. But what the Internet ultimately did is it empowered people. And not every aspect of the Internet was good. Right? The Internet has been used for good and bad, but very few people could argue that it didn't provide far greater access to information. And with a fundamentally empowering technology and what we're trying to do, the mission of what DeFi is and what Uniswap is, is really trying to do that for a world, for the world of essentially finance and other forms of ownership and digital ownership. We're trying to make it more accessible, to make it more fair, to level the playing field and to improve the technology behind it. And we think that's a worthy cause and a good mission. And really, when you look at, look, it's not like it's in the early days, and when something is early, it's inefficient. When something is early, it's. And I think when people, like, people hear about crypto and they hear about this way of, like, oh, I heard bitcoin burns more energy than Norway or whatever, right? But then, like, you know, I don't know what, but, like, what you have to understand is that, like, this, this technology is in its early stages, right? Ethereum, you know, is now, whatever, 99% more energy efficient than it was two years ago with proof of stake. That's just an example. And I know people kind of, even in crypto, don't like that example on both sides. But whatever. The point is that, like, part of our job, you know, as crypto people, is to speak to people who don't know and understand everything that we do. And so what I'd say is that, like, and this is in its earliest stages, but it's competing with, you know, it's competing with, like, massive entrenched financial interests, right? Like, today, the world of finance and much of the, you know, and what much of the Internet, which is what we sometimes call wow, is like, you know, controlled by very few dominant players. And it's. There's, there's some really, like, negative, like, okay, a very simple example is that you put your money in a bank, they pay you like, 0.025% interest. They take, like, you know, they make like, 5% interest or something, right? Like the, like, just, like, there's just, like, this massive, like, value redistribute, like, redistribution from, like, society and people, like, everyday people towards, like, the people that own the, like, systems that are sort of entrenched. And part of what we're trying to do is build systems that allow people to really own their own assets and have access to the same opportunities. We want everyone to have access to the same yield opportunities that banks currently take with other people's money. Things like that. We're trying to build a more level system, a more level playing field. Yes, it's early on, yes. There are things that we have to figure out to make it better, to make it more reliable, et cetera, to make it faster. It could be the same way. Dial up was slow and expensive relative to the fiber we have today, or whatever. There are parts of crypto, you might use it and be like, oh, this is weird and slow. And I don't quite get the user experience. And we're working. A lot of people, literally tens of thousands of people around the world are working to make it cheaper, faster, more accessible, easier to use. And the end result of what we're working towards, in my view, is a far better, far fairer system. There are steps along the way, and I think part of what we have to do is show people. One thing to note is that a lot of people trust their, in the United States, for example, a lot of people trust their bank for better or for worse. And I think we saw maybe with some stuff last year that indicated some banks are maybe at risk as well. But a lot of other countries around the world, people don't trust their banks and they don't trust their currencies. And so having access to today, there are many countries where currencies are being devalued at a very rapid rate. And honestly, even the US dollar has some pretty significant inflation. But ignoring that, I think that there are countries where inflation is in 100% per year or more. Access to these tools are already helping people around the world. Uniswap and Ethereum is already saving people's lives in countries that have far worse financial systems that we do today. To throw all of that out and to try to make it really hard to build is actually really damaging to people around the world who don't have the same opportunities. That's, you know, and then ultimately the end result may be further out. Is that like, it should be better for everyone."
+    },
+    {
+        "speaker": "B",
+        "text": "One of the parts of your tweet towards the end says the SEC's mission is to protect investors, maintain fair and orderly and efficient markets, facilitate and facilitate capital formation. This is a noble mission, you say, and you also say, I argue that Uniswap does a far better job of this today than the SEC. And this is one of the core premises of this entire industry. We actually regulate safety into the code. We protect investors via code, we say, rather than saying, let's not be evil, let's say, let's actually tie our hands to the mask and enforce no one to be able to be evil using code. I think this is why so many economies on the long tail benefit from applications like Uniswap and systems like Ethereum is because of this structure. Given the opportunity, do you see this as an opportunity to actually leverage this point in court? How might you elevate this during this, like ongoing proceedings with the SEC?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, look, I think that, you know, like regulation, I wanted to put that in there when it's like kind of, well, I guess the main point, sure. But the main thing there is really that, like I wanted to highlight, like the mission of the SEC is actually like a, in theory, a good, like, it's a good, it's a good mission. Like you want."
+    },
+    {
+        "speaker": "A",
+        "text": "We're on mission. Right."
+    },
+    {
+        "speaker": "C",
+        "text": "It's honestly like a, maybe in some ways a more accurate, like we have our own mission statement, but like, to some degree I actually like it almost even more for us than our current. But like it's a pretty good mission statement, right. Like, you know, it's about making, making the system more fair and better and protecting people and, you know, but like, the way that it is enacted in the centralized system, it's the only way you can enact in the centralized system is you, like, if something is centralized and closed off, you have to force people to disclose things. But when you have, you know, and so, like, disclosures are a good thing and, you know, but like, when you have, but you have to recognize the technology and you can't just like square peg every round hole. It can be a square peg for a square hole. But Uniswap is a different thing. If you have an entire system that's aimed to disclose how something works and then Uniswap has entirely open source source, available code. And when you have systems that try to reveal the balances on people's balance sheets and then Uniswap, every transaction in the entire history is public on chain in real time. The rules are, you can't just like Uniswap better is. Uniswap is more transparent than, you know, in how it works and how it functions in the balances and the transaction history than like almost anything that has ever come before it. And so if you fit into this other regime that is designed for like creating transparency within opaque centralized systems, it just doesn't make sense in some way."
+    },
+    {
+        "speaker": "A",
+        "text": "If regulators were doing their job, they'd push more traffic and more liquidity to Uniswap."
+    },
+    {
+        "speaker": "C",
+        "text": "Then it's, you know, yeah, or they would like, you know, try to create like best practices for what, you know, for like, you know, the security auditing for protocols and for, you know, like, or like for how to, like, you know, like the ways and formats in which you publish, like the code like, there's things they could do that would like. But, yes, I mean, that's. I think that in the long run."
+    },
+    {
+        "speaker": "A",
+        "text": "There'S such appetite to partner with regulators."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "To like, toward the same mission, and they're not opening those doors. But, but Hayden, this has been, like, fantastic. Thank you for debriefing on this. I think we have one last question for you. Are you ready for it?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Look, honestly, the thing that makes me most ready for it is just how the community reaction, the community support, when we announced this, when we talked about it publicly, was really motivating and really inspiring, and it's really appreciated just having. We can't do it alone, but I am ready for it in the context that we have, which is a whole industry that is sort of behind us and on the same side. And."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, so, Hayden, that wasn't actually the last question I was asking. If you're ready for the last question. Here's the last question."
+    },
+    {
+        "speaker": "B",
+        "text": "Hayden was just really saying he's ready to fight."
+    },
+    {
+        "speaker": "A",
+        "text": "I know you're ready for it, but the big question in our minds, in everyone's mind is, are you going to win?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yes. Yes, we are going to win. We plan to win. We're on the right side of the law and."
+    },
+    {
+        "speaker": "A",
+        "text": "We'Re excited about this. And I guess maybe in conclusion here, you've got a lot of people in, obviously, the bankless community and the entire crypto community who has benefited from the open, permissionless, decentralized nature of Uniswap. Uniswap has never defrauded anyone. No one has lost any funds using this crypto tool. And because of its existence, I think it saved folks a lot of money and brought a lot of democratization to finance. Is there anything we can do to help you? Like, what do you need from the crypto community?"
+    },
+    {
+        "speaker": "C",
+        "text": "Honestly, just like, keep, keep spreading the good word. Keep talking about, you know, the benefits of the technology. Just, you know, I listened, actually already listened this morning to your previous coverage, which I, which thought was really good and really appreciated. So, you know, honestly, just like, keep up the. Keep up what you do and keep kind of like sharing, I think. Like, definitely, like, there's this leaning into what I was talking about earlier around continuing to build bridges and continuing to explain the technology and how it benefits people, which is what you guys do, but just really leaning into that and making the case to the world, to the american people, as opposed to. There's this tendency sometimes for crypto to want to just be fighting all the time. We want to fight with the right people. And then we also want to build bridges with the right people and kind of show up really well in the world. And I think you guys do a good job of that. But just continuing to kind of like, elevate the, you know, absolutely."
+    },
+    {
+        "speaker": "A",
+        "text": "Regulators on the podcast. Hester Purse has been on so many times. She's engaged with the community. Gary Gensler, you're welcome to come on as well. Let's have a discussion about this."
+    },
+    {
+        "speaker": "B",
+        "text": "Just come into the podcast, Hayden, thank you so much. Come in and register."
+    },
+    {
+        "speaker": "A",
+        "text": "I gotta end with this. We are headed west. This is the frontier. It's not for everyone. But we're glad you're with us on the bankless journey. Thanks a lot. Let's take him to court."
+    }
+]

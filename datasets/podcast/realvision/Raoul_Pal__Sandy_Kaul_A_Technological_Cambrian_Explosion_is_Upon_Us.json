@@ -1,0 +1,394 @@
+[
+    {
+        "speaker": "A",
+        "text": "This episode is brought to you by Shopify. Forget the frustration of picking commerce platforms when you switch your business to Shopify, the global commerce platform that supercharges your selling wherever you sell. With Shopify, you'll harness the same intuitive features, trusted apps, and powerful analytics used by the world's leading brands. Sign up today for your dollar one per month trial period@shopify.com."
+    },
+    {
+        "speaker": "B",
+        "text": "Tech."
+    },
+    {
+        "speaker": "A",
+        "text": "All lowercase. That's Shopify.com tech."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey everyone, if you like this podcast, go behind the paywall to get privileged access to the smartest minds in finance. Join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off our essential membership for the first year. Now to the top analysis of today's crypto markets."
+    },
+    {
+        "speaker": "B",
+        "text": "Sandy Call's one of my favorite people to speak to. Really smart, really engaging, and always makes me think. Now, she's been on real vision before, but mainly on the crypto side. She's been very focused on crypto, but she has a much bigger idea around the exponential age that dovetails in with my thoughts as well. So I really wanted to pick her brain to see how she sees this all evolving. When change comes, opportunity abounds. We're about to enter a period of the fastest pace of technological change in all human history, something we refer to as the exponential age. And real vision is going to be your guide to this incredible future. Sandy, fantastic to see you back on real vision."
+    },
+    {
+        "speaker": "C",
+        "text": "Great to be here with you, Val."
+    },
+    {
+        "speaker": "B",
+        "text": "So last time you came on, it was part of my crypto show, which is ralls Avengers crypto. But we want to broaden out the conversation because you're not a one trick pony. You're a multi talented queen who's done, who looks at all sorts of stuff. And today I want to talk more about your broader thesis. And this is part of something I call the exponential age, which I think you're very much aligned with, which is the big thematics of technology and how you see that. And you've spent a lot of time writing about this, researching it. So I'd love to get your top. In fact, first, before we start, just for people who aren't familiar with you, just give a bit of your background, and then we'll dig into what we're going to talk about."
+    },
+    {
+        "speaker": "C",
+        "text": "Great. Well, thank you, Arul. I've been in the financial services industry for basically my whole career. Started off as a reporter for the wire services. Was told I'm too opinionated to be a reporter, which was kind of the theme for the rest of my career. Became a research analyst in the commodity markets, then a portfolio manager for many years trading in a commodity pool. Then became fascinated by the technologies that were coming out right around 2000. So moved over into consulting on how emerging technologies were changing the investment management delivery model and the financial services delivery model. Spent many years consulting, really got deep into alternatives and operational processes. Joined Citi as part of their prime brokerage unit and really built out their hedge fund consulting practice to help hedge funds think about how to really deploy these new technologies and become much more institutional in the wake of the 2008 crisis. And then began a thought leadership practice in 2009 that really took a 360 degree view of the industry. We talked to asset owners, we talked to intermediaries, consultants, fund to funds, wealth managers, private banks. We talked to investment managers and hedge funds and private asset firms. And we had a fintech practice within my group where we looked at all the emerging technologies and we would put together these views on the industry, of how we saw both the near term evolution of the investment management and wealth management industry. So the next one to three years and then obviously looking further out, where might there be disruption in the investment management and wealth management industry? So we started looking out 510 and 15 years. Did my first paper on tokenization and crypto back in 2017 and over the years just became increasingly fascinated by what a transformational moment we are at in terms of building new models for the future. So really wanted to get very involved and chose to come to Franklin Templeton because we are a firm at Franklin Templeton that is really, we're based in Silicon Valley area. We've got that whole mindset about innovation in the future, and there's a great team here that's been doing fantastic work that I had known for many years. So joined Franklin Templeton about a year ago."
+    },
+    {
+        "speaker": "B",
+        "text": "And what's your role at Franklin Templeton now? What are you focused on?"
+    },
+    {
+        "speaker": "C",
+        "text": "I am leading a thought leadership practice here that looks at disruptive technologies. And I'm also working with our digital asset unit on our strategy for how to transform our own business and our own investment portfolios moving into this space."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, and we talked a lot about that in our previous conversation, which wasn't that long ago, but let's talk about the broader technological space. What's your framework of understanding? Because everyone's trying to rapidly put together a framework which is changing very fast as things are changing. So talk us through that and then we can dig in."
+    },
+    {
+        "speaker": "C",
+        "text": "So I loved your analogy in the beginning about exponential era, because really, when you look at what's happened over the past 60 years, there has been this incredible speeding up of technology innovation. If you look at from the first computing mechanism, which came out to the launch of mainframes, that took us almost 100 years. Then from the emergence of mainframes to the personal computer, it took us almost 40 years. Then from the personal computer to the Internet, took us less than 20 years. From the Internet to cloud based systems and operating platforms and all the web, two models that we have today, took less than ten years. And now we are on the cusp of really probably transitioning into yet another new era where a lot of new technologies are coming out, and that could happen in as little as five years. So we're seeing this shrinking of the timeframe of each period. And what we lay out is that we really kind of look at the modern emergence of the computer. So this is when computers went beyond being used by the military and beyond being used by just academics and started to actually move into the commercial realm. And that was about the mid 1960s. So we kind of start our framework there, and we've identified three eras that we've been through in that period. Automation, which was about the mid 1960s to the mid 1980s. Digitization, which was the mid 1980s to about 2000. The current era that we call virtualization, which we're in today, and the emerging era that we see coming, we're calling decentralization for how the technologies are changing. So that's kind of how we've laid out this framework. And we talk about how different types of technologies changed in each of those eras."
+    },
+    {
+        "speaker": "B",
+        "text": "And so we're talking about virtualization. What's your hypothesis there? How do you see that? And what are the technologies involved, and how do they all fit together? And that's a big question."
+    },
+    {
+        "speaker": "C",
+        "text": "But, yeah, so I'd say there's a few key components to virtualization. The first has been that we have taken mobile technologies and just seen, it's almost unbelievable how quickly mobile technologies have advanced all over the world. If you think about the first real commercial mobile phone did not emerge until almost 1998 in terms of capabilities, and the smartphone came out less than ten years later. And today, when you think about smartphone penetration and the device penetration, that has just been overwhelming. And that really was so important because it freed people from needing to be at the computer. So mobile technologies allowed us to really be connected anytime, anywhere. Then we started to see all of these types of new devices and network connectivity that were beginning to give us information that we never got before, right? So we've started to see the Internet of things and sensors being implanted. And actually machine driven data is now the largest and fastest growing of category of data in the world. So we've had all of these new machines being connected. So everything from our smart refrigerators and our smartphone watch, our smart watches, to sensors that are operating in big shipping networks or operating in farming networks or in space. So we've seen a lot of connectivity and virtualization of the data coming from networks. And then we've seen the emergence of all of these platforms that enable social engagement. So in the beginning, the web was all about websites, and the website was static and you saw whatever the company wanted to deliver. Now we are all part of these networks, and they can be social networks. They can be networks where we're actually obtaining services like Uber. They can be networks where we're shopping like Amazon. But we're now part of this very networked economy. And those, I think, are the big three areas. And of course, underlying all of that is the technology itself, which is cloud based technologies that are operating on APIs and making it very easy to build new technology, which used to be I had to build and program and code an entire system. Now I can actually borrow and use other people's functions and technology. So it's become much easier to build because we've virtualized those capabilities."
+    },
+    {
+        "speaker": "A",
+        "text": "Hey everyone, we're going to take a."
+    },
+    {
+        "speaker": "B",
+        "text": "Quick pause and hear a word from our partners. We'll be right back."
+    },
+    {
+        "speaker": "A",
+        "text": "This podcast is sponsored by Ramp. Are you the decision maker in your company? Consider this for the first time in decades, there's a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your company's spending and control who spends what. With each vendor, Ramp software collects and verifies receipts instantly. To save your team valuable time. Ramp automates data entry and routine tasks with automated approvals, expense categorization, and bill payments, time consuming tasks, which means youll stop wasteful spending and close your books in hours instead of days. Businesses that use ramp add up to 5% to their bottom line the first year. If youre a decision maker, adding ramp could be one of the best decisions youve ever made. Get dollar 250 when you join ramp for free. Just go to ramp.com easy ramp.com easy ramp.com easy cards issued by Sutton bank and Celtic bank, members of DIC terms and conditions apply."
+    },
+    {
+        "speaker": "B",
+        "text": "And these three. So if I'm right, the three were mobile, Internet of Things, and networks themselves. And these things have all combined as well."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, exactly. And now they're all coming together in ways that, you know, are really starting to change our behavior as people. And that's really, you know, where we took this framework. We talked about how the technology has advanced, and then what we started to write about it and realize is that as this technology evolution and revolution has occurred, it's led to certain behaviors and behavioral, what we call mega trends that are really changing the way that society has operated. And at a very macro level, what's been so exciting, Rahl, is that they are really changing the empowerment of individuals, and they are giving individuals more and more ability to do things on their own. And it's really changing the dynamics of commerce and government and really everything that we do in our daily lives."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I mean, one of the things I've spent a long time thinking about and spoken to people like Balaji about as well, is this idea of this network states. Because, you know, where you and I grew up, we live in a village or town, and it was a physical state. And yes, we used a mobile phone to call our friends who were somewhere else, and not a mobile phone, a landline. You know, we connected, but now we exist virtually anywhere and anywhere in communities and societies. You know, all of the businesses we work for, we work from home or we work, you know, with colleagues around the world, and it's seamless. Now, it seems that that idea, this distributed network idea, is a big thing. And we're seeing it not only in crypto, but we're seeing it just in how humanity is operating in societal level."
+    },
+    {
+        "speaker": "C",
+        "text": "Absolutely. And it's so interesting because these networks transcend a lot of the boundaries that used to define how we lived our lives. Right. Governmental boundaries, corporate boundaries, familial boundaries, right, community boundaries, these are all boundaries that have been eroded as these networks really allow individuals to spread. And we call it in the paper, build their personal brand by who they affiliate with and how they affiliate. And that is something that was just not possible as little as even ten years ago."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, but it also changes society in a more fragmented way. So we fragmented anyway by physical geography or where you went to school and all of that stuff. And we've broken that all apart, and then we're redoing it online, but in different ways, in a more fluid way, because you don't have to move house anymore. You can just leave one society and move to another instantaneously online according to your needs, desires, or whatever."
+    },
+    {
+        "speaker": "C",
+        "text": "Mm hmm. Yeah, it's a fascinating, and it's enabling, I think, a new power. Right. To emerge from the crowd. Right. That ability to come together is creating a new almost body of both political and sociological and even commercial weight that sometimes feels very out of control, because it's a crowd of. We all know that sometimes crowds really behave in ways that are irrational or illogical, as well as being very effective. Sometimes they're coming together. So it's really putting, I think, a lot of strains and a lot of, I think what we're seeing in a society today is a result of people really making this transition and being in the middle of these two models."
+    },
+    {
+        "speaker": "B",
+        "text": "But it also feels like, as a society, we're learning how to deal in crowds, how to work together in ways that we didn't do before. And I look at it and think of one of the big online movements has been the investing movement. Firstly, it was Occupy Wall street, which was a physical movement. A bunch of people went to camp on Wall street to protest. Then really what happened was GameStop was the same kind of people, but doing it en masse online and taking a positive action to kind of rebel against the system and to try and be less disadvantaged in that system. Now, whether that worked or not, that's up for debate. But it was like a genie came out of the bottle, and we've just seen it with bank runs. It's like the crowd now is more powerful, faster, and more knowledgeable than any individual. This hive mind idea that I'm stuck with, I think is a huge breakthrough for people."
+    },
+    {
+        "speaker": "C",
+        "text": "And what I find so fascinating about that is the variety of people that being part of this crowd really appeals to. Right. I like to point out to people, and you brought up the whole meme stock with GameStop. My 86 year old father and my 18 year old nephew were in the same community talking about what meme stocks have invested in, and they were both equally as excited about it. And I did love that aspect of it. But there is something, I think, important and empowering about that ability, because our life has been really shaped in many ways by so many instances. Institutions and individuals have not had a way of being responsive to institutions. And I think that what we're starting to see is that the crowd is finding a way to come together in their power to really become an entity that can engage institutions. I don't think they replace them, but it's good to have a voice, and that's one of the things we talk about in our new paper is this idea that the crowd has given an ability of individuals to both have a voice and to engineer and exit. And one of the most interesting statistics that we found in the paper was there was a study, and it said, when we see these boycotts online, boycott this company because of whatever reason they're doing that you disagree with, they said that the boycott itself actually has very little impact on the company. But the coverage of the boycott, the national media coverage of the boycott, for every day that the national media covers a boycott like that, the price of the underlying stock tends to decline by 1% per day. And that they said that in more than 25% of the cases, it pushes the company to actually acquiesce to the demands of the crowd. And just to even think that that could have that kind of impact, that was something that was unimaginable 20 years ago."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I just think there was a new form of democracy that is more egalitarian because you vote by being an active participant in a particular movement online. And it also highlights how out of date institutions are. And I don't know if you've read the book the Fourth Turning by Neil Howe and William Strauss."
+    },
+    {
+        "speaker": "C",
+        "text": "This feels to me on my desk, that's so funny."
+    },
+    {
+        "speaker": "B",
+        "text": "I reread the last chapter of that book maybe every six months, because it's so he's got the new version coming out, which is the fourth turning is now, I think it's called. So I can't wait for that. But it feels that we're at that fourth turning moment where institutions are going to get reshaped because of how we're now operating online. We're seeing it with the system of money, with Web three. We're seeing it just in these online communities that it makes government structures as they are, feel a little bit outmoded."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, and one of the things we look at in the paper is that this idea that because of all the technology changes we've experienced, individuals are actually able to act like an institution. Now, we call it the institutionalization of the individual. And I think that that alone really is pushing the boundary on what institutions can implement without really responding to the feedback loops that they generate. And that was always, I think, a key part of what's been missing in how society operates. Right. And now we're starting to see a much more, I hesitate to say, but maybe equal playing field where people can really influence back the institutions and change them."
+    },
+    {
+        "speaker": "B",
+        "text": "And I thought the constitution, Dow was a good signal, much like Occupy Wall street didn't amount to anything. But it was the seed of an idea that will not go back in the bottle. The genie was out with the constitution Dow. And I think we'll see people coalescing capital instantaneously around causes that was impossible before."
+    },
+    {
+        "speaker": "C",
+        "text": "Absolutely. I loved that, too, and I was rooting for them."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, exactly. So we've got a lot changing with society. The Internet of things and mobile are very interesting as well. And they're really interesting because of the development of AI, because it's all well and good. Your fridge having information or your oven and you being able to control it from your mobile phone. And, you know, you can get fridges that can create, you know, what's missing. But I've been trying to think through what the hell happens when you put AI into your fridge or your toaster, and that's probably a couple of years away."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, well, I mean, I think the most exciting potential right there can be terrifying or exciting potential."
+    },
+    {
+        "speaker": "B",
+        "text": "I go with exciting."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes. I like exciting. I'm a glass half full and filling person. The most exciting thing to me is this idea of prediction right now. We have gotten very good as a society of ingesting all of this data and looking at the patterns in this data and kind of figuring out based on your cohort, here's what Sandy, or here's what Raoul might need, right. You know, here's their geolocation on their phone. They're in this certain neighborhood. You know, let me let them kind of think about what offers I might want to give them because they're in this certain neighborhood. Right. And we're already seeing that. Right. You can get a little offer from Starbucks that pops up on your phone when you're getting out of your uber. Right. So they're already at this point where they know what is happening now. But what I find so fascinating about AI is that it is going to likely be able to not only think about where you are now, but figure out what are the most likely and predictable pathways you are going to take from this current moment in time where you are. And how can we reshape commerce to actually incentivize you to take certain of those pathways over others? So I think that it's going to start to really build individual models of each person and be able to really tailor the delivery of the world to that person in a way that the person may not even realize they have those needs until they start being fed to them. So I thought that was a really fascinating part of this, and a lot of that is this agent design, and we're seeing a little bit of that, like, with the nest systems in our homes and. But this is going beyond that. This is an aih, getting to know Raul and getting to know Sandy and then figuring out almost like our own digital personal assistant that lives with us. What are we going to need and what should it be marshalling in terms of our own resources? So I think that's a fascinating potential of where we're going."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, everyone, we're going to take another quick break and hear a word from our partners."
+    },
+    {
+        "speaker": "C",
+        "text": "We'll be right back to the real."
+    },
+    {
+        "speaker": "B",
+        "text": "Vision crypto daily briefing. Yeah, there's a fascinating potential and a slightly. And we have to touch on the terrifying. The terrifying is putting AI into all of these devices where it trains itself certain things. I mean, I don't know what my fridge, my toaster and my kettle are going to say about me behind my back, but I'm worried about it because before you know it, we've got the robot revolution happening in my kitchen because I've had takeaway for three days and neglected the cooker."
+    },
+    {
+        "speaker": "C",
+        "text": "That's so funny. But it's probably very true, right? Like, gosh forbid you come forward and say, okay, I'm going on a diet and I want to eat this many calories a day. Your whole household may enforce that on you."
+    },
+    {
+        "speaker": "B",
+        "text": "It either enforces it or rebels against it, saying, what about me? The fridge, I want your attention to, and you're now not giving it to me."
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, there was a pretty terrifying interview that I read where a technology writer had interviewed the AI, and it was a little bit horrifying, the results. So I don't know. I mean, they're not human, so you don't know what's going to really drive them and how they're going to respond. So, yeah, I think we're in for a very, very disruptive period over these next few years. Lots of promise, but lots of probably crazy situations that are going to come forward and very unexpected. I don't think we can really. I think there's going to be a lot of unknown unknowns for a while."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. I mean, I've been looking at all of this. So I'm. My exponential age thesis is that, yes. Mobile networks, data, Internet of things, all of these things, plus robotics, AI, ev, green energy, all of these things, space are all and crypto are all headed in the same place. This cambrian moment that I think we've started."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And most of these are all Metcalfe's law adoption models. But if you put them all together you get Reed's law, which is Metcalfe's law squared, which is what we're feeling now with AI. I go onto Twitter every day and there's 16 new applications, and suddenly there's GPT-3 then GPT-3 and a half, then GPT four. And then last week it is auto GPT and agent GPTs. And I'm like, I can't keep on top of this. It went from zero to 100 million users in five weeks."
+    },
+    {
+        "speaker": "C",
+        "text": "I know, it's crazy. And what's amazing is that nobody's really quite sure where it sits today. To your point about how quickly it's changing, I think I saw something, one of the top people, and it said, it's all going to become decentralized now, too. And I'm like, well, that's even scarier, because then there's no one really engaging this in a way that we can understand. So, yeah, interesting days."
+    },
+    {
+        "speaker": "B",
+        "text": "But your point is that decentralization is one of the inevitable trends, and we're seeing this really interesting. There's a friend of mine who's built stability AI, which is an open source AI. And then we've got OpenAI, which is not open, and then we've got Google, and I'm sure Amazon and Apple will come with their own, but the point being Zeb, megac corporations that will hold this immense power. And now there's a decentralized version. I'm sure we'll see many of these, which becomes almost viral in nature at that point because it's unstoppable. So to your point, it becomes almost unforecastable as well."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. And I think it goes back to the point we were making earlier about crowds and the growing power of crowds and the dissatisfaction, satisfaction and pushback against institutions. All of these big corporate entities are just a different type of institution now. And this whole centralized model, it's almost like the pressures are breaking that centralization apart, and we really are. I think cambrian explosion is the perfect word for it because we're going to be creating something, and I don't think any of us can really see those future parameters very well at this point."
+    },
+    {
+        "speaker": "B",
+        "text": "No. And it does, again, to refer to the book, feel like the fourth turning. And it's like. I mean, it's so shocking how fast this is happening. It's like I've had some conversations. I brought on a guy on real vision. It's amazing. Somebody said, you need to speak to this guy. I said, sure. Who is he? He's like, oh, he's ex NASA from Jet propulsion labs. I'm like what about, how am I going to interview him? So I said, lovely guy. Leon alkali. So what are you doing, Liamen? He said, I've started up a vc investing in space. I'm like, what's there to invest in? And he laid out all of the stuff going on and you alluded to this, there's an Internet of things going on in space, plus networks that are outside of sovereign states that exists up in space. And he was saying, oh yeah. So one of the issues is all of these satellites that SpaceX and everybody's putting out, there's not enough. It's too expensive to keep sending the data down to Earth for computational power. So we're setting up server farms in space. I'm like okay. And he goes, we're going to have to use crypto to make the payments for the server farms because it's outside of sovereign control. We don't really want to use a system of money out in space. I'm like wow, it was just jaw dropping how fast this is accelerating and."
+    },
+    {
+        "speaker": "C",
+        "text": "This is like real time. I mean, I think I had heard a lot about that and spoken to others who are also working in that space space. And it's really, there's a whole new economy being created in outer space right now that has nothing to do with like sending people up there, right. And it is fascinating. I mean, you know, and then we have all of this enhancement in where we're actually the data that we're gathering on the universe from these new satellites and these new telescopes that are out there. It's all coming together in a very interesting way. I've always been a Sci-Fi fan, but I didn't really think I was going to live in my Sci-Fi universes during my lifetime."
+    },
+    {
+        "speaker": "B",
+        "text": "No, but it also fits into your whole thesis if you think about mobile and everything else. Well, SpaceX is delivering essentially Wi Fi to the world. It's the Internet of things, but it's happening in space and creating networks. So it's kind of happening all around us. And people don't see it. They feel the societal shifts, but they don't really see why it feels so fluid right now. And I think it's because as you raise, we're kind of transitioning into this whole new way of being."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, and I think that the dynamics of decentralization, just the simple dynamics of operating in a decentralized environment are so different. We've really had centralized entities that have guided human existence really, from the first time we came together and started to build cities or started to farm, there was always a central body that has controlled the development of where human society has gone. And this is the first time that we don't need the coordination that those central entities always provided, that the access has become so ubiquitous that everyone can engage and everyone can create and everyone can participate. And that's just really taking us into such uncharted territory."
+    },
+    {
+        "speaker": "B",
+        "text": "But how? When you speak to fund managers and others in the financial industry, you're basically telling them that they're not going to matter anymore in the construct that currently exists. How do they take that?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, some really are not ready to hear about it quite yet."
+    },
+    {
+        "speaker": "B",
+        "text": "You guys. Fidelity. There's a few who are really thinking through this. Cowan, there's a bunch of you who are thinking through it, but a lot of people are going la, la, la, I can't hear you."
+    },
+    {
+        "speaker": "C",
+        "text": "I think it's, I think it's, yeah, I think it's la la la. I can't hear you. I think it's that, you know, this is a very analytic industry that likes to deal with data. And a lot of people in this industry have been trained in exactly the same way to deal with data and build models in exactly the same way. And those models have worked for the pretty much the entire lifetime of these individuals. So to now come to them and say, hey, this isn't going to work, that's a very hard message for people to hear. But there are visionaries in every field and in financial services as well. And as you pointed out, there are some firms, like Franklin Templeton, where we are really saying, if the future is going to be this different, what is the role of an investment manager here? And this is where I actually am very excited about the future and where AI could again be very positive that if I'm going to be understanding Sandy and understanding Raul at this amazing level, I'm going to also want to be finding investments that resonate with you. So an investment like I love the band Pearl Jam, so I might want to be part of Pearl Jam's royalty pool if that was an option for me, and that would be generating income for me. But I could also structure that investment products so that I'm also getting maybe some exclusive web audiences or concerts. And I could turn that investment instrument into something that also gives me enjoyment in my life. And I think this is where we're going to head in, that our investment portfolios are going to enable us to have more benefits and live our life in ways that satisfy us more and give us more emotional payouts as individuals. And I think that's a very exciting direction. Not everything is negative about where we're heading."
+    },
+    {
+        "speaker": "B",
+        "text": "One of my thought processes that it was a conversation I had with Yatsui from Anamoca brands that made me think this thing through is okay. We understand we're going to get replaced by AI and the labor force. That's offset somewhat by demographics, but there's going to be problems. So what role for humans? So we think about universal basic income, but the idea that I'm thinking through is universal basic equity, which is the web three idea where you can be a member of a community, whether it's a band, or whether it's a political movement, or whether it's an ecology movement. Doesn't matter what it is. If you're a good community member, you can get rewarded in the native currency or assets of that community, be it nfts or tokens themselves, fungible tokens themselves, to be an active community member. And that actually might play into this decentralization idea and this new world where we don't have to operate in the institutional world any longer, because maybe there's no role for us in that, but there are other ways that humans like to coalesce."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, and the other part, I completely, 100% agree. And I think Yatsui is one of the most brilliant thinkers of our age. He's really helped to influence a lot of my thinking as well. And I think that one of the other interesting aspects is, I like to say, not universal basic income, but universal basic data, because in these new decentralized models, they're pseudo anonymous for the most part. So the personal data really goes back. Their ownership of your data reverts to the individual. And I really think we're just a few years off from us being able to use our own personal transaction data as a currency, that we are able actually to either get directly incentivized by or barter with to gain access to other goods and services. And I think that is also a super interesting and exciting development with this decentralization. And back to the original theme we talked about, about this growing empowerment of the individual."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, and it's funny because I've had exactly the same ideas. So there's the universal basic equity idea, and the universal basic income can be your participation, the use of your data. One of the things we should talk about is, and people on real vision have heard me talk about this a lot, but I'd love to hear your thoughts, is I'm terrified of going into this us election with AI. We're about to have text to video, which means that. And that's going to come in the next few weeks, months, couple of months, so we can basically make tailored videos. There could be a different one for Sandy, different one to Raul, instantaneously, at scale, giving different messages from people. You don't know what's real and what's fake. So this problem is gigantic. And as of societal importance, I'm not sure whether anybody's ready to. And I've spent time speaking to Google, Amazon, Facebook, LinkedIn, everybody saying, guys, you've got to do something because you're the only people who can. And they can't get the shit together and they won't agree common set of standards. So I think they're going to get forced into it. And that feels like that will happen because of an election that becomes very complicated that we need. And my point being is we need digital id."
+    },
+    {
+        "speaker": "C",
+        "text": "And could there be a greater illustration of how out of sync the political system is with the technology than the fact that the most likely candidates running in that us election are going to be octogenarians? Right? I mean, honestly, I just can't understand sometimes the world."
+    },
+    {
+        "speaker": "B",
+        "text": "No, I know, and. But we need some form of digital id, which is a great use of blockchain. You know, I think it's maybe even one of the biggest uses of blockchain of all in this world you're talking about."
+    },
+    {
+        "speaker": "C",
+        "text": "I know, but already I think you're starting to see some politization, politicalization of this idea of being able to have a digital id because that means you can be tracked and, you know, there's all of this anti government sentiment. And I think that, you know, even what should be common sense and very useful tool to solve some of our problems, I worry that they're going to get caught up in messaging that will turn big portions of society against using them. So that's, I think one of the other problems with the crowd, right, is that the crowd can often also reinforce negative messages and negative perceptions."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Yes, I agree. But the crazy thing is this crowd is operating on Google and Twitter and TikTok, of which all the data is being recorded of everything they do and everything they say and every single email they ever write on Gmail and everything. And the us government can just go to Google and say, hey, we want this information. Google will hand it to them. So we part, your mobile phone tracks you, your nest camera tracks you. Your bloody vacuum cleaning robot knows what your house looks like. We're long past the thing of caring about what government data has. I mean, I just walk into the United States now using my global entry and I just look at the camera and it goes, yep, fine, off you go."
+    },
+    {
+        "speaker": "C",
+        "text": "Yep."
+    },
+    {
+        "speaker": "B",
+        "text": "And so I think the digital identity is a red herring. And with zero knowledge proofs, I think we can get around a lot of this as well."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, and that's where I see a lot of, that's one of the technologies I'm also super excited about and seeing really how it develops. I know it's very new right now and the use cases are just developing, but I do think that, you know what people almost, I hate to say it, but what people don't know isn't going to hurt them. So if they're not understanding sometimes how this is actually being enabled, that might be better for them than really getting into the ins and outs because it won't trigger some of those reactions. Because as you say, they're living their lives every day. I mean, I gave up years ago thinking that I could ever keep my data private. Right. But a lot of people still think they can. Right? They don't really understand how much of their data is being used. So I think that there is a lot of potential with some of these new technologies. And I think that sometimes you're just going to have to force it on society despite people who don't want to move forward. I mean, sometimes technology does require, I think, some people really pushing it out and getting it to be more widely adopted."
+    },
+    {
+        "speaker": "B",
+        "text": "And there are ways of hearing their voices by using zero knowledge proofs to say, fine, actually, if you can sell your data and you can protect from your first layer of revealing your data every time, then you can navigate the world, but you can be authenticated as a person, as a valid participant in that particular community or whatever. That's probably better than where we are today."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I would agree. And that's going to be inevitable because as we move on to these decentralized blockchains where commerce is going to migrate and where it's being built, they don't collect that personal data. And all of the data on the blockchain is public. Right? So all these centralized platforms that today are using that data, data to drive so much of their income, that's going to be transparent to everyone. That edge disappears as we get into the decentralized world and that blockchain data is publicly available. So we're going to need to find new ways for people to understand how data is used in that environment where suddenly all this data that's proprietary today becomes publicly available."
+    },
+    {
+        "speaker": "B",
+        "text": "Now, when I think of your, the history, the computation, then, let's say mobile, and then the virtual, it leads into the bigger thing, which is, I think, where this all comes together is the metaverse. That's where, yes, there's robotics, which is another side. But if we think about a lot of this, it's the living of our digital lives in rebuilding societies in a digital native way, where digital assets, digital currencies in this world exist. It feels that everything leads to what we know as the metaverse. Is that your basic hypothesis as well?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think that the metaverse, but I think when people think the Metaverse, we've seen too many movies like Ready Player one, right? The Metaverse isn't going to just be this fantasy environment where you can go take your avatar and go party and virtual bars. I mean, there'll be some of that, too, but the metaverse is going to be everywhere, right? Like I try and explain to people, we're moving into a world that I call as the phigital world, where the physical world and the digital world become almost indistinguishable. And I think a great example of that is one of the big makeup brands had a showroom that they put a in Soho in New York, and you would go in and instead of actually trying on the makeups, because there's always a little bit of how many people have tried this lipstick? I don't know if I want to try this. Right. You would look in the mirror, and they had this metaverse type mirror where once you told them, they would take a digital scan of your face, and you could actually show yourself what the different colors, lips, or what the different kind of blushes looked like on you by looking in this mirror, right? And that, to me, is really what the metaverse is going to become, is that there's going to be this almost overlay of what can be created and exchanged and delivered as a digital service in our everyday physical lives that we're constantly interacting with. And people see a little of this already in some of the newer cars they project out. Instead of having to look over to the side and see the map of where I'm trying to follow my gps, they're now projecting it in front of the car. So I'm actually driving on the arrow, and the arrow is out in front of me. And that's another, I think, manifestation of how we're going to see this digital world get overlaid on our physical world in more and more ways. Until it becomes feeling absolutely natural to have that happening."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And I think we're seeing all of these exponential technologies releasing at a faster and faster rate. So people digested web three crypto, and that hasn't really had its massive Cambria moment that probably still lies ahead. But it was the fastest adoption of any technology the world ever seen until AI came along. AI is going so fast that it's literally kind of crypto to the power of five or something."
+    },
+    {
+        "speaker": "C",
+        "text": "You can't even track it. It's like going."
+    },
+    {
+        "speaker": "B",
+        "text": "Then there's a lot of other things happening because, like self driving cars, everyone's like, well, it's never going to work, so, you know, it's not going to happen. Then before you know it, they'll be everywhere, and there'll be. There'll be no drivers, you know, no Uber drivers, no taxi drivers, no bus drivers, no delivery drivers, no truck drivers, no drivers. And that's going to happen probably within less than ten years. We will see that at scale."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, and look, we've already. There's no longer any toll booth operators on any of the highways around New York City. They got rid of them all right? Now it's all digital and electronic, and, you know, they're even tearing down all the old toll booths. Right? So you don't even have that period where you stop. You just drive straight through, as I."
+    },
+    {
+        "speaker": "B",
+        "text": "Do, through global entry. I just."
+    },
+    {
+        "speaker": "C",
+        "text": "Right, just, like, through global entry. So these are all. This is already happening, right? Like, this isn't something that people need to speculate on. They just need to kind of pay attention."
+    },
+    {
+        "speaker": "B",
+        "text": "And the next one that's coming is, I think, the manifestation of the metaverse, because people have seen that meta kind of dropped the ball, and they don't know where they're going with it. I have a feeling, and I'm not sure, but we know that Apple's headset is coming out in June, I think it is. And there's this whole, I don't know if you've been following this Nerf technology, this digital 3d. It's like digital photography in 3d from your phone."
+    },
+    {
+        "speaker": "C",
+        "text": "Wow."
+    },
+    {
+        "speaker": "B",
+        "text": "And it basically allows you, from what I can tell, to have photo 3d worlds that you create off your phone. So we're now not talking about, like, a unreal engine develop thing, but we could meet in my physical lounge, which is a 3d. It's kind of mind blowing. And it looks like Apple is at the forefront of developing this, along with the new headset. And again, people think, well, metaverse, it was just a buzzword. It's gone away. My point being is it's LiKely to throw its hat in the ring on top of this exponential age, then self driving, driving cars come along, then, you know, and so on. And so, I mean, what, on Thursday, ElON's going to send the largest ever rocket into space, which is, you know, and it's just."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, then Think about what your crowd relationships become, the communities that you're part of. If now you can be physically together with those people from a visual perspective, now, you know, you're adding yet another sensory dimension to how you create and build community."
+    },
+    {
+        "speaker": "B",
+        "text": "So, yeah, so we're rebuilding that, the physical world, but without the constraints of the physical world. So we've got used to this, because before I'd have to come to meet you, where you were, we'd have to go and sit down somewhere. We'd have people with cameras all over the place. And now it's come that we can just spin up a. This is a riverside or a zoom or whatever. We can film it. So this is a metaverse experience in its own right. And you and I have chatted many times and never met, but I feel like I know you because we've spent plenty of time chatting and this kind of stuff, and in a few years time, we'll be kind of sitting next to each other, but not. And what we've redone is going back to. Your original hypothesis is in this new, decentralized, globalized, networked world, we're rebuilding societies in ways that still work for humans, but that are different for the digital age."
+    },
+    {
+        "speaker": "C",
+        "text": "Very different. And I think in some ways, that will be. That will add a much more personal dimension to the way that we are engaging. Right. These screens are great. I feel like I know you well as well, right. I feel like we have such fun conversations, but it will add that physical dimension to it so that we feel like we are in the same room and visiting with each other. Right. And that will take away a lot of this physical need, I think, to traverse the whole globe and to go through the wear and tear of travel. Right? Like, people will be able to build relationships all over the world, just like they've used social media forums to build communities all over the world now."
+    },
+    {
+        "speaker": "B",
+        "text": "And, yeah, I don't have kids, but I figured this out a while ago when I went to my oldest friend's house, and it was a Saturday afternoon. We were having lunch, and his son was in a gaming chair with his headphone on, chatting away with fortnite, I think it was, or one of the. One of the big games. And I'm like, what's he doing? Why is he not out playing football with his mates or, you know, doing what we used to do is hang out at the shopping mall with our friends and drink coffee and figure out where the party was and whatever. And he's like, oh, he's with his friends now. I'm like, what are you talking about? This is. And I realized that he was hanging out. He's got his friend in the US, his friend up the road, his friend in Manchester, and they're all chatting and they hang out all day in this digital world. Now, you and I didn't grow up like that, but that generation, Gen Z know, no different to them. It's kind of weird that you don't."
+    },
+    {
+        "speaker": "C",
+        "text": "Have that world well, and it's about connection again, right? We talked about how we used to use phones. And I remember I could only walk as far as the phone cord would allow me and being so excited when my parents got a longer phone cord because I could go into a different room, right? But it's that same connection. It's just our only options were to get together with other children in the neighborhood, to physically connect because there was no other medium. But now they really are living these very different global lives with people that they can connect with from so many different parts of the world and society. So maybe some real good will come out of that, too, and that people will begin to, you know, really start to accept people from other areas more and accept people from different backgrounds more as they connect more without having the physical limitations of where they're currently located."
+    },
+    {
+        "speaker": "B",
+        "text": "So with all of this going on and you talking to a lot of people, what do you think the next big thing is that people are not seeing because there is so much going on. What do you get? You know, Sandy is excited about saying, people don't know this is coming, but this is coming. What's that thing?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think it's going to be, you know, this idea that I carry my community and its privileges through a token that I can have with me at all times, where it unlocks physical experiences as well as digital experiences."
+    },
+    {
+        "speaker": "B",
+        "text": "Web three, you think, is the thread that ties all of this together?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think it's going. It's the, it creates the economic backdrop, which we've talked about with these networks and these decentralized networks that are extra governmental. Right. No government controls them. But what I think it also creates is this ability to execute these smart contracts and this smart contract language in a vehicle that is completely transferable and carryable in a mobile device. So all of the sudden, you know, it's like the ticket to everything, right? It's not just the ticket to the concerte, it's the ticket to the concert. The ticket to getting into a special community where I'm getting exclusive merchandise and exclusive access. It's the ticket into a set of classes where I might be learning things that are important to me to be able to develop my own skill sets. It's the ticket to travel, to meet up with certain other, other people in the world that are equally as interested as me. Right? And as the metaverse develops more, it might be the ticket into really joining in to exclusive clubs where I feel like I'm together with these people physically, even though that's still a digital experience. So I think it's this idea that we're starting to now pull the access to this whole digital world, not on a phone. First it was on a computer, then it was on a phone. And now I think it's going to be on a token that we can basically utilize whenever we are, wherever we are, and really create that combination of the physical experience and the digital experience. That's what I'm most excited about."
+    },
+    {
+        "speaker": "B",
+        "text": "We've done that at real vision now. So we have two different NFT communities. One was our genesis community, and then second is the real vision collective. And we have token gated access community content, token gated access telegram, token gated access to our discord. We've done token gated access metaverse experiences on VATM. And yeah, we're building all of this out for exactly the same reason, is I think this is the future of how like minded people coalesce around like minded causes and. Unbelievable. We've even got a fantasy trading league which is on chain. So we've got teams from around the world competing against each other with portfolios, but it's recorded on chain, so it's immutable, so there's no cheating involved. Eventually we'll probably tokenize some of those people because that's happening. We're also seeing, we've been doing crowdsourced asset allocation by asking people their crypto allocations and then looking at that as a portfolio and seeing how it performs. And it does pretty well because they're highly educated people in the real vision network. Now why would we not tokenize that as a product? Now that disrupts the whole asset management industry, because now you've got the crowd making product for the crowd and leveraging their own smarts. That's right."
+    },
+    {
+        "speaker": "C",
+        "text": "And I think that is part of decentralization of asset management as well. Right. And that is, I think, one of the futures that we at Franklin Templin are thinking about, how do we participate in that future and still view ourselves as bringing our expertise out to the marketplace in new ways? And a lot of what you're talking about is exactly what we talk about is bringing our clients and the world into the same portfolios and the same research and the same thinking that we're doing, right. That it's almost like, you know, one of the things I talk about is the future might be the gig world, where everything we do, we don't really have a job. We actually just interact with all these different communities and get incentivized for it, because that's where our passion and our interest takes us."
+    },
+    {
+        "speaker": "B",
+        "text": "So I also co founded an asset management business which invests in digital asset hedge funds. The next phase of that is we're creating an NFT community around our LP investors. Because normally asset management is, well, you don't get to talk to each other. We just feed you the information that you want and you give us money in return. So we thought, well, why do that? Why not put all these like minded people, because they like digital assets, they're generally high net worth or family offices or institutions. Why don't we create an NFT that creates a club for them to be part of, and then that's a place you can show specific deals or you can facilitate what they want to do. So the decentralized network says, hey, listen, we want to invest in discounted secondary, in crypto companies because they're down 80%. So we spin up an SPV for them. Maybe it's tokenized, maybe it's not tokenized. And so the network now works together for the benefit of the network and that we're doing within an asset management company, which has other stuff. So I'm all over this."
+    },
+    {
+        "speaker": "C",
+        "text": "I love it, Rol. And the other thing with that is just think about all these LP investors into these hedge funds also, many of them have built their own direct investment and co investment teams over the last decade. And think of the asset pool that they currently own and how having this type of community gives them such a different option for how to monetize and really get the full value out of those investments and really look to exit those investments in a completely new way. Right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Also, think about good stewards of the space we can be, if we can be instant capital. So if you think that, you know, the constitution, Dow idea. So imagine there's a startup that wants capital and it might suit our community. They would probably come to us very easily because we, we're not the big institution that sees a thousand things. It can be very adaptive because you've got a network of a couple hundred people and like ten of them say, yep, we're all in. You do it. You can allocate capital very efficiently that way because you don't have the processes, because the network takes the processes and separates them up. So I think it's going to be super interesting from that as well."
+    },
+    {
+        "speaker": "C",
+        "text": "I love it. I absolutely love it. I think it is definitely very forward thinking and a clear extrapolation of where we're headed and why it's going to fit so well with the model of how society is moving. Right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Exactly right. It's giving the power back to the people. And you know, the more you educate people, the more you give them the tools to succeed and then letting them work together, the better it's going to be. You know, I really think we will see, it's probably still early yet, but I still, I still think we'll see these guilds forming, these kind of dao based guilds where if you think of this world where marketing is getting so disrupted by AI, well, you can have a pool of 100 marketing people who use AI. Whatever a piece of work comes in, quickly gets bid for, quickly gets reallocated out, and the pool benefits from the overall revenues that get captured. And there's a token."
+    },
+    {
+        "speaker": "C",
+        "text": "I love it. I also think that we're going to see, you know, this very interesting way that people get caught short and got caught by surprise. Right. You and I are having this conversation. We really have a lot of thoughts on where the world is heading and we think a lot about what it's going to mean for the world. But, you know, I've been speaking to a lot of people in the traditional financial industry, the traditional investment industry, banking industry, wealth industry, and I think that many of them have no idea how quickly their businesses might get disrupted. Right. I think that these models sound almost fantastical to them and not anything that they would need to worry about when they start to see the business go out the door. I think it's going to surprise them. I mean, look, a bank run happened in 12 hours now, right? And everyone was caught completely flat footed by that and nobody was expecting that something like that could happen. Right. But I think you're going to see episode after episode of that really catching a lot of the traditional industries unaware, not just our industry, many industries. I don't think they understand how quickly these models may take over from the way things operate today."
+    },
+    {
+        "speaker": "B",
+        "text": "Sandy, I think we're lucky to be alive right now. We get this fourth turning moment where technology is exploding. We have no idea where it's going. And you can either fear it and fight it, which won't work because it's decentralized and it's relentless, or you can go with it, invest in it, and just go along for the ride. So I bought the ticket, take the ride. So that's my viewpoint on it, but thank you. I'm on the seat right next to you as ever. Thank you so much for coming to chat, and I'm sure we'll chat again soon."
+    },
+    {
+        "speaker": "C",
+        "text": "Great. Thank you so much. So much fun. Thank you, Rob."
+    },
+    {
+        "speaker": "B",
+        "text": "As you can see, always a fun conversation with Sandy. Wide ranging. There's so much to discuss, where this is all going, how it fits together, how these network states, how these digital societies come together, what it means for crypto, how AI fits into it all, and what this all means in the broader context of the exponential age. As you can probably figure out, the exponential age is moving so fast, it's difficult to keep up with. But it is really fascinating. And conversations like this are very important to help us all drive our understanding forwards. What's up, revolutionaries? Thanks for tuning in. For more content like this, head over to realvision.com and get unfiltered access to the very best, brightest, and biggest names in finance."
+    }
+]

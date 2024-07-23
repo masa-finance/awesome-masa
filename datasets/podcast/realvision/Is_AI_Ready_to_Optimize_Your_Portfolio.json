@@ -1,0 +1,306 @@
+[
+    {
+        "speaker": "A",
+        "text": "This episode is brought to you by Shopify. Forget the frustration of picking commerce platforms when you switch your business to Shopify, the global commerce platform that supercharges your selling wherever you sell. With Shopify, you'll harness the same intuitive features, trusted apps, and powerful analytics used by the world's leading brands. Sign up today for your dollar one per month trial period@shopify.com. tech. All lowercase. That's Shopify.com tech."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey everyone, if you like this podcast, go behind the paywall to get privileged access to the smartest minds in finance. Join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off our essential membership for the first year. Now to the top analysis of today's crypto markets."
+    },
+    {
+        "speaker": "C",
+        "text": "Stefan Klasser, welcome to real Vision."
+    },
+    {
+        "speaker": "D",
+        "text": "Hey, Ash, great to be here."
+    },
+    {
+        "speaker": "C",
+        "text": "It's great to have you. So much to talk about. We were talking a little bit off camera about your company iSot, that does AI. This convergence between AI and crypto, one of the most interesting stories that's happening in the space. But by the way, you have a background in Ethereum. We were talking about this a little bit off camera, obviously, last night, the Chappella upgrade. We can see if we bring up the chart of Ethereum price. Ethereum cutting above the $2,000 mark a little bit earlier this morning. I think it's trading a little below 2000 right now. Looks like on my screen around 1999, spot nine five. Boy, we're right at that threshold, Stefan. Let's talk a little bit about what happened last night, about the Schapella upgrade. Even the name is confusing. Let's talk a little bit about what it all means."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, Ash, I mean, it's great to talk about this. I think it's a major milestone again in the Ethereum network. Clearly, the move to proof of stake was one of the first important milestones in this respect. And now it was about being able to kind of retrieve the staked coins. And this is another important aspect. And there was a lot of talking about the fact or the question whether this is going to influence the price of Ethereum and in which kind of phase this is going to happen. But as we've seen, there's a lot of effects that can play a role here. On the one hand, the transition was very smooth. So I think that was certainly a positive on the price, that there were no disruptions, no issues. And on the other hand, there was the question whether everybody's going to just retrieve the stake points and going to sell them and whether this is going to put some pressure on the price. But this is obviously not what happened, at least not in the short run. There was also some mechanisms that prevent this from happening. There is a maximum that can be withdrawn. And at the same time, I think what people forget sometimes, the people that were staking on Ethereum in the first place are not the ones that were in for a quick buck. And this might be even a more important aspect of this."
+    },
+    {
+        "speaker": "C",
+        "text": "Stefan, you have an interesting background. Let's talk a little bit about how you got involved in the space of cryptocurrency more generally, and then about the transition that you made into AI and of course, the union of these two. Just red hot topics right now."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I mean, it's actually really interesting. My background originally is in political science, political economy. That's what I studied at university. And then I was doing a lot in innovation management, especially also in the international level. And then it was back in 2014 or so when a colleague approached me with the topic of fintech. And this was really something that was just popping up in Zurich, Switzerland, where I'm based. And we said, oh, this is really something that is ideal to kind of foster in terms of innovation, because we have a strong financial market, but we're not so good at service innovation. So let's get engaged there a bit. And then it was very quickly that I stumbled upon the topic of blockchain back then, and this was in 2015, and I got so interested that I even signed up for the first Defcon one with Ethereum in London. That was back in 2015 as well. It was still a rather small group, and some of the topics that are still discussed today were already imminent back then. But the topics were also a bit different. Right. It was a lot about decentralization, about governance, about whether Cody's law and similar things. And at the same time, staking was already kind of the first idea that was around, and I got really stoked. So I then went to work for Ethe Hazurich, which is not Ethereum, it's the technical university. It's one of the most prestigious universities in Switzerland or in continental Europe. And at ETH Zurich, I led a blockchain project that was based on Etiha, Ethereum. So it's quite funny. And this is how I really get hooked topic. A lot of eth. Yeah, a lot of ETH. And there was some confusion in the beginning. I think sometimes I got invited to panels, because people thought, I worked for the Ethereum foundation, but I actually was working for the university."
+    },
+    {
+        "speaker": "C",
+        "text": "So it worked out perfectly."
+    },
+    {
+        "speaker": "D",
+        "text": "Absolutely. And then we did this project on distributed incentivization mechanisms for sustainability, that we build an mvp on Ethereum. And that was kind of a publicly funded project. So, as often, these projects come to an end at one point. And I also met some extremely talented machine learning researchers at that time at Etihad, and they were doing some papers around novel machine learning algorithms that they invented. And these algorithms made it more simple to combine different data sets with structured and unstructured data. You imagine market data on the one hand, more text related data on the other end. Combine that, and then forecast bitcoin volatility, and they could show that they could bring down forecasting errors by up to 50%. And this was a huge thing, right? There was a lot of, at that time, arbitrage traders in bitcoin. It was 2019, people that came to us and said, can you please tell us how this is done? And this was kind of the first moment, the first foundation for the company I saw."
+    },
+    {
+        "speaker": "C",
+        "text": "Say that one more time."
+    },
+    {
+        "speaker": "D",
+        "text": "So, Kenny, this was done. This was the foundation for ISOT. From this paper and the reactions we had, we somehow realized, okay, there is a big demand for machine learning driven approaches, and we decided that we want to expand this into a platform. And so ISOT was born."
+    },
+    {
+        "speaker": "C",
+        "text": "So let's talk about where we are right now with ISOT. What are the products and services that you offer? What marketplaces are you in, and what's the competitive advantage that you guys feel you have in terms of product market fit?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I mean, we have a couple of products currently. Most of them are still related to the crypto market. So you see, usually when you do machine learning requirements, techniques in finance, most people these days would do that on equity markets. Very little on the bond side or fixed income. And then some of the activities are going on in commodities. And then you have a lot of talented people in crypto, but they usually use these insights in a proper trading environment. There is very little or no as a service component there. And what we do is we provide advanced machine learning and quant insights as a service. So mostly what that means, if you have a running portfolio or a product, a fund, an ETP, or anything, you can come to us. We have the engine to put this into the engine, the machine, and tell you what completely systematic view would mean on this portfolio. And we can also create full strategies out of this. So we have the full spectrum there. So the competitive advantage in that sense is, clearly, we provide this as a service to companies that don't have their own quantum machine learning team in house. And there's many of those. Right. And we are working with some of the most talented researchers around machine learning in finance worldwide. And this means we can always provide the latest technology to customers."
+    },
+    {
+        "speaker": "C",
+        "text": "Give us some examples of that application, specifically in terms of what you guys are producing and how it's used."
+    },
+    {
+        "speaker": "D",
+        "text": "Yes. So we will go into a live demo a bit later, even where, for example, the audience here, together with us, can create the portfolio. But I have a very easy, clear example for you. So you have a fund, right? The crypto fund. They have their fundamental views as much as you can create the fundamental view on crypto. Right. This is already a bit difficult. Sometimes there is not so much data and information that you can base it on. Right."
+    },
+    {
+        "speaker": "C",
+        "text": "In terms of evaluating crypto, in the terms of traditional cash flow portfolio allocation structure, it is a little bit more challenging, although we're moving in that direction, obviously, with taking on eth."
+    },
+    {
+        "speaker": "D",
+        "text": "Absolutely. What I wanted to say here is mostly that even it's very important that people have these fundamental views, also that they're kind of checking the different blockchain layers and protocols, whether they're reliable, how much code is created, et cetera. But on top of that, what is often missing still is, let's say, a machine driven view that takes all the relevant data around prices, around macroeconomic events, around news, et cetera, and then with all the information, more or less in real time, creates a machine learning and quant optimized view on that portfolio. So you can come with your portfolio product, you give it to us, you give all the restrictions, we let this run, and at rebalancing dates, we give you the allocation that the machine would do at this point in time."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, everyone, we're gonna take a quick pause and hear a word from our partners. We'll be right back."
+    },
+    {
+        "speaker": "D",
+        "text": "Whoa."
+    },
+    {
+        "speaker": "E",
+        "text": "Landing an account this big will totally change my landscaping business. It's gonna mean hiring more guys and more equipment and new trucks for the new guys to drive the new equipment in. I don't know if I'm ready."
+    },
+    {
+        "speaker": "F",
+        "text": "You can do this. And Ford Pro finsimple can help. Our experts are ready to make growing pains less painful for your business with flexible financing solutions that meet the needs of your business today when you need them. Get started@fordpro.com. financing."
+    },
+    {
+        "speaker": "C",
+        "text": "So what would be an example of that with a simplified sort of toy portfolio that we might be able to understand in light of let's take for example, CPI data coming out yesterday."
+    },
+    {
+        "speaker": "D",
+        "text": "I mean, I think it makes most sense if we do it in life and show the audience."
+    },
+    {
+        "speaker": "C",
+        "text": "Should we jump in, Stefan? Should we jump right in?"
+    },
+    {
+        "speaker": "D",
+        "text": "We could do it right now and then take questions or take it from there. Yes, absolutely."
+    },
+    {
+        "speaker": "C",
+        "text": "That sounds fantastic. I love doing live demos. It's something that we do here at real vision that I think is just extremely cool because it gives you a sense of what it's like to actually apply the technology. So whenever you're ready, let's get that spun up and we'll take a look. All right, there we are."
+    },
+    {
+        "speaker": "D",
+        "text": "So just some disclaimers upfront, right? First of all, it's not UI optimized yet, so it's mostly about functionality. Currently we generate these views in house, but the next step is that people would get access to the better platform directly, and then you can generate your own own views. So what you see here is, first of all, the backtesting period. And you see that the regular backtesting period starts in 1 January 2021. It has a simple reason. First of all, most of the coins tokens that we cover, they did not really exist for much longer. So if you go further back, we would have what's called a survivorship bias in the outcome, and that's what we want to admit. And also we have many different, let's say, market phases. Since January 2021, you had very bullish phases and then also very, very bearish faces. So it's an ideal environment to check the robustness of such a portfolio. This is the first step. Then we have the optimization parameters. We start usually with the cash allocation. So a risk free component to the portfolio, and we could select anything from zero to 100, as I would like to have this as interactive as possible. Maybe I can see the chat here, but you can tell me or ask the audience if somebody has a view or you have a view. Ash, how much cash would you allow maximum in the portfolio?"
+    },
+    {
+        "speaker": "C",
+        "text": "Let's cap it at 20%."
+    },
+    {
+        "speaker": "D",
+        "text": "Okay, let's put 20% for this. Then we usually can allocate a fee. So customers, usually in crypto, sometimes it differs dramatically, right? Some customers have very low fees in trading more. The crypto banks here in Switzerland that are more regulated have much higher fees. This is then automatically deducted from the P and L. And then what we put here is a target risk volatility. You can imagine that like this, we can steer a bit whether we want to have less volatility or a more aggressive high volatility portfolio. It's only the downside, volatility that we covered here. So that means that the resulting volatility will be around two times the amount that you see here. But in general, more volatility, more profit, or less volatility. What would you vote for?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, let's keep this relatively conservative. What are the plug numbers you generally use in this for your range?"
+    },
+    {
+        "speaker": "D",
+        "text": "Actually, I think what works very well is if we try to restrict volatility a little bit, but not too much. So if I choose something around 37 or so, that's what I think would work very well. Okay, then maybe for something for the audience in the chat, if they feel like selecting something. Otherwise we'll just randomly do that."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, we've got some coins from the audience. You tell me, Stefan, how many can we plug in?"
+    },
+    {
+        "speaker": "D",
+        "text": "I would say eight to ten easily. We can also choose more. I don't know whether we cover all of them. We have around 50 or so in the database currently."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, that sounds good. I think we've got about seven or eight that I'm looking at right now. First one, of course, no surprise, is bitcoin."
+    },
+    {
+        "speaker": "D",
+        "text": "Yes."
+    },
+    {
+        "speaker": "C",
+        "text": "I think we should probably put in ethereum as well, given the events of the day. We've got filecoin, bitcoin cash. Don't, don't yell at me, guys. This is from the audience horizon."
+    },
+    {
+        "speaker": "D",
+        "text": "I don't think we have that."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, we skip that one. Let's just get the last two because I know they're both popular things we've talked about here on real vision. Chainlink."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "And finally, zcash, where the privacy coins."
+    },
+    {
+        "speaker": "D",
+        "text": "Yes. Okay, cool. How many do we have? Two, four, six. Let's put two more. Something fun, right? That always. Everybody likes other audiences. I spoke to doge."
+    },
+    {
+        "speaker": "C",
+        "text": "Is doge off Twitter now? Are they no longer in the Twitter sidebar? I think they're no longer there."
+    },
+    {
+        "speaker": "D",
+        "text": "I don't know. I don't think so. Yeah. What else we have Solana, uni maker, matic, ocean."
+    },
+    {
+        "speaker": "C",
+        "text": "Let's do matic."
+    },
+    {
+        "speaker": "D",
+        "text": "Okay, cool. So then what we can do is to assign minimum and maximum allocations. So we can either say, let's keep it to the machine to decide, or we can say we have some preferences. What I would usually do just for these demos is to just put it to, I don't know, zero to 40% each. So that minimize something."
+    },
+    {
+        "speaker": "C",
+        "text": "No, four. And this. And the, and the minimum is. There's no minimum. No minimum. And the max is 40%."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, exactly. So, but if you have sometimes professional customers. Right. The funds they want to have a minimum allocation in bitcoin and ether usually. So then we can easily deal with that. So we can also, let's say a minimum, minimum, minimum, ten each. So they go, they can go a bit higher as well, maybe. And the rest to 40. Maybe we say doge, we don't want to be 40% in Doge. Maybe only 20 max. And then. Right, let's do, let's do it like this, right? And then what we can do here is that customers can upload own data files, so if they have a quant or research department can be uploaded here. Also if they have any kind of text files or so that we can work with, so it can all be taken in. You have to imagine what happens in the background, in principle afterwards is that we do the machine learning based forecasts, and these are done pairwise between all the coins tokens that we have in the system. Then you create covariance metrics and we create the risk forecast, that is doing the cash allocation. And then all this information are taken into a so called black litterman optimization that then afterwards creates the portfolios. But let's start this. What's now happening on the fly? And the whole optimization is taking process, taking part. And then the actual training of the models has already happened."
+    },
+    {
+        "speaker": "C",
+        "text": "So usually this is happening, this is happening dynamically. This is really being run. This isn't just a demo, this is actually being run."
+    },
+    {
+        "speaker": "D",
+        "text": "This is with real, this is real, real numbers, real processes. It's not a demo. Okay, then we have the results. And you see our portfolio. The customer portfolio here was quite a good one. So we would currently be the two green lines or two variants of our strategy. One is the volatility is trying to minimize volatility a little bit more than the blended. But you see they have been very similarly performing here between 612 and 682% plus since January 21. If you compare this to an ether tracker as a baseline, ether would be a plus 156. And then you have some benchmarks like bitcoin, which is a plus four, and some market cap weighted indexes, which are in similar areas, or even below, below bitcoin. Right. So this is quite a good outcome. Then we produce the statistics around it. You would see sharps with around 1.41.5 sortinos, around 2426, which is a huge difference to bitcoin and easier. And we would even avoid some of the drawdown, right, as we only select the 20% max cash. We were still in a similar area, but we had less drawdown, similar volatility like ether and clearly, clearly better returns. And now let's just break this down."
+    },
+    {
+        "speaker": "C",
+        "text": "A little bit, because I'm sure that folks in our audience who are professional investors immediately understand what you're talking about here when we're talking about sharpe ratios. For those who have not had the benefit of Mister Sharp and Mister Markowitz's portfolio theory, let's talk a little bit about what this means for someone who may be a retail investor, who may be a little bit puzzled by what some of these data represent."
+    },
+    {
+        "speaker": "D",
+        "text": "Absolutely. So sharp is usually when you take, in simple words, when you take the return, but you control it through the volatility. So that means it's returned that outperformance in terms of returns as compared to a benchmark portfolio."
+    },
+    {
+        "speaker": "C",
+        "text": "In other words, risk adjusted returns."
+    },
+    {
+        "speaker": "D",
+        "text": "Exactly. To be very, very quick and simple risk adjusted returns. And sortino is doing the same, but it is limiting it to the downward volatility. So actually, in principle, that's usually what we want to maximize. Because you don't want divide through the full volatility, usually because volatility, we say, is not necessarily betting, it's only betting if it goes down. So the sortino is the measure that looks at the risk adjusted in terms of downwards risks."
+    },
+    {
+        "speaker": "C",
+        "text": "And then you have Max drawdown is a calculation that shows the sort of return to worst from the highest point point to the lowest peak to trough."
+    },
+    {
+        "speaker": "D",
+        "text": "Exactly. And you see this is here very, quite similar. It's even a bit better than with bitcoin. Naturally, this comes from the dynamic cash allocation in the portfolio. And then we have the volatility. You have to imagine that bitcoin, from all the coins and tokens that are usually in these portfolios, has the lowest volatility, except if you compare it to a stable coin, naturally. But otherwise, bitcoin has quite low volatile. All the other coins have quite much higher volatilities. So what you want to achieve is that you get a portfolio that has a volatility that is not exceeding the bitcoin volatility by a huge margin. And this is what we even can achieve. If we put the volatility a bit more down and put a little bit of more cash, we can easily also achieve volatilities in the same area as bitcoin."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing."
+    },
+    {
+        "speaker": "G",
+        "text": "This episode is brought to you by La Quinta by window. Your work can take you all over the place, like Texas, you've never been, but it's going to be great because you're staying at La Quinta by Wyndham. Their free bright side breakfast will give you energy for the day ahead. And after, you can unwind using their free high speed wi fi. Tonight, La Quinta, tomorrow you shine. Book your stay today@lq.com. dot."
+    },
+    {
+        "speaker": "C",
+        "text": "So let's talk a little bit about where we are right now in terms of deployment of this technology. Is this currently live in the wild? What does it look like in terms of your customer base? Talk a little bit about the go to market strategy."
+    },
+    {
+        "speaker": "D",
+        "text": "Yes. So where are we now? We use this for some products, mostly are these structured products that we issue? We like to do that with partners in a white labeling manner so that we can profit from the client base and distribution power of partners. We like to do the strategy and they do the rest. But we also start to issue an ISoT product that will be available in the first place. It will be available mostly on the swiss market. It's a bit tricky in terms of regulation to do that internationally, but we can always also apply this to client portfolios directly, so this is ready to go live. The next step then is what also bit easier from a regulatory perspective is that we give customers access to the platform directly, so that what we did here. Now, if you run your own fund, if you're a so called qualified investor, meaning a professional or institutional client, you can already today apply for access to this beta platform."
+    },
+    {
+        "speaker": "C",
+        "text": "We've got some questions coming in. Perhaps we could just take some of these because they are interesting ones. Here's a very sophisticated question from Ralph on the real Vision website. Does ISOT's tool do Cvar that's conditional value at risk? Is that one of the portfolio parameters that you are allowed to modify?"
+    },
+    {
+        "speaker": "D",
+        "text": "Currently not, but it's on our list, the features that we want to implement. So what you see here today is what the features are that are implemented already. What the idea is of now getting better access is then that better users get access to the platform as it is today, and then they can request new features and new things to be built in and we try to deliver on them very quickly."
+    },
+    {
+        "speaker": "C",
+        "text": "Very cool. So I know you guys are working on this and obviously developing it as the product begins to mature and you build more features. Are there any other potential applications that you guys see right now for AI in this space? One of the things that we've been hearing a lot about here at real vision is the idea of the security component of artificial intelligence, AI, essentially doing automated code audits and some other interesting things we should say. This technology obviously is embryonic right now and there are lots of applications that are coming online. Anything else that you guys see that you think is interesting or might think is interesting at the future, I mean."
+    },
+    {
+        "speaker": "D",
+        "text": "Potentially is huge, right? We have to make sure that we focus on a few things in the beginning and we can get lost in that space. I mean, what is certainly for us interesting at the moment is anything around strategy and portfolio optimization. And then in crypto there's a few topics, right, that will come in into play here. We would also want to take for example, staking rewards into the equation here as a next step. Meaning that you can also get more sophisticated portfolios that not only look at the underlying price development, but also at the staking rewards, the inflation parts of it, so that we would even have machine learning, optimized staking portfolios. And then we already cover equities. So we have some products on the equity side as well. In the US, there is even a product for us from us available for investment advisors through the so called UX wealth platform. So this is something that people can already work with, though we don't have anything for retail at the moment. This will come a bit later, further down the road. And then you have to see the vision, after all is much bigger, right? What we want to achieve is that we are going to be the third party platform for data and machine learning and quant tools in the financial industry. And we want to be independent. So it's not a Blackrock Aladdin or something like that, right? It's something that is completely independent and where people can come and then in an interactive process which for example can be steered by generative AI aspects, right? Then you just tell the machine what you want, right? And you're going to just figured to the right tool. There are going to be risk components, there will be return forecasts, there will be portfolio generation and optimization tools. And what we already offer today, at least in a limited environment, is that we can wrap this portfolio into investable products so that customers can also then profit from that service. What we want to do is not less than become the number one AI platform in financial services."
+    },
+    {
+        "speaker": "C",
+        "text": "Very interesting. Talking of which, here's another question that's just come in. This one comes from Scott from the real vision website. He says came in late. But is this just a snapshot or is it auto rebalancing?"
+    },
+    {
+        "speaker": "D",
+        "text": "It is auto rebalancing in the sense that we can at the moment we would give it the fix rebalancing schedule. So what we showed here, and it can also go a bit down in the results section afterwards. Here on the screen, it's monthly rebalanced, but we can work with everything between daily, weekly, monthly, quarterly."
+    },
+    {
+        "speaker": "C",
+        "text": "So if it exceeds its portfolio, if it exceeds the portfolio threshold that we entered as one of the parameters, does it then auto rebalance at the next period, or does it dynamically auto rebalance in real time based on that portfolio parameter that we assigned for waiting?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, currently it reacts on the fixed kettle, but what we are implementing in the back is also that one can decide to leave it up to the machine. Oh, very interesting. To optimize whenever it sees this is not really a big issue. So far, most customers actually wanted to have a fixed rebalancing schedule, especially, as you need to understand, currently it does not execute here on the platform. So what it generates is the weights and the titles. So we give them, the customers are getting the weights and the titles. Naturally, we can do that via API in the form of a direct kind of tradable piece of code. But still, many of our customers are doing this manually and they want to know when the new traits or the new weights are coming, and they don't want this to be 24/7 but obviously, technically, the next step, or what is possible is to do an automated rebalancer."
+    },
+    {
+        "speaker": "C",
+        "text": "So let's switch gears here just a little bit. Obviously, you are based in Europe, which is an important geography here for real vision and our viewers. Let's talk a little bit about what the landscape is in Switzerland and in Europe more broadly right now, in your view. Obviously, Mika, a major issue in terms of what's happening in the crypto space. How do you see the current lay of the land, the state of play in Europe, and the digital asset space right now?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I mean, we're mostly looking at swiss regulation at the moment. I mean, Mika is also gonna be important for us here in Switzerland. But besides that, at least we have a bit more regulatory clarity than most jurisdictions. There is a DLT law in place since late 2020 that gives clear regulatory space for all kinds of DLT applications, also for what it takes to be a custodian, to be a broker, et cetera, et cetera. So we know the rules of the game as now, naturally, there is a lot of things moving, but honestly, the biggest insecurity that I see currently is not coming from within Europe, but more from the US. I mean, it's more like, what does the SEC do? Because this obviously is going to influence everyone as we know otherwise. We have the crypto Valley here in Switzerland. There is specialized law firms that have been around and are at the forefront of development since very early and the beginnings. We have very close contacts with some of these people. So I think we're well advised. We have to deal a bit with some kind of insecurities like everyone else in the space. But to be in Switzerland, we perceive it as an advantage at the moment because there is a lively scene and there is a bit more regulatory clarity than elsewhere."
+    },
+    {
+        "speaker": "C",
+        "text": "Obviously, we've covered a lot of ground here. We've talked about the general state of play in markets. We've talked about the things that have happened in the ethereum space. We've actually done a live demo, which I think is really cool, and I hope we can do more of them here on real vision, final thoughts, key takeaways that you'd like to leave our viewers with after covering all this ground?"
+    },
+    {
+        "speaker": "D",
+        "text": "Key takeaways are clearly right that we've seen several waves of professionalization of crypto investing. First, in early days it was clearly gold rush, and then we had the first winter which led to the first sophistication in terms of specialized asset management companies that entered the space. New underlyings, new fundamental things that people try to look at. But what has shown during recent times is that this first, let's say, wave of products, many of them being market cap weighted products or trackers, are good, but they're not really fit for the volatility and the difficult market environment that we would often face in crypto. What we always say is, I think crypto and crypto investing is ready for the next wave of professionalization, and it's here. So there is no reason to hesitate to do that and make sure that the next volatile phase, whether up or down, is going to be more enjoyable."
+    },
+    {
+        "speaker": "C",
+        "text": "Very well said. Stefan, thanks for coming on the show. Pleasure having you with us."
+    },
+    {
+        "speaker": "D",
+        "text": "Hey Ash, it was a pleasure for me. Thanks everyone for contributing, interacting. And my lawyer said, I have to say this, anything that we showed is obviously no investment advice. Also the portfolio we created. Nevertheless, we're happy to be here with everyone and thanks for the introduction. Hope we can speak soon."
+    },
+    {
+        "speaker": "C",
+        "text": "Always important to keep the lawyers happy. Stefan, thank you again so much for joining us. That's today. Remember to sign up for real vision crypto. It's free. Go to realvision.com crypto. That's real vision.com. dot forward slash crypto. Tomorrow, Ethereum investor and community member Ryan Berkman's will join us to discuss the post Chappella landscape. Hope you can join us as well. We'll be live at 09:00 a.m. pacific time, noon Eastern and 05:00 p.m. london time. Thanks again for watching. Have a great afternoon, everybody."
+    },
+    {
+        "speaker": "H",
+        "text": "What's up, revolutionaries? Thanks for tuning in to the real Vision daily briefing. For more content like this, head over to realvision.com and get unfiltered access to the very best, brightest and biggest names in finance."
+    }
+]

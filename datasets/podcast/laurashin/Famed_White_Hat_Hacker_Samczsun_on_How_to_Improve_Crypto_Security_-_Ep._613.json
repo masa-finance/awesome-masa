@@ -1,0 +1,434 @@
+[
+    {
+        "speaker": "A",
+        "text": "But I also knew that this effort would be a massive undertaking. We're not talking about let's write a single blog post and sort of do a call to action and then be done with it. This is like a massive change in the way that we think about how to do incident response."
+    },
+    {
+        "speaker": "B",
+        "text": "Hi everyone, welcome to Unchained, your no hype resource for all things crypto. I'm your host Laura Shinna, author of the Cryptopians. I started coming crypto eight years ago and as a senior editor at Forbes was the first mainstream media reporter took over cryptocurrency full time. This is the February 27, 2024 episode of Unchained."
+    },
+    {
+        "speaker": "C",
+        "text": "Polkadot is a leading layer zero blockchain with over 2000 developers, and the Polkadot 2.0 upgrade will be a massive accelerator for the ecosystem, making it faster, more secure, and adaptable. Perfect for Gamefi and Defi to build, grow and scale. Join the community@polkadot.net workflow ecosystem community streamline."
+    },
+    {
+        "speaker": "D",
+        "text": "Your defi with Vaultcraft, the ultimate on chain toolkit for deploying custom automated Defi products on any EVM chain. Join Vaultcrafts referral program, unite with the community and supercharge your crypto details on Vaultcraft IO. Hey unchained listeners, as you know, its hard keeping up with a fast paced world of crypto, so weve got just the thing for you. Subscribe to our free unchained daily newsletter at unchainedcrypto dot substack.com. youll get the latest crypto news and original articles from our reporters, as well as summaries of other happenings and bullet points."
+    },
+    {
+        "speaker": "B",
+        "text": "Plus our meme of the day, all."
+    },
+    {
+        "speaker": "D",
+        "text": "Curated and written by our amazing team. Its still your no hype resource for all things crypto, just in newsletter form. Sign up at unchainedcrypto dot substack.com. again, the URL is unchainedcrypto dot substack.com dot."
+    },
+    {
+        "speaker": "E",
+        "text": "This episode is brought to you by Shopify. Forget the frustration of picking commerce platforms when you switch your business to Shopify, the global commerce platform that supercharges your selling wherever you sell. With Shopify, you'll harness the same intuitive features, trusted apps, and powerful analytics used by the world's leading brands. Sign up today for your dollar one per month trial period@shopify.com. tech all lowercase. That's Shopify.com tech."
+    },
+    {
+        "speaker": "A",
+        "text": "Whoa."
+    },
+    {
+        "speaker": "E",
+        "text": "Landing an account this big will totally change my landscaping business. It's gonna mean hiring more guys and more equipment and new trucks for the new guys to drive the new equipment in, huh? I don't know if I'm ready. You can do this. And Ford Pro finsimple can help. Our experts are ready to make growing pains less painful for your business with flexible financing solutions that meet the needs of your business today when you need them. Get started@fordpro.com. financing. Financing."
+    },
+    {
+        "speaker": "B",
+        "text": "Today's guest is Sam Cz Son, CEO of Security alliance, aka Seal, and head of security of paradigm. Welcome, Sam."
+    },
+    {
+        "speaker": "A",
+        "text": "Hi."
+    },
+    {
+        "speaker": "B",
+        "text": "Let's start with your history in crypto. You are a famed white hat hacker, and now, you know, as we mentioned, you have launched this new organization, but tell us your origin story."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so I got into crypto. It feels like quite a few years ago. The long and short of it is basically a friend knew that I was into security and had been nagging me about what we now know are the parody multisig hacks. At the time, of course, I didn't know anything about it, and I sort of just brushed them off for months on end. I was like, I've got better things to do than this cryptocurrency nonsense. You know, thanks for letting me know, but I'm gonna just keep doing my thing. And eventually, one day, you know, as we all do, I was just sitting there watching YouTube. I wish I could tell you specifically what VLT I was watching, but that, you know, will be lost forever to the status of time and the YouTube employees who are watching my account. But I was watching YouTube, and I was like, I'm being so unproductive right now. I'm like, slosh in my tear. There's got to be something better I could be doing. And then I thought, well, hey, like, let's just look into this cryptocurrency thing. In the worst case, you know, we spent a few hours and we waste some time, but in the best case, we might learn something new. And it turns out that over the past couple of years, I've learned so many new things in this space, and it's been such a wonderful journey."
+    },
+    {
+        "speaker": "B",
+        "text": "And so before that, you say that you were interested in security, but why in particular have you taken the path of white hat hacking?"
+    },
+    {
+        "speaker": "A",
+        "text": "That's a really good question. I think it's probably largely how I was raised, specifically how I. Not quite sure, but ever since I was young, this idea of doing the right thing and sort of. I wouldn't go so far as to call it justice, because I think in the real world, we're not living in some sort of superhero film. But I've always had a very stubborn sense of right wrong sometimes to the frustration of people I work with. And so I think it was pretty natural to translate that to sort of trying to do my best for what I think is right for crypto in crypto security."
+    },
+    {
+        "speaker": "B",
+        "text": "And so how did you come to be known for the rescues that you have been doing and then how did that translate into a job at paradigm?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I think what happened there was basically I had started with finding these critical bugs. And of course when you first start, no one knows who you are and so you have to sort of convince them that you're not just another spammer reporting fake bugs. And then once you've built some reputation, then people want to work with you and they want to hear your advice and they want to make sure that they're doing the right thing when they're faced with these critical bugs. And so slowly you just get lived to more and more of these rescue situations where, I mean, it sort of is that it's misfire effect all of us nature capitalists love to talk about. And eventually I guess I landed on paradigms radar. Yeah, I'm not sure what specifically must caught their attention, but something did and then they reached out, I think around the same time at the higher Georgia's and it was all just paradigm from there."
+    },
+    {
+        "speaker": "B",
+        "text": "And so of those early saves and rescues that you did, what are some of the more memorable ones?"
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, I have to talk about the dark forest one. That one's a two parter, right? The first part was when Dan Robinson, the head of research and George, yes, again, CTL paradigm, when they reached out about this very small amount by today's standards, I think it was like less than 50k. But it was some amount of tokens that was stuck in a unisot v two pool where anyone could burn the tokens and redeem the underlying collateral. And I remember telling them that I had seen these generic flat earners, as we now call them, lurching in the mempool. And so they should really be careful. And I think under time pressure and other circumstances, obviously the rescue didn't work out. But that sort of set the stage for the famous Ethereum dark forest post, which I think in hindsight was worth it. And then a few months later, I followed up with that, with escaping the dark forest. And that was by far one of the most stressful rescue situations I'd been in. I think if I remember correctly, it was a combination of the team being anonymous. So it was very hard for us to confirm who we should even disclose in the first place. The bug being so wide open in the sense that there really weren't many requirements necessary. You didn't need to have a lot of collateral. You didn't need to have any sort of special insights. It was just sort of sitting right there in the open. And also the amount being. Yeah, I think it was around $10 billion, which is, at the time, again, a very high number."
+    },
+    {
+        "speaker": "D",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "It's all these things together just made that one of the most memorable worms for me, I think."
+    },
+    {
+        "speaker": "B",
+        "text": "And so at that time, when you were, like, less well known, when you would reach out to people in that kind of situation, like, did they take you seriously? What was it like trying to do this when you were not well known?"
+    },
+    {
+        "speaker": "A",
+        "text": "I think before my CRX bud, I definitely had some trouble connecting with people. And in web two, it's so much more different because the bug bounty space is just so competitive and also so filled with low quality reports that it is very hard to reach certain companies at times. But I'm not going to pretend that I've had it as rough as a lot of other people in the space, because I did sort of start off with just this very high severity bug insert. And so, right off the bat, I think my public debut was one where people were like, this guy knows what he's doing, and if he DM's us, we should have a listen."
+    },
+    {
+        "speaker": "B",
+        "text": "So how do you monitor for vulnerabilities? I heard you say on another podcast that you have alerts set up. Like, are there particular websites where you set that up? Or how are you running nodes? Or how do you do that monitoring?"
+    },
+    {
+        "speaker": "A",
+        "text": "That was a while ago. The landscape has really changed over time. I remember back a few years ago when I could feasibly monitor the entire space for myself. I could watch all the new deployments, watch all the new contracts being verified, and have a really good grasp of what was happening across the entire ecosystem. Nowadays, that's very much not the case. Just the fact that there's multiple l one s and l t's today. Um, you know, it's a major departure from previously, where it is mainly just the theorem activity. Uh, and so to answer your question, I actually don't do much monitoring myself anymore. I leave it to the companies that I was spun up specifically for that purpose. And, you know, the. The countless amounts of in now requests that I actually, um, may be a good tense or a good, uh, redirect. But, you know, previously I used to get all these DM's from people asking for help about their smart contracts getting hacked or their wallets getting drained or some other security question. And I knew that a lot of my friends could also answer these questions for help if I wasn't available. But it was hard getting the word out that, hey, instead of Sam, here's the list of 30 other people you should try. If he doesn't respond right, that's not very good. It's not very ergonomic. And so that was one of the motivations behind c 0911, which actually today now does handle quite a lot of these cases that normally would have landed in my DM's. And of course, I still jump in and help, but it's been a great way to load balance the deluge of incidents across all these people who are equally capable."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, yeah, we'll talk about that in a moment. I do want to ask you a little bit more about how you work. One thing that I was wondering is why you. Why do you think that you're so good at recognizing vulnerabilities? Like, is there something about your personality that you think allows you to see things that others can't see or think of things other people haven't thought of?"
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, I think part of it must be intrinsic because I'm not quite sure, and I've asked myself this numerous times, I'm not quite sure how I would teach someone to find security vulnerabilities beyond walking them through a list of things to check for. So I think there is something intrinsic about being able to reason through these complex scenarios and to come up with these scenarios to figure out what potential attack vectors are. At the same time, I do think it's necessary to essentially credit luck a bit in this. I think way too many times people try to pass off, you know, being lucky in the right place at the right time and having to read over the right file in the right function and noticing a bug with, you know, skill. And I think it is necessary to disclaim that, you know, part of it is being able to reason through these issues, but part of it is also, yeah, being early to the cloud base or hitting upon the right file or other circumstances like that."
+    },
+    {
+        "speaker": "B",
+        "text": "And before you were hired at paradigm, how were you making money from these exploits? Or, sorry, catching the exploits?"
+    },
+    {
+        "speaker": "A",
+        "text": "I was gonna say I don't exploit things here. All good? Yeah. Before I joined paradigm, I was working at trailer bits. And so I was both getting paid there and also, you know, much more active in the bug bounty scene. And so, you know, if he found a critical bug, he would get 5100k or so. And so, you know, to be clear, like, very good money for both at the time and also for, like, the average person."
+    },
+    {
+        "speaker": "D",
+        "text": "Right?"
+    },
+    {
+        "speaker": "A",
+        "text": "So knock on flights."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, so I asked on x, formerly known as Twitter, what I should ask you, and some people told me to ask you if you were going to change your handle because Sam, meaning Sam Pinkman, Fried, and CZ are no longer a big part of crypto. Actually, we'll put a question mark on the CZ bit. But. So that made me think, oh, do I not know that his name is based on some mashup of Sam Thankman Fried's name and CZ's name? And then I would assume the sun is, like, Justin's son, but I actually don't know that that is the origin of your name. So is that the origin of your handle, or does it have nothing to do with those three people?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, you know, the magic does become dispelled if I reveal its origins. That's what I was told by the wizard who granted me these powers. And so I don't think I can say, but if anyone has suggestions for what I should change my hand out to, I guess, d and me, I was going to say, like, to be clear, my handle wasn't necessarily based on. But I do think it is funny how things turned out. And, I mean, hey, if I somehow discovered the crypto equivalent of death note, well, one, Lawrence is going to be very upset that he didn't somehow discover it first. But, yeah, I mean, whatever it takes to do good, I guess I've just become an enemy protagonist. That's not good."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. Okay. Because, yeah, all three of those were sort of like main characters in crypto at different points, so, yeah, it's just interesting that it could be seen as a reference to them. All right, so now let's talk about your recent big news. You just launched the security alliance."
+    },
+    {
+        "speaker": "A",
+        "text": "Tell us what."
+    },
+    {
+        "speaker": "B",
+        "text": "What it is."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so we launched the security alliance a few, or I guess, you know, a week ago or so, and it's been in the works for over a year now. The origin story is basically. Well, it really started with the nomad hack. And as I mentioned in my thread, it was at the time, one of the even more stressful worms, mostly because it was very painful sitting there watching these funds get trained and not being."
+    },
+    {
+        "speaker": "B",
+        "text": "Able to do anything and remind us why it was that people couldn't do anything."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. So the main reason is basically, you know, for the white hats, we want to do things by the book. We want to do things correctly. And so usually what that entails is getting permission and making sure that you've done all your due diligence and making sure that you're wanting heroically exploit for performing the exploit, but obviously with their intention to return funds. But in the case of the nomad incident, not only was the war room just super stressful, and to be completely honest, I think the idea of even asking for gruition just totally slipped my mind. It was so chaotic. By the time that we really understood the bug, these people had been copy pasting the payload themselves that we were sort of already focused on trying to prevent the bug externally, outside of the war room. A lot of people didn't even have the ability to contact Nomad team. And so for them, there was no way they could have gotten permission in the first place. And so, yeah, put together, it just sort of said back into this idea for white hats that, like, if there's an incident that's happening, is probably not in your best interest to get involved, whether it's because as before, you won't get permission from the team or you can't get permission from the team. What happens if you try to perform the rescue, but it's your off day when you hit enter too soon or you make some sort of mistake? Now, where does the liability fall? Is it like, is it your responsibility because now you're directly involved in losing access to all its funds? Or, you know, is it check between you and the team? Or, like, what happens there?"
+    },
+    {
+        "speaker": "C",
+        "text": "Right?"
+    },
+    {
+        "speaker": "A",
+        "text": "And so it's just. It's just always been extremely ambiguous for white hats, to the point where I generally don't really consider getting involved directly at all. I almost always prefer to advise the team. Right, I'll tell the team, here's what the bug is, here's what you need to do next, but I'm not going to hit that button for you. And after the Nomad hack, my thought process was basically, is there any way we can change this? Because it's been years since I started thinking that way, and it feels like the ecosystem has moved on. And if we're going to prevent these sorts of hacks in the future, if we ever arrive at one of these incidents again, we need more tools to empower the people that know what they're doing and can help save the day. But I also knew that this effort would be a massive undertaking. We're not talking about, let's write a single blog post and sort of do a call to action and then be done with it. This is like a massive change in the way that we think about how to do incident response, and I wanted to make sure that we were doing it right, and I wanted to make sure that people were on board with what we were trying to do. And so from there, I realized that there's actually a lot of stuff that I wanted to do in this regard where it seems like a really good idea if executed, it would probably do a huge amount to get for the security ecosystem, but also required just a lot of collaboration, a lot of sign on from different parties, and I realized there was no structure in place to do that. From there, we traded the security alliance, which is, yeah, the solution to all those problems that I just described."
+    },
+    {
+        "speaker": "B",
+        "text": "So let's say that the security alliance gets pinged for a vulnerability that's been identified. I guess there's probably two scenarios we could discuss. One would be that there's a hack that's in action. I don't know, whatever reason, but for some reason, maybe they couldn't take all the funds right away. But people can see that this is out there. Maybe other people are copying, stealing extra funds. So how would you handle that? And then the other scenario would be, you've identified something, nobody seems to know about it yet, you need to move the funds safely. So walk us through how seal would approach both of those scenarios."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so in the forward scenario, where someone has identified or is exporting a bug in the previous world before seal, that news would have made it around to a handful of people. It would have slowly circulated around the security community over time, as people remember other people to reach out to you. I myself, during incidents over the course of hours, will be like, ah, wait, here's another person that we should reach out to. And now all these people are in one room. Right. And so before that news would have slowly circulated, as more and more people were brought into the loop, we would have identified other protocols that might have been at risk, which, you know, again, it's a very slow process, and we would have resolved the incident. It just would have been much slower than we would perfect. Today, when someone reports a critical bug, either one that they discovered or one that's being exported through c 0911, all the people on the c 911 team see it immediately. If we remove that delay front will slowly bring other people into a loop. And one of our first priorities is to identify which forts of that protocol might be affected. And as we slowly resolve more and more incidents, we refine this workflow so that over time, we have evolved from actually not prioritizing forks to now prioritizing forex very heavily making sure that everyone understands the rules of disclosure and that we should keep everything under wraps until we've resolved the incident. Refining our incident response feedback, really just making this process much more optimized. And that's something that we just didn't have before. Sealem zero one. And then as for the case where we find a bug internally, well, again, before, if I find something critical, my choices are to go to the protocol. If I knew who they are or if I didn't, dm a handful of people that I trust in hope that they did. And again, it's this sort of wide connections that sort of spins out. And today I know that everyone in Seattle wants what I can trust. It actually back to everyone at the security lines I can trust. And so I can just drop a message in those group chats and ask, hey, does anyone know this protocol? Here's some details, really just be much more open than I could. In other security communities, we have the mute security telegram, for example, which is where people used to go to drop these sorts of questions. But that telegram group has 2000 to 3000 evo by now, and it's almost a guarantee that if you drop a message in there saying, hey, does anyone have a contact at some protocol that's just a giant, you know, giant strobe light for hackers to tell and look at that protocol really quickly before the bucket's fixed."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, interesting. So black hat hackers are monitoring those groups in order to figure out where they can exploit a vulnerability and get at it before the white hackers remove the funds, is that what you're saying?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. The group is public and public access by design, because we want to facilitate people interested in security in having conversations with the other, in discussing research, discussing latest news, whatever. But as a side effect, it does mean that the group is so big now that it really isn't safe for disclosing or even hinting at potential vulnerabilities and protocols, because it's almost guaranteed that there's at least one black hat hacker in there who is just watching and waiting to see if someone is going to make that mistake. And if they do, that's a really clear sign for where they should go to find their next block."
+    },
+    {
+        "speaker": "D",
+        "text": "Right?"
+    },
+    {
+        "speaker": "A",
+        "text": "And so we want to avoid that."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so you mentioned the Seal 911 hotline. So basically that's this telegram group. So let's say that I work at some project and I'm realizing that there is a vulnerability and funds need to be moved or whatever needs to happen in order to prevent that from being exploited. So I contact the 911 Seal 911, which is this telegram group. I imagine it pings some number of people. How many people are in that group? How is it structured? Is it just whoever's up starts working on it, or. And then how do you even like, vet the members of that?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So let me try to answer as many of us as I remember one. How does it pin the group? The 0911 bot is what meetup people communicate with, and that bot sends messages into a group chat that we're all in. The structure is very flat. In other words, everyone is in the same group chat. We all see all the tickets, and it is a first come, first serve basis. And again, keep in mind that everyone here is volunteers with full time jobs at their own. And so sometimes it does take anywhere from a few minutes to a few hours for someone to respond. But depending on what you come in with, if you come in with a critical bug that's being exploited, people will see that and people respond pretty quickly as far as how to vet people. Oh, sorry. I guess first, who's in it? We have a public list of the members on GitHub. The bot actually links you to it when you are about to open a ticket, because one of the things that we really value is transparency and establishing that high amount of trust in the system. And so we want to make sure that people know exactly who is going to be seeing their reports. And if any of them are people that they're not comfortable sharing with, they know ahead of time. And as far as betting from new livers, that's a pretty informal process. It's basically people that I or someone else in the group trust, and then I haven't had to yet. But I preserve the right to veto someone is, I think that they're just really untrustworthy, which hasn't happened yet, but, you know. Bye."
+    },
+    {
+        "speaker": "B",
+        "text": "And how many members are there total that get hit for the Seal 911 hotline?"
+    },
+    {
+        "speaker": "A",
+        "text": "We're about 40 people or so currently."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. And then I'm sure there's, well, so you've been live for just, I guess, a really short period. Has anybody called it yet?"
+    },
+    {
+        "speaker": "A",
+        "text": "We've actually been live since August of last year. Like I said, SEO has been operating in stealth for over a year now. We have launched the 0911 and we've launched sealed war games, but we didn't launch the itself until a week ago or so. Over the last couple of months, when no one has been active, we've gotten quite a few tickets. We've managed to save what maybe not necessarily safe but at least health protocols resolve their incident. From the moment they noticed that they were hacked to, they sort of wrapped up things and whether or not they got the funds back. And of course, we've helped a lot of individual people who were scammed or who had their role extrane. I think that's actually something that's really underappreciated is just for a lot of these people, they get scammed or they get trained, and they feel very helpless. Right. They don't know where to go or what to do. They're just sort of stuck in their little, you know, they're just very isolated. And even if we can't get the funds back, I think there's something about being able to talk to another human being about what they just went through and hearing that, you know, at the very least, it wasn't just them. Right? Like, it's very common thing that happens and, you know, someone is on the other line, on the other end of the line listening. I think that's still really valuable. Of course, since seal lush, our volume of tickets has just gone up by an order of magnitude. And so we're still sort of sorting through those new ones and trying to figure out how to improve our workflow to adjust for the new found attention."
+    },
+    {
+        "speaker": "B",
+        "text": "And for the hacks that you were able to disrupt or intercept in the last six months are like, what number was there in that time period? I'm curious how frequent it is that these kinds of vulnerabilities are caught."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So a lot of the stuff we find are, again, observed by these monitoring companies whose job it is to detect these hacks in flight and or after they're executed. But understandably, these monitoring companies are not in the business of intercepting these hacks. Right. They might observe it happening, but as legal entities with even more responsibility than the anonymous white hat, they really can't just go and front run a hack without any sort of, again, permission. And so the answer to your question is, currently we front run maybe a handful of hacks, a very small amount, usually from the mess searchers in our group. But my hope is that with this white hat safe harbor agreement that we've worked on for the past year, it does empower one of these map searchers and maybe even other individuals who have the capability to intercept these hacks to actually go and do it, provided that they have sufficient confidence in their system that they can actually intercept or not mix up the auras."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Honestly, it reminds me of in my book when I wrote about the DAo hack and the white hat group trying to figure out how to rescue the ones in the DAO that remained vulnerable. There was this one meeting where some of them chickened out because they were like, well, if were trying to rescue this money, we will also basically do the same exact hack as the hacker did. And so they waited until they noticed other people trying the same exploit. And once they noticed that, then they were like, okay, so now we have a clear reason to rescue these funds. But yeah, they had this long debate initially because they weren't, they just really didn't know what would happen legally to them. One other thing I was curious about is, you know, you mentioned that all the people on the SeAL 911 group have other jobs. So do these workers get paid at all? Or, you know. Yeah, I don't know. How is it all volunteer? Or how does compensation work?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it's all volunteer basis right now. If we get a bounty from someone that we've helped, we split it between all the people that participated. There's no seal, doesn't take a cut of that or anything. But other than that, it is all volunteer. I think it was working very well when the volume of tickets was low. If the volume of tickets continues to be at this new increased rate now that we've gone live, we might have to either explore, bring more people on the team, because I think there are also a lot of people who are genuinely interested in volunteering and providing the time to helping other people. It's just the number of tickets might be too high for that. And so we can either bring more people into the loop or we can explore some way of maybe hiring a few 400 triagers. But we haven't gotten that far yet, so only time can tell."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, so in a moment, we're going to talk more about skill war games and the safe harbor agreement. But first, we're going from the sponsors who make this show possible."
+    },
+    {
+        "speaker": "C",
+        "text": "Polkadot is the largest layer zero blockchain with over 2000 developers. And the anticipated Polkadot 2.0 upgrade will be a massive accelerator for the ecosystem. Upgrading the infrastructure with eight times higher transaction throughput and twice as fast block times. Perfectly tailored core time for the needs of every protocol. Trustless bridges internally and into Ethereum, Cosmos, Nier and Binance. Smart chain revised tokenomics and the implementation of a token burn to reduce inflation. Perfect for Gamefi and Defi to build, grow and scale with one of the most active crypto communities in the space. Polkadot recently announced a partnership with mythical Games, bringing top games like NFT, rivals with over 650,000 players and 43 million transactions to pave the way for Gamefi and the Polkadot ecosystem. Get your web three ideas to market fast with economics that work for you."
+    },
+    {
+        "speaker": "B",
+        "text": "Think big, build bigger with Polkadot."
+    },
+    {
+        "speaker": "C",
+        "text": "Join the community@polkadot.net. work ecosystem community Defi just got way."
+    },
+    {
+        "speaker": "D",
+        "text": "Easier with Vaultcraft, a blockchain infrastructure for building, deploying and monetizing non custodial yield strategies in a few clicks. Forget spending months of R and D capital and human resources when you can now instantly launch your crypto fund with Vaultcraft on any EVM chain, from wallets and institutional service providers to anandgens, faultcraft supercharges your crypto assets by enabling instant cross chain yield strategies that you can deploy in 1 minute. Now anyone can supercharge their crypto portfolios with custom tailored defi strategies. Join Vaultcrafts referral program, unite with the community, and supercharge your crypto details on Vaultcraft."
+    },
+    {
+        "speaker": "B",
+        "text": "Back to my conversation with Sam. So you've alluded to it earlier in the conversation, but you talked about how the security alliance also has the Seal war games. Tell us what that is."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so like the name suggests, Seal War Games is designed around the idea of wargames, which is from the web two security world. And it's basically the practice of doing incidents response training, right? It's simulating what might happen in an incident and running to those worst case scenarios and making sure that the people responding know exactly what they're doing, have gone through the motions, are prepared to the real thing. Right. And that's something that we're really missing in Web three, because for a lot of these protocols, not only do they not have the security engineers on hand to do this in the first place, but even if they do, they might not have the resources to dedicate to running one of these things. It also is very complicated. Isaac has spent so much time building out the infrastructure for running war games, which I'm infinitely grateful for, but it just goes to show how complicated running one of these things is. Of course, that is the benefit of CEO operating it is because is in a visual protocol runs one of these, they build all the tooling, they run the exercise, and they're done with it. Whereas we can run many of these war games one after the other, and each time we do it, we can refine our processes open source, actually, we use most of the infrastructure that we build and it's just much more efficient."
+    },
+    {
+        "speaker": "B",
+        "text": "And do projects hire you for that?"
+    },
+    {
+        "speaker": "A",
+        "text": "So like all things that SEO is currently done and like they will do in the future, War games is free. And so there's no, you know, there's no fee that processes to pay. There's no expectation of payment. A few of them have talked about making a donation after the fact, but we stress that it's not obligated at all. The goal of Seal War games, like with seal in general, is to improve the overall security posture of the community and to do it in a way that doesn't like. We don't charge a membership fee and we don't want to charge for any of the things that we do."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. And are there certain types of situations that you test out?"
+    },
+    {
+        "speaker": "A",
+        "text": "So currently, we mainly specialize in Swag contract device just because that's the most prevalent. And so, well, when we run a war game, we do it in terms of two parts. And so the first part is sitting down with the protocol and doing what's known as the tabletop exercise. That's where you can basically imagine it as like a security role playing game. Right? Where we would say, hey, let's say hypothetically we do this. What would you do? And the protocol responds, well, we would do xyz. And we say, okay, you just did y. Now we follow up with a what do you do?"
+    },
+    {
+        "speaker": "D",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "And we sort of explore on paper on how the protocol might respond to various sorts of incidents. From there, we can take that information and design an actual scenario for them, one that we think would test the things that the protocols we kind or needs practice in. And then we run one hands on simulation for one scenario. Right. And so that's sort of the life cycle of a war game."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, so now let's talk about the white hat safe harbor. This, as you mentioned, is a way to give the white hat hackers who participate in these rescues a way to know that they're legally covered. And I saw, and maybe this isn't how it would work for all of them, but I saw a diagram discussing how this would work. And the first step is that the white hat safe harbor begins with the Dow creating the legal proposal and then voting to adopt it. And I wondered for kind of a potentially fast moving situation, like a hack. Is there even time for that? Because some of these daos have long voting periods, etcetera. I didn't know if that's set in stone or how you deal with those kinds of situations."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So before we get too deep into anything about the safe harbor agreement, I will just disclaim, though, I think it's obvious that I'm not a lawyer. And so there are questions which I will just opt out of entirely because I can't speak confidently to the legal side of the thing. But on this question particularly, the answer is that's actually, you're right that a lot of these dows have long voting processes and time to adopt proposals. And so if the intent was to have a DAO, you know, grant permission on the spot, then this would be the wrong way to do it. But part of the goal of the safe harbor agreement is to encourage these protocols to stop leaving things to the last minute. Right. They should. We want to encourage them to adopt the safe harbor agreement beforehand, before they're innocent. Not only does that mean that they're granted permission, not last minute, but also, I hope, is the first step towards solving one of the big issues in security today, which is to say protocols get hacked, the hacker takes all the money, and now the protocol is negotiating for 90% of the funds back with the quote unquote white hat. And they'll call the 10% of bounty when they call it Oprah award or whatever. I think most people looking at that situation can recognize that it's not quite legitimate. And I think most security people, if you ask them whether or not they sort of are happy with what's going on, they're going to tell you they're not very happy with that state of things. Right. So the hope is, with the safe harbor agreement, we remove that need to negotiate in the moment at all, because the protocol will outline ahead of time exactly what they're willing to pay for the interception of a hack that is ongoing or about to start. And then if the hack does proceed, well, the terms are there. Right. And so if you do return the funds, great. If you don't return the fines, protocol ideally doesn't bother negotiating with the hacker at all."
+    },
+    {
+        "speaker": "B",
+        "text": "And so can you describe a little bit kind of the basic tenets of the safe harbor, like, for white hats that want to participate in this kind of rescue, like, what can they be assured of?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So the agreement basically is designed to protect both the protocol and the white hat against civil liabilities between each other."
+    },
+    {
+        "speaker": "D",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "In other words, those who adopt the agreement agree that if the white hat has taken proper precautions, you know, has done their due diligence. I don't remember what the legal term is, but basically represents themselves as a competent white hat who is able to perform these rescues, then the protocol agrees to give them safe Harvard. Because at the end of the day, we're all human. And so in the grand scheme of things, across hundreds of thousands of these rescues, someone is about to make a mistake at some point. And we don't want to discourage white hats from doing anything just because that one incident might cost them their entire, like, savings. Apart from that, it also sets dictates the terms that the protocol has outlined for the rewards payout. And so that means that ahead of time, before the white hat even engages in anything, they know exactly whether or not the protocol is willing to pay, for example, 10% up to a million dollars, or 5% up to $2 million. Or maybe the protocol is saying, we actually don't want to pay anything upfront. We want anyone who is interested in participating in a severe mint to return all the funds to us first. We'll conduct an investigation. We'll perform the issue response. We need to do QIC because we're based in the US, and then after all that, we'll send you. But regardless of what it is, the protocol sets out very clearly what the streams are. And so the white hat knows ahead of time. And I guess the other thing is just the white hat is required to, or, you know, not required, but, you know, ideally would notify the protocol before they began any rescue. And this is just to make sure the protocol can differentiate between who is a white hat under the agreement and who is just sort of out there causing chaos right now. I think, to be clear, the entire legal document is very long. It's like 45 pages. And so I've definitely only summarized the very high level points here. For more information, listeners should definitely, if possible, review the whole thing, or at least a human readable summary. But that is sort of the gist of it, right? It is to provide safe harbor to these white hats."
+    },
+    {
+        "speaker": "B",
+        "text": "And so for the safe harbor, I wondered, is this something that has some analog in web two, or are the problems that white hat hackers in Web three face, are they sort of unique to web three in some respect?"
+    },
+    {
+        "speaker": "A",
+        "text": "There is an analog in web two. It is also called safe Hibbert, and it applies in bug bounty programs. And so what almost every major company in Web two that has adopted the bug bounty program has said is if you access our systems illegally, but you don't cause destructive damage and you report the bug to us without disclosing to anyone else, then we will offer you safe harbor by agreeing not to, you know, try to see you for illegally accessing our systems."
+    },
+    {
+        "speaker": "D",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "And that's sort of necessary these days because the anti abuse laws in various countries are so strict against illegal access that theoretically, any company that you so much as, like blink towards in the wrong way has a right to see you. And so this just makes it very clear that these companies will not see you if you're doing security research, provided you also report it to them. Obviously, web three ds are a little different because the impact of a security vulnerability is so obvious. Right. In web two, you can get hacked and the public might not know for months or years, but in web three, you get hacked and the public might know before you do. And so we've had to adjust the terms of the safe harbor idea a little bit to accommodate for our industry. And I think that's something that we'll find a lot more in the future, is that as we try to adopt these sort of best practices that Webtoo has already long been using, the fact that our industry is so unique in some ways means that we have to make a few changes here and there to make it make sense, basically."
+    },
+    {
+        "speaker": "B",
+        "text": "And in December, on the chopping block, you said that most reasonable people in crypto have moved on from the notion that code is law. I still see it, though, and I wondered what made you think people moved on from that, or why it is that you think that. That that's probably not something that either should be the case or is the case."
+    },
+    {
+        "speaker": "A",
+        "text": "It's possible that only within my close friend, close group of friends, we sort of moved on from it. But I do think most of the time on Twitter, when I look at people trying to promote that idea, most people, then I look up to you or acknowledge respect, so disagree with it. And I think the reason is because at this point, the idea behind Codisla is essentially trying to almost disclaim responsibility. Right. It's sort of a way to say, well, it's not my fault. I can't be held accountable for the consequences of my actions, because really, it's codes fault. It's the developer's fault. They should have known better when they started engaging with a platform like the blockchain. Like smart contracts. Right. How dare they not be perfect human beings and up with perfect code, even though no one in web two has managed to do that. And I think at this point, we have to acknowledge that humans are not perfect and told us lie. As. As I'm familiar with, it is primarily being used as a way for people to shrug off responsibility for their actions most of the time, those actions being ones that cause damage to either protocol or users. I think it is true that there are parts of the community that are much more sort of aligned, much more with the original crypto ethos of like, very cypherpunk, very decentralized. But I think for the sake of adoption, for the sake of making sure that crypto is actually usable for people beyond the most technically sophisticated, we can't do codasaw anymore. That just doesn't work."
+    },
+    {
+        "speaker": "B",
+        "text": "So here we are chatting on this podcast, and you're using your avatar. You even have a voice, an automizer on. And I wondered generally what all the things are that you do to keep your identity safe."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I mean, a lot of it is just good privacy practices in general. Don't reuse passwords, don't upload pictures on the Internet that you don't have to, because again, those pictures, like the Internet never forgets. Right? And it's someone who is a little more out there. I have a few virtual mailing addresses that I use that I've bought from different companies, and so I give those out in lieu of my actual address when possible. I use fake names with things, although it has gotten me banned from a handful of services which think that I'm being a fraudster, which is there. I've told people, especially close friends or founders, that if they want advice on how to do something like good OPSeC, I'm happy to give it to them. But it really is, I think, a case by case situation. Because once you move beyond the basics, which again, use a password manager, make sure that you're not using SMS to your theater called, anything you want to make sure your make sure instead of two FA in general, those kind of things, once you move on from that, it really is specific to your situation. And so, yeah, I mean, there's a lot of things I do, and some of them, I guess, I also am not comfortable sharing."
+    },
+    {
+        "speaker": "B",
+        "text": "And out of curiosity, do your coworkers at paradigm know your real identity? Can they recognize you in a crowd?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Yeah, they can. I thought it would be too awkward to wear a helmet every day, and so I didn't meet them. The person, although, I don't know, it's, I think it's interesting because anonymity is like a ratchet, right? It only spins one way. And so, you know, there are times where I wonder, you know, what will I feel like if I had done even more anonymous than I am today? But for now, this is where I'm at, right? Where some people I've been in person, I do meet people irl at times when I know I can trust them, and then other times, especially when it comes to things that will be sort of stored forever on the Internet, I try very hard to make sure that I anonymized it in some way."
+    },
+    {
+        "speaker": "B",
+        "text": "And why is that? Is it because you feel that you've offended or pissed off so many black hat hackers that they will try to go after you in some fashion?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, part of it is just precautionary because, yeah, like, even if I don't upset anyone today, I might upset someone two years into the future, and I would be very disappointed in myself. If someone tears in the future, can pull up some very personal information about me from today that I hadn't taken the efforts to anonymize in some way. Part of it is also years ago when I stopped posting pictures and stopped posting Jacquardius of myself with things like that. Part of my fear was essentially that one day it'd be possible to take samples of someone's likeness and then through some algorithm, generate copies of that. And here we are in 2024, and AI models can do just that. You can feed them a bunch of pictures and they can generate more pictures of that person. They can feed them a bunch of voice clips, and they can generate more voices if that person. And so in a way, that is one scenario where my quote unquote worse fear is having realized, am I saying that I'm important enough to justify someone taking all that effort to close my voice and make me say some really bad things? I don't think so. But if ever someone does feel that urge, I feel a little better knowing that the number of clips of me out there, you know, without a voice changer, is low enough that I think it should be fairly difficult. Of course, now that I've said that, I've invited everyone to try it. And so I can only expect that, you know, there will be clips of me saying the dumbest things a week from now."
+    },
+    {
+        "speaker": "B",
+        "text": "So, you know, given how careful you are with your security and your reputation for finding exploits, you know, it's pretty understandable that maybe sometimes you would get a little bit annoyed that other people don't take the same precautions as you. And so I did see that in December, you tweeted, getting pretty fucking sick of seeing friends burn out after dedicating all their time to protecting people instead of getting rich. And then half the people on this fucking site can, which is Twitter, can't even be bothered to remove their phone number so they don't end up spreading the next drainer. And by the way, this again reminds me of the Dow, where the white hats spent, like, most of their waking hours for months and then, like, made no money because nobody ever donated to thank them for their help. But anyway, so I was curious, if you were to call out certain kind of low hanging fruit security practices that you think aren't being enough, but aren't being practiced enough in crypto, what would those be?"
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, that tweet right there is like the number one low hanging fruit. So many Twitter accounts getting hacked, spreading these traders, those are real people being affected, right? And if these projects just take the time to go into the Twitter account, just make sure that they don't have SMS two va on, that immediately removes any risk of syn swapping affecting them. Right. These days, we're also seeing a large volume of misfake hacks, which is where someone pretending to be a journalist reaches out to you and after sort of setting you up with a bait, sends you a, what seems to be like calendly, but it says instead of logging in, it says authorize with Twitter. And that authorization involves granting ISIS the app, which in post on your behalf and do all sorts of other things. And so there's just a lot of these basic security best practices, from the fake calendar, to the fake discord verification, to the JavaScript bookmarklet. These are things that are pretty well understood in web two that we're just not doing. And once we sort of get rid of all this little hanging fruit, hopefully it'll be much harder for these hackers to steal people's funds. Of course they'll keep intimating, we'll keep intimating response. But it does feel like right now we're letting some of these very bare basics just go untouched."
+    },
+    {
+        "speaker": "B",
+        "text": "So instead of SMS two fa, like a text message being sent to your phone for security, would you then recommend something more like either a Yubikey or Google Authenticator? Just like something that's not related to your phone?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think anyone in crypto should not be using SMS two fa for anything. Just by being in this industry, you are already at higher risk than the average person. Let's face it, there's hundreds of billions of people out there. Scammers need to figure out who is the highest value people to target. Just because you're in crypto, you automatically get sorted into that high value group of people. So yeah, no one should be using SMS two fa Google authenticator is good. Just make sure to turn off setting that syncs your backup codes to the cloud. Again, this is a case by case basis, but you can imagine, hypothetically someone might have the backup sync enabled and their Google account is their weak and security now someone can get inserted their Google account and then retrieve those backup codes or those authenticator seeds and suddenly get access to the other cast again up keys are also good, but I actually wouldn't recommend those for the average person just because it is a bit of a pain to manage. You have to make sure you have your primary UBC and your backup UBC in case the primary one dies, and then you have to store your backup one in a safe place. Except you also need to register with any new sites that you go to based on the rights to start to get back up. So it is just a bit of a hassle. I think based on authenticators are good enough for most people."
+    },
+    {
+        "speaker": "B",
+        "text": "So because auditing smart contracts is expensive, what recommendations would you have for projects that care about security, but also are on a budget and maybe can't afford to have an audit very regularly?"
+    },
+    {
+        "speaker": "A",
+        "text": "That's a really good question. I mean, I think part of the problem here is basically there aren't many good resources for developers who want to either do the right thing to prepare themselves, prepare the code base before an audit, or even independent of the audit, or to level up and learn more about security. That's one of the things that I want to try and solve in the future with CL is to provide those resources so that we can reduce the load bearing factor on auditing as the primary way to make sure that your code base is secure. I think the other thing is there are also audit contests. And so those are, I think, typically a little cheaper than traditional audits. And so that might be a good way for a project who wants to get an audit has some amount of money to spend on audit, but maybe not enough for like a tier one auditor. They can consider trying a contest instead."
+    },
+    {
+        "speaker": "B",
+        "text": "So, you know, blockchain technology is continuing to develop in so many different ways. With all these layer twos happening now, layer threes, we're even seeing layer twos on bitcoin. We're seeing smart contracts come to bitcoin. It's all over the map. And so I wondered what developments in crypto are making you worried about? Kind of the potential surface attack area that they create for hackers?"
+    },
+    {
+        "speaker": "A",
+        "text": "I think bridges are always scary. I think anything that involves an offshape RT component is scary. And anything that requires proving or, you know, I think that. I guess that is an option on chain component, right? Because like trying to prove something happened in one place to another place, because that usually involves a very complex code. You need to parse the proof, you need to parse the data. You need to validate the proof, and then that proof probably gates some very critical action, right? Like unlocking a bunch of funds. And so I think at the end of the day, I still just basically ended up discovering bridges and other bridge like things. I think those will continue to be really scary for me."
+    },
+    {
+        "speaker": "B",
+        "text": "So I imagine that the security alliance is just one of the initial steps toward a more secure world in crypto. But I wondered where you thought this could go, like, in ten or 20 years. What other kind of institutions or standards or whatever do you think might be implemented that would make crypto even more secure?"
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, ten to 20 years out is like multiple lifetimes in crypto. I really don't know."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, five years, if I can take."
+    },
+    {
+        "speaker": "A",
+        "text": "That far ahead, I think, yeah, on a shorter time horizon. Part of the reasoning behind the security alliance, like I said earlier, is that a lot of people, myself included, know what needs to happen, whether it's a safe harbor agreement, what the war games or anything else. These are things that, you know, people in web two have sort of dealt and developed over the past decades. Right. They have so many more years of experience on us. And as just like, just like a, like a Tootsie offline, I think we should just start adopting as many of those best practices as we can. Right. And so what I really want to focus on with the security lines right now is just, let's bring the bar up. Right. We have so many good things we can take inspiration or straight up poppy from in web two that we just haven't done, mostly because it takes a lot of effort to organize adopting those things. It takes a lot of effort to get the ball rolling, and I'm hopeful that the security alliance is the way to get that process started."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, Sam. Well, this has been a fascinating discussion. Is there anything I have not asked you that you think listeners should know?"
+    },
+    {
+        "speaker": "A",
+        "text": "No. You've really hit, you've really hit all the topics."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, well, thank you so much. Where can people learn more about you and the security alliance?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. To learn more about security alliance, we have a website, securityalliance.org, where we have some information about the initiatives that we released. If you have any other questions beyond that, I am always available on Telegram. Amcstan."
+    },
+    {
+        "speaker": "B",
+        "text": "Perfect. Well, it's been a pleasure having you on Unchained."
+    },
+    {
+        "speaker": "A",
+        "text": "Thank you."
+    },
+    {
+        "speaker": "B",
+        "text": "Thanks so much for joining us today. To learn more about Sam and the security alliance, check out the show notes for this episode. Unchained is produced by me, Laura Shin, with help from Nelson Wong, Matt Pilchard, Juan Ivanovich, Megan Davis, Shashank and Market Curria, thanks for listening."
+    },
+    {
+        "speaker": "D",
+        "text": "Unchained is now a part of the Coindesk podcast Network. For the latest in digital assets, check out markets daily five days a week with host Noel Atchison. Follow the Coindesk podcast Network for some of the best shows in crypto."
+    }
+]

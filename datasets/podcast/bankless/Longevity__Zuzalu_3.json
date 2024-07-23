@@ -1,0 +1,1042 @@
+[
+    {
+        "speaker": "A",
+        "text": "Welcome to Bankless, where we explore the frontier of Internet money and Internet finance. And today, on this episode of our Zoozalu series, we are exploring some new frontiers. New frontiers and new technologies, all of which are poised to completely revolutionize the world and change everything about the operating system that society is currently running. Today, we are exploring the frontier of life. Does it have to end? Is there a technical reason as to why we can't live forever? And if we do figure out how to live forever, should we? What does living forever even mean? How does that look? What kind of ethical considerations are there? The longevity discussion was front and center at Zuzalu. There's a dao called Vida Dao, which is a community owned collective dedicated to funding and advancing longevity science that organize an entire weeks long worth of talks and panels and workshops, which included speakers like Aubrey de Grey, who is like the Vitalik of longevity research. The conversation of longevity definitely evokes some natural reflexes in people, but in different directions. Some people get triggered by the thought of the pursuit of longevity, where the idea of living forever just seems unnatural and offensive to some, and they immediately reject the idea outright. Some argue that it's immoral. Others argue that it's impossible. Everyone seems to have an opinion on longevity, like, immediately. One thing I noticed at Zuzalu is that there are different tribes that emerge out of the health and longevity space. There is the health and wellness group, which would be characterized as the morning exercisers, the cold plungers, those who refrained from drugs or alcohol, who did the occasional fast and overall attempted to live as healthy of a life as possible in the two months that we had at Zalu. And then there's the longevity tribe, who are closer, closer to crypto nerds who really geek out on research and science, and they're all in the pursuit of the longevity pill and the silver bullet intervention that humans need so that we can live forever. The sciencey, research innovation side of things. And interestingly, these two groups were, like, really far apart. The overlap between the health and wellness group and the longevity group was not that great. And as a member of the health and wellness tribe, we often joked that the longevity tribe are just taking the gambit of ignoring health and wellness in the pursuit of trying to find the silver bullet while living a fun and more unrestricted life along the way. Anyways, one important note about the pursuit of longevity is that there are two conversations here. One is slowing down aging, and the second is accelerating rejuvenation. The deceleration of aging can bias time, and there's a lot of effort and research going into this, and it's pretty simple. Exercise, good food, sunlight, friends and family not looking at screens, et cetera. But the magic really happens with the acceleration of rejuvenation. This is longevity. This is the secret sauce that's going to get us from living to 150 years to 1500 years or longer. And if the idea of living beyond 200 years just makes you feel icky, I get it. It's a weird thing to wrap your head around. The first interview in this episode in this longevity series is with Patrick Lyndon, who wrote a book called the Case against Death, which flippantly describes why death is bad and life is good. He addresses some of the sociocultural reactions to the pursuit of longevity, and I think this is just an appropriate place to start for people who are not yet bought into the idea that longevity is inherently a noble pursuit. After our interview with Patrick, we'll talk with Sergio Ruiz, who is working in the field of epigenetic reprogramming, aka reprogramming the way our DNA is expressed, and specifically reprogramming it to go backwards to a more youthful state, which is apparently a thing you can do over and over and over again, and is currently the most promising area of research in the whole pursuit of longevity thing. And then lastly, we'll follow up with Michael Greer, who is the founder of an app called Humanity, which uses a combination of big data and AI models to produce a longevity score. And it's an app that I was using throughout my time at Zuzalu in order to extend my health span as long as possible, a goal that I've always been trying to pursue. But sometimes crypto gets in the way. Like I said in the intro, longevity had a front and center focus at Zuzalu, although not everyone was bought into it. The growth of the longevity industry is constrained by nation state regulations. It's hard to do research when things like the FTA just get in the way of all viable experiments, which is why the longevity people and the network state people mingled so well together. The network state people want to provide the longevity people a place to do legal longevity research. I understand that the idea of human experiments in the pursuit of living forever is kind of a bad look. But first, it's not as bad as it sounds. It's not this, like, weird mad scientist experiments playing around with human DNA. It's just that the FDA has set such an immensely high bar that most human studies just can't get over it. Additionally, the downstream effects of discovering new treatments and interventions are immense. Part of the pursuit of longevity naturally comes with the elimination of many, many diseases that both kill millions and cost trillions. The successful pursuit of longevity can free up an entire healthcare industry of ineffective practices and expensive interventions and unlock trillions upon trillions of yearly gdp, all while massively reducing suffering along the way. So even if the thought of living forever does make you feel icky, the second order effects of finding ways to be healthier for longer will unlock so many new doors for so many new humans. So that is my preamble for this longevity conversation. I think y'all are going to learn quite a lot. So let's go ahead and get into our first conversation with Patrick Lyndon and the case against death. But first, a moment to talk about some of these fantastic sponsors that make the show possible."
+    },
+    {
+        "speaker": "B",
+        "text": "Bankless nation. We are once again at Zuzalu, and I'm here with Patrick Lyndon. And Patrick Lyndon has a hot take for the world. Patrick, what's your hot take?"
+    },
+    {
+        "speaker": "C",
+        "text": "It's very simple. That life is good and death is bad."
+    },
+    {
+        "speaker": "B",
+        "text": "How dare you?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, we should do all we can to avoid death, basically, is my idea."
+    },
+    {
+        "speaker": "B",
+        "text": "Why have you gotten. And the story here is that explaining this, that death is bad, there's more to this story, but society pushes back on this frequently, so maybe we can unpack this a little bit more. Why is this a hot take? And why do you get resistance for this?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, there are two groups of people. So one group will say, what's your next book called? Kittens are cute, pizza is delicious. That is, they take it as. As obvious fact that death is bad, but not only death, but also the slow death. Aging, of course, is bad. Right? And then there's the other group of people who say, you can't think like that. Death and aging is part of what it means to be human, and it's not something we should resist, per se, at least not do all we can, but rather learn to accept in a kind of gracious way. And, you know, they have various ways of saying that. They say that you shouldn't try to add years to your life, but you should try to add life to your years and so on. So they will say, sure, it's okay to be interested in the quality of life that we have, but to extend it is not something we should be doing. And that's it seems like it's a majority view. In fact, I don't know. Have you talked to people about this yourself? And what attitudes do you get?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think just a lot of people aren't ready to put themselves into the mindset that the human project is one of seeking life. And that's a novel area for people to consider. And so when we say, like, life is good, like you said, like, many people are like, yeah, but then when we start unpacking what that means, like, oh, no, life, always life forever. So when you say, like, life is good, death is bad, is this synonymous with the pursuit of immortality? Is this kind of on the same track here?"
+    },
+    {
+        "speaker": "C",
+        "text": "Absolutely. Absolutely. So I don't personally think immortality is the right word because immortality logically means that you're unable to die. And that would be very dangerous proposition, because what could happen if you actually couldn't die? You could have an accident and be buried in a house, and then millions of years later, you find yourself buried hundreds of feet down in the soil, unable to move, right. Perhaps in pain, but also unable to die."
+    },
+    {
+        "speaker": "B",
+        "text": "So we're not talking about, like, supernatural powers. We're not talking about super men. We're talking about simply the lack of aging and the lack of biological processes that cause us to die."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, so what I object to then is the fact that we are forced to die before we want to die. So it's a little bit about, essentially about expanding human freedom, as I see it. So I find it a prison, really, for us that we have this set limit that we just can't break through. So far, we're trying to. And so what I want is indefinite life extension. So there's no definite time that nature ordains you now, you die, but if you run out of interest in life or prospect in life, etcetera, and you think, or for some reason, you're very unfortunate circumstances and so on, life can be an exit. But of course, I also hope that I will never be in such sad circumstances. So, in effect, I want this indefinite, completely open road. I want and every good person I want to have this possibility of a completely open road. You have no idea when it's going to end, but it's going to keep going as long as you want, with some luck. I mean, there are accidents out there, et cetera. I think it's very good when you talk about supernatural because I think immortality in some sense belongs to the supernatural and not the natural world. I mean, even when we talk about immortal jellyfish, for example, or other immortal creatures, so called immortal creatures, they're not immortal at all, right? I. You can say they're contingently mortal. That is, they're immortal as long as nobody steps on them, a motorboat drives through it or something. Like, that it will keep going because aging is not going to kill it. But, of course, this issue is so tied up with aging because aging is that which kills the most people and is that which means that no matter what you do and how lucky you are, the Grim reaper is going to get you."
+    },
+    {
+        "speaker": "B",
+        "text": "Right? Yeah. So I think there's two boundaries on this argument, that living forever is good, that life is good. One boundary is, like we said, like, well, we always want the option to be able to die. That is an option that we would like to retain. And so we don't want the curse of watching the machinations of the universe pass by us for thousands and thousands of years while we watch our families and loved ones come and go. And we are just this being that exists in this space time continuum at some unknown where time just becomes weird. Like, we don't want that. That's not what we want. Similarly, one that we haven't talked about yet, and I can't remember the name of this, like, I think, greek fable or something, but this one man goes up to a God and asks for the ability to live forever, and he's granted that wish, but what he forgets to ask for as well is for health. And so he does live forever, but he slowly, he continues to age and he slowly gets more feeble and, like, just, I don't know the full story, but turns to dust. So, like, there's two guardrails that we want to split between and that when we say life is good, we mean to stick between these two things. We want to be able to live forever while having the op and while, like, being hit by a car will still kill you. But also, we don't want to be decrepit forever. We want our health and our rejuvenation to be very, very strong. And this is like the needle that we want to thread as a species, correct?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, exactly. So in reality, the longevity will come as an effect of the health. And everyone who works in this area see health as being the means to longevity. It's not mere survival that anyone is interested in. Well, I am interested in mere survival. But having the quality of your life being what also causes the quantity is the ideal we're looking for here. Absolutely. And that's something that when you argue with these ideas and when you look at surveys that has been done, people in general become more sympathetic to this longevity project. Once it's explained to them that they will have a good health with it, then the interest shoots up. But people have a very hard time wrapping their mind around it. It's as if they have a vision of what it is like to be 80 or 90, and especially when they're young and far away from it, that is incredibly pessimistic. So when you ask just the ordinary general public, or if you. I did this in my class. So I taught a class at NYU for many years called deaf longevity and values. And each semester I started with a survey of people's or the, the students attitudes to death and longevity. And I asked a question that was, it was clearly, clearly specified that they would be in good health. I asked the question how long they wanted to ideally live, and I got an average of 90. And this is even when I explained to them, you're going to be in decent health and so on. And still you got like a spectrum between, you know, 71, hundred after 100. It's as if they could not fathom the idea that you could be hundred plus and still in good health. Of course, now we see it's one of the biggest growing demographics in this world, the fastest growing demographic. It's a tiny demographic, but it's fast. It's growing very rapidly now. The hundred plus and the 90 plus and 80 plus. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "What would your answer be?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, my answer is I can't give a number. It would be ridiculous to give a number. I don't know what my life is going to be when I'm 200 or 1000 or 5000. If I say 200 would be enough. What happens on my 200th birthday? I'm sure I have tennis scheduled for next week. I'm sure I have some book I haven't finished or project I haven't done, you know, and, or I may just want to say, well, it would be terrible for me not to be able to just watch the sky. I think people are, I think the mindset that we would have would obviously adapt itself. And I'm talking here about longevity through science, through health, right. Which means that it's not something where you would be the only one in this situation, but you would have many people choosing to live 200 or 1000 or 5000 years. Right. And none of them, I think, have a good reason to say, I mean, we're completely arbitrary to sit and guess in 2023, to guess that I'd rather be dead, I, the day after my 200th birthday, I mean, it's ridiculous. So it just shows you the immaturity of this subject matter in the public discussion, that even the most basic fallacies when it comes to thinking of that, are underexplored. And so that's why I wrote my book and my book, the case against death, in order to expose all the fallacious reasoning around this topic that is just so underdeveloped."
+    },
+    {
+        "speaker": "B",
+        "text": "Right? Yeah. So I think people, when they wake up every single morning, they don't really ask themselves this. But, like, if for the thought experiment, you can wake up in the morning and be like, do you want to die today? And the answer is probably going to be no. And then you can ask yourself again that same question the next day. And the answer is going to be no. And what you're saying is like, well, you can repeat that process up until you're 90. And then you're gonna wake up at 90 with this. All of this health span technology and all of this longevity technology and all this improved health environment that we can create from ourselves. That technology is gonna create for ourselves. And at 90, you're gonna wake up and be like, no, I'm ready to go to 91 plus one day. And that's. And so it's not really about. I think when you ask the question of, like, to what age do you want to live to? People are assuming this, like, decay function in their life. That is a fallacy that you're saying, like, don't assume the decay function. We're trying to eliminate the decay function. And so estimate your lifespan once we eliminate this decay function."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. But even when you explicitly postulate that we're not going to have, as you put it, the decay function, people still say 90."
+    },
+    {
+        "speaker": "B",
+        "text": "90, right. Yeah. Well, because they're stuck in that mindset."
+    },
+    {
+        "speaker": "D",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "It's like Stockholm syndrome. They're, like, stuck in this world where, like, yeah, we live to 100."
+    },
+    {
+        "speaker": "C",
+        "text": "And then it's a. Yeah, it's interesting when you say Stockholm syndrome. So if not all listeners aware what that is, it's basically when it comes from a kidnapping case in Stockholm. In Sweden, actually, it was. The kidnapped victim started identifying with her captors. And so the idea here is that we are captive to aging and death. So since we can't do, we can't escape, it looks like we might as well identify with the captors and say, okay, it's good. I actually want this. I want to fall apart. I want to see my parents fall apart. I want to lose my grandparents."
+    },
+    {
+        "speaker": "B",
+        "text": "I will go gracefully into that. Good night."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, yeah, it's going to. You know, this is just how it is. This is what I want to. I wouldn't want the opposite, you know, and then people start intellectualizing it. So what can I say on behalf of my captors? Aging and death, how can I paint them in a positive light? Okay, I can't escape, but I can kind of identify and glorify and make the captors will my will and thereby kind of overcome them."
+    },
+    {
+        "speaker": "B",
+        "text": "This is like bargaining, right? We're bargaining with death."
+    },
+    {
+        "speaker": "C",
+        "text": "So, philosophy in Montaigne's world, the french philosopher Montaigne is, he says, all, all geared and all history geared towards having us accept death. And he himself tried to. I mean, he was himself in that school of thought that this is something we shouldn't be afraid of, we shouldn't resist, etcetera. Which is very understandable, of course, when you live in a pre scientific era or very early scientific era, but now such passivity is itself a problem and dangerous, because if people understood very simple truth, that it's better to be youthful and alive than to be old or dead, we would see investment that, well, maybe we could have been 20 years ahead today from where we are now. But there's a. I mean, it's a scandalous when you think about the things we can afford in this world and that we cannot afford, apparently, or there's no interest in stopping aging, which is hurting everyone around us, is an absolute outrage, and we should be outraged. But, you know, the most important thing is to wake up now and try to undo the incredible harm of inaction and non committal that is being sustained by a refusal to think about death in a kind of straightforward way, where we say, okay, enough with the nonsense. There isn't much good about aging and dying. If it's the end, it's a personal catastrophe for everyone. Everyone. Basically everyone."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. I think what you're saying is it's just this blind spot that we've accepted that maybe, like, the medical field, the medical areas of academic study, and actual practitioners, just, like, just don't look there. Because nowhere in humanity have we had the tools or the conversations to actually point our attention to aging. So, Patrick, why now? Why is now the time to try and illuminate this blind spot that humans have?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, so now is. Well, the thing is, yes, it is now, because now it's what we have. But it could have been. It could have been something we've done the whole last century. It could have been the focus. And, of course, there were people who thought it should be the focus of science very early, like Francis Bacon, Roger Bacon and I, Descartes and Bentham and other philosophers, who thought that science should be concerned with this. Well, it's not today. I mean, we should have been doing this for a long long, long time. But all we have now is the now. And now. Now is high time to start, of course, right. There is more promise now that this ambition is not just a pipe dream, but we hear, of course, weekly about small, small, promising possible breakthrough. We're still waiting for the kind of cure that passes the gold standard and where we have good longitudinal and clinical studies and so on. But there are many people, not enough people at all. I mean, some estimates say they're only 5000 or so working on fundamental aging and so on. So much, much too few smart people are working on it. But there are a lot of different paradigms that are being pursued and that itself is very promising. There isn't just one approach, but there's a plurality of various approaches and interventions from the, the kind of everyday, simple interventions they were getting better and better and better at. I don't know if you follow the debate about what we should and shouldn't eat, you know, it's still a terribly messy situation. Only meat? No meat, only vegetables. Not vegetables or this and that. But I mean, of course sometimes that overshadows. There's a lot of consensus as well that you should avoid eating too much sugar, you should get your exercise, you shouldn't smoke, you shouldn't drink, maybe not at all, or a little bit you can drink and you should engage in meaningful projects and so on, right? You should call your mom. Things like that. Those things are all positive when it comes to longevity and these are things that you can do today. And in fact, when you think about it and when you think about what value and beauty it is in just existing, even if you have problems, even if you have bad days, it might make you want to think, well, let me be serious about my health and let's do this while we're waiting for the miracle drugs. So in some sense we can take action today because the longer we can keep us with this kind of low tech interventions, we can keep us alive till the big breakthroughs will come."
+    },
+    {
+        "speaker": "B",
+        "text": "Right? I think it is worth noting that a lot of the world of the health industry, the health academia, health research, health practitioners, the hospital system, like, if you ask a cancer researcher what they're doing, they're saying, oh, I'm trying to, I'm trying to cure cancer. If you ask some like infectious disease researcher, they say, oh, I'm trying to cure infectious disease, some metabolic disease practitioner, what are they doing? They're trying to cure metabolic disease. And so as a whole, we're all approaching these more surgical parts of health interventions. But if you really zoom out and look at the healthcare system as a whole. Each one of those systems is trying to create health and prevent death. And so the idea of the health industry is a longevity industry. It is a longevity pursuit. It's just people inside of this system are, it's like the people feeling the elephant metaphors, like the cancer people are just feeling one leg, and they say, oh, how do I help health? I prevent cancer. But if you look at the elephant as a whole, what health and the medical industry is trying to do is preventing death. But no one really seems to be able to zoom out and understand, like, what this thing is from the big picture. But that makes me hopeful that society is on a cusp of, like, a phase change, where once this narrative, once this story breaks out, and once people realize it, and once this gets spread through the culture, through the Internet, through memes, through propagation, through podcasts like this, I'm actually hopeful that there can be a pretty rapid phase change of people understanding, like, oh, pursuit of health is pursuit of contingent immortality. Do you see? Are you that hopeful as well? Because I am that hopeful. Are you hopeful?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I'm very hopeful. And I think that the practice, the science, the advent of medicine that actually works on aging, an intervention that works on aging, together with the ideological change, they will feed each other. So the more hope that's rationally based, that people can prolong their youth, the more positive they're going to be. And this is what surveys show as well. In fact, just knowing about the various projects of extending life makes people more positive to it. Simple exposure to it. And the way you describe the healthcare system, too much of it is sick care, really. Too much of it is not preventative medicine. And that's an incredibly waste of money."
+    },
+    {
+        "speaker": "B",
+        "text": "So, of course, because you're extending the worst parts of your life."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, exactly. It's a terrible waste of money, and it's a terrible, wasted opportunity to relieve suffering. So there needs to be a kind of mindset change here in terms of."
+    },
+    {
+        "speaker": "B",
+        "text": "Dollars spent versus suffering. Reduced is the worst allocation of resources that we have, because it actually probably net increases human suffering."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, it's terrible. I mean, of course it's great when you have something that can manage a disease or patch it up or even cure it, it's fantastic. But it's much, much better to have us, nothing get sick in the first place. And it should be obvious. And in fact, I like what you said before, when you describe this kind of old mindset that, in fact, they see a contradiction where there is no contradiction. If you talk to people about this, even in the health profession or even in the science, many will have a kind of reaction when you put it in terms of longevity, when in fact, if they succeed, it's exactly longevity. I mean, they're going to get that as a side effect, and we want to get it as a side effect from addressing the root causes of aging. Of course, when we look at potential upsides or potential breakthroughs, they must come from addressing aging. The mechanisms, the various, many mechanisms of aging, we don't have to understand them to be able to successfully do something about them, fortunately, because it's very complicated. That's where you. Because we get cancer, we get diabetes, we get Alzheimer's, because we age. So what was the average age of people dying from COVID It was 80, around 80, right. How many people died from COVID under 60? 511 percent. Right. So I want to say, look, what's going on here is people are also dying from aging. They're not just dying from COVID right? Most of them. They're also dying from aging. That undermines their immune system, etcetera, enfeebles them in various ways. And so you can just see what a more youthful population, how much more resistant they would be to a virus like this, etcetera. I mean, the potential of saving money here that can then be used even to address particular illnesses, etcetera, is enormous. So I don't know if you saw David Sinclair's article last year. So he wrote an article with two economists published in Nature, where he calculated how much in the world money would be saved by retarding aging. That is prolonging youth. One year. And it was 38,000,000,000,001 year of more."
+    },
+    {
+        "speaker": "B",
+        "text": "Healthy people saves us $38 trillion."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, it's worth $38,000,000,000,000.01 year. One year. So, yeah, this is where progress can be made. And even if you can't make people see that, it's good for them to live longer, which is absurd that you can't make people see that. But even if you can't, you can say, look, this is how much suffering we're avoiding, right? Because no one likes cancer, right? Aging causes cancer, you could say, or it makes it much more likely that you get cancer at least. So fixing aging is fixing cancer, etc. Etc. Etc. So I think step by step, it will dawn on people. This project makes sense."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Financially and economically it makes sense. And because keeping somebody alive at like 90, 95, 100 years old is the most costly and precarious time in their life to keep them alive, because when they're dying of cancer at 90, like atherosclerosis or dementia or Alzheimer's, is not far behind them. And so that's why you say they're dying of aging. Even though it's cancer, it's really aging because there's three other things they're going to die from in the next five years. And so keeping someone alive at that age is the most expensive and also the time in their life in which they are suffering the most. And so I think the financial and economic argument is to take all of that capital that we expend trying to prevent people from dying when they are 90, push that forward and apply that capital when they are 30, 40 and 50 to increase their health span and their longevity interventions then. And so that the ROI on that dollars is just a ten to one order of magnitude increase because it's easier to manage at that point in time. And then people actually can effectively live longer while they are not suffering, while they are not in the worst part of their life in a hospital bed dying of 13 different things. I'm assuming this is like a good summary of the financial and economic argument."
+    },
+    {
+        "speaker": "C",
+        "text": "Absolutely. And there are more dimensions to it because it's also the fact that when people are youthful, they can work. So you also get taxes from healthy people because it's, you know, we see in France now they're trying to increase the pension age and so on. That's a today necessary, most likely. But it's something that can be a good thing. People keep healthy. If they work, they can go down, they don't have to work full time, etcetera. It's actually good for people to work a bit longer. And the time we have after we retire is just so much longer today that it's not a cheat, really, it's a necessity. So I'm not defending exactly how Macron went about this at all. Right. It should be subtle. You should have people who work hard with their bodies, physical work, etcetera, that's a different story."
+    },
+    {
+        "speaker": "D",
+        "text": "Right."
+    },
+    {
+        "speaker": "C",
+        "text": "So you have to have to do this in an intelligent way. But all in all, what you get is people who are healthy are able to work longer, which itself is an incredibly good, good for the economy, certainly."
+    },
+    {
+        "speaker": "B",
+        "text": "Patrick, you've written a book. Yeah, yeah. What is that book called?"
+    },
+    {
+        "speaker": "C",
+        "text": "It's called the case against death. So that pretty much explains it. And of course, the absurd thing is that I have to write a book like that. It was provoked by, well, I was basically triggered by people's acceptance of death. And how much I have to hear this, uh, that, that, you know, I had people, you know, without me bringing this up, saying, uh, you know, I think it's wonderful to age. You know, I heard that my, my brother's 40th birthday sounds like cope. Yeah, it sounds like cope or massive cope, but, but, yeah. And, and, and you hear it and it's just so incredibly thoughtless. I mean, you know, to make it personal, my father is in hospital today, you know, with pneumonia, and it's very, very dangerous thing when you're 80, in your eighties. Right. And so I don't think there's anything wonderful with that at all. I think it's an evil, and I think it's almost. It is a form of kind of banal evil to have this attitude. Because what you're doing is when you say that you think aging is wonderful, is that all of this suffering is wonderful, that something that is destroying people, destroying people's bodies and minds. You know, see, Alzheimer's, which is. It's like a horror movie, that somebody is there but not there, and you lose yourself, you lose mind, people around you suffer. I incredibly, to say that that's good. And they would say, no, no, we don't say that's good, it's aging. We don't say the diseases are good. We're saying that aging is good. But in practice, I don't think you can make that sharp distinction, because if you don't get any of that deterioration, you're not aging."
+    },
+    {
+        "speaker": "B",
+        "text": "Right, right."
+    },
+    {
+        "speaker": "C",
+        "text": "But it's just, of course, these all nice people, and it's not that they are evil, it's just that there is a, you know, that concept of the banality of evil. In some sense it just happens. And everybody has that justification and so on. Of course, here it might be to protect themselves from the horror of death, as some philosophers or psychologists have argued that people just don't want to really think about this. And so therefore, their thought processes are kind of unusually limited and in the box about it, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. There's like four or five big reasons why people will die. Like, one of them is cancer, one of them is metabolic disease, atherosclerosis, Alzheimer's. Like, these account for, like, the vast majority of people's deaths. And these all have, like, overlapping comorbidities, right? These all. If you have one, the chances of you having another one is pretty significant. So all of these different circles are like, also venn diagrams that overlap with each other. And I would assume that if you the part of the event diagrams that overlap with all of them. You would just call that aging. That's what aging is. And so with that perspective, I think it's a little bit easier to wrap your heads around, like, oh, aging isn't this thing that just happens to you and you can do it gracefully or ungracefully. No, it's a disease that we all have. We all have this disease called aging, and it's all being, we're all experiencing it every single day."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, absolutely. And so if, for example, you accept something like David Sinclair's view that it has to do with, you know, real information, and if you are like CD, the CD gets scratched and so on. I mean, there's nothing good about having a scratched CD, right? I mean, what's good about that? Nothing. You know, what, what people mean is it's great to have that experience that you have when you're 60 or 70 or 80, and it's great to have those kind of long roots that you have with people and projects and so on. That's great because it's paradoxically not. It's not like people get less happy when they hold, if they are somewhat lucky with their health, they can have the happiest years despite everything. But I think that's what you have to say, despite everything. Because how happy would they be if they had all those good things, the experience, the network, the roots, etcetera, the knowledge, but also good youthful health? We haven't seen that. But I mean, what we have seen is that older people who also have their health are doing comparably better than those who don't. So those who have aged less, because aging is something that happens to a small degree on an individual level, that we age at different speeds somewhat, and, of course, has to do with lifestyle choices and luck."
+    },
+    {
+        "speaker": "B",
+        "text": "Patrick, for all the listeners out there that are peaked and curious as to what to do next, what to read next, where to go next, what advice do you have for them?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, my book is very good."
+    },
+    {
+        "speaker": "B",
+        "text": "Surprised that you would answer this."
+    },
+    {
+        "speaker": "C",
+        "text": "The case against death is very, I mean, it's very good because I go through all of the arguments that people use to justify death, and I trace these arguments back to their roots, philosophical roots. So I talk about ancient philosophy and psychology and things like that. Right. And myths, because it's like we constructed this. I call it the wise view, that it's a view that accepting aging and death is a sign that you're somebody who's wise. And there's a long tradition. Of course, people who are were wise, like Socrates and Plato and the stoics and the Epicureans, and a lot of these schools who all teach the same. This is something that is best accepted and not feared and so on. Okay, so that's where. That's one place. There are other places. Of course, they can read Sinclair's great book about why we age and why we don't have to age. If they want to get into the more science bit, and if they want to get in to do something practical about it, well, they can contact me, or there's an organization called Vitadao, and Vitadao will then be able to connect you and make it so that you can actually do something in this issue, no matter what your kind of background is. It can be from science, but it can also be from finance or if you are a humanist."
+    },
+    {
+        "speaker": "B",
+        "text": "Patrick, thank you so much for helping us tell this story and showing us the top of what seems to be a very cool and interesting rabbit hole. So thank you for helping us explore that today."
+    },
+    {
+        "speaker": "C",
+        "text": "Thank you very much. Thank you."
+    },
+    {
+        "speaker": "E",
+        "text": "Cheers. All right, bank of Nation, we are here at the Zuzalu network state, and I'm here with Sergio Ruiz, who's going to help guide us down the path of longevity, which, before we hit record, I realize, has an interesting intersection with some of the events that happened in the 2021 bull market. But we'll get to that. Sergio, welcome to the show."
+    },
+    {
+        "speaker": "F",
+        "text": "Thank you so much for having me."
+    },
+    {
+        "speaker": "B",
+        "text": "So one of the very, very important."
+    },
+    {
+        "speaker": "E",
+        "text": "Topics at Zuzalu is longevity. And this is a topic that I know Vitalik is intimately interested in, and I've had my own small history with it. But for a lot of our listeners, that longevity is a new subject for them. Maybe we can just start with the basics. And I think that really starts with the conversation of aging. I think we all know what aging is like. We get older, and it looks like we get older and our bones don't work as well. But maybe you can help define it from a more technical perspective. What is aging?"
+    },
+    {
+        "speaker": "C",
+        "text": "Sure."
+    },
+    {
+        "speaker": "F",
+        "text": "So aging itself is the tendency for our bodies at all levels, from a cellular level to a tissue level, an organ level, systemic level, or a systems level, to head towards atrophy and degradation. So eventually, the forgetting of performance, the forgetting of creation of a new material, the creation of new material that is now mutated. Or, you know, I like to think of it and explain it as when you take a piece of paper and you see Rox it, you photocopy it, right? High resolution. But by the time you make the thousandth copy, you end up with a blank piece of paper. You lose information, you lose resolution. That's really ultimately what aging is. As you go across time and space, you lose information. Your body doesn't read information as well. And that's what ends up ultimately contributing to us. Losing our eyesight, our hearing, our abilities to jump, to even enjoy life. Some mental problems actually develop as well. So it's that whole tendency towards degradation."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, and the idea of slowing aging or preventing aging, I think, is a pretty common sense practice. As in, like, you eat good food, you exercise, you don't drink alcohol. And I think this is all things that most people know intuitively at this point. But that's also not necessarily the conversation of longevity, because longevity is not just about slowing the aging process. It's about something that's altogether different. Can you talk about that different perspective that longevity has?"
+    },
+    {
+        "speaker": "C",
+        "text": "Sure."
+    },
+    {
+        "speaker": "F",
+        "text": "I mean, longevity means a lot of things to a lot of people. It's actually a term that has been used and abused quite a bit. For me, longevity is the combination of health span and lifespan. Whatever intervention, whatever kind of endeavor, project, therapy, drug, helps you not just live longer, but in a healthier way. And you're absolutely right. I think that a lot of the scientists have figured out that in order to really achieve that, it's no longer okay to just kind of delay the onset of aging, but now to start looking at reversal techniques. And thankfully, science have gotten sophisticated enough to understand all the characteristics, or the majority of the characteristics of aging is not good to be absolute in science. Right? Because then science humbles you and teaches you something new, which is the beautiful thing about engaging in any scientific endeavor. But yeah, there are actual processes that allow you to take a cell, for example, and turn it into a younger version of itself. One of them, just as an example, is the Nobel Prize winning breakthrough by Doctor Yamanaka, where with a set of instructions or mRNA factors, they were able to take an adult aged cell and bring it all the way back into an embryonic stage. That in itself just shows that there is such a thing as age reversal. The issue there, and why that in itself is not a longevity centric intervention, is that in the whole process of reversing the age, the cell also forgets what it's meant to do. So if you do that in a skin cell, it goes all the way back to an embryonic stage, and it forgets to be a skin cell. It no longer performs the functions of a skin cell, like generating elastins and collagen, et cetera. Et cetera. So I often liken it to, let's say you're in your sixties, and you are a successful professional, right? And now somebody snaps their fingers, and you back to being a one week old baby. Not only do you forget or you rejuvenate it, but there's a problem there. You forgot that you were a successful professional. You forgot everything you learned in high school, in college and university. The longevity intervention that now we're focusing on in the longevity field today is called epigenetic reprogramming, which is the decoupling of identity loss with rejuvenation enhancement. So there's now different companies that are looking to bring back, in that example, an aged skin cell to a younger version of itself. So in the example of the 80 year old, you take the 80 year old, and you bring it back to being 2021, what we believe is the most optimal youthful age. And that skin cell still remembers to be a skin cell, except it now performs like it used to when it was young. One of the companies that is at the forefront of that is term biotechnologies out of Stanford lab in Mountain View, California."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay, so maybe you can just help give us the lay of the land of longevity tech and longevity startups, right? Because from my knowledge that I've been able to gather here, the idea of, like, a longevity community and research efforts very young, it's maybe only a couple decades. So now that we are in the era of 2023, can you kind of place us in history? I know there's a long future of longevity ahead of us. Where are we in the world of longevity research and product and all of this, like, where are we in history?"
+    },
+    {
+        "speaker": "F",
+        "text": "So, longevity research is very mature, right? In 2000, just to give you a kind of a chronological, or to center us in a chronological spectrum, early 2000, it was immoral to study aging. 2005, the Methuselah Mouse Prize for extending the lifespan of a mouse was very successful in showing the scientific community that if you could do it in a mouse, then you could certainly do it in a human, because the mouse has always been this kind of, like, gateway into what works in a human, at least from a regulatory perspective. So a lot of really good science has happened since people have had permission to believe that they can not just delay aging, but reverse aging. There's aging institutes all over the world. There are a lot of really good nonprofit and academic institutions, the best ones in the world, that are now they have an arm. So about 20, 2014, 2015, all of this researched technologies and all of this intervention started becoming a little bit more mature so that you could start creating companies around it. So in 2016, all the way up until now, you're seeing an explosion of interventions that are now making their way into the professional investment world. Anything for a small molecule, into gene therapies, into cell therapies. They're now getting backed by VC's. And then slowly, you're starting to see the big pharma, right, coming in and developing different little units of longevity units to try to understand how these technologies, new technologies, are going to be deployed, not just in the mainstream, but in their current pipeline as well. So there's a lot of interest, because longevity is trying to do this moonshot thing, and they're actually generating platforms that are useful even for non longevity applications. We have several of our companies that in trying to address aging, cancer becomes almost like a very simple thing to do. And that's how in the current landscape, to answer your question, is a lot of these longevity companies are integrating currently into the regulatory environment, into the current investment environment, by deploying solutions to things that people understand already, like cancer, like Alzheimer's, like, you know, osteoarthritis and heart disease, things like that."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "E",
+        "text": "So it's not just operating inside of its own vertical, its own silo, it's being able to find ways. It's probably helpful just to have that integrated with pre existing companies and pre existing, like, domains of knowledge. But just to really make sure I understand the answer, it sounds like actual applications, actual interventions, are already known and known science, and we know how to do them. And now we're at the point of VC investment going into these systems to try and scale them out, to make them, like, ready for consumers. Is that where we are?"
+    },
+    {
+        "speaker": "F",
+        "text": "I would say not only that, we're at the point where professional big funds, beyond VC's, even these are $50 to $150 million check writers and above, are bringing in money so that this technologies can go in human, which is to me, or having been in longevity for twelve years, is the holy grail, is where is the product? People have been talking about longevity for a long time, but still today, the best thing I could do is eat well and exercise and maybe take rapamycin and metformin, but I want next generation products. And this is what a lot of these companies are now creating and focusing on, is taking all this next gen intervention into the clinic, into humans, and that in itself is going to allow the longevity space to just flourish tremendously."
+    },
+    {
+        "speaker": "E",
+        "text": "Sure, let's try to make longevity a little bit more real for the listeners. And also for myself, we talked about the idea of epigenetic reprogramming. Reprogramming that allows us to shave off the years and sounds like shave off specific amounts of years going back to a specific time. And we just are talking about that in the concept of a single cell, which just means that if you can do that in a single cell, like, can you do that for the whole body?"
+    },
+    {
+        "speaker": "B",
+        "text": "How does this work?"
+    },
+    {
+        "speaker": "E",
+        "text": "Can you make it a little bit more real for listeners?"
+    },
+    {
+        "speaker": "F",
+        "text": "Sure. So in the long run, you do want a systemic approach. You want to be able to go in, get some kind of injection or some kind of iv drip system that goes all over your body and starts rejuvenating across different types of cells and such. Unfortunately, that is not the best way to get to market. The best way to get to market is to pick something very simple or very needed and go after it and show the FDA and other regulatory bodies that there is rejuvenation. So a company like Turnbio has assessed two big markets to go after. One of them is dermatology. So they'll be able to go into your skin, maybe with some micro needling, with the help of dermatologists, and start rejuvenating the dermis. And that dermis eventually comes up into the epidermis, and you'll end up seeing, like, the results that we're expecting is that your skin is going to get thicker, it's going to get more, more youthful. So the way it's moisturized, the way collagen and elastins are shown, the way your actual normal skin color shows up, if you go to the beach, you're going to have better protection against the sun. You're just going to have a much more youthful skin. And skin is the largest organ in your body. That's the main thing right there."
+    },
+    {
+        "speaker": "E",
+        "text": "So the idea is, like, more targeted applications. And so targeting, you said micro needling. It sounds like it's local to the injection site."
+    },
+    {
+        "speaker": "F",
+        "text": "Correct."
+    },
+    {
+        "speaker": "E",
+        "text": "And what are we actually injecting into you? The skin."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah. So one of the things we could do is like microneedle into the hair, the scalp, and rejuvenate, you know, hair. And that's going to have even some hair coloring applications where gray hair is going to be reversed. But what it's going in is actually these little fat bubbles we like to call lipid nanoparticles in the industry. But we've actually created our own novel lipids. These little fat bubbles are food. You're giving self cells in your body food. They eat a fat that gives them energy to keep doing their thing. So we've created new types of cells of lipids that can go into the cell as food. And inside that cell, inside that lipid that goes into the cell, is a cocktail, a rejuvenation cocktail, which is ultimately mRNA factors. Now, turnbio, this epigenetic reprogramming company, created. They use synthetic biology, synbio, to create this very specific, safe, controllable mRNA's. Type of mRNA's called tu rna's ternas. And that's what it is. It's a set of instructions. Inside a fat bubble becomes food for the cell. The cell eats it. And while it is digesting the food, this set of instructions go into the cell. And the cell starts performing the instructions. For example, if you go to the doctor, the doctor says, hey, you may want to sleep better, drink more water, eat healthier, exercise a, y and z, right? So that's what we're doing at a cellular level. We're telling the cell to do different things. That ultimately our structural changes to the cell. The cell kind of relaxes and then tightens up. And going through that process, the cell rejuvenates itself, because the cell is able to remember how it used to read your DNA. Now, this is epigenetic reprogramming. We're not changing your DNA. We're just reminding the cell to read your DNA in a much better way. So it's very safe from what we've seen. And we're hoping that when we go into human studies, we can even show this safety level that is unmatched by any other similar technology, such as the mRNA vaccines, that had some safety issues and toxicity issues. All that, if you can think of it, that was like version, you know, the beta version of any kind of mRNA technologies. Now you're getting to mRNA therapeutics, that this is all things that we have optimized for safety, because we know it's important to. In rejuvenating someone, you don't want to hurt them, right? It's counterintuitive to do that, right?"
+    },
+    {
+        "speaker": "E",
+        "text": "And just to unpack the name epigenetic reprogramming, this is actually taking me back to my biology days. Epigenetics means above genetics. And so it's like this layer above your DNA that chooses what parts of your DNA to turn on and off. And my intuition, from what you said, is that the ability to read the DNA decays over time. And that is perhaps what aging is. And so, epigenetic reprogramming is like just sharpening the lens, perhaps of your epigenetic layer to read the DNA better."
+    },
+    {
+        "speaker": "F",
+        "text": "That's a great way of putting it, by the way."
+    },
+    {
+        "speaker": "E",
+        "text": "Thank you."
+    },
+    {
+        "speaker": "F",
+        "text": "Great job. I like to, I mean, we, some of us understand, and maybe a lot of your listeners understand like computers, right? So if you think of your DNA as the zeros and ones, right, the binary code that makes the computer at the very basic happen in startup, and all these programs are at an epi level, right? You start having all these coding systems that make use of this binary. And eventually, as your computer goes through times of space, it gets slower. Like functions decay the environment, like trojans and viruses and all this start attacking it. Not only that, the hardware becomes a little bit sloppy as well. And then I, you have issues with how that information is read properly. So every now and then, you'll have your optimization programs that come in and start deleting and doing all these things."
+    },
+    {
+        "speaker": "E",
+        "text": "Maintenance work, right?"
+    },
+    {
+        "speaker": "F",
+        "text": "Maintenance work. So that's what we're doing. We're not changing the zeros and ones, but we're reminded we're coming in with the cleaner and the antivirus to come in and just get rid of all the crud and doing the debugging so that your computer runs as optimally as possible."
+    },
+    {
+        "speaker": "E",
+        "text": "And just to really drive this point home, the idea is that this works at your DNA level and your DNA is you. And so I think this is kind of surreal to really try and think about, okay, we can make our skin better."
+    },
+    {
+        "speaker": "B",
+        "text": "I can imagine that."
+    },
+    {
+        "speaker": "E",
+        "text": "I can imagine my skin being ten years ago, the hair, etcetera, my eyesight get better. But then when you apply it holistically to the whole body, that's, I think, kind of when it gets weird for folks, it's like, so imagine you take some 70 year old and you do this program. Do they just rewind back to 20 years old? Do we have any indication that we have an answer for this?"
+    },
+    {
+        "speaker": "F",
+        "text": "So it's good not to give an answer that is absolute. But what I would probably see is, what I would probably say from an speculatory perspective, is you start seeing a lot of benefits on how you feel and how your body performs. Unfortunately, most of the things that are important about aging happen internally. Anything from like, oh man, I used to eat a burger and when I was young meant nothing to me. Now that I'm old, it's like, oh my gosh, I can't use the restroom, I'm feeling foggy. Like all that grease is just making me feel bugged out."
+    },
+    {
+        "speaker": "E",
+        "text": "You gotta take a nap."
+    },
+    {
+        "speaker": "F",
+        "text": "So that's what we'll probably see a lot of the rejuvenation happen internally, but what I'm most excited is eventually we'll rejuvenate the brain. So neuroplasticity, all of a sudden, you'll be able to remember things or learn new things. Right. One of the things against longevity is like, oh, well, you're gonna be the same person that you've always been, and then nothing's going to change. Well, no, our goal is to rejuvenate neuroplasticity. If you want to learn a new language when you're in your nineties, then do it right if you want to switch careers. So another thing is that the thymus and the way our bodies regulate hormones, right. That could be a lifestyle issue, right? Anyone that or any female that goes through menopause knows how difficult that can be. Or all humans that went through, like, your teenage years, where your hormones were just going all crazy, know how unsettling that could be? Well, that doesn't change as we grow. And there's people who, for example, can't control their weight simply because of the way their thyroid is maintaining different things. So there are certain systems and certain organs in your body that will give you a much better yield from a rejuvenation perspective. Of course, you'll have your liver, your lungs. Your eyesight definitely is a big one, and your hearing. So, yeah, I think overall it's going to be a slow effect, but eventually you start seeing your skin get thicker. You can now run a marathon. Your knees don't hurt as much, or you're no longer a candidate for knee replacement surgery. Because your hyaline cartilage is. Is regrowing, your synovial fluid is able to prevent you from falling, because that's another thing that happens when we age, is so many falls take place, and then that affects the way a person lives their life when they're in their eighties or nineties. So all these things are probably not going to be super evident. You're not going to come out and going to look like a 20 year old, you know, within minutes, but you're slowly going to have this rejuvenation effect. The dosage is still yet to be determined, so we don't know if you're going to be taking this every week, every month, every year, every ten years. Our goal is to get someone to a point where they're rejuvenated and maintain them as long as possible. But, yeah, that all remains a mystery. That is exciting to, to go after and look into the answers for."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, certainly. And there's a podcast that Vitalik was on that the clip of this went viral when he said it, that he thinks that somebody's already alive today that's going to live to be 3000 to the year 3000. Do you also believe something along this."
+    },
+    {
+        "speaker": "F",
+        "text": "Nature that's rooted on something called longevity scape velocity? So the CEO at the Methuselah foundation, my business partner, David Goble, actually came up with his idea and it was postulated publicly and popularized by Aubrey de Grey, which is the goal that, you know, eventually interventions that are going to help you keep living longer are going to come out at such a fast pace that you're going to be aging and then taking all these products to help you de age at a much faster rate than you're ever going to be able to get older."
+    },
+    {
+        "speaker": "E",
+        "text": "If you can, if you can keep yourself alive to the point where technology has advanced to the de aging peak where our technology allows us to de age, then you're good, you've made it."
+    },
+    {
+        "speaker": "F",
+        "text": "Exactly. And that's ultimately the goal. I think that is something that is very possible. I think in five years from now until 2030, it's a very critical stage. So for all those who are thinking of supporting longevity and biotech, now is the time, because I think in the next seven years, we're going to see a lot of these interventions going to humans. And it's those interventions and the success of them in humans that are going to dictate whether or not maybe you or I or Vitalik himself are going to be able to live to be 3000 years. So I say it's possible. I think I'll be more bullish in 2030."
+    },
+    {
+        "speaker": "B",
+        "text": "Sure."
+    },
+    {
+        "speaker": "E",
+        "text": "Sure. How will this industry, the longevity industry, impact listeners and people today? Or the first, what's going to happen in the near term? What's the first few products that are going to come out of this industry?"
+    },
+    {
+        "speaker": "F",
+        "text": "So right now, there's a rush towards creating longevity clinics. And unfortunately, I feel it's just a little bit more of a hype than anything else. Like, you look at a lot of longevity clinics and all they do is just like, vitamin B infusions, right? Whether or not it's longevity treatment, that remains to be seen. But there are other clinics that actually have heart signs behind it. Like if you look at Everest Health, Everest bio, they have eight years of creating the Methuselah protocol and trying to figure out what actually works for you as a specific individual, not as an average of a population. So I think that's the first thing you'll start seeing is longevity clinics everywhere, people trying to really maximize things that could work today, and then they're also going to become the distribution channels for all these next gen therapies, right? So if you really do want to make use of the best thing out there already for you, I would say, go to one of these reputable longevity clinics, and what you'll see is you'll get normal healthcare. But instead of saying, okay, see you in a year, right? They'll say, okay, let's figure out throughout the next year, every four months or every three months, who you are, how we can optimize your vitamins, how we can optimize your lifestyle so that you can become the best version of yourself as we wait for this next generation therapies. And it makes sense, for example, the person that you are during the winter changes to the person that you are during the summer. And this is something that most doctors don't even care about because they only see you once a year, and they're pushed to see so many people during a day, so they don't really have the time even if they want to help you. So I do think that right now there's a paradigm shift. A lot of people actually our age are not just looking at life expectancy. Like, oh, how long are we going to live for? But we're also looking at a health expectancy, meaning I've gone to a couple of doctors where I said, the quality of care you're giving me is subpar. Like, I can get better care just by looking at WebMD, and I don't feel demeaned. Or a lot of doctors out there think you're dumb and they treat you very poorly, unfortunately. Or they're just trying to push some pills because they get some kind of kickback. And I'm not saying everybody's this way, but it's unfortunately the system that we currently live in. So it's going to be a health expectancy paradigm where people are just going to give their money to the clinics that are really going to spend the half an hour to an hour to really optimize you for who you are as an individual, not as a statistic, some kind of average."
+    },
+    {
+        "speaker": "E",
+        "text": "What's holding back the longevity industry? Like, what's, what are the obstacles that longevity as a, as a, as an academic study or as an industry needs to get over?"
+    },
+    {
+        "speaker": "F",
+        "text": "There's a, there's a few things that are holding back, not just longevity, but the next generation therapies. Very first thing I would say is delivery there's a lot of really cool stuff that's happening at the lab level, at an academic level, that will never make it into a human, because mice are not humans, right? Actually, the predictability of whether or not something works in a human, it's not very good when you use a mouse model, like dogs are allergic to chocolate. What if dogs were the gating item for whether or not you and I could eat chocolate? I'd be very upset. Because, you know, it's toxic to dogs doesn't mean it's going to be toxic to humans. And as humans, we don't really know what. Things didn't make it to us simply because they didn't work in a mouse. So in a way, that's a kind of a species insanity to have another being be the gateway for what's good for us. So I like, for example, a new initiative called the animal free, animal free precision medicine. So AFPM bio that it's aiming at creating architecturally correct 3d printed human tissue that is able to be very predictive to within like 90% of whether or not it's going to help you and I, humans. So human tissue to help see whether or not humans can actually benefit from a certain type of drug. So I think changing that paradigm is important to so that we don't just help longevity, but also help medicine as a whole. Number two delivery, right? Just because something cool happens at an mRNA or DNA level doesn't mean we can put it inside your body. Your body is actually very well made to prevent any kind of foreign object from coming into your body. So it's going to be attacked, it's going to be prevented. So if there's a really cool set of mRNA instructions, we need to put them in a fat bubble that works really well. So that is a nascent technology, or it's an industry that needs to be developed significantly. I know at least 20 different longevity companies that are going to go into that roadblock as soon as they start thinking of going into humans. And number three is regulation. Regulation meaning the understanding that aging is a disease and making that a well known fact for regulators, so that they can fast track a lot of these life saving technologies. I think it's going to be important, but we're very thankful to the FDA Modernization act that just passed this, this December. I think the FDA now, by law, has to go ahead and modernize and start looking at how to put together programs like the warp speed program that gave us the vaccine. Well, there's a way to make a drug go through the whole regulatory environment in a year. Right. So I think the FDA needs to really sit down and figure out what the business model is that going to be. Right. The business model up until now worth billions of dollars, is, let's take five to ten years for any drug to go through, and a lot of people make a lot of money in between. But I think there's a way to make even more money by fast tracking it. But maybe creating some kind of royalty model, maybe paying for safety, that could be a good thing. Those are the three big things, in my opinion."
+    },
+    {
+        "speaker": "E",
+        "text": "And how would longevity, in addition to all of the awesome things that might be able to do for us on an age standpoint, just impact other areas of medicine and the healthcare system? What's the conversation like there?"
+    },
+    {
+        "speaker": "F",
+        "text": "That's a great point. I think costs driving costs down. I think it's important. I think there's a paper that came out explaining that $47 trillion is what humanity is going to spend by 2030 every year on taking care of an aged population. 47, three. I mean, if you give me $47 trillion, I could do a lot with that. Right. So just from an economic perspective, and by the way, I'm an economist by training, I think not just other areas of healthcare, but just other areas of the GDP are going to be improved. And the pandemic really showed this. If you have a population that is sick, you're going to lose trillions and trillions of dollars in actual value from society as a contribution, never mind the."
+    },
+    {
+        "speaker": "E",
+        "text": "Growth in GDP that gets from having a working population. Right?"
+    },
+    {
+        "speaker": "F",
+        "text": "Exactly, exactly. A population that is more productive, a population that has neuroplasticity to invent more. A population that is not worried about having to work, you know, seven days a week. But now they've been given more time to kind of reflect about what they can do with their life. What's the best way to move things forward? How do we, you know, how do we use our time wisely? I think it's a really good. There are good existential questions and philosophical questions that only longevity is going to enable."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, Sergio, maybe you could just take a moment to tell us about yourself and the companies that you're working with and also just if listeners want to learn more, where should they go?"
+    },
+    {
+        "speaker": "F",
+        "text": "So thanks for that. I like to help different companies create products in the context of longevity. I've been working with Tern bio, so www dot tern biology dot leucadiatx.com leucadia has a novel approach to solving Alzheimer's. My grandma died with Alzheimer's. After fighting for 17 years, I became indignant when I realized how much time and money had been wasted battling unsuccessfully Alzheimer's. And my grandma was not a human being halfway through the whole process, and yet society paid for her to get the best healthcare that was potentially offered to her. And I became enamored with disrupting healthcare. Much like Uber, disrupted transportation, Amazon, the retail space, etcetera. This is prime for disruption, and it's going to do tremendous amount of good. So that's who I am at the core. But I've also been volunteering for a long time with foundations and nonprofits. So the Methuselah Foundation, I created an investment fund for them called the Methuselah Fund. In 2016, we invested in different companies and helped them create new products and new innovations. Thankfully, none of them have fell apart. You know, knock on wood, right? But, you know, we sold one of them that we started with $150,000. We sold it for a deal worth $400 million. So, merger and acquisition deal with 3d systems, and this company called volumetric could create whole. The technology could eventually create whole new printed organs. So if you ever need a kidney transplant and you're no longer able to be part of a transplant list because you're too old, or because whatever that may be, this company is going to be able to 3d print you an organ that is yours with your own cells. It's not going to be rejected. And so the whole organ transplanting model is going to be fixed, hopefully, with this. It's a partnership between United Therapeutics and 3d systems, and I really have really good hopes there for them. Ossian biotechnologies and Oncosenex, which is their cancer arm. I think they're incredibly important company for senolytic approach. As you get older, you get more of these zombie cells all throughout your body. I think it's one liter by the time you're 80 that's just roaming around, eating your nutrients and just consuming all the good stuff from your body. You want that to be gone just as much as you want cancer cells to be gone. I think that's a really cool project as well. And then we have exterma, which are trying to make organs live longer, and also to create cryopreservants that are going to be non toxic, which is a huge problem today with academia. A lot of the materials that are being used are toxic. So there's potentially a case to be said that all the institutions around the world could be generating better science if they use better materials that are not toxic vc and biosciences as well."
+    },
+    {
+        "speaker": "E",
+        "text": "It's quite the list."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, you've got your hands everywhere a little bit. And then also wins on tour, which regrow your nerve endings, which is really cool for neuropathy and pain. And a couple other companies that are in stealth mode. One of the fun ones is actually through the Methuselah Foundation. Vitalik donated 43% of the world supply of this fun meme token community called Dogelon Mars."
+    },
+    {
+        "speaker": "E",
+        "text": "Dogelon Mars. Yeah. That's on the long tail of dog tokens for sure."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, it's actually, I don't know if it still is, but I think it was dogecoin, Shiba and Dojilan Mars, which is number three in the world. It's incredible fun community and yeah, it's a really interesting story for sure."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. Well, thank you for guiding us through all of this crazy, crazy topics. This is only like one of many, many longevity topics. So thank you for walking us through the top of the rabbit hole and I hope to continue going down it throughout this week."
+    },
+    {
+        "speaker": "F",
+        "text": "Thank you. Thank you so much for having me."
+    },
+    {
+        "speaker": "A",
+        "text": "Thankless nation."
+    },
+    {
+        "speaker": "B",
+        "text": "We are here at Zuzalo and I'm talking to Michael Greer of humanity. Michael, what's up?"
+    },
+    {
+        "speaker": "D",
+        "text": "Not much. Great to be here."
+    },
+    {
+        "speaker": "B",
+        "text": "Michael, I first met you at the 08:00 a.m. cold plunge and you have been there every single day."
+    },
+    {
+        "speaker": "D",
+        "text": "Been best friends ever since."
+    },
+    {
+        "speaker": "B",
+        "text": "Best friends ever since. So you're at an interesting intersection between all of the various topics that are being talked about at Zuzalu. The intersection of longevity, which we had a longevity week. I think we're going to have another one and also AI. So that's a fun little place to operate in. Tell us a little bit about how you stumbled your way into that world."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. And honestly, I think you can throw the public goods and the crypto into the mix there as well. Yeah, I mean, I started with, I think a lot of people in health tech start is they have someone close to them or themselves have kind of a really tragic health event. That kind of, you learn the cliche that if you don't have your health, you don't have anything. Right. And so I had people close to me find out really late about cancer. I think a lot of people, unfortunately, have had that experience and that threw me for a loop because I was in my twenties, I had this big business success, you know, this dating site that got quite large. So you're feeling like you can conquer the world and then you can't do anything for the, you know, the people sitting right next to you. And so I went down many rabbit holes, basically trying to figure out, like, early detection of. Of disease, of cancer. That led me towards genetics because of things called liquid biopsies that are now coming to fruition, which is a great space. But when I kept on going further, I went out to the valley. I took over operations at a consumer VPN. I started meeting people that started giving me this. It sounds like a very simple idea, but I didn't have it in my head before, which was, there's something better than early detection of disease. You can actually monitor the whole body going towards higher probability of disease."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "More susceptible."
+    },
+    {
+        "speaker": "B",
+        "text": "One step in front of that. Yeah, yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "Because what, what the whole. I mean, we don't need to go into the whole healthcare system, but I think most people that spend a lot of time in the healthcare system call it sick care now because we focus at that end stage where it's not too late, but it's like the person's already pretty diseased and you're trying to save them. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "And you're saving them in the most expensive part of that trajectory and also the part of the trajectory where they are suffering the most."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And so that is the part that the current institution of medicine is prolonging the most."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. And. And it's good that they're there. The problem is not that they're doing. They're giving sick care. That's great. And they do amazing job in hospitals doing that. The problem is that we don't have a lot of emphasis on much earlier."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "In that. In that process. And so a lot of people have. Well, almost everybody has the intent to stay healthy or to be healthier, but there's just very few tools out there that can actually lead them in the right direction. And so, eventually, once I had that idea in my head, I don't get excited about stuff until I can really understand, like, how the whole operation works. And then I got excited. And so that's why we created humanity. And humanity basically allows you to monitor your rate of aging, which is basically your probability of disease. Is it going up or down and then basically guides you towards slowing it down."
+    },
+    {
+        "speaker": "B",
+        "text": "Sure."
+    },
+    {
+        "speaker": "D",
+        "text": "So across our user base, we're looking at all the users, what they're doing. Then we're finding users like you. So, you know, your kind of biological sex, your age, you know, different attributes of you, and seeing what seems, what group of actions is seeming to positively affect this endpoint. And that endpoint is this prediction of future health. And so what group of actions is actually making that prediction that you're going to be healthier in the future? Oh, those are good actions for that type of person. Let's tell everybody that that's type of person. Hey, you should do this and then see if it works."
+    },
+    {
+        "speaker": "E",
+        "text": "Right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. There's a lot of magic behind the."
+    },
+    {
+        "speaker": "E",
+        "text": "Scenes at the app that I definitely want to dive into, and we'll see."
+    },
+    {
+        "speaker": "B",
+        "text": "If we can get some visuals up on the screen as well. But first, I still want to zoom out and just, like, can you give us, like, a high level, just mission statement for you and humanity? And also tell us just a little bit more about the is ought gap between the current institution of health and where you think it would be more optimum if the institution of health progressed towards."
+    },
+    {
+        "speaker": "D",
+        "text": "Yep, I'm gonna. Sometimes I'm gonna stop you and ask for definitions of some of these things. Sure. Is ought is a."
+    },
+    {
+        "speaker": "B",
+        "text": "Is odd gap. Yeah. So there is the is odd gap."
+    },
+    {
+        "speaker": "D",
+        "text": "Is, like, currently have and have nots or the."
+    },
+    {
+        "speaker": "B",
+        "text": "Currently. The world of medicine is one way."
+    },
+    {
+        "speaker": "D",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "And I think you, as a result, ought to be some other way."
+    },
+    {
+        "speaker": "D",
+        "text": "Cool."
+    },
+    {
+        "speaker": "B",
+        "text": "So where is it and what it be? And then, like, your own personal mission statement with what you're building here at humanity."
+    },
+    {
+        "speaker": "D",
+        "text": "Cool. Yeah. So we try to boil down our mission to real simplicity. We want to give a billion years of health back to humans by 2030."
+    },
+    {
+        "speaker": "B",
+        "text": "That's funny. So at bankless. Sorry, just a slide. Cuts. We talk about we want to help a billion people go bankless. That's been our line."
+    },
+    {
+        "speaker": "D",
+        "text": "A billion. It's a nice, round number."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's the largest number that humans can still reason about."
+    },
+    {
+        "speaker": "D",
+        "text": "Exactly. But, I mean, so the consumer VPN that I was running, we got to 900 million users. So, like, the beauty of the Internet is that you can. You can actually affect that many people. Right. So that's the mission. We want to get back those billion years and very specifically healthy years."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "So those fully functional, or, you know, mostly fully functional, healthy years that we, almost all of us enjoy living. And so that's. That's the mission and kind of what we have right now. I would say the biggest thing, if I was to cut straight to the chase, we don't measure our health. So those that are real seekers and kind of out there, like early adopters trying to biohack and all that kind of stuff, very few of them even measure their health. They're content consumers, and there's a lot of great content out there, and you're trying different things, but you're not monitoring yourself over time to see if the group of things that you're doing is actually moving you towards what most of us are going for, which is we want to be healthier for longer. Right. And so what the system doesn't have right now is measuring. The cool thing, though, is we've just entered maybe the last five years, I would say we've entered a time where almost everybody has a device on them which can monitor their health. So, like, our mainstay of monitoring your health as a user is your movement pattern. And so if you keep your phone in your pocket or near you throughout the day, we'll be able to at least give you some prediction of your future health. If you have a wearable, we can feed in the heart rate."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. There's so many out there, and you're saying that even the very blunt tool of your phone in your pocket still can provide sufficient data. But then we're many years into the Fitbit revolution. Now we've got the apple watches, there's the whoop band, there's the oura ring, there's the sleep eight mattress that actually tracks you when you're sleeping. So there's even other non wearable devices that are inputting data. And so I think this is the industry, the sector that humanity is really tapping into. There's all this data out there, and now we can start to apply it."
+    },
+    {
+        "speaker": "D",
+        "text": "Exactly. And apply it in, almost leave the kind of clinical trial system and these kind of, like, small research study things behind in a way, because the secondary problem. So that was the big is odd. I. The secondary problem is that we. Because I think in the past, it was easier to have one common marketing message. So if you're a public health official, and it makes sense, like, if you're a public health official, like, you can't go out and say, hey, there's 20 instructions to follow, you just say, hey, sugar is bad. And you just hope that message can get as far as it will go. Right? And the problem is, each of us is different, and the combination of actions actually affects the outcome. And so to give you an example, so, like, if you're a certain type of person, which I am, lucky for me, don't be jealous. I can eat as much chocolate cake. It's not going to spike my sugar. I've experimented multiple times with continuous glucose monitors. It just won't do it. I'll have to try a couple more times to make sure that the results are sound. But the normal person would say, hey, you know, that's unhealthy. You shouldn't be doing that. Right. And so each of us needs to start measuring ourselves so that we can actually know, you know, what's actually working and what's not. And so the getting away from, you know, how do you, how do you get away from that real need, which was these simple messages, to actually applying a much more personalized thing. Unfortunately, I don't. I don't want to say everything's in your pocket, but, like, again, we have this great delivery service that we unfortunately stare at a lot during the day."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "And that thing can give you very personalized stuff. And we. And we actually are unhappy when it, you know, we talk about how personalized it is. These. These ads know too much about me."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "That same thing. Knowing everything about you can give you specific health knowledge. Right. So."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. We can start to turn it around and start to use it for our benefit. And I think this is where just perhaps the AI conversation starts. Because the idea is when so many people have their phones, everyone has their phones. And even not as many people have phones as has wearables, but a large number of people have wearables. We have a ton."
+    },
+    {
+        "speaker": "D",
+        "text": "And in their closet, too. And now they're taking them out to use with the app."
+    },
+    {
+        "speaker": "B",
+        "text": "Right, right. Yeah. So, like, I've had an Apple Watch and I've loosely worn it here and there, but since coming here to Zoozalu, doing the morning cold plunges, going on the runs, having this app to actually tell me what's going on with that data, all of a sudden, my rigorousness about how frequently I'm wearing this wearable has, like, tripled."
+    },
+    {
+        "speaker": "D",
+        "text": "I'm going to cut this part of it. I'm just going to send that to Apple. Feature us more, please."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Official iOS partnership app."
+    },
+    {
+        "speaker": "D",
+        "text": "Right? We're selling watches."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. So we have all this data. We have way more data than I think we know what to do with. And maybe that's even, like, one of the big problem statements. We have more data than we actually can apply to actually know what to do with it when it comes to our health behavior. But I think this is where perhaps the AI conversation starts and just the big data conversation starts. So can you walk us down that rabbit hole?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. And I think what you're touching on is also, I think we've had a few years. I think all this stuff just puts it in the mainstream. So I don't think any of this was, like, a wrong direction, but we had a few years of like, hey, we have a bunch of data on you. And here's some cool graphs, right? And, and I think people started to get a little bit of like, okay, well, that was cool. But graphic didn't really help me. And they're like, okay, you know, you can only look at your HRV for so long, and then you're just like, I get it."
+    },
+    {
+        "speaker": "B",
+        "text": "That's your heart rate variability, by the way."
+    },
+    {
+        "speaker": "D",
+        "text": "And so I think, sorry, what was the question?"
+    },
+    {
+        "speaker": "B",
+        "text": "So now that we have other tools, not just wearables, not just data, but we have AI and lots of data, what can we do with this?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, so I think that's where the cool, the cool thing that happens is when you have enough of this data, no matter if data is noisy, no matter if data is interspersed, and you're not getting it every day. The great thing about AI is it actually can just still, it looks at all that data and it can find all the relationships. I mean, deep learning is about finding the kind of relationships and associations between multivariate systems and just taking that as knowledge. And then in many cases, it's applied in different ways. You can fold all the proteins in the world, or you can, you know, it's that deep knowledge, that deep learning that gets that knowledge of how these variables are associated. And so that's, that's kind of the, the byproduct of deep learning. But it's actually the beautiful thing that now we're applying to health, which is you can take that knowledge and actually then feed it that you can create an algorithm off of that and then feed it back to the user so they can feed in their data and it will actually give them guidance. The other thing, I don't know if we want to get too deep into it, but we can go off on a tangent. I think what we're working on also at humanity and kind of plays into the public good that's happening behind us. A lot of great talks is we want to find a way, and there is a way we want to actually build out a proof of concept of that. You can keep the data private, stays in the same place. The owner of the data is the user. When they want to delete it off of that place that they put it, they have full reign to do that. But you're also able to, the route word going is creating synthetic data. So we're basically deep learning, learns all the relationships, and then you create fake users that have all those relationships. You can open up that data to, then train models on, and everybody can do that. We have 150,000 users, but there's health tech companies that have 100 million users, and there's the NHS in the UK and Montenegro health system. They can keep their user and patient data completely private, not anonymize and send it off somewhere, keep it where it is completely private, but still train models on it and allow researchers to do that, allow anybody to do it. I think that's now that we have blood in the water with AI, with chat, GPT just made it completely mainstream right now, people are like, what else can we do with data? So I think now is the time really that we need to push to open up this data, but not the real user data, but actually just the learnings from it."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. And I really want to drill down on kind of the problem of all this data that we have for anyone with a wearable or an apple will. I'm sure Android has this, too. But if you open up your health app, you can just scroll and scroll and scroll through all the things that it's measuring."
+    },
+    {
+        "speaker": "D",
+        "text": "Right, sorry, Apple Health app."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, they're taking some credit back. So, like, it measures things like your gait imbalance, right? Which leg that you put more weight on while you walk. It measures heart rate variability, which is very useful. It measures how many steps you take. Like, it measures everything that it can get its hands on. And what the cool thing about the humanity app is that it actually just boils that down into just like, are you living longer or are you living shorter? And that's really the power of applying AI here. Just consolidate all that data down to one output. But hopefully, can you just illustrate the magnitude of the data problem and how AI fixes that?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, and I don't want to be overly positive, but there is the other side of the coin, which is basically these platforms, these hardware companies, or if they consider themselves hardware companies, their sensors are getting more and more prevalent. More and more people have them and they're getting better and better and they're monitoring more and more stuff. The secondary that you touched on is they're also. And I think this is a place for them to play as well. They're also creating processed values like, you know, gait instability, whereas I might not have a person on my team that necessarily is going to be an expert in that."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "But they create this process, this feature that they take out of that data that then we could use. Like, I mean, if you're a sports app, you get gait instability. You're like, okay, you're injured. Here's go out on this route. Right? And I think that's so there's an ecosystem where there's easier and easier ways and cheaper and cheaper ways for people to get this data on themselves. Then there's an ecosystem that can live within the same player where it's like, how can we process this? So you're not just sending raw accelerometer and gyroscope data, and then you got to just learn how to deal with it, because it just makes it easier for people like us, like humanity, to then take that, and then we're like, hey, well, actually, now that it's processed, it's a few kilobytes, and we now can do this very cool thing with it."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so when you apply AI to all of this data, can we just unpack a little bit more, like, what that means? Because in this day and age, we just say, and then we do AI."
+    },
+    {
+        "speaker": "D",
+        "text": "That's where the variable reward is. You press the button and magic happens. What magic am I going to see next?"
+    },
+    {
+        "speaker": "B",
+        "text": "So how does humanity actually apply AI to produce meaningful results for its users?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yep. And so we're doing something, I wouldn't say simple, but it's, you know, it's kind of like really good machine learning on it, which is basically saying, what? So we see all these actions that people are taking, and so we take all these values from your. From your wearables, from your. From your phone. We take values from your input. You can say what your mood is. If you're not monitoring your sleep, you can put in your sleep. So we take some manual input. And so then we just take these all as these are actions. We're not making any judgment on them whatsoever. So person did these actions, and then we have this prediction that happens every single day using your movement pattern and your heart rate pattern, if you haven't. And we're just saying, okay, this prediction, is it predicting that you're going to be healthier in the future slightly or less healthy in the future? Slightly. So that's the end point. So you can think of it in traffic navigation. The endpoint they're trying to look at is time to destination, right? So they're saying this path takes five minutes, that path takes seven. So we're basically saying, okay, is the prediction of your future health better or worse? And then if it was better, you almost just, like, label back into that group of actions and say, this seems to be a generally net positive group of actions for this type of person."
+    },
+    {
+        "speaker": "B",
+        "text": "Right?"
+    },
+    {
+        "speaker": "D",
+        "text": "So that's where the stratification is the most important. And so you just do that repetitively every single day, and you can take time periods, you can start to understand if there's a lag between an intervention. So maybe if you do a cold plunge, we'll see your prediction of health better in three days and not immediately."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "So you start to learn all this from the data, but in the end, it's, it really is exactly like traffic navigation. You're not trying to do a study on side streets versus highways. You're basically like, hey, these cars were heading on all these different paths and all these edges put together made a better end point. Got you there in five minutes instead of seven."
+    },
+    {
+        "speaker": "B",
+        "text": "So, okay, so let's talk about some of the healthy behaviors that do actually move the needle. So we have all of this data, but most of the data is probably trash. And some of the data is probably really, really good."
+    },
+    {
+        "speaker": "D",
+        "text": "You always got to be careful with that because I think the genetic space played this out very well. They're like, these, these are gene encoding areas, and then there's a bunch of randomness that, you know, throw that stuff out and they're like, oh, shit. That actually."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, no, no, some data is going to be more valuable than other data."
+    },
+    {
+        "speaker": "D",
+        "text": "Correct?"
+    },
+    {
+        "speaker": "B",
+        "text": "In the moment, yes, in the moment. Right. And so, like, maybe we could actually just, like, zoom out and put humanity aside. We'll, we'll open up the app in a second. But just like, talk about what are the big behaviors that do move the needle for people that can actually be measured by things like our fitness trackers. But just like, what are healthy behaviors that most people aren't engaging in that the humanity app or just longevity efforts would tell a user to engage with?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yep. So I think there's a bunch and you need to be monitoring yourself and the combination is important, so I'll keep repeating that throughout. But the combination and the one that probably people, people could understand that they're different, and so they pick up on that quicker. Like, okay, it works for him, but it's not going to work for me. But the combination of things makes a big difference. And that means, like, if you didn't get enough sleep, I'm just making this up. Like, if you didn't get enough sleep and then you do a high intensity workout, it might actually be net negative. If you got a bunch of sleep and you did high intensity, it might be very positive. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "And probably also the order of those two things also matters, right?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yep. Yeah, exactly. Timing. Yeah, yeah. So order, you can see so well with nutrition, right? So if you talk about, like, blood glucose and it's spiking, and that. That being generally bad, at least, you know, according to what we know so far, is, you know, if you go for a walk, this is why some of these common public health messages get out there is because for a lot of people, if you go for a walk right after a meal, it drastically lowers any spike that you might have gotten, no matter what you ate. I really. And so, yeah, the order and the combination. And so what we. Sorry, I lost a question again, just."
+    },
+    {
+        "speaker": "B",
+        "text": "What are the behaviors that really move the needle?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, people always want to know. So I'll list a few, I think, from our data. I'll give it straight from our data we're actually seeing for some cohorts, and you may or may not be in that cohort, so please don't take this as a prescriptive thing. In some cohorts, moderate intensity activity seems very. Has very little impact, really. And so this kind of, like, stay in the, you know, just go for a moderate jog for some people. From our data so far, with 150,000 people, seems to not really move the needle. And so. But the low, low intensity, which basically means, like, walking around and possibly kind of low intensity yoga, that sort of stuff, is fairly impactful for most of the strata, and high intensity has quite a variation in its impact. But is every single strata needs some of it interesting, but the moderate for, I'd say, like, we have pretty large, different cohorts now, but, like, let's say three of those cohorts, I could just see the data in my head right now. Like, three of them, it just doesn't show up."
+    },
+    {
+        "speaker": "B",
+        "text": "So. And you said moderate activity doesn't move the needle. Can you define what that means to move the needle? Like, what does that mean?"
+    },
+    {
+        "speaker": "D",
+        "text": "Is it impactful, in this multivariate analysis, this group of actions that people are taking in a day, does it seem to be impactful on reducing their probability of future disease to that endpoint that we're trying to affect?"
+    },
+    {
+        "speaker": "B",
+        "text": "And that's just based on scientific study that we are looking at from indicators of health?"
+    },
+    {
+        "speaker": "D",
+        "text": "No, that's directly from the data, is saying, yeah, our prediction that we're getting from your movement pattern and your heart rate pattern on a daily basis, that prediction doesn't seem to be moved, impacted by, in a couple of the strata, by the moderate. And so that means. And you don't want to then immediately take that and then jump to like, oh, well, that's. That's what we thought we'd find."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "But it is exciting now, I'll admit it. It's quite exciting to, like, see the real data now, because I think in the longevity space, it makes a lot of sense. But again, this is my own personal Michael Gere kind of conjecture is there are certain things that you trigger in the body when you do high intensity exercise, one of the main ones being a hypoxic response, meaning your cells think they're running out of oxygen, and so they start cleaning up, breaking down misfolded proteins, like doing good stuff that makes your body stronger. Just getting nutrients to your body throughout the day, which is you walking around and not sitting at your desk, at your computer, is, you know, it makes a lot of sense from a systems like physics. You know, you're going to more consistently deliver more nutrients to all your cells throughout the day if you're moving and your heart's pumping it just slightly higher and getting the blood around right. And so that makes sense. Moderate, you can't necessarily find a lot of kind of in the very high level longevity kind of framework be like, oh, it doesn't really do much more than the low intensity because, yes, you're moving blood around, but you probably were moving blood around fine, walking around, and it's not reaching the point where you're getting a hypoxic response, where your cells think they're running out of oxygen. And so it makes sense that for some strata, you don't see much going on."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. And we would only really be able to know this if we have a lot of data and the models to be able to create these relationships, assuming. Right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yep."
+    },
+    {
+        "speaker": "B",
+        "text": "And so, like, one question I have is, like, going back to, like, what does it mean to move the needle? There's one. There's one perhaps way of making a health app, which is going through all of the literature and all of the studies and all the doctors that say, hey, this is good."
+    },
+    {
+        "speaker": "D",
+        "text": "It's kind of the way that most health apps are made, actually."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. And then there's another way of doing this, which is just giving models, AI models, a bunch of data, and then also cross referencing that with how healthy these people are, how long they live, and actually have the AI models determine what is good."
+    },
+    {
+        "speaker": "D",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "And then that sounds like kind of more of the approach of the humanity app, where you don't want to actually have, like, inputs as to what is good or what is bad. You just want to input a bunch of data and have all of that data create relationships with itself, and then have the AI model say, like, oh, well, this person's doing all these things and they are living longer and being more healthy, but not actually telling the models what health is. Allowing the models to determine what health is."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "How does a model determine what health is?"
+    },
+    {
+        "speaker": "D",
+        "text": "So. And then I can go back and give you kind of a. Hopefully it'll be interesting, kind of the inside story of kind of the daily struggle of running a company like humanity. So the base truth. And a lot of people are starting to base models on this and for different things like drug discovery and things like that. And I'm a believer there's some great people, like Kristen Fortnite, that runs bio age that kind of turned me onto this idea. But you basically go to biobanks, and biobanks are, they're run by governments, they're run by different institutions around the world, different countries have them, and biobanks are basically, you follow the same people, the same humans for decades. And so this idea of, like, how do we actually know what's going to happen in the future is solved by these biobanks, where you have a bunch of measurements on these same people in the past. So the UK biobank, which we built most of our stuff on at the moment, has about 18 years of about 500,000 people where they took a bunch of measurements on those people in the past, 18 years ago, and throughout that time. And then you have the actual, what happened to them health wise, their health records for the next 18 years. So this person, you know, what they look like 18 years ago, and you know that they got cancer, you know, five years into that, so, you know, 13 years ago. Right. And so that's where you can. To predict the future, you only need association. You only need correlation."
+    },
+    {
+        "speaker": "B",
+        "text": "Right?"
+    },
+    {
+        "speaker": "D",
+        "text": "I think we're all fed that, that meme so many times. We don't, we don't know the difference. Correlation is not causation, but correlation isn't good enough to predict the future, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Correlation is correlation, yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "And, and if. If the same things happen at the same time, repeatedly, that's good enough to predict the future. That's what all these models are built on. To maybe emphasize it a bit more, to really put it in people's heads, is anything you measure on the system, in this case, the human body, years ago, becomes a predictor of the future of varying strengths. Some will be stronger predictors, meaning they'll be more weighted into your prediction and some will be less. But everything, you know, their zip code, where they live, their movement pattern. So in the UK biobank, they hooked on accelerometers to these people. Very good force, you know, foresight by the way, you know, 18 years ago, about 100,000 of them, and heart rate monitors. And so that's what our digital is built on, because we know the pattern of movement second by second pattern of heart rate, second by second for people, and then we know what happened to them in the future so we can make a prediction. And so that's. That's basically what all these predictions are built on."
+    },
+    {
+        "speaker": "B",
+        "text": "So one thing that I'm kind of just excited to watch is that we are, I assume, the amount of data that we are collecting from our wearables, and also the strength and precision of our algorithms, both are up only and probably in an accelerating fashion. And also, when there's two things that are accelerating upwards, what you can get."
+    },
+    {
+        "speaker": "D",
+        "text": "Out of that, the competence oriole, it's."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, it's to the power of two, right, is the output of this. And so, like, one thing I'm excited about is to watch this humanity app develop in strength and power and significance over time. And so, like, can you just paint a picture of what you want humanity and what you want this part of the health industry to be, like in 510 15 years, as AI gets better, as data gets better, what can we do with this? What's the bull case?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yep. I think what we want to be is, and relate this to a theory. We want to be a beacon to actually show at scale that you can basically take this data and then figure out exactly how to guide the person with it. And so we want to show that both it is worthwhile for us to do the little bit of work it takes to basically keep the data private, but start training models on it, because, hey, all these humanity users are getting younger. You know, their probability of future disease is dropping. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "Humanities told me that I started the app at 30.3, and I'm now at 29.7."
+    },
+    {
+        "speaker": "D",
+        "text": "Cold plunge."
+    },
+    {
+        "speaker": "B",
+        "text": "Cold plunge."
+    },
+    {
+        "speaker": "D",
+        "text": "Shout out. Cold plunge. Yeah. So I think that's one thing. And then on the side, and especially now that I've been in, you know, at Zuzalu, it's been quite a. It's motivated me even more to push because I think, like I said, blood's in the water with the AI. Like, people now know, they feel it, they taste the possibilities, right? And I think up into the echelons of government, people now understand it to at least, like, hey, there's potential here. Right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "And so what we want to do is be basically a beacon to show, hey, you want to start training models? First of all, you have a bunch of data. So I think sometimes the conversation starts with, how do we motivate people to start collecting data is already there. The health systems have a ton of data. Every single health tech company, we have 150,000 users data. The data is there. How do we unleash that data? Keep privacy of that data. Stop anonymizing it. It actually loses people privacy. Keep it private, but start training models on it. Synthetic data is our path, and I think that's. I would love to see, say, in five years that we have 100 million users. You know, me and my. Me and my co founder have done it multiple times. Now we have 100 million users that are using our app, and we want to continually be the best guidance app. Like, we want to be the best. It sounds mundane, but we want to be the best traffic navigator, but the best navigator for your health. So the Ux UI, the real behavior."
+    },
+    {
+        "speaker": "B",
+        "text": "Google Maps for health is great. Is a great model."
+    },
+    {
+        "speaker": "D",
+        "text": "Exactly. Yeah. And we are very good at why we got into this is we're very good at people using an app and changing their behavior because of the app, all the things that we might not like about some of the other social media apps, that stuff works to change behavior, and we're using that to change health behavior. We want to do that, but we also want, throughout that process, to have Montenegro, to have different places start to actually use the data that they have on their servers to actually increase people's, you know, their lives. Right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Certainly, yeah. And so I'm gonna hit record on my phone here, and we're gonna pull up the humanity app. And so congrats on actually introducing a new app into my life. That's not an easy thing to do. I haven't gotten a new app in years now, but, like, I've been using humanity for ever since coming into Zuzalu. So there's four main. I know I'm showing the screen, but there's no point because you can't see that. So, like, we're gonna put this on the actual screen. There's four main categories. Movement, nutrition, mind, and recovery. And you get points on side on each different one, each different vertical. And the idea is to. I think it's out of 100 points every single day."
+    },
+    {
+        "speaker": "D",
+        "text": "Yep."
+    },
+    {
+        "speaker": "B",
+        "text": "And so you want to score as high as possible. I've got 80 points so far, so I got, like, 20 to go."
+    },
+    {
+        "speaker": "D",
+        "text": "Well done."
+    },
+    {
+        "speaker": "B",
+        "text": "I've never gone higher than, like, 92 or 93, but I still. It's showing me a blue color, and I like blue. It starts off redhead, but blue feels. Makes me feel good."
+    },
+    {
+        "speaker": "D",
+        "text": "Got to get the blue."
+    },
+    {
+        "speaker": "B",
+        "text": "And so, like, talk, can you walk us through movement, nutrition, mind and recovery? How, like, how do you know how many points to allocate to each one? And how does that. How does that math get determined?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yep. So, yeah, like you said really well, earlier, we wanted to boil it down to things that are quite easy for the user to follow. And getting more points in a day, you know, is an easy thing to follow. What we do is we translate, so we figure out how impactful each of these actions will be for your type of person. It's still quite large, strata, 150,000 users. But as we approach a million users, we get more and more personalized, but we see how impactful each of these actions will be, and that then translates into how many points you're going to get for that type of action."
+    },
+    {
+        "speaker": "B",
+        "text": "So my points are my point, but if I get two points for doing this one activity, that's because that app weighted me to have those two points. Somebody else could be given a different weighting because of just the data that they have."
+    },
+    {
+        "speaker": "D",
+        "text": "Exactly. And so when you're going through your guidance, all very simple stuff. Once you have that semi complicated kind of back end system, very easy to then say, hey, we're just going to raise the guidance to you in order of the most points, and you can scroll through, you can decide, hey, I'm not going to do that. I'm going to do that. Right, you got to do your meditation."
+    },
+    {
+        "speaker": "B",
+        "text": "I skip my meditations. I'm naughty on my meditations."
+    },
+    {
+        "speaker": "D",
+        "text": "Sorry to call you up."
+    },
+    {
+        "speaker": "B",
+        "text": "Which is why my mind is. My mind part is at the lowest, which makes sense because I'm a chronic user of Twitter and other things like this."
+    },
+    {
+        "speaker": "D",
+        "text": "But you're expanding your mind here at Zuzalu. So, yeah, so then that's how we apply all the science and all the tracking in the back end then just gets applied to. You're getting, you know, as you go, you know, maybe we need to give you four points for meditation, and then we'll. Then we'll get you over the edge."
+    },
+    {
+        "speaker": "B",
+        "text": "The longer that I go without meditating, the app starts to wait."
+    },
+    {
+        "speaker": "D",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "You need to meditate a little bit more, bro. So, okay. Nutrition, movement, mind recovery. I would assume, like, as more data is available, more pillars could come online based off of what the models and the data suggest."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, yeah. It's quite simple right now. The cool thing is you also get a bit of a kind of a crowd, a crowdsourcing thing that will be going on will more and more allow people to actually enter in things that they're trying or doing. And so our thing is, like, take everything at face value. If someone thinks something work, hey, do it. But now we're giving you a method to actually measure whether it's working or not. And if there's enough people that are doing that intervention, that action, then we'll start to see who it's working for. For who, and in combination with what other actions."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "So it sounds like a complicated matrix, but that's the great thing that, you know, computers and AI are very good at keeping these things straight."
+    },
+    {
+        "speaker": "B",
+        "text": "So, speaking of complicated matrix, I think one other we were talking about, okay, more users are wearing more wearables, so there's more data out there. The missing part of that that I forgot to bring up is wearables are actually getting better."
+    },
+    {
+        "speaker": "D",
+        "text": "Yep."
+    },
+    {
+        "speaker": "B",
+        "text": "And so we're not only are we getting more data, but our wearables are actually getting more precise about things."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "So, like, is the bull case for this is, like, almost any variable about the human body, like our. Our glucose in our blood, our insulin levels, like, etc. Etc, is actually going to become more and more measurable. And that's what all gets fed into this, at this app that you're building."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, yeah. And it's happening very quickly. And, like, you're saying that then you get an exponential effect of, like, the thing that we're missing right now, other than humanity doing it, is we're just not using the data. But, yeah, once more people are using that data, like we are, I think. Yeah. Then the acceleration comes from better measurements, measuring different things, and everything is an indirect measurement. I think people forget that everything is an indirect measurement, necessarily measuring the molecule happening in the cell. But the great thing is, all of those things, when you have enough of that data, you can understand what that indirect measurement means. You triangulate, I think, is what we were saying. You triangulate a couple of these things together, just like heart rate and movement pattern, and you're vastly ahead of where you were with just one of them."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Maybe we can take this back to the beginning, which is this is a perspective at a vantage point that the traditional healthcare system has not been able to have or be able to operate with. And so with all of this data and with this data being made available to everyone, what is your hopeful case for the healthcare industry as it is able to change and adapt to this new paradigm?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, that's a great question. Well, one hope is, I hope they see us much later in life. Sorry, guys, you're not going to see me for a few decades. That's one hope. I think the other thing is, I mean, we started to see this a bit in Covid, and honestly, it took us about six months into Covid to start even, or at least, you know, people talking about it was, hey, we have all these different treatments, so once people are already in a bad way, they need to go into the hospital. We have all these different treatments, and all different hospitals are like, we're desperately trying to try different things because we wanted to save these people. It's like, do ventilators help? Do ventilators not help? Who do ventilators help, and who do they not help? Like, we were trying to get this matrix, and it started to get organized a little bit, but I think it showed like a promise for the future is like, you should walk into that hospital visit on that unfortunate day that you need it. And they should have it pretty personalized to know, hey, we've read all these things off of David's body or Mike's body, and we now can have basically a diagnosis. But much more importantly, we know we want to get David's body back to this stabilized and healthy point, and we know the route that we've done that on for other people like David."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "And so, again, you're less trying to categorize things. You're just letting the AI say, we have seen this before, and we know how to get this person back to that. We know the path."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. Right. Where the current practice of medicine is probably just so blunt, as in, just like it produces best practices for standard."
+    },
+    {
+        "speaker": "D",
+        "text": "Of care comes from a very sometimes not varied enough population of patients, and sometimes too varied in the sense that the standard of care is like, the least harm that we can do to the general population. Unfortunately, you're not the general population."
+    },
+    {
+        "speaker": "B",
+        "text": "Right? Yeah. When you walk into a hospital, you are treated as if you are general population, which you both are, and you are nothing. And with this new world with, you can come in, maybe they scan your wearable, download all of your data and be like, here's what this person is. Here's how they're different from the general population. Here's a much more surgical intervention that we can apply that's appropriate for this person based off of that data, rather than having to go to a textbook that did some study about some people, that aggregated some data and made some blanking statement about all of these people that it. And the only reason why we operate on that with that study is that because we proved that it didn't harm any people. And it provided some marginal benefit. That's our current way. And the new way is just something far more precise."
+    },
+    {
+        "speaker": "D",
+        "text": "Yep. Yeah. And I will say this. I think we're seeing kind of an analogy with, like, large language models. Just a shout out to the AI watchers. I think there's been a lot of talk like, well, we need to compute the world's data and spend $100 million to create a good LLM. But even just months later, we're seeing people do it with much less compute, sampling data, all the stuff that saves money and time and pretty decent results from it. Those LLMSD, those smaller LLMs are actually, like, performing pretty well. And so I think I don't want to, I don't want people to come away being like, if only every single human on earth was measured with a ton of stuff, and we feed that into the system. I think a lot of benefit comes from just a few extra things that we're measuring and just acting on them with an algorithm of saying, hey, we did this to this type of person and this happened. It's really the biggest thing that we don't do now is we don't take that result of that thing and then feed it back and train the algorithm more. Like, we don't, we come up with a standard of care that comes from maybe some study that they did at a couple hospitals, and then we basically stop feeding data into the system for the next ten years."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "That standard of care just like, statically lives. Right? And the biggest thing is we need to keep feeding the results in and be like, hey, actually seems you can both personalize it more because you do that. Because why did it work for that person? It didn't work for that person. You get so many of those cases that you. Then your algorithm gets smarter. It's like, oh, actually for this person, we always do this type of person, we always do this thing, right? And so I think I don't want to. I want people to understand that just using the data that we almost already have, we can do much better very quickly."
+    },
+    {
+        "speaker": "B",
+        "text": "So, Michael, thank you so much for guiding us down this conversation."
+    },
+    {
+        "speaker": "D",
+        "text": "Thank you, David."
+    },
+    {
+        "speaker": "B",
+        "text": "If people are interested in trying out the humanity app, where can they go?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. So if you have an iPhone, you can use it right now. So just go to the app store, put in like, humanity, humanity health, and, yeah, check it out. And we love feedback. We're constantly learning and growing. And the more data we have, the better it is for every single user. And then Android is coming soon. I'm an Android user. So I feel the pain of the Android users, but, yeah, we want to be very inclusive. So the Android's coming soon. And then I think if anybody out there is interested in opening up health data, synthetic data, kind of looking at things like that, where you're preserving the privacy of data, but then allowing models to be built on it, federated learning, I would love. I'm open to all conversations, so we'd love to talk about that, too."
+    },
+    {
+        "speaker": "B",
+        "text": "Awesome. Michael, thank you so much."
+    },
+    {
+        "speaker": "D",
+        "text": "Thank you, David. Cheers."
+    }
+]

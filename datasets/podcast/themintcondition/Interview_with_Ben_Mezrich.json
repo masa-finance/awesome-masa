@@ -1,0 +1,938 @@
+[
+    {
+        "speaker": "A",
+        "text": "And we're live."
+    },
+    {
+        "speaker": "B",
+        "text": "This episode is brought to you by the Degen Community Network media for the decentralized generation. If you want to connect or to check out more great NFT and crypto content, go to dgen.net work. That's dgen.net work."
+    },
+    {
+        "speaker": "C",
+        "text": "Hello and welcome to the Mint condition. I am Joe, aka Bunch. You bets alongside my esteemed colleague and co host, Chamber. Chamber. How you doing, buddy?"
+    },
+    {
+        "speaker": "A",
+        "text": "Doing very well. I don't know if you can see behind me here. Joe sent me my Christmas gift a little early this year. He simpsonized my family in a family portrait. So, yeah, myself, my wife, and my two daughters, and it is possibly the best gift I've ever received in the entirety of my life. So super, super grateful. My daughter Fiona absolutely lost her mind when she saw the Simpsons version of herself. But, yeah, ten out of ten, man."
+    },
+    {
+        "speaker": "C",
+        "text": "Awesome. I'm so glad that you guys liked it. It was a no brainer when I found it. As you being a huge Simpsons fan, I had to turn your family into the Simpsons."
+    },
+    {
+        "speaker": "A",
+        "text": "We're a Simpsons family, too. We instill this in our children at a young age."
+    },
+    {
+        "speaker": "C",
+        "text": "Good."
+    },
+    {
+        "speaker": "A",
+        "text": "They get all the references when I."
+    },
+    {
+        "speaker": "C",
+        "text": "When I print the physical and send it to you. I hope it goes right in your living room then."
+    },
+    {
+        "speaker": "A",
+        "text": "My daughter already kind of claimed that. I said, well, you can't. You can't just put it. It's my gift. It's either going. It's. We have a space in the hallway, I think that would look really nice. Or if not there, it'll be in my office. But my daughter, very quickly."
+    },
+    {
+        "speaker": "C",
+        "text": "Cool. Well, we have a spectacular show for you today. We have the one and only Ben Mesrick on with us. Ben, how are you doing today? Good."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm doing great. I love it. I love the Simpsons artwork there. It's awesome."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Well, we'll have to make you one next. Next time."
+    },
+    {
+        "speaker": "B",
+        "text": "Thank you."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, if you, you know, you're. Chamber's not the only one that got turned into a cartoon for this show. As you can see behind me, Ben on a rocket ship, we are going to talk all about. We're going to talk all about the Ben Mesrich project that's upcoming in the next couple of weeks. We're going to walk through, you know, what the project is. We're going to talk about some of Ben's history writing and some of the cool stories he has and, you know, his movie or books being turned into movies, things like that, and how that relates to, you know, his project that's dropping here in the upcoming weeks. So super excited. Feel free to, feel free to drop comments in questions, anything like that. We'll be happy to grab them and answer those as well. And then lastly, just real quick, before we get started, I have a giveaway that we are running. It is for a punks comic, version two with the apes. I just dropped the tweet in the chat. If all you got to do to enter, we're doing it live at the end of the show. Retweet that tweet that I just sent you and you will be entered. We'll draw it live at the end of the show. I think it's almost that half an eth value right now. So pretty good. Pretty good prize here. So feel free to enter that. I was lucky enough."
+    },
+    {
+        "speaker": "A",
+        "text": "Kind of regretting my decision."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, right. Exactly. That's how it usually goes. But anyway, let's get right into it. So we have, Ben, I got to say, right before we get really deep in this is chamber and I, before I met you and before we started working together, if you go back to, I don't know, what year did you release? Bitcoin billionaires? 2019."
+    },
+    {
+        "speaker": "B",
+        "text": "Bitcoin billionaires, I think was 2019 or 2018 or 2019. Yeah, somewhere in there."
+    },
+    {
+        "speaker": "C",
+        "text": "If you go back through your mentions about two years ago, there's probably ten or twelve messages at least bugging you to try to get you on rect podcast for us to talk to you. And we're lucky enough to be able to do that again on REct podcast on Friday. So we have fulfilled the prophecy, I guess. So we're super happy to have you, obviously, saying that. I mean, we're, I've been a big fan for a while. Bitcoin billionaires was my first book of yours that I actually, that I read mostly because I can hardly read. And it was fantastic. And I just loved how you really built this story that I felt like I was living it at the time and being such, into the, the crypto community, I really did. I felt like I was, like, living that story and it was so cool to see. So, yeah, a big fan. I've been a big fan for a while. So it's a pleasure to be working with you on this project and have you on the show. So thank you very much."
+    },
+    {
+        "speaker": "B",
+        "text": "You know, the New York Times once said, I write books for people who don't read. So target audience."
+    },
+    {
+        "speaker": "A",
+        "text": "That's the best compliment you can get."
+    },
+    {
+        "speaker": "B",
+        "text": "You nailed that awesome journey. So thank you very much."
+    },
+    {
+        "speaker": "C",
+        "text": "That's really funny. So I guess let's start there with your story into becoming this author. And I think you're really well known for taking these real life events and painting this story, like, picture to them and getting really deep and making these vivid connections into these characters that are real people. But you seem like, you know, you really get to know them in your stories. So, you know, talk about kind of how the evolution of your writing has, you know, kind of how you've gotten that reputation and, you know, about the stories that you choose."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I mean, I never really set out to be a nonfiction writer or to, you know, be a journalist. I was obsessed with television and movies and that sort of thing. And I kind of fell into the nonfiction world with my first nonfiction book, which is about the MIT blackjack team, which is a book called bringing down the House, and was made into the movie 21. And so it was quite by accident that I became a nonfiction writer. So I approached the stories like I'm writing a movie, like I'm writing a thriller that is fictional, but it just happens to be true. So, you know, I was a wannabe writer since I was about twelve years old. You know, I was writing in my room, and after college, I locked myself up and I wrote and I wrote and I wrote, and I was writing, like, science fiction. Then I was writing for the X Files. I ended up writing for that kind of thing. And I was hanging out at this local bar in Boston, and there was a group of college kids there who just had tons of money, and it was like, all hundred dollar bills. And in Boston, you don't see a lot of $100 bills."
+    },
+    {
+        "speaker": "C",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "I know. You spent time there."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure."
+    },
+    {
+        "speaker": "B",
+        "text": "So I went over the main guy's house, and in his laundry was $250,000 in stacks of hundreds. And he invited me to Vegas with them, and it turned out that they were the MIT blackjack team. And that became my first book of this type. So it was really just, I fell into it. And every book I've written since then has kind of just been a thriller. And there are definitely critics out there who don't like the way I write nonfiction. I mean, they're definitely old world journalists who think I'm taking too many liberties or I'm writing it in a style that isn't documentary enough. But I think it's a fun way to tell, to tell that sort of story."
+    },
+    {
+        "speaker": "C",
+        "text": "Drew wants to know what bar you were at."
+    },
+    {
+        "speaker": "B",
+        "text": "So it was a bar called cross roads. It's in. It's in Back bay on. It's an MIT dive bar, basically. I know they closed. I don't know if they reopened, but it was right off the river, basically, on Beacon street."
+    },
+    {
+        "speaker": "C",
+        "text": "So now I need to know what your drink of choice is also. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "What."
+    },
+    {
+        "speaker": "C",
+        "text": "What your drink of choice is. What were your."
+    },
+    {
+        "speaker": "B",
+        "text": "I have gone through a lot of different drinking phases in my career where I went."
+    },
+    {
+        "speaker": "A",
+        "text": "Like, any good author."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, exactly. In my twenties, it was like Jack Daniels. It was Jack. Either straight Jack Daniels or Jack and Coke. And then I shifted to, basically, scotch for a very long time. And I was really partial to Obon and McKellen, all this stuff. And now I'm. I'm a wimp. I'm a. I can't do scotch anymore. It's very rare, but I still like it. But it knocks, you know."
+    },
+    {
+        "speaker": "C",
+        "text": "You know, now I just pictured you in Vermont in the snow with your drink."
+    },
+    {
+        "speaker": "B",
+        "text": "I'll tell you, there's a lot of drinking going on here, but it's not. Not mostly not me, but, yeah. But my wife has taken over the drinking for the family."
+    },
+    {
+        "speaker": "C",
+        "text": "That's really funny. So, yeah, that's really cool. I mean, I think, you know, bringing down the house is such a fascinating story because of, you know, people, especially in this space, too, is like, people's penchant to, you know, speculate and gamble, per se, and things like that. And that's just a story that everybody wishes, like, oh, man, I wish I could do that. I wish I could go count cards. And so, you know, you have a history now of these types of books being turned into movies. So obviously, bringing down the house turned into the movie 21. I'm sure you have some really, really, really fun stories from. Do you actually get to go on set for these movies?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "And you know, what? What's that kind of like when you're sitting there in a Vegas casino shooting a movie about playing cards?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes."
+    },
+    {
+        "speaker": "C",
+        "text": "Counting cards, even."
+    },
+    {
+        "speaker": "B",
+        "text": "You know, the two movies I'm known for are 21 and the social network, and these were the. They couldn't be more different. You know, David Fincher and his sort of thing, and Aaron Sorkin. And then 21 was directed by Rob Luketic, who did legally blonde. So it was like a party set. And the whole group of MIT kids were consultants on the movie. It was mostly young actors, Kate Bosworth, Jim Sturges, Josh Gad, who ended up playing Olaf in all the frozen movies. And Aaron Yu was another kid, and it was just a blast. I was on set for the whole thing, but I had no responsibilities because someone else wrote the screenplay. There was a director. So I was just there to have a good time, as were most of the MIT kids. By the end, the MIT kids got banned from the set because they kept getting the drunk, the star drunk. Jim Sturgis, was showing up to work hungover in a total mess. But, yeah, we were. It was a really weird situation because we were. All of the top card counters in the world were in Vegas, you know, in working, because in live casinos, basically. And there were private eyes that are in security guards that would follow the production around. And as long as they were with the stars, nobody could throw anybody out because they're not going to throw Kevin Spacey back then. They're not. They throw Kevin Spacey out very quickly. But back then, they wouldn't have thrown, you know, Lawrence Fishburne out of a. Out of a casino. So we would play and, like, signal, you know, and there was one time where Kevin Spacey was playing, and Jeff Ma, the main character, was signaling him, signaling. And he made, like $15,000 in half an hour. And you could see the security guards getting angrier and angrier, but it was just a really fun thing. And then we shot in Boston for. For a while, and it was really fun. I remember once, there's an opening scene in 21, if any of you remember it, where Jim Stur just rides a bike across the bridge, across the mass ave bridge. And in reality, there's all these lamp posts along the bridge. But they had to fly a helicopter to shoot that scene. So they took all the lamp posts off. And I remember it caught a massive traffic jam in the city of Boston. They literally took over the massive bridge, took all the lampposts down and flew a helicopter. And it's this one helicopter pilot who does all the Spider man movies because he's the only guy who's rated to fly in between the tall buildings in the city of New York. And so he's amazing. And he's flying, like, low over the bridge and everything. But that was one of those situations. It was a blast. And, yeah, Boston was a really cool place to film because all the young actors basically ended up just staying in my apartment for most of it because they didn't know people in Boston. And it was just a roving party, basically, for. And then you go to the social network set, which was a terrifying set. It was a set. David Fincher is known for just being dark and intense."
+    },
+    {
+        "speaker": "A",
+        "text": "David Fincher is one of my favorites."
+    },
+    {
+        "speaker": "B",
+        "text": "He's a genius. But the way he shoots a scene is he beats the actors down emotionally and physically until he gets the perfect shot. So remember, there was this one scene in the social network. I know I'm jumping around here, but this is great. Where a bus pulls up to a finals club and a bunch of girls get out. And that's the whole scene, like, 30 seconds of film. And he shot that scene from 07:00 p.m. to 07:00 a.m. twelve straight hours. Or the bus pulls up, everyone gets out. Bus pulls up. By the end, everyone's exhausted. It's like whatever it was, he's looking for. And when you watch the movie, every scene is like that. It's seamless. He shoots them over and over and over again until he finds the perfect one that he wants. And that movie is just. Was an incredible experience. But it was a lot of neurotic, intense people on one set because there's David Fincher, there's Aaron Sorkin, who's an absolute genius, but an intense person. Scott Rudin was the producer, who, of course, you know, is the notorious bully, Scott Rudin. Right. Kevin Spacey was a producer. And the notorious Kevin Spacey. And Armie Hammer, of course, who is, I guess, accountable. So we had a really pretty good group of people together to make this movie."
+    },
+    {
+        "speaker": "A",
+        "text": "I love that you're saying all the things that I want to say. So that's there."
+    },
+    {
+        "speaker": "B",
+        "text": "It was. It was. It is what it was. But it was a. It was a really amazing shoot, and the movie was just spectacular. I mean, that's one of those movies. And I love 21. You know, a lot of people watched 21, and they wanted it to be rounders, but 21 rounders are very different movies aimed at very different audiences. But the social network was just an elevated movie. I mean, just one of those things that, you know."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, it sounds like. It sounds like Fincher kind of takes a page. I don't know if he's, like, a Kubrick disciple or not, but I remember hearing similar things, you know, during the shining with Shelley Duvall and Kubrick just hammering her. Hammering her before so many scenes, just getting her into tears and. Yeah, that's super."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm sure that's the same sort of philosophy is, you know, you beat the good acting out of an actor."
+    },
+    {
+        "speaker": "A",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "It was an awesome, awesome, you know, thing to witness. And again, with the social network, I was on set for the whole thing, and I was kind of a consultant. So, you know, if there was a question about Facebook or. Or something like that, I would. I would give it out, you know, and give an answer. But in. In the end, the author is kind of the least, um, you know, important person on a movie set. I've always said that that's kind of the best."
+    },
+    {
+        "speaker": "C",
+        "text": "Right. Because then you can just do whatever you want. You don't have the responsibility, especially on 21, where you could just hang out in Vegas for God knows how long."
+    },
+    {
+        "speaker": "B",
+        "text": "We were at the planet Hollywood for a month. Planet Hollywood just opened there for a month, a month and a half. It was pretty wild. Yeah, I will."
+    },
+    {
+        "speaker": "C",
+        "text": "That's crazy. I just can't get over the fact that, like, you're sitting in this casino with card known card counters, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "The best ones."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, like, the best ones. And. And they have to kind of let you do it, and they're just watching you basically, you know, beat them at their own game, which is so funny."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's, it's a wild thing to watch. Really good card counters in action kind of thing. I mean, they really know what they're doing. And did you learn the basics? Yeah, I mean, I could do, like, a simple count, but I'm not great at math, so I won't, I won't do a great job at it. And the thing with card counting is if you're not perfect, if you even make, like, one or two mistakes an hour, it's worse than not card counting at all because you're going to be betting too much at the wrong time. So, really, I was a player that someone would signal what to do, but some of these guys, you know, they would take a scotch glass, and they would be counting the cards in the reflection and the scotch glass, like, they instantly know the count, and then they can calculate how many decks are left, how many half decks are left, and then you can figure out exactly what, you know, what you should change in your play, and how much more to bet. It's pretty wild to watch. I mean, you know, anybody can do it if you spend 3 hours a night for six months doing it, but nobody in their right mind will practice that much."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So it's pretty wild. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "So what is, what was the. We'll get into another topic here in a second, but what was the, like, the way that they would signal? Like, are there really creative ways that they signal? I mean, a lot of."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, there was a lot of that kind of thing. There was a, you know, cross your arms behind your back always to call in the big player and, or something like that. There were a lot of verbal signals. Like, they, every word had a number associated with it. So, like, cat would be nine. So you would say, oh, I forgot to take the cat out, you know, and it sounded nonsensical if you were like a pit boss watching this. But they were relaying information. So there were lots of different words like that where they just would mean something. You'd have to. And you played a part. Like, a lot of it was acting. So you would show up to the casino, and there would be someone pretending to be this. And there was a famous character I wrote about in a book called Busting Vegas, which was kind of a sequel to bringing down the house. And he would pretend to be this european pop star, and he would show up in a leather jacket with no shirt on, and he'd have two girls on his arms, and he would sit down at the table and yelling in russian acting, because as eccentric as he was acting, he could pull off throwing $10,000 onto the table and nobody would look. Another character. Yeah, he played an arms dealer that was one of his characters. And then one time he was at the MGM grand, and one of the supervisors came over and said, oh, Mister Sergey, or whatever his fake name was, you were invited to a party tonight and gave him this card, and he went up, and it was a real arms dealer who had invited him. He was like a competitive, competing arms dealer. So there were lots of crazy stories like that."
+    },
+    {
+        "speaker": "C",
+        "text": "That's crazy. So for what is it like to actually, you know, in the process of writing these books, what is it like to actually research these topics? Like, how does that happen? What's your kind of process that you do to. To research these books?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I mean, I dive in. I want to be a part of the story as much as I can to research it. So whatever the story is, I try and become a part of it. For bitcoin billionaires, I followed the Winklevie around. I was the third Winklevie twin for months, just going to New York and hanging out at Gemini or going wherever it is they were. I try and recreate it and be a part of it as much as I can, and it depends on the story. I wrote a book called Ugly Americans, which is about XPath had bankers living in Asia, and I went to Tokyo for a month, and I lived with these crazy bankers. I remember flying there, and I didn't see a hotel room for the first 48 hours I was there, because it was just, like, crazy, you know, wild living for, I can't live like that now because I'm an old man. But back then, it was really just boots on the ground. Have as much fun as you can and be a part of it. And really figure out these characters. You know, often I come into the story pretty far after the fact, so I have to kind of recreate it. Like, for the social network, I was hanging out at the finals clubs, you know, but with the kid who was a little bit old, Eduardo, who was already out of school. But you're trying to get back into the footsteps of the characters as much as you can. And it's been different for every book. That's kind of the fun of what I do is that every year I can become a different person and live vicariously through these characters. The reality is I'm actually scared of everything in my real life. I am a neurotic, terrified individual who would not leave his home ever. But then when I write a book, I literally become someone else. And I'm, you know, Rush. I wrote a book about russian oligarchs, and if you haven't read once upon a time in Russia, I mean, it is a violent, dark story with very scary people. And I spent six months in London, going every weekend to London to hang out with Roman Abramovich and his henchmen and these, like, really, really terrifying individuals who've never told that story before. I have so many stories from that. Right. And that was one of those projects that I would never do again. And once this is really dangerous, like."
+    },
+    {
+        "speaker": "A",
+        "text": "That got a little too real."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it got very real. These guys are very scary dudes."
+    },
+    {
+        "speaker": "C",
+        "text": "Blink twice if you need help."
+    },
+    {
+        "speaker": "B",
+        "text": "I haven't even been back to Europe since I wrote that book. I feel much safer here. And I'm going to go back to London, I think, next summer, but literally stopped going because they, you know, polonium poisoning people. And these were some really evil people. But so there are different projects like that where you really get, you know, close to the line and you go have a lot of fun. But, you know, the bitcoin billionaire story was. Was not dangerous like that, but it was cool hanging out with Charlie Schramm. I think Charlie's an amazing character, if you haven't read that book."
+    },
+    {
+        "speaker": "C",
+        "text": "Did you go karaoke ing with Charlie, by any chance?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, I did not. You know, Charlie was out of prison. He was reformed from the crazy Charlie. Although I'm still. He's sure he's still the crazy Charlie. Maybe you'll have him on and ask him if he's still crazy Charlie. But, you know, back in the day, he was the guy, right? He was, you know, in the nightclub. He lived in a nightclub."
+    },
+    {
+        "speaker": "C",
+        "text": "And he. Yeah, we. We had him wrecked. Yeah, we had."
+    },
+    {
+        "speaker": "A",
+        "text": "My mind isn't right. I wasn't sure if we had him on. I'm like, I did."
+    },
+    {
+        "speaker": "C",
+        "text": "We did. And it's funny, we always asked people, like, we would do these rapid fire questions, and one of the questions we asked Washington, you know, what would be your go to karaoke song? And Charlie told us that he goes karaoke every Sunday and his. And he does in the end by Linkin park."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, I love it."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, he had one ready to go."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, he had it fired up. So that's why I asked if you had gone karaoke with him."
+    },
+    {
+        "speaker": "B",
+        "text": "But yeah, he's gonna be a great movie character. We're working on that movie, and I think there's gonna be some really cool stuff to announce right after the new year about bitcoin billionaires. Movie people in the bitcoin community are very eager for that movie to get made because I think it'll be great for."
+    },
+    {
+        "speaker": "A",
+        "text": "Will there be any scenes with any shitty podcasters or the rise of broadcasting in the bitcoin?"
+    },
+    {
+        "speaker": "B",
+        "text": "I don't know. That's good. That's good. There should be, but we'll see. But I think Charlie's a character that some actor is going to really sink their teeth into."
+    },
+    {
+        "speaker": "A",
+        "text": "Absolutely."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. That's amazing. So then bitcoin billionaires will be then, I guess. Will that be the third movie that you've or third book you've had?"
+    },
+    {
+        "speaker": "B",
+        "text": "Uh, so there's a bunch of projects in production right now. So the two movies are 21. The social network I wrote for the show billions. So, um, this season of billions, I had an episode three I wrote. Um, but I was a producer for all of season five on billions. I had a tv movie way back in 2000 that you should never watch called, uh, Fatal Error, which started, we're."
+    },
+    {
+        "speaker": "C",
+        "text": "Gonna go watch that."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't know if you could find it, honestly. I have a dvd of it, but I don't know if it's streaming anywhere. It was starred Antonio Sabato Junior, if you remember him, from Melrose."
+    },
+    {
+        "speaker": "A",
+        "text": "I remember Antonio Sabato junior."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. And Janine Turner from northern exposure. It was TBS's premiere movie. So when that station launched, that was their first movie, and it was based on a book of mine called Reaper. But it was really horrible. So those are the three sort of film projects I've had. The anti social network is being made. We're actually going to be shooting that in the spring. So that one is the next movie probably lined up. We're going to have an announcement about a director very soon on that one. Very cool. And then the bitcoin billionaires will hopefully be made this year as well. And then I had a book called seven wonders, which is being made into a tv show. So those are the main film projects I'm doing right now. And then, you know, this project which hopefully will become the next film project as well. So."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, so that's a perfect segue. So that's the reason I wanted to ask that."
+    },
+    {
+        "speaker": "A",
+        "text": "The man's an author. He knows how to piece together a story."
+    },
+    {
+        "speaker": "C",
+        "text": "That's right. So it's. I wanted to talk to you kind of now let's get into the project a little bit. Right. So we've talked about all these awesome stories and all the books that you've written and everything like that. And, you know, the, the NFT project that you're releasing is kind of two pieces here, really, where it's a nod to some of your books. Like the art is a nod to some of the books that you've done in the past. So, you know, with this drop, we'll have you know, the art that in this first drop is based on your most recent book, the Antisocial Network. So we'll talk about that a little bit. But then, you know, so it's about these nods to your book. But then there's also this really unique piece of it at, that culminates the whole project, which is this screenplay piece. And so at the end of this project, token holders that collect all three pieces will actually become have an ownership share in your next screenplay. So we've all talked for the last 20 minutes now about all these books you've written that have turned into movies. So this is an interesting angle. So talk about, you know, why you are interested in the NFT space, what that means to you as a creator, and kind of walk through what your goals are for the project."
+    },
+    {
+        "speaker": "B",
+        "text": "Sure. So, I mean, I was introduced to the NFT world, really from the Winklevoss twins and researching bitcoin and researching the story. And I know they're moving big, or at least very into the NFT space. And I'm really fascinated by this sort of intersection of the physical world and the digital world. We're moving in this direction. And I've always felt that this is a really big deal. It's not often that I get into an origin story and I've written a few, a Vegas story before Vegas was hot bitcoin story and Facebook story. And I feel like NFTs were in the infancy of something that's going to be world changing. I think that the idea that you can have something, a piece of art or something like that, that is unique, that is verifiable, but it's completely transmissible. That you can own it in a way is really where we're going next as we move into the metaverse or whatever word you want to use. So I was fascinated just as an author and thinking about it. And then I was thinking about being an author or being an artist. You're often using a megaphone. You go on Twitter and it's a megaphone. You go on Facebook and it's a megaphone. It's not a connection, it's not a relationship. It's very different. And what I think we're trying to do here with this project is create a community around a shared interest, you know, my books, or what it is that I do or what I write about via these NFTs. So people buy into the NFTs and become a part of this community that we interact with each other. And then in the end they own a piece of the movie. I write about nFts. So it's like inception, you know, it's like inside the thing. Inside the thing. Inside the thing. But I think it's really, really cool. I want to be a part of this community because I definitely see it as an important step forward. Like, this is really going to be a big part of our future. And, you know, I look at my kids and my kids would rather, for a present, for a Christmas, get clothing for their Fortnite character than get real clothing, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Absolutely."
+    },
+    {
+        "speaker": "B",
+        "text": "To them it makes absolute sense. There's not even a but then I ask my dad and he doesn't get it at all. Right? And so this is the direction we're definitely moving. The next generation going up isn't going to think twice about this stuff. It's all going to be NFts. It's going to be more important to them than anything physical that they own. So that's why I want to be a part of it. And I think it's really, really cool. And what's great is now I'm getting, you know, we set up this discord site, and it's really neat to be able to interact with fans in a much more sort of focused way. These are all people who are there because they're interested, as opposed to Twitter, which, again, is like a big megaphone. It's just all of these people and you're talking to everybody, half of them, which want to yell things at you. Yeah, yeah. It's something like this. It's really cool."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. And it's super interesting to have been a part of, you know, being in the discord and having, you know, inviting people in via your tweets. And like you said, they are coming there because they're fans of you. They're fans of your work, they're fans of the stories that you've told. And I'm just watching, like, people come in and they can't believe that they're getting to interact so closely with someone that they've followed their work for so long. And I think that's really interesting from a creator standpoint as well, to be able to have access to this medium. NFTs allow people to have this access to people that they either look up to or they're fans of or want access to in a way that, like, you literally could never have gotten before. Like, there's no such thing. There was no such thing as this prior. Right. So, you know, the NFT as it's a, it's a collectible, but they're also, it's going to provide, you know, access tiers to you and things that you're doing. But I think what the real groundbreaking piece of this is is the screenplay portion of this. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. And I think this is going to be a test case in a lot of ways to, you know, it's early stages, but what artists can do with this sort of thing, how someone could write a book or a movie, rather, going to the silos, you know, the publishing houses or the studios, but go directly to the community that likes that sort of thing. And it's a way of sort of, you know, if you like the kind of things that I write, you're helping me do it. You know, we're doing it in a community way. And that's the power of what I love about launching this with a meme stock, you know, imagery is because this is the same phenomenon that powered the meme Stock rally, the idea that GameStop could be suddenly be worth as much as, you know, ge."
+    },
+    {
+        "speaker": "A",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "The community decided that it was a community on Reddit, got together and said, screw Wall street, we're going to screw with them. We're all going to buy GameStop because we love that company. And it was that power of the community that made that happen. So that's why our first launch is the meme stop kind of imagery."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, absolutely. It's funny, too, because it's where these, the NFT kind of revolution, if you want to call it that, where it takes place isn't in those traditional, those traditional areas where, you know, where maybe, you know, where you come from, right? In literature and movies, there's. There are king makers and decision makers that, you know, I couldn't even imagine what you've had to deal with over the years. And in this space, it's, it's, it's so commute, it's so bootstrapped and, and community driven. It allows so much more access and, and to get a real, a real feel for the pulse of what the community is actually looking for. Which probably helps you in a certain way as well."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, absolutely. I mean, I will tell you that becoming an author, there's so many walls. You know, there's so many walls to climb over and to get in, and there's really power structures in every form of art, music, art, whatever. But the community is where all the power actually is. It's the people who actually buy the stuff that powers it all. And so if there's a way to interact and, and have the community be a part of it, you know, that's what we're seeing happen in a lot of the artistic industries in a lot of different ways. And this is just a really cool new one. And I think that NFTs really lend themselves to it, so. Yeah, we'll see what happens, I guess."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. I always say chamber, can you hear me? I had a mic issue."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, you're good."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, cool. I always say that, like, with nfTs, the real power here is you have the ability to take what we would traditionally call a user, or like an end user. Right. And make them owners. Right. You're taking the user, you're making them an owner, and they have a ownership stake in the thing that they are most interested and passionate about. And I think there's a lot of power there for just, you know, 05:00 a.m. jokes here. Power to the people and stick it to the man. But, but he's kind of. Right, right. Where you could take, uh, you know, something like this, uh, this project and a screenplay that you're going to write and have, you know, some community and community ownership, community involvement in this, and, uh, ultimately realize realistically, it could get made through the community. Right. You don't have to have it get made through a studio, per se."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. It's a really interesting thought, and it's definitely something, you know, we've talked about, and, and whether it gets there or not, it's, it's definitely in the future, I definitely believe. I mean, we saw what happened with the constitution, right. Where a group of people got together, right. And they put together an amount of money that is enough to make a big Hollywood movie. Right."
+    },
+    {
+        "speaker": "C",
+        "text": "They raised $47 million in 72 hours to try to buy one of these things."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, you could make the social network, that's what it was made for, for about $40 million."
+    },
+    {
+        "speaker": "A",
+        "text": "And so that's great."
+    },
+    {
+        "speaker": "B",
+        "text": "You really could have a community put something together like that. The difference between this and say, like a Kickstarter is that they own it. You know, they will have some level of artistic or gamified ownership of it, whatever the correct word is. But it's a really neat idea. And you're seeing a lot of big companies see this, right? Nike getting into the virtual shoes, basically. Whatever is they're going to do, you're going to see everybody get into this. I really think that this is the future of, of everything because we're moving into a world where we're living digitally. And the idea that you can own something digital is phenomenal. It's very unique."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. And I think, too, for you, for somebody like yourself or a musician or to be able to give that kind of access back to your community, I think is fantastic. And like you said, in a way that was never was always before, just a megaphone. Right. It's just, it's just information or, like you speaking out into the ether and. But, like, you can now have access to an entire community of, you know, people that, that are interested in what you're doing. And I think that's super powerful as well."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Other thing is that, you know, in researching bitcoin billionaires, what I, what I found was that the group, people who are in very, very early were this incredibly passionate group of people who found it essentially and understood before everybody else. Right. And so bitcoin was trading in the dollars. And you look at people like the Winklevite twins, and you're like, how did they buy 200,000 bitcoin at $7? And you're seeing that happen in the NFT community, too, right now. You're seeing the same level of really smart people seeing something that the mainstream has totally not seen yet. And I look at, like, the mainstream totally missed the boat on bitcoin and crypto. They didn't see it happening. It happened right next to them. Silicon Valley missed the boat on crypto. They just didn't see it happening. And NFT is you're seeing that sort of thing happen where there's a group of passionate people who get it and the mainstream yet hasn't figured it out. I mean, how many mainstream shows have you seen about NFTs? Have you seen nft mentioned on any shit cop? You know, have you ever think so? It hasn't gotten there yet. But this is, that's why I say it's the infancy, it's the early stage, but you're gonna see it percolate in there. And so that's why I thought a movie about it would be a great step and a really cool way to sort of introduce the world to this thing that's going on that's gonna be very big."
+    },
+    {
+        "speaker": "C",
+        "text": "You just jogged my memory of something that is funny where you mentioned, like, it being mentioned in mainstream, you know, media or on tv. And I remember back, I don't know, a year or two ago when I."
+    },
+    {
+        "speaker": "A",
+        "text": "We lost him. Normally we're very simpatico. And I can usually read his mind."
+    },
+    {
+        "speaker": "B",
+        "text": "But you can't finish the sentence. You gotta finish his mind's a little bit."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't know if he was gonna bring up. I was gonna say the only thing. I've heard you back. Oh, there you go. Okay. I couldn't read your mind to finish the sentence."
+    },
+    {
+        "speaker": "C",
+        "text": "People got really crazy when, when, like, bitcoin would be mentioned on, on like, mainstream shows. And I remember there was one episode of billions which you were referencing before where, where they were talking about, oh, yeah, just send me, you know, $50 million in bitcoin to my ledger. And it went all over, like, crypto, Twitter. Absolutely right. And it was such a big deal."
+    },
+    {
+        "speaker": "B",
+        "text": "I got brought into bitcoin."
+    },
+    {
+        "speaker": "C",
+        "text": "Did you write that episode?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, I wrote the episode this season where, where the Gordy the kid is mining bitcoin in his dorm room at high school. So basically the way I got into billions is bitcoin billionaires is I had written bitcoin billionaires, and Brian Koppelman, who did the movie rounders, who created absolute genius writer created, basically called me up and was like, interested in bitcoin billionaires, maybe writing it or whatever. And then he was like, would you come write for our show? You're the crypto guy. And I'm not the crypto guy, but I was suddenly the crypto guy because I was a mainstream author who was writing about crypto. And anyways, and he was, we think alike. I know a lot of billionaires. I write about a lot of billionaires. I know that, that Wall street world. So I was in that writer's room for twelve weeks and crypto came up a lot. Nfts. Not yet, but I could see next season in billions having some nfts on it. But yeah, I wrote this where Gordy comes up with a scheme to multi mine in the basement of his using the power from his private."
+    },
+    {
+        "speaker": "C",
+        "text": "That's fantastic."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, it was a lot of fun. Episode three, I think."
+    },
+    {
+        "speaker": "A",
+        "text": "I think I may, you know, I'm throwing that out there episode for billions in, you know, in regards to nfts, maybe like a bad guy, that's money laundering nfts, you know, like, you know how you money launder art, right. Maybe you could maybe do, maybe you can incorporate nfts in there."
+    },
+    {
+        "speaker": "C",
+        "text": "Chambers talking about himself. Wash trading watch trading is nfts."
+    },
+    {
+        "speaker": "B",
+        "text": "Right, right. Oh, I, you know, and it's interesting as we go through this project and this process is the idea of what a film about nfts would look like. And I've already started the wheels turning and thinking about who the big players are, the history of it. Like you want to get it out via the big characters, because that's what makes a good movie, is characters controversy and, you know, and you also want the feeling of bringing down the house of someone who pulls off something really big and interesting. So, yeah, there's a lot of. And I'm learning about the sort and."
+    },
+    {
+        "speaker": "C",
+        "text": "There'S so many ways you can go in the NFT space. It's really interesting. I think. Any, any teasers on what you might be."
+    },
+    {
+        "speaker": "B",
+        "text": "I know, and that's, you know, this is, this is too early, I think, when, when the discord gets big enough, that's when I'll start."
+    },
+    {
+        "speaker": "C",
+        "text": "All right, deal."
+    },
+    {
+        "speaker": "B",
+        "text": "What we might be doing and I'm gonna look for, you know, in people to tell me also what, what they'd like to see in that space, what, what would look cool in a movie. And I don't want to miss anything that's important. It was interesting writing the GameStop book in the movie is, is that it was writing it in real time. You know, I wrote a book about the GameStop drama, the antisocial network while it was happening. And so it was one of these moments where, like, I'm writing, you know, while Elon Musk is tweeting and you don't know what that next thing is gonna be. And the NFT thing is somewhat like that in that it is ongoing. You know, the big stories are still percolating and booming and stuff like that. So we'll see where it goes. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Cool. This is awesome. So let's get into the mechanics of how your project here is going to work. Right. So we've talked, you know, pretty high level about where it all leads and things like that. So for the project here, we're going to have basically three drops, and they're all going to be not the artwork and things are all going to be nods to your books. Right. So we've got the first one that's coming up here in a couple weeks, which will be based on the antisocial network. Right. So the, for those that don't know, just give a quick synopsis of, you know, what the antisocial network is about and kind of some of that imagery, because I have, I have some of our art examples to show here. So I want to know kind of what we're looking at here."
+    },
+    {
+        "speaker": "B",
+        "text": "I dove deeply into sort of the meme stocks phenomenon, the whole how GameStop ran, you know, the battle with Wall street. And a lot of people really know the beats of the story, but really what it was was, you know. Yeah, exactly. Is that we're balancing it around the sort of rocket ship, which is sort of a nod to sort of what we all want to happen when we buy a stock, which is that it goes to the moon. And part of the drama of the story is that people don't want to double their money anymore. They want ten x. They want it to go incredible places. And that's because average people are sitting at home and with just a little bit of money that they need to turn into a lot of money. A little bit more money doesn't change anything for you, but a lot does. And this is a kind of a new phenomenon, and I write about it a lot in the book, but the idea that regular people are looking to sort of stick it to Wall street and make it big, this is an I, the Chernobyl in the background, if you know the story, the evil hedge fund, not really evil, but Melvin Capital was the hedge fund that was shorting GameStop towards zero. And the idea, a meme that got very popular on Reddit was that they were going to blow up like Chernobyl in the short squeeze. And so this is some cool imagery, but that, but it's all about the Reddit apes, as they call themselves, the crowd that gathered together to beat Wall street. And so it's all about, you know, you'll see a lot of imagery that has to do with GameStop, with meme stocks, with the rise of the meme, basically."
+    },
+    {
+        "speaker": "A",
+        "text": "And are they called Ben Mesrich nft? Is that what the project's called?"
+    },
+    {
+        "speaker": "B",
+        "text": "The project's the Ben Mesrich Project, I think. But they're Ben Mesric NFTs and so the first drop revolves around this sort of meme stocks. The second drop is going to be around crypto, around bitcoin and billionaires and sort of my research into that realm. And then the third drop will be around Vegas, which I know I have a lot of readers and audience that are into Vegas. And so there's a lot of cool stuff we can do with that. And so, you know, the elements, you'll see there's lots of different elements to each one. The artist was amazing. I mean, I think that really, this is my favorite."
+    },
+    {
+        "speaker": "C",
+        "text": "This is my favorite one."
+    },
+    {
+        "speaker": "B",
+        "text": "And the, and the, yeah, look at this."
+    },
+    {
+        "speaker": "C",
+        "text": "You got the WSB, Wall street bets, the, the ape, the GME, you got the diamonds coming out the back on the way to the moon with the ape on it. I think there's a lot of levels to it."
+    },
+    {
+        "speaker": "B",
+        "text": "This one is awesome. And, and the traits are sort of, you know, a lot of different traits happen. So there's, we're going to do 6000 of the first drop and. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes."
+    },
+    {
+        "speaker": "B",
+        "text": "I really like the Wall street fat cat burning, burning, you know, lighting the cigar with the, with the money."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So these are, you know, these are some examples. We custom put these together with, with all the traits that we have. So obviously, anybody who's familiar with a, you know, a randomized mint, all of these traits will go in and you'll get a randomized version of these coming back. So, you know, it'll have specific traits that are rarer than others. Some will be, you know, super, super rare as far as what comes out and things like that. So I know, you know, from putting this together, the, the Ben Mesrich character is a less than 1% trait. So we made you super. We made you super rare, Ben."
+    },
+    {
+        "speaker": "B",
+        "text": "So, so I love it."
+    },
+    {
+        "speaker": "A",
+        "text": "I got a quick question. So, so there'll be three, you know, drops essentially over the course of a few months. Is that what we're looking at?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, probably about a, I would say 90 day window."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. Now, if I only own one of, one of the drops, am I ngmi?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yes."
+    },
+    {
+        "speaker": "A",
+        "text": "So I need all of them. Is that what you're saying?"
+    },
+    {
+        "speaker": "B",
+        "text": "There are perks for the first drop that are actually going to be a lot of fun if you're into sort of the stuff I write about we're going to do. You know, there's going to be the discord. There's going to be a newsletter of sorts. There's going to be of some online poker games we're going to put together and we're hoping Covid goes away and we can do a real live event. I don't know if that's drop three or drop two or drop one, but drop one gives you drop two. So."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes. Right."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, nice."
+    },
+    {
+        "speaker": "C",
+        "text": "So the way it'll work is your first drop here, that's coming up in a couple of weeks. That's going to give you access to the general Ben Mesrich perks. You know, all those things that Ben just mentioned potentially, you know, the one on even writing, coaching, if those, if people are interested in that. Ben mentioned the."
+    },
+    {
+        "speaker": "A",
+        "text": "What about poker, reading, coaching. All right, I appreciate that. Thank you. I'm an audible super fan. So that's as far as I can."
+    },
+    {
+        "speaker": "C",
+        "text": "There's Des chiming in. He couldn't make it today, but he's supporting from afar."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, that's great."
+    },
+    {
+        "speaker": "C",
+        "text": "He then. So the first drop will actually get you the airdropped second token. Right? So the second token, that's going to be the bitcoin and billionaires token. So that one's going to be airdrop to anybody who, who purchased the first one. Right. So you're two out of the three way there already for the screenplay token. And then the third drop will be a nod to Vegas and bringing down the house. So then once you have. So again, this first drop is going to give you access for free to the second one. So you'll be airdropped that second piece. Then if you have all three tokens, that's going to qualify you for the screenplay token."
+    },
+    {
+        "speaker": "A",
+        "text": "And now is it going to be a one to one for the airdrop? So if I have ten, I'll get ten of the second one or I'd only get one."
+    },
+    {
+        "speaker": "C",
+        "text": "So it's actually going to be per wallet. Right. So there's going to be a gamified aspect here in the sense that there's a, there's a, there is going to be a limited amount of supply of this screenplay token that is built into kind of this, this, the airdrop piece. Right. So if you're, if you're purchasing in this first drop, it actually lines you up. Better to be, it's better to be early. Like, kind of like Ben said, the people that are early usually do. Well, it's better to be early here because once you get, you get the first drop and the set and the airdrop token, but they're one per wallet for the airdrop. So there's going to be a bottleneck by the time the third one hits that might squeeze some of the supply for that third token. So then once you have all three tokens, that's going to qualify you for the screenplay token. The screenplay token, Ben, I believe you've committed to. After that third drop, the screenplay will be written within six months."
+    },
+    {
+        "speaker": "B",
+        "text": "Six months? So that is the plan. I know some people think that's, that's fast, but I will tell you, I wrote the accidental billionaires, which became the social network in eleven weeks, and I wrote bring it down the house in nine weeks."
+    },
+    {
+        "speaker": "C",
+        "text": "Wow."
+    },
+    {
+        "speaker": "B",
+        "text": "So I'm a, I'm a fast writer in terms of what I do, but that's phenomenal. That's the plan. So after the, you know, the screenplay token is out there, I'll write it over the next six months and, you know, I'll update the community about, you know, how it's going and what we're, what it's looking like. And then, and then the goal is to either sell it to a studio as a movie, or to make it, you know, as an independent movie, which there are two different tracks to go and, you know, can just, it'll be interesting to talk about how movies are made, but there's different ways of making movies. But that's the goal is to sell it as a, as a big Hollywood movie."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So essentially then, what the screenplay token would enable you, or make you eligible for is a token that represents a piece of 50% of the screenplay, right? So say there's, you know, for example, say there's a thousand people that own the screenplay token. At the end of the day, once we're all said and done, those people, those thousand tokens, would have a, a share of 50% based on how many of those screenplay tokens, they own a share of 50% of the screenplay, right? So the proceeds, if it's made into a movie, if it's sold, all that would go back to those token holders in a kind of pro rata share based on how many tokens you own. Makes sense."
+    },
+    {
+        "speaker": "A",
+        "text": "Chamberegh, if it makes sense to me. So nobody should be confused."
+    },
+    {
+        "speaker": "C",
+        "text": "There you go. So that, I mean, chamber, in your opinion, then, being the first time you've really heard about this project, what are your overall thoughts?"
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, we've talked a lot of different types of nfts over the past almost twelve months now. I mean we've, we've talked to nfts in the crypto sense before, but really heavy NFT for almost twelve months now. And it's always interesting. I mean, most of that was we started off with digital collectibles like NBA top shot and various things. Like that, where you could see it was a logical transition from people that are collecting those types of things to nfts. A lot of things made sense. And then we saw a huge spike with the PFPs. Right. You know, we had punks and goats and, and apes and all, everything under the sun. I literally think every, literally every single animal in the zoo."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "But as, you know, as we progress and, like, you know, I'm thinking about kind of the middle of the summer where, you know, everything was going bananas and literally, like, pickles were being NFT."
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, there was literal bananas."
+    },
+    {
+        "speaker": "A",
+        "text": "There was literal bananas. And you're trying to see what the next, like, you could see the framework for what NFTs did, but what, what was the, this was shit. You know, that other stuff was shit, more or less. But the, you know, the tech and the idea behind NFTs was so solidified that there was no doubt going to be something new to utilize the NFT tech. And, you know, we're starting to see that now with, with music. You know, Gary Vee, we were talking about that prior to the show, did some interesting things, and I never even thought about, you know, the screenplay aspect. And I mean, I'm, I'm a big movie, big, big movie guy. I love the idea of a screenplay. Being able to, to be a part of that. I mean, I mean, that just, that hits all my buttons."
+    },
+    {
+        "speaker": "C",
+        "text": "Chambers angling for a cameo."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm trying to figure out. Benson, I'm gonna be honest. My angle for real is I said, I think Ben's in Vermont. Does Vermont? I live in Canada, so my, you know, my Us geography is better than most."
+    },
+    {
+        "speaker": "B",
+        "text": "We're close to part of Canada. Yeah, we are there. Now."
+    },
+    {
+        "speaker": "A",
+        "text": "Does Vermonthe border with Maine?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yes. And it does."
+    },
+    {
+        "speaker": "A",
+        "text": "Right? Okay. That's what I thought."
+    },
+    {
+        "speaker": "C",
+        "text": "Because I know borders with that big lake, the champlain."
+    },
+    {
+        "speaker": "B",
+        "text": "You can get to Canada from here. Am I understanding?"
+    },
+    {
+        "speaker": "A",
+        "text": "No, but my thought was, I feel, you know, if Ben has control of Vermont, one of my favorite authors, Stephen King, is up there in Maine, and I could just see them battling over who's going to be kind of king of the north north east."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, you know, I'm normally a Boston based author. I'm just in hiding from coronavirus. I ended up in."
+    },
+    {
+        "speaker": "A",
+        "text": "Fair enough."
+    },
+    {
+        "speaker": "B",
+        "text": "But yes, it is. It is right now about to snow afoot tonight. So, yes, we're up here. I mean, Stephen King are hiding out in our houses."
+    },
+    {
+        "speaker": "C",
+        "text": "That's funny."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm a big Stephen King fan, too. I think he's awesome."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I tell you, I have a little dyslexia. So reading is honestly kind of difficult for me. Takes me a lot. So. But, you know, I do a lot of audible all the time, and I've gone through different authors and some don't catch me, but for whatever reason, and I'm assuming I haven't read bitcoin billionaires, but now that. Now that Joe's mentioned that it's, you know, it's for. It's made for people that don't read, or at least a little easier because that's what I found with. With some of those books was the way he wrote. It just made a lot of sense to me and it was easy to follow. And so I'm excited to. I'm assuming there are versions. Are you on audible and are you doing the voice on your own book?"
+    },
+    {
+        "speaker": "B",
+        "text": "So I have done a lot of my books. I did. Gosh, a whole bunch of them. I know I did. Once upon time in Russia, I did a bunch of them. I did not do, um, the antisocial network. Um. Uh, yeah, I like doing it. Um, I love audible. I've been listening to books a lot myself. Um, when I. When I. Sometimes when I cross country ski, I'll listen to a book as I go. It's really fun. But, um."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it's amazing."
+    },
+    {
+        "speaker": "B",
+        "text": "It's really great. I'll tell you, it's an exploding part of the book business. Like, people listen more than they read now. Um, and there's a lot of great voice people who do great work. Um, and you can see the difference. Like, as an author, you get a whole bunch of audition tapes from the publisher and some of them are awesome and some of them are horrible. And it's like, it's really interesting. But, yeah, if."
+    },
+    {
+        "speaker": "A",
+        "text": "If you ever get a chance, like I said, I'm a. Just a massive Stephen King fan. And with the new it movies that have come out recently, you know, there's been. There's been arguments over, you know, you know, Tim Curry, it versus the new. The new guy. And there is a legit argument to be made that I'm trying to think of his name now. The gentleman. I don't know. You might. You remember wings?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "There's a character from wings who voices who does the it novel and is arguably more terrifying than both Tim Curry and the new guy put together. It's an absolute fantastic lesson."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. The point you were making before, though, the progression from the profile picture, who's who in the zoo to, like, to where we are now, where, you know, we had Jenkins the valet project on a while back, and they were doing some really interesting stuff with actually authoring a book with, you know, profile picture characters that we own our IP to. Right. And so this is kind of a next iteration of something like that where, you know, giving people the power of owning this screenplay in which, I mean, honestly, it's not a thing that ever has existed before. And so if it's a pro, if you're into this kind of, if you're into movies, if you're into books, if you're into Ben's work, this is a really unique opportunity that. And, you know, Ben, kudos to you for kind of being, you know, willing to dive into this and pioneer it, right, where, I mean, we haven't seen any author do this yet. As far as putting their own work, putting their own work out there to be shared with a community, I think it's pretty awesome. So before we wrap up here, because we just have a couple minutes left, I just want to go through one more time the mechanics of how the project will work, what the drop is going to look like. Right. So we're releasing this project over the next couple weeks will be the first drop. Drop number one. We're just waiting. We're crossing our t's and dotting our I's from a legal standpoint to make sure that we can make it, make sure everything's good to go, but likely in the next couple weeks here. The one thing I did want to mention is we do have a whitelist going for this. So if you are interested in this project, and I just signed up for the show."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "You're still on the early list. You're still on the early list of adopters here. So I'm going to drop the, I'm dropping the link to the instructions on how to whitelist right now in the chat. So if you're, if you can't see this in the chat, you can go to Ben Mesrick, Ben's Twitter page, which I believe is just enmezric. Right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Ben Mesrick. Yes. It's got a little check. So it's me?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, perfect. So you could make sure that you're on the right page. He's got his instructions there on how to get on the white list. We're whitelisting the first, I believe, 2000 addresses on here. The. So you'll just hop in the discord. There's a channel where you could drop your, uh, Ethereum address and we will make sure that you're confirmed on the white list. Um, the first drop will be 6000, uh, you know, a collection of 6000 priced at .06 eth. So uh, that's your mint price. So pretty I think right in that nice wheelhouse where it's not incredibly expensive which we've seen uh, we've seen a lot of projects, you know, way, way over price. So I think uh 6000 at .06 and then that's going to include that bitcoin billionaires airdrop as well. So you're actually getting the first two pieces of the screenplay token uh, in this first drop. So another benefit of being uh, you know, on the early side here, I'm just pushing my cat off of the desk. The, that's who turned off my mic before the cat."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh really?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah. And so that's how, that's how you could get or make sure you get on the whitelist. The first drop in a couple weeks, 6000 piece collection at zero six. So what we're really trying to do here is kind of make this a pretty exclusive group that ends up with this screenplay token which I think is important. We don't want to, we tried really hard to not dilute it as in, you know, we could have put out a 10,000 tokens and had 5000 wallets that are all fighting for a piece of the screenplay token. But at the end of the day we want to make sure that there's value here for the end user as well. And I think that we've come to this, you know, Ben, with your kind of guidance on what you want to see this community do. We've made it a smaller collection and hopefully what that leads to is a really intimate group of really passionate fans that are going to see this project all the way through and get the most, you know, value and experience out of the whole thing. And so then that third drop will happen in probably about 60 days. From that initial drop, that'll be your third piece. You'll get that. If you're holding all three, that'll qualify you then for the screenplay tokenization. The screenplay token will be available to buy and sell on the open market as well. So to collect that and then be able to sell your share, you can do that as well. So that's how the token will work. Where to find the project. Right now we're dropping the website here in a couple days. We're just finishing, as I mentioned, the legal disclosures for being able to put out a ownership share of a screenplay, which not an easy task. Right, Ben?"
+    },
+    {
+        "speaker": "B",
+        "text": "You know, it's an interesting world for sure. And it hasn't been done before. So that always makes things, you know, a little more complex in the beginning, but it should be all fine and great very shortly."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. I mean, we've done a lot of work on the legal side to make sure that we can do this in a way that is acceptable in the eyes of the law. Right. Because we are in the wild west of NFT. So we could have just said effort, let's go do it. But we want to make sure that everybody on both sides is confident that what we're doing is above board and able to be completed as we are talking about here. So that's, that's kind of all the details. So where you can find us right now, go to that tweet, retweet it, join the discord, get in the whitelist, and then from there you'll have all the announcements and information as the, as they come out chamber. You got one more thing you want to jump in with."
+    },
+    {
+        "speaker": "A",
+        "text": "You're watching on YouTube or if you're listening on Apple or Spotify, you can go right in the show notes. There's a link right to the discord. You can hop on that, join up and go to the, I think you got to verify. You have to verify first and then."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. You got to verify. Just verify basically that you're not very easy."
+    },
+    {
+        "speaker": "A",
+        "text": "Again, I did it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Very simple."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "And it's, even if you're, if you're terrible at reading, like chamber, it's got a check mark next to it. Just a check mark, by the way."
+    },
+    {
+        "speaker": "B",
+        "text": "Check mark. Good."
+    },
+    {
+        "speaker": "A",
+        "text": "Check mark."
+    },
+    {
+        "speaker": "B",
+        "text": "Good."
+    },
+    {
+        "speaker": "C",
+        "text": "But, yeah. Pete. Pete, hit it on the head. My cat, Patricia. Corn muffin. That's who is, that's who was leaping up there. Exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "I appreciate it. It's going to be really fun and I hope people come over to the discord. I, I want to start telling some stories and I love having a community that, you know, I'll be able to reach out to over the next, you know, months, talking about the new books that are coming out and projects and movies along the way as well. And so it's going to be awesome. I'm really looking forward to it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. This has been a really fun project for me to work on. One getting to know you, who I've been a big fan of as well as, you know, putting together the art and all of this stuff. And, you know, just really getting into the community aspect now, I think is going to be the next, the next level of fun here for us as we, as we kind of launch this project. So if you're listening out there and interested, please come and hang out in the discord with us and. And chat about all the, all the cool stuff going on. So before we get out of here, we do have to run our giveaway here for the punks. Comic chamber. You got it fired up?"
+    },
+    {
+        "speaker": "A",
+        "text": "I got it. Ready to go. I'm assuming you're only giving away one of these things."
+    },
+    {
+        "speaker": "C",
+        "text": "I'm giving away one of them, yeah, one of them. Put. Put five backups on in case."
+    },
+    {
+        "speaker": "A",
+        "text": "Just in case I win all five times."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, let's."
+    },
+    {
+        "speaker": "C",
+        "text": "Here we go. Somebody's taking home a punk comic."
+    },
+    {
+        "speaker": "A",
+        "text": "It's out of 353, I believe. Pop pop. I love it."
+    },
+    {
+        "speaker": "C",
+        "text": "Pop prop. So you know what I've realized about doing these giveaways is you need to go follow the person really quick as soon as it happens, because anybody watching this live will change their username and slide into your DM's and try to claim that the prize."
+    },
+    {
+        "speaker": "A",
+        "text": "Sneaky little monkeys, aren't they?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yes. Congratulations."
+    },
+    {
+        "speaker": "A",
+        "text": "I wouldn't have thought that."
+    },
+    {
+        "speaker": "C",
+        "text": "Congratulations, pop Pop professor, on your punk comic win chamber. You're going to have to pass me the username so I can make sure it gets the right person. But anyway, Ben, right before we wrap up one more time, tell us where people can find you and the project."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, come to first. Twitter. Ben mezrick at Twitter. And there's a tweet up about it and the discord link will be there and here, I believe. And those are the best places to find me. I mean, I'm on Instagram and I'm on Facebook and elsewhere, but I think I'm most findable on discordant and on Twitter."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, the best part now is they can come right into the discord and come and chat with you."
+    },
+    {
+        "speaker": "B",
+        "text": "Talk to me. I look at it all day long and respond. So if anybody has any questions about anything, come to me and the technical stuff to you stuff to me. Exactly. And yes, and I'm happy to talk to people about anything they want to know about. I'm an open book, so."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, and I'd be lying if I said I wasn't going to go in and into the discord and ask you questions about, like, don't ask me how."
+    },
+    {
+        "speaker": "B",
+        "text": "To get to Canada from Vermont."
+    },
+    {
+        "speaker": "C",
+        "text": "I was going to ask you about, like, the seedy, violent things that you've seen."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, I'm going to tell. As soon as we get to a thousand people on the discord, I'm going to put some russian oligarch stories on."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, we're almost there. We're at 722 now."
+    },
+    {
+        "speaker": "B",
+        "text": "We can get there, and then you can hear some russian oligarch stories involving baseball bats and Brett Ratner, the director, and really good stuff. So."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, my goodness."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't have any armie hammer barbecue stories."
+    },
+    {
+        "speaker": "A",
+        "text": "If I did pull pork, it's delicious."
+    },
+    {
+        "speaker": "C",
+        "text": "That's so funny."
+    },
+    {
+        "speaker": "B",
+        "text": "We'll have some fun. But thank you, guys. This was really, really fun."
+    },
+    {
+        "speaker": "C",
+        "text": "Awesome, Ben. Thank you very much, everybody. Come check out the project. Make sure you retweet and jump in the discord to get on the whitelist. And until next time, stay mint."
+    }
+]

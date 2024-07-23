@@ -1,0 +1,198 @@
+[
+    {
+        "speaker": "A",
+        "text": "Hey, guys, one more geek, bro."
+    },
+    {
+        "speaker": "B",
+        "text": "We've been in the studio for so long."
+    },
+    {
+        "speaker": "A",
+        "text": "I know. This could be a quick debrief episode. Bankless nation. So we just finished recording our longest episode far with Dom and Mike on the Ethereum endgame. I think it's worth it, though. Who else is going to get to this level of detail with what I think is legitimately one of the world's most important computers being built right now? Not a supercomputer."
+    },
+    {
+        "speaker": "B",
+        "text": "It says quantum computer."
+    },
+    {
+        "speaker": "A",
+        "text": "Mean. It's not, like, happening in Google Labs somewhere, right? It's happening out in the open. And what's super about it, to your point? It's like property rights, man. Property rights layer. We're creating money. It's Internet finance. It's the Internet of value. It's incredibly important to the next step stage in the, I think, human civilization."
+    },
+    {
+        "speaker": "B",
+        "text": "I should think, maybe just a thread to pull on here. Quantum computers don't do the same kind of computation that normal computers do. They don't. They're not just faster computers. They unlock a new plane of math. They do math differently. So it's not just like our quantum computers are faster computers. We're not locking, like, unlocking new speeds here. We're unlocking a new domain, a new qualitative domain of what computers are. And I think we can extend that analogy to Ethereum. It's another computer, but it's not doing the same kind of computation. It's not producing the same properties as normal computers. It's unlocking a new plane of math. A new plane of existence."
+    },
+    {
+        "speaker": "A",
+        "text": "That's right. Well, it's like, quantum computers are bad at a lot of things. Like, if you throw traditional programming, like, its way, it sucks. You're better off with a standard model computer. But for a particular type of computing that requires superpositions and all of this complexity, it cannot be beaten."
+    },
+    {
+        "speaker": "B",
+        "text": "And this is the same for Ethereum?"
+    },
+    {
+        "speaker": "A",
+        "text": "Similar to Ethereum, yeah. It just cannot be beaten as a property rights system. Yeah. So, wow. I mean, that was comprehensive. I don't have anything to add that we didn't uncover the. Are there any things that we left, any corners of this roadmap you feel like we left unprobed?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think that's a question for the EF people, the researchers out there, not for the consumers of these interviews. I have a different perspective that I think our skill and our. The way that we can add to this, like, conversation is really just kind of understanding this, the thing, as a pattern. Like, even. Cause I think you and I, as, like, layman technical layman, actually have the ability to, like, get even more broad in general for, like, what this system actually is that we're building. And I sent this message to you last night after I was out having conversations with people in the crypto space, uh, at some, like, crypto dinner. Um, uh, and it is like ethereum ingests cryptography and spits out eth, if you remember the message I sent you. And, like, that was a very half baked idea, but I needed to write it down. And so bankless listeners, like, I use my message DM's with Ryan as like, my notes app sometimes, because I need him to also be thinking about the things that I'm thinking about. And so I just write in Ethereum ingests cryptographic proofs and it outputs eth. And, like, what I meant by that, especially post verge, where we also have, like, an enshrined Zkevm. Uh, and we, ethereum as a system, we, we, it makes it very, very small. A lot of state gets compressed very, very deeply. Uh, and we have Zkevm's compressing state, and then we have enshrined Zkevm, accepting that and verifying that proof. The whole point of Ethereum is to just be this extremely dense, economically dense proof verification layer that doesn't hold data. It just holds proofs about data. Like, everything gets compressed. And the best, like most robust, high activity layer twos, are generating proofs that have a lot of economic data on them, with which are paying a lot to go to the Ethereum layer one. And then the ethereum layer one is proving that. And then what? What does Ethereum do? It verifies proofs and it spits out eth. And so proofs go in, ETh goes out. Ethereum, as a system is like gobbling up economically dense proofs. And economically dense proofs are paying more to get into the Ethereum layer one sooner than the other. Proofs that are, aren't so economically dense, but everything is compressed. And so Ethereum is like this black hole for cryptography. And it does one thing as a result of that, which is spit out money, you spit out ETh. Remember when we did Moon math with Justin Drake? And one of his points was like, ethereum is being this, like, sandbox for cryptography and cryptographic research and in production crypto cryptography. And I think this is the net effect of it. If you want to look at a system, the Ethereum system, from the highest of levels, economically dense cryptographic proofs go in, and money comes out. And this was the thesis, the app chain thesis that cosmos would have for bitcoin. Bitcoin is an app chain. It does one thing and one thing alone, which is spit out bitcoin. And then it would use like, cosmos to be expressive. This is, that same metaphor is becoming true with Ethereum. Layer one. It is an app chain. It consumes cryptography and it spits out money into like, this multi layer two landscape. But that's really just all it does. Cryptography goes in, ETh goes out. That's my, that's my, like, summation for Ethereum."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, that's a good, you know, that emphasis really is on the asset side of things, right? And you're, you're saying, like, and if you distill the whole thing, it is kind of like an asset. And would also like, this thing is also consuming cryptography and spitting out a censorship resistant computer. Like, that's the actual network that makes ETh the asset, um, also possible and gives it desirable properties. You know, one thing I was thinking, like, in reflecting the end of this episode, as I always leave ETH roadmap episodes, like, just incredibly bullish on Ethereum. And this was like, no exception for sure, in like, this computer that we're building. I'm just very excited and grateful to be alive at this time, in this place, and just kind of like be part of this, like just witnessing it. Because what are we doing? Like, you're right. I mean, we are laymen, right? And so our service to you is that we are dumber than the people that we are. Thankless listener. So we can like translate to like normal people a little bit, you know, better. And so, I mean that I'm happy to provide that service and to be part of it. It's very exciting. Like, one other reflection though is I think, like I get upset more recently, particularly probably the last twelve to 18 months, uh, with some eth maximalist types of people. And like, what I don't mean is Eth fanboys, right? It's like, I would consider myself massive Eth fanboy. Like, I'm very excited about Ethereum. Like, I love talking about all of these things. What I'm talking about is the, a group of people, and this spans network, bitcoin Maximus, all these max, like, but a group of people that are insecure in their belief or knowledge about the chain, specifically Ethereum. And they kind of project that insecurity by feeling like they have to knock down other chains or position themselves against those chains. And all of us are susceptible to this type of thing, including myself. There have been times where I've probably been but a bit too fanboy. Turning towards maximalist. In some specific, though, I try to check my bias. I just. I feel like we're way beyond that. Like, ethereum, there's going to be, I don't know what other networks and other chains will be successful, right? I can't predict that, but I know Ethereum will be. It is carving out a niche for settlement. Censorship resistant at the network layer is doing all of the hard stuff that other chains, other projects aren't. And, like, I'm just. I don't want to sound stupid here, but, like, I feel like I'm beyond maximalism because I'm just like, I'm a huge eth fan and supporter, and I don't think anything can touch it for its niche, for its specific function, which is censorship resistant, expressive settlement. The blobs and the block space that this network is producing are going to be unlike I, the blobs and the block space of any other network that hasn't gone through this, like, multi year crucible of, um, absolute execution towards these. These end goals. So, like, I don't care about the token price of anything that's pumping relative to eth. Yeah, I don't know if you have a take on that. I just. It was some. Something I was reflecting on toward the end of this episode."
+    },
+    {
+        "speaker": "B",
+        "text": "You're really just trying to hammer on, just like, the fact what of what this roadmap is gives you the security that you have in the bet on the future that you've made. And Dom kept on using this phrase during the episode, like, it's just so elegant. The roadmap is so beautiful. And I think maybe to extrapolate what I think he means by that is the roadmap to Ethereum wasn't invented. It was discovered. It was discovered as an emergent property of learning the limits and constraints of cryptography and crypto economics and learning. What are our goals? How do we achieve them? What's happening as a result of those goals? Do we adapt? No other system has a roadmap like that. Cosmos doesn't have a roadmap because tacosmos isn't even a system, it's an idea. Solana specifically has said there is no roadmap. It's just a different class of development that has emerged and discovered in this bottom up, organic fashion. And the conclusion of how we've gotten to this destination for Ethereum has come from, like, a first principles perspective. Without trying to cut corners and like, looking at the longest time horizons possible, and there are many costs of that development strategy. There's a reason why Ethereum is so slow in iteration and improvement. Um, but it is the true north that doesn't waiver. And so we know we never ever think about like, oh, here's our conclusion and here are the corners we can cut. Um, it's, it's not, it's never been like that. It's always been like, here's the right way to do it without compromise. And that has always been like Ethereum plot armor to me."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think, yeah, I agree with that. And look, if the world, if we build this network and we get through the roadmap and the world doesn't care or doesn't value it, which is like censorship resistant, like, transactions, but that's not."
+    },
+    {
+        "speaker": "B",
+        "text": "Them not caring about Ethereum, that's them not caring about crypto."
+    },
+    {
+        "speaker": "A",
+        "text": "And you know what I'm fine with?"
+    },
+    {
+        "speaker": "B",
+        "text": "If that's the outcome, fine."
+    },
+    {
+        "speaker": "A",
+        "text": "It's basically fine. It's like, well, we delivered. And part of what I feel like our job is, or bankless job is to talk about the long term, of why we should care about censorship resistant, why we should build on stronger foundations than the foundations we now have in place that are less corruptible and that are more conducive to kind of like human coordination and flourishing. We can do that much, but at the end of the day, enough people don't buy in. We still lose, but we deliver this. I'm totally fine with losing."
+    },
+    {
+        "speaker": "B",
+        "text": "I've always said that, like, the most bearish thing for bitcoin is fiscal and monetary responsibility by the Fed and the government. And so, like maybe the most bearish thing for Ethereum is like responsible governance, aligned web, two companies, a good healthy future for humanity. And if the end, I'm not going to be disappointed by that."
+    },
+    {
+        "speaker": "A",
+        "text": "No, that's a great thing. And I think that even in that case, it will be the case very much that systems like bitcoin and Ethereum have kind of like provided that counter ballast to like be a check on the web, two companies or the central banks. Right? So, like, it's probably going to be some sort of mixed outcome here. And, yeah, one question I have for you is like Vitalik's endgame post the end game was basically that diagram that we showed at the end of the show. And so we've talked exhaustively about how Ethereum gets to that kind of like the end game, the end state, which is centralized production, decentralized validation and strong anti censorship protection. There is a case, it's in the diagram too, for how big blockchains, traditional big block blockchains, actually get there too. And the path is like, you start more centralized at the validator level. Right. And we're seeing experiments like that play out right now. And then you start to decentralize. You ever heard this? Like, they're going to decentralize more over time? They're going to add anti censorship."
+    },
+    {
+        "speaker": "B",
+        "text": "They don't decentralize proofs in the same way that we in the Ethereum world have checks on block builders. They just implement checks. They don't decentralize, they just implement checks."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, but that, I'm kind of like almost using that synonymously. Right. It's kind of like same, same, right. Or just like call it, call it in the diagram, it's called anti fraud and anti censorship armor, basically. So you just plus up this armor. I think there are paths for big blockchains to get there too, possibly. I think they are earlier in the past. I think that for a lot of the reasons that we talked about, it could be more difficult to do that. But there's a path towards the same outcome there. Whereas ethereum, I feel like, is very much taking the hard road. You could argue that some of these big block blockchains are taking the more pragmatic road, let's say, and they're just doing the minimum necessary censorship resistance that the market requires."
+    },
+    {
+        "speaker": "B",
+        "text": "But I think this brings up, and."
+    },
+    {
+        "speaker": "A",
+        "text": "We'Ll add this armor, this brings up."
+    },
+    {
+        "speaker": "B",
+        "text": "The conversation of path dependency, because like, to me, the end destination, the end game, what that means is that your system gets to exist until the end of time. As in, you are sustainable. Like, you don't die. And that is a requirement for existing in a multi generational context. But how you got there qualitatively illustrates, determines what the nature of, um, what the nature of the system is. So like solo, like Solana, is what is probably the leading ecosystem that we're talking about, or any big, big block ecosystem. It can get to this point of long term sustainability. But that doesn't mean solo is money. That doesn't mean it sol captures value. That doesn't mean that this system is being valued equally like Ethereum. It just means that it doesn't die. And so the path that you get there actually determines, like this is the answer that everyone wants to know which asset is going to accrue. All the value that the end game doesn't determine, that. It just determines, like, you are a system that is going to stand the test of time at the very least."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, yeah, I hear that argument. I get that argument. I think that some would argue, I think, like, our friend over at block works, Mikey Pilido, is one of these that rather than endgame, he phrases like convergence, basically, right? Yeah, it's like we're still sort of converging to the same thing. And I think some other people see a path more clearly to kind of add those features back in. They would probably dispute the path dependence that you're talking about."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't know if Mike would. I've definitely. I definitely had a conversation with, like, Mike. I put out this tweet where he said Cosmos got the end game totally right, and he's talking about, like, the whole app chain vision. And then I just, like, went into its DM's, like, yeah, but, like, they just started at the end and they foregoed the beginning of shared security and then money, and that has lost all of the capital. And he's like, oh, yeah, that's also totally right."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, this is. This is why, like, the way I view things. Cause, like, my take is a chain. Like Solana, for instance, specializes in kind of, like, execution, acquires so much state and a ton of value, and then eventually, like, starts orbiting around the sun, which is like the settlement layer. Right. And becomes a roll up, is basically."
+    },
+    {
+        "speaker": "B",
+        "text": "The monolith, turns itself into a module."
+    },
+    {
+        "speaker": "A",
+        "text": "It's kind of still my prediction over the very long term. And that would get you to the same place, too, where you have centralized production and you still have decentralized validation and strong anti censorship protection. So Vitalik's endgame post, I think, has held up very well. It's still not fully played out, of course, because we're still in the process."
+    },
+    {
+        "speaker": "B",
+        "text": "Of six more years in this decade, and then maybe we'll be most."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Yeah. Well, that's cool. I mean, the unexplored territories are like all the Justin Drake quantum math type stuff that he's."
+    },
+    {
+        "speaker": "B",
+        "text": "The unexplored territories, or how the centralized block production weaves together the fragmentation, that's still like. And that is an extra protocol area of research, which is why it's not found in the roadmap."
+    },
+    {
+        "speaker": "A",
+        "text": "Do you think that the roadmap will ever be finished?"
+    },
+    {
+        "speaker": "B",
+        "text": "I don't know."
+    },
+    {
+        "speaker": "A",
+        "text": "Do you think there's always more that will just kind of pop up? What do you think of that? I think one episode coming from this that I still want to absolutely do is, what do we do about a percentage validator? Like percentage staking?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, because Mike implied that we're going to change the economic policy of Ethereum. He implied that we are going to change it lower, which would align with every other change we've ever done, which he implied we're going to increase the money ness of ETH because lower issuance is more money ness."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, but, yeah, but basically, the way I've heard this talked about in concrete terms, again, I haven't gone into the deal. You just max cap the amount of validators in the network. Right. So if you do that, then there's like a, you know how Eth beeka chain rewards asymptote to kind of zero?"
+    },
+    {
+        "speaker": "B",
+        "text": "It doesn't hit zero. It does asymptote, but it doesn't hit zero."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. But if you, if you sort of cap that and there can't be more."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't think we want the cap because the cap, the large scale institutions, because if you're caps, you would just put your ether into the lido that so you can get the stakes. So, like, he's, he's advocating for any problem. So uncapped. But just like, if you do stake, you are actually skidding. Uh, you're losing ether. If you stake, then gaining ether, why would you do that? Well, because you're restaking it. And the percentage that you get from restaking is actually above and beyond what you're losing from normal staking, which means. Which would incentivize vanilla eTh holders. It would be extremely deflationary."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Also very weird. Like, this isn't where I think you could, you could hear, you were already hearing it in the background. They were screaming, uh, strong bitcoin maximalist, saying, this sounds like a central bank you're talking about. Negative."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, but they say that. Valid theory. And they're like, I've never listened to them. Yeah. Monetary policy and issuance curves are just part of nature. Like, it's not anything. Just like the government's doing it now. Protocols are doing it."
+    },
+    {
+        "speaker": "A",
+        "text": "The difference is algorithm, like, the difference is twofold. One is, for me, is you do it algorithmically. Right, but like, I think a strong bitcoiner would say, but like, every single time you change it, you kind of reset the clock."
+    },
+    {
+        "speaker": "B",
+        "text": "But then, but then we say, like, every single time is changing, we are changing it into induced further scarcity, not more printing."
+    },
+    {
+        "speaker": "A",
+        "text": "That's what we have been saying since 2018."
+    },
+    {
+        "speaker": "B",
+        "text": "But we've also won that fight, I declare."
+    },
+    {
+        "speaker": "A",
+        "text": "You think so? If you've declared it there. And shall we declare maybe this debrief done for sure, that 3 hours recording session."
+    },
+    {
+        "speaker": "B",
+        "text": "My God."
+    },
+    {
+        "speaker": "A",
+        "text": "Thanks for listening. See you."
+    }
+]

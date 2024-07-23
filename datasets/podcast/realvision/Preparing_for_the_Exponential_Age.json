@@ -1,0 +1,478 @@
+[
+    {
+        "speaker": "A",
+        "text": "This episode is brought to you by Shopify. Forget the frustration of picking commerce platforms when you switch your business to Shopify, the global commerce platform that supercharges your selling wherever you sell. With Shopify, you'll harness the same intuitive features, trusted apps, and powerful analytics used by the world's leading brands. Sign up today for your dollar one per month trial period@shopify.com. tech. All lowercase. That's shopify.com tech."
+    },
+    {
+        "speaker": "B",
+        "text": "What's going on, everybody? Welcome to real visions, preparing for the exponential age. I'm Ash Bennington, joined today by David Matten and Raoul Powell. Welcome, guys."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, Ash, how are you?"
+    },
+    {
+        "speaker": "B",
+        "text": "I'm doing great, man. A beautiful, sparkly, 47 degree day in New York City."
+    },
+    {
+        "speaker": "C",
+        "text": "It's a beautiful, breezy, 86 degree day. David, you're in London. It's probably pissing with rain."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm sure that's probably true. I like the sweater weather, man. It's the northeasterner in me."
+    },
+    {
+        "speaker": "C",
+        "text": "What is this thing? Sweater."
+    },
+    {
+        "speaker": "B",
+        "text": "Sweater weather. Sweater weather. You put on a wool sweater and you feel divine and glorious."
+    },
+    {
+        "speaker": "C",
+        "text": "You're feeling divine and glorious. There you go, Ash. That's the best setup I've heard from you. So I think people are probably bored of hearing me talk about what's happening. It's about two and a half years ago, I started to realize that I had misunderstood the secular trend in technology. I was a typical macro guy who looked at mean reverting. I was always a sort of pessimistic person, and my involvement in the crypto space led me down the path of Metcalfe's law, understanding network effects, understanding technological adoption curves, secular trends, this kind of stuff. And within that, when I'm starting to understand this, I started to see the same component parts in technology overall. I'm like, okay, this is interesting because this goes against my view, and that technology was not a cyclical phenomena, but a secular one. So I started digging in and doing the research on it, and I realized that the picture was much bigger than I first imagined. There was just a bunch of tech names that were expensive because theyre great products and they kept growing. I realized that, okay, when you dig beneath it all, there was a whole bunch of massive game changing technologies that had been built over the last ten years or so that were all about to come to market and to get to the adoption phase. And those were technologies like self driving cars, EV itself, new forms of energy, artificial intelligence, robotics, various forms of genetic biology, Internet of Things, wearable devices, all of these things, cryptocurrencies. I realized the Internet itself had basically allowed for a whole new ecosystem to develop, which was about to come at warp speed. That was my thesis. I was looking, using the Nasdaq as my general guide, and saw how it outperformed the fed balance sheet and how it and crypto were the only two things that outperformed the Fed balance sheet. Everything else was basically flat. And I thought, okay, well, these are the bets that you have to take from an investment perspective, then. I've been talking about this thesis for a while, interviewed people on real vision about it, written about it, talked a lot about it on podcasts. And then suddenly, it was October 2022. I interviewed Emad Mostak from stability, aih about AI. And I had that, holy shit moment's about to happen. And we were very early, probably the first real kind of major place where we started to have the discussion about AI. Then it exploded. And then the speed of what happened, even to me, was shocking. You see, my idea is that because these are Metcalfe's law models, they tend to be logarithmic, and they tend to be exponential in adoption. And if all of these technologies combined into kind of a whole age of technology, well, it was going to create a number of Metcalfe's laws that were all interrelated with each other, which creates something called Reid's law. And as far as I can tell, there's been. And that's Metcalfe's law squared, which is ludicrous as it is. And I was thinking, well, is this possible? Has this happened before? And it's actually never happened in technology before at scale, but it has happened in biology before. So I'm like, okay, if we're going to see Reed's law squared, then, I mean, Metcalfe's law squared reads law. Then we are going to deal with the fastest pace of technology humanity's ever lived through, and we will not be able to catch up, and our heads will be spinning. That was the thesis. By March 2023, when GPT four came out, everyone's like, oh, my God. And it's literally been one week to the next where we've seen AI completely blow our minds. The pace of innovation is so fast that even my guess is that OpenAI themselves are using AI to build out their business and develop product faster and faster. So you're creating the productivity cycle, but it's happening elsewhere, too. It's happening within Tesla. It's happening within Microsoft. It's happening at the robotics layer. We are very few years away from having humanoid robots that are doing tasks. Amazon already has humanoid robots of a more basic form in warehouses. We're already seeing the rise of wearable devices with AI, we're already seeing cars enabled with AI. We're already seeing so many parts of the exponential age come together that we will never be able to stay on top of it all. It'll leave us not even knowing how to deal with it on a human level, which I think people are already starting to see what it means for society, what it means for the economy, what it means for your company. How do companies even innovate using AI technology when every week it entirely changes yet again, it's faster, has more power, more modalities, all of that stuff. And again, that's just AI. How the hell is all of these companies going to deal with the robots? How are they going to deal with. We're seeing the car companies struggling because of the rise of EV and how super dominant that has been as a trend within the car industries. And then we've even got into space, and we've talked about space. What's happening in space is another gigantic part of this puzzle. So it is terrifying, exciting. It is probably the biggest macro theme we've ever seen in our entire lifetimes. It covers such broad depth, broad basis of themes, but in the end, it's the most disruptive thing humanity will ever go through in the shortest period of time. And we're all going to be spinning to catch up and figure it out as we go. That was the high idea behind the exponentialist, is to tell that story, to report postcards from the front line, to help people navigate it, to help people invest in it, and to help people figure out what does it mean for them."
+    },
+    {
+        "speaker": "B",
+        "text": "Rather exactly what I was going to ask you. We talk about this difficulty, this struggling to get our heads around the big picture. Talk a little bit about what you and David Matten are doing with the exponentials. And of course, we'll pull David into the conversation as well."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, so look, I'm a macro guy. I'm not a technologist, and I've got a fairly robust macro framework within this. And of course, as with all frameworks, some things won't happen and many things will. You know, who knows whether we get to quantum computing, who knows whether we get to at scale nuclear fusion? Who knows? But the point being is directionally, it seems to be very right. And so the idea is David and I teamed up so David can really dig in and help tell these stories. I look at the macro perspective and the investable perspective. It's not really the exponentialist is a research service. It's not really an investment research service. Investing in the exponential age is part of it. It's really David and I trying to help people. So David does the deep dives. I form the macro framework, and together we weave together the kind of knowledge and journey of understanding that people need to navigate all of this. There's nothing really exists like it. So it's a little bit unique for people because it's not like a trading service. Here, buy Tesla. It's going up. Nothing to do with that. It's something much more foundational and fundamental. I hope and think it should be a fundamental importance for anybody who really is involved in technology, has their own business, is an investor, and needs to understand truly what's going on."
+    },
+    {
+        "speaker": "B",
+        "text": "And by the way, right up top in the posted at the top of this Twitter spaces or x spaces, I should say there is a link to a trailer about the exponentialist. If you'd like to get the 50,000 foot overview, let's pull David in. Raoul teased a little bit of what you guys are doing. David, from your perspective, how do you see the exponentialist? What is it that you're so excited to do?"
+    },
+    {
+        "speaker": "D",
+        "text": "Hi there, Ash. Thanks. Yeah, I mean, I'm deeply excited about it on multiple fronts. One of them is just the chance to touch many more people and empower them with the kind of work I do. So, I mean, I do two big things. My day to day, my week to week is I spend a lot of time inside large organizations, household name brands, technology companies, too, trying to get the leaders there to live in the future, trying to get them to think in structured ways about this incredible wave of change that we all see coming and what it means for them and how they should respond, and developing models and lenses that they can look through just to help them process this. And, you know, as I so often say to Raoul, you know, loads of them are just in the, in panic mode. They can see incredible technologies emerging, change the like of which we've never seen before, and they don't know what it means for their business. They don't know what it means for them. They also don't know what it means."
+    },
+    {
+        "speaker": "C",
+        "text": "For their own career."
+    },
+    {
+        "speaker": "D",
+        "text": "That's a math, you know, that's massively on the agenda of many of them. Unsurprisingly, I spend a lot of time inside organizations talking to leaders like that. Part of what excites me so much about the exponentialist is the chance to bring those models, to bring distillations of that thinking. You know, I've been doing that for, I don't know, 1015 years longer to really distill those models and that thinking and develop it and put it in front of many more people and empower people, I hope, you know, with that thinking and go on a journey with them and building that community around the exponentialist and building that conversation. Lots of voices around the exponentialist is also deeply exciting to me because just as Ralph said, and he said it perfectly, this is a historic wave of change. We all need to navigate it. We're not going to be able to run away. No one's an expert, we're all beginners. We're going to have to find ways through it. What does it mean for us? What does it mean for our business? What does it mean for our investment portfolio? Portfolio? Just a historic, incredible moment we're living through. But it's also kind of terrifying. And the chance to just go on that journey with other people, super smart people, and help them is what's so exciting."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Once again, pinned to the top of this x space, the trailer and the link. If you're interested in finding out more about this specific offering. But Raoul, talk a little bit more generally about where you see this fitting in. I mean, obviously we just were talking about this, you and I, on our corporate slack about developer day over at chat, at OpenAI's chat GPT product. I mean the rate of change, it just makes your head spin."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, like you ash, I follow this space really closely and I'm completely out of my depth with the speed and the amount of innovation that's happening almost every time openaiden do something new, it kind of nukes every startup that thought they knew where the ground floor is, but the ground floor, I mean, David said something profound. David and I were having a chat earlier today and he's basically like, this is going to be water on the Internet. This AI technology is going to be available to everybody all across the world at almost zero cost. I don't know if you can get your head around what that means, but it means human knowledge is infinitely scalable. So as you can tell, as ever, I tend to zoom out to the macro to try and say, okay, how big is this? What does it actually mean, where is it going? But on the, because on the micro, it is just moving so fast that now you can create your own chat bots around your own private content. You can upload. I mean I upload technical analysis charts into my chat GPT four and ask that it's view, and it reads technical analysis, including DMarc indicators. I've given it macroeconomic charts and said, hey, make sense of all this. What do you think's going on here? It does a decent job at that. It's not perfect yet, but it's bloody scarily good. It's amazing. You can just take photographs of everything, ask it what it is you can do. You know, you can try and fix your toilet by taking a photograph, say, hey, what's going on here? What's wrong? You can generate text to video, images, text to image. You can. It's just a complete reworking of how humanity operates in the Internet. And we haven't even started yet, because I think my sense is that apple, when they come into this race, and they'll probably be later, well, they are later than others, are likely to integrate it into their m three chips or whatever onto their Macs and phones. So therefore, it is a non Internet version, because you just compress the file and put it into the chip that allows it to monitor everything you do on your computer, but doesn't send it to the Internet. So it's private and looks at everything you read, everything you read. It sees every file that you've got, every email that you write, every single correspondence, every Zoom call you have, everything. And allows you to manage your own life in a hyperproductive way. It's terrifying for some, but really exciting for others. I don't know what it means, but I know that there is a group of economists who look at this kind of stuff, this exponential technologies at Oxford, and they're kind of all futurists, and some of them are saying, listen, we could get to a point where global GDP doubles in a year or even doubles in a week. Now, I know that sounds extreme, but all of this is ridiculously fucking extreme. We just don't know what it means."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's dizzying, the rate of change. Twitter, obviously, just jumping into the space with Grok, announced over the weekend. Raoul, how do you begin to integrate your understanding of the technology with the broader macro framework? In other words, how do you begin to understand the models for how these changes are going to create value for people who are taking stakes on the equity side or in tokens or whatever the preferred method for investing is?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, first, it's build a framework. And there are two frameworks you need to have. One is the framework of understanding of the technology itself and its generalized impacts on society, the economy, and everything else and what's happening. And that's the whole exponential age thesis. On top of that, you've got to then say, okay, well, how does this fit into the economy? And I go back to, okay, right now we're in a big, big mess because we've got low GDP growth because of aging population and high debt and low productivity. So if GDP growth equals population growth, population growth plus productivity growth plus debt growth, well, debt growth is now just for servicing of debts. Population growth is now shrinking in most developed countries, and productivity growth has been declining. So on a macro level, this could completely change that equation. It could completely change both the productivity and the population side of things. Because robots and AI are demographics. They're infinitely scalable knowledge, knowledge units like humans are, and infinitely scalable kind of dexterous units like humans are. So that is an infinite human population. And if that's the case, you can understand why these Oxford economists got to. Well, GDP in the world could double in a year, or faster in year, in ten years time, or whenever that may be. And the productivity layer as well. If you get the energy costs down and technologies keeps increasing at this rate, you're going to drive massive productivity increases. And if you throw in quantum computing on top of that, it changes the entire game all over again. Beyond that, you get to the singularity point of which you cannot even begin to understand the economy or markets. But what it tells you is, I've got a massive secular trend behind me. And that secular trend is investable right now. It's easily investable in the foundational layer. So that is the big companies who store or create the compute. So those are the semiconductor manufacturers, those are the cloud for storage. You need to compute stuff, store stuff, have the energy to do that, and then the AI on top is the thing that drives that entire flywheel. So you can invest in many of those things already with the larger tech companies. The VC world, I think, is even going to be harder because so many businesses will be built and will suddenly be out of date within days, weeks, months. So it becomes a little more like a meme coin market, where things pop up, they become super fashionable, they become a new breakthrough. And before you know it, there's ten other breakthroughs built on top. Because don't forget, everybody now or soon, can use AI to analyze the business models of other AI businesses, to build other AI. And I think that's what's going on at OpenAI, which is why their pace of innovation is so fast. If you use AI within your own business, you just accelerate the entire flywheel within your business itself. So when I think about stuff like that. All I think about is, okay, this is clearly investable for anybody, and it's also beholden to the business cycle. And right now the business cycle is at its ebb. But the forward looking indicators are that it should be rising significantly over the next two years or so. So there's an opportunity to make money by investing in your demise by the robots and Aihdenkhdev. And then you'll have the business cycle, and there'll be a bubble of some sort and some stuff, and that will get. There'll be some destruction of capital, there'll be a bear market, there'll be economic weakness, and then we drive forwards. Although Jordy Visser, who I've been speaking to about this, even suggests that there may not be economic weakness, but maybe this is the death of the business cycle. Now, I'm not prepared to call that, but I can see his view. Because if you've taken scarcity out of the equation when most economies were driven by scarcity, then okay, maybe something has changed permanently. Way too early to tell, but that's the general stuff."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, it's exciting, it's a little terrifying, it's a little vertiginous to try and understand how it integrates the world. That's to come with where we are today. David Ralph's just talked about the principles of trying to integrate the macro framework into the emerging technology. You focus on a deep dive way in the emerging technology itself. How do you do what you do? In other words, how do you get your head around what's happening when it's drinking from the fire hose, drinking from the water cannon? Take the metaphor of your choosing. How do you begin to build up your framework for understanding the technology side of the equation?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I mean, my deep obsession for the last 20 years has been emerging technologies. But I come at it from a particular angle, which is a particular orientation, which is essentially to say, yes, emerging technologies, yes, these shiny, new, amazing technology trends that people become fixated on, but also, crucially, we human beings."
+    },
+    {
+        "speaker": "B",
+        "text": "Us."
+    },
+    {
+        "speaker": "D",
+        "text": "What does it mean for us? There's a tendency, so this is my sort of foundational bedrock model, or the lens I look out through. There's a tendency when people want to think about the future in a structured way, in more than just a casual sort of informal way. There's a tendency for them to become hugely fixated on the technologies themselves. But just saying things like, in the future, there's going to be AI, there's going to be even more. AI is interesting, but it doesn't get you very far. What you need to do is look at these technologies through the lens of human beings and of fundamental human needs. Amid all this insane change in these emerging technologies, human beings are motivated by a set of fundamental needs, and human collectives are motivated by sets of fundamental needs that don't really change over time, decade on decade, century on century. They are pretty stable. Needs like security value, status is a big driver of human behavior. So fundamentally, what I try to do is look at these technologies through the lens of deep, eternal human needs, through the lens of collective human behaviors, and just think about what these technologies will mean for us."
+    },
+    {
+        "speaker": "C",
+        "text": "Often."
+    },
+    {
+        "speaker": "D",
+        "text": "I'm looking in particular for ways in which emerging technologies are unlocking new ways to serve age old human needs or unlocking new ways to serve collective needs or collective behaviors. Because when that happens, when you get that kind of collision between an emerging technology, something new, and something age old about human beings, that isn't going away, like, for example, the desire for status, that's when you get powerful new human behaviors, collective behaviors, human mindsets that then reshape the economy, lead to huge amounts of value creation, enable new companies to take shape, change our societies. That's often what I'm looking for, and I'm just constantly trying to be mindful of the balance of that equation of, yes, emerging technologies, but human beings, too."
+    },
+    {
+        "speaker": "B",
+        "text": "William and what do you see there now, David, when you look through that lens of human perspective on this technology? How are people adapting to it or not adapting to it, I guess, as."
+    },
+    {
+        "speaker": "D",
+        "text": "The case may be, yeah, I mean, as Raoul said, we were talking earlier on, and he was saying, quite rightly, I think one of the big resistance points at the moment is that people are kind of scared even to use. I mean, perhaps not the type of people that hang out, you know, on x spaces and listen to conversations like this. But out there in the world, lots of people are resistant. You might even say a little scared to start using this incredible AI technology, to start using chat GPT. And I think it's because, you know, there's a whole lot of interesting human psychology wrapped up in that. And I think that there's, you know, there's a natural kind of inertia that that's where we all are accustomed to, that. You know, it's difficult to get people to do new things. But there's also something deeper. I think there's a fear in people, and it's stoked by the mainstream media that these tech AI, essentially machine intelligence, poses a deepen challenge to the value that they, as a human being bring to the world. So it's like, oh, you know, God, you know, this now this AI is going to be able to do consulting as well as I do consulting, or do accounting as well as I do it, or do whatever it is I do as well as me. There's going to be no need for me. And I don't particularly feel like sitting down on a Sunday afternoon, opening my laptop, playing with these technologies and discovering that it just doesn't sound very fun, actually. If you just take a step back, and if you try to see this properly through the lens of human behavior and human needs, the opposite is true. And this taps back to what Raoul was saying before about the abundance intelligence has tap water. We are entering a world of truly abundant intelligence that is a profound head spinning shift that really none of us can get our head around. But just on this point, what it means is, look, chat GPT is going to be out there for everyone. There's no point of differentiation for you or your business or your team around having chat GPT. Everyone's going to have it. The point of differentiation is, what do you bring to it? If you can bring creativity, ideas, you know, content, your own thinking, developed across years or decades or whatever that might be, whatever value you can bring to the model, to your conversations with the model, to your conversations with chat GPT, that will be the point of differentiation. Anyone can create a standard chat GTP output. It's not, there's nothing that is, that is the tap water. Now, what will be special is what you can add into the mix that creates enhanced outputs from the model. So, in a way, and this taps back to my original model framework, in a way, it's the world we're used to. It's about your creativity, your ideas, your frameworks, the content you've developed over a decade or more, whatever it is that you can bring, it's just now, you can bring all that to this other, this alien form of intelligence and enhance it and make it go even faster and develop it in ways you never imagined. So go and do that. It's deeply empowering to you as an individual. That, in my view, is the relationship we'll see evolve between human beings and AI. And by the way, the inaugural exponentialist essay, which went live today, is an attempt to deal with all of this and build a framework around the meaning of AI and the true implications of AI for the decades ahead. And that's just one example of how I apply my model and how I see people responding to technology. Now, where I think it's going. And I chose AI as the first one because AI is such a, we're dealing with so many different overlapping emerging technologies, you know, blockchains, robotics, genetic manipulation. There's something even more important about machine intelligence. It's a kind of meta technology that's woven through all the others that's woven through the entire exponential age. So I wanted, with the first essay, to develop a framework, or distill, really a framework that I've been working on for years, really to distill a framework for machine intelligence and its meaning in the years ahead, because that sets such a powerful foundation for us to build on in future instalments."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back. Whoa. Landing an account this big will totally change my landscaping business. It's going to mean hiring more guys and more equipment and, and new trucks for the new guys to drive the new equipment in. I don't know if I'm ready."
+    },
+    {
+        "speaker": "A",
+        "text": "You can do this. And Ford Pro finsimple can help. Our experts are ready to make growing pains less painful for your business with flexible financing solutions that meet the needs of your business today when you need them. Get started@fordpro.com. financing."
+    },
+    {
+        "speaker": "B",
+        "text": "Raoul, as we talk about this, one of the things I'm reminded of, and we haven't mentioned it yet, is the expanding role that third party research is playing on real vision, part of the new framework that the exponential has been listed under. Talk a little bit about that and why you think this is the direction for real vision going forward."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, the exponentialist is not a real vision product. It's a product that David and I got together to build. But really, it's actually a small part of a much bigger thing at real vision. One of those things is what we're trying to do with the real vision platform is allow everybody to put their financial lives, live their financial lives in one place, get the knowledge, tools and the network that they need to succeed in their journey. And one of the things I've observed is how difficult it is to find a curated source of independent research. And we have all these incredible research providers who appear on real vision who've been basically curated by the community. So we thought, well, why don't we make it easy and create a marketplace for independent research? So you're not looking for it on Twitter? Is that the right person? Should I pay for this? Should I pay for that? You get to see them, hear the discussions, and you can then sign up on the real vision platform, but it will deliver it in your feed on the platform so everything is all together. And that then lets you use the AI to get summaries, the real vision AI that's built into our platform to allow you to get summaries or to take notes or to understand more. So it kind of supercharges the knowledge of all this incredible community of independent research writers. And we'll also be having tools as well to build on top of the real vision network. So it's like an app store. It's an app store for everything you want in your financial world, and it'll appear in your feed in this kind of seamless experience. We think that solves a lot of problems for people trying to find the right research that suits them. It also solves problems for independent newsletter writers who have to go on x every day and raise their hands up, say, look at me, look at me, look at me. We have a very large, very engaged audience, and that way we bring everybody together in a kind of into a symbiotic relationship that feeds on each other. So hopefully, people are going to find it really great that all of their favorite research can eventually appear in their real vision feed. They can bookmark it, take notes, do all the things that they do all in one place. So you just click on your real vision desktop app. Up it comes. There it all is."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, just notice."
+    },
+    {
+        "speaker": "C",
+        "text": "And the exponentialist is the first product of that. You'll see later this month or early next month, a whole bunch more that will come out."
+    },
+    {
+        "speaker": "B",
+        "text": "So the first product and something that you and David have custom created for this new offering."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly right. Exactly right. And there'll be products at different price points, different types, different niche markets, broad markets, all sorts of stuff. The idea is to give people that kind of a la carte experience where they can choose what they want to bolt on top of the immense amounts of knowledge that's in real vision itself, and then utilize all of the tools and other stuff that real vision provides. So the idea is then you can start curating your own financial world, building the foundation stones for what you really need to thrive and survive in your financial world."
+    },
+    {
+        "speaker": "B",
+        "text": "Raoul, I've noticed without even asking, people are queuing up to ask some questions. Should we start bringing folks up on stage?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, good for it."
+    },
+    {
+        "speaker": "B",
+        "text": "All right. Defi, different, one of our regular listeners. How are you, man? Oh, I think we got to give him the microphone. Let me see if we can add him a speaker right now. Okay. Apologies for the delay. Sometimes the x platform is a little bit slower than we'd like it, bringing people up on stage."
+    },
+    {
+        "speaker": "E",
+        "text": "Can you hear me, guys?"
+    },
+    {
+        "speaker": "C",
+        "text": "Hello?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, loud and clear."
+    },
+    {
+        "speaker": "E",
+        "text": "Oh, you got me, have you?"
+    },
+    {
+        "speaker": "C",
+        "text": "Okay. Yeah."
+    },
+    {
+        "speaker": "E",
+        "text": "Hi, guys."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, welcome."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, basically what I wanted to ask was, you know, the macro inside this product, absolutely fantastic for me, and it's, I can digest it in a way that I'm very, very comfortable with. Then we have the, there was a Delphi product about crypto. In all honesty, that was just too intense for my brain. How is the exponentialist going to be sort of laid out? Is it going to be more similar to the macro insiders, or are we talking a Delphi product sort of thing where you feel like you have to have a white cloak on and walk around in a laboratory?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think the answer is David and I, neither of us are technologists, so we're not coming from the angle of the deep tech. We're coming from the angle of trying to explain to people and help people and navigate it. So it's much simpler. The essay, I think, is going to be unlocked for everybody to have a look, so you'll understand what it is. But you get week one is David's long form essay or maybe a deep dive with me. Then after that it's an AMA the following week, so you can dig in, get a better understanding. Talk to David about all of this. Week three is a conversation, a long form conversation between David and I, talking through what we've learned, what's going on, where we are, the trends we're picking up, the signals we're seeing, the risks we're seeing, and then week four is going to be ok. Where are we in the technology business cycle and some sort of follow along portfolio. It's not trading, it's not like macro insiders in any way. It's more just a simple here's how to capture the theme, but let's tell you where the business cycle risks lie in it, and then there'll be some updates when something really big and important happens. So it's probably more like the macro insiders product than it is the Delphi deep dive. But by nature that it's technology, we're all going to fill out our depth occasionally, and we should do, because that's the point."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, true. I mean, I'm very, very interested. It was just, I really am interested in the product, and I just would have hated that. I'd have hated to think that all of a sudden I'm just bombarded with information like that deep dive Delphi product. I mean, that's fantastic if you're a technologist and you're in the weeds of technology. But for somebody like me, Raoul, it was just like, whoa. I can't compute that. But, yeah. Brilliant. Thanks a lot."
+    },
+    {
+        "speaker": "C",
+        "text": "All right. No problem."
+    },
+    {
+        "speaker": "B",
+        "text": "Thank you. And by the way, it's sort of exactly as it should be, right, that we have different product offerings for different people at different points in their journey."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly right."
+    },
+    {
+        "speaker": "B",
+        "text": "I."
+    },
+    {
+        "speaker": "C",
+        "text": "People all have different needs. That's the point. This product is not for everyone. The macro inside this product is much more for everybody. But this is not. It's for people who passionately want to go down this journey of understanding what the hell does this all mean and what I can do about it, and some people don't. And that's okay, too."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Thanks for the question. Defi diphth. And we appreciate you always, regularly attending our x spaces. Next question goes to Tolleberry. Tolleberry. Your question for Raoul and David, please."
+    },
+    {
+        "speaker": "C",
+        "text": "Hi."
+    },
+    {
+        "speaker": "F",
+        "text": "Thank you, everyone. Nice conversation. My question spans from a place of concern. So my question is on the fact that I think it's particular to David. I think my question is for David on the exponential growth of it and technology, AI and all of that. I'm looking at a situation where, you know, as we expand in technology, we actually eroding the human capital. And I'm wondering maybe someday humanity will look back on how we actually stabbed ourselves in advancing too much in technology. There has been an exponential growth in the past 2025 years, and, you know, it reduce the human capital. And, you know, I'm wondering how people would pay mortgages when, you know, they can do these jobs and AI and robots are doing it. Is this something of a concern or is just something I'm just over the board on? So just to summarize, it is, as you expand in technology and AI, and we reduce human capital elements in all of all of this, how do we maintain a society in terms of, you know, when people don't get the job, they can't pay mortgage, they can't buy things, and, you know. Yeah, I hope you understand what I'm saying."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, well, loud and clear, Tolberry. And that's an important question, and I think one that a lot of us have been asking. Raoul, David, to Tolberry's question, what do you guys think about the potential disruptions in labor markets that this technology might cause?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, this is a fantastic question that strikes at a really core issue for the exponentialist, because, look, the biggest thing to say in response to this question before I get into the details of some of those issues. Is the exponentialist is emphatically not about saying this huge wave of technological changes coming like nothing we've ever seen before, and everything about it is absolutely fantastic and great news. And we should all just wholeheartedly, uncritically embrace every facet of this incredible technology revolution we're living through. No, we need to be. I mean, we need to be much more thoughtful about it than that. So the broad spirit of the question I can align with these technologies. This technology revolution, a wave of change that I do think is historic in its magnitude, poses deep challenges to us as human beings, as individuals, and as societies, and how we organize collectively and also to our economy and how our economy functions and what, in the end, it is. So, look, yes, these technologies Raoul talked about, robots are demographics. And again, I mean, Raoul knows this. It's just a phrase that I think is just so powerful and just captures such a deep truth. You know, we're going to see a wave of job displacement, pretty deep job displacement, I think, via humanoid robots that can do lots of the things that currently we ask human workers to do. And you see Amazon trialing humanoid robots in its fulfillment centers right now. You know, there's 1.6 million people employed in those fulfillment centers around the world, and that's just one company. And it's all very well saying those people will be liberated to do other things and we can retrain them. Look, we know historically it doesn't work like that always. You can't just retrain all of these people. Yes, we'll find other forms of work medium long term for human beings. I think that's right. But there will be a painful wave of job displacement. How do we face that? What kinds of ways can we find to mitigate it? Is universal, basic income part of that conversation? And look, you know, deep, deep questions. I'm not going to pretend that I have all the answers to those questions. Now, we are on a journey of understanding, to confront those questions, among others, and develop models and frameworks and answers to them. And there'll always be provisional answers because this thing is rolling insanely quickly, and we're scrabbling to keep up. And the challenge to us collectively in a societies is a deep part of what I want to investigate. This taps back to the first question as well, which I also thought was really interesting. I mean, look, as Ralph said, I'm not an engineer. I'm not a coder. I've spent years developing, I think, I hope, deep technological understanding. But as I said at the beginning, my day to day is talking to people inside organizations who are like, oh, shit, this is happening. I don't understand it at all. Help me make sense of this. What does this even mean for our business? What does this mean for my team? I bring some of that spirit to this product. Like, yes, we're going to go deep. We're going to develop, I hope, really sophisticated understanding. But this is always going to be deeply accessible, too. And it's not some kind of cult of just unalloyed techno enthusiasm where we're just cheerleaders for everything that's happening. We're thinking deeply about what's happening and what it means. I do think that there are possible futures where we erode the, we erode human ways of being and human modes of existence and the value that we place on them via technologies if we're not careful. But it doesn't have to be that way. And the way we unlock the future where it's not that way, is we think carefully about it. We understand these technologies, we understand their implications for all of us, and we come together and we act. We can steer this future a little bit. Human beings have never had total control of our collective destiny. And where we're all heading, we certainly don't have total control now, because we're amid forces now of technology that are unbelievably powerful, unlike anything we've had before. But we can steer it a little bit. And that's really for me, the belief."
+    },
+    {
+        "speaker": "B",
+        "text": "That the David might have just dropped off. I think we've been having some slight tech problems here with the X platform. David, we'll get you back just as soon as we can."
+    },
+    {
+        "speaker": "C",
+        "text": "I can hear him."
+    },
+    {
+        "speaker": "B",
+        "text": "Can you hear me?"
+    },
+    {
+        "speaker": "C",
+        "text": "I can hear him."
+    },
+    {
+        "speaker": "B",
+        "text": "Ash, it's you just got dropped off as well."
+    },
+    {
+        "speaker": "D",
+        "text": "Can you hear me now?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, David, we can hear you."
+    },
+    {
+        "speaker": "D",
+        "text": "Ral, can you hear me now? I come to an end."
+    },
+    {
+        "speaker": "C",
+        "text": "Ash, we can hear you."
+    },
+    {
+        "speaker": "B",
+        "text": "Raoul. David? Can anyone hear me? If you're in the audience, put your hand up if you can hear me. Okey doke."
+    },
+    {
+        "speaker": "C",
+        "text": "I think it's you."
+    },
+    {
+        "speaker": "B",
+        "text": "I think we may be having some technical problems. I'm going to leave this Twitter spaces and rejoin, hopefully. Oh, you can hear me? You can hear me. Great."
+    },
+    {
+        "speaker": "C",
+        "text": "We can hear you. You just can't hear us."
+    },
+    {
+        "speaker": "B",
+        "text": "It looks like we've just lost Raoul and David. Guys, I'm going to rejoin this Twitter space. Oh, Raoul, can you hear me?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I can hear you."
+    },
+    {
+        "speaker": "B",
+        "text": "It's so strange. It looks like we just dropped David. This is on the X platform. Some challenges there, obviously. Let me see if I can add. Thomas. Thomas, can you hear me? If you can hear me, Thomas, go ahead and unmute."
+    },
+    {
+        "speaker": "G",
+        "text": "Yeah, I can hear you. Can y'all hear me?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, loud and clear. Were you, were you able to hear everything I was saying there?"
+    },
+    {
+        "speaker": "G",
+        "text": "I can hear you, but Ralph and David cannot hear you."
+    },
+    {
+        "speaker": "C",
+        "text": "No, we can."
+    },
+    {
+        "speaker": "B",
+        "text": "Bizarre."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, we can hear everybody else and."
+    },
+    {
+        "speaker": "B",
+        "text": "I can hear Ralph for just like a second."
+    },
+    {
+        "speaker": "G",
+        "text": "Yeah, Ralph, they can talk, so."
+    },
+    {
+        "speaker": "B",
+        "text": "Go ahead. Go ahead. What, they can't talk at all? All right, let's see."
+    },
+    {
+        "speaker": "C",
+        "text": "They can, they can talk."
+    },
+    {
+        "speaker": "G",
+        "text": "They can talk. Yeah, they can. I can hear them."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. I can't. And I know that our producer was having some problems, too. Thomas, why don't you go ahead and ask your question of Raoul? I'm going to jump out of the conversation and jump right back in, but in the meantime, you go ahead and ask your question. I'll be right back."
+    },
+    {
+        "speaker": "G",
+        "text": "Yeah, I guess this is directed towards Raoul. I think it was a post you put a day or two ago, and I kind of commented about the, I guess the profound experience you had with artificial intelligence was chat. GPT four, if I remember. I've been kind of thinking about this for a while. But with artificial intelligence, I guess with the pessimistic train replacing all the jobs, what do you think about people's intuition towards their passions and that end up becoming like ecosystems within itself? So you're talking like gamefi fashion and everything like that. Do you think that would become more of replacing the job industry towards more what people are attuned to passively instead of kind of forced into a job and a debt system economy?"
+    },
+    {
+        "speaker": "C",
+        "text": "This is a great question. It's a hundred percent where I think this is going. I think we're going to form cultural, online societies. We're already doing it, right? We're already in them. Even you being a nature on this call is part of, you know, a cultural community that is curious about technology and investing and other things. So, yes, I think that's absolutely the case, because we won't need human intelligence to do the job. So what can we do? And I spoke to Yatsui from Animoca brands about this, and we came across the idea of universal basic equity as well. I mean, tokenization allows you to participate in cultural communities and these digital societies, or even, as Balaji would say, a digital network state. Participate in an economic manner that the thriving state pays you dividends so you can create wealth by being part of something that could be a pop band. It could be a sports group. It could be anything that creates value for others and that can be tokenized. So I do think that is coming. I think that is part of the answer. Yes. Maybe universal basic income, maybe you tax the robots, maybe you tax the AI, maybe you give it back to people. But in the end, people want a purpose. And if we don't have to work in the same way, we don't need to do physical work and we don't need to do mental work, well, then we can be unleashed as humans in other ways. And we are communal, societal creatures who want to hang out together, who want to be together, even if we don't need to learn certain things, because AI can do that. Just be together, exchange ideas, thoughts, insecurities, fears, hopes, dreams, all of that. That's what makes humanity humanity. And maybe, maybe it does unleash humanity in new ways. So, yeah, I love that question."
+    },
+    {
+        "speaker": "G",
+        "text": "Can I ask one more?"
+    },
+    {
+        "speaker": "C",
+        "text": "Go for it. Okay. Yeah."
+    },
+    {
+        "speaker": "G",
+        "text": "This one's been bugging me for a long time, and I have not, I guess, come to a conclusion. Whatever you think about Gary Vee, I think he's an awesome guy. But he asked this question back in 2018. He said blockchain was a really big deal and that essentially you're kind of eliminating the leverage that a lot of governments have outside of nuclear bombs and armies. I am curious, within 10, 20, 30 years, I don't know how far you thought about this, especially with AI exponential age, what would be the role of government inside of a blockchain system? I mean, I can see if you have like Ethereum or Cardano and these different systems. They have an automated tax system, and the people used to, I guess, like the funds to, you know, whatever government officials. But where do you think government would be involved with blockchain?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, I think if you put blockchain AI, that's kind of a way of organizing complex societies, which we use government for. Right. We use religion to do that. We use government to do that. There is a case to be said that there is no point of government in a world where we live digitally, in this global, transient nation states, where we move around, we have various currencies, but we're not physically restricted by borders. Sure, if you want to live in the United States, anyone use the facilities in the United States? You pay taxes in the United States, much like if you want to use Ethereum, you pay taxes to the Ethereum network state as well. I see a chance that in 30 years time that the concept of government becomes outmoded in the way that it is, because once you get AGI quantum compute, the organization of resources within an economy becomes a much easier, solvable thing. It changes how society functions, how work functions. It changes pretty much everything. And there is a once you start getting more advanced forms of intelligence out of AI, the robots will share resources with each other. So one robot is latent, the other one needs compute or power or whatever. They'll exchange value between them. Your Internet of things will exchange value, all of this kind of stuff. So it sounds far fetched, like a science fiction story, but it's pretty clear to me that this is the way it all goes. And I'm not sure that the systems that we have had in place for the last 200 years, 500 years, thousand years, 2000 years, will even fit this new world. And I don't even know what that means. None of us are smart enough to know. All we can do is, is hypothesized."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, guys, I think I'm fully back now. I can hear you, Raoul. Thanks. And by the way, two great questions."
+    },
+    {
+        "speaker": "D",
+        "text": "Thomas."
+    },
+    {
+        "speaker": "B",
+        "text": "Appreciate you asking them. Thank you again, Raoul. You said something interesting there, which is about the search that human beings have for meaning. It's interesting, I was thinking about the quote from the 1930s about how human beings would require just 15 hours of work per week. That, of course, from John Maynard Keynes. That certainly hasn't come to pass. We use this idea of tap water. If you think about the amount of time that people spent digging wells and searching for fresh water, pretty extraordinary. And yet we always seem to find new things to do, new creative pursuits, new desires, new wants, and the desire to create things that didn't before exist. Do you guys, David Rao, do you have any thoughts about how that might be moving in the future? Do people become more creative? Is there a rise of a new class of arts entertainment? What do you see people using to fill their time as AI increasingly does? Some of the drudgery?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I've thought about this huge amounts over the last ten years, and I think Raoul touched on the deep truth at the heart of this, in what he just said. We're on this journey through technology that is essentially processing, that is eating every form of human activity, that can be turned into a technique, that can be turned into something procedural that technology can do, and that turns out that that's pretty much nearly everything that human beings can do, nearly everything cognitive and soon with humanoid robots, nearly everything physical, too. What is left at the end of that road? What is left at the end of that long journey that turns everything into technique. The only answer, really, in the end, is just being with one another, being human with one another. A machine or machine intelligence can do everything for you, around you, whatever. But what it can't do, what it can never do, is just be another human being who is there for you or there with you. And we human beings will always want that, not for some reason, not to get something, but just as an end in itself. It's just something we want because we want it. And that, I think, is a pretty sure bet for an eternal fact of human nature. So that truth reshapes the economy in incredible ways, because it will make the economy and value transfer, in inverted commas, more and more and more about things that are just human beings being with other human beings, being there for them, truly seeing them, listening to them, entertaining them, is a massive one. And more and more of the economy, and more and more of work will become about that. We constantly change the meaning of the word work. So this really famous quote from Keynes that you mentioned, you know, it's arguable that we have got closer to what he imagined than people, than people give us credit for, because we've changed the nature of the word work. Like, for example, is this work? You know, are Raoul and I at work at the moment? Doesn't really feel like it, but we, you know, it's, we've just deeply, deeply changed work. And actually, this is a great example. What are we doing right now? We're here hanging out with other people who are passionate about the same thing. We're sharing ideas with them. More and more of the economy will become about that. And, I mean, I'm constantly entertaining. I've got ten year old children. They're obsessed with youtubers. You see the shift I'm talking about. You see very early glimpses of it, even in the emergence of the whole teenager youtuber obsession thing. Like, what is that? That's ordinary people out there making videos to entertain other people. And some of them become super famous, but there's a long tail of them that don't. Are they working? Is that work? You know, lots of them are doing it for work now. And if you ask any ten year old what they want to be, they want to be a youtuber when they grow up. They're basically saying, I want to hang out with people when I grow up, and entertain them. Were going to see the economy move increasingly in that direction because making the widgets, writing the legal contracts, fixing the cars, working in the fulfillment center, operating on people, is all going to be turned into technique, its all going to be turned into eaten by technology."
+    },
+    {
+        "speaker": "B",
+        "text": "Gosh Raoul, that sounds a lot like the thesis for what were building at real vision. I hope you keep paying me for it."
+    },
+    {
+        "speaker": "C",
+        "text": "You know, you did it for free Ash. You did it for free."
+    },
+    {
+        "speaker": "B",
+        "text": "No, you pay, you pay me to go to the meetings man. Not to do this stuff. This is the best."
+    },
+    {
+        "speaker": "D",
+        "text": "But Ash, what you can do is create an, create an AI version of yourself and then license that to Ralph. Right? Go to the beach, license the AI Ash, to Ralph. He'd be delighted with that deal."
+    },
+    {
+        "speaker": "C",
+        "text": "You wouldn't tell the difference either."
+    },
+    {
+        "speaker": "B",
+        "text": "I love this. I love this train of thought. Listen guys, we got some questions coming in from the real vision platform that I'd also like to touch on because there's some really good ones here. The first one I think this is to you, Ralph from Jordan Radway. The question is, I really like the idea of a marketplace. I subscribe to several services, but it would be nice to have some or all of those services on RV. Can you give us an idea of who you may be bringing on the platform? Great question."
+    },
+    {
+        "speaker": "C",
+        "text": "I can't because we're still trying to negotiate because it's a new idea. We're trying to figure it out with people, how it all works. Because there's some complexity to putting other people's research onto our platform. We'll probably start without doing that. We'll just create a marketplace so people can find this stuff. But you will get, I think, hopefully towards the end of the month we will have a pretty good idea. But it'll be a lot of the people you know, the people who appear on the daily briefing, the people you know and trust. You like their opinions. You want to know more about what they do, you want to hear more of their thinking. So there'll be a broad spectrum. We'll probably start with, I don't know, maybe six. But really the idea is to build out 1020 curated, amazing partners, much like we have many of the partners, the people who come on real vision frequently to help guide us all through our financial journeys."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, we tend to talk about things at real vision very early because it gives us an opportunity to get some feedback from the audience who can tell us what they think and what they'd like to see. Here's a question from John Craflinde. How actionable do you expect the information you provide will be? I guess it's probably a spectrum, right? Depending on the."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, look, it's not a trading service. If you want trade ideas around the exponential age thesis that's in macro insiders. If you want to know more about why those trade ideas, more depth, more understanding, it's not a trading service, but the idea is part of the service is a portfolio you can follow along. It's very simplistic. There's no rocket science in it. It's there to be able to help people directionally capture this trend. Sure, it'll change over time. That kind of model portfolio will change over time. Also, the business cycle will mean we will be periods where we won't be taking risk or we'll be taking more risk, that kind of thing. But it's not a trading service in any way. But if this information I think of it is like a perfect bolt on to macro insiders, because then it arms you with all the information to capture this big idea, which will only help capitalize on the trading opportunities that you get from the macro side of stuff as well."
+    },
+    {
+        "speaker": "B",
+        "text": "Raoul, heres a question I know youre going to love about community, about real Vision 2.0. It comes to us from Andy Miller. Are there plans for a Discord channel? If not, what are the proposed forums for subscribers to discuss topics?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yep. So we are on the platform itself. You've got the real Vision network right now. You can connect with each other. Rolling out next month there'll be, I think RVIP already have a group, but next month there will be group chats. You can already form your own group chats if you want to chat with a few people on a particular topic, but we'll have some fixed topic areas. There'll be macro crypto technology, real vision chat itself. We'll eventually get to regional chat. So if you're going to New York and you want to find out who's there or get restaurant recommendation or meat for drinks, you'll be able to do that. There will be an exponentialist chat as well. So members of the exponentialist will be able to chat to each other, talk these big ideas, talk to David and I, that kind of stuff. So it's all coming. But as ever, we're not Google. We don't have 10,000 people. We are always under both budget restriction and capital and human capital restrictions to be able to get all this stuff done as fast as we can."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, our time is finite and at least until AGI comes and changes all that. Raoul David, always a great conversation. Whenever we do these Twitter spaces, these x spaces, I think everyone always enjoys them. Hundreds of people joining us here today. David, final thoughts, key takeaways that you'd like to leave folks with from this conversation."
+    },
+    {
+        "speaker": "D",
+        "text": "We'Re just at the beginning of an incredible journey. And I mean that in two ways in terms of the insane wave of change that's approaching. But with the exponentialist, a journey to go forward together, face it, understand it, and make the most from it in multiple ways. Like, yes, your investment portfolio, but what it means for you as a human being, what it means for your career, what it means for your family, just developing deep understanding that will supercharge you in so many different domains of your life. And if that's you, then the exponentialist is for you. Like Raoul said, it's not going to be for everyone. But I just cannot wait to go on that journey with that group of people who are deeply curious, who want to understand this."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "So just excited, and it's just so cool to see it launch today."
+    },
+    {
+        "speaker": "B",
+        "text": "Well said, raoul. You get the final word, final thoughts, key takeaways."
+    },
+    {
+        "speaker": "C",
+        "text": "Like David, I'm excited because of everything that is happening. It is terrifying. It's head spinning, it's bewildering, it's magnificent. It's all happening. And we've only just started. We just keep talking about AI because AI is the big thing that launched. But there will be 1015 of these things where you'll be like, I can't believe this is happening. I can't believe this is happening. What does this mean for me? What does this mean for my business? What does this mean for my parents? What does this mean for my kids? How do I make money out of this? All of that? You read back in history books about the industrial revolution or the rubber barons and the oil and the railroads, right? This is all of these things. Ten x. Many people remember the early Internet days, the kind of 1995 to 2000 era. It's that, yeah, it's that squared and squared again kind of thing. There's going to be so much happening, and it's going to be a lot of fun. It's going to just ignite that sense of wonder. And as humans, to have a sense of wonder is a wonderful thing. And that sense of wonder, that sense of curiosity is what the exponentialist is all about. And that's why David and I really wanted to do this, because we want to go, as David says, on that journey through all of this and help navigate people through the most incredible pace of change humanity's ever lived through."
+    },
+    {
+        "speaker": "B",
+        "text": "Final thought, obviously, all of this pinned to the top of this X spaces, the link, the trailer, all the information that you need. Top of this X spaces. Raoul, David, fantastic. Conversation. Thanks for joining us, everybody."
+    },
+    {
+        "speaker": "C",
+        "text": "See you in the future, everyone."
+    },
+    {
+        "speaker": "D",
+        "text": "Thank you so much."
+    },
+    {
+        "speaker": "C",
+        "text": "Ash."
+    },
+    {
+        "speaker": "D",
+        "text": "See you soon, everyone."
+    }
+]

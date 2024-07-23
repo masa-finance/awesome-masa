@@ -1,0 +1,390 @@
+[
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless everybody get 30 30 baby get 30 baby get 20. 2020 baby get 2020. Bid to get 15. 1515 just $15 a month, so give."
+    },
+    {
+        "speaker": "A",
+        "text": "It a try at mint mobile.com switch $45 upfront for three months, plus taxes and fees."
+    },
+    {
+        "speaker": "C",
+        "text": "Promoting for new customers for limited time."
+    },
+    {
+        "speaker": "D",
+        "text": "Unlimited more than 40gb per month slows."
+    },
+    {
+        "speaker": "A",
+        "text": "Full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "E",
+        "text": "Hey everyone, if you like this podcast, go behind the paywall to get privileged access to the smartest minds in finance, join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off our essential membership for the first year. Now to the top analysis of today's crypto markets."
+    },
+    {
+        "speaker": "D",
+        "text": "Its official genesis files for bankruptcy, and Cameron Winklevoss threatens to sue Barry Silber. What could this mean for the industry and for markets? We'll discuss this and much more live with Ram Ali Walia and Santiago Velez. Welcome back to real Vision Crypto Daily briefing. I'm Ash Bennington. Let's jump straight in to today's price analysis. The overall crypto market is trading slightly higher. Bitcoin is back above $21,000. The largest us crypto by market cap is up. On the past day. Coindesk reports some interesting data around BTC's recent rally. The outlook the outlet has looked at RSI, the relative strength index. It's a momentum indicator that looks to identify areas where an asset's price is potentially overbought or oversold. Higher RSI numbers indicate an overbought condition. Lower RSI numbers represent oversold conditions. Coindesk says that within the last two weeks, bitcoin has registered three of the highest ten RSI readings to date in 2019. Since 2019, obviously a four year period, or three and a half year period there, that includes a reading of 89.3 on January 14. Such high readings are very unusual for bitcoin. Coindesk says the average seven day returns for bitcoin after reaching its current RSI levels have historically been a positive 7% return. When looking at an average of 30 days, that goes up to a 15% return. With the recent surge ahead already baked in, the momentum could potentially wane. Meanwhile, when it comes to ether, its RSI readings have been more muted. This correlates with equally muted average returns. Historically, however, today's ether is making a bigger move to the upside than bitcoin. Ether is up 2% on a trailing 24 hours basis. It's currently trading at around $1,550.01. Other cryptocurrency we're looking at is Nexo. The native token of the namesake crypto lender, is performing today better than all other cryptocurrencies. So best performer of the day? That's following a settlement with the SEC. More on that later. Now let's bring in our guests. Ram Alewalia is the CEO of Lumina Wealth Management. We also have Santiago Velez. He's co founder and R and D division, lead at Block Digital and co founder and vice president of R and D at Cyndrick Solutions. Welcome back to real Vision crypto, gentlemen."
+    },
+    {
+        "speaker": "F",
+        "text": "Thanks for having me."
+    },
+    {
+        "speaker": "C",
+        "text": "Thanks, Ash."
+    },
+    {
+        "speaker": "D",
+        "text": "Welcome. For those of you watching, make sure to pop your questions in the live chats on the real Vision website or on YouTube. You can also ask them in our Discord channel. We'll ask the best questions on air later in the show. Remember, real vision members take priority, but good news is membership is free. With that said, let's jump right in. Rom. Obviously pretty eventful 12 hours or so here since Genesis filed for bankruptcy in New York at around 11:45 p.m. eastern time last night. So almost exactly 12 hours us the broad framework here, what's the big picture? What's going on?"
+    },
+    {
+        "speaker": "F",
+        "text": "Sure. So Genesis, as you point out, Ash filed for bankruptcy in federal court, Southern District of New York. Let's talk about how we got here. So DCG failed to raise equity at the parent company level. And again, that was a function of concerns around this $1.1 billion promissory note. Concerns around their liabilities exceeding assets."
+    },
+    {
+        "speaker": "D",
+        "text": "DOJ, for people who aren't following the story, that promissory note, who is it owed to and what were the dynamics around it?"
+    },
+    {
+        "speaker": "F",
+        "text": "Well, it was an attempt by DCG to bailout Genesis by swapping out a bad asset, a defaulted loan to three O's capital with a good asset, which is a ten year loan earning 1% payable to Genesis, where the counterparty there is DCG. Right. So there were the concerns around that loan and these other issues. FTX clawback risk. Meaning that if the bankruptcy court from FTX deems that loans that were called in by Genesis in August are clawed back, that can create issues for Genesis. So stepping back, DECG failed to raise a venture round which could have plugged the hole because of these various issues surrounding DCG, including Cameron Winklevoss's allegation of accounting fraud, namely the representational $1.1 billion loan. So for those reasons, they couldn't raise funds. Second, we did not see prepackaged bankruptcy that was reported in some of the news in the recent days, which is disappointing because a prepack would have accelerated timing, speed recovery, preserved the value of the economic pie, and created clarity around the disposition of assets such as GBTC, as well as other assets such as Coindesk."
+    },
+    {
+        "speaker": "D",
+        "text": "Rob, let me just break in here to just do a bit of a summary of where we are today, because this is a lot of information for people to digest. So, essentially, DCG unable to raise external financing to plug the hole in the balance sheet. As a consequence, they effectively did this swap of assets internally between the parent holding company and the portfolio operating company, in this case DCG and genesis. And that effectively was a mechanism to try and offset the challenge with the hole left in the balance sheet by the loan that was defaulted on by three arrows capital. Is that roughly right?"
+    },
+    {
+        "speaker": "F",
+        "text": "You nailed it exactly right, Ash."
+    },
+    {
+        "speaker": "D",
+        "text": "Exactly right."
+    },
+    {
+        "speaker": "F",
+        "text": "Now the question then is, well, why now? Why was the bankruptcy chapter eleven filed today, not yesterday or tomorrow? And the reason has to do, it's a term called the preference window. So in short, you have a 90 day window to claw back any, say, withdrawals or redemptions from Genesis. So Genesis has an obligation to file for bankruptcy within a period of time so that there's no preference or preferential treatment of a credit of Genesis."
+    },
+    {
+        "speaker": "D",
+        "text": "So that's what started the clock on that 90 day window."
+    },
+    {
+        "speaker": "F",
+        "text": "There must have been some transactions that took place 89 days ago, which were material, insignificant, and they were looking at that and said, look, we have to file bankruptcy. We can't let the 90 day window pass those transactions, otherwise it cannot be clawed back."
+    },
+    {
+        "speaker": "D",
+        "text": "So the other point that you touched on there that I think is a very important one, were these rumors that were being reported yesterday from sources allegedly close to this case about the idea of a prepackaged bankruptcy. Just so people who may not know what that means, a prepackaged bankruptcy. Lawyers usually say, this is where creditors and debtors walk hand in hand into bankruptcy court and say, look, we've worked out a solution for this. We need to grant forbearance, we need to swap debt for equity. All of these mechanisms that are used effectively to offset the losses that creditors have. This was reported yesterday. It was picked up pretty widely. The idea that they were going to find some mechanism to work this out between Genesis and the creditors. That did not happen. It seemed unlikely to me with the nasty grams going back and forth between the Winklevoss twins and DCG and Barry Silbert in Genesis. And yet, at the end of the day, precisely as many of the cynics thought, we did not get a prepackaged bankruptcy. Obviously, this conversation now, as I said at the top of the show about what's happening with the. With the underlying relationship between these two. Talk a little bit about that. Sure."
+    },
+    {
+        "speaker": "F",
+        "text": "So it's very acrimonious. Cameron is running a maximum pressure campaign to seek concessions and is still attempting to align on ideal. So there's still an opportunity for parties to come together. And it indicates through Cameron's letter that everyone's still working and burning the midnight oil to try to come to terms, which is still constructive. It's not a prepackaged bankruptcy, but there's a possibility that parties can come together, align on terms. And Cameron is threatening legal action against ECG and Barry Silver personally to add more pressure."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, let me just read through this to give people a sense of the overall framework for what's happened here. This is just a summary of what's happened over the last 12 hours or so. So crypto lender Genesis is officially filed for bankruptcy. We talked about that at the top of the show. The company did so at midnight last night or nearest midnight yesterday. This is in the us bankruptcy court for the Southern District of New York. Clearly, this was not unexpected. This is part of this cascading effect that we've seen after the collapse of FTX and of course, other crypto failures like three Arrows Capital. As we said, that played a role in the default, that played a role because of the defaulted loan from three Arrows capital to Genesis. So in its chapter eleven filing, Genesis revealed its top 50 largest creditors. Some of the names have been redacted. I want to ask you about that, ram, how typical that is. In just a second, uh, news outlet, the block says collectively Genesis now owes, uh, creditors $3.6 billion. That's a significantly higher number than previously reported. In fact, it's double the minimum of 1.8 billion in outstanding debt that both the block and coindesk had reported back in December. So again, these numbers appear to be rising. Uh, the top of Genesis creditors list, uh, sits crypto exchange Gemini, as we've just talked about before, uh, Gemini and Genesis had partnered, of course, on the yield earning program called Earn. Both Genesis and Gemini have been sued by SEC over allegations that they offered unauthorized securities. Last night's bankruptcy filing says Genesis owes $766 million to Gemini users. Gemini co founder Cameron Winklevoss says the ultimate responsibility for the situation at Genesis lies with its parent company, digital currency group. Winklevoss has threatened to sue DCG and its CEO Barry Silbert imminently unless they make a fair offering to creditors. Obviously fair in the view of Mister Winklevoss. So let's talk about some of that. The redaction, the threatened lawsuit. Go ahead, jump in."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, no, the redactions can happen. I'll call it a few things. We did learn quite a lot in the filing from Clery Golly, which is the council presenting Genesis. It's their proposal. One is we learned that Genesis has a billion in cash and liquid assets. So therefore, creditors that have priority claims that are senior creditors certainly will expect to receive some initial payout, maybe $20 to $0.30 in the dollar if you just take out the liquid assets divided by the total debt outstanding, which looks like 3.5 billion plus of the top 50 holders. Second to your point, Gemini earn creditors are at the top of the list in terms of the dollar zero. Gemini is not a creditor to Genesis. It's acting as an agent to Gemini earned creditors. At the top of the list, there are two notable amounts which are redacted. One is for greater than $400 million and the other is greater than $200 million. And what we'd like to know there is, are those exchanges, because if they're exchanges, then there could be some contagion risk. Abra has a $30 million claim that's relatively digestible. Abra should be able to raise equity, maybe the equity capital on hand, to get past that. So those are some of the learnings there. The other learning we learned from the docket, and this is a major docket still processing now, the promissory note. So, of course, we knew probably one or two weeks ago, that is a."
+    },
+    {
+        "speaker": "D",
+        "text": "$1.1 billion loan doing the internal promissory note between DCG and Genesis."
+    },
+    {
+        "speaker": "F",
+        "text": "That's correct. That's correct. We learned that it has a pick toggle. What that means is you can pay in kinderg, which means that in ten years time, if DCG doesn't have the cash, they can simply let the note continue to accrue interest. So you can see why Gemini earned creditors and the credit committee members were upset. There's no binding mechanism to drive towards default. They can keep accruing the debt."
+    },
+    {
+        "speaker": "D",
+        "text": "And Rob, if I'm correct about this, but this payment in kind, this is essentially the ability to pay in additional securities that can be issued between these two companies. So effectively, if there's no cash transfer, you can sort of just continue to paper this over almost indefinitely, at least in my interpretation."
+    },
+    {
+        "speaker": "B",
+        "text": "Based on what?"
+    },
+    {
+        "speaker": "F",
+        "text": "I mean, my interpretation as well. Exactly. You can continue to accrue debt and say, hey, we'll pay you later. Right. So now we still need to learn a few other elements. We need to look at how unaccredited investors will be treated. Now. Unaccredited investors, per sec law, should not be investing in private companies because they don't have the qualification status of an accredited investors, and these investments are not suitable for them."
+    },
+    {
+        "speaker": "D",
+        "text": "Unaccredited investors, also known as retail investors, these are not accredited."
+    },
+    {
+        "speaker": "F",
+        "text": "That's right. The public. Exactly. So the Clery Gottlie proposal contemplates equitization of essentially the conversion of debt to equity for the various classes. That's one way to look at that. Two other learnings here. The proposal shows that there's no expectation that the senior priority claims will be impaired, meaning those senior creditors have a path to full recovery, won't get paid out initially. They'll get paid over time. But there is a path to full recovery for their senior creditors. But there's a lot of challenges here."
+    },
+    {
+        "speaker": "D",
+        "text": "Right."
+    },
+    {
+        "speaker": "F",
+        "text": "Imagine there's a retail investor out there and they're not accredited. They didn't have any disclosures, and they made an investment. They can't distinguish between a senior loan and unsecured loan. To me, if I'm looking at this from a regular, I'm going to say that retail, unsophisticated investor didn't know any better, and now they're at the risk to be in line for losses because they don't have a senior loan. So these are the issues that are going to start coming up. Another element that will come up is discovery. So in bankruptcy law, you can pursue discovery if it's material and relevant. You're going to start to see depositions of key executives at the time of bankruptcy, all of whom have been terminated and up till now have been silenced under NDAs."
+    },
+    {
+        "speaker": "D",
+        "text": "So you're going to, so this essentially the discovery process, it overrides the NDAs. You can depose senior executives and former senior executives. You can also subpoena emails and other documents. So this sort of significantly widens the scope of what the public will ultimately know, because during discovery, those documents ultimately become public information. Rahm, I'm mindful, I wish we could have you here for the next 2 hours, but I know that you have to leave because of some other commitments. And I wanted to just touch on a couple of other points that I think are really important. So one point, just as a little groundwork for people who may not be familiar with this process, this idea of the prioritization of creditors, this is something that every bankruptcy hearing fights over, which is the idea that different creditors claim that they're senior, they claim that their assets are secured, they claim that things were held in trust. Essentially, you have a series of creditors, or different classes of creditors battling it out over who gets what priority over which funds. And thats a very natural thing that happens in bankruptcy. Thats at the core of just about every bankruptcy hearing that ive ever heard of. The second point that I want to touch on that you mentioned that I think is really important, that id love to get your insight on, is this idea of redactions, the idea that you have some creditors whose names are being withheld from the public release of documents. First of all, Ron, how common is that? Why would judges agree to it? And I think really ultimately, to the point you made earlier, what are some of the potential risks if those are public, if those creditors have potential additional contagion risk, if, for example, they're exchanges? I know that's a lot, but jump in and give us the overview on reduction."
+    },
+    {
+        "speaker": "F",
+        "text": "It happens. It's common. A judge didn't approve or not approve it. Say there's a bankruptcy filing, it'll be in front of the judge. You know, we'll see. I'd love to understand the identity of that, to understand contagion risks, and we'll see what we learned through the discovery process."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Ram, final thoughts, final points you'd like to make again, I wish we could have you on all day. I know you have a prior commitment and have to leave, but we're going to keep having you back to cover this story. Final thoughts? Obviously a lot of new information coming out here, so we need to push."
+    },
+    {
+        "speaker": "F",
+        "text": "For a proposal that both parties can align on quickly to drive speed of recovery. That's 1 second. We need to look at where the GBTC is held. How much is that? Genesis? And we need to encourage a mutual resolution to avoid any disorderly liquidations. There's a lot of work that's been done over the last two or three months, so I would expect that we have a faster resolution than typical bankruptcy processes, which can take six to twelve months."
+    },
+    {
+        "speaker": "D",
+        "text": "I guess everything on crypto just happens at hyperspeed."
+    },
+    {
+        "speaker": "F",
+        "text": "There's complexities here, though, because of those retail unaccredited investors. So you need to have equitable treatment. A judge will test that every member of a credible class of a creditor class is treated equitably. So you can't deprive retail investors of an equity conversion, even though they shouldn't have the equity. This is very nuanced development in bankruptcy law. And the other learning, I should add also is that these claims were dollarized, meaning if you made a deposit in a token, then at the time of the petition. 11:45 p.m. last night, that timestamp converts that token deposit into a dollar deposit."
+    },
+    {
+        "speaker": "D",
+        "text": "So frozen at that particular point in time, meaning the price at that moment really does matter. And it's interesting because we've obviously had this bit of a run up here over the past five to seven days in price. So fascinating, fascinating stuff. I have to say, ram, you know, sort of big picture here. I think a lot of people suspected that this was coming. We had reports going back about a month that there was a potential for a bankruptcy filing. Bloomberg reported, I guess it was two days ago that a filing might be imminent. Actually, I think it was yesterday that they reported that the filing was imminent. And so now we get the filing, and it really does seem, I know this is a cliche, but it really does seem like we have more questions than answers today than we did yesterday."
+    },
+    {
+        "speaker": "F",
+        "text": "We're going to learn a lot through discovery."
+    },
+    {
+        "speaker": "D",
+        "text": "Rob, fantastic to have you on, man. We've got to have you back to do this conversation more often."
+    },
+    {
+        "speaker": "F",
+        "text": "Thank you, Ash. Pleased to be here. Take care, guys. Have a good one. Be well."
+    },
+    {
+        "speaker": "D",
+        "text": "Thanks, Ron Santiago. Velez. Santiago, I know you were listening to that conversation. Obviously, there's a huge amount going on here, a lot to unpack. What are your thoughts to what Rahm had to say?"
+    },
+    {
+        "speaker": "C",
+        "text": "The liquidity tie keeps going out and we keep seeing who's not wearing pants. I think this is a natural deleveraging. All of the, I mean, lessons learned here for digital asset investors is know who your counterparties are and who their counterparties are. This is a chain of events that's continuing to unwind over the several months. And as, as the guest noted, Rob noted this was from a 90 day clock that occurred back in November. So this is, this is, it was interesting."
+    },
+    {
+        "speaker": "D",
+        "text": "He didn't say exactly what the event was. It was just implied in the fact that they filed and said, hey, there must have been some material event 89 days ago that precipitated the beginning of the clock, but didn't know exactly what the clock started on."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. And as far as investors are concerned. This is all about different clocks, the rate at which prices will change during the proceedings, as he noted. Also, it's frozen as of midnight last night. And we know that digital assets can kind of explode in value exponentially over a one year period, for example, and bankruptcy proceedings can take at least that long. And so it can be to the advantage of certain parties to those differences in rates as far as who's going to benefit and who's not. So I think it's very interesting that bankruptcy and the delays could be used to the advantage of particular parties with regards to counterparties whose relationships are unfolding. Digital asset investors should realize that there's a lot of headwinds here, one of them being a continued regulatory attack on lots of yield products. We've seen lawsuits against various exchanges who offered yield products as unregistered, and we also see a continued regime of financial tightening. Both those are extreme headwinds, in my opinion. So I'm very skeptical, kind of tying this back to the beginning of the, of the, of today's talk on price action. I'm very skeptical of a sustained rally in the face of these, these kind of dual headwinds."
+    },
+    {
+        "speaker": "D",
+        "text": "Hey, everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back."
+    },
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our price. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless 30 30 Biddy get 30 bid to get 20. 2020 to 15 1515, just $15 a month."
+    },
+    {
+        "speaker": "A",
+        "text": "So give it a try at mint mobile.com switch $45 up front for three."
+    },
+    {
+        "speaker": "C",
+        "text": "Months, plus taxes and fees. Promoting for new customers for limited time."
+    },
+    {
+        "speaker": "D",
+        "text": "Unlimited, more than 40gb per month slows."
+    },
+    {
+        "speaker": "F",
+        "text": "Full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, it's kind of interesting, this idea that even though you're skeptical of a sustained rally, the fact that bitcoin has rallied, and I'm looking right now, looks like almost well called 11.5% trailing seven days. If the clock essentially on dollarization stops the minute that lawsuit gets filed, you wind up being anchored to the higher price. What an interesting circumstance, Mike."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, well, actually, I'm thinking of the reverse in terms of bitcoin continuing to rally, say, over the next year, and the proceedings not truly being unwound as the complexities of bankruptcy. They take a lot of time for the creditors to agree on who's first and who's last. And then, of course, the judge has their say and they can take whatever time they feel is appropriate. And throughout that period, you can have radical price changes in the underlying native assets. So this is going to be extremely interesting to watch as it unfolds. I think that the SEC has no motivation to relax on its pressure for either yield products order to grant a spot bitcoin ETF. So this is probably going to put a lot of pressure on DCG, and itll be part of the negotiations between the parties."
+    },
+    {
+        "speaker": "D",
+        "text": "I guess, in a kind of a weird way, if an assets been dollarized, youre kind of implicitly short the asset, right? Because effectively you would do better relative to the spot price if it were to decline because youd be locked in at the higher dollarized price."
+    },
+    {
+        "speaker": "C",
+        "text": "That's true. That's 100% agree."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "So price action wise, I feel will continue to go sideways with lots of volatility for extended period of time, at least until we see in other risk assets rallies here with the presumption that fed monetary policy will relax and pivot. There's a lot of debate on this, whether that's premature or nothing. We also have a lot of money on the sidelines waiting to deploy. So crypto being as illiquid as it is right now, you can see very strong rallies. So my advice in general is to just be cautious of whether those will be sustainable, especially in light of some of these large players caught up in these legal proceedings and of course, continued minor liquidations on the bitcoin side. You know, just be cautious."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. And by the way, for those folks who are not familiar with the macro space, this is clearly the biggest debate happening right now, is what is going to happen with monetary policy? How is the Fed going to try and strike this balance in their dual mandate? Are they going to continue to clamp down on inflation, or are they going to either pivot or even relax that cycle? To a certain extent, that really is the debate. And obviously there's a huge component there that has an impact on what happens for digital asset prices. Obviously, our top story of the day is this the genesis story, but there's other news flow that we wanted to report to you today, this one going back to FTX. John Ray has given his first interview since becoming FTX CEO. He spoke exclusively to the Wall Street Journal. One especially notable comment Ray made is that he would consider restarting the exchange. Ray told the Journal he had set up a task force to explore restarting FTx.com dot, that's the company's main international exchange. Ray says some users have praised FTX's technology and that there could be value in reviving the exchange. Earlier this week, FTX revealed a significant shortfall in assets on its us exchange. That's in contrast to claims by former CEO Sam Bankman Fried, who continues to maintain FTX is fully solvent. FTX says a hacker stole half, half of all of its assets on the us based exchange two days after the bankruptcy filing in November. Boy, a lot there. So potentially, number one, potentially restarting the exchange, and then number two, I think this story actually came out two or three days ago, on the 17th, that assets had been stolen from the exchange. We knew that before, but the idea that it was 50% of the assets on the us entity of FTX, pretty extraordinarily high. Number 50% of the assets suddenly disappearing. I guess it's possible, possible that Sam Bankman Fried believed he was telling the truth and then the assets got stolen. I mean, again, if you want to talk about a space where there's more questions than answers, that applies to this story as well, doesn't it?"
+    },
+    {
+        "speaker": "C",
+        "text": "Oh my God, it never ends. And, you know, there's a lot of interesting tidbits here. You know, first of all, Mister John J. Ray, having his background with, with Enron of all of all places, he's intimately familiar with how these things can play out."
+    },
+    {
+        "speaker": "D",
+        "text": "And I think we should say Mister Jay came in after the collapse of Enron to do the same kind of work he was doing, he's doing here. Obviously, he was not involved in the fraud. This was someone who came in to help clean up the mess."
+    },
+    {
+        "speaker": "C",
+        "text": "That's right. And I'm sure there's disagreements with he and Sam about exactly how that cleanup should occur and who should benefit. FTX suffered incredible brand damage from losing funds, and that's both us and international. However, the token price is a real time indicator, and it's almost doubled, which is shocking that the FTT token itself has seen almost 100% rise in price. That's amazing in and of itself. Whether or not it's sufficient to bring customers back to the exchange, to realize the benefits of holding that token, or if it's just purely speculative, we'll have to see. But the exchange was widely used. They offered many products that traders saw as beneficial and was considered efficient. Whether or not they can continue to provide on, deliver on those services, we'll have to see. I personally would never use an exchange under the FTX banner again, but that's me personally and others may have a different viewpoint on that boy."
+    },
+    {
+        "speaker": "D",
+        "text": "So much to add and say there, look, I would be shocked to know if there's anything that Mister Ray and Mister Bankman fried agree on. Obviously a very divergent point of view there in terms of their view of what's happened to the company. Second, the FTX exchanges viability. I don't know. I mean, that's an interesting question. I would say that professional institutional traders probably don't put a whole lot of stock in branding and swag and that kind of stuff. And if they believe that the exchange is secure and that it represents some kind of edge for them, whatever their past history under prior management, is an open question about whether or not they jump in. I want to talk a little bit about the token price because you said something interesting there. A couple of interesting points actually. I'm looking right now at the one year chart. Look, a cynic would look at this chart and say, well sure, it's rallied. That's low base effect. It was trading down at a buck and change in share right now per token. And now it looks like on my screen it's trading at two and a quarter. This had been up, I guess, in March of 2022, over $51 per token. So yeah, it's bounced, but it bounced off an appallingly low price."
+    },
+    {
+        "speaker": "C",
+        "text": "That's right. But doubled for whomever had was brave enough to buy it. One thing I'd note, it's interesting tidbit. Sullivan and Cromwell is the law firm that FTX used for quite a period of time during a lot of its activities. And today they were part of a motion to be appointed debtors counsel for FTX, which is interesting. I don't know the results of that yet, but that is something that normally would not occur, right? That you would have a third party firm and there would be no conflict of interest there. So that's going to be an interesting development if that's allowed by the judge to occur, because it would mean that they have the, they will be the ones working through the FTX bankruptcy."
+    },
+    {
+        "speaker": "D",
+        "text": "So just an aside, an interesting aside though. Do you know how extensive the Sullivan Cromwell work with FTX was or when it began?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, over the last year and a half, they've met at least 1314 times on record with both the SEC and FTX to negotiate many of their deals. So who better to have inside knowledge on how to unravel that? That being said, it could lead to conflicts of interest. So I would be curious to see how that plays out and whether or not they're granted that appointment. But you know, there's so many pieces of this story to watch. And there's so many moving parts. The key here, the key takeaway, I think, is to just be really careful about any ongoing participation."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Speaking of moving parts, some additional news flow on Nexo. The US securities and Exchange Commission and crypto lender Nexo have settled a lawsuit. The SEC charged Nexo with failing to register its lending product. Nexo will now pay $45 million in penalties to settle the case and similar charges from regulators at the state level. Nexo will also have to stop offering its earned interest product in the US, so they're agreeing to discontinue the product, for which they've been fined. On its Twitter account, Nexo said, quote, Nexo believes that the company has been recognized for what it truly is, a pioneer like Uber and Airbnb, providing disruptive solutions in a fast paced environment. End quote. Boy, that's one of the most positive spins I've ever heard on a settlement. As an innovators do not quite fit. This is an additional quote here. As innovators do not quite fit into existing provisions, constructive dialogue for the enhancements of the prevailing regulatory framework is of paramount importance. Close quote. In the interest of full transparency, Nexo has been an advertiser on real vision in the past. Boy, they're like Uber and Airbnb. Well, I guess a little bit of positive spin there on the story, a little bit of fluff. But to the substance of the point here, obviously the idea here for Nexo is that they can pay this fine for activities in the past and then put that in the rearview mirror, put that behind them and continue to go on with a $45 million fine, which, based on the comments, certainly seems to be digestible. What are your thoughts on that?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think a lot of the market likes certainty. And to your point, now that this has been resolved, there's more clarity for them in terms of their risks towards the regulator. This just augments my point about regulatory headwinds. There will be continued pressure on exchanges and firms that offer lending products or securities to retail investors, and I don't see the SEC stopping anytime soon. So those that have made it past that great, their token, you can see, is rallied significantly. But there's still a lot of other hammers to fall. So be careful there."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, obviously a positive story for Nexo that they can settle this. Still, I don't think anyone has said it's getting late, I don't want to drive. Let's call on Nexo."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, exactly. And in the Silicon Valley world, moving fast and breaking things seem to be the mantra. But with other people's money, I think you can't really take that approach. You need to be deliberate, slow, and careful, and comply 100%. So these are continued lessons learned from 2022. We're going to continue to learn them in 2023, and I think the next round will be vastly superior in terms of what kinds of products and how safe they are for retail."
+    },
+    {
+        "speaker": "D",
+        "text": "Santiago, that is a brilliant and incredibly insightful point that you've just made there. What we have seen, I would say, in the last ten years, is the Silicon Valley ization of the entire world. Move fast and break things works really well on social networks. Right. If you're playing around and your Facebook post takes an extra 30 seconds to post, for whatever reason, and they're innovating and they're doing new and interesting things, people go, okay, well, it's a little bit of a pain in the neck, but fine. But there are two areas that we found out in the last three to five years that just don't play very well by Silicon Valley rules. Number one is medicine, healthcare. This is the Elizabeth Holmes case. People do not like you moving fast and breaking things. There can't be vaporware when you are doing medical tests that people's lives rely on. And the second is money, when you have client funds, for example, that are meant to be segregated. Move fast and break things is not an excuse for why client money is not there. Such an important point you've just made."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, thanks, Ash. I appreciate it. It's something that we all learned as we go, and this is why we have a regulator. The only missed opportunity here is that these things weren't caught before failure. And it wasn't until liquidity came out of the system where everyone who was insolvent, it became clear that they couldn't sustain their promises. That's when the regulator jumped in. So it's unfortunate they couldn't have done this before people lost money, Preston."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, and in many ways, the challenges that we have in this space, I've been saying, effectively, are this kind of weird, worst of all possible world situation where you have centralization and not true decentralization, and then you have an absence of regulatory oversight. It's like it either has to be decentralized or it has to be regulated, but it can't be neither. Neither is not an option."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah. Continued pain going forward, though, it's important to overemphasize that this is not a technology failure. Blockchain it's not a technology failure of smart contracts. This again is a failure of centralized counterparties, which is something that repeats itself in financial markets over and over again with new types of financial innovation, and it will happen again. So these patterns should be identified and processes put in place that whenever the next phase of financial innovation comes out, we don't have this happen again. And that's the key point."
+    },
+    {
+        "speaker": "D",
+        "text": "19 oh 719 20 919 87 2008 you pick it right. Failure in human nature. We're not going to correct that anytime soon. Santiago, while we're talking here a little bit more broadly and we zoom the camera out to talk a little bit about the bigger picture issues, tell us a little bit about what you're working on in 2023 and what you're hopeful for. Obviously, we have these negative stories here, and they're substantial, and we're talking about them in the detail that they deserve with the gravity that they deserve. But what are some of the things that you're optimistic about in this space looking forward?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, you know, the speculation has been, has been burned away. This is like a clearing a brush fire, and we're going to have new growth because there's people building now who've taken the lessons learned from these mistakes and identifying market needs and building products going forward that won't be subject to these same failures. So I think this is a good and healthy thing for the industry, as always, to clean out the bad actors. Unfortunately, we're not quite done yet, but I think when that process is complete, we'll see the emergence of these new products in the next cycle. And if you look back, the beneficiaries of appreciation and nfts in Defi and many of the high growth areas in digital assets in the last cycle, those things were built during the bear markets. And so that's when you have to pay attention to the quality of the projects and the teams to really pick the winners and not the losers before the bull run. That's when most of the gains will occur. So, I mean, for me, it's being one of those builders. It's focusing on the software stacks that help tokenize real world assets, for example, trying to bridge the legal assurances with the blockchain assurances to get the best of both worlds. I think that's going to be the path forward. And I also feel that individuals who are onboarded onto these decentralized networks, who carry some form of identity to validate KYC and AML credited investor status, et cetera, will create new pathways, new exposures for DeFi products, that, again, realizes the dream that we're all working towards, which is this peer to peer world disintermediation of third party, more efficient, lower friction, et cetera. So just keep building. That's the takeaway."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, that's very well said. Realize the dream. Obviously, there are going to be stumbles and problems and some significant fallout on the way there, and we're going to cover those stories as well. But I think it's important for people to understand why it is people are so passionate about this space, perhaps despite all of the things that are happening today that we talk about in the form of bankruptcies and collapses and challenges in this space. Santiago, it's nearly time for viewer questions. But before that, for those watching on the real Vision website, thank you. If you haven't signed up there yet, check it out@realvision.com. crypto. That's the best way to get early access to real vision content, and it's always free. Today we've released Ral's interview with Cryptopunk 65 29. That interview is two and a half hours of pure gold. Check it out again. That's real vision.com forward slash crypto. If you're watching on YouTube, please like and subscribe. And hit the notification bell as well. So, Santiago, what do you say? Should we jump in and do some questions?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, let's do it."
+    },
+    {
+        "speaker": "D",
+        "text": "Okay. This one comes from Paul E. If they restart FTX, wouldn't that be beneficial to SBF and all of his pending issues? So interesting question. Hes asking if SBF benefits from a restart of FTX."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, you know what I think in bankruptcy proceedings, all of the assets, including equity, any income thats generated from ongoing operations, those are subject to the judge at the end of the day and where those funds go. So I doubt that the founders, especially anybody who's under an indictment, would be a recipient of that value. Some people might say that restarting FTX and having operations again where they can earn income would be a better situation for especially retail creditors. Making sure that they get compensated in the future and that there's value there, sometimes destroying the company or eliminating it really shortcuts any future opportunities for redeeming value lost by retail."
+    },
+    {
+        "speaker": "D",
+        "text": "Right. Retail creditors, also known as depositors or just retail users. And that really is who the benefits should be accruing to, obviously, after the losses that they sustained. Here's another question from Paul E. On the real vision website. Is the Genesis bankruptcy in the same court as the FTX bankruptcy? I can take this one. So no. The FTX bankruptcy is being held in the District of Delaware. The Genesis bankruptcy has been filed in the us bankruptcy court for the Southern District of New York. On to the next question. Let's see Chad C. On the real vision website. Weird to see market still pumping. Any takes on why we are not crashing on this news? It's a fair question. Santiago, any thoughts on price action? Why is it still rising?"
+    },
+    {
+        "speaker": "C",
+        "text": "I just think that everyone is trying to front run what they consider a pivot by the Fed and a relaxing of financial conditions. It's true that we hit some significant bottoms in both equities and crypto, which highly correlated. So it could be a bear market rally. So we need to be careful. It could be short squeezing, but there is a lot of liquidity on the sidelines. There is a lot of cash on the sidelines. And if people are anticipating recession in the latter half of 2023, they may be trying to front run a Fed pivot and hoping to make some gains off the bottoms."
+    },
+    {
+        "speaker": "D",
+        "text": "Heres a great question from Steve M. From the real Vision website. How does this bankruptcy impact DCG and all of its other companies? This really is a key question about how the contagion goes throughout the DCG, umbrella or family of companies. Santiago, any thoughts on this?"
+    },
+    {
+        "speaker": "C",
+        "text": "Its tough. Its so complex to see whether it would be a net good or nothing. A bankruptcy probably would mean that the assets would have to be dissolved and spread out among various parties, and that increases the complexity of the response function, whether or not those parties would decide to exit and liquidate into the market, which is what we care about as investors. So whatever their underlying holdings are, having that unravel in an uncontrolled manner would not be good. So having more parties involved in that, it was probably a bad thing. So we'll have to see. But my personal preference would be to maintain most of those assets under a unified umbrella so there could be an orderly unraveling. The worst scenario would be that this could occur over an extended period of time and extend the crypto winter, if you will, much further than it needs to be. Be. That's kind of my worst fear."
+    },
+    {
+        "speaker": "D",
+        "text": "Hey everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing. Yeah, and let me just shade that a little with a bit of sort of just a framework around that. So I think, Steve, you are onto exactly what the key question is. My understanding is that these are separate legal entities and the filing took place. I believe we read them at the top of the show. Maybe we didnt. I thought we went through the list, but its the Genesis hold company. Its one of the asian subsidiaries of Genesis and its genesis trading that filed last night, to the best of my recollection, here in New York City for bankruptcy, all other companies that were not listed, in fact, did not file. So separate legal entities. This is a complicated legal matter about whether they can be held liable when people file suit. And additionally, to the point that you made about some of the other assets, if those assets are held in trust, there is also a question about whether or not the trust segregates out or protects them from creditors making claims against it. So it's a very complicated and very nuanced question, and I suspect one that will be argued over. In other words, there is no easy sort of glib answer. What will wind up happening is different creditors and different classes of creditors may file suit claiming that they have or ought to have access to particular assets. This is something that's going to play out over a very long period of time. So, Steve, I guess the short answer is certainly, I don't know. But I think even more appropriately said, it is not yet known because these questions are going to be contingent upon legal decisions that have yet to be made. So it really is a very complicated question and one that we will be covering here in detail. Here's a great question to end on, Santiago. This one comes from fifth dimension seeker on YouTube. Can tokenization of assets and regulations lead to a long term sustainable growth in the crypto space? I don't think he means the tokenization of regulation. I think he means as more regulatory clarity comes online, can this lead to a sustainable growth in the crypto space? Santiago, thoughts?"
+    },
+    {
+        "speaker": "C",
+        "text": "I 100% believe this, and I'm not alone. We've seen very recently, Goldman Sachs and a number of other large firms declare massive tokenization efforts between now and 2030. Their expectation is many of the world's transactions. Financial transactions will occur on some form of distributed ledger technology and through some tokenization process. So I'm very bullish. The question is, how does that process unfold? How does it get deployed so that retail can participate? How do safe spaces get created so that both, almost like matching between retail and institutional, can occur without the friction that we have now in the financial with instant settlement, with the transparency that the chain provides. These are the goals. So, yeah, I'm very bullish, and I think that we should shift our focus away from just circular tokens whose value grows on pure speculation to anchoring to real world productive assets."
+    },
+    {
+        "speaker": "D",
+        "text": "Santiago, I'm looking on the chat on the real vision website, and it looks like Paul has just said, santiago, sounds like a lawyer. You are not, in fact, a lawyer. Right. You're an engineer by training."
+    },
+    {
+        "speaker": "C",
+        "text": "That's right. Unfortunately, exposed to way too many lawyers, and it's kind of infectious."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, you've caught the bug in the best sense of the word."
+    },
+    {
+        "speaker": "C",
+        "text": "Thanks."
+    },
+    {
+        "speaker": "D",
+        "text": "So, Santiago, obviously we've covered a lot of ground here, lots of news flow, lots of analysis, a great conversation all around. Final thoughts, key takeaways that you'd like to leave our viewers and listeners with."
+    },
+    {
+        "speaker": "C",
+        "text": "There's a lot of opportunity here. Be cautious, of course, and skeptical, as always, of claims and hyperbole. But this market is very nearing the bottom and we could be approaching maximum opportunity here. So this is the time to really pay attention. Do your own research, look for those projects that are building real world solutions for problems, and participate."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Very well said and very well framed. Santiago, thank you so much for joining us."
+    },
+    {
+        "speaker": "C",
+        "text": "Thank you for having me."
+    },
+    {
+        "speaker": "D",
+        "text": "Here are my key takeaways. I would just say that, as I said earlier in the show, I thought we were going to get some clarity last night when the documents from the filing at Genesis came public. I would say, as I said earlier, we certainly have more questions than answers today. Lots and lots of open questions here to be sorted out in the days and weeks to come. And we're going to be covering them right here on real Vision crypto daily briefing. I just wanted to thank once again, Santiago, for joining us. Of course. Thank Rahm for joining us who's no longer with us. For those of you watching on YouTube, if you're not a real Vision crypto subscriber yet, don't forget, it's free. Head to real Vision.com crypto to subscribe now. And subscribe and hit the notification bell for good measure here on YouTube as well, if that's where you're watching. That way you can always stay up to date with the latest crypto news and analysis. That's it for today. We'll be back Monday with more great guests, GSR ethos, dave the wave and more. Join us next week. See you at 09:00 p.m. excuse me, 09:00 a.m. pacific, noon Eastern and 05:00 p.m. london time, live on real vision crypto daily briefing. Have a great weekend, everybody."
+    }
+]

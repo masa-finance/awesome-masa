@@ -1,0 +1,374 @@
+[
+    {
+        "speaker": "A",
+        "text": "This regulatory scrutiny is great because it gives us an opportunity to share how powerful and wonderful the technology is and can be. And it gives us a platform, effectively, to speak with politicians and regulators, help them understand that it's not just this action. We need many, many actions to reform the laws in the United States and on the planet so that the world can embrace this technology. And so if we want it, we're all going to have to fight for it."
+    },
+    {
+        "speaker": "B",
+        "text": "The US is trying to disconnect from Ethereum. That's what Joe Lubin, the CEO of consensus, said in our conversation today. And he was talking about those in power trying to unplug Ethereum from the citizens, from we the people. And I gotta say, the evidence for that increasingly seems to back up that statement. The SEC is going after Kraken, Coinbase, uniswap, metamask. We've done episodes on many of these. They're essentially trying to turn every non custodial wallet into a broker dealer. You already know some of that story, but here's what's new. Joe and Matt are producing evidence that the SEC is coming after Ethereum itself. The SEC is sending discovery requests to Ethereum core developers, threatening their employers. They're pushing a coordinated effort to claim ether is a security so that they can control it. But this time, we're going on the offensive. Consensus is taking them to court to settle this issue once and for all. And if they're successful, it'll be the first time in a us court we get a clear ruling that ether is not a security, it's a commodity."
+    },
+    {
+        "speaker": "C",
+        "text": "Before we get into the conversation with Joe and Matt, a message from our friends and sponsors over at. Both Matt and Joe are interesting characters that we had on the episode today. And for bankless listeners that aren't from, as familiar with Joe Lubin, he is the founder and CEO of Consensus. He has been building critical software that Ethereum has really needed in order to actually be a usable system. Uh, many of the products that have been built out of consensus have made Ethereum usable, uh, metamask being the big one, infuria. But many other projects as well, like Gitcoin was incubated out of consensus. Uh, and Joe, I think for, for people who aren't familiar with him, uh, I appreciate Joe because he thinks in, like, cosmic scales. Yeah, he thinks he's, he's a very big thinker. Yeah, he's like, he understands the way of the universe, the way of the world. Very like Ray Dalio esque in the way that, like, things move forward across time. And then we also have Matt, the legal counsel of consensus, who is a lawyer. Right. Very grounded, very pragmatic. But each of these two guests take turns putting on the conspiracy hat a little bit, which I thoroughly enjoyed. So these are the two guests on the show today, and they each bring their perspectives to the show, which I thought we've done these shows before, like SEC suing company, suing the SEC. But this is different. It's different when it's Joe, and it's different when it's consensus."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And what I appreciate about them, both of them, is, uh, they came here on this episode, and they're here to fight. They're here to push back. They're. They're here for the resistance. So, guys, we're going to get right to that conversation. But before we do, we want to thank the sponsors that made this episode possible, including Bankless nation. We have Joe Lubin. He is a crypto og. He's the CEO of Consensus. He's been on the podcast a number of times. Consensus is the company behind a massive number of crypto projects, uh, including many we know and love, such as the popular metamask wallet. Joe, welcome to bankless."
+    },
+    {
+        "speaker": "A",
+        "text": "Thanks, Ryan. Thanks, David."
+    },
+    {
+        "speaker": "B",
+        "text": "And Matt Corva is here for the first time. He's the general counsel at Consensus. He is leading the charge in this case against the SEC. Matt, welcome to Bankless."
+    },
+    {
+        "speaker": "D",
+        "text": "Thanks, David. Brian."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, guys, give us a rundown. What is going on at this point in time? The high level, it sounds like the SEC is maybe coming after Metamask, coming after Ethereum in general, and you guys are taking them to court instead. I don't know. That's my high level tldr. Can you tell us what's really going on first, you, Joe."
+    },
+    {
+        "speaker": "A",
+        "text": "So, at a high level, we feel that the ethereum ecosystem is under threat, that the United States effectively is trying to disconnect America from ethereum. We've been tracking this issue for quite a while, and we believe that the stakes are now clear and much higher than, and more existential than we previously believed. And it seems that the SEC is intent on using surgical enforcement actions, granular enforcement actions, to try to cast ether, recast ether as a security. Even though it's been very clear for quite a while, based on statements made by SEC officials and CFTC officials and the way our whole ecosystem in the world has been operating, that ether has been classified as commodity for a long time. And worse than that, we're seeing, and Matt can flesh this out a little bit. We're seeing scrutiny of the technology, we're seeing scrutiny of actions that software developers are taking in building out the protocol. And that's either a merit based evaluation that the SEC is engaged in. And I think Chair Gensler was on video a short while ago saying something like the technology is too volatile or unstable or something like that. And essentially by classifying metamask as a broker dealer, which they've indicated that they're moving towards, it makes the entire industry, without even making it clear that ether is a security, it makes the the whole platform unusable, because again, by gaslighting, by refusing to utter that ethers as a security, they're effectively treating it behind the scenes as a security, and they're going after us and many others. And if Metamask is a broker dealer in the eyes of regulators, then pretty much all software on the ethereum platform which engages with the ether token swapping, doing other things with it, might have to go in and register with the SEC. And that's obviously going to chill all software development in the US and usage."
+    },
+    {
+        "speaker": "C",
+        "text": "Matt, this isn't the first case that we've seen either with the SEC versus crypto or crypto versus the SEC. But I think there's also just some new elements here. What about consensus's case versus the SEC? Really stands out. What's the unique properties about this particular case?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, so our case is really about three things. So the headline thing is Metamask, right. That's sort of what Joe had talked about as well. It's the subject of our wells known as Metamask wallet, the swapping feature and the staking feature. The real differentiator, we think in our case is to some other actions which have been about challenging agency rules or about specific company operations. Is Ethereum itself. Ethereum itself is under attack. As Joe said, the narrative we sort of like to talk about internally is we think they're seeking to unplug Ethereum, and we think that's just wrong. They have sort of deputized themselves, sort of the police of open source technology in a way that we think is outside of their agency authority. And so we've gone in front of a court in the fifth Circuit of Texas to say, look, judge, they are wrong here. Ethereum's a commodity. Everybody knows it's a commodity. The SEC has said it's a commodity. The CFTC has said it's a commodity. The facts show it's a commodity. They are outside the scope of their authority on Ethereum. Our complaint details that they have sought testimony from our developers and our professionals and document production, over 88,000 pages that we've produced to them over the past few years."
+    },
+    {
+        "speaker": "B",
+        "text": "Wait, wait, wait, can we catch that? So you have produced 88,000 pages to the SEC. What is that? Is that sort of like discovery? Have they asked for."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, exactly. Document production. And I think perhaps most alarmingly, a lot of that document production is contributions to GitHub. Right? Show me your work on GitHub and contributions to Ethereum or protocols or clients or things like that. And it's not just us. And that's sort of what led us to take action in a lot of ways. We believe this action against us is imminent. But we've heard this throughout the ecosystem. It's been reported on that they've sent similar letters to the Ethereum foundation and individual open source developers. And for me, that was a bridge too far in what we'd be willing to passively tolerate while they went through their process. That's why I thought we had to stand up as a leader in the space, protect the developers who contribute to open source code."
+    },
+    {
+        "speaker": "B",
+        "text": "Matt, I really want people to hear that because this was actually, I skimmed the complaint. It's 36 pages. We'll include a link in the show notes. This is the complaint for injunctive relief. I might be getting the legal terms wrong, Matt, but like, it's, it's your case against the SEC, basically. And what was most startling to me as I skimmed through this, is of those 88,000 pages, the SEC is asking for a list of contributors from consensus, from other organizations that have contributed to EIP, that is, Ethereum improvement proposals that went into the ETH two merge. Right. You can see them trying to make a case that this isn't decentralized open source software with a permissionless open source and group, group of contributors. But, but it's somehow like, I don't know, some cabal, some centralized group that's actually running the show. And the level of detail that they're going to hear, it does seem like it's like they are going after directly open source developers in a way. And that to me was incredibly startling and shows the breadth of this. It's, it's, it's much far beyond just the metamask wallet. It's actually looking at Ethereum from an open source developer perspective and who's contributing and what codes go into eips. That was incredibly alarming to me."
+    },
+    {
+        "speaker": "A",
+        "text": "It's almost like the SEC believes they have a mandate to regulate technology. It's almost like they have a mandate to assess technology on its merits. This action is related to what they've told us they're going to sue us for. But it goes further. It focuses on the getting clarity from the courts regarding how the US should classify ether. That's something that we would not get if we sat on our heels and let the SEC sue us. Chair Gensler has been really careful not to contradict what has been said before, because that would be kind of ridiculous. But instead, to sort of gaslight our industry and act as though a reclassification has been done without actually doing that. There is a theory that we can get into that this is related to the shift to proof of stake, but."
+    },
+    {
+        "speaker": "C",
+        "text": "It'S a foolish theory, zooming out and kind of like identifying the pattern that I'm seeing here. First part of the details of this case we've mentioned in passing, but just to make it explicit, is that the SEC sent consensus a wells notice saying, hey, we intend to sue. And consensus is just replying to that with like, well, we're going to sue you guys first because we think we have a stronger case. That's kind of like how I'm reading this. And Matt, do you want to clarify something?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I wouldn't say that's actually accurate. So this is an action we've thought about taking for a long time, and so we've been thinking about this for a while. While they just so happened to send the wells notice in the process. The wells notice was. Was informative of the fact that we don't think we're dealing with a reasonable party who has allegiance to the law. You guys all saw the Coinbase wallet decision regarding their swapping feature. So to get a wells notice alleging that metamask swaps, which is was the leader in the space and was doing that thing first. So the Coinbase wallet facts are very similar, is violating the same laws judge just said did not apply to the wallet. That was perhaps another triggering factor in our decision to file, but we've thought their action was imminent for a while against us prior to the Wells notice. So this is something we've been preparing for and has been well thought out."
+    },
+    {
+        "speaker": "A",
+        "text": "One thing we didn't want to do is harm the prospects of the approval of the Etherspot ETF. And so while we could have started this action a while ago, we wanted to sit back and read the tea leaves and make sure that if the SEC was going to open that floodgate, because it would probably change everything, that we did not get in the way of that."
+    },
+    {
+        "speaker": "B",
+        "text": "So are you saying by filing this complaint, you're thinking that the ETH ETF approval, like the SEC is just not going to approve Ethereum ETF. And that kind of factored into, we."
+    },
+    {
+        "speaker": "A",
+        "text": "Thought it was over, based on various communications that we have with people in the industry that they werent going to approve in 2024."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, the inverse is probably true, Ryan. We thought that we wouldnt need to bring the Ethereum action if the SEC was going to approve the Ethereum ETF, because thats your best evidence to say, look, Ethereum is obviously not a security. This is just another instance of the SEC saying its not interproving the ETF's, which would be a commodity based ETF product. And so that was really what we were thinking about in relation to, you're."
+    },
+    {
+        "speaker": "B",
+        "text": "Kind of just waiting for them to do the right thing and hoping that they would. And they did."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, that is a very good description."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And if they did the right thing, as I said, it would open the floodgates similar to how the bitcoin spot ETF affected our industry quite positively. We would see the rush of, of lots of capital into and attention on our space, and that would be a game changer, I think, for the ethereum ecosystem, it would be something that would be likely to grow the ecosystem bigger and faster than it's grown before, and effectively, there'd be no gaslighting at that point."
+    },
+    {
+        "speaker": "C",
+        "text": "Right. And it's been pretty clear from the actions that we're observing of the SEC that they just don't want that to happen. Uh, and so there's like two elements to this case that I'm seeing. There's like, the narrow things that the SEC is accusing consensus of. Like, uh, your guys is like, metamask is a broker dealer, is something that they are accusing or, uh, believing that that is the case. And of course, metamask disagrees. Most people disagree. There's evidence to say that that disagrees, but that's like the narrow case between, uh, uh, consensus versus the SEC. But I think you guys are also kind of just like, uh, zooming out and seeing the pattern of the SEC as a whole, including the information that they are not disclosing the cards, that they are keeping, uh, close to their chest, which is the pattern, which is that like, Joe, I think you said it very well. The SEC is trying to unplug the United States from Ethereum. That is not something that they have said that they are doing. It's not something that they are articulating that they're doing. But with all of the evidence of the other court cases and the behavior of the SEC, I think this is something that you guys have believed that you guys have enough evidence for to present in case of, uh, in a, in a court case. Uh, and so this is actually kind of like the bigger battle. Uh, it seems to be like consensus, uh, believes. And, Matt, check me if I'm wrong, that there's enough evidence out there to show that the SEC has some unspoken mandate to unplug the United States from Ethereum and that we can actually, like, push this as an issue into court and get a judge to actually, uh, agree with your guys's position. Uh, and if that is the case that you guys do prove this, what, what's the outcome of that, Matt? Like, how, how does that improve things?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, so our case doesn't really rely on the overall narrative, because we can just look at the isolated facts regarding their involvement in Ethereum. We can look at their multi year investigation following the Hinman speech about Ether, following the CFTC position about Ether, following the fact that it's been around for so long. Why don't you just say, this is sort of the point some congressmen have said in the past few days, after learning about this, if you've changed your position on Ether, why don't you communicate that to the market? Why are you doing this in secret? This is a $400 billion asset class. This is no way to conduct business in the United States. But our case doesn't rely on the overall narrative. So we'll take the position, and we believe the court will agree with us that it's appropriate for the court to declare that ether is a commodity, and therefore, all SEC investigations into the asset ether. And as a result, things like their investigation into who contributes to the open source code would be outside agency authority because they don't have authority to regulate assets that are not securities. And so we think that will be very impactful. And similar to the judge Fayla opinion regarding Coinbase wallet, explaining that broker dealers laws do not apply to software interfaces that do, the types of things that metamask does and most popular Defi apps do. Getting another judge on the record looking at that issue and saying, yes, I agree with what Judge Fala said, this is correct, will be another line of defense for the industry to the extent the SEC continues to try and file these cases that are outside the scope of the law. So we think it'll obviously be helpful for us, but will help set precedent for a lot of other companies in our industry."
+    },
+    {
+        "speaker": "B",
+        "text": "But, Matt, the outcome of winning the case is you would get a judge to say, get a court to say, ether is not a security, it's instead a commodity. And non custodial wallets like Madame ask aren't brokered dealers. That's the outcome you're trying to argue for."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, that's correct."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. And if that is achieved in a court case, it's like, tell me, how does us law work? Is it done then? Are we kind of finished, or does this get escalated? Can the SEC somehow appeal? And how long does this process typically take?"
+    },
+    {
+        "speaker": "D",
+        "text": "Parties can always appeal, and we can always hope that it will be finished in the sense of just like we said when we saw the Faila opinion about Coinbase wallet feature, we said, hey, they've been investigating us about the very same thing that they just lost on. It's done. Obviously, they didn't think it was done. So, you know, judicial interpretation and precedent relative to agency action. I think if you are an agency and you have adherence to due process and you're acting in good faith, you're going to look at those decisions and say, hang on, let me, let us take a step back from our regulation by enforcement approach. Maybe this isn't working. We're not getting the results we want. We need to either do rulemaking, notice in comment, rulemaking, good agency practice, or what probably needs to happen as discussed in our complaint. We need to go to Congress and say, Congress, we don't have the authority to sort this out. The courts have said we don't have the authority. We think there needs to be some regulation. And let me be very clear, consensus is not anti regulation. We think there's lots of room for good regulation to help improve the crypto space. But that's for Congress to sort out at this point, not for one agency to declare itself police of the open source Internet and regulate the entire stack. So how does the process unfold? We hopefully win in Texas. That will be a win in the sort of win column for the crypto industry. To get to the higher courts in the US, you need something, most often what's called a split circuit on issues. So the court in Texas is, resides in what's called the Fifth Circuit. The courts in New York reside in something that's called the second Circuit. And so to the extent the Second Circuit and Fifth Circuit disagree on issues of law, that is how you get to higher courts in the United States most quickly, most often. And so you can deal with the court of Appeals and potentially ultimately get an issue up to the Supreme Court if it's big enough so for example, how his application to crypto is Howie, the right test? Does Howie, even the right law, should it exist? People have sort of been theorizing, how does that happen with crypto? How does it get to the Supreme Court? It's a many year process and we're hopeful that people will see reason before dragging it out all the way that."
+    },
+    {
+        "speaker": "B",
+        "text": "Far, what that means. So you win, like let's a many year process to get all the way to the Supreme Court if the sec sort of digs its heels in. But like, what's a happier scenario? You win this case and maybe SEC just backs off. Could that happen?"
+    },
+    {
+        "speaker": "D",
+        "text": "That could happen. It could certainly change their approach. Like, look, I think everybody has been pretty sober about the fact that this has been the approach from this SEC and this sort of chairs agenda regarding the crypto industry. As Joe said, he said lots of negative things about the crypto industry after being a professor teaching about it for a while, I guess perhaps somewhat ironically."
+    },
+    {
+        "speaker": "B",
+        "text": "That'S in the complaint. By the way, there are clips, if you haven't seen this bank listener, there are clips from Gary Genslere, MIT Professor Gary Gensler acknowledging like, you can go watch the video, acknowledging that ether is not a security, ethereum is not a security. As well as like litecoin. I think he lists bitcoin cash. He says, go watch the clips. This is from recent history as well. Matt, was it like 2018 or something like this?"
+    },
+    {
+        "speaker": "D",
+        "text": "It was sometime around that era when he was a professor at MIT. And these things just sort of point out why we had to take this action for a while. We felt like we were living in a bit of, you know, like a Looney Tunes type scenario. Like what? Wait, you mean you're going to change? Youre going to flip flop? Youre going to flip flop this way, whats going on? Court says this now youre going to say the opposite thing. Weve seen alarming things like the debt box case where some SeC professionals were sanctioned. It was all too much for us. And that was sort of the, that paired with the imminent of their attack on us, which led us here to try and get the clarity. I used the phrase, to borrow a phrase from Chair Gensler, cop on the beat. Chair Gensler. That's one of his phrases regarding crypto, that it needs a cop on the beat and he's there to be the cop on the beat. We view ourselves as the cop on the beat. Now, in this scenario, the cop on the beat to regulate agency overreach and to help clean this up and try and bring a resolution."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, so, Matt, let's do a scenario here. Imagine you're making the case in a courtroom, and you've got like two arguments to make. And again, I'm sure your case would be much longer. So we're looking for like a faster bullet point, abbreviated version, but you're making the case that ether is not a security. Okay. And then you're also trying to make the case that non custodial wallets like metamask aren't broker dealers. Let's start with the first. Ether is not a security. What are the bullet points of that case for a courtroom to hear?"
+    },
+    {
+        "speaker": "D",
+        "text": "The Ethereum protocol and the ether asset, which is needed to use the protocol, is just an open source piece of technology. It is decentralized, sufficiently decentralized. As Bill Hidman said, no party exerts control over the protocol. Development is done in public. To the extent you think that development could impact asset prices, that's no different than other large commodity industries, gold, diamonds, etcetera. And so we think there are great similarities between. Oil is probably the best example as a consumptive commodity that people invest in but also use in daily life. Ethereum is just another version of that, and a very important sort of iteration of open source Internet protocols. And so that's the core legal argument. But I think it's even easier than that. It's not a security because the CFTC has already done the homework to say it's a commodity. The SEC has already done the homework to say it's a commodity. One chair's sort of post hoc review of that process and his attempt to rewrite history will fail because for the factual reasons, it's not a security, but also because lots of people have done their homework and reached the same conclusion."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, Matt, here's what I don't understand. We have ETF futures for ether, the asset that have been CFTC blessed. And the CFTC governs over commodities, right? Like, is that evidence that just says basically this is already recognized? Like ether, Ethereum is already recognized as a commodity."
+    },
+    {
+        "speaker": "D",
+        "text": "That's certainly evidence, but there's even better evidence than that, Ryan, that's talked about in our complaint in October of 2023. So just last fall, the SEC accelerated the effectiveness of Ethereum futures ETF product. And so that was a big thing. That was the sort of, again, it didn't just go effective, the SEC accelerated the effectiveness. So that's them taking an affirmative step to again list a futures based Ethereum, futures based ETF product. They can't do that. If they don't view it as a security, if they view it as a commodity and they have a standard, and hopefully I'll get it right in this sort of brief. But to do that, accelerated approval, they have to take in the public interest and investor protection. That's the legal standard they're held to in October. In doing that, they're saying, hey, we're going to approve this, and we're taking in public interest and investor protection in doing this. And now a few months later, they're going to say the asset that they just said was fit for approval as a commodity based futures ETF product is actually an unregistered security. Please make it make sense. And that's why we're taking this action. Right? You have the history of CFTC and even the SEC all along the way telling you it's a commodity. And so it is very confusing."
+    },
+    {
+        "speaker": "B",
+        "text": "It feels like a reasonable judge would just look at this and just be like, this is so odd. Like, what are the like? Why are they about facing here? Why are they hitting the handbrakes here? Joe, do you have anything to add to that, to that first case? Let me get Matt to comment on the non custodial wallet like part of the argument, but on the just ether is not a security case."
+    },
+    {
+        "speaker": "A",
+        "text": "So the broader context is that our ecosystem is likely perceived as a threat by factions within the US and other parts of the world to how they have been doing business for millennia. Certainly big banks in the US dont love the idea of disintermediation and decentralization. Weve had a millennia of authorities governing the world, and the US is top dog right now through intermediaries and the decentralized protocol industry comes along and says, disintermediate all the things we can build better systems and reduce the need for trusted third parties. And there is a concerted effort, it appears, in the United States, to make sure that they can conduct business as usual. There are certainly factions that believe that decentralization is consistent with free market capitalism and western liberal democratic philosophies. And perhaps that's why we're in this sort of quantum state where certain entities are seeing things clearly. The court's judicial system, the CFTC has been seeing things clearly, the previous SEC administrations, how things reasonably clearly. But the current ruling party seems to want to preserve their ability to run the world through different kinds of intermediaries, financial intermediaries in particular. And it does appear that the major banks in our industry who've worked really hard to get their hands on levers of control would prefer to continue winning in that context rather than playing a little more fairly in a more decentralized context."
+    },
+    {
+        "speaker": "C",
+        "text": "Joe, one of the big mysteries I've always had about Gary Gensler in the SEC is where does he get his confidence from to go toe to toe with some of the biggest."
+    },
+    {
+        "speaker": "A",
+        "text": "I say that all the time. Why does he feel like he has cover to do this? Who's giving him the authority or the mandate?"
+    },
+    {
+        "speaker": "C",
+        "text": "And between me and Ryan, I'm the one who's very willing to put on the tinfoil hat and go out there. And so I'll do that. Here is the big banks, the incumbents, rather than just looking at the narrow details, you can kind of zoom out and see just incentive structures in the old world that doesn't want things to change. This is a pattern throughout human history, is that the people that are in power don't like change because that's disruptive to their status quo. Uh, and um, like there could be some sort of pipeline between the incentives of those power structures into the current political party that put Gary Gensler in power in the first place. And that is like the perceived blank check that Gary Gensler has to do some of the things, the harassment that he's done of this new power disrupting industry. And so like, is that kind of where you're saying like where he gets, he has this like blank check from incumbent power structures?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. With conspiracy caps on. One has to wonder, first of all, he's a very smart individual. His brother Robert, we understand, is very smart and possibly libertarian."
+    },
+    {
+        "speaker": "B",
+        "text": "Possibly owns some crypto. I mean, possibly owns some crypto."
+    },
+    {
+        "speaker": "A",
+        "text": "And so thanksgiving at that family's dinner table should be just fascinating."
+    },
+    {
+        "speaker": "C",
+        "text": "Brother, why are you cutting my bags?"
+    },
+    {
+        "speaker": "A",
+        "text": "I would love to be invited to that. So, very smart politically, been engaged the top tiers of the financial industry at Goldman, at the CFTC for a very long time. Was he smart enough to position himself to be a, an MIT professor, an expert of blockchain by himself, or was that coordinated in some way to give him legitimacy to take the role? He's also done some research on AI and I think he's written some things. So either way, we find ourselves in this position. And as you're aware, Elizabeth Warren has been placing people in positions of power in the current administration. John Deaton, who is now going up against Elizabeth Warren, he referenced on, I think it was Fox business a few days ago that there's an entity called the Bank Policy Institute that I don't really know much about, but apparently they're a banking industry think tank. So all he did was reference that. And so I started paying a little attention to them. On the Internet, there is a coordinated effort involving Elizabeth Warren and those banks that she used to attack quite strongly to make sure, again, the banks can continue to operate business as usual and the us government can continue to operate business as usual."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm not usually on the tinfoil hat side at bankless. David has that territory covered for us. But I got to say, just observing sort of what's been happening with crypto, it's hard to not see this as part of a coordinated effort against crypto. It's almost as if Gary comes to chair, chairman of the SEC, and he's sort of tapped by somebody, some group, basically says, hey, what can you do to just like slow this down? Right? I'll work with these other agencies and like, we'll do other things to slow it down. But the SEC, like, how can you gum up the works, right? You throw it in the court system. Like, what can you do here just to buy us more time to figure out how we fully stop crypto? I mean, if that conversation happened either explicitly or implicitly, we would see the actions essentially that Gary Gensler is taking now. And it would be a rational explanation, because apart from something like that, it is hard to find a rationale explanation for not only the actions he's taking, but the degree of confidence that he is taking these actions with. As you and David were just saying, Joe."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So slowing it down is one thing, and maybe it's not even a terrible thing. So slow it down for the benefit of big financial institutions so that they can get involved. Or maybe slow it down because the, the discontinuity that we could face if the platform and ether, the token just rocket from here as a result of the floodgate of the Etherspot ETF being opened, that could be pretty jarring to a society. Maybe these kind, wise souls who are running the government are just thinking about smoothing the transition to a rigorously decentralized future. I dont think thats true. I think more likely theyre trying to maintain the structure of control in the US and across the planet and try to figure out how to co opt the technology and dumb down the technology and make it either an american style decentralization where you got to register and there's significant regulation and backdoors and things like that. It's basically a clash of civilizations at this point between those who want to maintain top down command and control and those who believe in rigorous decentralization 2023."
+    },
+    {
+        "speaker": "B",
+        "text": "And 2024 has certainly felt like that. I want to get back to Matt in the court case, he was making the conspiracy hassle. So we got to take that off, because these are things that may be going on and, like, are likely, are likely going on, but we can't prove them necessarily. We don't have the evidence of kind of the backroom conversations necessarily. So Matt's role is to bring evidence to the courts to prove that ether is not a security. And also, the second aspect that I want to get to that non custodial wallets aren't a broker dealer. So, Matt, what would you say, uh, to a judge about, like, as evidence for why or your, what, what's your case for why metamask is not a broker dealer."
+    },
+    {
+        "speaker": "D",
+        "text": "So I think just very plain and clear, non custodial wallets themselves can never be broker dealers. If you think about what they just do, they're. They're self hosted software that lets you manage your private keys and author transactions. Can't be a broker dealer under any sort of conception of. Of the law or history of broker dealer laws. More specifically, even better for the industry services that have developed around utilities like swaps or metamask staking, which allows you to connect to the lido and rocket pool protocols. So if you want to participate in those protocols as an individual user of metamask, you can use the metamask staking feature and connect with those protocols. The SEC says that mere connection to Lido and rocket pool, two services they allege are offering unregistered staking products, is broker dealer activity. And so why is this all wrong? For the reasons that you all touched on it in the conspiracy segment, which is that the world has evolved around intermediaries, and the government and our history of laws regulate intermediaries, and for good reason, right? Intermediaries are historically where things have gone wrong. If you think about the number of transactions that happen through metamask and then imagine that happening through a human, what would the propensity for fraud be? Be very high, right? Because it's not autonomous, it's not software enforced, it's not transparent, it's not auditable, it's not verifiable. You would think that you'd get screwed in those transactions, probably high number of times. But software is different. It's disintermediated. And all it's allowing is a technology service for a user to transmit instructions to their own instruction to where they want. I want my instructions to go to Uniswap, and I want to tell Uniswap I want five USD for a corresponding amount of tokens I'm willing to sell and verify that logic is actually happening and being enforced exactly how the user said on the blockchain. And so why can these things not be broker dealers? Because the broker dealer laws regulate human intermediaries that perform humanity. Discretionary acts. They negotiate on behalf of customers, they seek prices on behalf of customers, they custody customer assets. And of course our services and similar services offered around the industry don't do that. Right? They're software based, they're non custodial. They rely on code. They are not exerting the authority that the broker dealer rules, for good reason seeks to regulate because it is not needed in this context. And I think that's what Judge Fela in the coinbase wallet really sorted out. You know, she said like, hey look, this thing doesn't a very preliminary stage in the case. This is software. This isn't regulated broker dealer activity, aka human activity in some way. They're not doing broker dealer things, they're doing technology things. And that's not what these laws are meant to regulate, Matt."
+    },
+    {
+        "speaker": "B",
+        "text": "It's just software. And also what I can't get my head wrapped around. And this is just like the layman's conclusion. So I have, let's say a hardware wallet, ledgere wallet, and I use that with, with metamask. I have custody of my property the entire time. I'm not giving that custody to any third party intermediary. There's, there's no kind of like broker in that entire transaction any more than like a vault I might have. Somewhere in my house is like a broker dealer. That's just a place where I stole, I storm store my assets. And so like, that part just doesn't pass the common sense person on the street test in any way. And back to Joe's comment, I want to give people the sense of what it would mean if all unhosted wallets, if all non custodial wallets were labeled as broker dealers, because it would be pretty severe. Joe earlier in the conversation said, if Metamask is a broker dealer, then all software on Ethereum has to come into the SEC and register. What's the alternative? So let's say the SEC wins. In their world, all non custodial wallets are broker dealers. What would that actually mean for all of the stuff that we have on top of Ethereum today?"
+    },
+    {
+        "speaker": "D",
+        "text": "I think from a legal perspective, I'll just answer and say it doesn't have to mean anything bad per se, but it does, because we haven't done the rulemaking and we haven't done the homework. If the SEC wanted to create a framework such as those previously sort of developed by Commissioner Peirce, you know, a former guest of the podcast, and I think crypto industry favorite people have had ideas of how do you regulate these things in ways that don't block the technology. The problem with the SEC's approach is to say, hey, I want to classify this thing as a security or a broker dealer, and then not promulgate any rules for that technology to work. Because, again, those rules, historical rules, require intermediaries, they require transfer agents and all these humans, and they require things that the SEC has not provided guidance or rulemaking on, including the guidance or rulemaking to even register. You couldn't register ethereum today even if you wanted to. You couldn't register a token. It's very confusing. Despite what the, what the administration has said, you can't just come in. It's not a form on the website. You can't just come in and talk to us and register. Many, many legal hours have been poured over trying to figure that out. So it's not catastrophic to the extent we develop a framework, but there's been a refusal to develop that framework, and I think that's a huge problem."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So if the SEC wins, apparently we could purchase ether, or at least custody, maybe our ether at an organization called Prometheum. Speaking of simulation, interesting name. Prometheum, rhymes with Joe."
+    },
+    {
+        "speaker": "B",
+        "text": "Can we just."
+    },
+    {
+        "speaker": "A",
+        "text": "One of my favorite protocols."
+    },
+    {
+        "speaker": "B",
+        "text": "Can we just tee that up for a second? Because I don't know if you have any takes on this, on what Promethium is. So it came on our radar. I was actually talking to David about, like, should we do a podcast on this weird Prometheum thing to try to explore and find out what it is. But it felt like a digestive journal exercise in journalism. But Prometheum and the guy who runs it, it seems like it's this exchange that has been given SEC regulatory approval to list ether, but list it as a security. And the CEO is making the rounds, basically saying, I have the only registered crypto exchange, like only in America, only trade ether. And on my exchange, I'm calling Ethereum a security, and therefore it's a security. And look, everybody, I can get a registered exchange in the US where everyone else in crypto says it's impossible. Aren't I a good boy? All of these things. Meanwhile, he has no liquidity. Like, no one's using it, no one's there. It's a really bizarre story. I don't know if you have any takes on what this thing actually is. Bankless folks can go find their own information about it. But do you have a take on this?"
+    },
+    {
+        "speaker": "A",
+        "text": "I think it might be an attempt to create an american style decentralization. A limited version of using these protocols enable tokenization. Larry Fink likes the idea of tokenization. I hope Larry Fink and Blackrock really like the idea of radical decentralization. Matt, can you make any sense of how they could possibly have approved Promethean?"
+    },
+    {
+        "speaker": "D",
+        "text": "So maybe it's my turn for the tinfoil hat."
+    },
+    {
+        "speaker": "B",
+        "text": "Here we go. Yes, we get the lawyer."
+    },
+    {
+        "speaker": "D",
+        "text": "Yes, Shadow super lawyer. Chair Gensler is actually brilliant in a lot of ways. In many ways, he's a very smart guy. People who know him, nobody will dispute that. He's extremely smart and well thought out. The Prometheum approval, which is just approval of a narrow sort of purpose. Broker dealer, the only one who's received such approval to deal in crypto, I think is factually correct. So many have applied, but only Prometheum has received this approval, dropped just a few days before, Gary Gensler testified before Congress on the need for crypto regulations as a convenient way to say, hey, we don't need regulation. We've approved these things. They just have to come in and register. Just like my friends here at Prometheum."
+    },
+    {
+        "speaker": "B",
+        "text": "And he gave testimony. The CEO of Prometheum gave testimony in front of Congress."
+    },
+    {
+        "speaker": "D",
+        "text": "Exactly. And tracing it back to our complaint, this is something Congress has picked up in the past few days. Chair Gensler went before Congress to testify about the need for crypto asset regulation again in 2022. If you look at the timeline in our complaint, as we talk about the Ethereum order, sort of this order deputizing the staff to go after sales and trades in Ethereum as a securities transaction. Mere days before he appeared before the Congress and had that infamous exchange with McHenry where he refused to answer whether ether was a security. I will leave it to you to interpret whether that all of these timing things are coincidences. Notably, right before Paul Grewal was set to testify, Coinbase gets hit with a lawsuit. Right? So, you know, there's, there's, there's one instance coincidence, several instances, maybe part of a trend, part of a plan. And so Prometheum could just be a pawn in this sort of, let's just try and slow things down. Let's try and convince people."
+    },
+    {
+        "speaker": "B",
+        "text": "Here's the bizarre thing about all of this and why, like, I am convinced it'll they'll never, it'll never work. Like, they can't win is because no one wants to use that product. No one wants to use Prometheum. We already have a centralized financial structure in the US, and it's like, it's working great. People want to use metamask, they want to use Uniswap, they want to use the Coinbase exchange because it's like a five to ten x improvement. So, like, how can they win when no one's going to use their products?"
+    },
+    {
+        "speaker": "A",
+        "text": "They can win by chilling activity. Two decades ago, the Bittorrent protocol looked very promising. The Record Industry association of America, the Motion Picture association of America, began sending, I guess, cease and desist letters or taking children and their mothers to court. And that really put a chill on that technology. It continued at a low level for quite a while, but that was a decentralized protocol technology, and it effectively was rendered relatively harmless in the american context."
+    },
+    {
+        "speaker": "B",
+        "text": "For people who don't remember this time. I remember stories of somebody's grandmother who would receive a notice from, like, their ISP that their grandson was like, downloading illegal music and, like, a scary letter comes in the mail, like, with, like, fines and all of that."
+    },
+    {
+        "speaker": "A",
+        "text": "Someone, you know, Ryan."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, you know, we'll cut that from the episode."
+    },
+    {
+        "speaker": "C",
+        "text": "We've all had our limewire days."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, so, like, that's kind of the chilling effect that they could have. But, you know, back to, I guess, the broader conversation here, Joe, where you feel like this is maybe in the context that these cases are part of a coordinated effort to unplug the US from Ethereum? That doesn't mean Ethereum gets unplugged. It just means the US is less tapped into Ethereum. Our developers have to be shadowy super coders and go underground. Our entrepreneurs have to move offshore to different jurisdictions, but other jurisdictions will probably promote, will fill in the gap, will fill in the vacuum. Do you have any take on, let's say, things go bad, they get worse. Maybe we lose these cases, maybe something bad happens. What happens to Ethereum and to the crypto movement?"
+    },
+    {
+        "speaker": "A",
+        "text": "So currently, let's say the US is anti ethereum and in relation, other nation states are a little more pro ethereum because ethereum decentralization levels the playing field for those nation states against the US. Yet the us has a very long arm and can influence other nation states quite significantly. And it's a long game. This isn't about the next few years. This is about perpetuating the system for as long as possible in certain people's minds. And so one could imagine, again, I said, it's a clash of civilizations. This is about whether decentralization, disintermediated systems are allowed to persist, allowed to continue to make life better, or whether they're stamped out in favor of the current system. We're in a world of so many threats, existential technological threats that are relatively inexpensive to acquire for small groups. From that perspective, you could see that it might make sense to people who like top down command and control because they can use very rigorous versions, very controlling versions, to stamp out existential threats to humanity. The problem with that is, even if they're well intentioned, we end up moving into something that feels a little bit like a prison planet or a planet of effectively slaves to the system, rather than building a world in which we all have much greater economic and political agency and where we can all benefit from permissionless innovation and access to financial innovation."
+    },
+    {
+        "speaker": "B",
+        "text": "Joe, I know no one listening wants to live in that dystopia."
+    },
+    {
+        "speaker": "A",
+        "text": "No prison planethood."
+    },
+    {
+        "speaker": "B",
+        "text": "We are definitely not team prison planet on bankless."
+    },
+    {
+        "speaker": "A",
+        "text": "But you are team bankless."
+    },
+    {
+        "speaker": "B",
+        "text": "We are. But here's the insidious thing is, even I was scrolling the bankless discord this morning, and someone said, I'm really excited to hear about kind of the consensus versus the SEC thing. But I got to be honest, you guys are having one show about regulatory issues per week, and it's hard for me to tune into more than one. And I feel like this is a. Almost like a DDoS attack against our industry. Okay, so, like, look at who the SEC is coming after right now. Just. Just look at it. What's happened in the last few months? It's Kraken, it's coinbase, it's uniswap, it's metamask. Right? Are these the bad guys that they should be pursuing? Are these the true crypto villains? It's absolutely bizarre, but because they attack on all angles, it feels like a DDoS attack. And what people are feeling is almost powerless to kind of respond. So people are frustrated because, you know, they get geoblocked. It's like Iran, North Korea, and America can't access a particular airdrop token. How bizarre is that? But they feel powerless. They don't exactly know what to do. So you could be like, I guess, you know, you could say something like, call your congressman. But, like, everyone know, I mean, you call your congressman. We're supposed to do that weekly. Where does that. Where does that message go? That's why we get behind cases like this, where it's so good to see consensus actually going on the offensive here rather than being defensive. And we can rally around that. But I think a lot of listeners want to know, like, what can we do? How do we support this? How do we keep our attention? Is there something we can do in this case? Do you have any advice for, just like the crypto native who's listening and feels very powerless, concerned, but also powerless."
+    },
+    {
+        "speaker": "A",
+        "text": "So, as one of our close colleagues, Pat Baraducci, likes to say, this is a special moment in time. When Ethereum started, I and other people realized that we were going to be causing a clash of civilizations. I'm sure Satoshi felt similarly. And we knew that we had to have heads down and build as much and as fast as we could, because when the people who run the planet realize what's going on, that they would not be able to run the planet through the levers that are currently in place, and that it would likely be a much better system for the 99%, they are certain to Balkan. This is great what's happening right now. All this regulatory scrutiny is great because it gives us an opportunity to share how powerful and wonderful the technology is and can be. And it gives us a platform, effectively, to speak with politicians and regulators, help them understand that it's not just this action. We need many, many actions to reform the laws in the United States and on the planet so that the world can embrace this technology. And so if we want it, we're all going to have to fight for it."
+    },
+    {
+        "speaker": "B",
+        "text": "This is the case that David makes to me when I'm feeling pessimistic about all of these things. He's always like, on the flip side, look at who they're suing. I'm like, look at who they're suing, David? And he's like, yeah, exactly. Look at who they're suing. It's some of our best companies."
+    },
+    {
+        "speaker": "C",
+        "text": "It's the avengers of crypto."
+    },
+    {
+        "speaker": "B",
+        "text": "They just sued Kraken, Coinbase, Uniswap, and metamask. Right? And now you guys are taking them to the offensive. And I guess that's the optimistic take. Maybe this goes to the Supreme Court. Well, that, that will cause a national discussion on what it means to own your own property, your own digital property. And, yeah, I guess that's, that's the positive way of looking at all of this."
+    },
+    {
+        "speaker": "C",
+        "text": "Matt, as we progress into the future with this court case, maybe you can simulate what this might look like in terms of, like, timeframes, milestones. Is there, like, a default scenario that you can kind of articulate?"
+    },
+    {
+        "speaker": "D",
+        "text": "It's going to be a multi year process, most likely. And frankly, it's largely up to the SEC as to where it goes from here. At this point, we are happy to be the plaintiff in the case and we've stated our case, and now it's up to them to respond. So in Texas, they've got a couple of options. It'll unfold, it'll be clear probably over the next 60 days or so which approach they're going to take. They may try and dismiss the case. They may say, hey, let's just argue the case here. We want to argue it about the merits, and we'll get into what you usually see and you've seen in the ripple cases and the coinbase cases in exchange briefs. Here's why they're wrong. Here's where we're right, here's why they're wrong. Here's why we're right. And then the judge hears the arguments and it progresses. And so we think the Texas case could play out over the next, let's call it one to two years, depending on timeline and how it goes. The SEC may also continue to file their own cases around the country. They seemingly have limited resources. Somebody joked to me the only people they go after are crypto and Elon Musk these days. So they have lots of trial lawyers sitting around, it seems like to deploy on these things and they can continue to bring their actions that they want. We'll see what Congress does. Does Congress get more active? We've heard a lot from Congress. Hey, we're going to clean this up. We're going to sort this out for you. They haven't done that yet. Congress is the quickest path to resolution. The courts are path to a final clear picture, but they're slower. And so hopefully Congress front runs this and we don't have to be so inefficient. We can focus on building, people can build confidently in this country. Joe talks about it all the time. It's a matter of national economic security, us involvement in ethereum, as you guys pointed out, these are all us companies that are leaders in this space, and they're trying to throw them out of the country and put them out of business. Doesn't make a lot of sense when you think about the big picture. And so hopefully people come around to that sooner, but if not, the court case will play out."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So I think the best we can expect is probabilistic finality as some of these cases make their way up towards the Supreme Court. And with gridlock in DC as Congress fumbles and tries to understand the technology and hopefully weighs in. In the meantime, these two civilizations are proceeding in parallel. Our civilization, the decentralized civilization, is growing quite dramatically in value and in number of participants. And so if we can keep things going in the US and other places, then our world can grow and hopefully grow really fast. Hopefully in 2025, the SEC is forced to approve the Etherspot ETF's. That'll be a game changer. And frankly, the legacy world needs to continue to operate and service the cohorts that are most comfortable in that world as more and more people spend their work and leisure time in the decentralized protocol ecosystem. So we can just grow our way into real finality."
+    },
+    {
+        "speaker": "C",
+        "text": "The grand irony of this whole relationship with the SEC is that, Matt, you talked about the SEC is seemingly infinite resources. Well, those come from our tax dollars, ironically. And also the thing that the SEC is preventing is GDP growth inside of the United States. So it's really a double whammy bullet to the foot that we're causing ourselves here."
+    },
+    {
+        "speaker": "A",
+        "text": "Another consideration is that there's so much debt in the system that the US and other nation states need to engage in financial repression, which means they need to pay off the debt via inflated currency devalued dollars. And they don't want a whole bunch of us escaping to a sounder, an ultrasounder currency, that they want us all to shoulder the same pain that has been caused over decades."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Yeah. Well, Joe, Matt, thank you guys for coming on and illuminating some of the paths for us. And also going toe to toe with, yes, EC on. I think some of the biggest issues that we all know are bubbling behind the scenes now. You guys are kind of bringing them to the forefront and making them explicit. So thank you for doing what you guys are doing."
+    },
+    {
+        "speaker": "B",
+        "text": "Let's do this. Let's win. We gonna win."
+    },
+    {
+        "speaker": "D",
+        "text": "We're definitely gonna win. We wouldn't have done it if we didn't think we were."
+    },
+    {
+        "speaker": "B",
+        "text": "There we go."
+    },
+    {
+        "speaker": "C",
+        "text": "Beat of it."
+    },
+    {
+        "speaker": "A",
+        "text": "Big wizard, right on track."
+    },
+    {
+        "speaker": "B",
+        "text": "Awesome. Well, thank. Thank you guys. This has been great, guys. Got to remind you, bankless nation, of course, none of this has been financial advice. I guess Matt would probably want me to say it's not legal advice either. Crypto is risky. You could lose what you put in. But we are headed west. This is the frontier. Not for everybody, but we're glad you're with us on the bankless journey. Thanks a lot."
+    }
+]

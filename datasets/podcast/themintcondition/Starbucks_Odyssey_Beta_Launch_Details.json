@@ -1,0 +1,978 @@
+[
+    {
+        "speaker": "A",
+        "text": "This episode is brought to you by Degen Network, the only community based web three media network bringing you the very best content in the NFT and cryptocurrency space. Please visit dgen.net work and check out our other great shows. That's Degen dgen.net work. Welcome to the future."
+    },
+    {
+        "speaker": "B",
+        "text": "On today's show, we'll talk Clonex, fud or cool. We'll talk blur, airdrop, ledger stacks, Starbucks beta, and cock punch. Let's get going. Sorry, what? Amateur hour. Hello and welcome to the mint condition. I am bunchu, alongside my esteemed colleague and co host, Chamber. We got des somewhere out here, but chamber. How you doing, buddy?"
+    },
+    {
+        "speaker": "A",
+        "text": "I'm doing pretty good, man. I got my Canada dry cranberry festive, you know, it's a limited edition during the holiday season. Do you get these in the United States? Cranberry Ginger ale by Canada dry."
+    },
+    {
+        "speaker": "B",
+        "text": "You know, I don't know. I assume so. We probably have them."
+    },
+    {
+        "speaker": "A",
+        "text": "That's how you know Christmas is coming."
+    },
+    {
+        "speaker": "B",
+        "text": "I have a San Pellegrino, italian sparkling water."
+    },
+    {
+        "speaker": "A",
+        "text": "Seattle, one of my faves."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, this one's. So we're just not sponsored by either of these. We're just. Just two chaps drinking fancy waters. That's how this is starting out. Here we have Des. I think hopefully maybe he is currently roaming the streets of California looking for some, just a couple ounces of Wi Fi to get us through the day. But we are ready. We have an action packed show. Before we get started. Let's go through the normal calls to action here. Please like and subscribe down below. Give us a like give us a subscribe. We appreciate it. Get notified every time we go live. Set up yourself to receive the DJEn Network newsletter on the DJ Network website. We've got all kinds of awesome content and I articles going out there all the time and shouts to our other shows. We have a full roster of content for you all week starting on Mondays, Monday through Friday. Coffee with captain 08:00 a.m. to 10:00 a.m. followed by the night shift Mondays and Fridays, airdrop sports report on Tuesday evenings. Mint condition now. Monday spaces Wednesday live show Friday spaces. Holy moly."
+    },
+    {
+        "speaker": "A",
+        "text": "How do we do it?"
+    },
+    {
+        "speaker": "B",
+        "text": "Who signed us up for that? I don't know. What the hell. Thursdays we've got alpha afternoons and Fridays. Belove and Julesy. We've got a full week of content for you every week. So check us out there. And like I said, TMC now doing Twitter spaces both Monday and Friday at four to 05:00 p.m. if you haven't been joining us on Twitter spaces yet, what are you doing? Come find us there. It's the better show podcast only. It actually is the better show. This is a good show, too. I was actually looking today into good ways to make Twitter spaces into podcasts because I know we've struggled with that in the past. But if I could find some good solutions, I think I might actually have found something fairly easy to do. If I can find some good solutions, we will put those out as podcasts as well for the people to give them what they want. I don't know. Should we check on Des or should we just get rolling here?"
+    },
+    {
+        "speaker": "A",
+        "text": "Let's, let's check in, see what he's doing."
+    },
+    {
+        "speaker": "B",
+        "text": "We're going live to our man on the street, Des, with palm trees in the background. Des, how you doing, buddy?"
+    },
+    {
+        "speaker": "C",
+        "text": "I'm doing good. It's freezing out here."
+    },
+    {
+        "speaker": "B",
+        "text": "He's got palm trees in the background. His face is frozen. I can hear him very well, but he's, he's freezing in the frigid 60 degree weather of California. That's not something I was ready for today. But do you have any sympathy chamber for those people, the Californians, who say that 60 degrees is cold?"
+    },
+    {
+        "speaker": "A",
+        "text": "Like, if frustrated? It frustrates me so much. Des came on and I honestly thought his background was like, a fake background, and it is not. It is beautiful scenery. I have to figure out how to move to California. I think at the end of the day, that's, that's where I need to be. So I don't know, maybe Des could let me live at his house or something or, you know."
+    },
+    {
+        "speaker": "B",
+        "text": "I agree. We've got a, we've got a sup from Josh Shermer horn. We also got a like and subscribe from Josh. So the horn. The horn. The horn. Antifex JM GM Chris captain says the chamberlain equals all sins forgiven with the slow open Dow Jones. I guess Des didn't make it back from court from last week. That is, that's called a callback for those of you keeping score at home. Nice callback from Dow Jones. Every time I see Dow Jones as pudgy penguin, I, I get jealous. I actually went, I actually went perusing and shopping for pudgy penguins today for the first time in the history, in the history of pudgy penguins, the first time I've ever actually given them a serious look this morning. So what's, what's a floor price for."
+    },
+    {
+        "speaker": "A",
+        "text": "One of those things? Right off, I want to pick one."
+    },
+    {
+        "speaker": "B",
+        "text": "Up why don't you guess this is a good way to start the show."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, you know, we're in the. We're in the heart of the bear market, so I can't imagine it being, you know, that, you know, that expensive. I'm going to go with 1.25."
+    },
+    {
+        "speaker": "B",
+        "text": "Des, you got a shot at. While you're walking around here, you want to take a shot at what the pudgy penguins current floor is?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think I know it, which is 4.25, something like that."
+    },
+    {
+        "speaker": "B",
+        "text": "It is around 4.2 ish, 4.1. It is currently trading around all time highs. So, you know, the pudgies are pumping and sounds like a good time for."
+    },
+    {
+        "speaker": "C",
+        "text": "Bunch you to jump in."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, you know, I love buying at all time highs. I am the resident top buyer of this podcast. But, you know, truly, though, I've been listening to Luca more and more on some. On some podcast appearances he's been on. And, you know, you buy into, I think, founders and teams in this space more than anything if you're looking for long term holds. And I've just been more and more impressed with what they're doing. And, you know, I've actually started, like, thinking about how I want to diversify my holdings long term from, like, different types of projects. Right? You got like, oh, look at you, Des. You're always rocking the Starbucks. I'm loving it. This is great."
+    },
+    {
+        "speaker": "A",
+        "text": "Is that what a Starbucks looks like in California?"
+    },
+    {
+        "speaker": "C",
+        "text": "I am going to be more bitter than a bed full of freaking Brussels sprouts if I don't get access to this damn thing tomorrow. Bunch."
+    },
+    {
+        "speaker": "B",
+        "text": "Who?"
+    },
+    {
+        "speaker": "C",
+        "text": "I am your best friend on this podcast, besides chamber and I deserve a spot."
+    },
+    {
+        "speaker": "B",
+        "text": "So here's the thing, Des. If you would have paid attention to the multiple pings that I've given inside the DJ network discord, you would have known that you would be on the list, but you likely didn't fill out the appropriate paperwork, and you will probably be left out. But I will. I will get you in for our next round. If you're not in tomorrow, I don't know if you filled out that google form I sent out. You're on the list. So I tried to fill it out. You're maple syrup blood."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. You're excluded. But either way, Des, if you're not on tomorrow, I'll make sure you're on for the next, uh, next little wave here."
+    },
+    {
+        "speaker": "A",
+        "text": "Eating?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Des is eating Starbucks in a lemon lemon loaf. Oh, a little lemon lemon loaf."
+    },
+    {
+        "speaker": "C",
+        "text": "Cheese toasty."
+    },
+    {
+        "speaker": "B",
+        "text": "Cheese toasty. Very nice. Very nice. But, um, yeah, like, I said I've been trying to diversify the types of projects I've been in as well. So, uh, so what's the drink of choice there today?"
+    },
+    {
+        "speaker": "C",
+        "text": "We're going with a vanilla latte today. Hot vanilla latte. Because it's cold. 60 degrees."
+    },
+    {
+        "speaker": "B",
+        "text": "Is not warm. No, but it's not cold. I mean, come on. The antifex says, reminds me I need to change my moonbird. PFP finally sold it off as a day one nester. So one congratulations on the sale to as a day one nester that just sold off a couple weeks ago myself, I feel you. I know the turmoil, the, the emotional roller coaster that these jpegs play on our hearts. So I will congratulate you on the sale because it's well deserved and the. Yeah, so, but what were you. You were going to ask me something chamber."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't even remember now. I get high a lot. I'm going to be honest. My memory."
+    },
+    {
+        "speaker": "B",
+        "text": "I think you were. I think you were going to ask me what the. I think you're going to ask me what the pudgy penguins like type of project plays in the portfolio."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, no, I was going to ask you how are you divide. How are you dividing your portfolio? You said you're kind of reworking it."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, like, I don't have a ton. That's like IP plays, right? Like pudgy penguins is definitely an IP play type of project. They're definitely going for the what I think maybe a cool cats wanted to be, but is seemingly failing at and I don't know, I've been listening to stuff with Luca and he's just like, he's like an assassin. So I'm starting to be a believer. Des, you're looking good. Now it looks like you've got some stable connection. So what is your current state of the NFT market as? How are we feeling? It's time for the Des heat check."
+    },
+    {
+        "speaker": "C",
+        "text": "Wow. Well, so, I mean, I. The hot topic we've been talking about, which is clone X, a lot of people are still very, very upset. So, you know, that's interesting. But I do feel like there's been some good releases lately, so I'm gonna go up. It's trending up is the way I go all circles."
+    },
+    {
+        "speaker": "B",
+        "text": "Wants to know if we got DES on the streets today. I asked you that as soon as I saw that you were in the public."
+    },
+    {
+        "speaker": "C",
+        "text": "This is a pretty freaking posh neighborhood that I am. That I am snuck into. I don't know if we're going to have anyone participate today."
+    },
+    {
+        "speaker": "B",
+        "text": "You don't think there's an ape holder that's at that Starbucks."
+    },
+    {
+        "speaker": "C",
+        "text": "There probably definitely is, given the amount of freaking lamborghinis running around. I guarantee you there's some ape holders next week."
+    },
+    {
+        "speaker": "B",
+        "text": "When you're at Starbucks, you can ask people if they've heard of Starbucks Odyssey."
+    },
+    {
+        "speaker": "C",
+        "text": "You mean the thing that I won't have access to?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah, that thing."
+    },
+    {
+        "speaker": "B",
+        "text": "That thing. We'll get into that. We'll get into closer here. So let's start. Let's get into some of our segments here. We're going to start with the new favorite that Des hates. It's Sus or bus. Sus or bus. Every time. Gets me every time. And we actually are going to start with the. With the topic that you just brought up, Des. We're going to start with artifact. We're going to start with Clonex. So we. If you give us a little TLDR on what's been happening in the Clonex artifact streets."
+    },
+    {
+        "speaker": "C",
+        "text": "So, you know, they. They released information that they're going to be dropping their first in real life sneaker from the artifact kind of Clonex pathway drop. And to everyone's surprise, there were two things. It's not included in the cost that you've already paid for your clone X and all their airdrops. You're going to have to pay some serious money for these kicks. And then on top of that, they are only able to be shipped to the US. So any customers or any holders outside the US will not be able to receive it direct to their door. However, they got a friend in the US, which I think a lot of the Clonex community is doing. They can get them shipped to the US and then sent overseas. But that has pissed off a lot of people. Like a ton of people. Shocking amount of people."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's really interesting. I think there's a lot to cover here. And we could actually do multiple rounds of Sus or bus just inside of this topic alone. So let's. Let's go first. Let's cover des, suss or bus on the fact that the monolith that, you know, unveiled this type of this. This essentially what ended up being mostly a mid pass discount coupon card. Right. To suss or bus on that part."
+    },
+    {
+        "speaker": "C",
+        "text": "I'm going to go Sus, even though it's not necessarily shocking news, because, like, I pay for these things somehow. I'm going to go. I'm going to go sus because it just kind of brings into the question, like, what's the point of holding their, you know, their category of NFTs now, because oddly enough, the discount, or whatever you want to call it, has now bottomed out on a floor level to where there's no advantage price wise, between public mint and private."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I agree with you there, chamber. Have you been following on this? What are you got a suss or bus call?"
+    },
+    {
+        "speaker": "A",
+        "text": "So I actually, I think I had multiple monoliths and, you know, artifacts at one point. I'm completely out. I think the fact that you don't get a free pair of shoes that you have to pay, you know, I don't think I'm sus on it, but I'm not busing on it either. I think a lot of, you know, some, some good projects will give you like, the free swag for holding an NFT. But I have, I've been in some where I've had to pay out of pocket for stuff. So it doesn't shock me that they do this. I do want some of these shoes, though."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, so, yeah, I will, we'll talk about the shoe in a second. But I think I'm taking, here's my take sus on, Susan. The fact that it was not communicated prior to the reveal here that they could not ship to the US. Super sus on that. Like, people traded these for multiple ETH expecting, you know, regardless of if it was going to be free or not, at least expecting to be able to participate. Right. So people. People."
+    },
+    {
+        "speaker": "C",
+        "text": "By, by bunch, you. You mean bunch, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. No, no, sure. Of course. Well, I mean myself, I don't really. I'm not that upset about it. Like, I get to, I get to buy these shoes on Monday and I will have a pair. I'll probably buy two pairs, and I'll probably keep one as a collectible and."
+    },
+    {
+        "speaker": "A",
+        "text": "Buy three pair and sell one to me."
+    },
+    {
+        "speaker": "B",
+        "text": "Fine. I can do that too. But, like, so, like the, you know, the, the reveal of this only being a mint pass, I guess, was. Yeah, it sucked because I bought the top, but, like, that's not what I would be upset about if I were a holder. Right? Like these things traded for ten months under the, like with, without really communication on what was inside. So the expectation was way higher than obviously what it should have been. The artifact was talking about. Hey, well, this was a free airdrop. Yeah, it was a free airdrop originally, if you, if you had a clone. But not everybody enters the ecosystem that way. And people buy and sell pieces of it where they can afford. And so, you know, I feel bad for anybody who is outside of the US that bought one of these thinking that they might be able to participate in whatever the hell it was regardless of me buying the top or not. I'll survive. I'm not worried about that. But I think the, the communication piece is what is super Sus. So that's, that's number one. Two, I think the shoe is. So the other thing that people are kind of sus or bus on is it's an actual artifact release shoe. It is not a Nike branded shoe. Is that. That has seemed to rub some people the wrong way personally. It was the first thing I noticed. And I think it's fine that it's not a Nike branded shoe. I think the technology in it is pretty cool. There's a lot of move to earn stuff in here, which is where I probably think that the non Nike thing came in. You know, if they're going to be releasing some kind of token around this, they probably wanted to keep it artifact proper and not Nike proper for probably legal reasons. But there's some really cool things that this shoe does. And they've been teasing these like, in real life quests that you can do. And, you know, this is potentially like the first kind of anti theft, auto verified shoe with know there's a lot of sneaker fraud in the sneaker head world. So I think that's pretty cool. So I don't know if I mind that they're not Nike branded, even though people were pissed because the. The monolith box was. Had a Nike check on it. Right. So, like, again, it needed to be. I think there need. There's clearly a communication issue here that needs to be addressed. And then the. The last piece on having to pay for the shoe, I don't think that's really that sus at all. Right. Like you're. I get it in the NFT space, you're used to, you know, kind of having this trickle down value and is this specific value exchange probably off? Yes, and I think hopefully they'll address that in the future. But I don't think that you should be expecting free in real life physicals from these projects. Like, it's. But again, it's all stems on the communication for me. So I'm going sus on the communication bus on pretty much everything else. I'll probably still buy a couple pairs of these because I think they're cool. I think they're significant. As far as like a historical thing, I'm a little concerned that the fact that they're just artifact, they, the supply might be a little high. Like, there's 19,000 pairs of these. I wonder if artifact itself can."
+    },
+    {
+        "speaker": "A",
+        "text": "Do you guys know what, like, a normal drop is? Like when they drop a new pair of, like, Lebrons or Kobe?"
+    },
+    {
+        "speaker": "B",
+        "text": "I'm pretty sure it's more. I'm pretty sure it's higher. I'm pretty sure it's, like, around 30,000 ish."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "But obviously, that stuff varies as well. But, like, I think a normal. So I think comparatively, it is a little less. But, I mean, let's be real."
+    },
+    {
+        "speaker": "C",
+        "text": "With all the fud around this, there's no way they're selling out."
+    },
+    {
+        "speaker": "A",
+        "text": "You don't think they're going to sell out?"
+    },
+    {
+        "speaker": "B",
+        "text": "Interesting."
+    },
+    {
+        "speaker": "C",
+        "text": "No chance. I don't think so."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, they are. They are pretty expensive. So, like, here you can see, I mean, there's the four tiers, and they're not cheap. So on top of, you know, having to buy the lace engine to get. And actually, I would think, des, you might be right if you actually look at the price action on the lace engine, right? Because, like, the way the mechanic is supposed to work is that if you hold the lace engine, nft, formerly the monolith two, you can essentially buy these in the presale for this discounted price you see on the left. Public sale would be this price on the right. So there's a slight discount here. But. But, like, if there was that high of demand for these, the lace engine would actually probably be being bought up, right? Because now they're at a spot where if people really, truly thought they were going to sell out, I think you'd see some more action on the lace engine rather than the, I would say, huge dumping that you've seen on it, so. But they're not cheap, right? You're talking $400 to $1,000 here for the different levels of shoe."
+    },
+    {
+        "speaker": "A",
+        "text": "And is. I can buy them an eth."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes."
+    },
+    {
+        "speaker": "A",
+        "text": "Which one? Which ones? Like, which ones are you guys going for?"
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, 100%. The stone. Stone is."
+    },
+    {
+        "speaker": "B",
+        "text": "I agree."
+    },
+    {
+        "speaker": "A",
+        "text": "I think. I think the stone is nice."
+    },
+    {
+        "speaker": "B",
+        "text": "Stone is nice. I probably want this one, though."
+    },
+    {
+        "speaker": "C",
+        "text": "You don't know. You don't."
+    },
+    {
+        "speaker": "B",
+        "text": "Space matters."
+    },
+    {
+        "speaker": "A",
+        "text": "Pretty nice though, too. I think they're all pretty good."
+    },
+    {
+        "speaker": "C",
+        "text": "How are you rocking that? I just."
+    },
+    {
+        "speaker": "B",
+        "text": "No, see, like, this one. This one would be the one. This would be the one I buy as, like, the collectible pair to hold. You know what I mean? Like, if I'm buying two, I'm buying a stone to wear. And the one."
+    },
+    {
+        "speaker": "C",
+        "text": "The one thing I'll say about the. The co branding thing, like, if you look at Nike's, other partnered brand or own brands like converse. I mean, you don't really find a Nike symbol loud and proud on a converse shoe. And similarly to how they're trying to make artifact a converse."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, Jordan. Isn't Jordan a Nike shoe? Technically, yes."
+    },
+    {
+        "speaker": "C",
+        "text": "And for the most part, it's the Jordan logo, especially on, like, the newer release stuff that they have, not the, like the legacy Michael Jordan brands, but, you know, they don't really have the Nike swoosh prominent there as well. So, you know, I don't think that, I don't think that really matters. If everyone really cares about the details. Like, on the very soul of it, where they establish the Nike air technology, it does say Nike. So there's that callback to being a Nike shoe. Yeah, I don't think that's that big of a deal."
+    },
+    {
+        "speaker": "B",
+        "text": "But the fud, I mean, the fud is, is rampant. It's, it's, you have these high holder, high, you know, profile holders with big bags saying that they want out. You know, d farmers, one of the larger whales in the space, basically saying he's out on this because he can't purchase or have them shipped to him because he's out of the country. And, you know, I think that criticism is fair. Right. Because you got, like, I think you have to communicate this stuff prior. Like, you, you can't. I mean, I don't know. It just seems like such a miss with, why do we see comms as such, as literally the hardest part of any of these projects? Des, what is your take on that? Like, it's literally the theme that we talk about on every damn show that we do."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. I don't have an answer for you. I will say the bigger the project, the worse the comms seem to get. So just maybe the bureaucracy and just kind of the hurdles, the red tape hurdles that you have to deal with when you're a bigger brand. But it seems to be the issue, like, the bigger the NFT project, the worst comms they have, which is pretty crazy."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And I think, I mean, that's probably like most things, most companies in general, I think, but. All right, so that was our first Sus or bus. We've only got one more Sus or bus here for the day is, and this is a interesting thing that I just have come across thanks to V squared, our wonderful producer. And it is a platform called Super Spaces and super spaces, as we are now experts in the Twitter space environment. After doing two, count of two entire hour long Twitter spaces, V squared came across this as a Sus, or bus, basically analytics for Twitter spaces, but with a leaderboard. So you've got this leaderboard. Are people just trying to climb this and not at any value by host? Like, you know, spaces, it breaks down listeners reactions during spaces. Shows you exactly who joined every one of your spaces for how long. And it says here that they let you export all your audio transcript and audience data. Chamber. You hear that?"
+    },
+    {
+        "speaker": "A",
+        "text": "I'm listening."
+    },
+    {
+        "speaker": "B",
+        "text": "So it seems. It seems like an interesting platform. I mean, we've talked a lot on this show and just privately about Twitter spaces being kind of the next big wave. Here you can apply for early access. See, like, check out this screenshot chamber up in the top where you can kind of clip your. Your stuff. Here it says you can your transcript and all of this. I think we need to get this on caps radar ASAP if he's listening. So it's super spaces AI really looks pretty interesting. So this got me thinking, like, you know, cap is one of the, you know, leaders, I would say, in the NFT, Twitter spaces streets. I wanted to see where he ranked on here. So we have bark here, bark meta, Fredo, six, and friends radio, which I think is the alien Friends project radio station there as the top three. How far down do you think we have to go before we get to our friend cap? Let's take guesses. Des, where do you think cap is on this list?"
+    },
+    {
+        "speaker": "C",
+        "text": "I don't know. Leaderboard seems super, Susan."
+    },
+    {
+        "speaker": "A",
+        "text": "It does seem sus."
+    },
+    {
+        "speaker": "C",
+        "text": "I cannot imagine these are the top ones. So I'm just going to go fully sus list. And, well, now we get into some recognizable."
+    },
+    {
+        "speaker": "B",
+        "text": "Here. You got Nick and Pio here at 13 and 14. Now, this is probably brand new in terms of, like, how, how many days it's been tracking, because it does look like only, you know, it does look like you've only got seven hosted spaces here. The top one says 31. So, like, they've probably started this list pretty recently. I also think it's funny that it shows your actual speaking time. This will be way skewed for cap and just like it is for Nick and Po here. So, Po definitely doing most of the talking, but let's see how far down."
+    },
+    {
+        "speaker": "A",
+        "text": "We got to be top 30, right? Like, that's what I'm thinking."
+    },
+    {
+        "speaker": "B",
+        "text": "I would think I was going to."
+    },
+    {
+        "speaker": "A",
+        "text": "Say top 20, but give your guess here."
+    },
+    {
+        "speaker": "B",
+        "text": "Chamber."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm going to say between 25 and 30, Des."
+    },
+    {
+        "speaker": "C",
+        "text": "I don't know. I don't even believe this list right now. So I'll go 35."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, we got Morgan here at 22. Degen friends mediataindeen. Can't find your favorite host? Enter their Twitter handle. Oh, man, cap, this is like fall. Oh, man, this is like falling in the draft. I don't know. This is pretty. Hate to see it. You hate to see it?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "One button workout. It's still not on the list. Oh, we're at. We're almost a 40. And cap is still not on. Oh, there he is. There's number 42. Two, 3 hours and eleven minutes. Six spaces here. Average score, unique audience, 4600. Oh, that. That's an interesting metric. Unique audience, average reactions."
+    },
+    {
+        "speaker": "A",
+        "text": "Much greater than everybody else, kind of in that area."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I got to go back to the top. See, that's. It's even better than Farouk. Farok's not even. There's. And there's our buddy Steve. Look, there's everybody talk time, 5 hours, 1 minute. 5 hours, 1 minute and muscular score. That might be. That's one of the top ones I've seen here. What was cap? 3 hours and eleven minutes. So let's rank it by unique audience and see what's with where they. I don't think we were even on there yet, by the way. Not yet."
+    },
+    {
+        "speaker": "A",
+        "text": "Give us a couple more shows, we'll be top 20. No problem."
+    },
+    {
+        "speaker": "B",
+        "text": "However, DJ network. DJ network was on there. I think they were at the, like, 50 spots."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, really?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. DJ network representing for our friends there. Cap says fud this list. He also says super spaces in my DM's. That's awesome. The. So that that ranking didn't work, but. All right, let's see if I go back. I want to see where Djen is. There you go. Number 59, up three spots. Talk time, ten minutes."
+    },
+    {
+        "speaker": "A",
+        "text": "We don't talk much."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, we know how to work that host, you know, algorithm. There you go. So suss or bus on this, fellas."
+    },
+    {
+        "speaker": "A",
+        "text": "I like. I like any leaderboard, you know, me. And I'll. We'll figure out how to game the system to get to number one. We just. We just need to spend a little time figuring it out."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, Des, you're saying Sus list."
+    },
+    {
+        "speaker": "A",
+        "text": "But I'm saying the list as it is now is sus, but I'm all I'm busing on overall this. Give me. Give me one month, and we'll come back, and we'll be busting."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. All right. You agree, jazz?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I do, sus. Short term. Long term bus."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. All right, this is. Yeah, I would agree on that. Especially if the software works in which you can actually export your audio, because that would be a massive unlock for people like us that would like to turn those spaces into podcasts and, you know, things of that nature or other clips like our good friend Mackie does. But let. That's it for suss or bus. Let's get in to news or. No, the news. The news. Let's get to the news. God, that's such a good drop. It's just so. It's so fantastic. We've got news or not. So speaking of Twitter spaces, we're going with. We're starting it off with a little pat on the back, celebrating Chris and Steve. Coffee with captain. The DJ network show has hit its one year anniversary. Round of applause. One year. They've been doing a Twitter space every Monday through Friday morning. That's a massive commitment. It's unbelievable. I mean, we've been doing this together, chamber for about eight. I mean, five years almost now. Yeah. And we've done."
+    },
+    {
+        "speaker": "A",
+        "text": "They've done more shows, I think."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, we. I was going to say we have waxed and waned on, like, ebbed and flowed on our content production. We've gone from one show to two shows a week now. All of us back to one show a week now. We're doing. Gonna be doing three shows a week. So, like, it's a pretty big, you know, commitment to do that much content all the time."
+    },
+    {
+        "speaker": "A",
+        "text": "So unbelievable. Five days a week."
+    },
+    {
+        "speaker": "B",
+        "text": "Crazy. Yes. Congratulations to Chris and Steve. Just crushing it and, you know, I'm going, I'm going. Big news one. It's. It's incredible to do that kind of content with that kind of consistency, too, I think. Again, we've got all of, we've got, you know, Twitter spaces as. And this social audio category, I think, is just going to keep blowing up. And these guys are early and crushing it, and hopefully we will be right there with them next year. So I'm saying news, definitely news."
+    },
+    {
+        "speaker": "A",
+        "text": "Also, be sure to check out coffee with captain. Tomorrow morning, we are dropping a trailer for a mini documentary on the SBF FTX saga that'll be probably airing next week. So the trailer drops tomorrow on coffee with captain."
+    },
+    {
+        "speaker": "B",
+        "text": "Did you just drop Alpha about us dropping a documentary?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, we've been busy in the background, so we have. What have."
+    },
+    {
+        "speaker": "B",
+        "text": "I can't wait to see this."
+    },
+    {
+        "speaker": "A",
+        "text": "It's going to be great. I've seen some clips already way better than anything we've ever produced on any of our."
+    },
+    {
+        "speaker": "B",
+        "text": "And it's a digestible short format documentary, correct?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So we'll be releasing. It'll be three parts. We'll be releasing them staggered throughout the week and then I think at the end of the week you'll be able to a consume the whole thing on YouTube. I think in total it'll be like ten or eleven minutes. But goes through the rise and fall of Sam Bankman freed on and it."
+    },
+    {
+        "speaker": "B",
+        "text": "Culminates with a link to the sex tape."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, it does. We got exclusivity to it and we landed on a title. It is called Fried. The rise and fall of Sam Bankman Fried and FTX."
+    },
+    {
+        "speaker": "B",
+        "text": "Like a play on words of freed."
+    },
+    {
+        "speaker": "A",
+        "text": "It's so good. Ken, our director, came up with it and I thought it was just perfect."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Cap wants to know if it's the announcement of the announcement, but yeah, so awesome job, Ken. We saw that today. So news across the board. Next up in news or Nahdinh. Des, I'm going to start with you on this one. We saw the information on the blur Airdrop. Blur Airdrop two was announced the other day. This was announced on December 6, I believe, or December 5. So Monday, Blur Airdrop two is officially live. Second airdrop, ten times bigger than the first. You have 14 days to claim by placing a bid on Blur. So they actually. I thought it was an interesting mechanic here. In order to the first time you had to claim by putting an item for sale. This time you actually had to place a bid on something. In the month since launching, Blur has processed 225 million in trading volume for comparison. Nice, nice. A little jab at Opensea. Opensea 357 mil. Blur also became the number one one aggregator, which is an incredible first month. And they have this blur token launching in January. They're doing an airdrop for. So to celebrate, they're launching bidding on blur. Blur bids are made in eth. They come with stolen NFT protection, so flagged NFTs can't sell it to your bid. They're free to place, free to cancel. Airdrop two is calculated based on blur listings. Listings got a score based on how, on how likely they were to sell and they're. That's interesting. And their collections activity. So you got scored based on that and they dropped your care packages. So, Des, news or. Nah, it's definitely Susan segment, my friend. News or not."
+    },
+    {
+        "speaker": "C",
+        "text": "Honestly, this should have been a Sus or bus, though. Um, there's a few Sus things about everything going down at our good friends at Blur. So I'm going to go news, but it's a little bit of some Susan."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, so let's tell us. Tell us why it's also Sus."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, to be honest, the ten times larger claim, it seems to be a little sus. I've talked to a few people. Seems like we all got significantly less care packages than the first round. I was fairly active on it, and so I got a decent amount."
+    },
+    {
+        "speaker": "A",
+        "text": "But I have an answer for this, by the way."
+    },
+    {
+        "speaker": "B",
+        "text": "Is it okay? Do you think. Do you think it could have. Do you think it could have something to do with what I just read here? Airdrop was calculated based on blur listings, and the listings got a score based on how likely they were to sell on their collections activity. So things with full royalty got two points."
+    },
+    {
+        "speaker": "A",
+        "text": "I was on. I was on the space. Zenica had a space this afternoon."
+    },
+    {
+        "speaker": "B",
+        "text": "Look at you out in the community, shaking hands, listening to spaces."
+    },
+    {
+        "speaker": "A",
+        "text": "I figured I should figure out how these things actually work. But he had Pacman or Pac man or whatever."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, Pac man."
+    },
+    {
+        "speaker": "A",
+        "text": "Blur from. From blur on the show. And it was. I was super impressed. So the ten x stuff does. The. The actual packets that you get there are ten. Roughly ten times the token allocation per pack. So, you know, if you got 80 packs the first time and you only got, say, 20 packs the second for the second drop, technically, you know, you. You got ten x the amount per pack. So that. That was. And they did say that clarification, like, it should have been a bit more clear. And he also mentioned they probably should have, you know, redefined what the visuals for that particular airdrop to kind of, you know, mirror what a tenet, you know, a bigger, you know, as opposed to looking basically exactly the same."
+    },
+    {
+        "speaker": "C",
+        "text": "So, yeah, we're in the end times. We're in the end times, people. Chamber is a source of knowledge in the NFD space. But other. Other than that disturbing fact, the only other Sus thing was that you have to transfer the e into, like, their custodial kind of wallet. That's kind of sus. Yeah. To make beds. That's the only other weird thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Is it kind of like when on Opensea where you have to bridge some bridge week? Yeah, but that doesn't leave your wallet though, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "That does not."
+    },
+    {
+        "speaker": "C",
+        "text": "Right. This does, yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Interesting. Bundy says we're in a simulation for sure, so we've got. So yes to news, but it's also Sus. Is that where you're going with desk chamber? What's your. Your. You're saying news?"
+    },
+    {
+        "speaker": "A",
+        "text": "I'm saying news for sure. The. The third airdrop is going to be based on. What did I hear? I don't want it. I don't want to misspeak how many bids, I think."
+    },
+    {
+        "speaker": "C",
+        "text": "How many?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think. I think I agree. And they also have some mechanics in there for wash trading as well to kind of weed out any of the wash traders that are, which I thought was. Was pretty good. But yeah, I don't. You know what? After listening to them, I was, you know, I was. I was definitely. I wasn't, uh, I wasn't bullish prior to listening to them. Uh, but definitely a lot more bullish. The. The team they have was. Was very impressive. Uh, you know, they have, you know, people from Twitch and Twitter, like ex employees and whatnot that are. Worked for them. And I thought, yeah, that was pretty good."
+    },
+    {
+        "speaker": "B",
+        "text": "Overall, a lot of ex Twitter employees. I was just going to say they took an Elon's exiled."
+    },
+    {
+        "speaker": "A",
+        "text": "Absolutely. Absolutely."
+    },
+    {
+        "speaker": "B",
+        "text": "Chamber."
+    },
+    {
+        "speaker": "C",
+        "text": "I didn't hit that mythical care package, though, so I'm pretty pumped about it."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, you did? That's nice. Why is it not with ten x the amount of tokens in it? Clearly that chamber just told us so. There you go. Chamber slowly losing his street cred after this. You know too much. Now you're falling into the nerd category. Like you were the street tough."
+    },
+    {
+        "speaker": "A",
+        "text": "I was. Doesn't give a shit."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Chamber, I can't go a second longer without commenting on your shirt. I've been wanting to say something for the. I love it. It's. Is it a hoodie?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it's a hoodie."
+    },
+    {
+        "speaker": "B",
+        "text": "What is it?"
+    },
+    {
+        "speaker": "A",
+        "text": "I don't know. It's just like a."
+    },
+    {
+        "speaker": "B",
+        "text": "It's got a brand. Or is it a. I don't know."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't think so. Amber got it for me. She thought it looked nice."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm digging it. You got style. You've got knowledge. Like, I don't know."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm a new man."
+    },
+    {
+        "speaker": "B",
+        "text": "He is. All right, next topic on the news or. Nah, this one's news to me. Curious to see what you guys say, but the board, ape, yacht club founders, Gordon and Gargae, and the. And the rest of the crew have released a YouTube and audio podcast called the Fucking Metaverse. And they dropped the first two episodes last week. I don't know if the third, if anything, has dropped this week yet, but I listened to the first two last week, and really cool. They had Alexis Ohanian on as their first guest, which was awesome. I think this is news. I'll tell you why after I hear your comments. But Chamber news or nah on this? Nah."
+    },
+    {
+        "speaker": "A",
+        "text": "I hate. I hate other podcasters. They're all garbage. Also, is Garga's full name Gargamel?"
+    },
+    {
+        "speaker": "B",
+        "text": "Do you think no. I mean, it's an alias, but yes, but yes. That's what it's about. Yeah. That's what it's after. Yes."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, cool. All right, that's awesome. So more news, I guess, because of."
+    },
+    {
+        "speaker": "B",
+        "text": "That, that new chamber is an AI. Replicated the laugh perfectly, says Chris Hodel."
+    },
+    {
+        "speaker": "A",
+        "text": "We are ramping up to the. To the. What's it. What do they call it when AI kind of takes over?"
+    },
+    {
+        "speaker": "B",
+        "text": "The singularity."
+    },
+    {
+        "speaker": "A",
+        "text": "The singularity. Thank you. Yeah, it's ramping up fast."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. Des news or not, on the Metaverse podcast, it is news."
+    },
+    {
+        "speaker": "C",
+        "text": "I am still bitter about how normal these freaking founders are."
+    },
+    {
+        "speaker": "B",
+        "text": "I know. So much cooler than us."
+    },
+    {
+        "speaker": "C",
+        "text": "They're just normal dudes, but. And I want them to somehow be superheroes in this, that they could have done that. Not something that none of us could have done, but they just seem super normal. So I'm gonna go news just because it's good eyes on the industry, and obviously they have some good connections. So I'm gonna go. I'm gonna go news and I'm gonna go. It's busing."
+    },
+    {
+        "speaker": "B",
+        "text": "I think it's also bus and news. And I, you know, I think that the more these projects start to understand that they're actually content companies, the better it will be for them and the entire space. And I think, like, nobody's poised to, like, take advantage of that content reign better than. More than these guys. So, like, it was really cool to see them drop this in such a way that clearly suggests they've been doing this for a while, like, creating these for a couple months. They're very well produced, they're professionally shot and mixed and all this. So it's not just these guys jumping on a Twitter space like us, but they're actually showing commitment to creating content. And I think when you. So, like, this content thing is part of the comms discussion that we're talking about, right, where it's like, if you start to listen to, if they're putting out content like this, you'll get a lot better insight. Even if they're not dropping alpha per se, you'll get a lot better insight into what they're doing as a brand and where they're headed and where their heads are at. And I think it will help the holders. Right. Or even traders. Right. Like, your expectations start to come into reality because you'll be able to hear what they're talking about week to week. But I also think just from exposure and creating content community, this is like, I think this is core to every project. And they should all be doing this. So super news on that. Wag says Yuga has a head of comms. I hope it's wax because that would be super dope. Wags, when's, when's the documentary dropping? When documentary with Des and I, you know, joined that casting couch at NFT NYC and I feel used. Like we haven't heard anything since. They never called us back. I feel dirty."
+    },
+    {
+        "speaker": "A",
+        "text": "Was there, was there any, was there even any cameras there?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, they just like brought us pizza, gave us $5."
+    },
+    {
+        "speaker": "A",
+        "text": "May just stand in pizza."
+    },
+    {
+        "speaker": "B",
+        "text": "Let me watch you. Yeah, right. Watch you here for a while. And they're like, you just explore the studio. But yeah, no. So awesome, wags. All right, next one. We're, you know, I like our segments. I feel like we've got a really good cadence here on like going around the horn on the things that are happening in the space. What I don't like is I think we got to cut them a little shorter in the next couple because it's getting in the way of us doing my favorite segment, which is the draft. But we got to get through these last couple because I think there's some good news stuff in here. But next one. Ledger stacks. Have you seen this? This is pretty cool. Ledger stacks we trust. Built on trust. Made for all, held in your hand. This changes everything. Pre order here. This is the new hardware wallet by Ledger called the ledger stacks. It is apparently created by the same person who created the ipod, the design for the ipod. So this is pretty cool. I hope you can see this moving. So like it's actually got a touchscreen. It's small, it's portable. You could. I mean, it looks pretty cool. Des News or not."
+    },
+    {
+        "speaker": "C",
+        "text": "I'm confused as to what it is. Is it just a replacement of your I. Your nano? It's like now an improved touchscreen version of it?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes."
+    },
+    {
+        "speaker": "C",
+        "text": "Nah, the nano works just fine. And now that they have added a few different things."
+    },
+    {
+        "speaker": "A",
+        "text": "You still use your ipod? You still using that ipod? 1st, 1st generation. Come on."
+    },
+    {
+        "speaker": "B",
+        "text": "Here it says, enter ledger stacks. Our most advanced and customizable ledger yet. Ledger stacks is a touchscreen device made to protect your most valuable digital assets and then powered by secure element chip and ledger's proprietary operating system. The keys to your assets. Oh, cool. Are kept offline, far from hackers. It sounds like there's a little, sounds like there's some different features here, but it says you can mint the ledger stacks of bundle to pre order a ledger stacks free magnet shell and unlock exclusive access to the art on a ledger stacks, generative collection. Interesting. So death says no, you're saying, yes, chamber."
+    },
+    {
+        "speaker": "A",
+        "text": "I think it is news. Now. Can you. Can you see your nfts on this?"
+    },
+    {
+        "speaker": "B",
+        "text": "I don't think so."
+    },
+    {
+        "speaker": "A",
+        "text": "Because that would be cool."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I don't think so, but it would be cool."
+    },
+    {
+        "speaker": "A",
+        "text": "But honestly, the nano. The ledger nano is so dated. Like, it's so."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's like, it's kind of the word."
+    },
+    {
+        "speaker": "A",
+        "text": "It is kind of shit. It's the best."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, the user experience is shitty. Yes."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So having something much more like. Like the old wallet didn't match what we're doing. Like, it doesn't look like web three. It looks like web. .5 you know, it's like the time."
+    },
+    {
+        "speaker": "B",
+        "text": "Of the floppy disk."
+    },
+    {
+        "speaker": "A",
+        "text": "Right, exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "And I gotta, like, I gotta, like, get in there and get my little. My little arthritis together, my arthritic phone thumbs on there to click my buttons and stuff and. Totally, yeah, I'm totally. I'm on a news. I'm on news here, Des. Just."
+    },
+    {
+        "speaker": "A",
+        "text": "Curmudgeon."
+    },
+    {
+        "speaker": "C",
+        "text": "Look, last week, I'm putting my own bags."
+    },
+    {
+        "speaker": "B",
+        "text": "You got ledger. You got the ledger nfts or what?"
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, yeah. Oh, yeah. A few."
+    },
+    {
+        "speaker": "B",
+        "text": "What is the genesis pass do?"
+    },
+    {
+        "speaker": "C",
+        "text": "It got me a free ledger, which now that's part of the reason why I'm like, nah, it's like, why would you just send us the normal ledgers? Literally a week ago? I got it a week ago."
+    },
+    {
+        "speaker": "A",
+        "text": "So you got a normal ledger?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, because they gave. They gave it to all their market pass holders, basically."
+    },
+    {
+        "speaker": "A",
+        "text": "I think we got a hold of Joel."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, we got Joel back on here."
+    },
+    {
+        "speaker": "A",
+        "text": "We need some freebies. We need a couple of freebies."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Come on, Joel. What the hell? All right, I'm going to slide into Joel's DM's after this. You making me crazy. Says you will be able to see nfts on it from what the team has told them. So that's cool. Wag says, I feel like the old ledger, or I like the old ledger. I feel like a cold war era spy using. It looks like."
+    },
+    {
+        "speaker": "A",
+        "text": "It looks like one of those."
+    },
+    {
+        "speaker": "B",
+        "text": "That is the best cameras."
+    },
+    {
+        "speaker": "C",
+        "text": "That is amazing."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's good. That's good. All right. I'm on to news for that. And then we've got two more items here. Des, did you not get it? Did you get your cockpit today?"
+    },
+    {
+        "speaker": "C",
+        "text": "Uh, no, I did not. Um, bitter about it, but. Nah."
+    },
+    {
+        "speaker": "B",
+        "text": "Nah, as in you're bitter about it because you didn't get the free money or nah, because, uh, you actually want to participate in the Tim ferriss ecosystem."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh no, the first one. The first one. Definitely the first one."
+    },
+    {
+        "speaker": "B",
+        "text": "Um, do we know what the floor price is on these right now? They minted out at 01:00. I saw there were some initial sales that were like 3.5. They dipped really hard into like the one eth range right after because people were dumping them for free money."
+    },
+    {
+        "speaker": "C",
+        "text": "And then did you see the terms of. Is that, was that serious? Someone was posting the terms."
+    },
+    {
+        "speaker": "B",
+        "text": "I was just about, I was just about to read this. I. There is no utility currently planned for this NFT in any form. But if I ever decide to do something interesting and you've been a dick, you will be flagged, tagged like a shark, and to the extent possible, exiled from the world of fun things and any fun things to come. The eye of Sauron and I are drinking buddies."
+    },
+    {
+        "speaker": "A",
+        "text": "What does that even mean?"
+    },
+    {
+        "speaker": "B",
+        "text": "Is that what you were referring to, Des?"
+    },
+    {
+        "speaker": "C",
+        "text": "No, it was actually the rug clause which allows him to leave the project at any time if he becomes boring."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I mean, most people obviously agree to that. So look, at least they were upfront with it. No, good for him. The. So did we get a floor check on this? Anybody?"
+    },
+    {
+        "speaker": "A",
+        "text": "I'll pull it up now. Yeah, I don't know. Did you, did like did you get one bunch?"
+    },
+    {
+        "speaker": "B",
+        "text": "Uh, looks like 1.33 is the current floor. Uh, they minted for 0.3. So that's a nice little uh, nice little immediate one eth gainer there if you got one. Um, no, I didn't get one. I kind of like slept on the whole thing because that's like obviously it was going to do well because it's, it's tim Ferriss and he's boys with caro and all this stuff. But like I didn't, I'm like so out of the you know, white list allow listing grind right now. That's like I didn't have the capacity to pay attention to it. But I'm hope I, a bunch of people from the war room got and they were able to flip some, so, and some are holding on for the ride here, so good for them. Shuffle says tim Ferriss seems like a psychopath. I probably, I think you got to be a little bit crazy to you know, be a tim Ferriss type character. But aren't we all? So no cock punch for me. But that is, you know, feels like a cockpunch that we didn't get them. So. Last one here. News or. Nah. We are 16 hours, 57 minutes and 52 seconds from the launch of Starbucks Odyssey. Wow, this has been quite the journey."
+    },
+    {
+        "speaker": "A",
+        "text": "Quite the odyssey, if you will."
+    },
+    {
+        "speaker": "B",
+        "text": "Quite the odyssey indeed. Yes. Quite the Odyssey indeed. Which was, spoiler alert, not the original name of the program and the, so."
+    },
+    {
+        "speaker": "A",
+        "text": "It was called, punch."
+    },
+    {
+        "speaker": "B",
+        "text": "Starbucks Odyssey is 16 hours away. We have seen a lot coming from this since September, the announcement in September, but we are hours away from the beta launch, which will be a small group of, a small group of participants that will get in there with the beta and more and more waves will be launching for the next couple months into the new year. And I mean, there's a, let's put it this way, there's a lot of people on the waiting list. So the trickle might, might take a little bit, but there's a lot of people on the waiting list. People are excited about it. I've seen, you know, I've been part of the entire, I whiteboarded odyssey, which is pretty cool. So I've been a part of this entire process. It's been a lot of work. I will, I will ask people to, you know, provide some feedback on how we can make it better and their experiences slide into my DM's. Help us. Help us make this really cool for you guys, but pretty cool. You can see here, this is their kind of faq landing page that we have right now. So introducing a new dimension of the Starbucks brand. Starbucks Odyssey will weave together our past, present and future, offering ways to enrich your coffee knowledge with interactive experiences. This isn't just a new way to experience Starbucks. It's an invitation to join us on our journey to come together over coffee, unlock access to new benefits and experiences immersed with Starbucks coffee heritage and culture. And so there's going to be, I mean, at the heart of it, this is a game, right? It's essentially, it's not too dissimilar to other games that Starbucks have done, but it's powered by blockchain and NFT technology and you will have the ability to play these games, go on journeys, collect these journey stamps that will have points. The points will allow you to level up your levels, will allow you to claim rewards, experiences, things like that. There will be limited edition stamps, surprise and delight, airdrops and collaborations, all kinds of stuff like that. And so you can check out more at odyssey dot Starbucks.com. and for the lucky few that will get in tomorrow, I'm super excited to see and hear from you as well. Chamber news or."
+    },
+    {
+        "speaker": "A",
+        "text": "Nah, obviously news. Are you kidding me? I mean, I would like to have access to this here in Canada, but eventually, hopefully. But yeah, I think obviously news. This is, this is massive. This is. This is what? A top ten brand in the world."
+    },
+    {
+        "speaker": "B",
+        "text": "Recognizable, right? Top ten recognizable consumer brand? I would say. Yes. Market cap. It's like a top hundred brand in the world, but yeah, I would say from a consumer recognition standpoint, definitely. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "So, I mean, that's huge. It's huge. So, yeah, absolutely."
+    },
+    {
+        "speaker": "B",
+        "text": "News, Des, I'm disappointed."
+    },
+    {
+        "speaker": "C",
+        "text": "I don't see drink to earn anywhere on this page, but, well, I mean."
+    },
+    {
+        "speaker": "B",
+        "text": "It all kind of. It kind of is right where you, you know, it is tied directly your Starbucks rewards loyalty program. So, you know, the more you participate in the journeys which will involve real life experiences, then, you know, the more points you get. So in some way or another, it is. There's no SBX token yet, but. So in that sense, it isn't."
+    },
+    {
+        "speaker": "C",
+        "text": "But is the first wave literally only DJN war room?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, it's bigger than that. There's a. It's a. It's a big wave. Or, I mean, it's a. It's a decent sized wave, but it's, you know, the idea is get people in, break stuff for a couple weeks and then open the floodgates more and more as, as we get comfortable and make sure that everything works under the hood. But we did have a little alpha group that was in the Degen network, which is a super, super small group, so. But, yeah, that is pretty cool. So I'm excited about it. Excited to see people use it and hear what people have to say. It's going to be a fun couple days of reading comments and all the fud included, which will be great, but that is going to do it for our segment. Triple news on Starbucks. Uh, we are right at time here, Chamber. Any parting words as we get out of here today?"
+    },
+    {
+        "speaker": "A",
+        "text": "Um, I would say, you know, can you hear me? Okay? Can you hear my thoughts? Okay. Um, you know, for those of you who have sold, uh, moonbirds or other big sales, I know it's going to feel, you know, really enticing to go and spend it somewhere, maybe hang on to it."
+    },
+    {
+        "speaker": "B",
+        "text": "Don't."
+    },
+    {
+        "speaker": "A",
+        "text": "Don't blow it all. So be safe out there. Get yourself one of those new ledgers. End of comment."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, get yourself a new ledger. Des, any parting words before we get out of here until Friday?"
+    },
+    {
+        "speaker": "C",
+        "text": "I would say sell everything. When Chamber becomes a source of knowledge, you know, it's going to be, you know, a really dark winner ahead of us. So I'm going to take the. And now he's like, giving very, like, respectable advice on money management. This is weird. I think. I think we're headed for a real bad downturn. So yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "That'S amazing. So I agree with every Des just said. I also, oddly enough, agree with everything chamber just said. And I will say come and check us out on spaces again afternoon at four and every Monday now going forward. So three doses of mint condition a week. We're just coming making sweet love to your earlobes and that's going to do it for us today. Until next time, stay mint."
+    }
+]

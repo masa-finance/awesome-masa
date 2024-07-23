@@ -1,0 +1,310 @@
+[
+    {
+        "speaker": "A",
+        "text": "Welcome banklessation to the frontier of universal synchronous composability. That is once again the topic that we are talking about here on the episode today. We got Brendan Farmer, who is the chief espouser of the AG layer out of Polygon, along with Ben Fish, the CEO of Espresso Systems, the shared sequencing marketplace. There is some synergies when you put these two technologies, the Polygon AG layer and the espresso shared sequencing marketplace. When you slap these two things together in the roll up centric roadmap for Ethereum, the roll up landscape, you get a little bit more synergies than if you had if you just used one of these technologies in silo. And so we talk about these synergies here on the show with these two guests today, as well as a little bit of a taste of the future. And some takes about what the future of the sequencing marketplace, the validation marketplace, would look like both across Ethereum's layer twos as well as the multi layer one landscape. So let's go ahead and get right into this episode with Brendan and Ben, but first, a moment to talk about some of these fantastic sponsors that make this show possible. Bankless nation. Happy to introduce to you Ben Fish, the chief barista over at espresso Systems. Ben, welcome to the show."
+    },
+    {
+        "speaker": "B",
+        "text": "Thanks. Great to be back."
+    },
+    {
+        "speaker": "A",
+        "text": "And then also we got Brendan, the chief farmer, the aggregator over at Polygon. Brendan, welcome to the show."
+    },
+    {
+        "speaker": "C",
+        "text": "Thanks. You know, I've never farmed an airdrop. That's like, so embarrassing to but you've collected airdrops."
+    },
+    {
+        "speaker": "A",
+        "text": "You just never farmed them. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Brendan Airdrop farmer would be a good."
+    },
+    {
+        "speaker": "A",
+        "text": "Brendan airdrop farmer would be hilarious. Yeah. You can give your first kid your middle name."
+    },
+    {
+        "speaker": "B",
+        "text": "Start with a no."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so we've got two different camps here. We have a shared sequencer, and we have a layer two framework on the show today. We're going to talk about a little bit of a collaboration, a little bit, something you guys got cooking up behind the scenes. But maybe, Ben, you can kind of get us kicked off here. What is a shared sequencer and a layer two framework doing on the same podcast?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, so one thing is that actually espresso is not a shared sequencer, but it's more of a platform for shared sequencing. In fact, what espresso provides is a marketplace, or coordination mechanism through which chains can sell their or transfer their sequencing rights to third parties. Now, when a third party buys up the right to sequence for multiple chains, it becomes a shared sequencer for those chains. And when it is a shared sequencer for those chains, it can do all kinds of cool things, including providing cross chain liquidity. But one thing in particular that it can provide is it can coordinate certain kinds of message passing that would be secured by a protocol like AG layer, aglayer as a security layer, and shared sequencing, which is a phenomenon of third parties coordinating the block construction of multiple roll ups at the same time sort of go together hand in hand. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Brendan, since you're on the ag layer side, how do you receive the whole marketplace for shared sequencing? Just from your perception? Give us your reflections on this."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think it's a really great idea. The way that we look at it is the AG layer is not an interoperability solution. It doesn't do message passing. It doesn't do shared sequencing. What it does is expose a shared bridge and provide a safety guarantee for rollups that are using that shared bridge that are interoperating at super low latency. What the AG layer needs is some way to coordinate block building across many different rollups. There are a bunch of different ways that you could do this, but I think that the best way from a user's perspective is to do it synchronously. You have one builder that's building a bunch of different roll ups at the same time. It's really nice for users because they're able to use a shared bridge. So it sort of feels like all of those roll ups come together to form a single chain. And once you have a shared builder, the question is, okay, how do you allocate building rights in sort of a fair and decentralized way? How do you sort of coordinate these different actors and roles? And I think, from my perspective, having a marketplace like Ben is describing is a really, really elegant solution for doing that. So espresso and shared sequencing is totally complementary to the AG layer. And yeah, I think it's a really exciting approach to solving fragmentation on Ethereum."
+    },
+    {
+        "speaker": "A",
+        "text": "So I want to pin down some basics here before we start to get into what's net new. Brendan, you said the AG layer is not an interoperability solution, but maybe I'll throw something your way, is that it actually reduces the need for interoperability solutions. Bye. Of aggregating, consolidating a lot of all the liquidity on the same spot. So it is an interoperability solution in the sense that we're minimizing the need for further interoperability solutions. Do you accept that?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So maybe saying it's like not interoperability solution is maybe the wrong framing, but I think you're totally right. A nice way to think about what the AG layer enables is it provides all these safety guarantees, but with a shared bridge and shared liquidity, it basically eliminates the need for market makers and for LP's and for trusted third party bridges. But it doesn't actually facilitate the passing of messages or block building itself. It needs what we call emergent coordination infrastructure to do that. Shared sequencing is an example of that."
+    },
+    {
+        "speaker": "B",
+        "text": "I just want to say, I think Brendan brings up a great point and that maybe we could get into what interoperability is, because there's different flavors of interoperability. And I think the crux of what Brendan is saying is that there isn't one of these elements that is a full interoperability solution. Interoperability is sort of a phenomenon that can happen in multiple ways between chains. And there are different things that can exist, including Ag layer, including Espresso, including the existence of people who are willing to participate in the espresso marketplace and liquidity providers, et cetera, that can all come to form, you know, collective interoperability solutions. So maybe we should get into that first."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, that's exactly where I want to go. I want to first talk about the idea that the ag layer is meant to spawn further chains. Right. Which is going to create the need for what, Ben? I think you're talking about. Right. Whereas there's going to be a whole space between these chains. But the first and foremost, what the ag layer does is kind of takes a load off of many, many, many chains. And as a result of that, allows for a blossoming of even tens of thousands of countless chains. Is that kind of the right direction to describe the ag layer, Brendan?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think that's a good framing. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so we have the ag layer, then you have the spawning of many. I like to see these networks in physical topologies. Right. So you have the one central Ag layer, centralizes all the liquidity. It minimizes the need for a lot of, like, message patching, as you said. But then, Brendan, you said, like, well, it also. We also need, like, more emergent, like, coordination infrastructure. So now they have. We got. We have the ag layer. We have the thousands of chains that are being, using and tapping into the liquidity of the ag layer. And then, Ben, maybe you can kind of fill in the gap with. With where you were going with that."
+    },
+    {
+        "speaker": "B",
+        "text": "Just a question, I think since we're all having kind of a conversation about this, basically on the fly, when you say that ag layer provides the shared liquidity, are you referring David to the shared bridge specifically, because the way that I view it, ag layer is actually doing a number of different things. And one critical component of Ag layer is sort of a proof aggregation, which is sort of a method that which is still being actively designed of enabling chains to pass messages between each other if there is a coordinator, to do so without trusting the coordinator, which is sort of separate from the shared liquidity element. I mean, one use case of that is if you do have a shared bridge, then you could pass messages between the chains to move assets from one chain to the other. And the asset is still the same underlying asset, not a wrapped version of the asset, which would be the case when you pass messages between chains that do not share a bridge. But I wanted to maybe zero in on that before we. So that listeners can kind of also be on the same page. We can be on the same page and the listeners can be on the same page."
+    },
+    {
+        "speaker": "A",
+        "text": "No, that's super helpful, because, like, I was totally naive to that, to that element. So, like, maybe we can actually talk about where liquidity lives and how it gets passed around and ultimately how espresso will integrate with that."
+    },
+    {
+        "speaker": "B",
+        "text": "First of all, I would say that the shared liquidity can take on different kinds of forms. There's various forms of this. So one form of it is when two different chains on the layer two of Ethereum have a shared bridge, which means that you move, let's say, eth into this bridge, and then that ETH can be used on one chain. It could be moved, the control of that eth could be moved to the other chain without going back through the layer one. Normally, if you want to move ETH from one roll up to another, either you create a wrapped representative of that on the other, but then what you have on the other is not really eth that was moved from the l one directly to that chain, but rather moved to the first chain and then kind of locked and wrapped. And we have now representative of this wrapped thing on the other side. And that's not really the same thing."
+    },
+    {
+        "speaker": "A",
+        "text": "Maybe. Can I try and, like, just re articulate that just for listeners? Because, like, sometimes, sometimes listeners are only listening with, like, 80% of their brain power."
+    },
+    {
+        "speaker": "B",
+        "text": "Absolutely."
+    },
+    {
+        "speaker": "A",
+        "text": "So, like, you have Eth on the layer one, and you want to get it to arbitrum. There's two ways to do that. You send it over to arbitrum. That's one way you can also send it to optimism, and then you can send it from optimism via another bridge to arbitrum. And now it's actually, it's in the optimism bridge, and now it's locked on the optimism layer two, but then a representation of that is now on arbitrum. And so the two, you ended up with ether on arbitrum, two different ways to get there, but actually two different assets, because one is wrapped by optimism, secured by optimism on arbitrum, and one is actually just like inside of the optimism bridge. And these are the two scenarios that you're illustrating, right, Ben? Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And that often affects fungibility, so."
+    },
+    {
+        "speaker": "A",
+        "text": "Totally important."
+    },
+    {
+        "speaker": "B",
+        "text": "Good. So that's one aspect of, like, I think, what people talk about when they talk about shared liquidity, then the other thing about sharing liquidity is you could have, so you can always move assets from one chain to another. It's just very slow and might go through the l one. You can have liquidity providers that would, you would pay on one chain, and then it would quickly give you assets on the other. So if I'm a liquidity provider and I'm okay with just having balances on the two different chains, and periodically I need to rebalance, and maybe that goes to the l one, and it's slow or it's expensive, but I make money as my business by just providing liquidity on each side. So the ability to act as a liquid provider, which is what a lot of bridges do today, is also a way of getting sort of shared liquidity between chains. The way that things like aglaya or espresso come into picture here when it comes to these liquidity providers, is it enables those liquidity providers to release funds on respective chains very, very quickly at much lower risk. So by enabling atomic interactions, atomicity guarantees between two chains, meaning transaction here and transaction here, are definitely going to happen together. That enables these liquidity providers to release funds on a chain if they receive payment on another very, very quickly. And that helps emulate the experience of being on one chain. But these are two different forms of shared liquidity, and they're both relevant to ag layer plus espresso."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think that's right. I. Yeah, I would just echo what Ben said and say the way that we think about ag layer and the important properties that it provides with respect to shared liquidity are asset fungibility, which is the ability to, as Ben said, be able to move assets without relying on wrap synthetics. Anytime you have a wrap synthetic, you need to rely on a liquidity provider to be able to swap into the version of the asset that's useful to you on the chain. The deepest pools for ETH, USDC, on arbitrum are not going to be for optimism wrapped eTH. They're going to be for native ETH on arbitrum. So, asset fungibility, and then the ability to do things cross chain in a much lower latency way than even Ethereum block times. So enabling, unlocking those two properties is really, really important for us. And the second property in particular, the best way to solve that is with shared sequencing or shared block building. Basically, just having a single proposer that's able to accept blocks that are built by the same builder across many different chains. I don't know if we want to get into that now, but that's really important because you can't really have synchrony. It's really important to understand that. One way to do synchronous composability, and we've seen this with sharding and with different proposals, is by doing a transaction on one chain, locking the state of that chain, and then waiting to do something on another chain. But the problem is, whenever you're ticking, lock on state that's involved in DeFi or sort of like, represents a lot of value that's very expensive. And so what I think the innovation from Espresso, not to speak for Ben, but I think being able to do this synchronous composability on a single machine from a single builder, and being able to effectively have locks, but have locks for milliseconds rather than for blocks, I think is a really interesting and important property."
+    },
+    {
+        "speaker": "A",
+        "text": "Something I just want to parse out. Ben. It sounds like all of the cross chain intents, cross chain swaps, bridging, all of this stuff that's fulfilled kind of creatively, uh, by market makers. Like across, for example, it's a bridge, but it really just like, uh, auctions off the rights to a market maker to facilitate something. Espresso isn't eliminating any of that activity. So all of that activity is staying put. It's just being, uh, able to be done much faster. Uh, and so everyone's doing all of the same activities that they already know and love. It's just the capital efficiency has been reduced. And I would guess also, like, the fees are also down, latency is down because of, like, this marketplace that you're providing to all of these chains. Is that, is that, is that right?"
+    },
+    {
+        "speaker": "B",
+        "text": "That is correct. And however, and with things like ag layer there, I believe is more that can be done. So the ability for two blocks to be constructed on two different roll ups at the same time, and for them to like as they're being constructed, basically communicate with each other through multiple rounds of messages. So for example, like burn an acid on one side, mint it on the other, get back a confirmation that it was minted on the other side, and then do something else that is also enabled by things like ag layer. Now, the reason why, you know, you know, a coordinator who's building the two blocks, a user could ask that coordinator to do something across the two different roll ups, and the coordinator could just promise it. That's always possible. But the smart contracts that live on these different chains, they can't just trust this coordinator. And so if you want to do things where the actual smart contracts on the different chains are communicating the way that smart contracts in the same chain communicate with each other, then you need something that has a coordinator who can basically build these blocks that depend on interleaved transactions, but it still needs something like AG layer that enables those that secures this communication. It's very elegant. What the proof aggregation ideas, the fact that you can have messages that are basically being passed between the chains and they're not verified immediately, they're tracked retroactively at the end. The settlement layer prevents these things from being accepted unless everything that the trusted coordinator did, it was actually correct. That's why these things fit really nicely together. Espresso without AG layer already enables players across to just do what they do today, but with much lower risk and much faster because they get, they, a, are able to get the right to update two different roll ups at the same time, and b, they get a very fast confirmation from Espresso's finality layer that what's final on one side is final. And, you know, we can't reverse one leg without reversing the other on the other chain. And so that already enables them to do what they do today, which is basically act as a liquidity provider, get payment, release payment. But with AG layer now, we can do even more where smart contracts on different chains are effectively communicating with each other at the same time as we're making progress in the two different roll ups. And that's all secured without having to trust a coordinator."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, checking my understanding here, Espresso has its product offering for the Ethereum roll up space like marketplace for shared sequencing. We can come and create the greater than the sum of the parts if we all agree to come to this common place to build our blocks and we can all get better execution."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, you can sell your sequencing rights on the open market, and somebody who's also sequencing for someone else might buy yours because they can then act as a liquidity provider. Like across."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. And that's like your basic basal level feature set that you're offering the layer two landscape. And it sounds like with the addition of the Polygon AG layer, there's like, ag layer exposes, like, more surface area for espresso to be, like a better version of itself because it has more optionality with some of the ways that blocks can be built across chains. That's kind of like my takeaway from what you just."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. The existence of ag layer creates an even stronger reason for people to act as shared sequencers and participate on the. On the buy side of the marketplace. Right. Like, the marketplace has a sell side, which is roll ups, selling to third party sequencers. And it has a buy side, which is a third party sequencers. Who are. Who. Why do they want to buy up sequencing rights for multi roll ups? So they can coordinate block construction. Why do they want to coordinate block construction? So that they can act as liquidity providers. Like, across bridges. Like across. So that they can now facilitate actual message passing between smart contracts on a different roll ups, if those roll ups are implemented in an Ag layer aware way. So Ag layer increases the value proposition of espresso. And I think espresso increases the value proposition of Ag layer by creating, by serving as a coordination layer for Ag layer. So it's very symbiotic in that way."
+    },
+    {
+        "speaker": "A",
+        "text": "And, Brendan, there are ag layer integrated or Ag layer enabled roll ups. Correct. It's like kind of binary you are or not integrated with the AG layer."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, yes."
+    },
+    {
+        "speaker": "A",
+        "text": "And so this infrastructure, the shared sequencing marketplace from espresso plus yaglia together, when you combine those things, like, I know, like, the idea of Justin Drake's, like, universal synchronous composability, like that itself, I think Ben definitely alluded this to. It's not like an actual, like, it's not something you get there. It's something you aspire to."
+    },
+    {
+        "speaker": "B",
+        "text": "Right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Like, it's not. It's a concept, it's ideas, a design principle. There's no actual binary of, like, you actually now have perfect synchronous composability. It sounds like these two technologies together get you, like, really, really far. Is that the main purpose for this?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think it's exactly the goal. And obviously, I'm a little bit biased about what the AG layer can provide, but I think that there's a really objective case to be made that the ag layer is this shared bridge, minimal safety guarantee. Plus, espresso gets you universal synchronous composability."
+    },
+    {
+        "speaker": "A",
+        "text": "In terms of just, again, I like to look at networks and topologies, the tree of chains spawning out of the ag layer. The webbing between all these chains is this shared marketplace that espresso is bringing together, and that does like the super fast, low latency communication between all the different branches on the ag layer."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think that's a good metaphor. I don't know, Ben, if you have an objection."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think the one, I'll sort of speak for Justin here, since he isn't here. But I think when Justin talks about universal synchronous composability, he's really focused on universal synchronous composability with the l one itself. And that's not something that ag layer enables, because the l one, you can't really, I mean, unless you were to change the way the l one works."
+    },
+    {
+        "speaker": "A",
+        "text": "So zoned universal synchronous composability around the ag layer."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm always afraid to use the term universal synchronous composability myself because I'm not entirely sure how it's defined and I may misuse it, but whatever it is, not to find a but this kind of synchronous like composability that we're talking about here, enabled by ag layer and espresso, is between l two s and l two s that share a bridge benefit even more from this because they can leverage this to move again, basically the same underlying l two asset between the two chains. When Justin talks about synchronous composability with the l one, that is also possible, but would require real time proofs. And to be honest, I haven't thought through in complete detail, and I haven't really seen a sort of end to end construction using how real time proofs enable perfect synchronous composability between the l one and l two chains. It's sort of like a high level concept at this point. I'd love to see someone think it through in complete detail, but it's also a little bit far off because we don't have real time proofs today. So that's another reason why it's sort of more of a high level idea at this point, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah. My model for like, understanding how ethereum will achieve, like, global universal synchronous composability, not to add another word onto the acronym, is that like, well, all the chain constructions, the frameworks will figure it out internally first. So the polygon ag layer will figure out how to discover universal synchronous composability. Inside a polygon, the optimism super chain will figure out the same thing for the super chain, and all of a sudden, we'll have zones of perfect synchrony, arbitrum, all the big frameworks, arbitrum, polygon, optimism. And then there will be, rather than bridging between the 17,000 change, you'll actually just bridge between the big ones. Polygon, arbitrum, optimism. And then the frontier of the next era of perfect synchronous composability will then spawn between the super chains and then also down to the layer one. That's kind of my model for this. I know Ryan agrees with me because him and I have talked about this. Brandon. Maybe you can share some takes or reflections on that."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think that's right. I think that's the most likely scenario for how everything plays out. But I will say that without naming names, there are some, especially forward thinking l, two ecosystems that I think are more amenable or open to the idea of using the AG layer, because they understand that it's like, it's not adversarial to them and how they operate. Like, there's no rent, there are no sequencer fees, there are no, like, restrictions on how, on how chains operate. And so, I mean, like, you know, this might be unrealistic and it might not come to fruition, but, like, from the polygon perspective, we're really trying to build, like, credibly neutral public infrastructure. I think to your point, it's, like, difficult to overcome those, like, natural, like, competitive forces and instincts. And, like, I think from the Ethereum perspective, it's good to have competition. It's good to have different teams that are exploring different ideas. But I do think that there's a world in which we build this minimal public infrastructure. And the bet from the polygon perspective, is not like, the AG layer is going to enable us to capture a lot of value. There's not really a great value capture mechanism for polygon from chains. But the bet is, by having infrastructure like this, it will just take Ethereum to its next phase, and there will be so much value created by an ethereum that's not fragmented and can scale that it will just be good for every single actor in the ecosystem. That's the bet that we're making."
+    },
+    {
+        "speaker": "A",
+        "text": "I think probably one of the reasons why everyone's still a little bit tribal about their preferred solution is that we're all talking about it, and we haven't actually seen them be actually in production out in the market yet. So maybe we can turn the conversation there. Brendan, how do people get their hands on the user get their hands on the ag layer? Is it launched yet? Is it not launched yet? When will people's first interactions with the AG layer be? And then when does espresso come into the fold?"
+    },
+    {
+        "speaker": "C",
+        "text": "Sure. So the first thing I will say, I might get in trouble with the polygon marketing department."
+    },
+    {
+        "speaker": "A",
+        "text": "Nice. I prefer that."
+    },
+    {
+        "speaker": "C",
+        "text": "But the AG layer doesn't exist in the way that we're talking about it now. There are a few chains that are hooked up to a shared bridge, but all the things that Ben and I are describing about the ag layer enabling low latency interoperability and providing all these safety guarantees, that has yet to launch. And we're really, really hard at work building and designing and iterating on this. I would imagine that we'll see something hit main net. I don't know. It's a dangerous game to really predict, but I think that we're making really good progress. And certainly Q three or Q four of this year is like where we're targeting. But yeah, I think, Ben, I certainly don't want to speak for, like, when the espresso plus aglayer."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, well, maybe we can talk independently about your. Yeah, so I guess that's AG layer for Espresso. We're launching first, you know, production. We've been, we've had versions of Espresso and Testnet, you know, for, for over a year. And we just released our fifth Testnet called Cappuccino, that's supposed to be the last testnet before calling our productionized version of Espresso. And that's going live this summer and has a number of chains that are already planning to use it. With respect to chains using both AG layer and espresso together, we're working hard together with the Polygon team to make that be possible as soon as we can. But it obviously depends on both espresso launching, Aglaya launching, and the two being used together. I would say that once those two things are independently launched, then it's sort of like immediate that you can use both of them together. Because it goes back to what I was saying earlier, which is that the existence of chains that are leveraging AG layer for this security of message passing or a shared bridge creates a ever more the reason for the espresso marketplace and ever more the reason for third parties to buy the rights or acquire the rights through an agreement to sequence for multiple chains that are part of the AG layer circle and enable interoperability between them. So they are complementary, but they don't require a lot of hard work to integrate once they both exist."
+    },
+    {
+        "speaker": "A",
+        "text": "Ben, can you kind of share maybe just how difficult or not difficult it is to integrate with the aglaya? I know, like, everyone is still in their engineering phase at the moment, but, like, with the product that espresso has ready out the gate, is this like, trivial to integrate with the AG layer? Is this like an engineering feat? Like, on the scale of difficulty to, like, put these two systems together? How hard is that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Interestingly enough, integrating with AG layer and integrating with espresso are sort of true two different things, but that touch similar parts of the code of a roll up. When a roll up integrates with aglayer, it needs to make certain changes to its CKVM contract. Similarly, when a roll up integrates with Espresso, it needs to make certain changes to its ZKVM contract, not necessarily VM. ZKVM contract. The changes that are made are not exactly the same. Okay. Um, the. Once the changes have been made in a roll up so that it can sell its sequencing rights to third party coordinators through Espresso, benefit from Espresso's fast finality, and also benefit from the security that aglayer provides, or the shared bridge that AG layer provides, then everything else just falls into place. You know, when we, when we have chains integrate with Espresso for some of them, we just do this work for them. Like with, you know, we, we built a lot of this tooling for that, for the, for the arbitrum ecosystem, because that was a focus area for us first. Right. We built a lot of this tooling for the optimism ecosystem. Although it sits currently on an op fork, you know, we haven't built it for every ecosystem out there. And so the biggest, the most of the work is in changing how the roll up contracts operate. And like some, for some ecosystems, we'll do it ourselves, and it'll be really easy for people to use for other ecosystems will have to make the changes on their own. I imagine it will be similar, but I don't want to speak for Brendan with AG layer, where the Polygon CDK will just have some stack that you can use that automatically is compatible with AG layer. But if other stacks want to be ag layer compatible, they could make those changes too. I don't know if it will be done for them, but they could. That's the hardest work."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think that's exactly right. For the AG layer, it's modifying certain aspects of ZKVM and what it's proving and what it's exposing. But, yeah, I mean, certainly Polygon CDK will have support out of the box. And I think for us, there's no reason not to support other stacks and other ecosystems."
+    },
+    {
+        "speaker": "A",
+        "text": "So is it really up to the roll up to do mutual integrations with both the AG layer and the espresso for the synergies between these two things to blossom? Or does espresso actually have to talk to the AG layer? Or is it once they're both integrated, just the roll up gets all the fruits of those mutual synergies?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So I guess to go in a bit more detail into what needs to change in a roll up contract to be compatible with Espresso, it's today roll ups tend to have one sequencer, and the roll up contract will only accept transaction blocks that were built by this one sequencer. So it's like a hard coded address that, that is the only address that will be recognized by the roll up contract, whether it's a ZkVM or an optimistic VM. Same deal. The changes that are required to integrate with Espresso are to change the way that roll up contract works, to accept blocks that were produced by whoever the sequencer is. And that sequencer is determined by a sale within a marketplace. And that leverages this espresso consensus protocol, which is also this fast finale layer that gives you quickly an idea of what happened within any of the chains that are using Espresso. So you're making these changes to the contract to not listen to this hard coded address, but to listen to Espresso's consensus protocol. That's the switch move from hard coded address to consensus protocol. And with AG layer it, two chains need to essentially delegate an additional check to another contract. They may also need to move from using their own asset bridge to Ethereum to using this shared asset bridge to ethereum. And so those are two different changes. But because they're both, let's say you have a ZK roll up, if you're making two different changes in how the contract works, you also change how the proof system works. And so it's a good idea to do that together. So what we will build together with a polygon team for, at least for the polygon CDK change is like something that just does this so people can just use it in another ecosystem. Again, the changes to the contract that integrate with Espresso and integrate with AG layer touch different logic, but it's still, both of them are changes to what needs to be proven. If you're a ZKVM and so it makes sense to do those changes at the same time. Brendan, do you more or less concur?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, no notes from me. I think that's a good way to look at it."
+    },
+    {
+        "speaker": "A",
+        "text": "As you're summing some of this up, I just got out of a podcast with Anatoly, so I'm in a little bit of a Solana mindset. And, Ben, you said something that I want to go back to, where if we're building a block on a polygon chain or an optimism chain, and they're integrated with the ag layer, then you're able to co build the blocks, passing messages back and forth. I don't know if my naive engineering brain is off on a wrong path here, but Solana blocks aren't actually binary. They're built as they go. And this feels a little bit like that, where the blocks are being built really, really fast in tandem with each other. And then also, there's going to. Because there's going to be 10,000 chains out there. There's going to be another blockchain with another chain that needs another block ready to go. And so this kind of feels a little bit like Solana's endgame, but happening in the layer twos, where there is a lot of blocks being built all at once. And espresso is kind of this central coordinating body of all the resources going around these chains for all the chains that are integrating with espresso. I mean, and so just understanding the super fast speed of espresso, is there any similarities between the design of block production on the Solana side of things with just, like, super high throughput and continuous block production and kind of what comes out as a net result out of espresso?"
+    },
+    {
+        "speaker": "B",
+        "text": "I'm honestly not familiar enough with the Solano ecosystem to maybe carry this analogy all the way through or follow it completely. I will say that espresso doesn't necessarily speed up the construction of blocks that's happening in these roll ups. The way to think about it, I mean, first, there's two components to espresso. One is this finality layer, and one is the marketplace. But the marketplace is just a way of sort of transferring who gets to build. Yeah, maybe that third party builder will be able to build blocks faster, but a lot of rollups will still also have, like, a fixed block time anyways that they might stick to. So I don't know if we really speed up the block construction, and maybe that's going to be different from the way that block construction works in Solana. It's not on sort of twelve second intervals, maybe more real time. I know that certain roll ups do go more for this sort of real time feeling. I know arbitrum tries to emulate that a lot, but in any case, espresso itself doesn't really change the nature in which blocks are constructed. What it does is it provides a much quicker confirmation once blocks have been proposed for a roll up. That that's what was proposed and it can't be changed. That confirmation is ultimately provided by Ethereum once the block is published on Ethereum, but it's not published on Ethereum every few seconds. And even if it were published on Ethereum every few seconds, it's not final on Ethereum until after several minutes. So hopefully that helps. I know that didn't completely answer the question. I think there might be some kind of analogy to Solana, but nothing Solana enough."
+    },
+    {
+        "speaker": "A",
+        "text": "I think maybe it's about like who, who's the actual block builder behind the scenes here? And I think with Solana it's like, well, you got to be a pretty damn juiced up box in order to really do your role. And I'm assuming that that's also generally true of whoever's going to be doing some cross roll up block construction, using the ag layer, collecting all the data, doing the simulation, and then building a block. I'm assuming there's very similar players here."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I mean, I will give one slightly spicy take, maybe, which is that. So I think ultimately all chains, whether they're l one's or l two s, will participate in some kind of marketplace for sequencing. And that's just my particular view. You know, we talk about sequencers on l two s and we talk about l one's. And it's actually the case that l one's also have sequencers. We just call them validators or leaders."
+    },
+    {
+        "speaker": "A",
+        "text": "Right, right, yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And today they're generally the sequencer for Solana or for Ethereum is randomly elected from some set. But that's not the only way to do it. And likely a more economically efficient way of doing it is to actually sell the sequencing slot, not randomly elect from some set. That has benefits for reducing mev extraction, it has benefits for internalizing the value that is generated by these ecosystems within the protocol. And I think it's going to ultimately be extremely important for application retention. Applications all want to build their own chains because they don't get a share of the revenue in their host ecosystems. And so if all l one s ultimately move to selling sequencing rights through big marketplace mechanisms, that everyone is participating in, then it's going to change the way the whole landscape works. And sort of, it makes it difficult for me to predict how blockbuilding within Solana will look different. Block building."
+    },
+    {
+        "speaker": "A",
+        "text": "Brendan, were you going to say something?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, to sort of back up to those, like, the dynamics. Like, I think it's the case, like, it's important to emphasize, like, not only is the sequencer picked from among the validator set, but, like, the sequencer, like. Like that. That implies that, like, the sequencer, or, sorry, that validators must have, like, the same hardware requirements as the person doing block building. I think that's like a really, really important thing to emphasize, which is that, like, what l two s and sequencing allows to do is we can have very, very high powered block builders that might run on commercial infrastructure and can provide this amazing user experience. But validators can still be raspberry PIs. Because all of this, I think that point is really important to emphasize, which is that, like, for Solana, there's a limit to how high powered the sequencer or the block builder can be, because all the validators must be able to re execute every transaction. Whereas in the ecosystem that we're describing, you might have a really sophisticated and professionalized block builder, but you still get the same trust guarantee and the same decentralization guarantee of full nodes and validators. On Ethereum. Yeah, I mean, to give an equally spicy take, I think that what Ben is describing is sort of like Solana's worst nightmare, because we can have the ability to offer composability across a bunch of these different execution environments. But we're not limited to some of the scalability issues that Solana faces, which are like, we can have local fee markets and we can parallelize execution, but we're still, like, all applications are ultimately still contending for the same resources in terms of bandwidth. And I don't want to go into the same tired Ethereum and Solana debates, but I think it's a really interesting other point in the design space."
+    },
+    {
+        "speaker": "A",
+        "text": "Totally, totally."
+    },
+    {
+        "speaker": "B",
+        "text": "I think it would be. Personally, I think it would be really cool if we see a transition from l one to using the same technology that's powering l two s as well. And I could see that happening. I could see l one s changing just the way that they do sequencer election and also becoming things like ag layer aware. You could imagine that ag layer and espresso are now not only a mechanism through which l two chains can communicate and also basically monetize block space and not elect sequencing success, but basically sell, you know, sequencing rights. L one s would do the same. And l one chains and l two chains sort of become sort of, you know, very blurred line."
+    },
+    {
+        "speaker": "A",
+        "text": "Right."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, like a very simple, like, consequence of this is like, you start to ask the question like, why does every l one not settle to Ethereum? Like it's a serious question because, like, more assets are issued on Ethereum. The bulk of the value in the crypto ecosystem, excluding bitcoin, is on Ethereum, and it's from Ethereum issued assets. And so if you want to use those trustlessly and you really want to scale in a way that's meaningful, then you should be settling to Ethereum because that's the way that you can trustlessly access the value that currently exists in the Ethereum ecosystem."
+    },
+    {
+        "speaker": "A",
+        "text": "Maybe we just gave some listeners a taste of the very, very far off future. But first we need to see the synergies between the ag layer and Nespresso produce localized, universal shared composability, universal synchronous composability. Then we'll get it to Ethereum, and then we'll get it to the entire crypto industry. Let's give people something to look forward to or something to pay attention to. Or also just like call out, who are the archetypes out there that you guys are trying to talk to? Is it the devs, the chain deployers? Who are the people that you guys really want to hear from and give them something concrete to go look at? Ben, we'll start with you."
+    },
+    {
+        "speaker": "B",
+        "text": "Of course, we're interested in hearing from everyone, but first and foremost, developers of chains who are building either existing l two s or looking to build new l two s and looking for ways to be as interoperable as possible so that their users ultimately can enjoy the same experience that they would enjoy if this was an application on Ethereum, but at much lower cost. Chains that are, you know, and how the various design principles that we've been talking about at Espresso and that Aglaya has been talking about resonate with builders. It's always useful to have feedback. I mean, we think that it's really important to maintain chain sovereignty, allow chains to sort of monetize their own block space, but also have as retain as much of the experience as possible that applications have on Ethereum, since fragmented liquidity is the biggest limiting factor to being an l two. But if developers out there, if you have sort of a different view of things, if you want to see something be done slightly differently in what we're designing, it's very useful to hear from you. Or if you're excited about building with us, then get in touch."
+    },
+    {
+        "speaker": "A",
+        "text": "And Brendan, same question. Who do you want to hear from? Who do you want to talk to?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, so I think, obviously chain developers to echo Ben. But I think also, for all this to work, there are a lot of different players that are required to really deliver an amazing ux. And so I think that's while providers, I think it's block builders. I think it's like intent solvers. There's sort of like a lot of. I think that we overemphasize the infrastructure side, and there's a lot that goes into creating a really amazing user experience."
+    },
+    {
+        "speaker": "A",
+        "text": "Pennyless nation, if you would like to talk to either of these two gentlemen, there will be Twitter linked in the show notes in the YouTube channel or wherever you are listening to this podcast. So, Ben, Brendan, thank you for coming on and showing us a little bit of the future. Appreciate it, guys."
+    },
+    {
+        "speaker": "B",
+        "text": "Thank you so much."
+    },
+    {
+        "speaker": "A",
+        "text": "Bankless sanction. You know the deal. Crypto is risky. Defi is risky. Layer twos, they're working on it. They're still risky, though. You can lose what you put in. But we are headed west as the frontier. It's not for everyone. We are. We are glad you are with us on the bankless journey. Thanks a lot."
+    }
+]

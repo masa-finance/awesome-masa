@@ -1,0 +1,2246 @@
+[
+    {
+        "speaker": "A",
+        "text": "I also think the meme coins, do they pass the Howey test? Like, literally no one has an expectation of profit."
+    },
+    {
+        "speaker": "B",
+        "text": "None of the money is going into the development of anything."
+    },
+    {
+        "speaker": "A",
+        "text": "Anything. Yeah. There's no, like, shared fees."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, nothing is getting built, period. Not a dividend."
+    },
+    {
+        "speaker": "A",
+        "text": "It's a tale of two quan."
+    },
+    {
+        "speaker": "C",
+        "text": "Now your losses are on someone else's balance sheet."
+    },
+    {
+        "speaker": "D",
+        "text": "Generally speaking, airdrops are kind of pointless anyways."
+    },
+    {
+        "speaker": "C",
+        "text": "Unnamed trading firms who are very involved."
+    },
+    {
+        "speaker": "A",
+        "text": "Pollock eth is the ultimate possibility."
+    },
+    {
+        "speaker": "B",
+        "text": "Defi protocols are the antidote to this problem."
+    },
+    {
+        "speaker": "C",
+        "text": "Hello, everybody. Welcome to the chopping block. Every couple weeks, the four of us get together and give the industry insiders perspective on the crypto topics of the day. So quick intros. First, you got Tom, the defi maven and master of memes."
+    },
+    {
+        "speaker": "D",
+        "text": "Hello, everyone."
+    },
+    {
+        "speaker": "C",
+        "text": "Next, we've got Robert, the crypto connoisseur and tsar of superstate GM, everybody. And we've got Tarun, the giga brain and grand poo bah at Gauntlet."
+    },
+    {
+        "speaker": "A",
+        "text": "Aloha."
+    },
+    {
+        "speaker": "C",
+        "text": "And I'm Haseeb, the head hype man at dragonfly. So we are early stage investors in crypto, but I want to caveat that nothing we say here is investment advice, legal advice, or even life advice. Please see chopping block XYZ for more disclosures. So, boys, we took a week off and turned out we took the worst week to take off possible."
+    },
+    {
+        "speaker": "B",
+        "text": "Best week."
+    },
+    {
+        "speaker": "C",
+        "text": "Because, well, for us, best week. But for, I think, the listeners, they probably want to hear from our reactions to bitcoin kissing all time highs. Now, interestingly so, bitcoin basically went right up to then retreated. I think right now, as we're recording, it's like 67.5. Somewhere in that ballpark. There was a great article in coindesk that pointed out how in most currencies, bitcoin has already surpassed all time highs because the dollar has been very strong relative to most currencies. So in Korea, in India, in Europe, bitcoins already surpassed all time highs, but in dollar terms, bitcoin is slightly below all time highs, but it has really cemented bitcoin mania at this point, bitcoin has pulled ahead of almost everything, except for, of course, meme coins, which are going nuts, which we'll also talk about. How does it feel now emerging on the other side of what was. I mean, people were calling it a bear market for really quite late now. I'm hearing people say it's starting to be a bull market. I'm like, dude, it's full on bull market. How do you guys feel? And what are you observing?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I can't speak for everybody, but speaking for myself and for a lot of crypto Twitter, I don't think it feels like prior bull markets yet in that this is like the quietest all time high bull market rally we've had probably in crypto history. The last couple of times we said all times highs, there was a lot more mania, there was a lot more retail. This was a slow burn up pretty much the whole way."
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, I don't know if that's true. We had the biggest monthly candle in bitcoin history. It went up 20k in February."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, but that's a notional increase. And, you know, versus prior markets, you know, that's the equivalent of like, you know, four or five k. Yeah, I."
+    },
+    {
+        "speaker": "D",
+        "text": "Think when you look at sort of the traditional, like mania metrics, like, you know, coinbase ranking on the app store and also just like friends texting you, it does feel very muted. And I think we're gonna talk about ETH Denver later. But Eth Denver also felt that way. Like 2022 ETH Denver, like immediately post Covid was. Was mania. Like downtown Denver, Washington fucking packed. Like Diplo was flying. It was like, this is too much, this Denver, you know, it was still big, but it felt a lot more subdued, which overall was. Was a lot nicer."
+    },
+    {
+        "speaker": "A",
+        "text": "So, yeah, it did have one celebrity."
+    },
+    {
+        "speaker": "D",
+        "text": "Who are you thinking?"
+    },
+    {
+        "speaker": "A",
+        "text": "Dua Lipa?"
+    },
+    {
+        "speaker": "D",
+        "text": "Oh, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I agree with that. My signal from the people messaging me is it's still like people I know in normal trading or in tech being like, hey, like, is this real? The last time I got messages like that was when Balaji did the, like, it will go to 100k thing. Because I think that was just like so egregious. Yeah, but yeah, I mean, I guess it feels like the ETF is the cause. Although the interesting thing to me that a funny statistic I think about is like the total amount of inflows from the ETF is roughly the same as the total TVL of Eigen lair, which is crazy. 10 billion. 10 billion."
+    },
+    {
+        "speaker": "C",
+        "text": "I thought 10 billion was just Blackrock. It is, yeah, I think $10 billion. I think the full ETF complex, but."
+    },
+    {
+        "speaker": "D",
+        "text": "I think the net inflows is like eight. If you take."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, you have to take out the grayscale."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, I see the total."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, sorry, I was just looking at a chart of like the total cumulative."
+    },
+    {
+        "speaker": "C",
+        "text": "Got it."
+    },
+    {
+        "speaker": "A",
+        "text": "And it. Come on, you have to admit that is a crazy statistic. Yes, but as an obvious disclosure, eigen layer, investor supporter, or whatever. I still think that, to me, is the biggest statistic."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, but with the ETF's, that's a net inflow of new capital purchasing the asset, whereas with Eigen layers taking an asset that's already owned and simply staking it. And it's not necessarily."
+    },
+    {
+        "speaker": "A",
+        "text": "But locking it up for a long time."
+    },
+    {
+        "speaker": "B",
+        "text": "No, Eigen layers. Not locking it up for really any amount of time, you can withdraw from Eigen."
+    },
+    {
+        "speaker": "A",
+        "text": "No, no. But I mean, your point distribution, all of the reward mechanisms are, if you."
+    },
+    {
+        "speaker": "C",
+        "text": "Want to maximize your points, it's a long term."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, but it's not a net flow of capital."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah. Still, it's just letting you."
+    },
+    {
+        "speaker": "C",
+        "text": "Let the man chill. Let the man chill."
+    },
+    {
+        "speaker": "A",
+        "text": "It's still interesting to think about, like, the net inflow of new capital and the size of this new thing are the same, which is, to me, wild."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. They're both super impressive."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah. I mean, I think I hear what you guys are saying about the mutedness. That being said, I think it's like, we have to remember that all this is happening with interest rates at 5.5%. Right. The last time bitcoin was at this price, interest rates were at 25 basis points, which sort of, on a risk adjusted basis, makes bitcoin much more valuable than it was at that time. That being said, there's also been a lot of inflation since then. So, technically, like, it would be."
+    },
+    {
+        "speaker": "D",
+        "text": "What would Balaji be saying?"
+    },
+    {
+        "speaker": "C",
+        "text": "I know. That's right."
+    },
+    {
+        "speaker": "A",
+        "text": "Another reason I think it's muted is one that maybe is not visible to the west, which is, like, all the money that left the chinese stock market. Where do you think some of it had to go into crypto?"
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, for sure."
+    },
+    {
+        "speaker": "A",
+        "text": "There's no, like, that deflation of that index. Like, yes, there was, like, at least 30, 40% those foreign money that was leaving the chinese equities instruments. But, like, you gotta admit, you got to expect that the majority of that, like, capital outflow had to have gone."
+    },
+    {
+        "speaker": "C",
+        "text": "The foreign capital outflow or the domestic."
+    },
+    {
+        "speaker": "A",
+        "text": "Even the domestic capital outflow."
+    },
+    {
+        "speaker": "C",
+        "text": "I don't think the domestic capital outflow is explaining what's happening in crypto. Like, one."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't know how to. That's the problem."
+    },
+    {
+        "speaker": "C",
+        "text": "There's been enormous wealth destruction in China over the last, like, year. So that's. That's for sure. And also, the discretionary. Like, you know, the discretionary income in China is super low right now. Youth unemployment is super high. They have a lot of problems domestically. The other thing, too, you can see when prices are moving and prices are moving the most during Wall street hours. So basically, 09:00 a.m. to 04:00 p.m. eastern time is when crypto prices are moving."
+    },
+    {
+        "speaker": "A",
+        "text": "But Asia, the last run up, I mean, like, until December, there was like the Solana December era run up that had a lot of the, like, anti, perfectly anti correlated to, like, the chinese stock index for like a month straight."
+    },
+    {
+        "speaker": "B",
+        "text": "Pre ETF."
+    },
+    {
+        "speaker": "A",
+        "text": "The pre ETF, I think there was like a lot of, like."
+    },
+    {
+        "speaker": "C",
+        "text": "But right now it's very clear. Everybody you talk to says that us flows are driving everything. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "Coinbase prices on bitcoin is like two $300 ahead of binance and international prices."
+    },
+    {
+        "speaker": "C",
+        "text": "Is that right? I didn't realize that."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. The last couple of days, it's been a huge discrepancy."
+    },
+    {
+        "speaker": "C",
+        "text": "Holy crap."
+    },
+    {
+        "speaker": "B",
+        "text": "And that's indicative of the flows."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So it does feel like right now, I think the interesting thing is that the mania is being driven more, if you can call it a mania, it's being driven more by institutions than by retail. Right. Retail is engaged. So I also like tracking where Coinbase is on the app store. I think as of a week ago, it was below the top 100. Now it's within the top 50 on the app store. So it's climbing, it's climbing, it's making progress. Of course, Kwame has been down a couple of times within the last week, which is also a bull market sign of like, hey, things are falling over again. It hasn't happened on any of the other exchanges. So binance hasn't fallen over. OKX hasn't fallen over, which is also a sign. Again, this is a US driven thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, yes, but Coinbase has always had more site reliability issues than the other exchanges. Historically, in other bull markets, Coinbase was having site degradation every day in some cases."
+    },
+    {
+        "speaker": "C",
+        "text": "Right? Yeah. So they say they're working on it, but we'll see. Maybe that's one of the things to watch in this cycle. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Once Coinbase hits top ten, that's when you have your exit signal, and that's when you."
+    },
+    {
+        "speaker": "A",
+        "text": "Not financial advice."
+    },
+    {
+        "speaker": "B",
+        "text": "Not financial."
+    },
+    {
+        "speaker": "C",
+        "text": "Not financial advice."
+    },
+    {
+        "speaker": "B",
+        "text": "It kind of is."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, he's giving financial advice. We're not giving financial advice. Yeah. I mean, if you remember, in 2021 and in 2022, Coinbase was the number one finance app on the app store, basically continuously for the entire year. And on certain days, it was number one across the entire app store. Literally more downloads than Facebook, than TikTok."
+    },
+    {
+        "speaker": "A",
+        "text": "Having never looked at this, what is the top five right now on the."
+    },
+    {
+        "speaker": "C",
+        "text": "App store for finance?"
+    },
+    {
+        "speaker": "A",
+        "text": "In the finance in finance."
+    },
+    {
+        "speaker": "C",
+        "text": "Number one is cash app number two is Venmo. Yeah, it's like Venmo. Zelle Chime."
+    },
+    {
+        "speaker": "A",
+        "text": "Robinhood."
+    },
+    {
+        "speaker": "C",
+        "text": "Robinhood is pretty low. Robinhood is slightly above Coinbase. So, yeah, it's mostly like pay people type apps. So that was all that stuff got pushed down by Coinbase in the 21 cycle. So that, I think, is a sign that you're getting to a full on retail mania. But the other thing is just the qualitative thing where everybody at a party is talking about tokens. Like a non crypto party. Not yet. I mean, but it definitely happened in the bull market, right? Or like, you get into Uber and the Uber driver is giving you token tips. Oh, yeah, that kind of thing."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, the funny thing is that I've seen more of, well, in Denver."
+    },
+    {
+        "speaker": "C",
+        "text": "In Denver?"
+    },
+    {
+        "speaker": "A",
+        "text": "Not just Denver, even in New York, I feel like. I see you're getting that. Denver's having, like, a price chart open multiple times. Multiple times the last two or three weeks."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, interesting."
+    },
+    {
+        "speaker": "D",
+        "text": "What are they trading?"
+    },
+    {
+        "speaker": "A",
+        "text": "Eth and wif."
+    },
+    {
+        "speaker": "B",
+        "text": "Really?"
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, really whiffed."
+    },
+    {
+        "speaker": "B",
+        "text": "Cause the last bull market at, like, the very top, my neighbors were asking."
+    },
+    {
+        "speaker": "A",
+        "text": "Me about doge and, well, shib, like, flipped Avax today, which was crazy. 17 billion ftv, super volatile."
+    },
+    {
+        "speaker": "C",
+        "text": "It's like, shooting up and down, like 20, 30% a day. So, okay, there's the question of, are we in a bull market? If so, what stage of the bull market we're in? Fine. How does it feel as investors to be back here so soon? Because I think most of us were not."
+    },
+    {
+        "speaker": "A",
+        "text": "We invested a lot when everyone was like, crypto sucks. That's all I got to say."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "I think, you know, prices have kind of been creeping up. Obviously, people comp privates to publics, but it doesn't feel, um, as frothy as 2021 when every normie VC, every random person who cuts angel checks is hitting you up for allocation or sending you deals, those people are still feel very sidelined. And so, similarly, it's like we're in."
+    },
+    {
+        "speaker": "A",
+        "text": "April 2021 if we go by my following metric, which is when I start getting, like, traditional vc analysts following me on twitter, and I start seeing xxx at whatever, just graduated the why? Why finance club. And I'm like, okay, so they're the ones who are early, who have to present to their IC, and you can see that happening again."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, I think in the private markets, valuations are not going up as fast as they did in prior bull markets."
+    },
+    {
+        "speaker": "A",
+        "text": "Wait, wait, wait, wait, wait. Like, right now is crazy."
+    },
+    {
+        "speaker": "C",
+        "text": "I don't think it's crazy yet. I think it's gonna get crazy within a couple months."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Do you remember at the top of the last bull market, someone with an idea would walk into a room and be like, I need a $300 million valuation, and was taken seriously."
+    },
+    {
+        "speaker": "A",
+        "text": "I think we're getting close to that."
+    },
+    {
+        "speaker": "C",
+        "text": "Where? Where are you seeing that? Where are you seeing that?"
+    },
+    {
+        "speaker": "A",
+        "text": "I feel like a lot of the copy pasta infrastructure stuff of, like, x already exists and is live. And, like, here's the. We wanna be number two. Yeah, the number two with no code and, like, okay, maybe some pedigree is raising at, like, 10% of the, you know, the public comp. I think the public comps being so crazy."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "You know, the public and private have this leading and lagging cycle thing. Right, obviously. But you're seeing the private comps, like, make a big jump. Cause, like, until the end of last year, they were still super low. And I think, you know, the catch up happened in January. And now it's like."
+    },
+    {
+        "speaker": "C",
+        "text": "I think what I'd say is I'm seeing, like, the a's and B's really creep up, but the seeds are actually not that crazy yet."
+    },
+    {
+        "speaker": "A",
+        "text": "I. Well, there's no growth. There's no real growth stage companies that are raising right now."
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, there are plenty of plays that are trying to raise, like, 30, 40 million."
+    },
+    {
+        "speaker": "A",
+        "text": "But I mean, like, see, like, have. Have, like, kind of survived the last cycle, right? Like, how many people survived the last."
+    },
+    {
+        "speaker": "C",
+        "text": "No, I'm talking about mostly green projects."
+    },
+    {
+        "speaker": "A",
+        "text": "I think the thing you're seeing that's interesting that I don't know if a lot of listeners kind of know. The dynamics of crypto companies has changed a lot. It's like, very different than the traditional venture. Like, I raise a seed round, I meet some milestones. I raise an a, I meet some milestones. I raise a b. It's sort of this thing where it's like, I raise a seed, maybe I raise an a and I launch the network. I have a token generation event, and then the b or c is like a treasury sale, right? And those treasury sales, I think, are very differently priced than, like, a, b, or c. And I think that's why you're kind of seeing this market move differently than it did last cycle. I don't think there was many large, there was Solana and stuff like that. But now you see much smaller projects doing treasury sales, and I feel like that's a difference qualitatively. Also, I'm not sure if that's a sign of we haven't hit mania, but yeah, it's some capital market structure change that seems relevant."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, it was also alts have really lagged this market. A lot of them are multiples from their lows, but they're still a good chunk off their all time highs. You know, there is some rerating, but it's not as pure euphoria as 21 in that way. Where again, looking at comps, it's like they're not hitting all times high like bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "It's true. The memes are also aren't as violent as the 2021 memes. There's no have fun staying poor or whatever."
+    },
+    {
+        "speaker": "C",
+        "text": "I think we're getting there. I do feel like we're getting there."
+    },
+    {
+        "speaker": "A",
+        "text": "Really? Have you seen any kind of, like, overly aggressive memes?"
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, it depends on what you mean by overly aggressive. Like, there is definitely a lot of dancing in the streets and sort of like, I think the. Especially in the meme coin space, I feel like that's where it's the most exaggerated. I think with bitcoin. Bitcoin is. I don't know at this point, what is there to say? Yeah, bitcoin is going to win. It's going to keep winning. But I feel like even the ether people, or, I don't know, the bankless guys, they're super aggro and getting out there and getting into fights. Murd is constantly sub tweeting people, no."
+    },
+    {
+        "speaker": "A",
+        "text": "But he seems to be giving out olive branches because now his tweets are all praising non Solana things."
+    },
+    {
+        "speaker": "C",
+        "text": "That's true, that's true. Maybe he's found a different strategy in the bull market that works better. You know, we all win together. But to your point, Tom, just for a sense of scale right now. So bitcoin very close to all time highs. Basically a few percent off all time highs. Ethereum is down about 30% from all time high. I feel like it's less than 20, 20% off."
+    },
+    {
+        "speaker": "B",
+        "text": "It was what, 4600 or so with the all time high? Yeah, 3800."
+    },
+    {
+        "speaker": "D",
+        "text": "I think it's like 10%, 1020 percent, something like that."
+    },
+    {
+        "speaker": "B",
+        "text": "It's close."
+    },
+    {
+        "speaker": "C",
+        "text": "No, more than that. No, it's 4600. It's at 38."
+    },
+    {
+        "speaker": "B",
+        "text": "No, I thought it was like 45."
+    },
+    {
+        "speaker": "D",
+        "text": "Okay."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so it's like 20%, 20% off all time high."
+    },
+    {
+        "speaker": "B",
+        "text": "At this rate, it's like three days away."
+    },
+    {
+        "speaker": "A",
+        "text": "Guys, you're making, you're giving this type of estimation, you're giving credence to all of the people who are like, crypto's astrology for."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, the thing is, we don't. Okay. I don't actually know what the alt. Somewhere between four to five k. It's a 4500 vibe."
+    },
+    {
+        "speaker": "D",
+        "text": "How about that?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah, yeah. Exactly. But the point is that for all."
+    },
+    {
+        "speaker": "A",
+        "text": "Rising 4500 Saturn, 40, not."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, let me finish this point. Bitcoin is a few percent off all time high. Ether about 20% off. Most of the alts, especially the Alt l one s, are down somewhere between 60% to 80% from all time highs. So big spreads."
+    },
+    {
+        "speaker": "A",
+        "text": "Salon has to be leading 50%. Near is like, also 40%."
+    },
+    {
+        "speaker": "C",
+        "text": "Near is probably 70% from all time high."
+    },
+    {
+        "speaker": "A",
+        "text": "No, no, it jumped a lot today. It's up 50."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, yeah. A tie was 20. Oh, so it's down 75 from all time high. Yeah. So a little bit. Little bit under 70. But I think that's characteristic of."
+    },
+    {
+        "speaker": "A",
+        "text": "Wait, it was 20."
+    },
+    {
+        "speaker": "C",
+        "text": "I didn't realize that was the top. That was the top for new. Yeah. Exposure."
+    },
+    {
+        "speaker": "B",
+        "text": "Were investors in there?"
+    },
+    {
+        "speaker": "A",
+        "text": "I think everyone."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah, that's right. So most of the alts are quite a bit down from all time highs. But also, I mean, again, interest rates haven't been cut yet. And I suspect that the spread between the all time highs for bitcoin and the alts is going to be really tied to risk appetite and on an absolute scale, risk appetite."
+    },
+    {
+        "speaker": "A",
+        "text": "I guess what you're also claiming here, though, is that a lot of new capital has no leverage in it versus."
+    },
+    {
+        "speaker": "C",
+        "text": "Like, that is also true, which is."
+    },
+    {
+        "speaker": "A",
+        "text": "Probably why it's also less manic."
+    },
+    {
+        "speaker": "C",
+        "text": "Right, right. And it's coming in through bitcoin. Right. And so it takes some time for that."
+    },
+    {
+        "speaker": "D",
+        "text": "You're right that I think the majority of the net inflow has been through the ETF's, which is like, not leveraged. But if you look at, like, futures open interest, futures funding, I mean, there's like 100% APR, like on Monday."
+    },
+    {
+        "speaker": "B",
+        "text": "Funding rates on foreign exchanges are insane."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Yeah. So I don't know. There's still."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I just mean there's not like people, like, I remember there's no GPTC trade this time. Yeah. Well, I also just remember in the pure exuberant retail manual, 2021, just like, people posting things on Reddit, like, I just took out a home equity loan and put it all in bitcoin. I don't see any of that type of stuff."
+    },
+    {
+        "speaker": "D",
+        "text": "Maybe they took it out on figure the blockchain provenance."
+    },
+    {
+        "speaker": "C",
+        "text": "Blockchain provenance blockchain. Yeah. It's funny because it does feel like right now everyone, everyone agrees bitcoin is going to go up. Like, there's nobody I can find who's."
+    },
+    {
+        "speaker": "A",
+        "text": "Like a little scary."
+    },
+    {
+        "speaker": "C",
+        "text": "Right? Exactly. Exactly. But it is also self."
+    },
+    {
+        "speaker": "A",
+        "text": "I guess the big event hasn't happened yet."
+    },
+    {
+        "speaker": "C",
+        "text": "So the big event being happening, is that the big event?"
+    },
+    {
+        "speaker": "B",
+        "text": "I don't know if it's that big of an event."
+    },
+    {
+        "speaker": "C",
+        "text": "I don't think it's a big event."
+    },
+    {
+        "speaker": "B",
+        "text": "So here's why it doesn't really matter."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I'm just saying it's a big event on the calendar."
+    },
+    {
+        "speaker": "C",
+        "text": "It is a big event on the calendar insofar as there's not a lot of things on the calendar."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, the shocking event in my mind that's driving all of this is just seeing the magnitude of the ETF flows. The ETF flows at this point are ten x, the newly mined bitcoin. Even after the happening, if nothing changes, that goes from ten x to 20 x. But it's still because of the ETF flows. Ten x daily issuance. Bitcoin always had this daily overhang where there had to be buying demand that exceeded its issuance for it to stay flat. It's like walking on a treadmill. Ether. Different story. But we're already at the point where the ETF flows are so meaningful that the halvening looks unimportant."
+    },
+    {
+        "speaker": "A",
+        "text": "So you think ETF underwriter will buy a miner like an e two fisher? Sorry."
+    },
+    {
+        "speaker": "B",
+        "text": "No."
+    },
+    {
+        "speaker": "A",
+        "text": "Because I could see that being, like, a competitive edge for them if they have."
+    },
+    {
+        "speaker": "C",
+        "text": "Why?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well. Cause they now don't have to net out and give market makers huge incentives daily to find inventory for them."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "But I've, like, kind of wondered."
+    },
+    {
+        "speaker": "B",
+        "text": "It's like, small enough."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, yeah. I don't know. I'm just saying, like, I could imagine in some state of the world that it actually makes sense."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Total. Total M and a speculation."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. And that sounds a little too crazy. Yeah, it sounds too many steps ahead. Also, like the. I think that there's all this weird reg risk with holding a miner, like all the EPA stuff that."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, okay, then explain the diversified income grayscale trusts."
+    },
+    {
+        "speaker": "C",
+        "text": "Right. So grayscale is launching a product that basically has a bunch of assets that you can stake, so they generate staking income. And so people are excited. I think it's like Solana Aptos near. What else is in there?"
+    },
+    {
+        "speaker": "A",
+        "text": "Osmo."
+    },
+    {
+        "speaker": "C",
+        "text": "Osmo."
+    },
+    {
+        "speaker": "B",
+        "text": "Really?"
+    },
+    {
+        "speaker": "C",
+        "text": "No kidding? Yeah. So a bunch of stakeable tokens. And people got very excited about this as being, hey, maybe this is someday coming to an ETF near you. Obviously, these are way farther down on the list of assets that are probably in line to get ETF'd. So we still got to fight the ether battle in the summer. I think May 31 is the big date for whether or not the ether ETF will be approved. And then I suspect what happens is. So right now, I think polymarket is pricing it at roughly 50 50. Whether the ether ETF gets approved by May 31. If it doesn't get approved, almost certainly lawsuit time, people are going to see the SEC. And I think at this point, most people expect the SEC. It's more or less the same argument as bitcoin. So the SEC will probably lose that case, but it takes, whatever, four months, six months?"
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, longer. How long was Grayscale's case?"
+    },
+    {
+        "speaker": "C",
+        "text": "It felt like it was pretty quick, wasn't it? I don't remember."
+    },
+    {
+        "speaker": "A",
+        "text": "I felt like a year."
+    },
+    {
+        "speaker": "D",
+        "text": "I think this is a good point, which is it's not like the SEC has changed their mind on crypto and is now super eager to approve ETF's. If they are dragged kicking and screaming, they will approve an ETF. But it's not like they're really gung ho about approving this ETF."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, my suspicion, though, is that the situation has materially changed since the bitcoin ETF. So, like one, like you said, this is the biggest product in ETF history. So, like, the SEC, ultimately, I mean, people who work at the SEC, they want jobs after they get kicked out if there's turnover in the administration. Right. And so if you are the enemy to, like, the biggest product in the history of ETF's, it's just like, okay, well, great. Nobody will ever hire you. You're an asshole. Fuck you. So I think the other thing they realized is that, look, we were worried about the bad things happening. No, bad things have happened. It has been smooth sailing. It has been totally wonderful. And so to the extent you were worried about market manipulation or whatever boogeyman they were claiming, no, the CME also trades ether. Whatever happened to bitcoin should also happen to ether. And so it seems like I would think it's more likely, especially given that the same players are at the table of Blackrock and fidelity and so on, that if that was the sign that, like, hey, the bitcoin ETF is going to get approved, it seems to me like the same should be true of the ether ETF. But if they get sued, yeah, I mean, it might take another $0.04."
+    },
+    {
+        "speaker": "A",
+        "text": "Nothing too rational of an argument."
+    },
+    {
+        "speaker": "C",
+        "text": "Maybe so. But I have to think that the fact that ETF has gone this well does change things for the SEC, right. I mean, if something went badly, you would think, okay, the percentage should go down. So things went great. That should mean the percentage goes up. I would think. Anyway. I mean, obviously I'm not a ceasera for the SEC, but I think what happens is that ethers first in line, once you get ether in, then you probably get litecoin, XRP, things that already have more or less either XRP case, they won at least the preliminary case before there's an appeal. And then for litecoin, nobody gives a shit. Litecoin trades enough that it's definitely not security. Then you go to Solana, and then Solana is a fight, because they have claimed, affirmatively, that Solana security, whereas they've never claimed that ether is security. They've just never said anything about it. So I think that's probably how it goes. And if the Solana fight happens, then you get next in line. Next in line, next in line. And so you get Avax and Nier and blah, blah, blah. They're probably 7th, 8th in line."
+    },
+    {
+        "speaker": "D",
+        "text": "For what it's worth, polymarket does have a doge ETF approval market that's sitting at 10% this year for year end. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "I think that is an easy sell."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, you know. Well, financial advice."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, financial advice."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah, yeah. Interesting. Okay, so this has also been the season, not just a bitcoin, but of meme coins. So we alluded a little bit to. I think Shiba flipped Avax every single meme coin. There's whiff. There's doge, there's Shiba. There's a bunch of new ones."
+    },
+    {
+        "speaker": "B",
+        "text": "Pepe."
+    },
+    {
+        "speaker": "C",
+        "text": "Pepe Bowdoin? Yeah. Okay, so tell me about. What is it? Geo Bowdoin. Yeah. Okay, explain to me the story of geo Bowdoin, because I have not been following this."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't even know the story of Geo Bowdoin that well. I don't own it. I wish I did at this point."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, does anyone, does anyone, is anyone able to recount the story for our audience of geo Bowdoin?"
+    },
+    {
+        "speaker": "D",
+        "text": "I don't have the story. I think it's like a lot of these meme coins. I think it's a Solana meme coin, was deployed 48, 72 hours ago."
+    },
+    {
+        "speaker": "A",
+        "text": "It has like a Wojak Biden meme."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, yeah. There's like a. But it's not like a pure bojack."
+    },
+    {
+        "speaker": "A",
+        "text": "No, it's like a weird bojacks."
+    },
+    {
+        "speaker": "D",
+        "text": "So they got that going for it. But it makes sense. It's sort of the counterplace, the hedge to the Trump mega token, which has also been, been ripping. And so the efficient market is forming around these."
+    },
+    {
+        "speaker": "B",
+        "text": "But the Trump one wasn't like a demented wojak one."
+    },
+    {
+        "speaker": "A",
+        "text": "No."
+    },
+    {
+        "speaker": "B",
+        "text": "The Trump one was meant to be, like, a serious. Trying to ride his coattails into meme coin frenzy and almost like a credible meme coin. Geo Bowdoin is not only like, a."
+    },
+    {
+        "speaker": "A",
+        "text": "Demented wojak meme coin, there's also a copy of Joe Biden within, like, an hour of, like, with Brian Armstrong misspelled."
+    },
+    {
+        "speaker": "B",
+        "text": "There's a whole cast of misspelling, every crypto celebrity type thing, meme coins out there."
+    },
+    {
+        "speaker": "A",
+        "text": "So where's your vote in a coin? Where's your meme coin?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I don't have one. Please don't make one. Don't make it to rune one. Bad news. But there was a Joe Biden meme coin that followed the Trump meme coin, and it was not as successful. There's obviously a lot of people speculating."
+    },
+    {
+        "speaker": "C",
+        "text": "On it because I just now realized that Joe Bowden was a misspelling of Joe Biden. Okay. That didn't click until you said, oh."
+    },
+    {
+        "speaker": "A",
+        "text": "You have to see the meme."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, they're, like, really demented. But Joe Biden was not as successful as Trump."
+    },
+    {
+        "speaker": "C",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "And so at some points, people start just gambling with, like, just, like, completely, like, broken memes. And, like, geo Bowdoin caught on, in my opinion, because someone tweeted out like, oh, look at my friend's portfolio. Is he going to make it? And it was like, all of these demented wojak meme coins. It was like, a $600 portfolio."
+    },
+    {
+        "speaker": "A",
+        "text": "All right. I love how you're like, I know nothing about this, because the history of provenance of this insert. Provenance of this."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I know. This is striking how much detail you have."
+    },
+    {
+        "speaker": "B",
+        "text": "So this obviously went viral. I mean, I saw multiple chat rooms where people are passing around this tweet, laughing at it hysterically. And all of a sudden, geo bowdoin started its rally."
+    },
+    {
+        "speaker": "C",
+        "text": "Geo bowdoin. Okay. Yeah, yeah. So."
+    },
+    {
+        "speaker": "A",
+        "text": "But it's not the only meme coin, of course."
+    },
+    {
+        "speaker": "B",
+        "text": "No, I mean, all of the meme coins."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, there's a huge array. It's funny, there was actually, there was somebody from Delphi who was telling me that, I think I tweeted something about the polymarket prediction markets on the presidency. And he was like, yeah, I mean, polymarkets for suckers. You should just buy Trump coin. Polymarket can only. You can only get a two x on polymarket. On Trump coin. You get 100 x. Who knows?"
+    },
+    {
+        "speaker": "D",
+        "text": "And you can get leverage. I'm sure there's a lending leverage Trump coin as collateral."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, obviously. Obviously. So there is, there is. And the problem is that I agreed with him. It's like, you were absolutely right. It's only worth like 400 million today. So, you know, he's also been creeping up. Is that right? Yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "Very slowly, though."
+    },
+    {
+        "speaker": "B",
+        "text": "I still own one."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I have to judge."
+    },
+    {
+        "speaker": "C",
+        "text": "There's too much supply. Yeah, that's a problem. There's too much supply. Yeah. So there is a, I guess, connected philosophy that people have been talking about, which is called financial nihilism. And financial nihilism is this idea that basically claims that when people lose any sense of connection between financial markets and real world outcomes, they start to think that actually this idea that financial assets should be priced based on their intrinsic value is bullshit. Everything is in the eye of the beholder. And therefore it's kind of like the Wall street bets view of the world is like, whatever. You hedge funds are playing the stupid, boring state game. If we don't play that game, then financial markets are just a different thing. And so it is with Geo Bowdoin. We all decide, geo Bowdoin's hilarious. And so it ends up going up whatever Kajillion percent. How much do you think that's going to define this rally or this stage of crypto?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I thought it was funny. I was reading a post by a renowned crypto hater. Hater might be the wrong word. Just someone who I feel like has disliked it for a long time, but then every once in a while will change his mind a little bit and then go back to disliking it."
+    },
+    {
+        "speaker": "C",
+        "text": "Who is this?"
+    },
+    {
+        "speaker": "A",
+        "text": "Just Joe Wiesenthal from Bloomberg."
+    },
+    {
+        "speaker": "C",
+        "text": "I don't think he's a hater. He's not a hater. He's not a hater and a cautious appreciator."
+    },
+    {
+        "speaker": "D",
+        "text": "He's a realist troll. You know, he asks real questions."
+    },
+    {
+        "speaker": "A",
+        "text": "It's true."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, he's like the trad five wart."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, more of a bitcoin maxi, but yeah, that's why I was, like, hesitant to say haters. It's like some. But like, there is a little bit of, like, over skepticism of the technology side, which, you know, whatever. Everyone has their own preferences. Yeah, but he was like, I love this financial nihilism. He wrote some posts, like, first time that this industry has been real about it, and he has this long blog. Was it a blog post or was it just a thread? But yeah, he has like a long post about this. So I feel like there is some interesting thing to that."
+    },
+    {
+        "speaker": "D",
+        "text": "I think there is something to it. I mean, it's like, especially, like, with nfts, it's just sort of like the deconstruction of this idea of."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I also think the meme coins, do they pass the Howie test? Like, literally no one has an expectation of profit."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, none of the money is going into the development of anything."
+    },
+    {
+        "speaker": "A",
+        "text": "Anything. Yeah. There's no, like, shared fees."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, nothing is getting built, period. Like, you're not, like, there is no reliance."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, but there was, like, wasn't there, like some doge met something."
+    },
+    {
+        "speaker": "B",
+        "text": "Shib made a l two."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. And they had, like, amm."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, yeah, yeah, yeah. And Dogecoin was talking about doing some bridge or something, weren't they?"
+    },
+    {
+        "speaker": "D",
+        "text": "There are dojanols, and there is, like, a ordinals ecosystem on doge. So you got that going for you."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah. So, I mean, dogecoin has devs, right? So, like, I mean, for some of these meme coins, more than others, I think it."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. We also haven't seen the can devs do something memes yet. Like, the equivalent for this goes down. Yeah. Right. But that, that's like, you know, you start to see that. That's when you know, like, you're getting close to the right."
+    },
+    {
+        "speaker": "C",
+        "text": "But I think we've seen this total disconnect. Right. In the last market, it was like, oh, the devs need to, like, create a metaverse. And now it's like, please don't do anything. Just, like, let it be a meme. The more that you try to accrete technology onto it, the more people will actually try to understand what its value is."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. Because of the financial nihilism of just like."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "A",
+        "text": "You know, I guess the astrology thing."
+    },
+    {
+        "speaker": "C",
+        "text": "Is, I mean, it also speaks to AI tokens, right? Like, the more, the more legible the AI token AI project is. Yeah. Well, I mean, that is arguable, I think, on AI tokens, I think it's pretty clear that the less clear what you're building is, the higher evaluation the market can ascribe to it."
+    },
+    {
+        "speaker": "A",
+        "text": "Although arguably bitten, sir, is. Does. Is despite it doing something more or less not useful, it does work. And you can run the validator and."
+    },
+    {
+        "speaker": "C",
+        "text": "A miner, is that right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Which is like, which is a lot of steps ahead of most AI coins."
+    },
+    {
+        "speaker": "B",
+        "text": "So that's bearish."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I'm just saying. No, but they're the highest market cap AI coin."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, you can. You can do inference on it. Like, you know, it does something."
+    },
+    {
+        "speaker": "A",
+        "text": "It literally has a transaction type for taking a gradient step, let me tell you how inefficient that is."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, it technically works."
+    },
+    {
+        "speaker": "A",
+        "text": "It like tech. Yeah, but it's like ten to the nine times slower than, like every. It's like kind of idiotic. It's like almost like, why would I run a neural net on Solana or Ethereum? But, like, at the same time, like, it does actually exist."
+    },
+    {
+        "speaker": "C",
+        "text": "It does exist."
+    },
+    {
+        "speaker": "B",
+        "text": "That's a bad thing. Like the fact that you can discuss credibly, like, how bad the efficiency is of actually using it is."
+    },
+    {
+        "speaker": "A",
+        "text": "But that's why it's the largest capture point. That was first."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Being first was what mattered."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, but you can objectively prove that it's pointless, like, looking at the specifications."
+    },
+    {
+        "speaker": "A",
+        "text": "Of it or just like, looking at their block explorer. I look at the Explorer, I'm like, oh, my God, this is like, very useless."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, it's, I mean, it's, it's like."
+    },
+    {
+        "speaker": "A",
+        "text": "My, my, my face id chip on my phone is more efficient in the 6 seconds than like, you know, the entire blockchain."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, any, anything, you know, in terms of computing, anything that's distributed has this."
+    },
+    {
+        "speaker": "A",
+        "text": "Like, for sure, for sure. For sure. But I feel like the AI stuff is kind of funny because everyone who goes into it is coming from AI land and has no appreciation of adversarial networks. Means you have to slow down bandwidth, latency, whatever, and then they try to build something like, oh, shit, we can't do it, but we need the token. So I guess we're going to."
+    },
+    {
+        "speaker": "C",
+        "text": "I think it's the other way around. I think most of the people building in crypto AI are not AI people. I think it's mostly."
+    },
+    {
+        "speaker": "A",
+        "text": "No, no, but I think some of the, some of them, they hire people who are transplants."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure."
+    },
+    {
+        "speaker": "A",
+        "text": "Like, they raise money, then they hire people who work."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "And then those people are like, oh, we're just gonna, like, bolt on all this shit and like, run it centralized. And then they're like, oh, shit, we can't actually do this. Yeah, decentralized. And then you get kind of either Rube Goldberg machine, like some of them, which are not live, and honestly, you read their docs, you're like, I think this is an affinity scam. And then you have the other ones who are like, bitten. I mean, they've been around for a while too, right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "And they actually did essentially do something. It's just not something. But they became the meme coin first. Yes, they did, because they tried."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so let's. Let's do a little deep dive crypto AI because I think it's very, it's very timely because it's one of the things besides bitcoin and meme coins that is capturing the popular imagination. So with crypto AI first, have you guys made an investment in crypto Aih?"
+    },
+    {
+        "speaker": "A",
+        "text": "Ritual."
+    },
+    {
+        "speaker": "C",
+        "text": "You did ritual. Okay. Are you comfortable talking about ritual?"
+    },
+    {
+        "speaker": "A",
+        "text": "Sure."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay. So there's a few categories I think that now can reified as the main things within crypto AI. So the first and probably the oldest is GPU marketplaces. There's just render GPU render. Akash, back in the day it was golem, which did really purely rendering. And now it's like GPU jobs. You can just SSD."
+    },
+    {
+        "speaker": "A",
+        "text": "Actually, you could argue live peer is also in this category, kind of, but."
+    },
+    {
+        "speaker": "C",
+        "text": "It'S not AI at this point. Right."
+    },
+    {
+        "speaker": "A",
+        "text": "But arguably it's doing the same hardware aggregation."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, same core idea, but they get a shittier valuation. Cause."
+    },
+    {
+        "speaker": "B",
+        "text": "No, yeah, but like. Okay, I don't think any, like distributed compute slash distributed hardware is necessarily AI."
+    },
+    {
+        "speaker": "C",
+        "text": "Right? Yes, but it's getting the AI."
+    },
+    {
+        "speaker": "A",
+        "text": "No, no, I think it's right in the wall. In the live peer case, it's like they're still buying a 100s. You know, they were still hardware. They had the same provisioning."
+    },
+    {
+        "speaker": "C",
+        "text": "They're buying a 100s for video transcoding."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I think they actually allowed you to do like. I mean, remember, think about this way. When you're taking Cuda and you're compiling it to a new chip, you're going to run faster. And if you're a miner on this thing, and the faster you respond, the faster you get your rewards, you would buy the new chip."
+    },
+    {
+        "speaker": "D",
+        "text": "There's like a block reward."
+    },
+    {
+        "speaker": "A",
+        "text": "This is a block reward. It's not even that they care about the."
+    },
+    {
+        "speaker": "C",
+        "text": "I can't imagine that any supply finds the best way to monetize going to livepeer because I think every single one."
+    },
+    {
+        "speaker": "A",
+        "text": "I think my point, there was just more that you could run this, use."
+    },
+    {
+        "speaker": "C",
+        "text": "The remnants, you could. Yeah, but I think. I think a 100 is going to just get better rewards elsewhere, I would assume. I'd be surprised if that were not true. Okay, so category number one is GP rental. And that I think is a thing. And like you're seeing Akash is doing okay. You know, renders doing okay."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I mean, I will say one thing. What's something we invested in that's centralized company that does GP rentals doing much better than any of the."
+    },
+    {
+        "speaker": "C",
+        "text": "In absolute terms, but not in token prices."
+    },
+    {
+        "speaker": "A",
+        "text": "All the, all the non. Yeah, all the non decentralized ones have like way better product markets."
+    },
+    {
+        "speaker": "C",
+        "text": "What did you guys invest into together? Oh, together. Oh, yeah, but that's like, isn't that managed?"
+    },
+    {
+        "speaker": "A",
+        "text": "But that's what I mean by centralized."
+    },
+    {
+        "speaker": "C",
+        "text": "Right, but they don't, but you don't get the GPU, right? They just run model."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah. But like arguably all of the decentralized ones APIs, they're, they're starting to give people look like that. So like, you don't have to know where they're running it."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, I see."
+    },
+    {
+        "speaker": "A",
+        "text": "Like people don't want to know that they have to stake the token or whatever. Right, I see, I see. They basically are making like a intent looking like RFQ style thing, right? Give me dollars and I'll give you."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I'll give you."
+    },
+    {
+        "speaker": "A",
+        "text": "But hey, that looks like the ones who are managed, right? Right, right."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah. So I mean, it's clearly the case that very few people are using these decentralized GPU networks relative to the centralized ones. Almost all the inventory, especially the high end chips, are held by centralized cloud providers."
+    },
+    {
+        "speaker": "A",
+        "text": "Also, the networking constraints for executing a lot of these things are like, why would I do it over the Internet, right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Especially if you need multiple GPU's simultaneously, then you're kind of fucked. So, okay, so that category one is GPU rental. Category two is decentralized inference. So this is a little bit different. GPU rentals, like, you get the whole GPU. Decentralized inference is just, I have this model, I want to run this model. I don't want anyone to censor me. I don't want anyone to control me. Whether I can use this model. Maybe I have a query that normally would not be allowed on a centralized provider, whatever it is. Or I have an anime model and anime, this anime stuff is trained on unlicensed data that whatever. Insert your use case here. So that is ritual. Ritual is decentralized inference. Correct. So talk us through why you're bullish on decentralized inference."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so I guess there are a couple of things. The first thing is that I think people kind of want some notion of understanding of on chain data that is usable by contract on chain. And this has kind of been the holy dream grail for a long time, right? Like everything from the graph of like I have indexing that's off chain, but I prove some portion of it on chain to the ZK versions, like axiom where I take previous state and I can prove that, like, hey, this was what happened in ethereum historically versus having to like index manually and like be a centralized index provider. Right. Like the dunes or nansens and stuff, which I think you'll always have. Right. They're always going to be way faster. And so there's a reason for that. But for some use cases where contracts actually need some either historical queries or models processed on historical queries to make a decision about themselves, you're giving them an ability to look in their past. Right. Now, if you look at how blockchain state works, either I increase the cost to the user by storing much more historical state, or I'm autonomous in a time, one sense, I only use the current state. I can't really look backwards. But in reality, a lot of applications, most applications, you're right, need some notion of historical state. And I think all of these things are giving you different ways of getting at that. And it's more a question of how do you value it? How much security do you want for that?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So it sounds like what you're describing is that you can create an AI, have it interact in real time on blockchain based data, and basically say, oh, looking at this data, basically an on chain, a gauntlet. Yeah, more or less. Right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think. I think in the long run, that's like kind of where you want to go."
+    },
+    {
+        "speaker": "C",
+        "text": "So I would actually distinguish that as being verifiable inference rather than decentralized inference."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure. I mean, I think the hard part is you have to make sure the verification step can happen. Right. And you have two ways of doing that. One is cryptographic. So, like, ZKMl gonna be very slow. Like right now, that's kind of, you know, I can do a, I can do a single decision tree. I can do a couple boosted trees. It's. It's not like a real. You can't really do like, high capacity stuff."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "The second thing is these economically secured things where multiple people run it and then they come to consensus. And that's more in the supposedly what bit tensor does."
+    },
+    {
+        "speaker": "C",
+        "text": "Right, right. Decentralized inference."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. But bittensor seems to be doing almost step by step verification of the inference versus like an aggregation. So it's just, you look at the blocks and it's filled with each step of the thing instead of just like, oh, I verified one thing. I think that the idea is to really find a way of figuring how to batch these things and make it easier. Now, the hard part, I think, for using it for something that's really high value, like Defi, is that you're creating a bunch of mev people can see exactly what your mod, like in order for the verification to work, the entire thing is open source. Why can't I run it locally and front run your transaction? You create all this. So we're not still at the point that that's settled. But I think for these lower frequency use cases like the farcaster social media type of stuff or some of the."
+    },
+    {
+        "speaker": "C",
+        "text": "Games, you do have a commitment to the model weights and just say, look, here's a hash of the model, here's what we're running, and the nodes don't disclose what the model is."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, how do they get the initial set, and how do I verify that, that commitment? You could make something where they're constantly committing and revealing. Yeah, but now you're just adding in another handle. It ends up being kind of basically then multisigging it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "So I think we're not quite at the stage. I think once things like eigen layer are live, and you can use that for bootstrapping these networks quickly for these economic rules, like slashing people when they don't reveal, for instance, then it's a lot easier."
+    },
+    {
+        "speaker": "C",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "But I sort of think the long term view of the decentralized inference is just applications that are already decentralized, that don't want to use an oracle for historical data. This is a way of doing it."
+    },
+    {
+        "speaker": "D",
+        "text": "Why the inference part? You can easily do verifiable historical state."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think a lot of it just boils down to the storage size and amount of data you want to transfer. What am I using the query for? I'm going to pass it into some function on chain and. Okay, well, now I'm charging the user gas for that. Why can't I make the off chain network do that? Kind of split the cost with them? I think it comes down to a cost basis thing more than a like you could do the inference or the computation from the queries on chain, but now you're just bloating your on chain contract. So I feel like if you're already outsourcing some of that, then you might as well just outsource the whole thing and only get the answer."
+    },
+    {
+        "speaker": "C",
+        "text": "So the last category is decentralized verifiable training, which I think is just batshit crazy."
+    },
+    {
+        "speaker": "A",
+        "text": "That is the one where I read their docs and I'm convinced that the people who do it have either never run a cluster and tried to keep it alive and up and done the DevOps B. They've never actually trained a model on a realistic size of data. They did the unit tests and like, oh, I trained it on 5gb of mnist data. Okay, great, let's decentralize it. That's not going to get you a model anyone wants to use. And the third thing is a lot of them were being like, okay, well actually we'll give you privacy. And it's like there's no real, none of the privacy stuff is actually made for doing this and scaling that's extremely hard. And I feel like it's the worst of both worlds. It's like it's taking the worst solution for each of these, dumping it together and saying like, here's a token. Yeah, it's a junk bond."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. I think the decentralized training slash verifiable training, like it's just a, it's a solution looking for a problem. Like I've never heard anybody ever tell me like, you know, the big problem in my life is that I need to decentralize training this model."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. Training should be centralized. It should be like the most professional and opinionated and it's the most expensive."
+    },
+    {
+        "speaker": "C",
+        "text": "Part of generating a model. Right. Like if you, if you balloon that by even two x and some of these are claiming, oh, only two x increase in cost for training, that's a massive, massive upfront."
+    },
+    {
+        "speaker": "A",
+        "text": "What's the advantage of I'm getting the exact same output."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, I think, yeah, like, right, exactly. The whole point is that you get the same output as training in a centralized way. I think that the claim they would make is like, well, we can prove what data was actually gone into training this model. And so if you want to prove that like this model didn't use any photos from customers or whatever, like crowdsourcing."
+    },
+    {
+        "speaker": "D",
+        "text": "Funding for the model."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "Like, okay, we can actually have a model with ways that are like community."
+    },
+    {
+        "speaker": "C",
+        "text": "Owned versus you can contribute your, your own data to the model, to the."
+    },
+    {
+        "speaker": "D",
+        "text": "I was going to say, what do you think of decentralized data labeling?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think it's fine."
+    },
+    {
+        "speaker": "A",
+        "text": "Like scale AI."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, basically decentralized scale AI. Yeah, I mean, I think that's fine. It just feels to me like there's one business that you are displacing which is like, what is scale at like 10 billion?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. And they've actually kind of pivoted more towards doing like fine tuning. Like if you go to their website now, it's like way less about explicit."
+    },
+    {
+        "speaker": "A",
+        "text": "Like they actually run infrastructure now themselves."
+    },
+    {
+        "speaker": "C",
+        "text": "Right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Right. Yeah. So they basically do RLHF for all the big models and it's a very different kind of business. It's not something you can easily do decentralized because it's all about quality and even a small amount of, hey, we kind of downshifted or we have this challenge and verifiers dilemma type game is going to end up just lowering the quality of the model."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "For how much people invest into training."
+    },
+    {
+        "speaker": "A",
+        "text": "I think another thing people have realized about decentralized training. I remember exuberance of the bull market. I heard a lot of ideas like, oh, we're just going to have full ZK proof of the training, which is ridiculous. But then there were people who are doing statistical proofs of training which are like, hey, I'm going to challenge you to give me some fraction of your weights and you have to prove to me that here's the initial step, here's the end step, and I sample random, and you can kind of do these bisection game type of things, but those things are interactive. How much bandwidth are you going to put on this network? Not only am I saying you have to do all this compute, I'm saying you have to stay up and like, you're extremely dedicable. It's like all the things you don't want in a training procedure are happening. You're like asking for it."
+    },
+    {
+        "speaker": "D",
+        "text": "Truebit was right, they were just ahead of their time."
+    },
+    {
+        "speaker": "C",
+        "text": "It's true. Yeah. So, okay, that was a very brief crypto AI overview. There's one more."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, what do you, what do you guys feel? Are you excited about anything?"
+    },
+    {
+        "speaker": "C",
+        "text": "So, I mean, there's been, there's been a lot of funding in crypto AI lately. It seems like most of it is either going to decentralized inference or GPU marketplaces. There was just Ionet that just announced, I think, billion dollar valuation that they raised a bunch of money at. My view on this is more or less that I think there is stuff that's investable here, but I think decentralized inference in GPU marketplaces, I think GPU marketplace is unequivocally their thing. I don't know how big they will be, because ultimately they're always going to be playing at a disadvantageous relative to the centralized players who just can get the economies of scale, they can get better inventory, they can route things more efficiently than the decentralized players. If you look at vast AI, when everybody compares the decentralized marketplaces like Akash and render to Amazon, Amazon is three times the cost, but they never put it next to vast AI, which is the centralized version of the exact same thing, which always is 5% cheaper than the decentralized versions. And so my view here is that I just don't know. I think where crypto excels is where there's a lot of censorship, is where people don't want you to trade GPU's or do whatever. I don't think there's anybody getting in the way of you wanting sshing into somebody's GPU."
+    },
+    {
+        "speaker": "A",
+        "text": "And to be fair, though, I will say for a lot of the centralized training stuff, a lot of the revenue does come from things that people like OpenAI or anthropic don't let you do."
+    },
+    {
+        "speaker": "D",
+        "text": "Decentralized training or."
+    },
+    {
+        "speaker": "A",
+        "text": "No, no, even the centralized training, that's like fine tuning."
+    },
+    {
+        "speaker": "C",
+        "text": "You mean fine tuning like a OpenAI model?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, like there's a lot of stuff they kind of have restrictions on."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah, for sure."
+    },
+    {
+        "speaker": "A",
+        "text": "That's where."
+    },
+    {
+        "speaker": "C",
+        "text": "But the thing is, like almost all the spend in AI right now coming from large companies."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, right."
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, they're just doing much, much larger training runs than the hobbyists who are creating the Waifu models or the, you know, the anime models. There obviously is a long tail of that stuff. But the reality is, if you're using vast AI, some random guy in Russia is renting you as GPU. He doesn't give a shit what you're doing. So I think the reality is that, yes, if you're on OpenAI and they see that you're shoveling in thousands of frames of studio Ghibli movies, they're gonna be like, yo, you obviously don't have the rights to this, but I think most of the places where you can just rent a GPU, even on Amazon, you go rent a GPU, they're not gonna check what you're doing."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And I think this is one reason inference is a little bit more easy to stomach, because it's like, okay, well, the value is not actually in the persistent perpetual data, right? Like in training, I'm making this dataset of the weights and then it has to continue to live forever. The value is not in the making of, the value is just the just in time compute that is my chain doesn't want to do."
+    },
+    {
+        "speaker": "D",
+        "text": "I mean, how do you think about remote inference versus edge computer, though? Like the other trend has obviously been that, like, these open source models getting really good and just running locally on your device."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "And it just seems like that's going to get to continue."
+    },
+    {
+        "speaker": "A",
+        "text": "I think the client side split stuff of like, I have a big model that it gives enough of a hint to a small model so the small model can run locally. That's definitely going to be a big deal. But I still think it's going to be higher compute than like most blockchains. Like I think blockchains are still going to have trouble running those."
+    },
+    {
+        "speaker": "C",
+        "text": "I suspect where blockchains are going to thrive is the places where there is real censorship. And I think that also looks pretty ugly at scale or like at equilibrium, right? Where like, I think like the, you know, the porn models, the unlicensed models. I think that's probably where decentralized inference networks are going to really have a big advantage. I just don't know how big those are going to be at scale relative to all the."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, for sure, for sure. But I just feel like it's much more believable they can exist versus the training ones. It's like."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, no, that I definitely agree with."
+    },
+    {
+        "speaker": "A",
+        "text": "It's not even that. If someone censors in training I don't even have a very good way of verifying it, at least in the inference. I've fixed all the inputs and it's really only about the execution."
+    },
+    {
+        "speaker": "C",
+        "text": "Right, right. Yeah. I think the reality is that open source AI and homebrew AI are huge and they're going to remain huge. And anybody who's like, I think people are conflating the two and they're saying, oh, if you're long open source and homebrew, you should be long."
+    },
+    {
+        "speaker": "A",
+        "text": "So I have a thought experiment I always think about with this stuff, which is if you think about like 1989, like Linux and Windows were both similar install base maybe a little before 87 or something. And then obviously Windows had this huge burst and Linux was slow. But then all of a sudden all these data center operators like the rack spaces of the world started realizing, oh my God, 90% of our revenue is going to pay Microsoft licenses. We got to lower that. And they started having Linux. Then eventually once the, you know, web 2.0 companies I guess existed, then they started eating up all that space and they needed just tons of servers and it became so much more cost effective that Linux was sort of enshrined at data centers. But would you rather have invested in rackspace or Google? There's this problem of right now everyone you can invest in is closer to the data center operator, which totally could also be great investments, but they're not going to be as crazy outcomes."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, that's absolutely right. Is that the application layer is being more or less ignored at the juncture of crypto AI right now, I think in many ways. So if you remember during the.com boom, Cisco was one of the highest performing companies because Cisco was more or less an index of the Internet, and you didn't have to take a directional view on any particular application winning because people didn't know what the Internet was going to look like."
+    },
+    {
+        "speaker": "B",
+        "text": "But there was one Cisco."
+    },
+    {
+        "speaker": "C",
+        "text": "There was one Cisco, and everyone knew Cisco."
+    },
+    {
+        "speaker": "B",
+        "text": "45 Cisco tokens."
+    },
+    {
+        "speaker": "C",
+        "text": "That's right. That is true. That is true. But I guess the way that I see it, yes, the network infrastructure is an easier bet to make because you don't have to take a view on what's going to win on the application side. But the other thing about it, which is also, again, what concerns me is that it's less legible. If you see an application, you can see application metrics. If you see infrastructure, who knows, maybe someday all descendant inference and da da da da da. And so that is what concerns me about the fact that the bid is going all to these infrastructure companies."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm totally concerned by it too. I mean, the fact is there's not going to be one Cisco. There's ten new ones of these every month."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. And none of them have anything in terms of a supply advantage or a mode."
+    },
+    {
+        "speaker": "B",
+        "text": "Way too many picks and shovels, and there's not nearly enough people holding those picks and shovels. And I think it's too early. Want to know what any of the infrastructure will be successful. Most of it probably will be obsoleted by whatever comes out in a year anyway, the next company that gets founded. And second, there's not enough things building on the infrastructure we're all just speculating on. Infrastructure is going to be important, period, full stop. And there's almost nothing else really to invest in at this moment."
+    },
+    {
+        "speaker": "C",
+        "text": "And then there's roll coin, which at this point is more or less a meme."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, worldcoin is the best crypto AI usage in the sense of like. I mean, I don't, I don't sort of like agree with it, mainly because I think their token is so poorly designed. But the, I think they are the objectively the only ones who are actually like generating, you know, running inference, generating a proof posting on chain, and using it as a. It is really application inference. I mean, the scan stores a model that takes features of your."
+    },
+    {
+        "speaker": "C",
+        "text": "That's just like an image hat, right? Like, that's not inference."
+    },
+    {
+        "speaker": "A",
+        "text": "No, no, but they actually use, they do. They run models on the, on the input to that."
+    },
+    {
+        "speaker": "C",
+        "text": "They're just proprietary models that they don't."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, the reason they do all the ZKML stuff is because of this. Like, they actually care about moving in that direction."
+    },
+    {
+        "speaker": "C",
+        "text": "Wait, it's ZKML, but they're not revealing what the models are."
+    },
+    {
+        "speaker": "A",
+        "text": "No, no. Well, that part I think supposed to come at some point or two or."
+    },
+    {
+        "speaker": "D",
+        "text": "Whatever, because I'm pretty sure or one did not have."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, okay."
+    },
+    {
+        "speaker": "C",
+        "text": "This is a new thing."
+    },
+    {
+        "speaker": "A",
+        "text": "What I'm saying is like, they're the only ones honestly working on an application where they're like dogfooding their own thing."
+    },
+    {
+        "speaker": "C",
+        "text": "Right. But ironically, it's like opaque. And there's hardware that only one hardware manufacturer can create that has all this software on there that nobody can actually verify because it's not open source."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, it's not that different than Nvidia."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, no one's comparing them to Nvidia. Right. I mean, that they're uniting these threads."
+    },
+    {
+        "speaker": "D",
+        "text": "There was actually a. Elon's been making these memes about closed AI."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, yes, yes."
+    },
+    {
+        "speaker": "D",
+        "text": "And there was a closed AI meme token that launched this morning."
+    },
+    {
+        "speaker": "C",
+        "text": "Of course there is."
+    },
+    {
+        "speaker": "D",
+        "text": "So, yeah, of course I'm sad."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't invest in. Closely out."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah, I think, I think. Okay, so maybe they're doing some ZK something somewhere."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, no, no, I think they're actually really, honestly in earnest trying to add it and use it to make their product better, to make the identity."
+    },
+    {
+        "speaker": "C",
+        "text": "I would put world coin and earnest in the same sentence."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm just saying, like, I think the developer. No, no, ignore what the BD people are doing. Like, I'm just saying the developers at."
+    },
+    {
+        "speaker": "C",
+        "text": "Worldcoin are actually, I know they have brilliant people on their research who totally."
+    },
+    {
+        "speaker": "A",
+        "text": "Agree, who I think are earnestly using this stuff. They're the only ones I think you can argue."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, but that's not everyone else."
+    },
+    {
+        "speaker": "A",
+        "text": "That's not why world coin making an application exist."
+    },
+    {
+        "speaker": "C",
+        "text": "Right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Correct. The reason world coin has the valuation that it does is because it has the most microscopic float relative to the total supply imaginable."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "So, like, this is where I was saying the token is the issue."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Okay, so not only is there 1% float on a token that has almost no price discovery, but then, second, what's been very clear is that it is kind of the Sam Altman meme coin. So when Sam Altman posts something, or when OpenAI Sora came out, the video model that worldcoin ripped, it's self conscious because you see traders on Twitter basically saying, look, there's no way to invest in OpenAI except Microsoft, which owns too much other stuff. So the best way to get exposure to the Sam Altman meme is to buy worldcoin. And so more or less the market agrees that worldcoin is the same."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, yeah, I'm just saying I'm ignoring all of that."
+    },
+    {
+        "speaker": "D",
+        "text": "Ignore the token people are just bullish on."
+    },
+    {
+        "speaker": "A",
+        "text": "I look, as someone who kind of was abhorrently never going to invest in it. I certainly, I have a lot of, like, other qualms about the go to market that they're doing."
+    },
+    {
+        "speaker": "C",
+        "text": "Right, right."
+    },
+    {
+        "speaker": "A",
+        "text": "But I will say that the things they're trying to do to actually keep, they care about the verifiability component because they want to basically do transformations of, like, the images they're taking of, say, like, the eye and prove to you that they did those correctly for someone else to use without revealing things and they actually have a real reason to do that."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, yeah, maybe eventually that will be worthy of congratulations. But right now, like I said, everything is close to ours. They don't reveal anything."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm just saying I can't think of anyone else who's a good application at all."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, that's the fundamental problem is that the ratio of infrastructure to application is absurd."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. And right now it's basically infrastructure that's crying out for an application. Right. I mean, more or less. The core thing of worldcoin is that it's an id system and nobody uses the id system right now. They're just kind of airdropping it on people. In the third world. There was a story. So apparently worldcoin recently got banned in Spain. And I was reading apparently some people, I think they were either in Spain or in Latam, who were saying that apparently there are all these shops popping up that will create posters of your iris. Like these really awesome laminated posters you can put in your house because, and they do it for super cheap because they want to take your iris and then go get a world coin airdrop. And they're basically clipping the spread on like, whatever you pay them. And then the value of the air."
+    },
+    {
+        "speaker": "B",
+        "text": "Wait, they take it to a foreign country?"
+    },
+    {
+        "speaker": "C",
+        "text": "No, no, no, they do it there and then they take the super close up scan of your iris and then scan it in a world coin orb without telling you."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, why do they need to go? Because, like, isn't, aren't there operators of the orb and you have to put up some money to be an operator."
+    },
+    {
+        "speaker": "C",
+        "text": "So you, I'm sure they can bribe."
+    },
+    {
+        "speaker": "A",
+        "text": "I think you could just buy. Yeah, exactly that. I feel. I feel like that's the cheaper way of doing it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah, yeah. Well, but no, but you need somebody's iris to actually get."
+    },
+    {
+        "speaker": "A",
+        "text": "No, no, I get that. But I just meant, like, it seems cheaper than, like, you know, just to, like, collude with one of the operators."
+    },
+    {
+        "speaker": "B",
+        "text": "So what happens when a spanish person who's gotten a high risk photo of their eye taken wants to sign up for Worldcoin in, like, ten years?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, say they're already registered."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, yeah, it'll say they're registered, but then also, like, they won't get an airdrop. Right. So the airdrop is emptied out. So it's like kind of pre hacking. Right? Pre hacking. Pre hacking, yeah. So anyway, it's, I don't know, weird situation. But I guess, again, I was."
+    },
+    {
+        "speaker": "A",
+        "text": "I was ignoring all of them."
+    },
+    {
+        "speaker": "C",
+        "text": "But why would you ignore all of it?"
+    },
+    {
+        "speaker": "A",
+        "text": "Like, I'm just saying. I'm just saying from a technology standpoint, attested sensors, you just did it for the tech. Yes, but I don't want the fate. I don't want the fate of that guy who was in that meme."
+    },
+    {
+        "speaker": "C",
+        "text": "All right, all right. Anyway, so I think, surveying the landscape of crypto AI, it does feel like right now, obviously, a lot of hype. I think the possibility for some real substance, and we're seeing these first."
+    },
+    {
+        "speaker": "A",
+        "text": "Do you see any applications?"
+    },
+    {
+        "speaker": "C",
+        "text": "So we invested in one application, the chatbot character AI type thing. That I think is not public yet, so we can't reveal it. And we're looking at some other stuff, I think, right now. Look, I more or less assume that there's going to be a lot more interesting stuff within the next few years. I think this first gen is kind of just very surface level, like, okay, I see this web two company. Let's make a web three version."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it does feel like the Uber on the blockchain."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. It feels very Uber on the blockchain stage for crypto AI. And I do think some of these things will exist, but it's a little bit like, I don't know, storage a where it's like, okay, this is a plausible business. It's not going to be the biggest business in the world. It's not going to take over Amazon s three or even glacier or anything. But it's a thing. It's a thing that has some demand."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. I always think about this column and tribute and stuff. It's like, what is the actual verifiable compute that we want? It's like, EVM, verifiable compute. It's rollups. That was actually the verifiable compute market. And then what you want in terms of verifiable storage, it's fucking blobs at 4844. It's Ethereum it's right. People have the right idea, but it rhymes. It's not like a one to one copy. And so, yeah, I don't know what that looks like for AI. Maybe it's smart contracts querying models to get historical state, but I just think."
+    },
+    {
+        "speaker": "A",
+        "text": "The historical state thing makes a lot of sense. Right. Because, like, right now, all these contracts are paying oracles a lot."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "In fees to give them basically aggregated."
+    },
+    {
+        "speaker": "C",
+        "text": "But it is kind of niche. Right? Like, I don't think that the amount of protocols that require that level of is probably less than 20, I would guess, on Ethereum mainnet."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Think of like your customer, your addressable customer base for Gauntlet."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, it's probably more like 50 to 100, but yeah, it's not like maybe 50. It's not like, it's not like, yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "But ultimately, like, this will be a commodity service, right? So it's not. I also like millions of dollars."
+    },
+    {
+        "speaker": "A",
+        "text": "They have this ad. There's this adverse selection cost problem. So you kind of the, the part I would say that kneecaps the market is it needs to actually be used on not the most valuable thing. It has to be used on the thing that, like, the cost of certain attacks is like cheap enough that it."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, it also potentially opens up the design surface by."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And like two orders of magnitude. Right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Sure."
+    },
+    {
+        "speaker": "B",
+        "text": "So, like, when you start to get to the idea that instead of needing the data on chain or to be honest, even the calculation or compute on chain at all, you can suddenly design things that we don't really have, like in any defi protocol. Like theoretically, if the only thing that's on chain is the actual, like, store of value in the transfers and everything else is off chain, but there's a verifiable process by which you know that the off chain system is working correctly, you could theoretically build almost infinitely complex, infinitely fast systems that just use the blockchain assets for settlement. And that's really cool. And I don't think anyone's really spent much time in this."
+    },
+    {
+        "speaker": "A",
+        "text": "Like, I feel like the fully private defi type stuff, like the penumbras of the world, they of course, already do this, but, you know, there's overhead for that, so. But yeah, there's something in the middle that's like somewhat off chain slash private and somewhat public and like merging. But I don't, I just don't. I think, like, right now you're seeing kind of like all the, you know, the bell curve meme, all the midwit ideas that are just like, oh, copy pasta x and like, it'll work. And it's like there's no like thinking a little bit about like why this might not work right now."
+    },
+    {
+        "speaker": "C",
+        "text": "Right. There is something too kind of on the outskirts of AI that I know I've heard you talk about many times, which is the importance of attested data. So the White House recently announced, I think a couple of weeks ago that they were going to start cryptographically signing all the content that they put out. So every speech, every video, every audio clip. And I think right now the White House is clearly ahead of the curve because I haven't seen this for most governments and certainly not for most companies, is just in an age where video models are rapidly getting better."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "And already we have synthetic audio. That is fantastic."
+    },
+    {
+        "speaker": "B",
+        "text": "This is a great idea. They should be doing this."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, they should be doing this. Right. And okay, well there's a way that you can, well, where do you timestamp where? Yeah, exactly. Where can we all post them in one common place? So it does feel like there will be something along those lines at some point, but it is in some sense a coordination problem more than a technology problem. Right."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "The cryptographically signing stuff and hosting it on, hosting where your keys are on your server and your certificate. This problem has been solved for many, many years. The coordination problem, whats not solved? And I think it requires more than just like, hey, I made a blockchain for all attested data. Its more like, hey, you need somebody to actually create the shelling point in the consensus, which requires a great founder and a lot of work in order to make that convergence into a single platform. But there will be something like that."
+    },
+    {
+        "speaker": "D",
+        "text": "Im going to say the White House put announcement that they memory unsafe."
+    },
+    {
+        "speaker": "C",
+        "text": "Sorry, do you want to recap this?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I mean, the White House just put an executive order about how like, or not executive order, like a post about how like memory unsafe programming languages are the source of all hacks. And like, we need memory safe programming languages. And of course the, the crypto rust developer community went crazy. But you know, I think that at the end of the day, the people in crypto are a little bit myopic of one fact, which is like, because cryptos has to restart building everything from scratch. Like you're building basically the operating system from scratch in these virtual machines. You're building all the libraries from scratch. You're fine using a programming language that's new, but 90% of the world is too afraid to jump, even make those little jumps. You see some little things at Microsoft or Google where they'll be like our kernel team for our custom kernel, and our data center is going to use rust. Okay, great. But, like, I. You know, I think the. It's gonna take a while for that, the memory safe stuff to disperse. So I thought that. But it was, like, funny that they actually cared about it."
+    },
+    {
+        "speaker": "C",
+        "text": "Very sweet."
+    },
+    {
+        "speaker": "A",
+        "text": "Because it's like. It's like a lot of the other things they've done were kind of technologically incompetent. Like the AI thing, that was, like."
+    },
+    {
+        "speaker": "C",
+        "text": "Capping the model way."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, most of their crypto policy is also incompetent."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So I was, like, shocked to read something that was, like, legible, but it's."
+    },
+    {
+        "speaker": "C",
+        "text": "Like, your dad took a Cs class on weekends, and he's like, hey, guys, I think it's time for memory guys, about memory safety. Yeah, I heard from my professor that you guys shouldn't use c. Yeah, I mean."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, I just think, like, you know, maybe you're right that this is how you pill the governments into thinking about blockchains of, like, oh, actually, this is just a way for us to store this and we don't need to worry about any actors or."
+    },
+    {
+        "speaker": "B",
+        "text": "The biggest problem, though, is whatever chain they use, if it is one of the existing blockchains, the second that they post onto, let's just say, ethereum or Solana or whatever the chain is, you just know the response from the community."
+    },
+    {
+        "speaker": "D",
+        "text": "This would be a geo bowden."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. What's the meme coin for this?"
+    },
+    {
+        "speaker": "C",
+        "text": "Good question. No, but you're probably right that it will immediately get filled with spam and transaction fees will shoot through the roof, and there will be all sorts of."
+    },
+    {
+        "speaker": "B",
+        "text": "Weird people try to. Ddos, like, the next authenticated message."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that's why we can't have anything nice in this."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, we can't have anything nice because you know that they're gonna, like, genuinely try to, like, have, like, a really good."
+    },
+    {
+        "speaker": "C",
+        "text": "That's why it's probably gonna be, like an enterprise chain."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "C",
+        "text": "You know?"
+    },
+    {
+        "speaker": "B",
+        "text": "Although, theoretically, they don't need any chain at all to cryptographically sign a message."
+    },
+    {
+        "speaker": "A",
+        "text": "No, no, but don't tell them that. No, no. They have to store. They have to have persistent storage somewhere. And they quite do that."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. And it needs to be decentralized."
+    },
+    {
+        "speaker": "B",
+        "text": "No, they don't."
+    },
+    {
+        "speaker": "C",
+        "text": "Fuck off. Unbelievable."
+    },
+    {
+        "speaker": "A",
+        "text": "You don't need anything."
+    },
+    {
+        "speaker": "B",
+        "text": "You don't need any storage at all of it."
+    },
+    {
+        "speaker": "C",
+        "text": "No, that's absolutely not true. He's lying. You need a blockchain. Call us. Call us."
+    },
+    {
+        "speaker": "B",
+        "text": "Blockchain mandatory."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "No, no, no. I mean, I get this idea that, like, especially in ZK land, a lot of people are like, oh, we don't need the whole chain. We can just have this, like, storage. The problem is, like, the input. In order to verify, I still need some of the input, and I need some. Some kind of agreement on some state. And it's like, that's the stuff that's most likely to get censored, to your point. And I think, you know, in this case, the government. A government might view itself as, like, no one can censor me, but I feel like, for this type of stuff, especially given all the hacks and, like, how they're complaining about the. Their inability to keep things safe, wouldn't they want the thing that's battle tested and is constantly being battle tested?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think us government should start an Avax subnet. I'd say that's the. That's the solution to their problems, not financial advice. Well, to the government, that's just voting. That's not financial advice. Advice. Right. Anyway, technically, we have a constitutional right to do that. Cool. Okay, so the other big story in the last week has been Unitoken. So, Uniswap recently had a governance proposal from the Uniswap foundation that proposed to finally turn on the fee switch. So for those of you who don't know, Uniswap is an amm. It's the biggest on chain Dex. And Uniswap has never actually taken a fee. There is a fee on Uniswap, of course, but it goes to the people who are providing liquidity on Uniswap. The protocol itself, or unitoken or uni dao, gets nothing. So the assumption has more or less been that this is for regulatory reasons. Maybe this makes Uniswap a security. Maybe there's some other reason why they've been avoiding fighting this fight. And people assumed that the community was going to end up having to drive this, and the foundation was going to be hands off. And what we've seen is the opposite, which really took a lot of people by surprise, which is that the foundation was the one that proposed to turn on the fee switch. And now it seems like it's likely to pass the flying callers. Everybody's very excited about this. And all of Defi has pumped with uni leading the pack on this thought that, do they know something we don't know? Is there a reason why they think that now is the time that they can go in and turn on the fee switch without concerns about being targeted by the SEC or something? Or other. First of all, Defi founder, any alpha or anything. What do you think is driving this?"
+    },
+    {
+        "speaker": "B",
+        "text": "Here's my take, and I don't have any alpha. It's not really just turning on the fee switch. Actually, more than that fee switch is one piece of this. The second piece, which I think is actually more important, is that the fees will be diverted to uni stakers who not just stake, but also delegate their votes into the governance process. You have to assume that the ones who are actually delegating in governance is a significant subset of the overall token holders. And the idea is that the fee switch will be diverted into those who are staking and participating in governance. So I don't know what percent of unis delegated. I mean, as of today, whatever the number is, it will be higher in my expectation after this system is rolled out. But let's just assume that there's 20% of Uni tokens that are actually staked, that are not sitting on exchanges, sitting in cold storage, sitting in a format that's not participating. I've seen estimates that the fee switch will lead to somewhere between $60 to $150 million of fees, given current prices. The current market, $60 to $150 million directed to maybe 20% of token holders is per year, is incredibly significant, and it transforms uni, the protocol and the token from something that the token today is used for votes, but those votes are really only on the treasury. It doesn't seem that meaningful. It transforms it from something that's not that meaningful to one of the most important economic systems in crypto, period, where the fees are going to be more than most l one blockchains, period, full stop. And it suddenly catapults uni into a position where I think it'll be one of the most analyzed and most talked about systems, period."
+    },
+    {
+        "speaker": "A",
+        "text": "And is it not?"
+    },
+    {
+        "speaker": "B",
+        "text": "Maybe I live on a day to day basis. Not really. Besides us on a podcast, I don't think uni gets that much discussion. Even though the fees paid by users are significant. 100% of that is going to the liquidity providers."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And I think it fundamentally takes uni from being a quiet system to being an incredibly loud one. And I think the magnitude of this really can't be understated. I think if it's done successfully, it will transform so many other projects, and I think it's like the beginning chapter of what does DeFi look like when it's unleashed?"
+    },
+    {
+        "speaker": "C",
+        "text": "That feels a little bit too broad, because most DeFi protocols do have revenue. Unity is an exception in that it had no revenue for so long."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, most don't."
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, if you talk about what's going into the Dow, Aave does, compound does, compound doesn't. Compound doesn't. No. Isn't there money going into the insurance fund?"
+    },
+    {
+        "speaker": "B",
+        "text": "It's an insurance fund, but it's not being paid out to stakeholders."
+    },
+    {
+        "speaker": "C",
+        "text": "True, but it's kind of like, it's like it's controlled by tokenization. It does seem to me that uni was kind of unique. It sort of feels like maybe the Saudi Aramco moment where it's not so much that there have been no oil companies, it's more like the scale of this DeFi protocol has never actually been absorbed by markets. And that is, I think what's revitalizing things is realizing, oh shit, that's a lot of money at scale that can be made by token holders. I don't know. Tom, what's your take?"
+    },
+    {
+        "speaker": "D",
+        "text": "I think maybe I might be wrong on this. I think the governance proposal is basically just to switch the owner of the factory contract over to token holders versus just having it be deployed as is. The current proposal does not turn on the fee switch, but it allows token holders to add fees to new pools in the future if they want to do that."
+    },
+    {
+        "speaker": "C",
+        "text": "I thought they were turning on fees for a select number of pools."
+    },
+    {
+        "speaker": "D",
+        "text": "They outlined the potential fee schedule, but I think the current sort of snapshot that's up is just a temp check on shifting the owner of the factory contract over token holders, basically."
+    },
+    {
+        "speaker": "C",
+        "text": "I see it's a multi step process."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Which again from a regulatory perspective also probably makes sense. It's not the team turning on a fee switch, it's token holders who are staking, voting to turn on a fee switch. Yeah, I heard there was a conspiracy theory maybe a week or two ago that secretly Coinbase had won or was winning its case against accident. And so that was sort of driving up both the price of coin and sort of allowing uni to go and do this thing. I don't really know how credible that is. It seems kind of conspiracy theory ish. But I thought it was kind of interesting. And yeah, I mean, it's like you said, I think in terms of market re rating, it's not just uni that has been ripping."
+    },
+    {
+        "speaker": "C",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "It's like every defi token that's in a similar position of, hey, we have some fee switch or maybe we have some revenue that's going to a treasury or going to an insurance fund or something like that. And basically opening up the possibility that those might go to token holders in the future instead. So, yeah, I just feel like maybe it is the market maturing and sort of thinking about how to rate and price these assets."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Any of you?"
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, we did a lot of the fee analysis for the foundation for this. So I spent a lot of time looking through how, which pools they want to do and how to think of those. I will say there was a lot of careful consideration. Overdose, at least a year plus. And, you know, I don't think they're doing this randomly in the way that."
+    },
+    {
+        "speaker": "C",
+        "text": "Maybe the conspiracy theories suggest anything more you can share. Are you going to be enigmatic?"
+    },
+    {
+        "speaker": "A",
+        "text": "You know, I'll leave it at that. Probably better."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay. Okay. So we have one insider who can't share too much, unfortunately."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, hey, read the post. We read our report."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah, no, I'm sure there are very good, sound economic reasons for choosing the pools. You did? Yeah. It does seem like the market is more or less pricing in that the regulatory environment is shifting, or at least the winds are shifting. So obviously the SEC is expected to continue to be obstructionist. But I think the whole industry feels like it has more ammunition and in some sense it feels like uni is the battering Ramirez that everybody else can get behind and say, okay, well, if unis doing this, were probably good because theyre going to go after uni because theyre the biggest, baddest guy on the block. And so I suspect thats a little bit of the energy in DeFi right now thats booing all these tokens. And if they go after uni, which we know that Unis had run ins with the CFTC at least, and the SEC almost certainly has chatted with them, that theres going to be a showdown at some point with respect to Defi in the US. So assuming that the SEC gets around to it and they don't end up churning out after if there's a handoff in the administration. So we'll see right now, I mean, I think we got to wrap because we're getting up on time, but it's a wild market. My guess is that probably by this time next week, all time highs in bitcoin at least, I mean, we've already hit dollar terms. We touched all time high very, very."
+    },
+    {
+        "speaker": "B",
+        "text": "Briefly when Coindesk has the headline and Bloomberg has the headline."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, Bloomberg and Wall Street Journal posted a thing right after."
+    },
+    {
+        "speaker": "C",
+        "text": "No, I know it is not in."
+    },
+    {
+        "speaker": "B",
+        "text": "Dispute that we have hit the all time high."
+    },
+    {
+        "speaker": "C",
+        "text": "We've hit the all time high."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, I guess the real question is when do you think eth all time high?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think it takes more time."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, at this rate, it's like we're days to weeks away."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, but that's not a more precise prediction. Like, do you think by April?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, okay, so last Tuesday, eight days ago, I was at a dinner and people were talking about, you know, will bitcoin hit an all time high? I think bitcoin was like 54,000. I said within two months. And I bet on it with a friend."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, nice."
+    },
+    {
+        "speaker": "B",
+        "text": "And you know, we were all shocked when that prediction came true. Eight days later. Seven days later."
+    },
+    {
+        "speaker": "A",
+        "text": "So. So are you willing to make this?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Should we make another bet?"
+    },
+    {
+        "speaker": "B",
+        "text": "My prior bet was will it happen within two months? And like, it was even odds. I would bet anyone here that happens for ether within two months."
+    },
+    {
+        "speaker": "C",
+        "text": "Within two months. Two months is a lot happening is what, a month and a half April?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think the heavening is overrated in terms of."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, but I think, I think, I suspect what happens."
+    },
+    {
+        "speaker": "A",
+        "text": "It's actually, it's actually very close."
+    },
+    {
+        "speaker": "D",
+        "text": "I need to check options pricing on there a bit to get a sense."
+    },
+    {
+        "speaker": "B",
+        "text": "Of which markets pricing, see where the delta is."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah, no, that's a little, that's kind of cheating. It's against the spirit of. The spirit of it. Yeah, I do, I do think that."
+    },
+    {
+        "speaker": "B",
+        "text": "I can't use it because like a bet like this is like a binary touch option versus like, you know, an american."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, yeah, I was gonna say sure."
+    },
+    {
+        "speaker": "B",
+        "text": "So you can't even look at the price."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, let me ask you this. When ether, it's all time high, what do you expect the price of bitcoin to be?"
+    },
+    {
+        "speaker": "B",
+        "text": "76,076."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay. Which is more or less same eTh BTC ratio."
+    },
+    {
+        "speaker": "B",
+        "text": "I think eth out paces a little bit from here."
+    },
+    {
+        "speaker": "C",
+        "text": "Eth out pays a little bit. Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "But not dramatically."
+    },
+    {
+        "speaker": "C",
+        "text": "I think that's probably right. That sounds right to me. Yeah. I think it'll be a while until ETH BTC hits the same level that it was in, but probably by the summer, I think it probably catches up. So anyway, obviously we are not traders and so we have no idea what the fuck we're talking."
+    },
+    {
+        "speaker": "B",
+        "text": "We're all long term private market investors."
+    },
+    {
+        "speaker": "C",
+        "text": "Except you're the meme. You're the meme coin trader. The rest of us are long term investors. You're the one giving us the most knowledgeable. Yeah, you're the most knowledgeable about geo bone and all this random."
+    },
+    {
+        "speaker": "B",
+        "text": "I might be knowledgeable about it because I like, you know."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay. I think you're oral tradition, right? Like, yeah. Sit us around the fire and tell us the story of geo back in the day. Yeah, geo bone. Beautiful. Okay with that? I think we got a wrap. Thank you, everybody. We'll be back next week. It."
+    }
+]

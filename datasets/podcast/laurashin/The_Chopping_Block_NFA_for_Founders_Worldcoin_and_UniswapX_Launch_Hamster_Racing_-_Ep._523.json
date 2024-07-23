@@ -1,0 +1,666 @@
+[
+    {
+        "speaker": "A",
+        "text": "Hey unchained listeners, as you know its hard keeping up with the fast paced world of crypto, so weve got just the thing for you. Subscribe to our free unchained daily newsletter at unchainedcrypto dot substack.com. youll get the latest crypto news in original articles from our reporters, as well as summaries of other happenings in bullet points. Plus our meme of the day, all curated and written by our amazing team. Its still your no hype resource for all things crypto, just in newsletter form. Sign up at unchainedcrypto dot substack.com dot. Again, the URL is unchainedcrypto dot substack.com dot."
+    },
+    {
+        "speaker": "B",
+        "text": "Not a dividend, its a tale of Tuqwan."
+    },
+    {
+        "speaker": "C",
+        "text": "Now your losses are on someone elses balance sheet."
+    },
+    {
+        "speaker": "D",
+        "text": "Generally speaking, airdrops are kind of pointless anyways."
+    },
+    {
+        "speaker": "C",
+        "text": "I manage trading firms who are very involved."
+    },
+    {
+        "speaker": "B",
+        "text": "Pollock Eth is the ultimate possibility."
+    },
+    {
+        "speaker": "E",
+        "text": "Defi protocols are the antidote to this problem hello everybody."
+    },
+    {
+        "speaker": "C",
+        "text": "Welcome to the chopping block. Every couple weeks, the four of us get together and give the industry insiders perspective on the crypto topics of the day. The quick intros. First we've got Tom, the defi maven and master of memes. Next we've got Robert, the crypto connoisseur and the tsar of Super State. Then we've got Tarun, the gigabrain and grand poo bot gauntlet. And finally, I'm Haseeb, the head hype mine at Dragonfly. So we are early stage investors in crypto, but I want to caveat that nothing we say here is investment advice, legal advice, or even life advice. Please see choppingblock XYZ for more disclosures. So we've been off for a week. I think we were all busy rejoicing the XRP decision, which is for now at least. The SEC is not appealed, although people are worried that SEC might appeal. In the meantime, we can kind of have our little moment as an industry. Tarun, you were just in Paris at EcC. What was the vibe there? Did it feel different than how it's felt previous conferences?"
+    },
+    {
+        "speaker": "B",
+        "text": "So I think a very important thing to note is that this year the Ethereum community is not holding its main developer conference called Devcon, which usually is the biggest conference, like tens of thousands, probably much more than that. People go to it. And also another really big conference in the Ethereum world called Devconnect got moved to later this year. So there's a sense in which ECC had this pole position as the only summer conference for Ethereum. One thing I often like to joke about Ethereum development is that all the development gets done at hackathons. So they have to keep having many hackathons because it's the only way decentralized, like client development happens because people, I guess, have to keep synchronizing. But that being said, I do think they're kind of super interesting. I think the interesting thing of this one was it clearly was the biggest conference. I think many of us went to eat Denver. Eat Denver, Washington. Horrible in comparison. Like, I just can't even. Yeah, Paris was so much better."
+    },
+    {
+        "speaker": "E",
+        "text": "Like, what was the number one?"
+    },
+    {
+        "speaker": "D",
+        "text": "Why?"
+    },
+    {
+        "speaker": "E",
+        "text": "Major benefit of Paris over Denver."
+    },
+    {
+        "speaker": "B",
+        "text": "Denver in February is like shithole squared. You know, it's like, it's not a very fun city and it's freezing. No one wants to really be there. Paris in summer is kind of the opposite, you know?"
+    },
+    {
+        "speaker": "E",
+        "text": "What does the CC stand for?"
+    },
+    {
+        "speaker": "B",
+        "text": "Community conference."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, beyond the weather."
+    },
+    {
+        "speaker": "B",
+        "text": "I think a lot of people from virtually every ecosystem in crypto came this time, which is very different, I think, than Denver. I think a lot of people skip b the european communities for a lot of protocols have been completely, I wouldn't say like unscathed, maybe that that's definitely too egregious, but significantly less affected by the events of the last twelve months. I think people in Europe, it's very refreshing compared to being in the US where all you want."
+    },
+    {
+        "speaker": "C",
+        "text": "That may be because everything else in Europe has gone down so much. They have horrible inflation, their economies aren't growing, and so it's kind of like actually crypto not so bad."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't know if it's just that. I think it's also like they seem to be taking a more metered view on things like FTX. They seem to have protocols and teams seem to been working through that and have focused less on legal stuff, have had less legal things to talk about. And I think their distance from the us regulatory apparatus is very palpable in that people are still extremely positive versus like, in the US. It's like, feels like this roller coaster. So I think that was really good. There are a lot of side events, almost too many from every possible ecosystem you could think of, except Solana. One thing I actually think is quite interesting is Solana is like the only layer one that doesn't try to ride the coattails of the ETH conferences. When there's an ETH conference, they host a conference before or after or around. They're just like, no, we're doing our own thing and it's going to be completely separate, which is interesting. Avalanche also, I think, is like that, right? There are two ecosystems that completely just, they don't try, but like every other layer, one like has a hacker house or has a little conference on the side. And so there's tons of stuff going on."
+    },
+    {
+        "speaker": "C",
+        "text": "How was the Cardano presence in Pennsylvania?"
+    },
+    {
+        "speaker": "B",
+        "text": "I saw much more cardano in consensus in Austin. Cardano and Tron, then at ECC."
+    },
+    {
+        "speaker": "E",
+        "text": "So what about bitcoin? Any bitcoin presence?"
+    },
+    {
+        "speaker": "C",
+        "text": "Any bi fi? Did you see any."
+    },
+    {
+        "speaker": "B",
+        "text": "I guess that's the, that's the, that's the closest I got."
+    },
+    {
+        "speaker": "C",
+        "text": "He is kind of the mascot. He's kind of the mascot, yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't think there was too much bitcoin influence, honestly. I feel like the most I ever hear see bitcoiners in Europe is like in Switzerland or Italy, but I feel like France is definitely not or doesn't seem to be bitcoin land in my experience."
+    },
+    {
+        "speaker": "E",
+        "text": "That's because all of Ethereum is building the future of France. So there's like a very clear bias, of course."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. I mean, I think the interesting things were, as highlights were, there's a huge focus on infrastructure. And I think this led to some debates over the last few days on Twitter about are you building bridges to nowhere or are you going to have applications? Or is it like the applications fundamentally need the current state of infrastructure? It's very clear the roll up world is definitely Ethereum's future versus some of the longer term ETH roadmap stuff. I think people started the Ethereum two roadmap basically was not talked about that much, but the roll up centric future was kind of talked about a lot. There were a lot of stuff around restaking in Eigen layer as well as a lot of stuff around data availability in Celestia. Celestia had a side conference that was probably the most attended thing that I had gone to."
+    },
+    {
+        "speaker": "C",
+        "text": "I saw a lot about the modular. The modular summit seems like it was getting a lot of attention. So im curious what you guys think about this. I mean all of us are investors and were seeing this play out in real time is almost everything thats getting funded these days is infrastructure. And it sounds like that was really the theme of etc. Is infrastructure, whether its shared sequencers or ZK tech or modular something or other, blah blah blah. Data availability. These are all really backend infrastructure technologies. Whats your take after having spent the time in Paris and Im curious to get everyone elses take on this idea of like, are we overinvesting in infrastructure because we don't know what else to invest into."
+    },
+    {
+        "speaker": "B",
+        "text": "Disclaimer. As investor in many of these companies over the last couple of years before, they kind of now are kind of these hot, buzzy things. I think there was a while where people didn't care at all about infrastructure. Late 2021, early 2022. I feel like it was, what? No, no. I just don't think you were seeing the big rounds for them. Right. It was like so much about like big rounds for like, sound XYZ or like NFT things or what. That stuff is completely gone. In fact, I barely saw any of that in Paris versus last year. There was a ton of stuff around that. And I think this is always what happens in the bear market. Like 2018, 2019 definitely felt like there was tons of investment infrastructure. I think it's sort of like we're sort of in this part of the market where everyone's waiting for the Hail Mary application to show up. Where's the uniswap? Where's the makerdao? And in some ways, investors can't construct those things, right? Like, no matter how good or how egotistical an investor might think about themselves creating the market for a product that doesn't exist. Realistically, it's very hard to make viral applications from funding, right? Like if you think about some of the larger application, Ethereum, it generally kind of came from some organic usage, although there are some exceptions. But I think in general, applications are extremely hard to invest in comparatively, whereas infrastructure at least like hopefully has these applications using them once they get big. You could think of it as this second order derivative on the applications market. That happens to be smoother in terms of how its payoff is, which is what happens when the markets down. But I do feel like we're in this. Everyone is just searching for the, the thing that will work and it's not super, super clear that we found that. I think the current applications that seem to be having a lot of hype are more or less just some casinos. So I'm not completely sure that that's the future of France."
+    },
+    {
+        "speaker": "C",
+        "text": "It does seem like there may be a bit of overfitting in that. If you look historically, investors know that the biggest returns in crypto have all come from infrastructure. There is basically nothing in the application layer that has ever performed as well as infrastructure in crypto. And it does seem to be like, it probably cant be true that every single layer of this infrastructure stack all makes a lot of money. It would be really weird if Solana makes a lot of money, and the data availability layer makes a lot of money, and the API layer and the RPC node and the folks who are hosting the RPC node, all of them are collecting a bunch of money and building gigantic businesses. And then the applications just kind of, they're just paying the fees for everybody on top. That seems like a probably not plausible view of the world, but I think investors just have this shared memory that, like, well, infrastructure is the only thing that makes money and applications kind of come and go, but infrastructure is forever, basically. I mean, which is not to say that we don't do it, obviously. We also invest into a bunch of stuff that's infrastructure, but it does seem like it's hard to know where things are going. And like, you know, betting on products is infamously, you know, consumers are infamously difficult to predict and super fickle, especially in crypto."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Tom, what's your take?"
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, yeah, no, only thing I was going to say is, like, it was very clear there were no applications like, versus last year. Like last year, I really felt like there were tons of people trying to sell you on music, NFTs or God forbid, the thing that makes me want to blow my brains out the most. Web three fashion, which is fashion for your metaverse avatar, which obviously we've found to be less exciting nowadays."
+    },
+    {
+        "speaker": "C",
+        "text": "So many people made me feel so stupid for not understanding web three fashion. I was like, I guess I'm just gonna be old. And turns out that, like, I have survived."
+    },
+    {
+        "speaker": "B",
+        "text": "I just don't think that there was so much of that last year or two, because I feel like in Paris, they were like somehow like the Paris hype beasts. Like, people who line up at certain stores were just like, they found their calling. And of course, I think this year there was like zero of that."
+    },
+    {
+        "speaker": "C",
+        "text": "Tom, what's your take on this whole infrastructure applications thing?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I mean, I think it is very cyclical. People invest in infrastructure. I mean, there's a whole, like, blog post about sort of infra application on cyclicality. And like, oftentimes it doesn't make sense why you're investing into the part of cycle that you are. Like, I remember in like 2018, 2019, people were like, you know, investing like, plasma. Plasma gonna be a thing? I'm like, why plasma? Like, no, these blocks aren't even getting filled. Fees are like, you know, pennies, gas prices are bottoming out. Like, there isn't even demand to fill the blocks that we have, let alone trying to create more supply. And then it's like, oh, well, you do that sometimes there's an emergent effect where some applications just can't exist without that infrastructure and then somebody's building capacity to allow things that do blow up to have the infra that they need. But I think on the investment front, it's much easier to underwrite an infrastructure and say, hey, we're going to get an index, all the stuff that's happening, and hopefully that is getting some good exposure to whatever application blows up, even if it's maybe not the most directly monetizable. But I think just thinking about deal flow as well, I have not seen as many applications recently and I think part of it is just there's a really difficult regulatory story around applications. You can't launch a token, you can't charge fees. You have to Kyc everyone who's using your front end. It's not really clear what great applications emerge in the current regulatory environment. I think frankly, Opensea and Metamask are the only two that make a bunch of money and are kosher. But if you don't want to do either of those, it's not really clear what that sort of next story is."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, 9th, maybe weird take on this, is that one of the reasons I think developers like the app chain thesis two years ago, a year and a half ago was like, hey, I have a reason for my token. People are validating my network. And in the roll up centric world, what you're doing is you're pushing the application more towards infrastructure. Because I have to run my own thing. I have to actually understand that in that world you can justify these and maybe tokens a little more, which feels like that's the reason people are jumping to roll up eyes things when they don't necessarily need to."
+    },
+    {
+        "speaker": "C",
+        "text": "But all the funding for rollups is not application specific, right? The stories are application, oh, you can build a roll up, they can do anything, and op stack and this stack and that stack, but none of the funding is going."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's true, that's true. I'm saying like, not yet. People are trying to make, like, that would be what I would say is like, people are trying to make apps look more like infrastructure so that they can like dress it up to investors and be like, hey, look, app for structure, right?"
+    },
+    {
+        "speaker": "E",
+        "text": "Because if you squint, right, like, what's the difference between depositing in a smart contract versus depositing in like a bridge contract to like URL two? Like it's kind of the same thing in like a very like, you know, squinty way. And so I definitely think l two sounds better for a single purpose application. L two? I think it's because people think of an l two as like, oh, it's like a platform, there's going to be many applications and it's all going to be developing value in a network effect and it's super awesome versus, oh, this is my one specific application that's highly scalable that you enter as an l two."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. I think there also is just like a monetary premium around having an l one or l two token just for kids. I was looking this up. Guess what Ronin is trading at right now? 1.2 500 mil, which is still incredibly high for what is basically like a shitty geth fork that you with a bridge that doesn't work for like an app that no one wants to use. And so it's like, it's like way more."
+    },
+    {
+        "speaker": "C",
+        "text": "I answer, don't they still have like 500,000 dailies or something? They still have a lot of users."
+    },
+    {
+        "speaker": "D",
+        "text": "I don't think it's that high. But in any scenario, I mean, if you look at the trend, it's not really."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, trend line's not positive, but yeah, yeah, yeah, yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "Anyway, I think it's just more, hey, saying you're your own chain, you just get this huge premium over just having an application token. If you even want to go the tokenization route."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, no, that's fair. I would push back on painting all on chain games with the same brush because there is a big difference between where decentraland landed and where Axie landed. Axie still has a lot of users. Obviously it's not doing great, and I don't think it's going to ever step back into its previous valuation, but it's probably one of the most used things on chain period, still."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I'm just looking. So there's 300,000 monthlies. So it's like not awesome."
+    },
+    {
+        "speaker": "C",
+        "text": "300,000 monthlies? Okay."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, in any scenario. I mean, I think my point being more broadly, you take these two things, sort of split the universe. One is axie has their own chain, the other is axie just pure application token. And I think in this case, clearly additive. Right. Because you have the application token in addition to the chain and you're sort of creating value from thin air."
+    },
+    {
+        "speaker": "C",
+        "text": "I'm going to sound super curmudgeonly saying this, but I'm going to say it anyway. Feel how it lands. Which is that when I was first investing into infrastructure, this was like 2018, 2019 after the 2017 bull run. And at that time it was really clear that Ethereum was not going to scale. Ethereum was not performance enough to be able to handle all the demand for transactions. And that created this generation of founders who were like, we need to scale block space. We need to scale smart contract platforms. And that was the genesis of the Solanas and the nears and the avalanches and all the plasmas roll ups. All that stuff came out of that era because of that very strong need that everybody saw that this stuff needs to get better and improve so that we can do the stuff we want to do on chain. It feels that now, in 2023, it feels like the best minds of my generation are once again all working on infrastructure. But it's not really clear to me that there is the same crushing need for everybody to be focused on it. We kind of have rollups, but people are like, oh, but you need perfect modular Das, then you need this shared sequencers, then you need some fancy Mev contraption to more accurately democratize this and that. It's like, we finally got a bunch of people on chain. We finally got lots and lots of people on chain. We got lots of block space. We have so many places where you can launch an application. We have rollups. I mean, obviously, yeah, we need fraud proofs and stuff to get up and running, but we have the first cut ready to go. But it seems like people are myopically focused on infrastructure at a time when it feels like we really need more people thinking about how to build great applications that bring people on chain. So it feels like even though we're at the same place where almost everybody's focused on infrastructure, it feels much more misdirected in this cohort. Not that nobody should be working on it, but that should really 80 90% of entrepreneurs be building infrastructure instead of building things for people to use on chain. It feels wrong to me, thinking of."
+    },
+    {
+        "speaker": "E",
+        "text": "The show, this is not investment advice, but if you're a founder, maybe this is founder advice here. Haseeb, is the VC telling you there's a wrong ratio of infrastructure to applications to use that infrastructure?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Now, that said, like, I understand why people are doing it because they see where the incentives are, right? They see where the funding is going. You know, I don't think we've done any large infrastructure deals this year, but most of the large deals this year have all been infrastructure. So I can understand the fourth. You know, it's a tough time to be building applications, right? There's not a lot of people with pocketbooks open on chain willing to, except."
+    },
+    {
+        "speaker": "B",
+        "text": "For hamster racing, and world coin."
+    },
+    {
+        "speaker": "C",
+        "text": "Except for hamster racing and world coin. Okay. All right, so with that as a beautiful transition, let's go to the two big stories of the week. The first up is Worldcoin. So, Worldcoin, for those of you who don't know it, is a project that was originally co founded by Sam Altman, who's now the CEO of OpenAI. So, Worldcoin, it's a cryptocurrency. And the idea is that they want a sort of proof of personhood. And the way that you prove you are a person is that there is an orb, a literal, physical orb that you can pick up. There are a bunch of them around the world. And this physical orb will scan your iris and it will create some basically more or less encrypted record of your iris that will identify you as being a singular person. It gets tied to your address as like a proof of personhood. And this creates a wallet for you tied to your scan of your iris. So they have scanned something like 2 million people, supposedly mostly in the third world, none of them in the US and in Europe, because obviously this is less kosher in the US and Europe. And so they just launched their token on Monday. And their token launched, currently it's about $250 million market cap on a $22 billion fdv. And you're reading that right, that is a 1% float. So, meaning 1% of the total supply of the token is currently circulating. That's right. That's right. So I've heard a lot of people say that this is the new Sam coin, which is a very reminiscent distribution of what."
+    },
+    {
+        "speaker": "B",
+        "text": "I just hope he doesn't use it as collateral anymore, though."
+    },
+    {
+        "speaker": "C",
+        "text": "I think Sam Altman is a little busier than SPF. But it's right now very suspect in terms of the actual real price discovery of this token. Because apparently the vast majority of this float is owned by market makers who have, let's say, complex incentives around how they're playing with this thing. But then separately, after this thing launched, Vitalik published a blog post basically critiquing the biometric proof of personhood system that worldcoin is using. And then you've got just a lot of people taking shots at them on Twitter saying that, oh, you know, this is like some kind of totalitarian scoop up everybody's eyeballs from the third world, kind of, I don't know, whatever. People. People talking shit about world coin. I haven't seen a lot of positivity. Basically, almost everybody on Twitter is kind of mad. It seems like at world coin. I'd be curious just to hear from you guys. Give me the best positive take you can give."
+    },
+    {
+        "speaker": "E",
+        "text": "Here's my best positive take. It is really hard to figure out a mapping of one person, one set of biometrics, one address. We've seen again and again and again, every Sybil attack possible against every airdrop that's ever been imagined in crypto. We've seen people try to farm everything they can. We've seen armies of people spinning up thousands of accounts to try to take advantage of things that don't even exist yet. And it is a hard, fundamental problem to identify who's a real person. How many real people are there? How many people are using this application? We have a decade plus of people trying to game the metrics around l one blockchains, creating fake activity and fake usage. Because why not? It's easy to make a million wallets and make it appear like your blockchain has a million more users. It's a real problem. It affects so much of what we do and whether or not you think the approach, the solution is correct. And personally, I don't know if it is, and it's pretty creepy and I don't love it. It is an incredibly difficult and important problem to solve, and it's worth solving, and they're taking a creative approach at solving it."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. I have a very different, believable, positive story."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "I actually think Vitalik's post was not critical. It was generally quite positive. And part of the reason is I actually think the. While Sam Altman is probably someone I would not necessarily trust in trying to not resell this type of data, some of the people who work there on the ZK side of like, encrypting, basically what it does is there's this device. It has a sensor. The sensor has a particular attestation mechanism, so it can sign. And what they do is they take the picture, they create this sort of like, hash fingerprint, and then they generate a zero knowledge proof, a way of proving that, hey, you took the picture again. Machine learning model tagged your eyes and your face like a normal face detection thing. And it's the same thing without revealing the input. So without revealing like, hey, this is the picture. So that's the only thing sort of stored publicly. And the head of research there is one of the smartest, but also like, very privacy focused people I've ever met in this industry. His name is Remco, and I genuinely don't think he would work on such thing if they didn't have this kind of long term goal of actually achieving the attested sensor privacy. Now, that being said, the eyeball stuff is personally, I find a little bit very creepy. I also just don't think that their auditing was particularly good. And I can't really check a lot of the details of exactly how the system works. It feels like they rushed it. Like, why do you have to launch this token now? That to me, just seemed like cash grab, the float thing. Cash grab. But they do have these engineers and researchers who are amazing there. So I think to me, the fact that those people, I think if they sought real malevolence, would quit. And then at that point, it's like short it type of thing. Not trading, but like. Like, sorry. Yeah, yeah, but the. Obviously, I think there's a lot of cool things they're doing. But yeah, the token just really felt cash grabby."
+    },
+    {
+        "speaker": "E",
+        "text": "I mean, my only argument against the token is I'm just disappointed that it's like an l one token. Like, I would think if they're trying to make a currency for the whole world to use, they would have waited to release the token."
+    },
+    {
+        "speaker": "B",
+        "text": "Not."
+    },
+    {
+        "speaker": "C",
+        "text": "It's not, it's not."
+    },
+    {
+        "speaker": "E",
+        "text": "It's on an l one. It's on an l one."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. It's on ethereum. But the wallet that they create for you when you sign up with Worldcoin. Yeah, it used to be on polygon. Now it's on optimism. So it's like kind of going where the money is so they can buy the token, even though the token doesn't really do anything today. I agree. I think the tech is actually very cool. I think the gold is actually very admirable. And I don't know what people envision that the current way we do Kyc and passporting is actually superior to this. I think this is actually way better than the sort of the current system. But I agree. I mean, the token, I remember we were looking at the round, and it's not a business model. It's like, oh, well, maybe we'll charge people to look up your id, or maybe we'll do some metamask uniswap fees, and it's just kind of a big question mark. So it doesn't feel like that's really figured out. And it feels totally unnecessary to launch a token when you don't even really have clear PMF, and it doesn't really serve a purpose in meaningfully decentralizing the system."
+    },
+    {
+        "speaker": "B",
+        "text": "Good. A bunch of people have commented on their docs are missing a lot of. They've been working on this in the open for a while, but they rushed to launch it in a way that just didn't seem timed well. It felt forced, whether by. I don't know who forced investors, whatever. It didn't feel like a natural kind of launch. But again, like, there's a lot of people who work there who I have the utmost respect for. And I really think if they were doing something duplicitous, I do not think any of those people would stay. And that the moment you see any of them leave, that's when that's like, all right, the orb is just trying to fuck you."
+    },
+    {
+        "speaker": "C",
+        "text": "I will say true. I find this argument of, like, I know people there. It's cool. I act like that after having gone through 2022."
+    },
+    {
+        "speaker": "B",
+        "text": "The difference. The difference between, like, Remco and SPF. Remco is a, like, long standing, you know, in ethereum development, a long standing. Right."
+    },
+    {
+        "speaker": "C",
+        "text": "Look, I. Remco is awesome. Remco is awesome. I completely agree with you. I completely agree with you. But I'm sure they're paying him a lot of that, Sam'l."
+    },
+    {
+        "speaker": "B",
+        "text": "But I just kind of think, like, there are a lot of things, like, at this point that if they continued fucking up, I see a lot of people who work there leaving, and they've said as such. So it's like, also, a very funny fact is, in 2017, 2018, I met one of the co founders who's currently now, who was kicked out by Altman, the current co founder, this guy Max. And I thought he was a raving, crazy lunatic. When he told me this idea, he was like, yeah, I used to work at M Pesa, which is this payment system in Africa that was on mobile phones. And I think the number one problem is this identity problem. And the reason it worked in Africa is because the cellular companies all made this federation, and you could kind of, like, they agreed to tell each other whether someone was a real person or routed the right way. And he was like, what if you could do that with blockchain? And I was like, okay, how do you plan doing that? It's like, I don't know. There's got to be a way to do it. And so I remember when I first heard this, I was like, this is fucking crazy. This is like Silicon Valley hubris that we're going to give Ubi to everyone. Dot, dot, dot, right? Like, it started as a Ubi project. It didn't start as, like, identity project. The identity thing was about distributing Ubi, but then it was sort of like a MacGuffin. The end goal wasn't the thing that it became like the thing that you had to do to get to the end. Goal was the main plot in the story, and that's what you have now. But, yeah, I find it a little bit distasteful in the way the token was launched, and I think they're going to have a very hard time coming back from that."
+    },
+    {
+        "speaker": "C",
+        "text": "I will say, to Worldcoin's credit, obviously, we've all kind of said the main things that there are to say in terms of critiquing them. The one thing I will say about Worldcoin is that it is a big vision, and that is one thing that I think a lot of people."
+    },
+    {
+        "speaker": "E",
+        "text": "I mean, when you have that many eyeballs, that is a big amount of vision."
+    },
+    {
+        "speaker": "C",
+        "text": "Wow, great. Ten out of ten. Dad joke. Thank you, Robert. Yeah, it is ambitious, and it is more or less exactly what we were talking about, which is that almost everybody's trying to build infrastructure. Where are the people building applications?"
+    },
+    {
+        "speaker": "B",
+        "text": "And I mean, they are an application."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, this is an application, but also infrastructure. This is an application. This is something that people will do. It is, you know. Yeah, it's a spectrum. It's crypto, right. You get, you get, you take what you can get."
+    },
+    {
+        "speaker": "B",
+        "text": "The better version of world coin that I hope will happen. But unfortunately, investors will require a Sam Altman like figure to make this thing not sound like it was deranged. Suddenly going into actually existing is just like attested sensors in general. Like this idea that, like, the sensor generates some proof of identity that wasn't generated by a computer. That's in general going to be one of the biggest applications. Like, I just don't. And I feel like worldcoin can completely fuck up the AOL and the AOL time Warner merger. But, like, still will have at least given people this idea that, like, this you can actually do this at scale, which no one cares about."
+    },
+    {
+        "speaker": "E",
+        "text": "Here's my startup idea for some crazy founder out there. You make world coin without the orb, where you could just use the webcam right in front of you. And like, everyone can just like go on their computer and get ten coins. There's no 25% for some team. It's just like everyone who can scan their face onto the computer and rotate their face and do all that, gets ten coins. And thats your fairly distributed crypto asset."
+    },
+    {
+        "speaker": "C",
+        "text": "Robert, I have bad news for you about what video generation works these days."
+    },
+    {
+        "speaker": "B",
+        "text": "A tested sensor thing, though, is real. Thats going to be the future. The question is, how do you get the hardware cost for it down enough that, yeah, anyone and their mom could write what Robert just described. But your webcam happens to have an attested sensor and it costs $10."
+    },
+    {
+        "speaker": "E",
+        "text": "Put the attested sensor in the webcam."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, yeah. I mean, I was gonna say, I think the reason the optics of the orb are obviously optics. The orb are obviously weird. But, you know, they talk about, hey, like, you, we looked at doing a cell phone cam and, like, just two low res, and, like, it's really difficult to scan brown irises, so we do infrared. So it's like, you know, they've also had kind of similar thoughts. But I think to your point, tarun, I think kind of, you know, the way they describe it is world coin is like one sort of source of authority for a general sort of attestation network. So I think they have a similar view. And this is just kind of like the way you do it versus one of did protocols that are like, oh, you should use my method for doing attestations. No, you should do my method for doing attestations. They're just building it from."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, you know what? I will say, the one thing about Worldcoin that feels like a missed opportunity is that they've been trying really hard to try to lean away from the kind of colonialist, orwellian vibe of a bunch of white guys going to Africa and taking the snapshots of people's eyeballs and then giving them small amounts of money in exchange for that. And I feel like if you look at the website, you look at all the branding, it's very fuzzy and kind of like, oh, it's just wonderful tech. But this crypto, people love the kind of dark, cypherpunk, dystopian vision. What if they just owned the orwellian ness of the brand? And we're like, yeah, worldcoin. The world is ending. Everyone is going to. We're going to have a database of everybody's eyeballs. It's fucking metal. It's so awesome. And we have a token, like, go Arkham style. Like, Arkham, Arkham. I feel like, managed to nail the landing of like, yeah, this is dystopian and we own it."
+    },
+    {
+        "speaker": "E",
+        "text": "You may as well get $80 for your eyeballs."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. Exactly. Look, if everyone's eyeballs are going to be tokenized, we might as well get not even $80. I think it's like $8."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. I thought you got, like, 20 coins or something like that."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, it's like, pretty good."
+    },
+    {
+        "speaker": "C",
+        "text": "$50. That's pretty good. That's pretty good. I would pay $50 for okay."
+    },
+    {
+        "speaker": "E",
+        "text": "We heard Haseeb say that would take $50 to get scanned."
+    },
+    {
+        "speaker": "B",
+        "text": "So haseeb, buy an orb and take it to him. He's ready."
+    },
+    {
+        "speaker": "C",
+        "text": "How much do the orbs cost?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, yeah, yeah, because they have the people who are, like, in whatever country, like, scanning people. There is a way to be, like."
+    },
+    {
+        "speaker": "C",
+        "text": "So you can. You can just buy them off the shelf."
+    },
+    {
+        "speaker": "B",
+        "text": "This is where the centralized company part is. Like, it's an MLM."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, it's whitelisted."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay."
+    },
+    {
+        "speaker": "C",
+        "text": "So in addition to the."
+    },
+    {
+        "speaker": "B",
+        "text": "It is an MLM because, like, the coin is. Exists to kind of promulgate this. Like, oh, like, you buy more world coins, scan more eyeballs, and you get more world coin. That part is the distasteful part, and that's the part that I. I find it very hard when I talk to these people working on, like, the real difficult sensor, attested sensor stuff that, like, they can never fucking answer. They're just like, yeah, well, how else are we going to get users? I'm like, yeah, by not scamming them out of their eyeballs. Like, maybe there's other ways that are, like, more fair incentives than, like, trying to make this thing where it's like, you have to buy the orb to get more people on and, like, I hope it works and then they can stop doing the MLM. But, like, I kind of just don't see how that happens. Like, it doesn't feel like there's, like, a natural, like, hey, I went from Tupperware parties to, like, you know, flatline, right? Like, I'm sold at stores and I don't need to. I don't need to, like, do this kind of, like, keep paying for distribution type of stuff."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, this whole thing is just really weird. And I feel like I easy to see coming that there was going to be more weirdness when the token launched, because with something like this, the whole premise, the token, is that it's valuable because people have it, which I feel like was a thesis that was invalidated a long time ago in crypto, that you give this to a bunch of people and that makes it valuable."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, no one's really done a good job of that."
+    },
+    {
+        "speaker": "B",
+        "text": "I think the MLM is. They want you to stake the token to be able to scan new eyeballs."
+    },
+    {
+        "speaker": "D",
+        "text": "Wait, why do you have to stake it? I don't think you have to stake it. Right. Because it's like, the scanning itself is like, there's no need to, like, have a ddos thing."
+    },
+    {
+        "speaker": "B",
+        "text": "The idea of, like, hey, there's these people who are. Who are getting orbs who are distributing it. One other way of basically incentivizing them without charging them for the orb, which is expensive now, is to have them basically, like, stake portions of the fees that they get for. Yeah, this, this. I've seen some crazy things like this. And it's like, that is just like."
+    },
+    {
+        "speaker": "C",
+        "text": "So the only thing that was missing from the system is leverage. So let's find a way to make people lock up, lever up on their world coin."
+    },
+    {
+        "speaker": "B",
+        "text": "If this didn't have Sam Altman, people wouldn't suddenly be like, it wouldn't have gotten this far. Where it's like, now you're like, okay, so this is fTt for eyeballs."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "It is a Sam coin full circle. This is, like, the most annoying part about it. Like, the technology is actually, like, amazing, right? Like, they're actually doing the right thing. I'm like, but then they, like, did the tokenomics in a way that, like, would make fucking Justin sun blush."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, God. Okay. All right. Well, I don't know how we move on from that, but I guess it's."
+    },
+    {
+        "speaker": "E",
+        "text": "Going to be hard to move on to hamsters."
+    },
+    {
+        "speaker": "C",
+        "text": "I know. All right, well, the other ridiculous thing that happened this week was that, unfortunately, I regret to announce I, that there is a new trend on crypto Twitter. And that new trend is digital hamster racing. Robert, would you. Would you do the honors? And explaining to the audience."
+    },
+    {
+        "speaker": "E",
+        "text": "So again, I will go back to the preface before the show, which is nothing is advice, please. In fact, this is, like, anti advice. Don't do anything related to hamster racing. Okay? Like, please run. Yeah. Like, run as far away as you can away from this, because this is bad. Okay. But basically, some folks on the Internet decided that they were going to race hamsters similar to horse racing or dog racing or like cock fights or like, whatever, and let people on the Internet bet all these hamster races using crypto. And in the midst of this, they've released a token for their hamster race betting marketplace. And people on crypto Twitter got really excited about hamster racing and a token associated with hamster racing. And things got out of hand for a couple hours. People discovered that the hamster races might not even be live hamster races. They were just video loops of hamster races."
+    },
+    {
+        "speaker": "B",
+        "text": "Great use case for attested sensors. You put in a tested sensor on the hamster and now you're. You're writing the hamster state onto the blockchain."
+    },
+    {
+        "speaker": "E",
+        "text": "Exactly. There's better ways to do this if you're going to run a crazy, illegal animal racing betting system. Right. And so obviously, this inspired a lot of conversation about what is the future of crypto based entertainment and wagering. It's inspired a lot of discussion, a lot of creativity. There's a couple nuances to the whole system. One is that the hamster organizational token has a 5% commission built into every buy and sale of the token. This is an innovation in disaster. And the developers basically pocketing an extremely large fee on every single trade, which is unique. I dont know why they had to add such a wasteful facet onto an otherwise horrible operation. You know, we'll see where hamster racing evolves to, um. I hope it ends. I hope, like, people don't start just, like, spinning up crazy things in their backyard. But, like, if they do marble racing, pretty fun. You could have, like, an online marble racing betting ring, you know, we'll see what the world takes."
+    },
+    {
+        "speaker": "B",
+        "text": "What if the hamster racing is only deep fake hamster racing? Like, it's only a."
+    },
+    {
+        "speaker": "E",
+        "text": "That could also happen. This is why we need those sensors."
+    },
+    {
+        "speaker": "D",
+        "text": "I'm impressed by all the. The copycats that spun up, because this isn't like a, you know, sushi swap, copy paste thing that you can do in an hour. If there's one that's like rat roulette, and it's like a rat that runs around the roulette wheel, I'm like, you have to go acquire a rat and a roulette wheel. And I'm like, this takes some legwork to accomplish it. So at the very least, people are actually, the cockroach one was even more impressive. I don't know where you get live cockroaches within 24 hours, but you can apparently."
+    },
+    {
+        "speaker": "C",
+        "text": "So I think some people just have them around the house."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "E",
+        "text": "Coingecko had to add a whole section on, like, animal racing tokens."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, we've been complaining about innovation on the application layer, and I feel like this is the answer that we were basically waiting for. As we just said, this is why the normies."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay, please, no more of this."
+    },
+    {
+        "speaker": "B",
+        "text": "For the sake of our experience, all I have to say is, like, I want to invest in a tested sensor applications because we've clearly proven that, like, worldcoin is the right technology idea. But, like, ico tokenomics."
+    },
+    {
+        "speaker": "C",
+        "text": "Combine the two, we need to combine worldcoin and rat racing, and it's perfect. What else could one want? All right, well, that's incredibly depressing. Also, I will note the thing you were talking about, Robert. The take rate on the transfers that is actually one is both a function of terra. That's one of the things that terra implemented. Wait, tera two, terra two, or callback to terra two implemented it. Terra one. It was always a function that could be called to recollect the system if the collateral was too low. So that was an original oge terra functionality that I love that they now integrated into one of the worst from one of the worst things ever into one of the new worst things ever. Also kind of a callback to NFT royalties is. I feel like there's some analogy there."
+    },
+    {
+        "speaker": "D",
+        "text": "I think this has been around for. There's like bomb token and there are a bunch of these kind of like. Yeah, people love doing this kind of stuff. I don't even know how else to describe it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. What is it? Yeah. What do you even call this? Sort of high transaction cost tokens."
+    },
+    {
+        "speaker": "E",
+        "text": "There's no point to it. You know, if they wanted to have a token for their gambling operation betting on hamsters, there's no reason to overcomplicate it with this like, crazy ass tax function."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "E",
+        "text": "They already get a share of from the marketplace."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "From the bets. And it seems like that, you know, that alone."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. I mean, the other crazy token that my friends were talking about at the same time was these telegram bots. You've read about these, the uni bot and all these other bots where you basically like, let them have a private key where you send all your crypto and then they can trade for you after you send them all your crypto."
+    },
+    {
+        "speaker": "B",
+        "text": "Nothing sketchy there."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, nothing sketchy there."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that sounds totally normal. Why would you not send all your crypto to a telegram bot?"
+    },
+    {
+        "speaker": "D",
+        "text": "Big step backwards."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. I do feel like things are in a weird place when retail is getting really fixated on like telegram bots for trading and fake hamster races. I think consumers in a bad spot right now."
+    },
+    {
+        "speaker": "D",
+        "text": "Apparently the jury is still out on the fake races. The Debs claim it was a bug and that was why you saw the duplicated streams."
+    },
+    {
+        "speaker": "E",
+        "text": "So, you know, a bug that played prior footage."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, yeah, yeah, they were. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Should give them the benefit of the doubt when it comes to illegal hamster racing rings. Like, come on. All right, let's maybe talk about some more kind of compelling applications in crypto. So there was a big story last week about Uniswap X. So Uniswap, largest on chain AmM exchange, they announced they're launching a new product which is basically going to be an off chain aggregator. So they're going to do in the style of one inch cow swap Zero X, what they're going to do is they're going to have these off chain actors called solvers that are basically going to basically look at all the possible ways in which they could take your order and execute it. And they're going to, these off chain players will compete to give you the best execution possible, either one through filling it themselves with some, with their own inventory, or by routing through some fanciness on chain. So that's more or less the idea. I mean, there's a bunch of other details, but basically Uniswap is expanding the product suite to go beyond just directly being the dex to now also being the aggregator of other dexes, effectively pushing them into the rest of the market. The only part of the market that Uniswap did not have for on chain Dex trading, for spot markets, obviously for derivatives, there are other platforms that have market share there. But for spot trading, basically the only thing they didn't have was aggregation. So any thoughts on Uniswap X and kind of how uniswap, I mean, at this point, if they succeed in taking away market share, they're just going to end up kind of owning the entire stack end to end."
+    },
+    {
+        "speaker": "E",
+        "text": "I mean, I think the part that's interesting is the capability of doing cross chain swaps. I don't think there's been enough innovation there. I think there's been aggregators and I really efficient systems for on chain aggregation and best execution for quite some time. But I think the actually interesting thing is that because it's using essentially an off chain system and you can have two different assets in two different places. As part of this solving that, you start to get into meta chain aggregation."
+    },
+    {
+        "speaker": "B",
+        "text": "And best execution without a bridge, without explicitly locking up capital on both sides."
+    },
+    {
+        "speaker": "E",
+        "text": "Without locking up capital, which I think is like an extremely underexplored area of trading now, I think there's some room to explore there. But that's what excited me the most personally, is that hey, this could totally change how people think about bridging in general. You could just rely on trade execution as the bridge, and we could potentially get rid of a lot of existing approaches if this were to work at scale."
+    },
+    {
+        "speaker": "B",
+        "text": "On the other hand, you do rely on there being active market makers at all times. So you might lose your sort of liveness of like in a bridge, you get some guarantee that your transaction, if it makes it into the bridge contract, eventually gets to the other side, given sufficient numbers of validators monitoring the bridge. But here you rely on market makers providing the capital just in time. And if they all disappear on that chain, say phantom multi chain exploit, you might be out of luck. Sort of. It's on a free lunch."
+    },
+    {
+        "speaker": "E",
+        "text": "You're also relying on Uniswap as the one hosting, I believe, like the order book and the quotes in the system. And in some ways it's a much more centralized system than Uniswap. V one, V two, v three, in that you're relying on an entity to run the book, so to speak."
+    },
+    {
+        "speaker": "C",
+        "text": "Tom, you had something to add?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I mean I agree. I think it feels a little bit like Uniswap is in its Google era where it has so much dominance that you can sort of just use your distribution to push new products that maybe don't depend so much on innovation. I'm sure it's a great product, but we've had stuff like this for a very long time and it's more, hey, if we have so much traffic, so much intent coming through our own site, we may as well modernize that or do something else with it versus and sort of borrow from what the market has created versus needing to create brand new products from scratch that bring in new people. So I agree. I think it's probably going to be great to trade on and has a lot of those properties that people are talking about, including execution minimized, mev, et cetera. But it does feel kind of very, very similar to a lot of other products that you mentioned that are already out there, cast, swap, zero, x, one inch, etcetera. And yeah, it does create this weird centralization vector in the sense that someone has to host these quotes, someone has to be on the other end of it. It was also interesting that they were talking about fees for this and there being another fee switch for Uniswap X, which I don't know how to spread those two of. Yeah, we're hosting this website but also potentially fees going through this application that we're hosting."
+    },
+    {
+        "speaker": "C",
+        "text": "Are the fees meant to go to Unitoken or are they meant to be monetized totally separately by Uniswap Labs?"
+    },
+    {
+        "speaker": "D",
+        "text": "Im assuming Unitoken, but its not live yet so who knows?"
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, interesting. Whats interesting to me about Uniswap X is that it feels a little bit of an admission. So Uniswap has been trying to expand beyond just trading. So they acquired genie which was the NFT aggregator a while that used to compete with gem and now with Blur. That kind of hasnt gone well as far as I understand. Theyre not doing a lot of volume on the Uniswap NFT exchange. And this feels like okay, try to push the product suite of all the Uniswap offerings in Defi to become larger and larger and kind of become this defi super app effectively. That kind of seems like the direction they want to go. I remember back in 2020, like late 2020, we were arguing about whether or not to invest into yearn internally at Dragonfly. And yearn was very explicitly doing the super app game where they were like, okay, we're going to have, originally it was just basically a yield aggregator, and they're going to launch all these different verticalized products. Oh, we have insurance, we have this, we have that. And they were white labeling things to bring into this yearn super app. And we were arguing like, okay, well, Uniswap is going to do this too, obviously, because Uniswap has so many users, they're basically the front end of defi. It makes so much sense for them to just verticalize and have their own lending market and their own this and their own that, and just bring it all under the same brand and just combine them under one common token, build a super app thing. And they didn't do it. They didn't even think about doing it. They did almost nothing for years until basically they launched an NFT exchange, which they airdropped USDC to people who used it. And then that's it. And then this is the next thing that we've seen that's kind of a real outgrowth beyond just we are a Dex. To me, one, it feels quite late to be doing this. It felt like they could have really done this two years ago, but for whatever reason, they didn't. But it also feels, in a way like a concession that the style of trading is going to change over time toward this model, which is just more efficient, which we've been arguing this and making investments along these lines, that we thought that the AMM model was going to eventually get overtaken by this RFQ off chain, find the best way to fulfill this order, use market makers or use whatever, that this model was eventually going to win. And it's a little bit sad to see that maybe the way it wins is that uniswap just puts it on the front end and then now it wins. But it's pretty clear that, like, the reason why they're doing this is that presumably they're worried that if they don't, that the one inches of the world, the cow swaps of the world, the hash flows of the world, the zero x's of the world that take on this model are just going to out compete them on price by having market makers essentially standing in and just giving you a better price or just routing it on chain. So my sense is that this might be in a way like kind of the beginning of the end of like the really cool on chain stuff. And also, one thing a lot of people have been talking about is that it is, in a way a reflection that we're moving away from the transaction based model of on chain trading and more toward the intent space model of on chain trading. And maybe this is a good place to just wrap up the show and talk a little bit about this concept of intents. I know a lot of people have been talking about it. It's one that I know we were just lamenting how much people are talking about infrastructure, but it is one of those big topics in infrastructure that keeps coming up again and again. So it's probably worth at least giving kind of $0.02 on it. Tom, do you want to explain really briefly what is meant by this concept of intents versus transactions?"
+    },
+    {
+        "speaker": "D",
+        "text": "Sure. It's basically a zero X order. So I think we're done. No, I mean, I think the basic sort of primitive of Ethereum is you specify, hey, here's the transition that I like to make, and here's, or here's the function that I'm going to call with this specific data, and here's how much I'm going to pay to perform this transaction, and then we'll make sure that it's valid and it gets included. It's almost like too rigid. It's like if you were ordering something from Amazon and you're like, well, I want this specific thing at this time delivered through this delivery driver. And it's just like, it's actually not really what you care about. It's kind of like you want to be very loose on inputs and rigid on the outputs, where the outputs might be. I'd like to purchase this NFT or I would like to swap one ETh for roughly this amount of USDC. And you let the market figure out the best path to get to that output that you want and what the inputs are to get to that output. And so for an intent, it's switching away from very specifically, this is the type of transaction I'd like to make and all the different bits that go into that versus here is roughly the output that I would like, and I will let the market figure out how best to accomplish that output."
+    },
+    {
+        "speaker": "C",
+        "text": "Right. And so, Tarun, maybe you can speak to like, why is this such a big deal? Why is everyone talking about this. I mean, especially if you were in Paris. I know there's a lot of discussion about intents and intents based, like, moving away from transactions toward intents. What's the big deal?"
+    },
+    {
+        "speaker": "B",
+        "text": "Why does it. Yeah. Can you guys see my shared screen?"
+    },
+    {
+        "speaker": "E",
+        "text": "Not yet, but I'm super pumped."
+    },
+    {
+        "speaker": "B",
+        "text": "You know, this is a talk. I gave Andreessen research about different types of things that people are uncertain about in the transaction supply chain of, like, I send a transaction, how's it executed, where's the gig, what parties are in the middle? And these are all the different mechanisms that people have studied. And, you know, obviously the most used one in the world is an auction. And, you know, I gave this color coding making fun of the fact that, like, intents are this kind of like, in GitHub comment kind of description. They're not really formally defined. I think the way people are actually using them is actually quite broader nowadays than Xerox order, for instance. But I think it's mainly a catch all for things that have any form of uncertainty. So the user has some type of uncertainty in how their transaction gets executed, but they get some guarantees that regardless of how it gets executed, some covenants hold. Like they get at least a certain amount of tokens, or they use a certain amount of leverage at most, or they dot, dot, dot. Like, choose a metric, usually a financial metric, but it could be a non financial metric that you can compute. And you have some way of giving some proof that even though there's all these uncertainties in the transaction, supply chain and blockchain that you can, you're guaranteed some elements. And so a lot of people on the Internet will be like, it's just a limit order, right? Because the limit order says guarantee. If your order was filled, it was filled at this price, because the limit order was at a certain price for a certain quantity. But a lot of the type of stuff people are doing is actually more complicated than that. And it's more like, hey, in this circumstance, I want to trade Pepe for hamster. But actually, if like the hamster people are posting attestations and they're failing, it's not a real hamster. I actually wanna sell all my hamster, and I wanna make sure I only get eth out, no other asset. And so these like, more complicated trading things are kind of important. I had some slide showing the uncertainties, but that's probably too complicated for this podcast. I mean, I saved that for the next step."
+    },
+    {
+        "speaker": "C",
+        "text": "I wanna see the slide now. No, you're gonna claim this is too fancy for our audience. I wanna see it."
+    },
+    {
+        "speaker": "B",
+        "text": "There's. There's a spot."
+    },
+    {
+        "speaker": "C",
+        "text": "There's just an arrow. Our audience can get this arrow."
+    },
+    {
+        "speaker": "B",
+        "text": "These are the uncertainties ordered by what is some type of, like, mini max payoff."
+    },
+    {
+        "speaker": "C",
+        "text": "All right, I like the increasing payoff uncertainty."
+    },
+    {
+        "speaker": "B",
+        "text": "That means supremum in math, which is like a generalization."
+    },
+    {
+        "speaker": "C",
+        "text": "Obviously. Obviously. I know that. I mean, come on, who doesn't know that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Super. Super."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. EG, super. Okay, exactly. Cool. Well, I immediately understood this the moment you pulled it up, so I think we can. We can move on. Okay, awesome. All right, well, I think that's it for this week. All right? Next week will be a totally normal week, but we will be back and we will be talking about whatever happens between now and then. So until then, signing off."
+    }
+]

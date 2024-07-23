@@ -1,0 +1,798 @@
+[
+    {
+        "speaker": "A",
+        "text": "Hey, bankless citizens, welcome to our episode. After the episode with David Marcus on why Facebook's stablecoin failed. All right. That was the main thing I really wanted to get out of this episode. I did. Also was curious why he's building on Lightning, but David, let's get it out. Okay, everything you didn't want to say during the conversation, because going long and to be like, I guess, respectful of our guest and not to turn it into, like, a 60 minutes debate, you could say those things. Now, what do you want to say?"
+    },
+    {
+        "speaker": "B",
+        "text": "I don't want to say. I've said it so many times. It's like, this is, this is when we started bankless. It was me coming out of pov crypto, which was 18 months straight, of arguing with bitcoiners about bitcoiner things. And so, like, finally, finally we started bankless. I'm like, oh, thank God I can talk about Ethereum with an Ethereum co host, like, I'm done talking about. And so, like, then you get the bitcoiner on and they go and give you their spiel of, like, you know, the immaculate conception. No centralized ownership, proof of stake is on chain governance. And I'm like, ah, this again. I have heard this so many times."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I kind of felt that too. You know, once in a while, it's interesting to ask not just why a laser eyed maximalist is saying these things, but why an entrepreneur who's actually chosen."
+    },
+    {
+        "speaker": "B",
+        "text": "To build a rational human being is saying these things."
+    },
+    {
+        "speaker": "A",
+        "text": "Is saying these things. And David Marcus is more toward the rational human being side."
+    },
+    {
+        "speaker": "B",
+        "text": "Right?"
+    },
+    {
+        "speaker": "A",
+        "text": "And so it was worth surfacing that conversation toward the end just to see if there were any new points."
+    },
+    {
+        "speaker": "B",
+        "text": "The man said, I am not a laser eyed maxi. And I'm like, I bet you are on the inside, though. I bet you really want to be."
+    },
+    {
+        "speaker": "A",
+        "text": "I just didn't hear any, I don't know, non religious points is sort of my take, I guess. Time will tell. So it was the three points of Vitalik is the leader, so it's centralized, staking is a centralizing force, and bitcoin is more liquid than ethereum. Okay, so what I would have said if this turned into a debate is, no, Vitalik isn't the leader. He doesn't have any more authority than someone who owns some bitcoin over the bitcoin network. Vitalik's eips don't even go through. He doesn't control the network any more than Michael Saylor does. Vitalik is not the leader. We could fork without Vitalik. If Vitalik went away. He was blasted off into, I don't know, Mars or something. Ethereum would be completely fine. I feel like that points disproven. Do you have anything more on that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Actually, I can take the other half of that argument, to be honest. Yeah. So, yes, it's like on a technical level, does Vitalik have any undue control over ethereum? No, but he is incredibly influential and if he wants to push Ethereum in a particular direction, it'll probably go that way. Why? Because of merit. Because he's earned it. Because his ideas are good. And so why is Vitalik so influential? And yeah, Vitalik is really influential. If he wanted to beat the drum about something, he could probably get it done. But the reason why the Ethereum community trusts him and he is that influential is because he's earned it, because his suggestions and ideas are all really, really good. So it's not like Vitalik is some dictator and there's risk about his decisions, because the only time Vitalik is going to voice a decision is when it's the right one. And that's why he's influential in the first place. So I will, I don't think the risk is there. So David Marcus's point that there's risk there I don't think is valid. But to say that Vitalik doesn't have influence over Ethereum, I also think is not."
+    },
+    {
+        "speaker": "A",
+        "text": "It's soft powers, it's social influence. It's not like, you know, I control the EIP process or I control the Ethereum foundation which operates like a centralized company that is shareholder run or I have a certain amount of tokens and therefore I get to decide or whatever I say, it goes to say you're."
+    },
+    {
+        "speaker": "B",
+        "text": "Not building on Ethereum because of italic is a cop out, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, so George Washington was a general, he was president, first president of America. He resigns from his position, he decides no longer to run. He's still going to have some social influence outside of his presidential office. Right? Why? Because he's a respected leader of the american revolution. I mean, this has similar analogs, I think also like certain religious leaders, you might say, you know, in like Protestantism or something, I mean, they don't control Protestantism, they don't control the entire religion of Christianity, but they have some level of social influence, right? Dalai Lama has some sort of level of social influence, right? I mean, that is more comparable to, I think, Ethereum. So that's why I think unless you get into those specifics than just saying Vitalik is. But I will say, okay, there are some people who believe, David, that because Ethereum has a founder who is an actual real person that detracts from its moneyness property, versus Satoshi who is pseudo anonymous, is much more kind of an idea, has kind of disappeared, birthed the idea and let it go. That is kind of the immaculate conception type of argument. And I think that you score some points towards moneyness for that. Like, I don't think it's a completely barren."
+    },
+    {
+        "speaker": "B",
+        "text": "Some points. Yeah, sure."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, you score some points. It's just I don't, I personally don't think it's nearly enough, but I think there are some things you can see."
+    },
+    {
+        "speaker": "B",
+        "text": "Longer before ETH is money, not after ETH is money. And ETH is definitely in its post money era."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it is money. You think so? I think David Marcus wasn't ready to concede that point, but the second point he makes is that staking is centralized. And this to me is just, it's not."
+    },
+    {
+        "speaker": "B",
+        "text": "This has been, this has been technically answered. They just haven't listened to the Ethereum foundation folks."
+    },
+    {
+        "speaker": "A",
+        "text": "So stake does not grant you a token vote and any influence over Ethereum governance. If you own one ether, you're not getting one ether worth of vote over the future of Ethereum's roadmap. So it's not like a shareholder vote. So that's one piece of it. And then the idea that proof of stake centralization is somehow more centralized proof."
+    },
+    {
+        "speaker": "B",
+        "text": "Of work."
+    },
+    {
+        "speaker": "A",
+        "text": "We'Ve been through that before. And then the last point is that bitcoin is more liquid right now."
+    },
+    {
+        "speaker": "B",
+        "text": "That's the dumbest point."
+    },
+    {
+        "speaker": "A",
+        "text": "That's a fact. It's just a fact."
+    },
+    {
+        "speaker": "B",
+        "text": "It's not a point."
+    },
+    {
+        "speaker": "A",
+        "text": "It's only more liquid until it's not."
+    },
+    {
+        "speaker": "B",
+        "text": "Dollar is more liquid than bitcoin. So I don't think that gold's more liquid than bitcoin. Oil is more liquid than bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "The other point I would make is it's more liquid. Yes. For now, Ethereum, like ether, is catching up, number one, and has been since inception. Number two, ether, the asset, is more liquid in more places that matter to me, which is bankless money systems outside of exchanges, outside of kind of fiat rails. Bitcoin is more liquid on centralized exchanges."
+    },
+    {
+        "speaker": "B",
+        "text": "Banks liquid in banks."
+    },
+    {
+        "speaker": "A",
+        "text": "Ether is more liquid in EFI. Anyway. You got bankless listers. No, we didn't obviously say these things because then it would turn into, we."
+    },
+    {
+        "speaker": "B",
+        "text": "Get a lot of pushback. Okay, so we give pushback. We get pushback from like the Solana folks, like, oh, you guys aren't articulating SOLANA well, but then we also get pushback from Ethereum, people who are saying like, you guys gave your guests so much room, like, you guys didn't push letting people talk. It's like, we don't, we don't. It's, we're in a rock and a hard place. We're like, what are we going to do? Articulate our vision and our thesis for Ethereum for the 10,000th time just because we have a new guest? Like, no, you have to let the guests talk."
+    },
+    {
+        "speaker": "A",
+        "text": "Most people who say those things would be shitty podcast dude."
+    },
+    {
+        "speaker": "B",
+        "text": "Most critiques of bankless are so never mind bad."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Anyway, I mean, we try obviously to give kind of like fair take in treatment. And you know what I was most interested in is like, are these new points, are there any new points as to why an entrepreneur, why a builder raise money and decides to build on lightning? And those three points at least were nothing new. And it does seem like David is having to wrestle with the clunkiness of state channels and that state channels enlightening, which is two layers of clunkiness. First of all, I feel like the more condescending take would be like, oh, cute. Ethereum went through its state channels phase two, but it never took off. Even when you had a smart contract programmable base layer, it didn't take off."
+    },
+    {
+        "speaker": "B",
+        "text": "We had a porn as an incentive and it still didn't take off."
+    },
+    {
+        "speaker": "A",
+        "text": "You're talking about spank chain."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. I mean, not even close. And it's been basically abandoned. And yet bitcoin is still going with the lightning based approach. And I actually do think it's, if you do it well, if you do it right, it can be like the state channel approach can be reasonably like, can be very decentralized. The problem with it is it's not capital efficient at all. It's like such a bear to set up these channels. You're not like pooling liquidity at all. I mean, there's a lot of reasons why it hasn't worked."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "So I don't know, maybe he has other reasons for. But I hope they're not just religious reasons for building on bitcoin because I."
+    },
+    {
+        "speaker": "B",
+        "text": "Guess I don't know how they can't be. One of my favorite lines from Nick Carter is that all bitcoin founders immediately become bitcoin moderates because the market humbles them out of their maximalism. And so, like, all, like the only the bitcoin laser eyed Maxis out there, they're not ever going to build something because they can't be pressured by the market, because they need to live inside of their bubble. And so that's why David Marcus isn't. I'm not a laser eyed Maxi. I'm going to. I'm a normal human who says normal words. Yeah, that's because the market's about to humble you, brother."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, it's not my bet. It's not the bet I would make. I do wish him luck in kind of the, you know, to whatever extent there's a shared endeavor here. But, you know, which I think is if he's really going to be able to bring permissionless open payment systems. Yeah. It's just not. I mean, what has been the adoption of lightning? Have you. Have you followed it at all?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, dude, I don't waste my time."
+    },
+    {
+        "speaker": "A",
+        "text": "I haven't thought about it since."
+    },
+    {
+        "speaker": "B",
+        "text": "Who's the guy that I got into a fight with on Coindesk's thing?"
+    },
+    {
+        "speaker": "A",
+        "text": "Is this the miner? He's big in the mining community."
+    },
+    {
+        "speaker": "B",
+        "text": "No, he's big in the light. He's a big lightning guy. He got El Salvador to accept Lightning or whatever."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, I know who you're talking about. Are you talking about. This guy is basically a bitcoin religious."
+    },
+    {
+        "speaker": "B",
+        "text": "Why can't I think of his name?"
+    },
+    {
+        "speaker": "A",
+        "text": "Big bitcoin Lightning. El Salvador. I better find it. El Salvador."
+    },
+    {
+        "speaker": "B",
+        "text": "What's the company? God, I've forgotten all of these things."
+    },
+    {
+        "speaker": "A",
+        "text": "Lightning, El Salvador. Speaker one."
+    },
+    {
+        "speaker": "B",
+        "text": "He's like the bitcoin Lightning influencer."
+    },
+    {
+        "speaker": "A",
+        "text": "Lightning."
+    },
+    {
+        "speaker": "B",
+        "text": "He wants you to think that there are real deals going on, and there's real decentralization with Lightning, but everything just runs through his custodial lightning application."
+    },
+    {
+        "speaker": "A",
+        "text": "These are some names company. Pierre Richard."
+    },
+    {
+        "speaker": "B",
+        "text": "No, Pierre."
+    },
+    {
+        "speaker": "A",
+        "text": "I haven't heard that name in a long time."
+    },
+    {
+        "speaker": "B",
+        "text": "It's a piece of work, bro. I haven't heard of that name in forever. Biggest."
+    },
+    {
+        "speaker": "A",
+        "text": "Lightning devs."
+    },
+    {
+        "speaker": "B",
+        "text": "Lightning, I think, is his app."
+    },
+    {
+        "speaker": "A",
+        "text": "Bankless listeners are like, guys, we. You know, they're saying his name."
+    },
+    {
+        "speaker": "B",
+        "text": "They know, move on. I need to find this guy."
+    },
+    {
+        "speaker": "A",
+        "text": "Why can't we find him? Just. Just look at the bitcoin Miami speaker circuit."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, bitcoin 22. Lightning speaker. Jack Mahlers. Jack Mahlers. Fucking Jack Mahlers."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so you actually talked to him?"
+    },
+    {
+        "speaker": "B",
+        "text": "It was him, me and a few other people on a coindesk virtual conference during COVID David Hoffman, Zach Mahler's coindesk. I actually don't even remember who. Oh, Scooby trooples from Alchemyx was there. And I think one more person who I can't remember?"
+    },
+    {
+        "speaker": "A",
+        "text": "But that's a funny panel."
+    },
+    {
+        "speaker": "B",
+        "text": "It was so, like, they didn't care panel, correct incorrectly. But, yeah, so, like, it was all about Defi. And then they play Zack Mahler's on this, and Zack is just silent for the whole thing because he has nothing to say. And then, like, the moderator turns to him and is like, zack, what do you think about Defi? And he basically goes, oh, they're all scams. You should build on bitcoin and Lightning network. I'm like, get the fuck out of here, bro. This panel's about Defi."
+    },
+    {
+        "speaker": "A",
+        "text": "So, did you. Did you pick up that debate baton and throw it back at him?"
+    },
+    {
+        "speaker": "B",
+        "text": "What did I do? I just got fired up because of how just, like, poor his response and engagement was. And so I went and I did the same panel under the same title, and we did it as a show on bankless. And it was finally the conversation that I wanted to have. This is, like, in early mid 2020 or something. Yeah, it just fired me up. And then. And then now I just, like, now I just see all these, like, laser eyed bitcoiners and Zack Mahlers and all these people and sailor."
+    },
+    {
+        "speaker": "A",
+        "text": "You think it's an influencer play? I actually."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's an influencer play. And everyone's like, oh, if Zack Mahlers is changing the world, he's getting El Salvador onto Lightning Network, and blah, blah, blah, blah. He's just. No, he's like a lightning influencer, and he's also a fucking kid."
+    },
+    {
+        "speaker": "A",
+        "text": "I just like the idea of lightning. I think it's just never actually progressed."
+    },
+    {
+        "speaker": "B",
+        "text": "Beyond, like, as an idea. As a concept. Sure."
+    },
+    {
+        "speaker": "A",
+        "text": "As a concept, yeah. And that's kind of like the implementation."
+    },
+    {
+        "speaker": "B",
+        "text": "I like Solana as a concept."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I mean. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "So homogenous shared state at the speed of light."
+    },
+    {
+        "speaker": "A",
+        "text": "The thing is. The thing is, it works itself out in the end. Right. If David Marcus is right and bitcoin and the lightning network take off. Right, then that will be obvious. That will be evident. That will be reflected in the price of bitcoin. That will be reflected in the adoption of the amount of bitcoin held in lightning."
+    },
+    {
+        "speaker": "B",
+        "text": "It won't be reflected in the price of bitcoin. It will be reflected in the revenue of bitcoin miners. They still have to plug that hole."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, you know. So bitcoin still hasn't gotten through its mev phase either."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "And that's going to be a major."
+    },
+    {
+        "speaker": "B",
+        "text": "Growing up to do, despite being the elder sibling."
+    },
+    {
+        "speaker": "A",
+        "text": "That's what I feel like. That's why, anyway, I mean, this is."
+    },
+    {
+        "speaker": "B",
+        "text": "Why, like, anytime, like, hey, like, we're going to talk to a bitcoiner."
+    },
+    {
+        "speaker": "A",
+        "text": "I know you weren't excited about this episode because of that, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Going into this, it just wasn't inspiring to me. It's like, we've done. We've done this before, and I know what this is going to. I know how this is going to go. And we had to spend, like two thirds of the episode talking about actually interesting things, which, which is like, in Libra and super apps and payments and stuff like that, before we finally concluded the inevitable outcome, which is like. And bitcoin. I'm like, no, we've done that series."
+    },
+    {
+        "speaker": "A",
+        "text": "Let's talk about that other part. From white paper to in front of Congress in three weeks. What do you think is going on there? Why did that happen?"
+    },
+    {
+        "speaker": "B",
+        "text": "If I remember correctly, the very introduction of diem at the time was its own unit of account with a basket of fiat currencies. Like, it was a new Bancor model."
+    },
+    {
+        "speaker": "A",
+        "text": "They started there, I believe so, in."
+    },
+    {
+        "speaker": "B",
+        "text": "First, and then they had to get walked back because of regulatory pressure into actually a us dollar stablecoin."
+    },
+    {
+        "speaker": "A",
+        "text": "I remember when the. So this was 2019. So this was in, you know, I guess in the doldrums in the, you know, the crypto bear market, which was, you know, a sad time. And this is definitely ethereum was kind of dead. And then Libra comes out with Facebook, comes out with this white paper, and I think it was called Libra at the time. And you're right, what they proposed was a stable basket of fiat backed currencies."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. It was like, United States dollar, the euro, japanese yen."
+    },
+    {
+        "speaker": "A",
+        "text": "Not a win for the us government in this model. Right. It's certainly not a win for us banks because Libra was intending to, like, mostly bypass them, create, like, this loose consortium where they could be members of, but basically bypass all of them and bypass the us government. And they were going to do because."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, Facebook is the world's largest country. Bye. Number of people inside of it. And so if they have their own unit of account and currency, like, that's why I was saying it's like, oh, yeah, it starts to infiltrate into government business."
+    },
+    {
+        "speaker": "A",
+        "text": "So the us government straight freaked out. Like, freaked out. I mean, that's what that is when you go, they completely freaked out. But so did crypto at the time, if you remember. Like, there was a."
+    },
+    {
+        "speaker": "B",
+        "text": "Reactions were crazy."
+    },
+    {
+        "speaker": "A",
+        "text": "What were the reactions that you recall?"
+    },
+    {
+        "speaker": "B",
+        "text": "So the one, the. I remember the Ethereum community reacted in one particular way. I'll let you. Let you talk about that one. But the bitcoiner reactions I thought were super interesting because you had two different reactions. You had, some of the dumb bitcoiners are like, ha ha, this is just going to totally replace Ethereum. Now. Why do we need Ethereum? We'll just go with the centralized Facebook led one and Ethereum is going to have his lunch eaten. Ha, ha, ha. And then the rational reason bitcoiners are like, this is a, this is like a, I'm forgetting the word. But just like this is a threat to freedom. We can't have payments model. Yeah, yeah, exactly. Like this is not, this is not what we want, blah, blah, blah, blah. Which is closer to what the Ethereum community was saying."
+    },
+    {
+        "speaker": "A",
+        "text": "I think if people weren't there, don't remember that. I think picture like world coin, when world coin hit and where the community completely rejected it from the immune system, right? You're just like, it's like you eat some food, you got food poisoned and your body just rejects it, just spewing it out. It was like worldcoin only like ten x that. It was just like, Facebook is evil now they're going to do social plus money and they're going to corporate control the whole planet and they're going to crush the rest of free and open crypto. And there was a lot of concern from the Ethereum community that we just incepted this idea. And Facebook was like, all right, guys, the, you know, Silicon Valley will take it from here with Zuckcoin."
+    },
+    {
+        "speaker": "B",
+        "text": "And I remember for a straight week, the Ethereum community. And this was like I was, I was like I probably at my most, meh. I was, I was coming into my most technical part of my trajectory in crypto and I was going through the development box that they had move because we as a community were trying to figure out did they have smart contracts or not, because it was not clear for like the first week or so whether DM was going to be able to have smart contracts."
+    },
+    {
+        "speaker": "A",
+        "text": "And it turned out they did have smart contracts. And not only did they have smart contracts, they had this new solidity killer called move. And at the time, solidity was just like a kind of a shitty, like Java, pretty shitty, barely used. And then here's this kind of this move, which is Silicon Valley. It really felt like an existential crisis in the midst of existential crises. For Ethereum, it was almost like the finishing blow in the 2019 bear market depression. Ethereum was already dead. And then here comes Facebook being, stepping on us, squashing us."
+    },
+    {
+        "speaker": "B",
+        "text": "So move that whole programming language. You know what that turned into?"
+    },
+    {
+        "speaker": "A",
+        "text": "Didn't they spin that off into a. Another blockchain kind of race startup or. Okay, what are those?"
+    },
+    {
+        "speaker": "B",
+        "text": "What called diem brother."
+    },
+    {
+        "speaker": "A",
+        "text": "That's what Aptos is."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. The Facebook smart contract team spun out and that's what Aptos is. And I think also sui. So, yeah, we have all these move languages, blockchains, and that's why they have probably is why they have such a valuation that they have. Just because it's like the old Facebook project."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, well, I mean, that's part of it. That's the narrative part of it. I mean, supposedly it was much easier for native web two developers to kind of program in and develop against. I'm not sure it's above what we typically talk about, but, yeah, that was the context. That's how crypto received it. And the us government, of course. I felt like in 2019, this came at a time when people were also realizing at the same time how. How bad for society social media could be and the incentive mechanisms at play."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it was not a good time for Facebook optics. Already in the hole."
+    },
+    {
+        "speaker": "A",
+        "text": "Right? It was in the hole because it was Cambridge analytica overturning elections."
+    },
+    {
+        "speaker": "B",
+        "text": "This whole thing was the social media ethics guy, Tristan Harris, he had just done it like a documentary on it. Yeah, exactly."
+    },
+    {
+        "speaker": "A",
+        "text": "So they base, I feel part of the reason they called them in front of Congress was to shit all over them politically. Right. And so this is very much a political stunt, I think. But there was massive backlash at that time about. About Facebook on kind of this social networking front. And here they are rolling out a white paper. It felt tone deaf to everybody."
+    },
+    {
+        "speaker": "B",
+        "text": "It really did. Yeah. What the fuck are you doing? It felt like Mark Zuckerberg was like, I'm the country now. I don't need you."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So I think we've spent an entire summer in the crypto news cycle talking."
+    },
+    {
+        "speaker": "B",
+        "text": "About we wasted so much energy from 2018 to 2020 fighting such stupid stuff."
+    },
+    {
+        "speaker": "A",
+        "text": "What happened with it? Congress just basically said, no, you can't do this."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. So they rebranded to Libra, and there was a Libra consortium."
+    },
+    {
+        "speaker": "A",
+        "text": "Didn't they go from Libra to Diem? Or do they go from Diem to Libra?"
+    },
+    {
+        "speaker": "B",
+        "text": "I can't remember DM to Libra. Libra was the word that I remember. And there was this un style consortium flag looking thing where they had Facebook and eBay and PayPal and Visa as all of these Libra stakeholder consortium people, because it was going to be decentralized. There's new decentralized. And just like over the next six months, you saw one by one just dropping like flies. They were like, you know what? We're out of here. We're gonna this sink. This totally did. And it's just like rats, just like fleeing the ship."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, that was the story. It was always unclear to me what decentralized meant to. I get that it was open, some of the code is open, but could you run a node on your own? I don't think that was ever, we."
+    },
+    {
+        "speaker": "B",
+        "text": "Never got any of these answers because the project just failed to launch."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And it failed because the us government basically said no. And then Facebook just pivoted away from that. It took about twelve months time for that to fully sink in that their strategy here is not working."
+    },
+    {
+        "speaker": "B",
+        "text": "Just to finish painting the picture of what this bear market felt for the listeners. We had Facebook. Facebook come in and say, hey, we're going to have a smart contract, stablecoin, blockchain. You had bitcoiners yelling at Ethereum, people saying that smart contract, proof of stake will never ship. Your nodes are going to get too large. Like, blah, blah, blah, blah. Like, everyone, like eos somehow actually not doing terribly yet. And so being an etherean, every single knife was pointed at you and the price of ether was $100. And dropping it did not feel good. And so sticking with Ethereum during this time was like, I didn't really, I never questioned it, but, like, looking back, it was like the most contrarian thing I will ever do. Yeah, it's like believing in Ethereum during that context."
+    },
+    {
+        "speaker": "A",
+        "text": "I questioned it and then I kept going deep and like, diving into it and being like, you know what, I still don't think I'm wrong. And I couldn't tell whether I was just being stubborn or if I was actually contrarian. Right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Weeks would happen where, like, murad went on Anthony Pompliano's podcast and gave the biggest bullish take about bitcoin I've ever heard. And I was like, oh man, that's really bullish. And then I would go talk to some Ethereum people, read some articles, be like, no, no, no, we're good. We're good here. Facebook, Liam would be. DM would drop it, be like, oh, fuck, what's, this is a huge obstacle we're gonna have to overcome. And then we would unpunpack and deliberate. It's like, this is why this doesn't work. This is why you build this network for first principles. Like, yes, okay, I remember, I remember now. And so, like, that was what the bear market was."
+    },
+    {
+        "speaker": "A",
+        "text": "I was like, a full time job to do that, to, like."
+    },
+    {
+        "speaker": "B",
+        "text": "It was like that for, like, two years."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it very much felt like that. Wow. Dark times. We are. We are blessed with this bear market, I guess, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "I don't like, yeah, this is why this bear market is so easy. Is like, we already wonde. It's just now. It's just time."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, there's a different type of pain with kind of, like, the central."
+    },
+    {
+        "speaker": "B",
+        "text": "It was David Martin's coming in. So, like, hey, like, crypto doesn't need to be so tribal. Like, we're all shooting ourselves in our foot. I'm like, yeah, it does. It needs to be tribal."
+    },
+    {
+        "speaker": "A",
+        "text": "What do you think about that? I mean, Raoul Paul, when we had him on, made a similar comment, like, nah, it doesn't have to."
+    },
+    {
+        "speaker": "B",
+        "text": "Tribalism is a feature, not a bug. It's built into the way these networks are work you. There's no routing around it. Anyone who doesn't understand tribalism and crypto just doesn't understand crypto deep enough."
+    },
+    {
+        "speaker": "A",
+        "text": "It doesn't mean you encourage toxicity in your community, and it doesn't mean you encourage burying your head in the sand and religious arguments rather than pragmatic arguments."
+    },
+    {
+        "speaker": "B",
+        "text": "Correct."
+    },
+    {
+        "speaker": "A",
+        "text": "But I do agree with you that at the layer one, and this is just longstanding, bankless thesis, all layer ones are competing for monetary premium. They're competing as a money, and therefore."
+    },
+    {
+        "speaker": "B",
+        "text": "They'Re competing for mind share as money. And there is limited mind share that you can give space to this, too. And you picking your tribe is saying, I have elected to give my mind share to this particular money."
+    },
+    {
+        "speaker": "A",
+        "text": "That's why what's interesting, money is moloch."
+    },
+    {
+        "speaker": "B",
+        "text": "But in a good way."
+    },
+    {
+        "speaker": "A",
+        "text": "So what's interesting? Well, you can in a good way, but only because you can harness it and channel it to create something good out of that, potentially. And what we think we're trading with crypto and with Ethereum, money is coordinated."
+    },
+    {
+        "speaker": "B",
+        "text": "You can only coordinate around one money."
+    },
+    {
+        "speaker": "A",
+        "text": "Wow, that sounds very bitcoiner of you. I think there can be more than worried about that. I think that there can be more than one money, but that one money will disproportionately receive the network effect. So it's kind of like there can."
+    },
+    {
+        "speaker": "B",
+        "text": "Be more than one money, but the growth of one money comes from the ungrowth of another, comes from the detriment of another."
+    },
+    {
+        "speaker": "A",
+        "text": "Not to segue and talk about another episode, but I'm really curious, because I listened to your Solana episode with Austin on whether soul is money. How far along do you think that community is to sort of accepting that thesis. I feel like they reject that thesis entirely."
+    },
+    {
+        "speaker": "B",
+        "text": "They are not going down the same paths that the Ethereum intellectual community in 2018 to 2020 went down. They have come up with what I consider to be patchwork narratives that don't understand the basement of things."
+    },
+    {
+        "speaker": "A",
+        "text": "It's not a soul as money type thing. We're just following ethereums."
+    },
+    {
+        "speaker": "B",
+        "text": "No, dude, they are creating duct tape and boards. What is the name up their narratives? Their narratives is that a Solana block space is going to penetrate through ethereums by being cheaper and it's going to onboard all the same use cases, but onto cheaper block space. And they think that their universally shared state by one single network, that they're going to be able to scale to the side to fill the void that web three needs it to be, is going to be better as one homogeneous state."
+    },
+    {
+        "speaker": "A",
+        "text": "But what if they don't need a narrative? What if they don't need a narrative for that? What if, as a byproduct of Solana, like onboarding millions and hundreds of millions of people, right. This is again, like what the I bulls would say about this, that those in the community, just in this Solana community just get exposure to soul as a money. They didn't even have to have a narrative around soul being money for millions of people to just buy soul because it's convenient, right? And for it to become a money. That way they could figure out that soul is money. Like some future cycle. What do you think about that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Then? It goes back to, I think, at least half of the arguments that I hear about Solana are crafted as a direct juxtaposition to Ethereum. Like, half of the Solana community exists to oppose Ethereum, as in, just like, they just want to be contrarian about something. And that's not because the Solana attracted them there. It's that their contrarian nature just pushed them there. So this is like what I've been talking to Anthony Cezanne about recently, like the layer zero of Solana. It's like it's. It's much more purposeless than it is, than what bitcoiners feel about bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, the purpose is transactions, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah. It's sheet block space. It's scale block space to scale up to the entire Internet."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, it's interesting because I had thought that perhaps Solana would go down the path that Ethereum basically went down in, you know, 2019, 2020."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, see, they can't do that because they need to re. They need to be a reaction to Ethereum so the Ethereum culture followed bitcoin down the path of money. We followed bitcoiners down their path in addition to also doing our own things with like layer twos and smart contracts and defi and stuff like this. And Solana, I think it is just kind of like its vision for itself is just like this weird mutated version thats again somewhat defined by being in Ethereum shadow but also a rejection of Ethereum in the first place."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, its interesting. Ive always viewed the Ethereum project. I think Vitalik said that when he said this, defining it back in 2017, 2019, moderate bitcoin values. You said this in 2017 2018 during my, some of my formative years and tried to figure this out. Right. I've always just thought of Ethereum as it's like bitcoin but with smart contracts and it's planning to scale and it has a smarter monetary schedule."
+    },
+    {
+        "speaker": "B",
+        "text": "Excuse me, pluralism."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I mean that's. And so it was always the derivative of bitcoin, but it was like bitcoin as it should have been. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "Bitcoin, if it actually started with bitcoin and then added more."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And I think also prunes some crazy stuff."
+    },
+    {
+        "speaker": "A",
+        "text": "Solana is basically smart contracts. It's sort of a follower of Ethereum on that. And the one thing that's different about it is cheap block space. So that's kind of what they're going with, right? It's not, I guess maybe is it trying to be Ethereum with cheap block space? But you're saying they're not trying to be like money in the way that Ethereum has kind of adopted money. I just feel like, why wouldn't they embrace that as a kind of a narrative?"
+    },
+    {
+        "speaker": "B",
+        "text": "I don't think they, I think I was also talking to Anthony. Anthony and I can have to hop on a show and like fully suss this out. I think, like if you can understand maybe 60% of what makes crypto crypto, like if you go down 60% of the rabbit hole, but then you're kind of blind to the social layer and the money ness about crypto, you can fit Solana into your investment thesis there. And I think being blind to the social layer and to the money layer, like those, the social layer and the money layer about crypto are like really adjacent to each other. Like social consensus, money is social consensus, blah, blah, blah, blah."
+    },
+    {
+        "speaker": "A",
+        "text": "I completely agree. Yeah, they're adjacent."
+    },
+    {
+        "speaker": "B",
+        "text": "And I think that's a blind spot that the Solana community has. One of the things that I learned from that Austin episode is thinking about how the Solana people think about ethereum, which is divergent from the way that Ethereum people think about ethereum."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, interesting."
+    },
+    {
+        "speaker": "B",
+        "text": "And so Solana's perspective about its own network is one homogeneous shared state. So one protocol knows everything about itself at all times, one single state. That's the benefit of Solana."
+    },
+    {
+        "speaker": "A",
+        "text": "That's incredibly attractive, by the way, if you can keep it decentralized, is what I've always thought."
+    },
+    {
+        "speaker": "B",
+        "text": "Sure. And then when they take that perspective and they apply that lens to the Ethereum, and the Ethereum roll up centric roadmap. Austin said this in the episode, like, okay, so Ethereum, no Ethereum nodes. Not that crazy. But then you have to start running an optimism node and an arbitrum node and a polygon node and a Zk sync. Well, because layer twos are Ethereum, so they, they apply their universal state of Solana."
+    },
+    {
+        "speaker": "A",
+        "text": "We have cryptography that's solved for that. We don't have to run all of these."
+    },
+    {
+        "speaker": "B",
+        "text": "They consider layer twos to be an enshrined."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, they don't know that. They don't know about fraud proofs or ZK proofs."
+    },
+    {
+        "speaker": "B",
+        "text": "They know about them. Well, they. Well, first they'll say that optimism doesn't have fraud proofs, which they're technically correct."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I mean, right, arbitrage, same thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Like bitcoiners. When bitcoiners critique Ethereum, they just could critique it in its current state of place in the world. And doesn't adaptations of Ethereum, which is, which is dumb because markets price in the future. But like they say, if you are going to run Ethereum, you need to also run every single node for every single layer too, as well. You don't. Right. And so this is a difference between Ethereum's roll up centric roadmap and Solana's homogenous layer. One is that, like Ethereum is a network of asynchronous networks, and it scales via asynchronicity, whereas Solana is one single synchronous network. And they think that they can get a synchronous network to the scale of the Internet, which I think is such a fundamental obvious miss, that it blows my mind that a synchronous state of Solana can scale to the size of an asynchronous system, which is the Internet, by the way. The Internet is asynchronous. It has different protocols that move at different speeds. And they think Solana, as a synchronous state, can scale and permeate as far into the Internet as possible. Meanwhile, you have Ethereum, with its any number of layer twos that can exist in any particular way, shape and form, that is asynchronous. So a layer two can do whatever it wants and find a different corner of the Internet that other layer twos cannot. And the reason why it has that flexibility and adaptability is because if you choose to be on that layer two or not, or you choose to validate that layer two or not is your choice, but that layer two will still do what it wants. And so I don't think they appreciate the asynchronicity between layer twos and the layer ones."
+    },
+    {
+        "speaker": "A",
+        "text": "And what that does, Solana, is not going down a roll up path at all. Not even a member, really."
+    },
+    {
+        "speaker": "B",
+        "text": "They can't say the words roll up on Solana because it's all about one single state."
+    },
+    {
+        "speaker": "A",
+        "text": "You got to double down on the monolithic thing. It's almost been two years since David, since we came out the episode Ultra scalable, Ethereum, modular versus monolithic blockchains. And I don't think my thesis has changed since that episode."
+    },
+    {
+        "speaker": "B",
+        "text": "No."
+    },
+    {
+        "speaker": "A",
+        "text": "And it's just kind of playing out."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "You know, unless we're completely wrong."
+    },
+    {
+        "speaker": "B",
+        "text": "Perfect ethereum fashion, which is slowly, very slowly."
+    },
+    {
+        "speaker": "A",
+        "text": "And by the way, I think Solana will have an incredible psyche. Actually. This cycle is my prediction."
+    },
+    {
+        "speaker": "B",
+        "text": "In the same way that, like, sailors tripling down on bitcoin, like salon's, it's going to do like a minimum ten."
+    },
+    {
+        "speaker": "A",
+        "text": "Across and there's going to be a massive. Like. That community has not left, which is pretty impressive."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. Of all the alternative layer ones that have come and gone, Solana actually does register on my radar."
+    },
+    {
+        "speaker": "A",
+        "text": "It's also not as demagoguery as some of the others. Right? There's. Of course, there's Anatoly and that, but it's not like that, really."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't know about that. Come on, getting that more."
+    },
+    {
+        "speaker": "A",
+        "text": "Compare to. Compare it to Cardano, compare it to Charles."
+    },
+    {
+        "speaker": "B",
+        "text": "I would like to compare it to Terra Luna. And you see very similar flavors in the way that that community engages and argues and debates. They are a mean bunch and they don't care about intellectual honesty, in my opinion. They will go for the dunk. They love to ratio, they love to. What's the word? Brigade? Brigand. Brigandhenne. They love to all show up. And like their fellow Solanians comments on Twitter, they like to show up in force. And that is exactly the way that Terra Luna was in that very short, acute time. But now it's just like you've been doing."
+    },
+    {
+        "speaker": "A",
+        "text": "Solana. Hot take."
+    },
+    {
+        "speaker": "B",
+        "text": "Solana. Solana. Half of this Solana community exists to be not Ethereum like. And that is just not a way to define a community. They just exist to be in contrast to Ethereum."
+    },
+    {
+        "speaker": "A",
+        "text": "Do you think there was an element of. That's what bitcoin. That's what Ethereum was to bitcoin?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, not for me personally. My big aha moment for Ethereum was apps. It was a blockchain with apps."
+    },
+    {
+        "speaker": "A",
+        "text": "I agree. Well, but maybe we're just not getting it. I think that would be a first."
+    },
+    {
+        "speaker": "B",
+        "text": "Brother David."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, my God. Victory lap in the. In the ro. Well, so in the debrief, you guys got two debriefs? Actually, yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "This is the longest debrief we've ever."
+    },
+    {
+        "speaker": "A",
+        "text": "Done on of the Austin episode bankless listeners. We hope you enjoy. Thanks for being a citizen. Thanks for subscribing. See you later."
+    }
+]

@@ -1,0 +1,662 @@
+[
+    {
+        "speaker": "A",
+        "text": "Why are l two tokens bullish? That is the topic today on bankless stakes. Bankless stakes is an episode where David and I just speak our mind on whatever we want to talk about. And today we decided to talk about."
+    },
+    {
+        "speaker": "B",
+        "text": "You want to talk about layer two tokens?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Are they bullish? Are they bearish? I mean, that was kind of a question. A few things we're going to take on the question of are l two tokens worthless governance tokens? That is narrative going around. Will they accrue any value or are they actually bullish?"
+    },
+    {
+        "speaker": "B",
+        "text": "Ryan, before we get into the conversation, why, why are we having this conversation? Where, where did this come from?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, you were out mountain climbing, David. There was some robust discussion in the bankless citizen discord, as there always is, by the way."
+    },
+    {
+        "speaker": "B",
+        "text": "So if you are a bank account, it's been crescendoing."
+    },
+    {
+        "speaker": "A",
+        "text": "You should join in a big way. Great discussions. Anyway, the question was posed exactly as I stated, like, are l two tokens going to go up? Are they bearish? Are they bullish? Are they just worthless governance tokens? How should we think about them? How do you guys think about them? And so this is essentially my answer to this, and I want to see how much you agree with that answer, and we may as well record it as an episode. Sound good?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think we should do it and we'll get right into that conversation. But before we do, a moment to talk about some of these fantastic sponsors that make this show possible, especially."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, David, so the first place, and if we're going to talk about l two tokens, we have to see if there's zombie chains or not. Like, is anyone actually using these things? And it's been a few days since I've looked at some of these metrics, but in depth, probably like a few weeks. And it's maybe, maybe worth a review to look at some of the core metrics. So I've got a website pulled up."
+    },
+    {
+        "speaker": "B",
+        "text": "Let's set the table."
+    },
+    {
+        "speaker": "A",
+        "text": "It's called growthepie XYz. And fun fact, David, you can get a lot of l two metrics. Layer two metrics on the Internet these days. All right, there's a series."
+    },
+    {
+        "speaker": "B",
+        "text": "What a great place."
+    },
+    {
+        "speaker": "A",
+        "text": "I know it's a series of fantastic sites that put this out. The first is grow the pie. And let's take a look at daily active addresses. You can think of a daily active address almost like a bank account. It's true that a user can have multiple addresses. That is also true. So it's like a one to many."
+    },
+    {
+        "speaker": "B",
+        "text": "Probably have like, I don't know, thousands probably."
+    },
+    {
+        "speaker": "A",
+        "text": "But this gives you a sense of the number of addresses on the chain. ZK sync era is right now leading in daily active addresses. So these are kind of bank accounts, as it were, using the chain. 428,000 daily arbitrum right behind that, 185,000 linea right behind that 88k op mainnet 66, base 63, scroll 44k on down. Zora polygon are also in there. Immutable x, et cetera polygon. PoS is not in there because not technically a layer two side chain. Yeah, it's a sidechain, but that is in the process of being converted to a layer two. I expect we see that sometime in 2024. Anyway, that gives you a sense of some of the activity. And it's. It's kind of up only, David, if you look at sort of the maximum. Look at this. I mean, it's growing now, I should probably say not all of this activity corresponds to one, like, user. I think some of these chains are like airdrop hunting, airdrop farming, as it were."
+    },
+    {
+        "speaker": "B",
+        "text": "The chains that have not issued tokens have a probably a significant premium of activity from people who are just using the chain to hunt the token. And you can probably see that both in the daily active addresses and also the transaction counts for some of these chains."
+    },
+    {
+        "speaker": "A",
+        "text": "And which ones would those be like? Zk."
+    },
+    {
+        "speaker": "B",
+        "text": "Zksync era is the big one. Linnea also very big. Base is probably not being airdrop hunted, because I don't think people are really thinking about a base token. And so there's opportunity costs to hunt the base token when you could be hunting, like, zksync has been talking about their token for, like, 2019 or something. Like, they haven't been shy about that. And so probably base is more or less above 95% organic."
+    },
+    {
+        "speaker": "A",
+        "text": "So good numbers on that and certainly up only on the transaction count. We're seeing kind of up only numbers as well. So you'll notice some massive spikes here, too. Like, see this arbitrary."
+    },
+    {
+        "speaker": "B",
+        "text": "Those are gonna be in inscriptions. Inscriptions."
+    },
+    {
+        "speaker": "A",
+        "text": "Right, inscriptions."
+    },
+    {
+        "speaker": "B",
+        "text": "That was the spike that took down the arbitrum chain."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. This was."
+    },
+    {
+        "speaker": "B",
+        "text": "But also was the number one largest daily transaction volume of any layer two."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So really stress tested."
+    },
+    {
+        "speaker": "B",
+        "text": "Arbitrary, actually stress tested."
+    },
+    {
+        "speaker": "A",
+        "text": "So this is definitely a metric for usage, but it can be gamed in, like, all various ways that we've sort of seen."
+    },
+    {
+        "speaker": "B",
+        "text": "One transaction does not equal one transaction. Not all transactions are the same, but."
+    },
+    {
+        "speaker": "A",
+        "text": "Still, I mean, you want to see an up trend line over time, and you'll see spikes for volatility. It's also a good stress test of how many transactions these networks can actually a handle before falling over. So CK sync era right now is the current lead with 1.3 million transactions on a daily basis. Arbitrum is second with 720,000 right now."
+    },
+    {
+        "speaker": "B",
+        "text": "Did you hear the report as to why arbitrum toppled over when the inscription attack got it?"
+    },
+    {
+        "speaker": "A",
+        "text": "A little bit, yeah, I don't recall the details."
+    },
+    {
+        "speaker": "B",
+        "text": "I think it was something super trivial. It was like an out of date prism client. And once they updated it, it was like, oh, it's done, we fixed it."
+    },
+    {
+        "speaker": "A",
+        "text": "That's the problem when you just have one sequencer as well, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Which multiple sequencers can start to fix liveness failures."
+    },
+    {
+        "speaker": "A",
+        "text": "Op mainnet is next. 369,000 and then base and immutable x is on there. Linnea is on there as well."
+    },
+    {
+        "speaker": "B",
+        "text": "Congratulations to arbitram for passing 500 million transactions. I don't know if that makes them number one in total raw transaction count. It could be. They could be number one in that for layer two. That's pretty cool. For layer twos. Yeah, that's pretty cool. And arbitrarium probably has the highest ratio of total transactions to total organic transactions because they've had a decent amount of activity post token launch."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, they've been around for a while too. Stablecoin metrics as well. So arbitram has about $2 billion worth of stable coins on chain. OP has 610 million and then base. All right, this is one to watch for stable coins. You know that Coinbase is going to send some love bases."
+    },
+    {
+        "speaker": "B",
+        "text": "They're going to put the USDC on the base chain. That's where it's going to go. And then circle which Coinbase owns 25% of is going to go public. And then base is going to be the visa competitor. That's my prediction."
+    },
+    {
+        "speaker": "A",
+        "text": "That feels like a good solid prediction. So this is at 300 million right now, but I expect that to like ten x blossom. Yeah, 50 x. I don't know, something like that. It's going to be pretty large then a total value locked. This is a pretty astounding statistic. So, yeah, so if we look at the total arbitrum chart, 22 billion across all layer twos. All right, but. So arbitrum has about half that at 10 billion. OP has about 6 billion and then base 750 million. So pretty respectable. ZK sync eradic."
+    },
+    {
+        "speaker": "B",
+        "text": "I really like having base metrics here because they feel so pure optimism. And arbitrum probably pretty damn pure. Too arbitrary, I think recently has some liquidity incentives going on that are kind of juicing some numbers, but the base is, they're not going to juice liquidity, they're not launching a token. So the base just feels like it gives us a control to compare against, I think really useful metric to have."
+    },
+    {
+        "speaker": "A",
+        "text": "I agree. And by the way, we're talking about the big ones, but there's this massive long tail of layer twos that aren't even listed on this website that are kind of trying to compete. We haven't even talked about mantle. That's been a massive grower lately. Then there's another metric which I think is useful, which is on chain profit."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so this is kind of the punchline that we're getting to, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "I think. So this is going to be part of how we talk about l two tokens and why they're valuable. But this says arbitrum. Yesterday was about 60k in on chain profit. And you could see like, look at these massive spikes. So there was a day where a base was making, let's see, three hundred eighty k per day. That was July 30. So this must have been friendec."
+    },
+    {
+        "speaker": "B",
+        "text": "That must have been like launch. Yeah, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Launch around that, like series. So it's spiky. This is these averages."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "These daily averages are not necessarily kind of like the annual averages, which would be."
+    },
+    {
+        "speaker": "B",
+        "text": "This is a seven day rolling average. It says."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, seven day rolling average."
+    },
+    {
+        "speaker": "B",
+        "text": "So still spiky, by the way. Seven days."
+    },
+    {
+        "speaker": "A",
+        "text": "We should explain what profit is. Okay, so what profit basically is. Why don't you explain it, David?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, the grow the pie website has it actually pretty laid out strong, pretty strongly here because they have this economics section of the tabs that we're looking into. And page number one in this section is fees paid by users, aka layer two, gas fees. The next page is rent paid to the layer one, aka the gas fees paid by the layer two to the layer one. And then the third page is on chain profit. And if you take the first fees paid to users to the layer two, subtract the second, which is fees paid by the layer two to the layer one, you get the third on chain profit, the difference. And so I'm pretty sure if we just go through these pages, you'll be able to calculate the numbers. Yesterday, Arbitrum pocketed a difference of 61 and a half, $1,000, between the difference of what users pay to arbitrum versus what arbitrum paid to the layer one. Let's go check how much arbitrum was collected revenue from users yesterday. So Arbitrum, if you could click on that tab, Arbitrum collected $188,000 yesterday from users who paid for arbitrum block space. And then yesterday, Arbitrum paid Ethereum how much? Let's go to that tab. Arbitrary paid Ethereum $126,000. And so if you subtract those, that number from the first, you get the profit, which is $61,000. And this is the profit in a pre proto dank sharding, pre full dank sharding state, where a lot, 95% of the costs for these layer twos are data availability. And that goes down with proto dank sharding, which is coming in March. And then we'll almost approach a very low number, I don't want to say zero, but a very low number with full dank sharding, which is coming 2025 ish, maybe no one knows."
+    },
+    {
+        "speaker": "A",
+        "text": "And they'll pass these savings onto the user. Right. What I love about this is it's such a simple model. It's a value added reseller type of model. So you have a supply of block space that Ethereum sells wholesale. It's like, hey, who wants my block space? I'll sell it to you. And a bunch of layer twos are bidding on that block space. What do they do? They buy that block space from Ethereum and then they resell it. What do they resell it to? Users, dapps, they resell it. They add their bit of value on top of it, which is execution layer value. And then on that delta, they make a profit. So they have revenue. They have expenses and they have profit. It's a p and l business. This is something Larry Fink could understand. Okay? This is three lines. It's like, it's not hard. The interesting thing about this is they're all profitable. Now. We'll talk about where that revenue is by default."
+    },
+    {
+        "speaker": "B",
+        "text": "They're profitable by default."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Now, of course, we're not taking into account, like, how much it costs to run the sequencers. We're not taking into account how much it costs to, like, develop the software, do the marketing for these chains. All of that is additional cost that is outside of this type of a p and L. Right. But you can clearly see profits are being made. And like, if you turned off everything else, you would have a profitable business right here as long as you kept the sequencer running. All right, so one last thing to show you, and then we'll get to the question of, are layer two tokens great, or do they suck? And what do we think about this? This is total value locked across all chains. So this is kind of one metric that's kind of important, because what I think you want to do is you want to start benchmarking layer twos and how much value that they are accruing right now and managing right now versus maybe alternative layer ones or Ethereum itself. So right now, Ethereum is over 50%. Let's see, it is about 55% in total value locked. Right, next, ethereum layer. What next? Is Tron. All right, and this is because I."
+    },
+    {
+        "speaker": "B",
+        "text": "Would never not laugh at that, David."
+    },
+    {
+        "speaker": "A",
+        "text": "There's $50 billion worth of stable USDT, primarily on tron stables, $69 billion."
+    },
+    {
+        "speaker": "B",
+        "text": "Nice. In stables on Ethereum, and there's $50 billion on TrOn. And Tron doesn't even have defi. It just has payments."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. So that's an interesting sort of, I guess, like edge case, but is real utility for some people. Binance smart chain. Let's see. Binance smart chain is next with about 6% and then arbitrum, 4%, 4.6% solana, about two and a half percent. Optimism, 1.5% polygon, 1.5% avalanche, 1.5% on down. Okay, so arbitrum is about double the size of Solana, and in the same ballpark as optimism right now. And avalanche is roughly the size of polygon from total assets under management. So all told, alternative layer ones, if you just include Tron and Binance smart chain, it's primarily going to come from Solana and Avalanche right now. And it's about 4% of total value locked in the market right now. So that's the kind of benchmark, the size that we're looking at. And certainly the layer two ecosystem is probably, what, like, this looks like about seven or 8% of total value locked. So it's about double the size of alternative layer twos right now. That makes sense."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And the way I would perceive TVL on chain on chains is a little bit like potential energy. Just having TVL on chain doesn't actually natively produce any economic activity. Like, you can just hold, you know, all your stables on arbitrum and not do anything with it, and you actually won't make arbitrum any money because you won't be spending any gas fees. But having TVL opens up doors for reasons to have economic activity. So it's not a perfect one to one. It's a correlation, not a causation. But just if you have a bunch of TVL, you have a bunch of opportunities for economic activity. And so that's, there's like a loose coupling."
+    },
+    {
+        "speaker": "A",
+        "text": "I would say, yeah, for sure. It's a game build metric. It's a metric you can't fully rely on when the native token goes up. Like it's going to spike in terms of TVL. Right? We've saw that with Solana."
+    },
+    {
+        "speaker": "B",
+        "text": "Are we counting native tokens in TVL here? I don't think we are."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh heck yeah we are. Yep."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, okay."
+    },
+    {
+        "speaker": "A",
+        "text": "It's all like total value locked on these chains."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "Like sole token goes up, you're going to get a massive increase in tbl token."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, that makes sense. That makes sense for the native asset of a layer one on a layer one. But like if op goes up and there's op on optimism, I guess. Yeah, TVL and optimism goes up. Okay, sure."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, so that's the baseline setting of state of the l two s from a metrics perspective. So the big question that we're trying to answer here is are l two tokens going to go up in price or are they just worthless governance tokens? This was the question posed in the bankless discord that I mentioned earlier. I want to give you some takes here, David, and see how much you kind of agree. And maybe we'll take this in pieces here, but just to set the stage. I do have a bias, I would say. Okay. And like everyone, hopefully if you're an investor in the space, you're not just being whipped around by the winds of like whatever the most popular narrative is. Hopefully you have bias, aka a thesis. Like you have some sort of conviction."
+    },
+    {
+        "speaker": "B",
+        "text": "Concept for understanding the world."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And so my biases, let's call them, are one long term time horizons. Right? So I'm not a narrative trader, I'm talking when I'm in the context of this two to seven year intervals. Okay? This is different. If you're doing narratives, you're doing like three to twelve month time horizons. So for the listeners, this may not be your time horizon. You want to do narrative, there's a different play. What I'm saying probably is just like not relevant to you because, you know, it's a different time horizon. The second thing I would say is I weigh something called fundamentals highly in my investment and I don't want to like sound. Um hmm, how do I put this?"
+    },
+    {
+        "speaker": "B",
+        "text": "I have a high and mighty."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, high and mighty."
+    },
+    {
+        "speaker": "B",
+        "text": "Holier than that."
+    },
+    {
+        "speaker": "A",
+        "text": "Fundamentals. What do you think?"
+    },
+    {
+        "speaker": "B",
+        "text": "Fundamentals?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Okay. Because there's holes with the idea of fundamentals, right? So I have a."
+    },
+    {
+        "speaker": "B",
+        "text": "Your fundamentals are not everyone else's fundamentals."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. And fundamentals are just like a consensus technology at the end of the day, and. Right. So what I'm trying to do is get everyone else to agree to my fundamentals."
+    },
+    {
+        "speaker": "B",
+        "text": "My fundamentals are better than your fundamentals."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly. But mine are better, David."
+    },
+    {
+        "speaker": "B",
+        "text": "No, that's why we talked about them."
+    },
+    {
+        "speaker": "A",
+        "text": "My specific definition of fundamentals is for chains that sell blocks, right? This would be an alternative layer one or layer two. Long term profitability. That's the fundamental. I look, which we just talked about what that means. It's the revenue that the chain brings in by selling blocks, less its costs, which are the amount that it pays for gas to the parent chain or the amount that it issues. Like, remember alternative layer ones? They have to pay for their security. They don't pay ethereum for their security, so what do they do? They issue block rewards. They issue new supply of their token to pay for that security. Okay? That, to me, is the most ungainable metric. Profitability is the most ungainable metric for proof of value creation for a chain. All right? Now, this may not."
+    },
+    {
+        "speaker": "B",
+        "text": "Money flows from elsewhere into your vault, and you can measure that. That is fundamentals."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, this is kind of how equities, like, are valued, right? It's like, you know, of course, this perceived growth ratios counted cash flows over time, right? That is at least some utility value consensus that the market kind of believes, right? So. But this may not be the way the market decides to value blockchains anytime in the near future or even in the fullness of time. I don't know, maybe there's some other fundamental that becomes more important, right? Maybe active addresses become kind of the metric or something else becomes more important. So I'm looking at this from a p and l perspective. So, caveats aside, my take on l two s is that they are positioned incredibly well for their tokens to accrue value. All right, so are l two tokens bullish? Are they going to go up in price? My take is when I look at this. Yes. All right, and here's why. Three reasons for this one, and this is probably the most important, David, they have a 100 x more advantage in the block space profit game because they don't have to pay for their security through issuance of the base token. All right?"
+    },
+    {
+        "speaker": "B",
+        "text": "It is a cheat code for they're."
+    },
+    {
+        "speaker": "A",
+        "text": "Just value added resellers, right? Instead of like, ethereum's doing the hard work instead of bootstrapping their own military and court service and police force and all of these things, Ryan, means security."
+    },
+    {
+        "speaker": "B",
+        "text": "And smart contracts and ecosystem."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. They just take all of that and then they resell it. And they can resell both layer one block space and data availability block space. So they could go take Celestia and resell it. They could go take Ethereum, Lyra just."
+    },
+    {
+        "speaker": "B",
+        "text": "Started doing, yeah, they could go take."
+    },
+    {
+        "speaker": "A",
+        "text": "Eigen Da and resell it. And that's what they're doing. And so they're always going to be more profitable than somebody who is issuing their native token. Just look at the PNLs, just look at Costco. So they have an advantage there that I think is hard to compete with. Now this is a caveat, and this is where the kind of the second comes in, right. It is dependent on their ability to attract users and capital to their execution environments. So if they get outplayed by an alternative layer one or some layer one that is better able to capture users."
+    },
+    {
+        "speaker": "B",
+        "text": "And capital, okay, share adoption, trust brands, it won't matter."
+    },
+    {
+        "speaker": "A",
+        "text": "An l two zombie chain is just still a zombie chain and it's not producing revenue or profits. And if an alternative layer one is able to capture that value, then they now I would just say, what have we just seen? I mean, we looked at the numbers, we've seen traction for arbitrum, for op, for polygon, for base, for Zk sync, and they have shown that their rates of accruing users and traction are even exceeding their l one competitors. So I don't think you can say alternative layer ones are just going to attract users and capital at a far faster rate. I think that's already been disproven at this point in the market."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, nah, you're saying it's being disproven as in it's the only strategy that can do that. Exactly. It's still happening."
+    },
+    {
+        "speaker": "A",
+        "text": "It's still in the mix for sure."
+    },
+    {
+        "speaker": "B",
+        "text": "And there's people who are valuing layer ones who are negative in economics, as in they're issuing more tokens than they are accruing in fees. The market is assigning a growth premium, a P e ratio for layer ones who are operating at a loss in order to incentivize growth, which is a tried and true strategy that we've seen for decades. People generally, I would say, ascribe high pe ratios to layer ones."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. And so I'm just making the case that l two s are not positioned to be valueless governance tokens. Not necessarily that they will exceed alternative layer ones, but you can see that they're doing a lot in terms of traction. The last piece on this kind of worthless governance stakes is I am not bearish on governance tokens. Okay, so if you think about equities, David, what are equities governance tokens with."
+    },
+    {
+        "speaker": "B",
+        "text": "Cash flows certificates with regards to the paper."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. But they have some sort of legal guarantee to cash flows so long as the governance token has a code based guarantee eventually to cash flows. To me that is a value accruing device. We'll contrast this with something like the unitoken right now does not have a fee switch. There are transaction fees and value accrual mechanisms that can happen outside of the protocol. It is closer to a worthless governance token, although I do think the fee switch will be turned on. I think for layer twos it's going to be much closer to layer ones in that you have a sequencer which accrues all of the profit, basically. And that profit is just going to be passed on in the form of staking, let's say, or in the form of a work utility token. This is what matic is moving towards for pol, and I think we see other chains moving to this type of model to essentially enable the token holder to participate in that on chain cash flow. So it's a governance token with cash flows. I think that's what we're seeing emerging here. And that's why I would say it's different. That's why I would say l two tokens are actually bullish. As long as they continue to have these positive revenues, new user base usage, and that number goes up, then I see the token accruing value. What's your take on that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, you said l two tokens are governance tokens with cash flows. I would just amend that just in a slight way, just to l two tokens are governance tokens over cash flows. That's the thing that they govern over. The base case is what I would say arbitrum currently is, which is you can go look at the smart contracts of arbitrum and you can see ether flowing into the arbitrum sequencer vault, which is governed by the arbitrum dao. And so if you are an arb token holder, you have some amount of say over where that money goes. And I think it's really the next phase of the value capture conversation is like, well, it's up to governance to apply that capital in value added ways in the most, in the highest ROI possible. And so sitting in the treasury is one thing, but lets take Amazon for example. What did Amazon do with its money? It just sent it right back into the company. It incentivized growth, which was a good strategy. Is that arbitrum strategy? I dont know. Arbitrum governance will have to determine what is the best way to incentivize growth using the capital that its receiving. But the thing is, arbitrum is cash flow positive now. Its up to Arbitrum treasury management and just Dow governance, which is what crypto is, to apply that capital in a way that grows is accretive to arbitrum even more. And we're so early into crypto. What is it? It's 2024. Arbitrum is how many years old? Five, actually. Wow. Five years. In the grand scheme of things. We're at the very beginning of these things. And so we still have, I don't know, 98% of the world left to capture. 99% of the world left to capture and get on chain. And so these treasuries, these positive treasuries that are being accrued by layer two s need to go to capture the remaining 99% of people that are not on chain yet."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, when it's in treasury, you can distribute it via almost like a dividend to those who are staking those token holders. This is kind of, I think the convergence of this is we will have a kind of a network type equity, or an Internet type equity that returns funds to the holders of these tokens in the same way that equities in traditional capital markets are a right for governance over cash flows. That's similar to me. The last thing is, listeners might say, but none of that matters right now. P and ls don't matter. No one's actually looking at it like this. Here's a reason I think people might start to look at it like this. Block space fees, David, they're going to commoditize and collapse to zero. That is my belief."
+    },
+    {
+        "speaker": "B",
+        "text": "Layer two fees are going to zero."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes, for all chains except master settlement chains like Ethereum. Okay? Because Ethereum is doing a different service. It is providing settlement. It's taking its block space and it's selling it to a whole bunch of chains. But the chains themselves, right, the roll ups, the layer twos themselves, their fees will collapse to zero. You just see it right now. Look at the DA layers we're just talking about live right at the very."
+    },
+    {
+        "speaker": "B",
+        "text": "Beginning of the da wars."
+    },
+    {
+        "speaker": "A",
+        "text": "It's getting, it was like, what, 99%."
+    },
+    {
+        "speaker": "B",
+        "text": "Cheaper or 99% cheaper?"
+    },
+    {
+        "speaker": "A",
+        "text": "And then Eigen layer DA comes in, that's going to make it another like, you know, 90% cheaper. Again, we've got paralyzed vms, which are going to increase our transaction throughput. We've got massive advances in compression. Vitalik has talked about this. We've got ZK tech. The bottom line is, I think block space execution layer block space is going to turn into a complete commodity product. And so if you're an l one and you're trying to generate profitable block space in this environment, or you're trying to differentiate yourself on low fees, I don't think that's going to be a differentiator for you anymore. Right. And so it is true that block ordering Mev can be a source of revenue, and I think that that could be a source of revenue in the future for alternative layer ones, but it is also a source of revenue for layer twos. And if you have too much mev extraction and block ordering, users are going to leave your chain. They don't want the slippage cost, they don't want the sandwich attacks. They're going to go to somewhere where they don't have those types of hidden, let's call them transaction fees. So that is like the last point, I would say, on how this, I see this game evolving from a blockchain commodity perspective."
+    },
+    {
+        "speaker": "B",
+        "text": "I think everything we've talked about, Ryan, is the bottom of the pyramid, if you will, the fundamental foundation that all future value capture of layer two stands upon. The reason why these layer twos work at all over the longest amount of terms is what we've talked about so far in this episode. I call that the bottom of the pyramid, because then there's another layer of why will tokens go up? Which is a more of a medium short term narrative or like the narrative trade. The narrative, right? The reasons why people are going to buy these tokens now in the cycle, the short term amnesia that crypto has when it's a bull market. And so I think there's plenty of reasons which are valid reasons, by the way, like brand is one of these reasons. And so I want to talk about that middle section, the narrative trade. I'm not a trader. You're not a trader? I don't look at charts, so that's not what we're going to talk about. But I want to talk about like, kind of the next shorter term phase of like, what happens when you have fundamentals. So we're going to talk about that as soon as we talk to some of these fantastic sponsors. Ryan, we talked about in the first half of the episode for a little bit, PE ratios, growth metrics, go. Growth multipliers. That I think the market perceives upon many chains, layer ones."
+    },
+    {
+        "speaker": "A",
+        "text": "Interesting, right? You call that a growth metric? That is basically the amount that investor is paying for, like, future growth. That's kind of like a metric because it's price that you're paying over earnings, which is profit in the future. And that can be applied to layer twos, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "So it is a perceived metric as to, like, what is the premium that the market is paying for a particular asset. And if it's a high premium, it's implied that there's a lot of growth baked into these things. And so for layer ones that are negative economics, as in they're issuing more than they're capturing in fees, technically, they have, like, infinite pe ratios. As soon as it turns positive, then PE actually turns into a number. But the idea is like, there's a premium here, and different, I think all different assets that have cash flows will all have this P E ratio. What factors impact a layer two tokens or layer one token P E ratio? I think one of the big ones is brand. And I think the very high P E ratio that Solana has currently comes from the brand of Solana, which is growing in strength, growing in mind share. The universal composability idea is in being incepted into people's heads. And so people are paying a very high premium for Solana because they think that Solana has a lot of growth potential. So it has a very high pe ratio. Optimism, for example, I think has the brand of a, the op stack, which has been forked like 100 times now. And we'll talk about, actually the op collective fee that the op collective charges, op stack chains that are a part of the super chain. But really, I would say the forking of the op stack and the adoption of the op stack by companies as large as Coinbase, which is a huge vote of confidence, is a huge plus one to the brand of optimism, to the trust of optimism. And humans place a lot of value on trust. And so there's this, there's a narrative that like, oh, well, if Coinbase has selected the op stack to spawn the base chain, a fortune 500 company that's public, then they are leading the way for other large companies to also use the op stack. And that is a narrative that could, over time, morph into fundamentals if it comes true. But these are the mind share metrics, brand and awareness conversations that I think people will be paying attention to as the bull market continues. And the price of attention, the value of attention, is at 100 x premium in a bull market. I think these are some of the things to pay attention to in the short term, speculative nature of the bull market. What say you about this?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think there's tons of narratives to kind of latch onto if you want to do sort of that shorter time horizon type of trade. Right. Including what happens if Blackrock launches a sidechain. That side chain starts as a side chain on the path to."
+    },
+    {
+        "speaker": "B",
+        "text": "They would never join the collective, though, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Maybe they would. Who knows what could happen? I've been constantly surprised, but I mean, that type of thing can happen. I also think layer twos are, in general, kind of having a renaissance from a narrative perspective, because people have watched an alternative layer one run up, and they're like, well, layer twos are looking pretty good now from a valuation perspective. I mean, just look at this, David. This is, let's go to Coingecko, actually, and let's see what the valuations are. I'm going to turn. This is fully diluted valuation. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "So can you go to arbitrum?"
+    },
+    {
+        "speaker": "A",
+        "text": "So arbitrum is here. 21 billion for arbitrum."
+    },
+    {
+        "speaker": "B",
+        "text": "And arbitrum recently reached all time highs. This is not my analysis, but it makes sense to me, is like, traders have started to purchase arbitrum on the hype of proto dank sharding EIP 4844 that is coming in March."
+    },
+    {
+        "speaker": "A",
+        "text": "I think that's a possible narrative for sure."
+    },
+    {
+        "speaker": "B",
+        "text": "And I think this is totally plausible narrative. Anytime I find myself, like, aligned with traders, I'm like, huh, weird. But, like, this is one of the things that happens. Like, they are. Traders have decided that there is a shelling point around the growth of a narrative about the growth of a fundamentals. And so sometimes, like, the pyramid of the traders on top, the narrative layer in the middle, and the foundation fundamentals at the bottom, like a line in stars. And I always think that's like, a funny time in crypto when, like, everyone's, like, lined up."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, that's nice. Yeah, it's nice. When your fundamentals, it's very fleeting."
+    },
+    {
+        "speaker": "B",
+        "text": "That's already in the rear view mirror."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it lasts a few weeks, and then you get sad again. At least that's my experience. But, um. Okay, so arbitrum is the number one highest value, layer two right now at 21 billion. Next to that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Next to that would be optimism. 15 billion. They have a ton of tokens that are locked up. Right. And so that's why market cap is so different than fully diluted valuation, because fully diluted is like the full market cap that, um."
+    },
+    {
+        "speaker": "B",
+        "text": "All tokens that exist. Yeah, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "And so, and, like, those are the top two. And notice that they are. Well, where's matic? On this list, they should definitely make a presence. Here it is. Matic is."
+    },
+    {
+        "speaker": "B",
+        "text": "Matic hasn't pumped yet. Matic's been lagging behind."
+    },
+    {
+        "speaker": "A",
+        "text": "So that's less than half arbitrum. And also look at Solana, 55 billion. So it takes two arbitrums to make premium a Solana. Right. Which is interesting just how the market is valuing all of this at this point in time. And so to, I guess, zoom out to say, I do think that there are some narratives that might shift this a little bit. And there could be an l two season renaissance. And I'm not sure exactly what those narratives might lead to that that's someone else's specialty. But proto bank sharding could, like, base using a layer two more traction in general for these layer twos, or just price pumps, can just cause narratives to be told for why the price is pumping, right? And prices don't need a reason to pump. Sometimes they just do. It's just time for that specific asset or token. One thing though, I want to say, David, is and I want to actually now give the case to you for why I think alternative layer ones could be more bullish than at first appears under this thesis. Right? So, okay, so this is still within the bounds of the framework, and I want to give you a bull case for alternative layer ones. Okay, so, so far we've said from a fundamentals perspective, profitability of block space is the thing that matters, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "In our armchairs."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so, um, layer ones, alternative layer ones like Solana and avalanche, remember, they always have the ability to become layer twos if they want. Okay, so look, I don't know all of the technical engineering behind this, but we know we've already seen wastello network, which was an alternative layer one, now starting to use Ethereum for settlement, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "It's not a large technical lift to be switched from being a layer one to a layer two. All you do is post data elsewhere."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. Here's what that means. It means every alternative layer one already has an option. The fact that ethereum exists, they have an option to become a layer two at any point in time if they choose to exercise that option. And they will choose to exercise that option game, theoretically, if it will increase the value of their token and their ecosystem. But they can."
+    },
+    {
+        "speaker": "B",
+        "text": "They are done being Amazon and want to start being apple. You mean like once they are done growing and they are trying to then turn into profit?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. So Amazon, the story of famously Bezos was like, hey, I'm not going to return any profit. We're going to lose money every year. We're going to make fantastic revenue, but we're going to lose money. And all the shareholders. Who said, but profitability, Bezos, it's not even profitability."
+    },
+    {
+        "speaker": "B",
+        "text": "What are you doing? You're driving this chain into the ground. Or they left."
+    },
+    {
+        "speaker": "A",
+        "text": "They left. All of those kind of whiners left. And what he had, and the Bezos."
+    },
+    {
+        "speaker": "B",
+        "text": "Was probably like, sick, get out of here."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Because what he had was a whole bunch of people who were along the ride for unprofitable block space. Okay? And so, like, here's a way Solana could win, for instance, right? If something like Solana, if their, their model is just grow and grow and."
+    },
+    {
+        "speaker": "B",
+        "text": "Grow, capture mindshare, capture users, just like."
+    },
+    {
+        "speaker": "A",
+        "text": "We'Re just going to acquire users. I don't care about profitability."
+    },
+    {
+        "speaker": "B",
+        "text": "We're going to penetrate the market."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, just acquire users, acquire apps, get network effects, dilute sole holders along the way so holders won't care because numbers going up in the interim, it's a bull market. Everything's going up. And then when it becomes an issue, like when the market starts to say, huh, you really need to solve that issuance problem because sole holders are getting deluded who aren't staking."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, then Solana has succeeded so well that they've captured two thirds of the Internet and there's no longer that many more people to capture. And all of a sudden they're like, oh, we've won. We've captured the users. Let's become profitable."
+    },
+    {
+        "speaker": "A",
+        "text": "We're saying, Solana, because that's had the, like, a big run over the last six months. But it could be monad, it could be sui, it could like, it could be any of these avalanche. Who knows? It could be any alternative layer one. Well, then all they have to do is, oh, it's about the game is now profitable blocks. But, okay, hey, yo, we're layer two now. We're just gonna sell on Ethereum and they no longer have to issue their token. So from that perspective, that's what's always."
+    },
+    {
+        "speaker": "B",
+        "text": "So genius about the Ethereum, like, fundamental model. It's just like, yeah, fees, bro. High fees."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, well, like, I do think that. So, okay, this is, you know, like the Ethereum fundamental kits. It seems likely that Ethereum will win in any case. Now you, like Solana and alternative layer 1, may decide to play the settlement chain game, too. They could start to launch. They could try to compete as a money. Okay, the last chain to compete with ETh as a money. Do you know what that chain was, David? Uh, terra Luna."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, that."
+    },
+    {
+        "speaker": "A",
+        "text": "That was the last chain to actually try to compete with Ethan bitcoin as money. Okay, so a chain could."
+    },
+    {
+        "speaker": "B",
+        "text": "And look what happened."
+    },
+    {
+        "speaker": "A",
+        "text": "A chain could do that, be a settlement layer, compete with ethos money. Or it always has the option to, like, pivot into profitable block space by starting to use Ethereum as a settlement chain."
+    },
+    {
+        "speaker": "B",
+        "text": "So that's my. In my opinion, if your chain wants to be money, you must also be a settlement layer for other chains."
+    },
+    {
+        "speaker": "A",
+        "text": "I think that's going to be true. I also think that's going to be true. That that feels like a, like a core kind of first principles ground up."
+    },
+    {
+        "speaker": "B",
+        "text": "Doesn't matter. Don't even have to say the words Ethereum. If your chain is money, other chains settle to your chain."
+    },
+    {
+        "speaker": "A",
+        "text": "But do you see how, like, under this lens, you can actually start to be like, okay, the value of Solana or avalanche at 55 billion for Solana. All right, that's definitely assuming that it out competes a whole bunch of the layer twos and becomes a dominant player in execution layer. But the block space p and l thing, it doesn't matter because Solana still preserves the option to always switch and start settling on Ethereum. So it may as well recycle all of the so called profits and goodwill and brand narrative and all of these things back into growing the chain of. And if it can marshal that capital to acquire users, apps and network effects, then it has a path to winning and maybe outcompeting all of these layer twos, that kind of quote, unquote, did it the right way."
+    },
+    {
+        "speaker": "B",
+        "text": "Right, right."
+    },
+    {
+        "speaker": "A",
+        "text": "What do you think about that?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think that is a crazy scientist theory that I'm totally on board with."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Anyway, I think probably I've missed that sort of component of this for a while, and I think a lot of fundamentals analysts or eth maximalists and maybe miss that vantage point, but it very much could be the case."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm on board."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm super on board. That's what I got, man. Anything else? Where do we summarize all of this? We've got l, two tokens out there, and the question was posed, where are they worthless governance coins? I don't think they are. It seems like. Yeah. How would you summarize all of this?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, maybe before I summarize all this, I'll say a little bit more about the layer two upside case. I think we've presented the vanilla layer two upside case, the case that is true for all layer two tokens. But I think in addition to that, every single layer two token will also adapt a more specific strategy. The optimism collective strategy is to spawn the super chain, create a shared standard for what it means to be a part of the super chain, create some sort of ecosystem benefits, a union for why you joined the super chain. And then being a part of the super chain requires a 15% of your sequencer fees. To the optimism collective, that's the optimism upside case. The polygon upside case is different. They have the work token medallion model about the interoperability chain that they have in addition to other mechanisms as well, which is completely different from the optimism upside case. Arbitrum orbits, I think, still has some fleshing out to do with its upside case, but it has a similar 10% fee to join the collective type of model. Starknet has gas fees paid in the stark token. And that does zK EvM or not a Zkvm. It's Cairo based, but it's a ZK chain. A stark chain. And what is the upside model for that? It is a different flavor. And so in addition to just like the value added reseller case, which is true for all chains, there's also more specific chain specific strategies. Businesses for what they are actually doing and why they're capturing value 100%. Each one will kind of develop its own ways of navigating the world, right? And it's this own business model. A mantle, for example, has Meath, because the mantle treasury is just absolutely massive. And so they made their own liquid staking token. They're probably also going to do a liquid retaking token, calling it a. Why wouldn't you? That's a mantle strategy. And so in addition to just the fundamental case that we laid out in this episode, each layer two has the opportunity to kind of make their own additional way of capturing value."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think that's what's so exciting about the space right now is all of this is emerging, and maybe the place I'll leave us is kind of the opening for another set of questions that are questions in my mind for 2024. And I know they're in your mind as well, which is, okay, now we have kind of this new block space thing that we've created. In fact, I would say that's like, that's the core innovation that crypto has created. It's a trustless censorship resistance. Block space. What can you do with block space banking system. You could do sound money. You could do store of value. You could do property rights online, all of these things. You can do all of these things with this commodity that we've created. Called blockspace. Now, we have separated out the block space supply chain in three different levels of value accruing tokens, if you will. There's the consensus settlement layer, which Ethereum is trying to dominate very much. And the case for ether or some asset as a money or as an Internet bond, there's that layer, and then there's the data availability layer, which Ethereum is also a player. It's trying to sell its block space as a DA provider. But then you also have Celestia in there Eigen layer, DA, which takes its cut. And then there's a veil from formerly Polygon founders taking its cut. Near is competing for the DA layer. And then you have the execution layer, which is where the majority of these layer twos are really competing. That's where users come. That's where states are. That's where you can create super chains. It's an app acquisition game. Solana is playing full stack, but also very much on the execution layer. Execution layer, yeah, 100% execute. And so the question there is now, in my mind, and I think a major topic for 2024 is, okay, where's the value going to accrual? And the answer is all three. Okay, all three are going to accrue some value, but are we going to get more fat protocol. Are we going to get more value accrual at the. At the bottom of this pyramid? Or is it going to be an upside down pyramid? That's what some people think where, like, value accruals actually tiny at the settlement layer, and it's like bigger at the DA layer and even bigger at the execution layer. And that, in my mind, is the major fundamental question for this asset class as we move into, has always been the big question."
+    },
+    {
+        "speaker": "B",
+        "text": "Probably has one of the questions that we started bankless to try and answer, and it is four years later and still asking. Question is better defined, but the answer is still just as opaque."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, well, now the question has three parts to it, right? We have three different components. So, bankless nation, we're going to be exploring this this year, and thanks for hanging with us on the bankless takes. We should mention a couple hot episodes."
+    },
+    {
+        "speaker": "B",
+        "text": "That are coming down the pipeline on this. John Charbonneau and Neil Somani from Eclipse, doing an episode titled is Da a good business model? So we're attacking one of those points on the triangle head on, followed by an episode co hosted by John Charmeau. Replacing you, Ryan Bye. With sriram from Eigen Lair and Nick White from Celestia. Comparing the differences between Eigen Da and Celestia as a da construction layer. So we're doing some exploring."
+    },
+    {
+        "speaker": "A",
+        "text": "Ooh. Let's go figure it out. As always, bankless, we're trying to bring you guys to the frontier. Should disclose before we end this episode. We're investors in a whole bunch of the l two s and other tokens that we mentioned today. We also hold some eTh. As you'll know, you can access all of our disclosures, bankless.com disclosures and got to end with this. We have no idea what prices will do in the short run. Crypto is just generally risky. You could lose what you put in. But we are headed west. This is the frontier. Not for everybody, but we're glad you're with us on the bankless journey. Thanks a lot."
+    }
+]

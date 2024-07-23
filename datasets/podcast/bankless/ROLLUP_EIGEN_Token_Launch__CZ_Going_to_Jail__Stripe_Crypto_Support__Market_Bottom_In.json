@@ -1,0 +1,1294 @@
+[
+    {
+        "speaker": "A",
+        "text": "Bankless nation. It is the first week of May, and it is time for the bankless weekly roll up. David, where should we start this week, huh?"
+    },
+    {
+        "speaker": "B",
+        "text": "Eigen Lair releases their token, and everyone's mad. What happened? How did that happen? I thought everyone was stoked about the Eigen Lair airdrop. After that, CZ gets sentenced to jail, and you won't believe for how many months he is going to jail for. Wow. Yeah. There's a specific number that is very related to Czdhennae. After this stripe broke up with crypto in 2022, but now it wants to get back together."
+    },
+    {
+        "speaker": "A",
+        "text": "We also got some updates on the war on crypto, David. It feels like a full frontal assault these days. We got to go through what's happening in that war, all the battles that we're facing right now, and some market commentary because markets are down these days."
+    },
+    {
+        "speaker": "B",
+        "text": "April was a bad month."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So we got to figure out, is this the end of the bull run, or is there some reason for this? So let's consult the oracle, figure that."
+    },
+    {
+        "speaker": "B",
+        "text": "Out when it comes up. When."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Also a Solana season. Is it over? Is it coming back? Hey, before we get in, though, I noticed bankless listers that are looking at this on video may have noticed your left eye. No, it's your right eye. It looks a little bruised."
+    },
+    {
+        "speaker": "B",
+        "text": "It's a little damaged up. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So you sent me a picture, I think this was on Friday, last Friday."
+    },
+    {
+        "speaker": "B",
+        "text": "It was Thursday evening."
+    },
+    {
+        "speaker": "A",
+        "text": "Thursday evening. I knew it was after we recorded the roll up, and it was right."
+    },
+    {
+        "speaker": "B",
+        "text": "After the roll up."
+    },
+    {
+        "speaker": "A",
+        "text": "This should be, like, a viewer discretion advised type segment. So, I mean, like, maybe we should censor some of this out, because, dude, that is gruesome. What happened to you?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So, like, right after the weekly roll up last week, I went straight to muay Thai sparring. And on Thursdays is, like, the intense sparring. Tuesdays is technical, easy sparring. Thursdays is intense sparring. And I went up against this guy who's, like, 230 samoan guy who's, like, a whole head taller than me. And, like, usually when you suss out your sparring partner, you kind of, like, get a vibe for how good they are and how intense you want to go. This guy did not do that. He just kicked me straight in the face."
+    },
+    {
+        "speaker": "A",
+        "text": "This was a kick to the face. This is how many seconds into your spar did this kick to the face happen?"
+    },
+    {
+        "speaker": "B",
+        "text": "So you do, like, three rounds of sparring, and he kicked me. Like, he, like, kicked me a bunch of times, and I. A bunch of times. I had to, like, stop and be just, like, collect myself. And he, like, gave me some room, but then, like, when we went back at it, he was, like, just started kicking me again. And then, like, the third time he kicked me, I was like, oh, my God. Like, I can either ask this guy to, like, calm down, or I can just take this and learn to get beat up. I chose the latter. And then he kicked me in the face, and I had a two inch gash, one inch gash right above my eye."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, so what's protocol for. So I have not actually gotten in a fight in my adult years. It's been a long time since I've actually. Since I've been in a fight in the ring or anywhere else. So what's the protocol for this? Does somebody just. Oh, I'm sorry. Do they apologize once they kick you in the face and cause you to bleed?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, so, like, I. We started, like, sparring again, and then he was like, oh, your eyeball. And I'm like, what do you mean, my eyeball? And then I went to the bathroom to, like, go, like, you know, I get. I get nosebleeds a lot of time, which. But that's totally normal."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And. But then I go back and I see just, like, an open, like, flap of skin above my eye. I think, that's bad. So then I went to talk to the people at, like, the front. The front of the whole, like, office, the front of the gym, and they were like, you should just glue it. And I'm like, I'm gonna get a second opinion on that. I'm gonna. I'm gonna go to the hospital and get some stitches."
+    },
+    {
+        "speaker": "A",
+        "text": "Wow. So nonchalant. Just glue it, huh? Yeah. So the reason we're doing this, at the top of the segment, I imagine, is to put fear in the heart of Nick Carter."
+    },
+    {
+        "speaker": "B",
+        "text": "Nick Carter. That's right."
+    },
+    {
+        "speaker": "A",
+        "text": "Because we are less than 30 days out to the fight. All right."
+    },
+    {
+        "speaker": "B",
+        "text": "And is Nick Carter getting four stitches from big samoan guy? I don't think so."
+    },
+    {
+        "speaker": "A",
+        "text": "What's the poly market? What's the poly market say?"
+    },
+    {
+        "speaker": "B",
+        "text": "Polymarket's actually pretty even."
+    },
+    {
+        "speaker": "A",
+        "text": "Really? Okay. Cause I'm surprised. I would have expected the picture that you posted of yourself, like, bleeding from your eyeball getting, like, stitches. I would have expected the markets. A rational market would have swung in your direction. Cause that's hardcore."
+    },
+    {
+        "speaker": "B",
+        "text": "The current poly market odds are 45% nick, 47% me, and then 9% draw. So that's actually pretty even. I actually know that there are two funds out there. Either VC funds liquid funds. Whatever. Two actual real funds in crypto with liquid capital deployed into the poly market. Between me and Nick Carter, VC's are bidding on this. Yeah, there's only $68,000 in the market in total, so it's definitely just like, not like petty change, but. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I just want to announce, I know you're going to be busy, so we're going to do a bankless viewing party on this."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I streamed on the bankless YouTube."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't know if I am worthy to be an announcer on. On this. Like, I feel like I need someone who knows kickboxing or else it'll be a very dry, like, dry analysis. Oh, David got punched. Oh, like, Nick looks tired. Anyway, stay tuned for that bankless nation for you know what's going to be the most hype event, the biggest fight of all time. Let's talk about prices."
+    },
+    {
+        "speaker": "B",
+        "text": "Bitcoin 64,000 is where we started, down 7.7%. 59,000 is where we are ending ether doing something similar. 3150 at the start, down 5.2%. 29. 90. This month or last month. The month of April was the first monthly red candle since September of 2023, which is kind of an insane streak. We had seven green monthly candles in a row from September up until March. And then finally April broke that combo with the first red candle. Monthly red candle down 15% in April."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, do you know the nerve of some people? They're calling for under 50k bitcoin at this point."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh. Down another thousand dollars."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, there's. There's serious calls for this. Do you have any reason why? Like, what do you think's going on here?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, first seven green candles in a row is insane to. And so just like, at some point, the party has a stab."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "We also got jitters from, like, geopolitical tensions in the Middle east, but also, like, inflows into the bitcoin ETF's have also slowed off, slowed down. James Safer, he tweeted out this, that ibit, the Blackrock bitcoin ETF had its first day ever of net outflows. So the bitcoin ETF, Blackrock's bitcoin ETF lost $36.9 million, which is, like, overall, like, pennies in the grand scheme of things, but it had literally had a 100% track record of only inflows. But, like, in final equilibrium, ETF's have both inflows and outflows. And so, like, they generally, like, you know, balance out. This is the first day we've had an outflow since only having inflows into the Blackrock ETF."
+    },
+    {
+        "speaker": "A",
+        "text": "So if I'm reading the Kraken charts right. And by the way, thanks to kraken for sponsoring this entire segment, we are back to February prices for March and Ethereum, which doesn't sound bad when you say it like this. Are you ready for another explanation of like, why down, David, tell me. Okay, so here's a seasonality explanation. And it goes like this. This is apparently something they say in tradfi. Okay, sell in May and go away."
+    },
+    {
+        "speaker": "B",
+        "text": "I've heard this."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, people like to take their summers off, I suppose investors do. And so that, that's what happens in trad five markets, I guess. You know, like traditionally markets are down during May, June, July, August, you know, the summer months. Uh, and then we come back, we come back like toward, toward the fall. If you map this same principle to crypto. Actually, look at this. Buying bitcoin in October and selling in April had a 1500 percent cumulative return that's over the past five years. However, if you buy in May and you sell in September, you are down 29%. It looks like crypto likes to take the summer off. Look at this chart, man. This is, you know, if you just skip the summer and you sell in May, the nice, like, green line here. And the other is if you're buying in, buying in April and you like, you just."
+    },
+    {
+        "speaker": "B",
+        "text": "So it's aggregating seasons across years. That seems weird. That doesn't. I'm not sure how I feel about that. But I'm not going to argue with the data."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, how can you argue with it? With the data? I mean, like, do you take it easier during the summer in crypto? Do you have like, you know."
+    },
+    {
+        "speaker": "B",
+        "text": "No, bro, I am always on. You're always on."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, then for you, it's a fantastic buying opportunity, I suppose, in the summer. But what this could mean if we're in the sell in may regime, then it means that prices won't bounce back immediately. We got to get through kind of a slumpy summer. And you're right about those bitcoin ETF's. Like, just to put an aggregated perspective on this, there's been a steady outflow of ETF's in the US. The past five days have seen net outflows of 632 million. So it's not just Blackrock's ETF, it's all of them that are bleeding. But I guess you'd expect this, right? We built a pipe, so that means capital can come in faster. It's a big pipe. And it did. And they can also leave faster when people are selling in May."
+    },
+    {
+        "speaker": "B",
+        "text": "That's a good point. Can also leave faster. Never really thought about that."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. The leaving part is new for us, I guess. I mean, we've been used to up only. David, how about the total crypto market cap?"
+    },
+    {
+        "speaker": "B",
+        "text": "Total crypto market cap, $2.32 trillion. Slightly down on the week. Also in ETF land, bitcoin and Eth. ETF's launched in Hong Kong. The first day of trading, trading volume had a whopping $12 million of spot. Ethan. ETF volume. If that number seems low, it's because it is. The average bitcoin spot volume alone in the United States is 4.6 billion."
+    },
+    {
+        "speaker": "A",
+        "text": "For one day."
+    },
+    {
+        "speaker": "B",
+        "text": "For one day, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "So 12 million versus 4.6 billion."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. On the first day. On the first day of the ETF."
+    },
+    {
+        "speaker": "A",
+        "text": "I see."
+    },
+    {
+        "speaker": "B",
+        "text": "It's a very, very big deal when it was launched inside the United States, baby. We've always known the Hong Kong markets are just minuscule, more symbolic than anything. So it's not a surprise. We've always known that the Hong Kong ETF's and overall the Hong Kong capital markets are just, like, minuscule in comparison. So it's more of a symbolic thing that bitcoin and ether ETF's are launched, but nonetheless small. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "When you look at it in absolute size, it's absolutely small. However, David, if you look at it just compared to other Hong Kong based ETF's, it actually ranks as 6th of 82 ETF's that have launched in the past three years. Top 20% overall, relative of other homes."
+    },
+    {
+        "speaker": "B",
+        "text": "Of a very small market."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, of a very small market. So there you go. Not totally unexpected. I wanted to get your take on bitcoin miners. I'm hearing that they're starting to struggle, which doesn't really make sense to me because it seems like fees are at an all time high with the launch of runes lately. Like, there was one day, we talked about it on the last roll up. It was like almost an $80 million day in terms of fees. I had expected that miners would just be raking it in, but they're not."
+    },
+    {
+        "speaker": "B",
+        "text": "That $80 million day, Ryan, was just that day. Bitcoin miner revenue has been on. Like, it's all down only because margins always just get compressing, compressing, compressed. And then the habitant comes in and, like, cuts in half. Literally, literally cuts in half the basal, like, income of bitcoin into miners. And so, like, while there was, there are spikes of revenue from, like, degen ordinal rune activity on bitcoin is not sustainable. It's just like, it's actually just acute and anomaly, rather than just the actual basal level of bitcoin inflows into miners right after the halving, which miners are totally prepared for, they know this is coming. But it is the hardest time to be a miner right after the havening. And this is really when the least efficient miners get washed out and the more efficient miners win, just based on overhead and capital costs and all this kind of thing. So this is the culling of the herd of the miners. And so strong miners are going to get replaced by weak miners are going to get replaced by strong miners."
+    },
+    {
+        "speaker": "A",
+        "text": "And I'm not a miner. You formerly were a miner, small time miner."
+    },
+    {
+        "speaker": "B",
+        "text": "I got washed out."
+    },
+    {
+        "speaker": "A",
+        "text": "You got washed out just like this. So that, like, purged you of any ideas that you need to create a larger mining entity. Why should we care if you're not a miner? Why should we care?"
+    },
+    {
+        "speaker": "B",
+        "text": "Because this ultimately impacts the security of bitcoin. When less efficient miners get washed out and more efficient miners win. Ultimately, I think the data represents this, is that this is a centralization of bitcoin and miners to large scale capital efficiencies, scale, economies of scale. This has been like the longstanding critique of proof of work based security from the proof of stake camp is that ultimately proof of work is just defined by economies of scale, which is a very strong centralization force. And so if your long tail can't be sustainable, then you actually just are left with only the fat tail. And so this impacts the security of the bitcoin network. The theory around bitcoin security, again, from the proof of stake camp, is eventually it runs out simply because it literally does approach zero over time. And so every happening is like one step closer towards that."
+    },
+    {
+        "speaker": "A",
+        "text": "Mining is supposed to be super competitive as well, from the, I guess, the bitcoin mining perspective. But you know what could really help the miners at this point in time?"
+    },
+    {
+        "speaker": "B",
+        "text": "Fees."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. But also Cathie Wood's prediction of 3.8 million for the price of bitcoin price. Bitcoin price by 2030. Kathie Wood of Ark invest is predicting this. This is a raise on her previous prediction, which was 1.5 million. So she's."
+    },
+    {
+        "speaker": "B",
+        "text": "She's raising her price."
+    },
+    {
+        "speaker": "A",
+        "text": "She's raising it. She's raising it at a time, typically a no no. Now, cathy's not afraid to do that. All right, so 3.8 million. Again, one bitcoin right now is 60,000. We just went over this but by 2030, Kathie Wood says 3.8 million. That seems really high, but let me."
+    },
+    {
+        "speaker": "B",
+        "text": "Tell you, very high."
+    },
+    {
+        "speaker": "A",
+        "text": "Let me tell you how she arrived at this number. It was a simple calculation. If institutional investors, there's a lot of those, and they have a lot of money, if they were to allocate just over 5% of their portfolios, that's all it would take, then that alone would send the bitcoin price to 3.8. So that's what she's saying, David, 5% doesn't sound like a lot."
+    },
+    {
+        "speaker": "B",
+        "text": "Of an entire portfolio to dedicate to one asset. It kind of does seem like a lot."
+    },
+    {
+        "speaker": "A",
+        "text": "I feel like it's more 5% to crypto, and that'll happen. I don't think all of that gets allocated to bitcoin."
+    },
+    {
+        "speaker": "B",
+        "text": "That makes more sense to me."
+    },
+    {
+        "speaker": "A",
+        "text": "That's my take."
+    },
+    {
+        "speaker": "B",
+        "text": "By 2030, bitcoin will not be the only ETF on the markets."
+    },
+    {
+        "speaker": "A",
+        "text": "But actually, here's. I blanked this out in the agenda so you couldn't see. So it's."
+    },
+    {
+        "speaker": "B",
+        "text": "I was wondering why should be a."
+    },
+    {
+        "speaker": "A",
+        "text": "Question have been redacted from me on my agenda. Big reveal. I still use paper for my agendas every week."
+    },
+    {
+        "speaker": "B",
+        "text": "That's going to turn into a screenshot on Twitter."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, David makes fun of me for that. Okay, so how much do you think? So bitcoin's at about 1.1 trillion. In terms of total market cap, how much do you think that of that, 1.1 trillion is held by countries and companies?"
+    },
+    {
+        "speaker": "B",
+        "text": "How much company. Okay, so microstrategy is a company, and microstrategy owns 1%. I know that countries. El Salvador is much smaller than microstrategy, so I don't even think countries even is registering here. Blackrock and all of the others. Is that counting our ETF's companies? I think so."
+    },
+    {
+        "speaker": "A",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "That's swag."
+    },
+    {
+        "speaker": "A",
+        "text": "Swag it, you know? No, no. An ETF, if it's owned by an individual, it's not. If it's owned by a company, it is. That's not just everything that's custodied."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm gonna go with 4% is held by countries and companies a lot more."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, so this is Vanex estimate, and maybe they're off by a factor of x amount, but it's probably in the ballpark. Vanax says they own about 175 billion. That'd be closer to, like, you know, I guess a 17, 817 percent or so. Something like this. Right? 16, 17%."
+    },
+    {
+        "speaker": "B",
+        "text": "14%. Yeah, 14. 14%. What?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, 14% is held by. Actually, this does include ETF's in the headline. Looks like it's ETF's nations."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Yeah, that's what I thought. ETF's are the big one."
+    },
+    {
+        "speaker": "A",
+        "text": "It's still a lot more than I thought. Right. I mean, 14% already owned by companies. We know that crypto, like Bitcoin, has always been retail first, and it's still retail, predominantly owned."
+    },
+    {
+        "speaker": "B",
+        "text": "But now if it's 14% companies, ETF's, all these things. Everything else is retail."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, they're in."
+    },
+    {
+        "speaker": "B",
+        "text": "Or I guess VC funds."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. David, do you want to hear a quick, like, fed watch? Like maybe just a drive by?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's it."
+    },
+    {
+        "speaker": "A",
+        "text": "So chairman Powell made some statements this week. Just the summary is not unexpected. Number one, at rate hike, very unlikely. Not in the, in the short term, anyways. His base case is to cut rates later this year, but not a given. No promises. There's no sign of stagflation. He wanted to make that explicit. And he still maintains that the 3% inflation that, like, we're in right now, that's not acceptable. He said something. There was like a direct quote, 3% inflation and satisfied shouldn't even be in the same sentence as what he said. It's kind of entertaining. So did you expect. I mean, this is pretty much what I expected. I don't know if this is news to you, but it's what I think."
+    },
+    {
+        "speaker": "B",
+        "text": "Inflation is no longer out of my. This is my take about the current state of the economy. Inflation is no longer out of control, but definitely still present."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "So, like, I think he's just saying, like, Joe, we're actually still in, like, middle of 2023 state of inflation."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. I think what's most interesting about this is doubling down, tripling down, quadrupling down on saying 3% inflation is not acceptable. All right. Because that kind of. I don't know if paints him in a, in a corner. Right. But if it's harder for him to say, no, actually, 3% is the new normal. Just kidding."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "When he keeps doubling and tripling down on this. So that should be interesting. He's, he's definitely trying the, the Volcker tactic of, I'm going to break the back of inflation."
+    },
+    {
+        "speaker": "B",
+        "text": "Sure, sure. All right, back to crypto topics. Talking about Solana."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Yeah. So Solana's had a massive, absolutely massive run, I think question on people's minds is, is that it? Is it over? And we got some."
+    },
+    {
+        "speaker": "B",
+        "text": "Where does the future of Solana lie?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So there's some usage metrics from X user Gumshoe Twitter x user gumshoe. Solana season is said to be over. It can't pump more, yet it solidified itself as the best chain on a lot of relevant metrics. Let's talk data. What's the data that gumshoe is presenting here?"
+    },
+    {
+        "speaker": "B",
+        "text": "Some actual pretty useful charts here. So, number one, chart, number one, usage increasing. And this is just a matter of transaction fees inside of the Solana ecosystem. And you can tell, like, when exactly. You can just point to where the judo drop happened, right, as non vote priority fees got kicked in. This is like, Solana contention. And so that's been up only ever since the judo drop, which happened actually transactions, right? Yeah, well, yeah, users bots, it's all kind of the same thing. Like mev bots, these are the same, same thing as on Ethereum, but, like, net aggregate user transactions are up. Um, after that, stablecoin transactions. Uh, this is actually a new dashboard from Visa, which we're going to show in a second. Uh, the stablecoin transfer and transaction size on Solana is also just very, very healthily up. Solana is actually the, uh, according to this chart, the largest bar by far, followed by, um, binance, smart chain, followed by Polygon, followed by, followed by tron, followed by arbitram, followed by base, also all in like a Pareto curve. Uh, so Solana definitely the dominant total transaction size in stablecoin transactions. Uh, and then there's Dex volume volumes, which is on an 18 x increase between 2023 and 2022. And then active addresses hovering around 20 million, 20 million plus in the Solana ecosystem. TVL definitely needs some work, but, I mean, it makes sense for a transaction and high speed throughput blockchain, but nonetheless, the Solana TVL, up from 210 million to 4 billion since August. So definitely, like, it was pretty hard to argue. Like, some pretty healthy charts and pretty healthy metrics in the Solana ecosystem totally."
+    },
+    {
+        "speaker": "A",
+        "text": "Benefited from kind of the meme coin craze. It's kind of the place to go for meme coins. Also, the airdrops have been juicy on Solana so far this cycle. Like, some of the biggest that we've seen. And the question is, will all of that continue?"
+    },
+    {
+        "speaker": "B",
+        "text": "I don't know if that's true. Like, Jupiter was one big one, but, like, even the Judo drop. Judo actually only dropped like, 100 million or something. That's pretty small."
+    },
+    {
+        "speaker": "A",
+        "text": "Maybe it was more, I was thinking more like from received by individuals perspective, because GDO went to, like, 10,000 people or something, a very small number, but it was a lot of money for each of those users."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, it was an average of like $10,000 per user. It was like $130 million to 10,000 addresses. And this was before the airdrop meta really even was a thing. And so one of the reasons why the Jito airdrop is as big a deal as it was, even though it only went to 10,000 addresses, because no one expected it."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, it feels. It feels so big if you're an individual and you get just like $15,000 or something. Ten to 15, that feels like generational wealth overnight. That's the crypto dream, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Especially when comparison to Uniswap, which actually created the airdrop meta, and Uniswap was like $1400 rather than 14,000 or whatever."
+    },
+    {
+        "speaker": "A",
+        "text": "So, David, do you have any conclusion? Do you think Solana season is over, or do you think it pumps more?"
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, Solana is approaching in post FTX. It was definitely under oversold, right? Like under indexed on by the industry, and since then, it's reverted to the mean. Right. And then maybe it's also, like, justifiably grown just by just the UX and all these kind of things, but it's no longer totally disregarded by the market, right. It has approached a closer, like what your close number is, what your approximate fair value is for Solana, up to you. But it's closer there than it was six months ago, that's for sure."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, David, we got a lot coming up. Eigen Lair introduced its token. They dropped it, but everyone's mad. We got to talk about that. Also, crypto hits a record for the richest person ever to go to jail. Because, of course, you know CC."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, my God. That's the most classic crypto headline. The richest person ever who goes to jail is a crypto person."
+    },
+    {
+        "speaker": "A",
+        "text": "So stay tuned for all that, guys, we'll be right back, but we want to shout out the sponsors that made this episode possible. The much anticipated Eigen restaking protocol. The token has dropped. They're calling it a stake drop. So what happened?"
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so we're going to. We're going to break this down into a number of sections here. We're going to go through the actual Eigen token and the tokenomics and what the hell inter subjective means. Then we're going to get into the stake drop details, the distribution of the token, who got what, how people feel about that. And then we're going to go through the list of grievances that the people, the nebulous people feel about Eigen, the actual details of the drop. And then me and Ryan are going to reflect on all of these things and some other people's reflections in the space. So starting with the actual Eigen token, it's called a universal inter subjective work token. Ryan, right off the bat, did you understand what universal inter subjective work token meant when you first read that paper?"
+    },
+    {
+        "speaker": "A",
+        "text": "I had no idea. That sounds like a white paper, you know."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, it was. It was a 40 page, very academic white paper, which is extremely on brand for the writer of that white paper, Sriram, who is literally an academic who has written white papers before. Okay, so let's go through this universal, inter subjective work token. What is a work token? A work token is a token that gives its holders the right to contribute work to a network and earn rewards based on their contributions. This is a model that has been pioneered before people who may remember the augur platform. This augur was a work token. This has been a tried and true, like token model. Many tokens are actually work tokens you just don't know about. You just don't call them that. A holder of a token stakes their work token, which gives them the right to perform some work that is required by the protocol and then is compensated as a result. This is actually in contrast to a governance token, of which Eigen is not. Eigen is not a governance token."
+    },
+    {
+        "speaker": "A",
+        "text": "So it's a work token, it's not a governance token. And work token, like the model I used to always explain this, is like, you know, taxis and taxicab medallions. It used to be an old taxi networks. In order to be a taxicab driver, you had to buy a medallion in whatever jurisdiction you're in. And that was essentially your work token to operate within the taxi cab network, right? And like, earn fees for providing work to it. That's what you mean when you say work token. In case people aren't familiar with that term. It's, it's that."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's right. We've, we've seen this model of assets in tradfi, right? Like the taxicab work token aspect. Like medallions in New York used to go for like millions of dollars before Uber came in and nerfed them and to nerf the app. But like, it was actually kind of a sad story for like, people who like, were saying that was their business is they had expenditure. You invest in the taxi medallion, sometimes."
+    },
+    {
+        "speaker": "A",
+        "text": "You took a loan against all sorts of things. But anyway, yeah, so like, the idea."
+    },
+    {
+        "speaker": "B",
+        "text": "Is like, the work token, like a taxi medallion is like a $1 million asset, and then it nets you something like 1.5% APY because of the work that you get to do as like, you get to loan out, loan it out to your taxicab drivers."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay? Anyway, same thing."
+    },
+    {
+        "speaker": "B",
+        "text": "That's a work token."
+    },
+    {
+        "speaker": "A",
+        "text": "That's the work token piece."
+    },
+    {
+        "speaker": "B",
+        "text": "Inter subjective, okay? Blockchains are very good at penalizing objective faults. These are like double spends NCK proof violations, fraud proof violations, all things that math can ascertain to be incorrect or correct. Inter subjective faults are things that blockchains cannot ascertain to be a fault or not, but are nonetheless completely objective to a rational observer. So two humans can agree 99.9% of the time whether something was a fault or not. But a blockchain simply does not have the knowledge or awareness or the data to be able to decide what's a fault or not. An example of this is a data withholding attack, which is why we need data availability, where some validator is holding data hostage. But the blockchain itself isn't actually aware of that fact because it's being withheld. So the blockchain can't do any slashing because it's not aware of the data being withheld. But two humans, two rational observing humans, can look at this and be like, oh, somebody's withholding data. So there's at fault at here somewhere. So that's what inter subjective means. It's there are faults and two rational humans, two or more rational humans, can totally agree without reasonable doubt that, like, there's a fault here and then universal. The last part, like I said, we've seen this work token model before. We've also seen what I'm about to explain, is this forking contract before augur, like I said, built this forking contract prediction market back in 2018. But Augur's inter subjective fault system was application specific. Augur was built to settle disputes between prediction market outcomes. That's what augur was. Eigen is universal because you could in theory, build Auger as an AV's on Eigen layer, and then you can use Eigen as the work token for that application to use Eigen to settle disputes. But you could also use the same Eigen token to settle intersubjective faults for any other AV's that also needs to settle intersubjective faults. Okay? That was universal. Part of this key component of the Eigen system is this forking contract. So there's actually a two token model to the Eigen token. So there is the fungible normal Eigen token, which is like the typical token that people are familiar with. This is the token that goes in Defi, that will be on Uniswap, that will be an AAve, etcetera. And then there is be Eigen, which is backed Eigen. And this is like a derivative form of eigen that creates this forking contract. And this is how the intersubjective faults are settled. And so if there is a fault that the Eigen layer community has determined is a fault, it goes to court. And this is a court case. And so you can see in section two here you have b eigen number one, which will split into two universes, but one universe representing one outcome or the other, who was in the correct or who is in the wrong. And these two universes split, and people stake their eigen to one of these two different universes. And then in a typical scenario, like, the vast majority will just all agree on which is the correct universe. Somebody was being a malicious attacker here. Everyone else was being honest. People are going to stake their. Their eigen tokens to the honest side, and then all of the Eigen tokens staked to the dishonest side get burned to. And so this would actually decrease the supply of eigen. And so this is how two different universes are birthed for the Eigen token, and then all of the attacking, malicious eigen gets burned, and then the Eigen token goes off into this future universe. And this is how inter subjective faults are settled in the Eigen ecosystem. It cannot do this with ether because you cannot fork the blockchain just to settle disputes in the Eigen layer ecosystem. This is highly related to Vidalik's post about don't overload ethereum consensus about Eigen layer. And so this is the answer to how you can have intersubjective faults in Eigen layer avss without having to worry about forking the Ethereum blockchain. You actually just fork Eigenlayer. Why there needs to be a two token model is because you also need to have the tokens just be working in Defi, as everyone is familiar with, and be totally unaware that all of this is going on. And this is also the why there's work in the Eigen layer ecosystem. Does all that make sense?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, can I just say something about that, David?"
+    },
+    {
+        "speaker": "B",
+        "text": "Sure."
+    },
+    {
+        "speaker": "A",
+        "text": "That's kind of a lot like, so I think the question on people's minds who are excited about this token is like, but how much am I getting? Like, where's my airdrop? I mean, you just, that's a whole bunch of vegetables that, like, are, you know, you have to digest. And I think there's a good percentage of the population who's just like, never going to understand this or only understand a small sliver of it. Right. And I actually think this gets to, I know we're going to talk about the criticism. This actually gets to some of the criticism of the airdrop from kind of like the person, average crypto native person on the street, which is like, I kind of want to hear about my token and how much it's worth and how I can unlock it. And what I feel like I got any, like, was a interest objective work token. Yeah. And that's like an academic like 40 page type thing. And I think, by the way, I think this is why I can had some of the comms problems around this drop in the first place. And it's like the nerd in me is really excited about what you just said. And also I feel like I have to digest that and understand what it means in the context. But like, you know, the DJ and the crypto, like, I'm just like, but like, give me the details. How much did I get?"
+    },
+    {
+        "speaker": "B",
+        "text": "So this is, yeah, this goes at the heart of like kind of the conflict between, well, Eigen Lair is producing this very sophisticated forking contract to increase the scope of what security and trust it can provide the universe. And then on the crypto side, I was like, stop talking to me about intersubjective work. Like I would like to know, give, give me my token slips."
+    },
+    {
+        "speaker": "A",
+        "text": "I think the average person got something from what you said, which is, oh, cool. It's a work token. It has utility. It's not just a. A futile governance token. There's a purpose to it. So, checkbox, right? I don't know how much more I need to understand about like, or could understand about inter subjective forking at this point in time. Okay, so let's get to the details of the distribution. What did that look like?"
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, Eigen distribution, 1.67 billion tokens, 5%. It was released in this initial season. One stake drop claiming will go live in ten days. We'll talk about the transferability in a second. Of the total supply, 5% is season one. There are multiple seasons. 15% of the total supply of Eigen is allocated into the stake drops, which are just airdrops. But the only thing you can do is you can stake your token. 5% is getting released. Now claim you can see your allocation. We'll talk about that again in a second. And then let's see. Early contributors. This is the Eigen layer. Team gets 25%, investors 29%. Community initiatives and ecosystem are 15% each. And you put those together, and you basically have what I'm pretty sure is the foundation. So this is like community incentives, bootstrapping the decentralization, whatever a foundation does, which the typical model of a foundation that we've seen."
+    },
+    {
+        "speaker": "A",
+        "text": "So 15% total will be dropped to, quote, unquote, the ecosystem or the community. Right. 5% announced in this first kind of drop. You can't actually claim the tokens at this point in time, but you can see if your address is eligible and you can claim them. What, it was like, may 10 or something like that. That's when you can actually claim it. Okay, I'm with you so far."
+    },
+    {
+        "speaker": "B",
+        "text": "That's right. Okay. So, like, a lot of the feedback about eigen layer is the nature of the distribution. Some people do not like the linear ish nature of the eigen distribution. So it's linear ish because of the point system. You put your ether into eigen layer, you start accruing points. The more points that you get, the more eigen tokens that you got, except with some small caveats. People who restaked their ether into Eigen lair in the very first phase, who took on, like, who were very early, like, the first depositors into Eigen lair, they took the extra risk because they were first through the door. They got a small boost of Eigen layer rewards just for being early. Native restaking, as opposed to liquid staking tokens, re staking, got a boost. So if you deposited ether or natively staked ether into eigen layer, you got a boost. And then everyone got at least ten Eigen tokens. And so the long tail of addresses got a boost. So if your rewards were below a total of ten eigen, then you just got bumped up to ten eigen. So no one got less than ten eigen. This actually impacted 130,000 addresses. So what would have been 400,000 Eigen tokens given to the bottom 130,000 addresses actually turned into 1.2 million eigen tokens, which were given to the bottom 130,000 addresses. Overall, 260,000 addresses got Eigen tokens in the season one allocation."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And so I guess, like, the question is, how many addresses evaluating airdrop, how many addresses got it right. So how wide was the distribution? I guess that's a proxy, because some of these things can be civil attacked, and then, like, how much, how much value was actually dropped. Right. And so if you do an implied Eigen valuation at about 18 billion. And by the way, there are some small illiquid perps markets that value eigen at 18 billion. Is it 5 billion? Is it 10 billion? Is it 50 billion? We don't actually know, but let's take 18 billion. That would mean about 900 million was awarded to those 280,000 addresses at this point in time. And again, they can't. They can't claim it yet. They will be able to claim it. And by the way, once they claim it, it's locked. We'll talk about that in a second. But if you do some comps on that, and then. And then, by the way, there's another 1.8 billion. So that's. Again, that's 15% of supply that is set aside for future drops to the ecosystem, to the community. Right. So, I mean, how much is that in total? Are we talking about? Like, we're talking about north of 3 billion, I guess, in total, that would be dropped at an 18 billion valuation."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Just counting season one, which is five of 15% of the total amount of Eigen tokens. That's going eventually to the community. However, you wanted to find that just counting the first 5% is $903 million, which puts Eigen as number three of the total amount of value distributed to 260,000 addresses. So, just. Just for comparison purposes, arbitrum dropped 1.5 billion to 625,000 addresses. ENS dropped 1.07 billion to 138,000 addresses. DyDX did a quarter billion to 64,000 addresses. So, again, Eigen layer, 903 million to 280,000 addresses. Oh, 280,000. Sorry. That's the right number. So, like, actually, just. Just with season one, not counting the unknown, season two and season three. We don't know where that's going. Just season one, it puts it at number three in airdrop terms."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. One other fact here is Eigen layers aren't transferable at this point in time. So you can check your eligibility. You can claim them on the 10th, and you could stake them. But even once you claim them, you can't actually transfer them to another address. So you couldn't list them on, like, sell them on uniswap or anything like that. The tokens are lost. Can you talk about that?"
+    },
+    {
+        "speaker": "B",
+        "text": "So, it was stated that Eigen will be non transferable for some amount of time. The specific amount of time was not released, but they put some milestones in there first. The whole inter subjective forking relies on, like, actual social consensus. People actually need to learn what intersubjective forking actually is because it's a work token. You have to know how to do the work. And so there is a phase of just people needing to learn what intra subjective forking is and what their role is. And then also there are additional components of the Eigen layer engine that also need to be turned on. These are just like internal milestones that the team needs to hit, which is payments and slashing. So key payment and slashing features should be well established and understood as well as core elements of a sustainable marketplace. This is the Eigen Lair team saying, hey, we got work to do. Once these, once these things are live and once the community digests what a work token is, then we will unlock."
+    },
+    {
+        "speaker": "A",
+        "text": "The token, I think it's safe to say. So those are all the facts. Now we get into like every, a lot of people were upset about this. Yeah, a lot of, there was a lot of grievances. And I think one of the things is, based on what you just said, is people were upset that they were receiving a locked token and not a completely, an unlocked token. And by the way, there was no actual date. It was kind of an estimate of, hey, we'll let you know later when these things happen, as far as when Eigen itself gets unlocked. So there was a lot of upset around that. And that was, I think, one of the core grievances that I heard, but not the only one because this token was, or this was dropped right on Monday. And David, Twitter went absolutely wild. It was one of crazy. It was one of, I would say, the most attacked airdrops that I've ever seen in terms of Twitter sentiment. We can talk about how real that is, how fake that is, or what that is, but it wasn't just on Twitter, it was from channels that we look to for actual signal. So the bankless citizens in discord, a lot of people were upset. They had different issues. So what were those issues? What were the primary grievances, would you say, of airdrop recipients?"
+    },
+    {
+        "speaker": "B",
+        "text": "One of the biggest ones was the VPN restrictions, which were pretty aggressive. So there's two types of website restrictions out there. There's geo blocking, saying, hey, if you're accessing this from any particular country like the United States, you can't access this website. And we're pretty used to that. That's half of DeFi. And it's simple, you just turn on your. Somebody might just turn on their VPN and just get around it. But then there's also more sophisticated VPN restrictions. So you actually can't access the Eigen layer claiming website using a VPN, because VPN's are taggable. They're loggable. So any sort of consumer business based VPN, it's not going to work."
+    },
+    {
+        "speaker": "A",
+        "text": "So the criticism was there was no VPN blocking on the way in. When you stake, restake your tokens, VPN blocking, when you go to claim was the basic criticism."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So the criticism is that, why are you guys blocking our ability to claim the token, but you're not blocking our ability to deposit the ETH. One is, can you use the application? And the other one is a token securities conversation, but we'll talk about that later. The non transferability is probably the next big grievance. It's non transferable until a later date and a date that actually wasn't stated. And so what's the point of having points if you're going to just release a token that's non transferable, that's just on chain points. It's still not real until it's transferable. And so that was another big grievance. The linear distribution people didn't like. Even though it was still linear ish, it still kind of benefited the long term. But people wanted more, like at the bottom tier, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "So rather than minimum, they wanted a higher amount, minimum type of thing, more linear."
+    },
+    {
+        "speaker": "B",
+        "text": "They wanted large whales to not have such a strong, a linear return on capital."
+    },
+    {
+        "speaker": "A",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "This is the classic. Justin sun comes in, deposits 23 million ether for two weeks, and then he gets a million dollar airdrop just because he has so much capital. And so many people would like that not to be rewarded so strongly. That's why people don't like the linear distribution. Now, there's, of course, problems with sublinear distributions, but again, a topic for a different day. There's also, I'll agree there was some sloppiness about the snapshot. So the snapshot for season one was taken March 15, and then it was announced that the snapshot was taken on April 30. So there's a 45 day period where anyone who deposited it during this window or anyone at all earning points during this window were actually excluded from this drop. So people didn't enjoy that. And then there's like, team investor distribution, lockup terms. So the token is non transferable, but teams and investors have started their vesting, so people didn't like that. But that's actually not actually the case. The vesting schedule of investors and teams starts when the token is transferable. Most people don't know that, but that is the case."
+    },
+    {
+        "speaker": "A",
+        "text": "But what's the overall, the summary of the vibe, I think. Here's a take from a bankless citizen, which is not a rando Twitter account. This is PM Lebs says from the outside looking in, it looks like they accepted eth from everywhere. They pumped the TVL, raised cash, and then decided they couldn't give out rewards for challenging jurisdictions. Why not prevent the US from participating upfront? I don't know. It just seems greedy. There's like, this feeling of, like, I don't know, a lot of people."
+    },
+    {
+        "speaker": "B",
+        "text": "Individuals feel farmed by Eigen lair."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes, individuals feel farmed by Eigen Lair. That would be a summary of the vibe."
+    },
+    {
+        "speaker": "B",
+        "text": "So this is the caricature of what people think is the typical raise strategy for big teams these days, is like, hype up your token, hype up your points, issue a points farm, get TVL in, go to a 16 z, raise a billion dollars, and then also release a locked token. Ha ha ha, gotcha. And so, like, I get the perspective, this is many people's conclusion who are viewing this thing as either as community members. And like, there were like 10,000 x meme coins on Solana that people elected to not go and participate in because they had their capital inside of Eigen layer. There were other opportunity costs, there were other things that they could have done. And many people feel like they just got nothing. They can't claim their tokens because they're geoblocked. And even if they can claim their tokens, they can't transfer them. What did they really get? They feel like they got nothing."
+    },
+    {
+        "speaker": "A",
+        "text": "I just want to double down on that. I get how it could feel like that. If you're at the bottom and you only deposited a very small amount, you're only eligible for ten, maybe didn't pay for your gas fee. At the same time, it's not clear to me that that's what the Eigen drop was actually rewarding here. Right? And so, like, when you look at the actual apy of, I put x amount and I got y amount return, wasn't. Wasn't something like, it's like 60% the base case APY $18 billion valuation. So that's an assumption. But base case APY is for the amount that you put in to the tokenization, you got about a 60% APY return, which is like, it's not going to turn you into, like, it's not life changing money, but it's a pretty good APY. I would say pretty good return. Especially, I guess, considering that obviously, the more eth that goes into Eigen, the fewer, like, Eigen the rewards get spread around. The wars get spread around more. So like, but, but just to level set here, APY was about 60%. Is that, is that correct?"
+    },
+    {
+        "speaker": "B",
+        "text": "That Apy at 60% is base case. If you were in the bottom 130,000 addresses that got the bump up to ten, I got more. You got between 90 and 170% APY for just being there. But people are still saying, well, if you do the calculation that ten Eigen is $180. And so it's just not much."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't think Eigen Lair has responded officially to all of the clamoring that's going on. But what do you think if you're a builder in Eigen layer, say you're Sriram. What do you think their perspective is on this?"
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so the perspective of people building the Eigen layer engine, they have a different focus. So again, emphasizing that Eigen layer engine that's being built, Eigen layer mainnet went live a couple weeks ago. Eigen Da is now online. They are slow rolling out different components of the Eigen layer engine, turning them on, hooking them into each other. So the whole entire ecosystem of incentives and participants in the Eigen layer world are all humming. And so the Eigen token is actually just the next in line component. To complete the Eigen layer engine that the Eigen lair team needed to turn on, the Eigen layer team is like, okay, we are slowly building out the engine. We are slowly releasing components one by one by one. Now, the next in line component is the Eigen token. Let's get that out there. Our lawyers don't want us transferable, so we're going to lock it. But you can stake it to Eigen Da. And then you can provide economic security to Eigen Da. Then we're going to turn on slashing. And then we're going to have some systems, and then everything is going to be like, humming, and then the engine is going to be complete. And then we're going to unlock the tokenization. Like, that's the perspective of the Eigen builder. And that's their focus. And so they're not exactly taking into account, like, the perception of this or the perception of everything. They are. They are just focused on turning on the Eigen lair engine."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, because Eigen Lair has been a series of, like, releases and, like, slow incremental releases, slow incremental releases. So I could expect that this would be a next, like, slow incremental release."
+    },
+    {
+        "speaker": "B",
+        "text": "But on the flip side, the community just some don't care. They don't perceiving that they are just like, oh, I'm here for the token, I'm here for the rewards. It's a bull market. There's only so much time to reap the rewards of a bull market. I'm going to do the Eigen layer thing and like, oh, what? I got a wet dud of a token that doesn't have a market value associated with it because it's not transferable. These different time horizons perspectives. Different time horizons, yeah. There's also, Jake Stravinsky also put out a very long tweet about this, basically summarizing that this was one of the most risk off token release events that you can do. He says the Eigen token kicked off a discussion about two particular design decisions. One, that the token can't be transferred, and two, it can't be claimed by United States Eigen users. So what is a risk averse lawyer to do? Enter non transferability. He says, in general, securities law only applies to assets that can be bought and sold, and then also geofencing. In general, securities law only applies to transactions that occur within the United States. Both of these options are on the conservative end of the regulatory risk spectrum for token distributions. But there are other points, he says, on the risk spectrum that are also defensible, even when the SEC might not agree. For example, free airdrops aren't securities transactions. So the vibe of the thread is that Eigen Lair chose a very conservative regulatory cover for itself. And I think another perspective that the typical user doesn't have is like Athena, great airdrop, very happy community team, based in Portugal. Right? Sriram, Eigen layer team, United States based team. Like Sriram lives in Seattle. He's a professor at University of Washington. And so different teams and different projects have different levels of risk associated with them when they release a token."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think that's an interesting point, and it adds some friction to the claiming experience. I will point out, though, no one has been able to claim yet. So you're just sort of geoblocked from assessing your eligibility. I guess at this point in time, it's hard not to."
+    },
+    {
+        "speaker": "B",
+        "text": "Which you can also check your eligibility on bankless cannibals."
+    },
+    {
+        "speaker": "A",
+        "text": "It's just. Yeah, it's just hard not to imagine that there would be third party apps that would, like, allow you to kind of check eligibility and to like, maybe even, you know, claim this elsewhere. Right. If Eigen's in a position where they have to, they feel like the most, the least risky thing is for them to geo block that, you know, like they do this. But yeah, there was not very much tolerance for the geo blocking, in particular the VPN restriction, I would say. And that, that counts for something. I guess you could also take the flip side of this, which is basically like, hey, if you're in the game in crypto, you're going to get sued anyway. Like, look, metamask, you know, they're all sued. Coinbase cracking, they're all sued."
+    },
+    {
+        "speaker": "B",
+        "text": "And so Gary doesn't care about your VPN block."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And so I sort of. I get that take as well. But, you know, look, I'm not a lawyer. Don't make these decisions. All right, so what is then your assessment on this? What do you think?"
+    },
+    {
+        "speaker": "B",
+        "text": "I've kind of given bits of it throughout this analysis. I think once the token is transferable in the future, everything is going to be fine. 60% APY is very strong. That's very good. Farm for a very long amount of time, especially for $13.5 billion, that that 60% had to get spread around. Once the token is transferable, people are going to figure out how to get around the VPN's. It's not that hard. People are going to make it easier for other people to get around the VPN's. Then token is going to be transferable. It's going to come in at some billion dollar market cap and then everyone's going to be fine. People are going to forget about it. And that's kind of my base case."
+    },
+    {
+        "speaker": "A",
+        "text": "So just like super noisy. And you think people are eventually going to be happy? Let me ask you, because there's a lot of charge that if you think like that, you are basically an out of touch elite, or like you are kind of a core investor in the project, or you have some exposure, you have some upside. You're paid to think like that, basically. And. Yeah, what do you say to that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, there's, that's kind of like the base opinion, I would say. It's like, that's the opinion of the community, is that like, anyone affiliated with Eigen Lair or associated with a team or like one degree removed is all of the opinion that, like, the things are."
+    },
+    {
+        "speaker": "A",
+        "text": "You can't have an opinion. I think you can't have an opinion. Okay, so you are a longtime promoter. Like, you're excited about the project."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm a big believer."
+    },
+    {
+        "speaker": "A",
+        "text": "I think that's genuine because I know you and you've been like excited from the very beginning, particularly because of like ETH being restaked monetary asset. Like it checks all the boxes. For what I know about David Hoffman, you are also an advisor for the project as well as I am. So somebody's gonna listen this whole segment and be like, your opinion is invalid. Of course you think that. You are financially incentivized to think that. All right? And, like, so it's worthless. The analysis is worthless. And I just wanna say that because that's the actual mood. That's the mood."
+    },
+    {
+        "speaker": "B",
+        "text": "That's the mood."
+    },
+    {
+        "speaker": "A",
+        "text": "What I think my big takeaway here is there's actually, like, this, in this new kind of, like, Airdrop Meta 2024, there's, like, this dichotomy that has strengthened between kind of, like, what I'll call labor and capital. You know, all the labor and capital battles that, like we've seen throughout history. Right. Of, you know, labor's on one side, they're doing the work, and, like, capital takes all of the proceeds. I think there's, like, you're almost forced into this dichotomy of you are on team labor, which means you are a user, you are trying to, like, be eligible for the airdrop, trying to do the activity that the protocol wants, that that's labor or your capital. You're a developer, you're a project, you're an investor, you're a VC, and they're kind of, like, behind the scenes, and you have to choose one or the other. And it's interesting because I think, like, bankless, you and I have been placed between both. Right? I mean, so, yeah, but, like, because you're on the capital side, you know, and because you're giving an argument on the capital side and your opinion is just invalid here. So there. I think some people will listen to this and just come to that conclusion. Just like, turn it off."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, there's somebody in my replies on Twitter who is, like, the team and the Eigen layer team and the VC's got something like 60% of the total distribution of Eigen. Meanwhile, the community only got 5%, even though, again, 15%. And they say, like, hey, you could just easily take away 5% from the teams and the VC's, and you could double the supply going the community. And that. That's just an easy thing to do. And you could have a massive outsize increase to the community. And I remember thinking some of these very similar, like, sentiments back in, like, 2017, just like when you were on labor side. When I was on labor side. Yeah. And I was like, it's just so easy just to have an outsized benefit to the long tail, to the community. But I also just think that invalidates the risk that investors and the team have also put into Eigen layer."
+    },
+    {
+        "speaker": "A",
+        "text": "That's a very capital opinion, if you."
+    },
+    {
+        "speaker": "B",
+        "text": "David. There have been Eigen layer teams who have been working 40 to 80 days, an hour a week since 2021. There have been Eigen layer investors who actually gave up capital. They put in their capital, just like. Just like how the community put in their capital into the air drop. It's a capital argument."
+    },
+    {
+        "speaker": "A",
+        "text": "It's a capital argument to make that basically, without Sri Rom and the developers."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "It would be zero. There would be no."
+    },
+    {
+        "speaker": "B",
+        "text": "And then the community is, like, Eigen lair is nothing without, like, without us."
+    },
+    {
+        "speaker": "A",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "Eigen layer is nothing without our community and our capital. And then on the flip side of things, well, like, the investors are saying the same thing with their capital, and then the Eigen layer team is saying the same thing with their labor."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes."
+    },
+    {
+        "speaker": "B",
+        "text": "And so it's like this three way, like, standoff between investors, team, and community."
+    },
+    {
+        "speaker": "A",
+        "text": "I agree."
+    },
+    {
+        "speaker": "B",
+        "text": "But the thing is, the community has, like, 80% of the people, 80% of the voices."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure they do. And I think that's what's happening. And at some level, like, the give and take is kind of, like, good. I feel like it's good. I feel like this will equate to situations that everyone is more happy with or. You know what I mean? I think there'll be some give and take. I think there'll be some check and balance. I think it'll. I think it'll work out. But I actually think there's another force here at play. Okay. And I'm not sure how many people see it, which is, like, I think there are genuine. Not use, not users, not people who are excited about this. Individual citizens. I think there are a whole bunch of people that are industrially farming air drops right now."
+    },
+    {
+        "speaker": "B",
+        "text": "They are effing it up for everyone."
+    },
+    {
+        "speaker": "A",
+        "text": "But I actually think that there is, like. It's really hard to perceive, but there's, like, an influence on social media and, like. Like, hiring. You can literally hire swarms of bots to, like, preach a narrative and, like, push it. And then so, so some of the people who are disappointed with the drop and our individual citizens get pushed into that mob. I mean, we've seen mob attacks that play so many times on Twitter, and it's in. It's almost impossible to know how much of that is at play. But it is a third party that is just civil attack."
+    },
+    {
+        "speaker": "B",
+        "text": "It's a fourth. It's a fourth part fourth party."
+    },
+    {
+        "speaker": "A",
+        "text": "Sybil, attacking. Well, there's labor capital, and I guess I don't know what these are?"
+    },
+    {
+        "speaker": "B",
+        "text": "Eigen layers. VC investors community. That's legitimate party."
+    },
+    {
+        "speaker": "A",
+        "text": "I think most people see Eigen layer devs and investors in same their capital. But anyway, so there's this other party that's like pushing their I advantage to."
+    },
+    {
+        "speaker": "B",
+        "text": "Industrial farmers who are like bowling Eigen lair into giving many, many tokens to the long tail. But they are half the long tail."
+    },
+    {
+        "speaker": "A",
+        "text": "You have 100 dresses that you simple detect, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, ten is fine. It's a fine return. But what's better, 2030, 40, 50? As far as that minimum Eigen drop, that's going on too."
+    },
+    {
+        "speaker": "B",
+        "text": "Totally. Yeah. And it's the most undetectable part of this whole thing. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "The last thing I want to say about this is I actually think that's at play. But the biggest thing at play to me is just the delta between expectations and reality. And when there's a delta between expectations and reality, there's going to be disappointment. And I actually think it was impossible no matter what this airdrop did. I feel like it was. The expectations were so hyped, I mean, Eigen restaking this whole thing has grown so fast and so big, that there were so many people expecting something far beyond what was probably reasonable to expect."
+    },
+    {
+        "speaker": "B",
+        "text": "Because just people are trying to retire off of airdrops."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes."
+    },
+    {
+        "speaker": "B",
+        "text": "And it's just not going to happen. The space is too crowded."
+    },
+    {
+        "speaker": "A",
+        "text": "And so that was never going to happen. But because people had that expectation and the reality was like, oh, and I got something that was locked, so I can't sell it. And now you're talking about interjective and like, I don't care about this. And, you know, I wasn't in it for that. Like, I'm just."
+    },
+    {
+        "speaker": "B",
+        "text": "There's a lot of parties around the Eigen lair ecosystem who are very incented to hype it up because, like, all of the lrts are trying to hype up Eigen Lair because that's how they get inflows all the Avss. Like, I'm. I like Eigen Lair because it is a very, like, ethereum centric piece of infrastructure that I think removes the need of, like, the long tail blockchains and puts it all into the same spot. Like, that's my interest in this. And, like, I'm probably one of the main proponents of the whole, like, eigen layer ecosystem. And I've been saying, like, I think Eigen layer, before this, I said, I think Eigen layer could be the number one airdrop of all time. And if you look at the actual dollars of capital that's going to be that is set aside for the community. It is by far the number one airdrop by value sent to 200,000 80,000 address. And so, like, there's some disconnect going on, and it's all just very weird."
+    },
+    {
+        "speaker": "A",
+        "text": "I was trying to convince David to not talk about this at all, by the way, because I don't know that people want to hear these opinions at this point in time, but there you go. There it is."
+    },
+    {
+        "speaker": "B",
+        "text": "We got a meme, David."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, you got a meme?"
+    },
+    {
+        "speaker": "B",
+        "text": "We got a meme. Yeah, yeah, yeah, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, my God."
+    },
+    {
+        "speaker": "B",
+        "text": "This."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes, I've seen this. What are you looking at?"
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so this is a caricature of the Eigen lair token presenting itself to, like, a crowd of communities. And then the community just, like, start just absolutely beating the shit out of icon lair. But then you see in the next stream, you see both layer zero and ZK sync just in absolute fear, who are about to drop their tokens, and they're just living in fear of getting beat up because the mob is going to come for them next."
+    },
+    {
+        "speaker": "A",
+        "text": "Everyone learns from the last one, but I got to say, depending on the time and place you drop it, it's going to be a unique experience every single time. It's almost like you never know. All right, David, moving off Eigen Lair, let's talk about czdhennae. Okay, so his sentence came this week. Tell us, what did he get? How many months or years?"
+    },
+    {
+        "speaker": "B",
+        "text": "Everyone listening, guess how many months CZ is going to jail for. Because if you don't know, it's because you haven't been on Twitter. There's an ancient meme in CZ of him just flashing the four number, and it's his commitment. He spawned this from this tweet where he's always going to remember the fourth list in his tweet that he's going to say, and I can't even remember what one through three is, but four was always, ignore the fud. And so four CZ flashing four has just turned the meme. It's just like, probably Crypto's biggest meme. CZ got sentenced to four months in jail, which is just absolute proof that we live in a simulation. So binance is ordered to pay a $4.3 billion fine in forfeiture. CZ has to pay a $50 million fine, and he is going to jail for a whopping four months."
+    },
+    {
+        "speaker": "A",
+        "text": "This is what he said. I would like to thank everyone for your care and support. Writing letters showing support on Xdev, they mean a lot to me. And keep me strong. I will do my time, conclude this phase, and focus on the next chapter of my life, which is education. I will remain a passive investor and holder in crypto. Our industry has entered a new phase. Compliance is super important and the ends this and says and funds are Seifu protect users, he said. So that's how he's going out on crypto Twitter, at least for this period of time."
+    },
+    {
+        "speaker": "B",
+        "text": "If this is the end of the era of Czdhennae, he never lost a customer, dime finance never got exploited. I think that's true. All funds have been Safu since the beginning of time. So, like, there, there are people out."
+    },
+    {
+        "speaker": "A",
+        "text": "There kept his commitments to the crypto community."
+    },
+    {
+        "speaker": "B",
+        "text": "He made, he made his promises and he kept them. And that is extremely, exceedingly rare."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I will say. I think that, like, crypto is basically treating him as a. Going to jail as a hero."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. At least he's a martyr."
+    },
+    {
+        "speaker": "A",
+        "text": "Certainly not."
+    },
+    {
+        "speaker": "B",
+        "text": "He's going to come out as a martyr for sure."
+    },
+    {
+        "speaker": "A",
+        "text": "This is Eric Voorhees with a related take. Do you know CZ David will be the wealthiest person to ever serve time in a us federal prison? Okay, so that's another record that crypto is setting. Maybe because no bank execs ever go to jail before he's comment and that that is true. I definitely, there's definitely a sense that they are making example out of CZ. This is great. Binance gets a $4 billion fine. That was also 4 billion."
+    },
+    {
+        "speaker": "B",
+        "text": "It was 4.3. If it's 4.3, that one. He's trying."
+    },
+    {
+        "speaker": "A",
+        "text": "All right. He's trying. Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "This one's good. This is a meme from Mike Ippolito. This is a pretty. I think I remember seeing this meme in high school. The original meme is judge says to the victim or the person he's about to sentence, I hereby sentence you to 68 months in jail. And then the person says, whispers to my lawyer. And the lawyer says, my client has requested that you add one more month. So it would be 69 months. But this is CZ saying, I request that you add one more month to my three month sentence so you can make it four months because crypto, Twitter will think that's hilarious. And it did."
+    },
+    {
+        "speaker": "A",
+        "text": "Do you actually think that's what happened?"
+    },
+    {
+        "speaker": "B",
+        "text": "No. No."
+    },
+    {
+        "speaker": "A",
+        "text": "You actually think the universe made it for."
+    },
+    {
+        "speaker": "B",
+        "text": "I think that's why that's a happenstance."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, man."
+    },
+    {
+        "speaker": "B",
+        "text": "I do think that there was negotiation between CZ and his legal counsel and the judge ahead of time for like, that $4.3 billion fine. CZ could have just remained on his yacht, wherever. So maybe the four was negotiated ahead of time and CZ, like, it'd be really funny if it was four months."
+    },
+    {
+        "speaker": "A",
+        "text": "I want to get CZ on the podcast to hear about this after, after he's out. So five months later, David, we got a lot coming up next, Stripe is coming back to crypto in a big way. And also, I want to update you on the tokenized treasury wars. It seems like they're starting and it's little bank on bank action for you. Roger Ver. Do people know who Roger versus people."
+    },
+    {
+        "speaker": "B",
+        "text": "Do not know who Roger Ver is?"
+    },
+    {
+        "speaker": "A",
+        "text": "We got all that and more coming up, but before we do, we want to thank the sponsors that made this episode possible."
+    },
+    {
+        "speaker": "B",
+        "text": "It was rumored last week, but here we are, stripe bringing back crypto payments. This summer, they demoed a platform, their brand new platform, their interface for checking out using stripe. And you have the normal stripe interface, but there's this also paid with crypto button, actually links to Solana. So it's integrated with the Solana blockchain. John Collison, stripes president, says at the Future of Payments conference, transaction settlements are no longer comparable with Christopher Nolan film links. And transaction costs are no longer comparable with Christopher Nolan films. For budget. Stripe is bringing back crypto payments, this time with stable coins, which are a way better experience. So, yeah, stripe getting back together with crypto."
+    },
+    {
+        "speaker": "A",
+        "text": "Are you seeing this on the screen? So what's super cool is in the stripe checkout flow, right? It's connect your walleth. Connect your non custodial wallet, right? And the examples phantom. There's also like the option to, you know, Rainbow metamask, Coinbase wallet, all of this. And that statement that John was making. So, like, for full context of this, stripe has like, entered and exited crypto multiple times over the years. Right? Like, oh, there's hype. Let's go check it out. And they go and they deploy it and they find, like, it's not good for the payments use case. So I remember they integrated the lightning, they like, did all sorts of things. This time it feels very much like stripe is doing something that is sustainable and here to stay based on what John just said, which is fees are super cheap now, and it can handle the transaction throughput. And I think this is absolutely massive. Do you know there are like over 130 million businesses that use stripe today, right."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I mean, this means you can show up to wherever stripe. Like, I use stripe in New York all the time because, like, every single restaurant has it. And that means I can have crypto on my phone. I can pay with crypto on my phone."
+    },
+    {
+        "speaker": "A",
+        "text": "So does all the web. Most of the websites use a bankless citizenship."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, we use stripe, because the Internet just uses stripe."
+    },
+    {
+        "speaker": "A",
+        "text": "The Internet uses stripe. And it is. If you know this, like, a $90 million. Sorry, a $90 billion private company is one of the largest private companies in the world. So it's still private anyway. I just think it's absolutely massive, and it's a testament to how far we've come, because they're trying crypto this time, and they're actually going to stay for it. Pretty cool."
+    },
+    {
+        "speaker": "B",
+        "text": "Not just stripe, but also visa. This is kind of a funny announcement, but Visa has a new dashboard for everyone. If you would like to look at stablecoin, volume and metrics across blockchains and value, Visa actually has a very good dashboard. So this is Kai Sheffield tweeting this out, saying, we decided to partner with allumium Labs to create the visa on chain analytics dashboard to create a closer look at stablecoin activity. So it is just a dashboard, but it's also a very accurate and precise one. And it's. It's done by visa. Pretty cool. And you can actually see in this chart the absolute dominance that is tether. Like, USCC and tether were, like, almost 50 50 with a slight tether lead in the middle of 2022 last year. And now, like, tether is just completely. Just like, gargantuan. It's like a. It's like, three times larger than USDC."
+    },
+    {
+        "speaker": "A",
+        "text": "You're talking. When you say large, you're. You're talking in terms of supply. And that's one metric. But here's another interesting metric, actually, is they're neck and neck. USDC actually briefly overtook tether in terms of stablecoin transactions."
+    },
+    {
+        "speaker": "B",
+        "text": "So, number, I think USDC might actually be transacting more than tether. I think is a transaction. Yeah, it's more than tether is the store of value currency, which is kind of cool."
+    },
+    {
+        "speaker": "A",
+        "text": "But I will tell you, David, tether is absolutely printing money. Printing, printing, printing money. Okay, so this is one quarter of profits. 4.5 billion. 4.5 billion last quarter. Q 124 on that tether trade, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Zero labor in that company."
+    },
+    {
+        "speaker": "A",
+        "text": "Because the stable coin, like, when you hold tether, right, you don't get any of the interest, but tether holds t bills. They get 5% interest. When you got $100 billion of tether out there or more, I think it's about that. Then you get to capture that 5% and it's a darn good business."
+    },
+    {
+        "speaker": "B",
+        "text": "How many employees do they have? Like 2080 is what I was told."
+    },
+    {
+        "speaker": "A",
+        "text": "From holo last time. So yeah, it's pretty good. Pretty, pretty, pretty good margin on that business, David. Speaking of this, look at this. We thought securities, tokenized securities were going to be a big deal. They're almost at a billion dollars."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, wow."
+    },
+    {
+        "speaker": "A",
+        "text": "So they're climbing right up there."
+    },
+    {
+        "speaker": "B",
+        "text": "And black is the on chain boomer index."
+    },
+    {
+        "speaker": "A",
+        "text": "It's pretty cool actually. So we got 800 million in tokenized treasuries out there. And I think there's going to be more. So can I give you some banks."
+    },
+    {
+        "speaker": "B",
+        "text": "And alpha actually about this?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, go."
+    },
+    {
+        "speaker": "B",
+        "text": "You know, what is the actually the surprising interested marginal buyer of on chain treasuries in the crypto ecosystem?"
+    },
+    {
+        "speaker": "A",
+        "text": "Who's the marginal buyer of on chain treasuries? Who projects or something like that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Apparently the demand for on chain treasuries from DAos is really, really strong."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, because they want to last a couple cycles, right. They just don't want to see their treasuries go to like, you know, negative 80% territory next bear market."
+    },
+    {
+        "speaker": "B",
+        "text": "Plus their costs are in dollars. They pay their people in dollars, not ether. And so they have like arbitrum has like arbitrum, arb token. They also have ether. But they also need some dollars, some working capital. And on chain, like build a fund, for example, is like a great tool for that."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And biddle fund. Scott. That's the Blackrock fund. Of course, they've gotten a lot of the like the growth here recently. But this is the bank on bank action I was talking about. Right?"
+    },
+    {
+        "speaker": "B",
+        "text": "So Franklin, really want to say that?"
+    },
+    {
+        "speaker": "A",
+        "text": "I really want to say. I'll say it. Bank on bank. Okay, so bank on bank war."
+    },
+    {
+        "speaker": "B",
+        "text": "Can lil steamy over there?"
+    },
+    {
+        "speaker": "A",
+        "text": "Franklin Templeton, they've been tokenized treasuries for a long time. But they actually have a little app where it looks like individuals. It's called Benji. So they just released this, this week."
+    },
+    {
+        "speaker": "B",
+        "text": "They're offering Benjamin."
+    },
+    {
+        "speaker": "A",
+        "text": "Yep. Yeah. Again, it's Franklin Templeton. Right. Benji. Benji tokens each maintain a stable $1 price. Each token represents a share of the tokenized treasury. Okay. They have 380 million treasury fund. And who can purchase it? You know that this whole thing has been mostly the institutions like, you know, companies, daos, that kind of thing. Well, Benji provides apparently a way for individuals to purchase it. Cool. You get an app, you get your benji as tokenized treasuries."
+    },
+    {
+        "speaker": "B",
+        "text": "Get your bench, get your Benji excited. Pop quiz. Which what dollar bill is the Benjamin Franklin on a hundred. Okay. All right."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm all about those Benjamins."
+    },
+    {
+        "speaker": "B",
+        "text": "I see. Like, Ryan totally knows that."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. I mean, you said last, like, do you say this over the weekend? That I don't listen to Eminem?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I did say that."
+    },
+    {
+        "speaker": "A",
+        "text": "Come on. Come on. I'm real, David."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, back to crypto subjects. Are you done with. Are you done with on chain treasuries? Can I talk about crypto stuff?"
+    },
+    {
+        "speaker": "A",
+        "text": "That was a crypto subject. Where you been? Ave crypto native Aave four."
+    },
+    {
+        "speaker": "B",
+        "text": "So there's a number of big updates in the Aave world coming online with aave V four, a unified liquidity layer, which is the big one. This is the multi chain part of, like Ethereum, Aave is learning to contend with its many different AAve deployments on optimism, arbitram, polygon mainnet is building out using all of the different cross bridging messaging layers, like layer zero and socket and all these different interop layers, a universal liquidity application. So liquidity on optimism and arbitrum and Mainnet all ought to be the same. That is the vision for the AAVE liquidity layer. They also have some new features, fuzzy controlled interest rates. I'm so glad you asked what that was. These are just interest rate curves that adjust both on the x and y axis, so it's just a little bit more rigid. And so, as demand for a particular asset in AAVE increases, the interest rate curves moves higher on the y axis, but the steepness of the curve becomes more shallow, basically a much more dynamic interest rate curve in AAVE protocol, and then also just with increased emphasis of go. So if you want to look at more of the details of the AAVE V four, there's a link in the."
+    },
+    {
+        "speaker": "A",
+        "text": "Show notes down kinkpoint down kink or kink down?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I wasn't going to say kinkpoint, but now you said it, so I."
+    },
+    {
+        "speaker": "A",
+        "text": "Feel like I don't know what that means. No, you don't have to explain it. You don't have to explain it."
+    },
+    {
+        "speaker": "B",
+        "text": "There is an inflection point in AAVE interest rate curve where if you can't hit 100% utilization because then no one can withdraw. So basically, the interest rates goes to infinity as it approaches 100%, but there's a kink point where the interest rates are marginal and then at 90% and goes really, really steep. So the kinkpoint adjusts more dynamically so we can have more flexible work. Token, more flexible thinking in AAvE is tolerant of many types of kinks. Inside of these interest rate curves."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm not going to touch that one. Do you want to hear a headline from 2018 here?"
+    },
+    {
+        "speaker": "B",
+        "text": "Sure."
+    },
+    {
+        "speaker": "A",
+        "text": "Coinbase just added lightning to the Coinbase stack. I'm sorry, Lightning. I'm sorry. All right, so, I mean, this is cool. Maybe it's the context if we just record an episode with Eric Wall, who's kind of a bitcoin builder, talking about l two s, and he basically said, lightning's dead. I guess it's not dead. Maybe that's too mean, David. But anyways, Coinbase is dead. Okay, but Coinbase is now supporting lightning."
+    },
+    {
+        "speaker": "B",
+        "text": "You're still allowed to integrate with permissionless protocols even when they are dead."
+    },
+    {
+        "speaker": "A",
+        "text": "I. Wow, David, I got to give you an update on the war on crypto. You ready for this?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yep."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, so there's three things. The SEC apparently has been trying to make Ethereum a security this entire time. We didn't know it, so they were going to sue Coinbase over Metamask. And now Coinbase is fighting back. Also, there was this weird, ominous warning from the FBI this week, and I want to tell you about that. And the DOJ is. Is the DOJ is attacking the square and cash app. So it's these three things. The first is. So consensus versus the SEC. I don't need to get into all the details because we did an entire episode about this with Joe Lubin. And, like, I think it's a dynamite episode. I actually relistened to it this morning. It was fantastic. But Coinbase is taking the SEC to court to prove in a court system, us court system, once and for all, that ethereum is not a security, that is instead a commodity. And that's really the headline. That's the thing that you need to know. And it seems like from their list of evidence and their court filings, what Coinbase has dug up, all of these things about the SEC actually coming after Ethereum developers themselves, like sending letters to companies that employ Ethereum developers and sending letters, apparently, to individual Ethereum developers. This is all part of a broad narrative that Joe Lubin was painting of. They're trying to cut off Ethereum. This is the us government to us citizens. Right? That's how high he thinks the stakes are. And I got to say, after listening to that episode and seeing what else is going on, it kind of seems like that's what's going on here. Also, same week, just like last few days, the FBI put out this bizarre public service announcement. And I'm going to just tldr it. You can read it yourself if you want to, but it was basically like, don't use unregistered cryptocurrency money transmitting services. Okay. And they reference a FincEn database that shows you if the thing that you're using, the application you're using is registered. And if it's not unregistered, you shouldn't be using it. And they're not real clear on whether wallets are money service businesses or code is. Maybe, maybe not. We don't really know what they mean. They're just issuing a warning to all us citizens to not use unregistered cryptocurrency money transmitting services. Why issue this warning? We don't know, David. We do know that two samurai wallet developers were arrested last week. What? For having a money transmitting services business, essentially. We do know that the DOJ has filed against tornado cash, the tornado cash developers, and called their code, their immutable code on chain, a money transmitter service. All right, so where does this leave us? With a really bizarre and ominous public service announcement from the FBI, basically our nation state's police internal police organization. To who? To us crypto native consumers. I don't know, but this is kind of creepy to me, and I don't like it. And the last thing is, the samurai Wallet co founder, they pled not guilty, so they're going to be released on a $1 million bond. But the indictment against samurai wallet, those details were revealed as well. And the justice. So, again, this is the DOJ. They claim that there's been $2 billion in illegal transactions. Illegal, all of them. Illegal because samurai isn't a registered transmitter. So basically, everything that went through samurai was an illegal transaction, but actually only 100 million was kind of the criminal part of, you know what I mean? So the remainder of that $2 billion was actually probably legitimate. Like, people using this service for privacy. Yeah, for privacy. But, you know, it doesn't seem like the DOJ cares. They're just bundling it all in here, so."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, of course, if you are seeking privacy, you are by definition, a criminal."
+    },
+    {
+        "speaker": "A",
+        "text": "Of course we are in, like, weird times, like bat, like, really bad times. It does feel like crypto is under this full frontal assault. The tornado cash is one a case that we got to watch very carefully. There was more updates this week. We don't have time to get into it, but maybe. Okay, so here's the last one, David, on the crypto wars."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, my God. There's more."
+    },
+    {
+        "speaker": "A",
+        "text": "There's more. Last one, I promise. Square and cash app are now being investigated for processing crypto transactions linked to sanctioned companies, countries and terrorist organizations. So this is Jack Dorsey Square and Cash app. And it's basically similar charges. We don't know the details to what they just busted CZ for. Right. All right. I mean, put all these things together. That's just one week. That's just one week."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm reminded of my favorite tweet from Niraj from coincenter where he says, I'm sorry, your warrantless surveillance regime was based on the fact that you would always have intermediaries in your financial system. Yeah, but they're just finding the next most proximate intermediary. That's not actually an intermediary, but they're finding someone."
+    },
+    {
+        "speaker": "A",
+        "text": "Yep. It's such a chilling effect. David, do the kids know who Roger ver is?"
+    },
+    {
+        "speaker": "B",
+        "text": "The kids do not know who bitcoin Jesus is. Roger Ver is basically the satoshi of bitcoin cash, as in, he was the biggest proponent of bitcoin cash. Okay, I see what you mean. Do you remember the whole crying babies meme?"
+    },
+    {
+        "speaker": "A",
+        "text": "No."
+    },
+    {
+        "speaker": "B",
+        "text": "Excuse me. Dying babies. Yeah. There was like this, like, rant that Roger Bear went on saying, like, there are babies dying because bitcoin is not forking into bitcoin cash and we're not accepting eight megabyte blocks into the bitcoin block. Space."
+    },
+    {
+        "speaker": "A",
+        "text": "Big blocker. Really big block, block."
+    },
+    {
+        "speaker": "B",
+        "text": "Big block. He was the OG big blocker. Yeah. Like, super hardcore libertarian. Indicted for tax fraud. He has accused of failing to file tax returns for the sale of his bitcoin. He, Roger Vera has, like, sub dollar ten bitcoin, and he has a lot of them also. Or bitcoin cash, actually, now that I."
+    },
+    {
+        "speaker": "A",
+        "text": "Think also it's alleged in this. Alleged in this across his company as well, because he's in his companies and like, so he, I guess, fun fact. Or maybe not so fun. I don't know. Depending on your perspective. He actually renounces us citizenship. And when you do that, there's an exit tax. So all of your. It's all of your."
+    },
+    {
+        "speaker": "B",
+        "text": "You have to unrealize capital gains, be a citizen of the United States."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, basically, it's like. So you have a whole bunch of unrealized capital gains. So you bought bitcoin at ten. Now it's appreciated a whole lot more in exit tax taxes. You. As if you sold them all. Like when. When you leave the US, you have to pay that. Nyriss is saying he didn't pay that. So they're. They're like, taking him. They're extraditing him."
+    },
+    {
+        "speaker": "B",
+        "text": "Extraditing him from Spain. To United States."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, there you go."
+    },
+    {
+        "speaker": "B",
+        "text": "Roger, V. That's just some, like, og lore update on some OG lore. Etherscan, that's a partnership with us. So there's some news out of ether scan and bankless this week. You can now find all of your airdrops on your wallet directly through Etherscan, powered by bankless claimables. Pretty cool."
+    },
+    {
+        "speaker": "A",
+        "text": "Look, this is Vitalik's address. You know, bankless told him this is on Etherscan. It's always been, like, by the way, a bucket list item for me to have, like, some product, something that we do be meaningful to Etherscan, because Etherscan is really what made ethereum real to me and crypto real to me."
+    },
+    {
+        "speaker": "B",
+        "text": "Top tier infrastructure."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah, it's top tier infrastructure, but."
+    },
+    {
+        "speaker": "B",
+        "text": "The fact you can't understand Ethereum without Etherscan."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. The fact that you can go to an ether scan address and see, like, all of your assets, that was just, like, magic for me. Anyway, so this is Vitalik Buterin's address. And do you know he's got $7,000 worth of airdrops that he could claim?"
+    },
+    {
+        "speaker": "B",
+        "text": "Should I tell him that?"
+    },
+    {
+        "speaker": "A",
+        "text": "Maybe. I'm sure it's not. Claim your drops."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, you have $1.9 million in your wallet, but you are missing $7,000 of air drops, bro."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, you know, anyone can claim that. The bankless claimables app. Of course, there's always a link in the show notes. David meme of the week. Let's end this. What do we got?"
+    },
+    {
+        "speaker": "B",
+        "text": "This is a throwback of a meme. This is how crypto feels this week. And this is for all the ogs who watched lost way back in the day. I can't remember this character's name, but she's like the preppy girl. And the plane has crashed, and there's debris and fire everywhere, and she's wearing her pink shirt, and she's just very sad. And that's. That's your first crypto cycle. And then four years later, you are sun tanning on a beach in the middle of all that debris and all that fire because you're just used to it. That's. That's what working. That's what working crypto. Psych."
+    },
+    {
+        "speaker": "A",
+        "text": "Is that. Is that the way you feel now? This is your."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, right. Like, you know, mob attack right before the gym. Yeah, it's like a normal."
+    },
+    {
+        "speaker": "A",
+        "text": "Another week."
+    },
+    {
+        "speaker": "B",
+        "text": "Tuesday. Normal week in crypto. Yeah, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "You know, another SEC lawsuit, another couple developers get arrested. Just normally week."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And then you go get drinks with friends and call it a day."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, oh, my God. Crazy times we live in. What a crazy industry. I wouldn't be anywhere else. I don't know about you, though."
+    },
+    {
+        "speaker": "B",
+        "text": "Completely ruined."
+    },
+    {
+        "speaker": "A",
+        "text": "Too much fun. Too much."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm not going back."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, guys, we got to end with this. Of course. Risks and disclaimers. Crypto is risky. You could lose what you put in. But we are headed west. This is the frontier. It's not for everyone, but we're glad you're with us on the bankless journey. Thanks a lot."
+    }
+]

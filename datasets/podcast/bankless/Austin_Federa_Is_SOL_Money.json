@@ -1,0 +1,598 @@
+[
+    {
+        "speaker": "A",
+        "text": "I think as we go into the future, no one can really say what's going to happen here. We all just need to figure out what are the best defense mechanisms to prevent the sort of bad scenarios from happening that we don't want to have happen."
+    },
+    {
+        "speaker": "B",
+        "text": "Welcome to Bankless, where we explore the frontier of Internet money and Internet finance. And today on the show, we've got some bonus content for you. Bankless Nation, an episode diving into the nature of soul, the asset, and the economics of Solana, the ecosystem. We haven't done too much Solana content on bankless before. So little. In fact, I'd say that it's actually kind of a meme that banklist just doesn't produce Solana content. We've had Anatoly and Raj on once to discuss the Solana phone. We had Anatoly himself exclusively on earlier this year post FTX collapse to give us the Solana story. And then I also went on the validated podcast, which, shorthand is just the Solana podcast, hosted by Austin Federa, the guests on this episode. So that's the entire spectrum of Solana content coming out of bankless. But on this episode, we're having Austin Federa on to discuss the design philosophy that relates Solana, the network, to Sol the asset. And it's really Sol the asset that has been the thing that has hung up me and Ryan the most while trying to understand the Solana ecosystem. The investment thesis behind Sol has never really been salient to us. If you know the bankless thesis, you know that we think that there are very strong technical bonds between the design architecture of a layer one and the nature of the native asset that it produces, and tinkering with the properties of one impacts the properties of the other. We think that a layer, one that prioritizes decentralization and censorship resistance at the base layer produces downstream strong store value properties in its native asset, where a high throughput layer one, for example, sacrifices the hardness of its money by compromising on its issuance schedule and the properties of censorship resistance. This has always been the bankless thesis that has guided us in our investing and our content. It makes sense to us. So it's the frame of reference that guides our thinking across other areas, and it's how bankless has gotten the brand of being an Ethereum podcast. Even though we're not. We're just a bankless podcast. We've got our theses. It happens to line up with Ethereum, and therefore, for all intents and purposes, we're an Ethereum podcast. I see how people come to that conclusion. Sometimes, though perhaps most of the time, the Solana community doesn't accept that. And bankless is a subject of a lot of hate out of the Solana community. And it's also impossible to tell what signal and what is noise here. Crypto tribes gonna crypto tribe and the loud members of tribes often just drown out the quiet and contently satisfied parts of crypto. But nonetheless, Austin has always been a treat to converse with. If you haven't listened to my episode with him on his podcast, validated, I highly recommend it. If there are any listeners out there who have been following my path through crypto ever since my POV Crypto podcast days, my podcast before Bankless. These conversations with Austin feel a lot like my conversations with DK, my old Bitcoin co host, which is where a lot of early development of my thinking in crypto began. And like bankless, where both me and my co host learning and content producing in tandem, which is what I think that you will experience here with this episode with Austin about Solana and Sol the asset. So without further ado, let's go ahead and get right into that conversation. But first, a moment to talk about some of these fantastic sponsors that make this show possible, especially bankless nation."
+    },
+    {
+        "speaker": "C",
+        "text": "I would love to introduce you to Austin Federa, head of strategy at the Solana foundation, host of the validated podcast, where Austin and I not too long ago went back and forth on some of the cultural and philosophical differences between the Solana and Ethereum projects. Today on the show, I want to continue that conversation with a focus on the native assets behind these two ecosystems, EtH and Sol, with a specific focus on Sol. Of course, because the rest of bank list focuses plenty on ETH, because the focus on Sol, I think I would say, is the biggest hangup that both Ryan and I have about being able to integrate Solana Soul as an investment thesis. What actually is Sol? I don't actually know the answer to that question, and so hopefully we can start to get around the contours of what Sol actually is here today. Here today on the show with Austin's help. Austin, welcome to the show."
+    },
+    {
+        "speaker": "A",
+        "text": "Hey, thanks for having me on. This is going to be fun."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So, Austin, that was my preamble, and we did a show on the validated podcast, which, if any bankless listeners out there is looking for the intersection of Solana and Bankless, that would be the show to listen to. And Austin, I had a ton of fun in doing that, and I think we can just keep on going with that conversation, like I said, specifically with the focus on the native assets behind these ecosystems, I think there's a very deep integration between culture and asset in this space. And that's one of the cool things about programmable money, is you can program values into your assets. I want to know, from your perspective, what is programmed into Sol the asset. Sometimes I speak in these words, and I'm not sure everyone totally understands, but I think you totally do. Are you ready to get into this conversation?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, let's do it. I mean, I think one of the analogies that helps people sometimes is the architecture of a network is sort of thought of as a city zoning. That New York is very different than San Francisco for many reasons, but one of them is literally just what the zoning is of different parts of the city and what you're allowed to build there, and what the sort of innate characteristics that these rules and framework set up. That's a pretty good analogy for non technical people, for blockchain architecture. That the architecture bitcoin is based on allows a very different set of things to be done on that network than what can be done on a network like Solana or Ethereum."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure, sure. And any longtime bankless listener will know that Ryan and I have developed, like, models over time. And one of the big stories of bankless, it runs in parallel with the story of Ether. Cause ether in 2017 is not the ether of today. It had a story arc. We had to truly fight for the understanding of ETH as money, ETH as collateral, ETH as like, triple point asset, which now is ultrasound money. And this was a story arc that's developed. And would you say that the soul token is going through a similar story arc? Because that's my frame of understanding for these things, and I'm wondering how to think about the story arc of solely asset."
+    },
+    {
+        "speaker": "A",
+        "text": "So I want to get into that. I think one of the things that's useful, sort of like, just a quick overview of, like, what Solana is trying to do from, like, a network architecture perspective."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure."
+    },
+    {
+        "speaker": "A",
+        "text": "So the thesis of Solana originally was basically Nasdaq at, or blockchain at Nasdaq speed, right. Was the idea that you could build one global state machine that was going to be as fast as traditional financial markets. And it was a pretty narrow thesis in the beginning. There wasn't sort of nfts involved, there wasn't sort of social tokens, there wasn't all this other world that we now consider the broader part of web three. But that core thesis was that ethereum was right about one very important thing. Everything is better in one global state. And when you start fracturing the state up into side chains and l two s and sort of like even the approach that near takes with sharding, you reduce the developer experience, you hurt the user experience. And that if you can keep things in one global state, that is better. Now, there are downsides of keeping things in one global state, right? It's an ethereum node is a very light operation. It's computationally very easy to run. It's bandwidth wise very easy to run, because ethereum only does about 20 things per second. And so that is a decision that's made to keep those requirements super light. Solana. The requirements are heavier, right? It takes about $3,000 of hardware to run a validator on Solana that will keep up to the tip of the chain. What that also lets you do, though, is things like keep one global state and have a steady state of 4000 transactions per second. And so these are all just different architectural decisions about how to do things out into the future. I have a whole bunch we can talk about, about how ETH is actually going to get much heavier and much more difficult to run, especially as we start talking about tracking l two s and rollups and getting a full state of Ethereum. If now, as you've said yourself, if Ethereum is optimism and arbitran and Hermes and all of these other types of things, you suddenly need to run six 7812 nodes to actually get a full snapshot of the state of Ethereum. But just to sort of start out, that's kind of the basic grounding principle of Solana, is that keep the network as fast as possible, keep the cost of transactions as low as possible, and sort of the, the model that Ethereum has gone for of sort of artificial scarcity on the base layer, and then offloading the scaling onto l two s and roll ups and sort of things like that. The design decision on the Solana network is to flatten that into one stack, and this flattening goes even further. Right? So on Ethereum, you have the EVM and you have Nakamoto consensus that run beneath it. Like if you look at the stack, there are two separate layers there. That is part of why if you run geth locally, you max out at about 400 tps. Like, there's limitations there that are from a software architecture, not necessarily a network architecture perspective, Solana flattens that into one layer. So the VM and the consensus layer are basically all running in the same spot. One of the trade offs of that is if you have a crash in the VM, you're going to actually have a crash in the consensus protocol. Whereas what you saw with Ethereum is when the VM crashed, for lack of a better term, earlier this year, twice the network was actually able to continue. Now it couldn't reach consensus. They couldn't finalize transactions for an hour or so. But that was a totally different type of experience than what you saw in Solana in 2021, where you'd have an outage, where it wasn't a finality problem, it was a block production problem."
+    },
+    {
+        "speaker": "C",
+        "text": "Now, how does all of this architecture start to couple with the conversation of the nature of the layer one asset?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So if you go back to, gosh, even 2020, there was no burn mechanism in Ethereum. Right. That whole idea that the way Ethereum was going to deliver value over the long term was it was going to implement specific economic policies designed to create deflation. Right. It was designed to reduce supply over time. That was, what, four, five years into Ethereum mainnet."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, the proposal was made in 2019. So, yeah, four years."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah. So that was very long into the main net. Now we're basically four years into Solana. Well, less than four years into Solana. Mainnet. It was March of 2020 that Mainnet launched. So there is this sort of thing where we're seeing a pressure on all networks to accelerate. Right? It took ten years for bitcoin to get to the place that it got to Ethereum, got there in maybe four or five years. These networks need a little bit of time to figure out what are the innate characteristics of the network and what are the economic models that in some ways get backed into the value of where that network comes from. Now, a good analogy here, and I really don't mean to offend any Ethereum folks with this, is there is a time and place where the way software was sold was ten to $50 million contracts with massive companies. These were contracts by IBM, these were contracts by Sun Microsystems, they were contracts by Oracle. Suddenly this crazy thing came along, which was cloud and software as a service. And it said instead of signing a 50 million deal with one company and becoming the provider for X or Y or Z company, we can actually sell slack. We can sell it to hundreds of thousands of companies all over the world, and it'll cost $10 a month. And in aggregate, we are going to actually have a much larger market and potentially a much higher profit on that than you get from this traditional contracting model. That didn't kill Oracle, that didn't kill IBM. Oracle is still around today. The stock is still a pretty good performer. There's tons of people who are employed by that company making lots of money. Ironically, I believe Amazon still runs on Oracle as its backend database for its store because these migrations are hard and people know the systems they know, and that works great. But this is a little bit of an analogy for what we might be seeing in the blockchain space too. That the rise of Amazon Web Services and cloud providers didn't kill Oracle. It just created a whole new product category where the needs of those types of products and services are very different than what you can necessarily build with Oracle. And we could see a world here where Solana's cheap transactions and massive throughput that ends up being something very similar to SaaS for blockchain, where on an individual transaction basis, yes, the fees are minuscule, but when you have 100 million people per day transacting on the network, which to be fair, no blockchain has anywhere close to that today. But in that future, where you accelerate out and you say, okay, we're going to see priority fees, we're going to see basic transaction fees, and we're going to see network capacity increase to a point where you have functionally similar economics to ethereum on an aggregate level. But the individual microeconomics are very different."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so how we get there is different, but the resulting conclusion is the same?"
+    },
+    {
+        "speaker": "A",
+        "text": "Potentially, yeah. I mean, there's one other key piece of sort of utility for soul introduced in the last twelve months, which is this idea of stake weighted qos. There were three pieces of tech that were shipped over the last year and a half to really address some of the reliability issues. One pretty boring quic, it's just a new networking standard, as opposed to using raw UDP packets to send data around the network. The advantage of quic is basically it lets a validator say this IP address is spamming me, I'm going to close the socket connection, which is not something you can normally do on UDP. The other one was these local fee markets. And that's kind of one additional area where you see changes in economic value on the Solana network, because now suddenly you don't have an incentive to send 10,000 spam transactions. You can just pay 10,000 times as much for the transaction and be pretty sure you're going to land that arbitrage. Basically, this was kind of addressing what ETH went through with Shanghai attacks back in whenever. That was a long time ago, where someone just basically bought up all the block space."
+    },
+    {
+        "speaker": "C",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "The last one is this stake weighted Qos. And what this does is it's basically a guarantee for quality of service. This is if I'm running a node that is 0.1% of the stake of the network on it, I have basically the right to transmit 0.1% of the blocks. And this is not necessarily on, like normally, right? You'd say on ethereum. Well, if I control 0.1% of the blocks or of the stake, I'm going to be building 0.1% on the blocks. So from that perspective, stake weighted Qos is basically a guarantee that says every block I have the right to put in my stake weight worth of transaction. Now, I don't have to do that, but if there's controversy around what fits into a block, my transactions coming from my validator, which is stake weighted, is going to outpace your transaction coming from phantom, going through a public RPC with no stake attached to it."
+    },
+    {
+        "speaker": "C",
+        "text": "Mm hmm. All of these things that you're describing seem like the marginal utility of soul rather than like, the base. Right. These are like extra little add ons that do impact the economics, but only in more extreme situations or more marginal situations. And so I think we've actually accidentally skipped to, like, the long tail of soul token economics. Let's start with the base. Like, the very simple questions of, like, what does soul do? Why do? Will people buy it? Why will the price go up? Because the ether model for this is the triple point asset, or ultrasound money. What is that for Sol? What is the economic sustainability model for Sol?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. It's very similar to Ethereum in the sense of the utility of the sole asset as a civil resistance mechanism. The same way in any proof of stake network, that why you have stake and then is to pay transaction fees on the network."
+    },
+    {
+        "speaker": "C",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "Those transaction fees on Solana take two components. One is a base layer fee, which is 5000 lamports, which is quite low. It's like $0.0025."
+    },
+    {
+        "speaker": "C",
+        "text": "What's a lamp? Or is that like a way for."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it's a subdivision of a solar."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, cool."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it comes from Leslie Lamport, the computer scientist."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay."
+    },
+    {
+        "speaker": "C",
+        "text": "For completion sake, Wei comes from Wei Dai, who's a cryptographer. So, like, you know, we got nerds here."
+    },
+    {
+        "speaker": "A",
+        "text": "All of the people who were originally involved in all these networks are just massive nerds who love every blockchain. But the fundamental point of the sole token is to pay gas fees on the network and to help secure the network from a civil resistance mechanism. That's it. That's the base structure for any l one. It's not like Polkadot, where you use it to reserve state or something along those lines. It's very similar to Ethereum and that fundamental architecture."
+    },
+    {
+        "speaker": "C",
+        "text": "Can you just, like, map on the triple point asset thesis onto soul and then change the economics? Right, like the unit economics. But really, the triple point asset thesis does map to Sol pretty well."
+    },
+    {
+        "speaker": "A",
+        "text": "It does if you believe that blockchains are going to be higher demand than they are today. I think one of the things that the Ethereum community and the economic modeling did very well is they basically created a system that said, we don't really need much more adoption of Ethereum for the effects of deflationary pricing to take effect. Right. Ethereum has always had about a one and a half percent inflation rate. That's just like since Genesis Solana's inflation rate began at around 7%, and it decreases by one and a half percent every year until it ends at that sort of steady state of one and a half percent. Right. And so, you know, from that perspective."
+    },
+    {
+        "speaker": "C",
+        "text": "One and a half percent in a vacuum, as in without any transaction burn from demand, or is it always just okay, okay, so if no one is using the Solana blockchain, it inflates at 1.5%, assuming it's building blocks."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. Right. As long as long as the network is building blocks, there will be inflationary rewards distributed the same way on Ethereum. If everyone stopped using Ethereum, it would still produce one and a half percent of inflation per year."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, okay. And then, so then whatever burn is on top of that, 1%. One and a half percent."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly. Now, today I think it's closer to, like 6% just because it's on a, it's on a schedule where it steps down."
+    },
+    {
+        "speaker": "C",
+        "text": "But what was the schedule of that? Once per year, it dropped one and."
+    },
+    {
+        "speaker": "A",
+        "text": "A half percent per year on a fairly linear decrease. Basically, it's adjusted automatically at the end of every epoch, which is a three."
+    },
+    {
+        "speaker": "C",
+        "text": "Year, it's not a bitcoin happening event, it's much more smooth."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah, exactly. Because, like, the happening is like, you know, look like, so no one knew what they were doing when we made bitcoin, but, like, it is, it is just like such a big media enterprise for no reason, right? Yeah, I will say that, like, it's probably pretty good pr and like, I don't know, maybe more networks should think about having big splashing moments to talk."
+    },
+    {
+        "speaker": "C",
+        "text": "About every four years."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly. Besides ordinals. But as we step through this process, the thesis of Solana is that blockchains are going to be incredibly widely used, and if that's the case, that the base layer transaction fee needs to be kept very low. And so even when you saw the price of Sol hit its all time high, the cost to transact on the network was still extremely low. And a lot of that original economic modeling of what is a cost per transaction was actually based on much lower numbers. The original economic modeling was in a one to ten dollar range for a price of soul. I don't think most people thought that these networks were going to pop like they did, and the user adoption was going to come and we'd have thousands of developers building stuff on the network in 2021 that new to when the network actually launched. So as you go through that process, all of this has to compound over time. You need enough demand for block space that you actually need a network like Solana. We're seeing that already today in that the developers who chose to build on Solana in 2020 and 2021, and to some extent 2022 as well, they couldn't build what they wanted to build anywhere else. It was technically impossible to build it on another blockchain because the speed and performance wasn't there."
+    },
+    {
+        "speaker": "C",
+        "text": "They were specifically just building applications that needed the massive speed that Solana can provide."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And that is not to say those applications are better or worse than the applications you see on Ethereum."
+    },
+    {
+        "speaker": "C",
+        "text": "It's just the nature of them, it's just very different."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. Uniswap is built for large trades. Uniswap is more expensive than Coinbase and more expensive than any other centralized exchange. If you're trying to do 100, $200 now, if you're trying to do 50,000."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, it's not Uniswap that is more expensive, it's the Ethereum blockchain that makes Uniswap more expensive."
+    },
+    {
+        "speaker": "A",
+        "text": "But from a user perspective, it's no different."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure."
+    },
+    {
+        "speaker": "A",
+        "text": "Right, the economic."
+    },
+    {
+        "speaker": "C",
+        "text": "But the Uniswap on any layer two is going to not have the gas fees, totally, of Ethereum."
+    },
+    {
+        "speaker": "A",
+        "text": "Layer one, well, maybe, we'll see. But the question there is, when you start fracturing the state, is there enough liquidity on Ethereum, on a layer two built on Ethereum with a Uniswap deployment? If we have 14 versions of Uniswap deployed across a bunch of different op chains, a bunch of different roll ups, there's one on Polygon, there's one on fill in the blank, you've suddenly taken your liquidity and you've had to fracture it. And if you're shuffling liquidity back and forth via bridges, that is either time consuming, transaction consuming, because most of those still clear through the l one, or, and you also introduce a lot of trust assumptions into the mix there. So it can work, but it's just a much more complicated architectural system to get it there. Right. That's sort of the pitch and value of Solana is that you can do this all in one l one. And that's not to say the stuff you're, again, not the stuff you're building on Solana is better or worse than Ethereum, but, like, you can't do helium on Ethereum. It's just too expensive and there are not enough transactions."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure."
+    },
+    {
+        "speaker": "A",
+        "text": "And that's just a different architectural system. You don't have central limit order books built on Ethereum. L one, you have DyDX, which went to cosmos for it. Right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Yeah. Okay, so in the triple point asset thesis, it's collateral is one pillar, one of the three. The other one is the burn, which we've talked about. And the other one is staking yields, which we've talked about. I think we can just strike collateral because I don't think there's any differences between ether and solon on their respective networks about collateral. I don't think I. The network architecture of these things change the nature of collateral inside of these systems. So these things are kind of like going to be the same out of the box, correct?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think the only difference is that there's less of a single player in the liquid staking market on Solana."
+    },
+    {
+        "speaker": "C",
+        "text": "That's where I was going to go with next with yield. And so how is the LSD ecosystem on Ethereum? I don't know if we guys call it LSD is on Solana, but like, yes. Okay, so, like, what does the LSD ecosystem on Solana look like? Is staked soul going to be as strongly permeated as staked ether is assumed? It will be on Ethereum."
+    },
+    {
+        "speaker": "A",
+        "text": "So let me start by kind of a little bit of a scene set for Ethereum. There's a few architectural decisions that I think were largely economic decisions on Ethereum that pushed folks into things like Lido. The first is a requirement for 32 ETH to be able to stake. Also, if you have 33 eth, you couldn't stake that last one unless you went through a liquid staking system. Right."
+    },
+    {
+        "speaker": "C",
+        "text": "There's also now an EIP that changes this, that eventually it's going to get approved."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. But like on Solana, you can create a stake account that has one sol in it. Right. And so what that means is that."
+    },
+    {
+        "speaker": "C",
+        "text": "Initially with your $3,000 of hardware, or."
+    },
+    {
+        "speaker": "A",
+        "text": "Is that Delaware or with someone else's."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, right."
+    },
+    {
+        "speaker": "A",
+        "text": "So again, Ethereum, like the term validator on Ethereum, is not actually a validator, which is 32 bundle. I mean, someone screwed up the language. It could have been everyone else too, the whole industry. I know, right? If you go to like Nodewatch IO, or one of those websites, you can see there's about 7000 physical computers around the world that are actually Ethereum nodes, validators in the way that everyone else calls a validator. Sure. So the analogy here is like on Ethereum, a validator is actually a stake account. And those stake accounts have to be 32 eth on Solana. They can be any size, like they can on many proof of stake networks. So there was less of an economic incentive in the early days to go with a liquid staking protocol as opposed to just saying, oh, I'm going to stake to the bison trails validator. I'm going to stake to the block daemon validator, the bankless validator. Fill in the blank there. Today there is actually a stake pool contract, which is the one that most folks on the network use. And then there's a whole bunch of different liquid staking providers. So Lido is on Solana. Marinade is something called MSOL. There's jitosol, which is a mev optimized, basically stake pool. And so there's a pretty robust liquid staking ecosystem today. There's a little bit of fractured liquidity because of the withdrawal periods being like three days on that stuff. But there's a group, unstake it that are actually doing a common liquidity layer for all of liquid stake tokens on Solana. So I think we're getting to a place where the ecosystem on Ethereum is a little bit more robust, but you're seeing the same sort of system develop on Solana, but it is developing in a little bit of a different way because, again, the network architecture has different advantages and disadvantages."
+    },
+    {
+        "speaker": "C",
+        "text": "Right, okay. But the resulting conclusion is you still have staked Sol, and staked soul will be collateralized in Solana's defi applications in the same way. Like staked ether, rocket pool eth is staked in Ethereum."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly. There's actually programs now that you can say, I have a stake account that has, let's say, 100 sol in it, I'm going to transfer the authority on that stake account to a stake pool, and it will instantly mint me the equivalent of that liquid stake token. I don't have to unstake and transfer. I just have to reassign authority on who owns that stake account."
+    },
+    {
+        "speaker": "C",
+        "text": "So that would be like, if I have a 32 eth node that I'm solo staking, and then I, like, sign it over to lido or rocket pool, and all of a sudden, that protocol mints me reth or stake to ETH in return."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. It's a very, very similar architecture to the way Ethereum works from that perspective."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, cool. Okay, so that's the stake to eat conversation. I want to talk about MEV, because MeV and then Mev burn is, like, a pretty strong part of ether economics. So is there a philosophy that Solana has about how it approaches MEV and how it wants that to impact or not impact the sole asset?"
+    },
+    {
+        "speaker": "A",
+        "text": "So Jitto is the group that has built the MEV client for Solana. They have done a bunch of work to basically build a relayer and all that sort of thing with a bidding system where it's very similar to what flashbots does on Ethereum. For that perspective. As an aggregate number of transactions, though, the MEV on Ethereum is actually pretty small. It's usually single digit percentage of transactions that are actually getting searched and getting chosen and getting packed. That's partially because of the transaction costs that you need a larger delta for that to be possible. You see the MeV bots on Solana going after, like, two dollar opportunities because the transaction fees are so low."
+    },
+    {
+        "speaker": "C",
+        "text": "Right. They have to. Right. Mev on Solana versus MeV on Ethereum, it has to be so much harder because the blocks go so much faster and the margins have to be so much slimmer. It's got to be a much more fierce competition on Solana. Correct."
+    },
+    {
+        "speaker": "A",
+        "text": "It's actually even worse than that because we don't have a mempool. So it's not even like there's this big pool of potential transactions you can pull from to pack. You have to actually, basically, it's much more close. Like, MeV is sort of like fishing in a barrel on Ethereum. Right? It's like you can see the fish and you can go in and you can grab it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. High school students are collecting mev right now."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah, exactly. Like on Solana, it's a much faster process that's kind of more equivalent to, like, a bear trying to grab a salmon out of a stream."
+    },
+    {
+        "speaker": "C",
+        "text": "Right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Like, it's a little bit more like."
+    },
+    {
+        "speaker": "C",
+        "text": "The high frequency trading. Exactly like the flash, the original flash boys stuff."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. And so it's much harder to do. The opportunities tend to be very non consistent. Right. You will, you will see times when there's a very small earnings for a day or two and then it spikes up because there's lots of market movement or something like that. It's much more dependent on market movement or other on chain activity than it is just sort of your steady state. Oh, here's a bunch of people trying to do something similar. If I order them correctly, I can make some profit off of that."
+    },
+    {
+        "speaker": "C",
+        "text": "So the Ethereum philosophy, or just approach stance towards mev is eliminate it, do your best to suppress it, do your best to democratize it. Obviously everyone knows it has realized that there actually is no eliminating mev. You can only push it to a different place. Correct. But the place that we want to push it towards the philosophy of Ethereum is into ether the asset, because it's perceived that ether the asset is actually one of the most decentralized components of Ethereum. Rather than letting one central party own the mev stack, like capture mev and own it themselves, and they are just the mev service provider of Ethereum and their jump capital, collecting all their mev. No, you take it from the large players and democratize it by just putting it into ether the asset. And the holders of ether the asset, again, the most decentralized component of Ethereum are actually the party of people that benefits from this. Does Solana have some sort of philosophy or strategy as to where it wants MeV to go or what is the end destination of Solana Mev?"
+    },
+    {
+        "speaker": "A",
+        "text": "I think that's a slightly rosy interpretation of what happens on Ethereum. There are still like one of the core principles of blockchain is british self interest. Economic forces drive good results for everyone. And so there's definitely still a lot of people on Ethereum that are doing MeV that is not sort of as a public good, but as a personal enrichment activity. Right."
+    },
+    {
+        "speaker": "C",
+        "text": "This is like the long term desire and, and with appropriate mechanism design, this is where it goes. Like, we don't have MEV burn yet, but in the final conclusion, this is like what the Ethereum stance towards MeV is."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I'm skeptical if we'll get there just because human interest is to steal as much as humanly possible. And so you have to like that. Like one of the really interesting things about just as a slight deviation on the Ethereum community is there's a lot of folks who hold a ton of ethere who are very actively involved in building things like the MEV infrastructure. I am skeptical that that's going to survive Ethereum going mainstream, that you're going to have like the same way that you may have people now who are like, I'm running these searchers and what I fundamentally care about is ether, the asset going up because I have 100,000 eth on a wallet somewhere. Eventually that economics are going to change. You're going to have new people coming in who are basically like the equivalent of the people who sell you gadgets on Instagram that are like, I don't have a storefront, I don't have this backhaul legacy of ETH in my wallet that I can use to, that I'm trying to enrich. I am personally trying to accrue as much money ether, USDC, whatever. We're talking about this moment as humanly possible. And so I'm skeptical that that economic system is going to work in the next bull cycle when we see a large expansion of the number of users of blockchain. But we will see. So on Solana approach for democratizing this is stake weighted qos. That is the counterpoint to MeV. Like on Ethereum, the only way that you can be guaranteed that your transaction is going to be included in a block is to be building the block yourself. Right? On Solana, there is this approach with stake weighted qs that says if you're a Defi application and you decide to run a validator and you have 0.1% of the stake, that may be enough to make sure your most important transactions and your most important users are always able to be included in a given block. And so that's sort of that counterpoint there. The MEV clients on Solana are all sort of open source, and about 27% of the network is actually running on the Gito client nowadays. So there's a pretty serious percentage of the network that is actually using this stuff on a daily basis now. But the way it works is I opt my validator into being a part of this. There's rewards based partially to that. But the answer, instead of driving value back to ether like you're talking about over the long term, this is where something like Jito soul comes in, which is a stake pool token, where you're basically saying, I'm going to give you my stake, and then in exchange for that, you're going to give me a significant portion of your MEV revenue in addition to the normal staking rewards you'd receive."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so instead of it being burned and going into ether, the asset, it is just directed into this one particular Sol LSD token."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it's sort of like if Lido decided we're going to run MeV clients on all of the validators that we run for Ethereum, and then we're going to take those returns and bring them back. Now I actually think that's probably much more likely to be what happens in Ethereum than people are like, I'm a good samaritan, I'm just going to return it back to the network because I haven't seen a good proposal on how you can enforce MeV burn. Because it's not protocol level, it's application level. But maybe we'll see that in the future."
+    },
+    {
+        "speaker": "C",
+        "text": "No, MeV burns at the protocol level. It's got this mechanism of an implied oracle that can tell the Ethereum layer one exactly how much MeV was extracted and how much MeV needs to be burned in order to make that block valid."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, but that's still functionally an off chain system analysis. Right? I think that's kind of the piece that I'm skeptical. Every time we bring in oracles, those."
+    },
+    {
+        "speaker": "C",
+        "text": "Are like, it's not an actual oracle, it's an implied oracle. It's a market derived number that I can say is an oracle because it's external data coming into the Ethereum layer one. But it's not actually an oracle in the same way that Chainlink is an oracle. Total implied one."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, but it's like how eth slashing can do up to six. Like there's a six month lag up to in terms of like a slashing event, and that gives room for human intervention. Right. That's not because it takes six months to compute whether a slashing event occurred. So I think we'll see. Right. Is the answer here. Now what we could potentially see is that like the council of people who, the brain trust of Ethereum basically says we are going to socially punish people who are not burning Mev. Right. By saying, we know your accounts, we're going to actually ensue a social consensus burn or slashing of some of your tokens."
+    },
+    {
+        "speaker": "C",
+        "text": "I think that would be a massive violation of the Ethereum social contract. I do not think that that would ever happen."
+    },
+    {
+        "speaker": "A",
+        "text": "I also don't think it would happen, which is why I'm not sure we're going to see Mev returned either. But only the future will tell."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so this is falling into the category of people who are making claims that Ethereum won't actually execute the proposal that it's saying that it will execute, which usually if you say that Ethereum is going to be late, you'll be right. But if you say Ethereum's never going to do it, you've never been right. Bitcoiners betting against Ethereum shipping the updates that it's saying that it will have never been right."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm going to challenge you a little on this, because what I would say is Ethereum ships updates. They're very often not the updates that they say they're going to ship."
+    },
+    {
+        "speaker": "C",
+        "text": "If you want to specify in very granular details, hey, you promised this, but we got this. Then, yes, there's differences there. If you go back to the beginning of Ethereum and also understand the Ethereum again, like philosophy and purpose and generalized architecture, rather than the granular details, everything that Ethereum has shipped is 100% in alignment with its original roadmap. I don't think that's a hot take."
+    },
+    {
+        "speaker": "A",
+        "text": "So you go back to fall of 2020. The architecture of ETH two was supposed to be shards. It was supposed to be. Exactly."
+    },
+    {
+        "speaker": "C",
+        "text": "And now we have roll ups which execute those different, but also the same."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, so this is where, like, they're different and also the same but also kind of worse, right? Because a shard and executional layer shard. So the original vision, right, in, like, in 2020, like that white papers were coming out about people were writing about, was basically that we were going to have, instead of one beacon chain, we were going to have multiple shards. Each shard was actually going to be able to run and execute smart contracts. Every 20 minutes. Those shards would sync up, and you'd basically get a global state checkpoint every."
+    },
+    {
+        "speaker": "C",
+        "text": "20 minutes, which is like a step closer between what Solana is and what Ethereum's roll up centric roadmap is like. It's a middle gram between these two things for bankless listeners, because we haven't talked about the roll up, the sharding roadmap to Ethereum in forever, because we've moved on from it. But think of roll ups like arbitrum, optimism, polygon. Think of those as actually being enshrined in the Ethereum layer one. And each of them are execution shards, and they're actually more controlled by the actual Ethereum layer one protocol, rather than being controlled by these layer two teams with independent choices. And so every single execution shard is like a roll up. And then the Ethereum coordinating beacon chain just forces consensus between these two. Enforces is probably a better word, enforces coordination between these execution shards every 20 minutes. And so these roll ups all sync together every 20 minutes. But we went even Ethereum progressed even more in like a laissez faire way where they say like, you know what, we can just have one chain, we'll stop with the execution charge, and we can just let rollups be these execution environments that can move asynchronously rather than synchronously."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. Now what I would say is that there's a real compromise on decentralization that took place. That original vision would have kept Ethereum just as decentralized as it was on a proof of work system. Every l two is highly centralized. Every roll up is highly centralized."
+    },
+    {
+        "speaker": "C",
+        "text": "The Solana ecosystem would love for this to be true."
+    },
+    {
+        "speaker": "A",
+        "text": "It is true. You can't run a permissionless layer two system. You can't."
+    },
+    {
+        "speaker": "C",
+        "text": "Categorizing this is one of the things that Ethereum critics will say is true about Ethereum, but will also not give credit for the fact that Ethereum has never failed to execute on its roadmap."
+    },
+    {
+        "speaker": "A",
+        "text": "These are two different things that you're talking about, and I get why you're trying to bring them together. But if we look at a world where eth two had actually done like l one native roll ups, we wouldn't have a bunch of l two tokens that have no economic value in existing, right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, that's not true either, bro."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm sure you would, you would have."
+    },
+    {
+        "speaker": "C",
+        "text": "You would definitely have the tokens, but they had totally have economic value. Sequencer fees, man. Sequencer fees."
+    },
+    {
+        "speaker": "A",
+        "text": "Sequencer fees are paid in eth, right? That's two that layer twos, you could have every l two just have fractional transactions in Ethereum. That would mean you wouldn't need all these different tokens every time you want to be on a different roll up or different network. You could just use ether everywhere."
+    },
+    {
+        "speaker": "C",
+        "text": "I wait for optimism. Polygon, arbitrum. The only gas token that you need the layer two of is starkware. And it's like the most Ethereum unaligned layer two of the ones I just mentioned."
+    },
+    {
+        "speaker": "A",
+        "text": "It's also the only one that allows you to run a permissionless node."
+    },
+    {
+        "speaker": "C",
+        "text": "But yes, because they have the benefit of having to be, they can get to create their own ecosystem from the ground up. All of the permissionless validation network participate. Like, arbitrum just introduced permissionless validation last Friday. And so, yes, but they get their."
+    },
+    {
+        "speaker": "A",
+        "text": "Sensor problem still continue."
+    },
+    {
+        "speaker": "C",
+        "text": "So it's the next thing on the roadmap. They're gonna do it, dude."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes, but, but you and Ryan are constantly being like, oh, man, like, like, Solana is so centralized, right? Like that was like a whole thing coming from a lot of the ETH brain community for a while. And it just didn't, it felt very dishonest because."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I know, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Like it was this, it was this transition from saying, like, Ethereum was depending on how you counted the first or second most decentralized network and the entire scaling roadmap collapsed that down into extreme centralization. And this is not to say that it will be that way forever. I actually do think that over time we are going to see l two is decentralized, people are going to figure out a way to have permission, people are going to figure out how to have more than one single sequencer on a roll up or an l two, and then they're going to figure out how to have decentralized sequencers eventually. I just think we're several years away from that and we'll get there. Right. But there's this innate faith that you have and that others have, that ethereum is the only network that's going to figure it out. And I just don't see, like, I think if you look at the pace of new technology shipping on the Solana network and, like, where the network come in the three years that it's been live, you'd say, wow, that's like an insanely high pace of innovation and change. This reminds me of how Ethereum relentlessly innovates on its core idea. And the point here is not to say like, oh, Ethereum is super centralized. It's that like what you have seen over your engagement with the network is that you have a faith that is going to figure it out."
+    },
+    {
+        "speaker": "C",
+        "text": "Right. And what I would say give Ethereum the benefit of the doubt and then we give Solana whatever is the anti benefit of that."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah, yeah, exactly. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "And, but also because Ethereum has a trapdeen record and Solana is a newer network, and so Solana still has to earn its stripes. You know, this is like what I've been calling the l one hazing of the last bull market."
+    },
+    {
+        "speaker": "A",
+        "text": "Totally."
+    },
+    {
+        "speaker": "C",
+        "text": "It's like you're illegitimate until you make it through the next bear."
+    },
+    {
+        "speaker": "A",
+        "text": "I would say at this point, Solana has been through at least as much hardship as Ethereum has."
+    },
+    {
+        "speaker": "C",
+        "text": "Solana's certainly been through a lot of hardship. And if it was, there are different hardships."
+    },
+    {
+        "speaker": "A",
+        "text": "They're very different hardships."
+    },
+    {
+        "speaker": "C",
+        "text": "They're different. Like the Ethereum perspective would be like, well, Solana sold its soul to the devil with its cozying with SPF. Right? Ethereum's hardships were we almost ran out of money for two years straight."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, that also, to be fair, that also happened to Solana. There were the Solana labs in the fall of 2020 had actually, they cut their staff by 50%. They were almost totally out of money. So there has been that sort of thing too, let alone, obviously, the collapse of FTX was just like such a punch to the ecosystem."
+    },
+    {
+        "speaker": "C",
+        "text": "When Ethereum ran out of money, is that it had independent client teams that were all grant funded, rather than the Solana foundation being this one monolith of an organization supporting the network. Ethereum, as a movement, had already decentralized, and we needed a pretty decent amount, and we needed grant money to support open source client developers who were not a part of the EF and were just doing things of their own accord. Like, this is where the famous Vitalik Yolo tweets came in and sent 100 ETH to prismatic labs, which allowed Preston van Loon and a few others to quit their jobs at Google in the middle of a bear market to go build the first layer two, or Ethereum 2.0 client. So, yeah, Solana also ran out of money, but it was different because Solana was a startup, whereas Ethereum was a movement at this point."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, then that was also, to be fair, that was a nine months into Mainnet, right? That event you're talking about did not happen nine months into the Ethereum mainnet, right?"
+    },
+    {
+        "speaker": "C",
+        "text": "That was four years, three years afterwards. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. So today, right, the Solana foundation has given grants for multiple validator client. There's four validator clients in active development. The one by Solana Labs, firedancer by jump. There's SIG, which is a zig client implementation, and there's Jitto, and there's also tiny dancer, which is a light client. So there's, you know, depending on how you count, there's four or five in development. And this is where you're totally spot on that Solana is younger than Ethereum. It does not have the same ecosystem built out yet. I just see us as on a very similar trajectory. And that is not. I don't. I don't see this as a zero sum situation at all, actually. I'm kind of surprised that sometimes there is this, like, hostility towards, like, oh, Solana is a threat to Ethereum. I actually don't think Solana is a threat to Ethereum any more than bitcoin is a threat to Ethereum or filecoin is a threat to Ethereum."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. My philosophy around layer ones is that all they are, if you're a layer one, you compete with other layer ones, you can grow the pie as well. We can all grow the pies, but all layer ones want to eat as much of the pie as possible."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't think Ethereum is communing with other l ones. I think Ethereum is competing with nation states."
+    },
+    {
+        "speaker": "C",
+        "text": "I think layer ones compete with nation states."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes, but I think the primary opposition to Ethereum today is not bitcoin, and it's not Solana and it's not polygon."
+    },
+    {
+        "speaker": "C",
+        "text": "Around bitcoin, except for the market cap, which we one day get there."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure, but the market cap is the most boring thing about crypto."
+    },
+    {
+        "speaker": "C",
+        "text": "Right, but it's also like the point."
+    },
+    {
+        "speaker": "A",
+        "text": "Do you think it's the point?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think layer ones are supposed to be money, and layer ones and market cap and fighting nation states are very similar. Like we said at the beginning, we have the power of smart contracts. We can encode values into our native currencies. And if you encode good values and the native currency goes up, that means you are literally scaling values. A lot of the values that make up the ethereum ecosystem, like pluralism, decentralization, power to the individual, are all, in my mind, comprised, imbued into ether, the asset. And in order to scale those values to the world, we need ether to have a higher market cap."
+    },
+    {
+        "speaker": "A",
+        "text": "So here's my criticism of that, is that you're not going to be able to reach, to be egalitarian, to reach the world, to allow people to go bankless if the transaction fees are dollar 20. Yeah, but, yeah, but here's the thing. If eTH is money and the idea is everyone transacts on these l two, there's a really big logical jump there to say the layering of Ethereum up to l some point in the future is basically a rebuild of the traditional financial ecosystem where you start with the Fed, and then you go out to the commercial banks, and then you go out to the lending banks, and you go out to the retail banks and you go out to Venmo, then you go out to the eBay store, then you go out to the person selling the thing on eBay. And each step in that line is a potential taxation and value capture point."
+    },
+    {
+        "speaker": "C",
+        "text": "I don't disagree with that, but I don't also think you get to say that they are equivalent. The topology of the networks definitely lines up like, first you have the global settlement layer, which is the Ethereum layer one, which is the Federal Reserve, and then you have the commercial banking layer, which are the Ethereum layer two, s and then you have like the stripe, which are the layer three payment chains that topology definitely maps, but you also have core unique properties that are also added to this whole stack, which also just change the way that these things are expressed. And mainly the new innovation here is cryptography. And cryptography can take and scale parts the properties of the Ethereum layer one all the way to l 59, 69, whatever you want. And so, yes, and so to me it's like, yes, the topology wasn't created by the Federal Reserve commercial banking layer, stripe, et cetera, that was created by nature. Nature created that. And Ethereum is also mapping on to nature, which is the same thing that the old traditional financial system also mapped onto. But Ethereum is doing it with better tools that allow for minimized taxation and maximized value transfers, transference across networks, potentially."
+    },
+    {
+        "speaker": "A",
+        "text": "The other version of that is you introduce a lot of security hops, you introduce a lot of bridges. The things in crypto that get hacked right now are bridges. And so every time you're going, see."
+    },
+    {
+        "speaker": "C",
+        "text": "This is our narrative too."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, totally. But every time you go up or down a layer, you are introducing a point of risk, right? And there's an attempt to say that there's no risk involved in settling a transaction to the base layer one. And that is just not true. There is a lot of amazing work that's been done to reduce that risk dramatically. It is not zero. And I think that's just worth noting here, that there is a amazing, egalitarian, beautiful future where the ethereum stack and all of its layers ends up being something that feels much more integrated, feels much more fair, feels like it. It delivers much of the value it would as if it were in one global state, like the original eth two design. There's also a potential future where as people cycle out of the ethereum ecosystem, as more people come into the Ethereum ecosystem, to use your terminology, there's nothing natural about the values of Ethereum. The values of Ethereum are actually fairly weirdly anti capitalist from a perspective. And it's great, right? It is actually this amazing social experiment. And there's so much amazing stuff that's been made possible here. I just, I'm not sure that those values can survive contact with JP Morgan and Raytheon. And what we've generally seen is that when extreme multinational corporate capitalism gets involved in systems, it extracts value. Like what the private equity firms have done to the healthcare system in the United States is, like, not accidental, it's incredibly intentional. And I think when we're thinking about system architectures over a many, many, many year horizon. Reducing the points of potential capture and interference, I think, is a really good objective to have. And so to bring this back to Solana, right. The view there is that the socially safest thing to do is to keep everything in one global state. And that's not to say Ethereum can't be successful in its drive to do this, but we've already seen from a lot of other l one s that they're already, like parachains are already facing capture problems, right. There's a lot of other things, and maybe Ethereum is big enough and mature enough and sort of has the resolve, for lack of a better term, to escape that and to be able to actually get past it. But statistically, there's only a few countries in the world that have ever done that. Most countries fall prey to resource capture. Most countries are authoritarian. Most countries have really unhealthy economic systems. And maybe Ethereum can get past that, but that is a big bet to make that anyone else can play that move. And so that's kind of where, from a philosophical standpoint, Solana is choosing to do a zag where Ethereum did a zig. And that doesn't mean that it's better or worse. It just is, I think, two very different expressions of trying to end up in a similar place."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I would definitely agree that that is the correct articulation for, like, what we're doing here and why we're designing the networks in the way that we're designing them. The Ethereum perspective will flip it around and say, like, the Ethereum layer, one is deeper than any sort of corrupting influence, corrupting corporation will ever be able to get to it. It's too deep in the stack. It's too. It's very, very metaphysically low. We have this old thesis called the protocol sync thesis, which the most socially scalable and the most legitimate protocols sink to the bottom of this stack. And if you are a corrupting influence of Raytheon, like, capitalist interests, whatever the roll up centric roadmap of Ethereum, big old, not old, big ships, big container ships. If they run into ground or they run into an iceberg, like a modern Titanic, they're compartmentalized, right? So, like, water will get in, but it'll only get into like one small cell of the hull of the ship and it won't spread. And that's how I would consider the roll up centric roadmap to Ethereum. Like, they can try and like, we have the JPMorgan chain quorum or whatever, which is like a geth fork that no one really uses. Like they can make their own roll up and they can corrupt that as much as they want, but they can't. It won't spread. It won't spread to the other chains in that because of the power of cryptography. And so, like in getting deep, getting down to the layer one and impacting Ethereum governance super hard, that's the hardest thing that you can do because that's when you also, you start to fight the social consensus as well, not just the cryptography. The Ethereum perspective on Solana is like, it's only one network. You have one point of insertion. If you get that thing, then the whole system is corrupted. Like there's only one cell to puncture, and all of a sudden you have the entire stack. And so, like, jump capital making their client, that gives Ethereum people the heebie jeebies. Like, I don't want jump capital making a client, and then I will not download that software. And so that would be like the re articulation from the opposing perspective."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I guess, like when we're looking at like market cap capture, right? Like the thing Elon Musk did with Twitter, right? Buy up a bunch of stock in secret, in dark, and then suddenly come out and say, hey, I own 10% of Twitter, I want to buy the whole thing or I'm going to ruinous your life. That's not impossible to do on any l one, right? You could. The theory market cap is only $224 billion today. Right? That is a lot of money. That is not an amount of money. That is an opposition to potentially, over time, larger and larger chunks getting bought up. Right. We see already with the trusts that exist and sort of the centralization of some custody, this is not an ethereum problem. This is across the space that the proof of stake is much more resilient than proof of work to capture, but it is not immune from it. The idea that you're spot on that, yes, if Polygon gets taken over by a bunch of private equity firm folks, you can just cut off that tree and say, all right, Polygon's dead. We're going to not build on that thing anymore. The base layer is still not immune to capture, even if there's stuff on top of it that can be lopped off. And I think the place you see this, which is sort of a counterpoint, is Solana validators are pretty hard to run. Right. And what that means is they're not run on AWS. And if you look at the percentage of eth that's on AWS, it's quite high compared to something like Solana. Now, Solana, there's lots of other downsides. One of those downsides is that you have to run these things bare metal, harder to do. That is one of those things that is a counterpoint to that capture problem. Now, it's a very different solution to the capture than what Ethereum's done, but I think they're very spiritually similar approaches to preventing those sorts of problems from happening. But, yeah, I think as we go into the future, no one can really say what's going to happen here. We all just need to figure out what are the best defense mechanisms to prevent the sort of bad scenarios from happening that we don't want to have happened."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, Austin, this actually went in a different direction than specifically focusing on solar, the asset. But I think that was actually probably the logical conclusion of where this goes. Because the point of talking about what is sole the asset is to talk about what are the values of Solana, the ecosystem. I think this conversation did a fantastic job of peeling back the layers for a lot of people who haven't been too exposed for that in the bankless audience, because we just don't talk about Solana too much. So, Austin, thank you for helping me navigate this conversation."
+    },
+    {
+        "speaker": "A",
+        "text": "Hey, thanks for having me on. It's always fun to chat with you."
+    },
+    {
+        "speaker": "C",
+        "text": "So, bankless nation, if you like this conversation, you want more of that, let us know on Twitter or in the discord. But in the meantime, crypto is risky, ethereum is risky."
+    },
+    {
+        "speaker": "B",
+        "text": "Defi is risky."
+    },
+    {
+        "speaker": "C",
+        "text": "Layer two is a risky. Solana is also risky. You can lose what you put in, but we are headed west. This is the frontier. It's not for everyone. But we are glad you are with us on the bankless journey. Thanks a lot."
+    }
+]

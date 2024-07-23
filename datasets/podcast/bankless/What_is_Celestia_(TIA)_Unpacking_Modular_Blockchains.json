@@ -1,0 +1,270 @@
+[
+    {
+        "speaker": "A",
+        "text": "Bankless nation. We are going to learn about Celestia. Celestia's token just dropped and it's been up only ever since inception. Up over 200% since launch, Celestia is now a $7 billion network. Why? What about Celestia is so valuable? What is Celestia's vision for crypto? How, if successful, will Celestia change the crypto landscape? Today on bankless, we're talking to the two Celestia co founders, Mustafa and Ismail, to explore the thesis around Slesia. So strap yourself in, put on your learning hat because we're going to learn all about Celestia today. But first, a moment to talk about some of these fantastic sponsors. Bankless nation. I am super excited to introduce you to Mustafa al Basam. Mustafa is a co founder of Celestia and CEO at Celestia Labs. Authored the lazy Ledger white paper. Back in 2019, we'll get into what that is and what that means, which kicked off the Celestia project. Previously, Mustafa was the co founder of Chainspace, acquired by Facebook. Mustafa, welcome to Bankless."
+    },
+    {
+        "speaker": "B",
+        "text": "Thanks for having me."
+    },
+    {
+        "speaker": "A",
+        "text": "Joined by Mustafa, we got ismail. Koffi Ismail is a co founder and CTO of Celestia. Previously, Ismail was a senior engineer at Tendermint and the Interchain foundation. That's the cosmos ecosystem. Ismail, also welcome to bankless."
+    },
+    {
+        "speaker": "C",
+        "text": "Thanks for having me, guys."
+    },
+    {
+        "speaker": "A",
+        "text": "There has been a bunch of energy around the Celestia ecosystem as of recently due to the token launch, putting the celestia token on the map. So in this episode, I want to explore just the contours of what Celestia is, what its thesis is for the future of crypto, and what its role is for the crypto ecosystem. So lets just start at a very high level and Mustafa, ill throw this one to you. Whats Celestia?"
+    },
+    {
+        "speaker": "B",
+        "text": "Celestia is a modular data availability network that scales with a number of users on the network. And what that does is that it makes it very easy for anyone to launch their own blockchains and roll ups while having not to pay high data fees."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so this is in the modular thesis of the crypto space. And there's been a ton of just like, arguing and debating on crypto Twitter as to, like, what the future of crypto looks like, especially when it comes to scale. So does Celestia have, like, an opinion about what the future of crypto looks like and how does it fit inside of that own internal thesis?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So Celestia was started in 2019 around the thesis that blockchains should not be responsible or layer one blockchains should not be responsible for computation and execution. Basically the original roll up centric Ethereum thesis, the idea that not every single application has to share the same chain, and not every single application has to be executed by everyone on the same chain. And instead you can separate consent and execution, and instead you do execution of chain in roll ups. And that's the opinion. That's the kind of original thesis that Celestia had. And this was an entire year before Ethereum kind of switched to a roll up centric thesis. I started lazy ledger to kind of like figure out how we can rework blockchains from the ground up and create a system that where the base layer is only responsible for consensus and data availability."
+    },
+    {
+        "speaker": "A",
+        "text": "Ismail, maybe you can take this and run with it. What does it mean for a blockchain to only be upped for consensus and data availability? When we talk about the modular thesis, what are we pulling apart here?"
+    },
+    {
+        "speaker": "C",
+        "text": "Basically, we're pulling apart, Mustafa already mentioned it. We're pulling apart the execution from consensus and data availability. If a chain does only consensus and data availability, it means applications post their data, their blocks, their transactions on Celestia, and they get ordered. There's consensus on that order, and then the execution happens in the roll up or off chain, not on Celestia. So that's basically what's been pulled apart."
+    },
+    {
+        "speaker": "A",
+        "text": "Mustafa, you brought up the lazy ledger paper. Can you explain the significance of that? And what does lazy ledger even mean?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, so it's called lazy ledger because it's a blockchain that is lazy in the sense that it doesn't do any computation or execution. It's just a blockchain where you just dump arbitrary data into it. So it just kind of acts as a lazy, or like dumb data availability layer. And the kind of, and the kind of original idea behind this is, well, like, I was kind of involved with the Ethereum research space in around 2018 2019, and back then people were discussing the Ethereum 2.0 sharding roadmap, and the missing piece of the puzzle from that was data availability, sampling and the idea of how can we scale data availability. It was around then that I realized that the core primitive of a blockchain, what a blockchain fundamentally is, is just a proof of publication system where you can just dump arbitrary data into it and it orders it and makes it available. And once you have that and scale that very well, that unlocks a lot of power and scale for developers to build their own computation environments and applications on top of it, using rollups."
+    },
+    {
+        "speaker": "A",
+        "text": "Ishmael, what were you going to add to that?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I just wanted to add that lazy is a very common term in CS in computer science or programming. It doesn't only mean that it's just lazy. And I think Mustafa used the word dumb in a sense it's actually optimized because it lazily does the execution only where it's needed. It's not this world computer model where everyone executes everything, all the transactions, but it's optimized in the sense that the transactions only get executed exactly where it's necessary."
+    },
+    {
+        "speaker": "A",
+        "text": "So this thesis from Celestia about just being a modular blockchain and b being focused on rollups, aka like supporting more blockchains, is very harmonious and synergistic with the ethereum thesis. So Ismail, maybe you can explain a little bit about what would you say is Celestia's relationship to Ethereum?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think it's very like, it could be very symbiotic in the sense that Celestia could also be used as a building block for Ethereum, Williams or layer two s in the sense that people or developers who want to launch a layer two currently have the choice to post call data directly on Ethereum, which is very expensive. It's great for censorship resistance, but it's like not really practical and way too expensive. And the alternative to that is you have a data availability committee, which is rather centralized. Celestia is that sweet spot between that, because now you can have an Ethereum application or an Ethereum layer two and you post your data additionally or not additionally, you post your data on Celestia and use that for data availability. So I think that might enable new applications that are currently unfeasible or not practical on Ethereum. Through Celestia, we have this project called Blobstream that also posts data attestations onto Ethereum. So that makes it very, could make it very symbiotic, in my opinion."
+    },
+    {
+        "speaker": "A",
+        "text": "What's the property that Celestia has that Ethereum doesn't have, that you're saying is unlocking, potentially unlocking new use cases or new applications?"
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, that data, data ordering and data availability is really cheap. Okay, that's the goal."
+    },
+    {
+        "speaker": "A",
+        "text": "Transaction."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So like the initial block size, and it's not like it could be symbiotic. It is very symbiotic because the initial block size for celestia is something like 20 times higher than EIP 4844 as well. I think this will add a lot of value to Ethereum as well, because in order for, in order to have, even with API 444, in order to have a lot of applications that are practical, you need off chain data availability, especially for these gaming chains that don't need as secure or as high security as on chain Ethereum data has. And I should also mention, for example, EIP 4844 only supports three blobs per block. And whereas Celestia doesn't, doesn't have a limit to how many data blobs per block. And what does this mean practically? So we've discussed, like, the technical benefits of module blockchains. But one of the thesis that celestia has for why modular blockchains are important is this idea of application specific blockchains. So on Ethereum right now, you have this, you have like a few big roll ups. Like you have arbitram one. You have, you know, optimism, main chain and so on and so forth. But my original thesis for Celestia was that, well, we should have many roll ups. So it's very similar to the cosmos vision, where you have many blockchains, except that those blockchains will all be sharing the security. And so you have this idea of application specific roll ups. And that's a very powerful idea that can lead to inherently better products, because what that allows you to do is it allows you to create modifications to things like the EVM or create computation environments that can do things that are inherently unpossible without a custom execution environment. So to give you some examples. So for example, there's a roll up on Ethereum right now called Manta, which has modified the EVM to add certain ZK zero knowledge opcodes to make things like zero knowledge hold them possible. So there's an actual application running right now that wouldn't be economically feasible to run with an unmodified EVM. Then you've also got a project called Curio, which modified the EVM to embed an actual game as an opcode to the EVM. So they've managed to create a 0.5 2nd tick engine for their game, where you can have a real time strategy game where if you move your character, it moves immediately, and that inherently requires modifications to the Ethereum virtual machine. And so our thesis with application specific blockchains, we can imagine a world where there might be, you know, thousands or tens of thousands of roll ups rather than five roll ups. And we see this today. There's a project on Celestia called Dimension, with 11,000 roll ups deployed via Celestia, via this project. And so you can imagine in the future, if you go to l two beat, in a year or two from now, it's not going to be 30 roll ups, it might be 10,000 roll ups. And that's going to be inherently enabled by Ethereum. L two s posting their data onto Celestia because this application specific roll ups will inherently be enabled by much greater data throughput and greater quantity of data blobs."
+    },
+    {
+        "speaker": "A",
+        "text": "Just to parse something out that you said, we have a bunch of layer twos that are tinkering and playing around with new virtual machines, forking the EVM, or sometimes even, just not even starting with EVM and just having a brand new virtual machine to power that blockchain. But you can tinker freely, tinker with a virtual machine and settle on Ethereum. Celestia isn't unlocking anything there that's not new. But what you're saying is that the data availability is enabling. These things actually have the low fees to actually have the use cases that the tinkering of the EVM does enable. Right. So it's not like you can tinker and change up a virtual machine blockchain on Celestia any more or less than you can on Ethereum. It's just that the cheaper fees due to the supply of data from Celestia just opens up the landscape of when you do tinker with a virtual machine, you can get more use cases out of it. That's the way to interpret this."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, and also it's the fact that with the IPA 44, for example, you can only fit three data blobs per block. So a roll up can only buy like 100 data at a time. So with roll up, you can buy as little as 500 bytes. So with that kind of like the minimum unit of data you can buy, that inherently enables Ethereum to have a lot more, to have this proliferation of smaller application specific roll ups."
+    },
+    {
+        "speaker": "A",
+        "text": "Right, so 4844, like three blobs per block? I think so, like three roll ups can post, like, their state route to Ethereum after 4844. But how does this compare to. And so 4844 is proto denk sharding. How does Celestia compare to full denk sharding?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, so I mean, it's not yet clear how many data blobs full long shading will support or like what the full roadmap is there. But generally speaking, celestial already supports eight megabyte blobs, which I think is, as of today, is around half of the maximum throughput that danksharding plans to support in a few years time. So I think the main benefit here really is through the blob stream bridge. Ethereum roll ups. Ethereum can remain a lot more competitive with other layer ones by having access to this much higher data throughput to allow roll ups to scale and also to allow for application specific roll ups to proliferate. And I should also say that like Celestia and Ethereum are actually very kind of similar in some sense, because they share very similar values. Because as I said, when I was kind of working on or looking at Ethereum research back when ethereum 2.0 was still being planned, I was really interested in how to make sharding work. And one of the key primitives of sharding was data availability sampling. And so I co authored this paper with Vitalik on data availability sampling, and data availability sampling is basically answers the question of how can end users or light nodes verify that the data behind the chain was actually made available without them having to download all the data themselves? Because that's inherently required for schemes like fraud proofs or ZK proofs. For fraud proofs and ZK proofs to work, you need to know that data is available. And obviously you can just increase the block size, but that will halve the ability for end users to actually verify the chain. But with data availability sampling, end users can download small parts of the chain. Like if they download 1% of the chain, they can verify that 100% of the chain is available. And so this is very different to other off chain data availability solutions on Ethereum like data availability committees, because with data availability committees, you have to trust that committee in order to make sure that data is actually available. But with data availability sampling, the end user can actually verify that the data is available themselves. And that's basically also the goal, the end goal of dank sharding, and so from a values perspective is very kind of aligned. That end user verifiability is very important for decentralization."
+    },
+    {
+        "speaker": "A",
+        "text": "I know one thing about the economics of celestia is that the supply of bandwidth, if you will, the supply of data increases the more that people use it. This is a line that I've heard. Mustafa, could you explain how that works?"
+    },
+    {
+        "speaker": "B",
+        "text": "Sure. So as I mentioned, with data availability sampling, you can have a system where you have light nodes, and what light nodes are is that if you go on metamask right now, how does your metamask interact with the Ethereum network? Right now it just uses a centralized RPC endpoint, like Infuria, for example. But one of the original goals of web three is that users should be able to verify the chain themselves without having to go through trusted third parties. And the idea of light nodes and light clients are important to achieve that, because the idea with the light node is that you can run a node locally on your phone or your computer that connects to the network directly and can verify the chain with very little resources, using technologies like fraud proofs or ZK proofs and data availability sampling. And with data availability sampling, what happens is every light node downloads a very small piece of the chain. And so the more light nodes you have, the more pieces of the chain they're downloading. And so the more pieces of the chain they're downloading, the bigger block sizes you can have while allowing the light nodes to verify the chain. Because as long the, the property is that as long as you have enough light nodes downloading enough of the chain to collectively that, such that they can collectively reconstruct the block themselves, then you can increase the block size."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure. So, yeah, the idea is that the more people, the more people that are verifying smaller pieces of the whole entire celestial system, the larger the whole entire celestial system can be, while having assurances that the whole system is being checked by the collective set of light nodes out there. Is that how exactly?"
+    },
+    {
+        "speaker": "B",
+        "text": "And this is kind of like a very differentiating, differentiating point between Ethereum and celestia and Solana, because people complain about Solana claims to do very high throughput, but it's got very high validator requirements. You need 256gb of ram to run a validator, and there's no way as an end user to easily or cheaply verify that the validators are doing the job correctly. And that's why the Ethereum community pushes back against that rhetoric. Well, we can increase the block size, for example, but that would just mean having to increase the resources required to run a full node, but with line nodes. The idea is that you can increase the resources for full nodes without harming the ability for end users to actually verify that chain, because they can use technologies like for proofs and data, valid sampling. And this was also described in Vitalik's Endgame post."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes, yeah, I remember that, I remember that. We'll link that post in the show notes ismail, I think I'll turn this one back to you. In the Ethereum roll up landscape, we have all of these different roll up chain development kits or stacks. The op stack is a big one, of course, polygon when they're super nets and basically they call them the CDK. Does Celestia have something like this?"
+    },
+    {
+        "speaker": "C",
+        "text": "So we're working internally on something called Rolekit, which is also a development kit. It's like a drop in replacement for tendermint or Comet BFT, it's called today. And that enables any ABCI compatible application, which is basically any cosmos flavor ish chain, to be deployed on top of Celestia. But it's not even limited to Celestia. It's like general purpose development kit or infrastructure as you want, and you could also use it for avail or other data availability layers. But we're developing it. That's the only one we're developing in house. But there's a big community that are working on SDKs, for instance, like sovereign SDK dimension, basically, that Mustafa mentioned earlier can also be understood as an SDK. And we're also working with the like, we have a fork of the op stack and we would like that to be merged upstream such that you could also use Opstack off the shelf to deploy on Celestia as well."
+    },
+    {
+        "speaker": "A",
+        "text": "So when we talk about using a chain development kit like rollkit and to deploy roll ups on Celestia, that sounds exactly what a lot of the layer two s are doing on Ethereum. Is it really that simple of a comparison or are there differences that we should understand?"
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, RoleKit specifically is a bit different in the sense that it requires the application on top to adhere to a specific interface. But I think all these SDKs, the beauty of Celestia is you could potentially use all these execution environments in one flavor or the other on top of celestia as well. There's no limit on what you can build on top for evms or any execution environments. I think the main difference is that in Celestia we welcome basically the whole zoo of SDKs and developer tooling into our ecosystem as well."
+    },
+    {
+        "speaker": "A",
+        "text": "So where would Celestia get the assets? For example, deploying a layer two on Ethereum, you instantly tap into the market cap of ETh. You get to have USDC and Dai transfer in. You get any of the tokens. What's the same? Where does Celestia get some of the economic power from?"
+    },
+    {
+        "speaker": "C",
+        "text": "So on Celestia directly, there's no direct, it's connected through IBC with the cosmos ecosystem. And I think ideally the community should decide on a bridge to Ethereum as well, directly. But from Celestia directly, there won't be many assets and outgoing because it just doesn't make sense because the applications are who need these assets and they live on top of Celestia. So there will be bridges. There are different bridging providers already for these. But ideally this would also be happening in a more trust minimized way."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So I think a good way to put it would be that on Ethereum the roll ups scale the base layer, whereas on Celestia the base layer scale the roll ups. But that being said, obviously for rollups, bridging is still important and we do have a very early bridging ecosystem. So for example, there's IBC, as Ismael mentioned, you can have IBC bridges between Celestia and roll ups, and then you also have projects like hyper learning. They have a bridge called nexus which you can use on, use nexus.org right now, where they've actually got bridges right now between you can reach Celestia to other roll ups, including arbitram, for example."
+    },
+    {
+        "speaker": "A",
+        "text": "So how does the native token of Celestia, the Tia, call it tia tia token, what's its role? How does it make the whole system work?"
+    },
+    {
+        "speaker": "C",
+        "text": "So its main purpose is that, first of all, it's like a staking token. It secures the network the same way as ETH is used to secure the proof of stake network via staking. But the other big utility there is that it is used to pay for the data. If it's roll up or application specific. Roll up posts data on celestia, the fee is paid in TIA."
+    },
+    {
+        "speaker": "A",
+        "text": "Kind of like how when a roll up on Ethereum pays to post data on ethereum, it pays it in ether. Same thing in Celestia. Is there an economic model, unlike EIP 1559, where the Tia token is burnt, or what's the supply character characteristics?"
+    },
+    {
+        "speaker": "C",
+        "text": "Currently there is no fee burning. Not an exact equivalent of that. So currently the fees are distributed to stakers. They don't end up with one proposal block producer, but they distribute it according to the weight of the stake. It's also delegated proof of stake. It's a bit different than an ethereum staking model, but yeah, it gets distributed to the stakers or delegators. But we are thinking about fee burning as a viable way forward for fees. I think fee burning specifically makes sense if there's a lot of transactions and there's a fee market and you balance it out. And I think that's something that's also on our roadmap."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I should mention we have a very similar protocol improvement proposal process like Ethereum. We have a version of ips called CIPS celestial improvement proposals. And I think the community plans to make some kind of fee burning proposals there."
+    },
+    {
+        "speaker": "A",
+        "text": "Certainly, yeah. Okay. And just to take an easy question off the table. The celestia is a blockchain. And so there are blocks with certain sizes, and there's certain levels of demand for that block space, and then that demand is purchased in the tia token, correct?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, exactly."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, cool. Um, is. Is the, like, economic model for Celestia somewhat similar to, like. Like, a lot of the Solana people will say that the Solana case for the economics behind Sol is that they make it up on volume. Uh, and. And so, like, with Celestia wants to have not just, like, a few roll ups, it wants to have many, many, many roll ups. And so, like, in terms of, like, long term economic sustainability for celestia, is it, like. Well, it's never really going to make economic sense if celestia is only supporting a few blockchains, even if they are really, really big, beefy blockchains. The idea is that there's just so many blockchains and they're all paying a small amount, that celestia really, the long term economics comes from making it up on volume. Is that the right model to understand this?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So I have a post on the forum called the core values of the celestial social layer. And one of those values is that we should try to achieve economic sustainability through economy of scale, instead of trying to achieve economic sustainability through artificial scarcity of resources, or trying, or, like, highly contested state, because ultimately, we're all here to try to. We're all in web three to try to provide products to billions of users. So I think, like, the healthiest way to be economics economically sustainable is not through artificial scarcity, but to try to provide sustainable, high quality block space to serve billions of people. And I think if you do that, then I don't see any reason why you can't achieve economic sustainability while having affordable transaction fees."
+    },
+    {
+        "speaker": "A",
+        "text": "Something that was mentioned earlier that I want to make sure that we dive head first into is this thing called blobstream. Ismail, I think you brought it up. Could you just explain what blobstream is?"
+    },
+    {
+        "speaker": "C",
+        "text": "So basically, it streams the data attestations onto Ethereum, such that Ethereum layer twos, so to say, can read the data attestations directly on Ethereum, instead of having to read the attestations from Celestia, additionally. So it's basically, it enables a more decentralized, a way to handle data for a layer two on Ethereum. So instead of a data availability committee, you have a more decentralized solution there while still being very inexpensive instead of posting on Ethereum. That's the main, I think, without going too deep. That's the main explanation, I would say."
+    },
+    {
+        "speaker": "A",
+        "text": "Is a way to understand this. It's basically a bridge, not for assets, but for data. It's a data bridge between Ethereum roll ups and Celestia."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. So you can think of it as a one way bridge. You post the headers and these data attestations of celestial Ethereum. That's basically it."
+    },
+    {
+        "speaker": "A",
+        "text": "So as far as I know, only Ethereum and now Celestia are going after the roll up roadmap. I don't think there's any other chain out there. Maybe. I mean, Cosmos is similar to this, the app chain thesis, but really Celestia is the only thing like Ethereum in the sense that there's like one single settlement layer. Ethereum is a settlement layer for assets. Celestia is a settlement layer for data. But these are the only two ecosystems really going after. Like the thesis of producing roll ups and not just a few roll ups, like thousands of roll ups. And so like is the kind of if unless without any new player entering this arena, is the kind of long term conclusion for Celestia. Some combination of celestia native roll ups and then also selling its data to Ethereum roll ups. And that's kind of just like the grand scheme of things."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I mean, I should also mention that there are some other kind of roll up centric project checks instead. So I think, like for example, Tezos is trying to have a roll up centric roadmap. And I think there's some early experimentation of roll ups on Cardano. I mean, I don't know how that's going, but like Celestial. But wait, what I would say is like, celestia is the only kind of base layer that has been created from scratch, specifically with the roll up centric ecosystem in mind. I. And as you said, we're not opinionated on how people use that base layer. The core value here is when I create a credibly neutral base layer for data availability and consensus that's completely neutral to any execution environment that builds on top of it. As you said, people are free to use it however they want, whether it's as an ethereum l two, or validium that uses celestia as data availability blobstream, or whether it's a sovereign roll up directly on Celestia or using some other method, that's up to the user. Because that's the whole point of modernism from our perspective, which is that users have the flexibility, developers have the flexibility to choose what elements in the stack they want to use. And as any kind of technology stack matures. And we also saw this in web two, for example. In web two, you had this rapid modularization and software as a service architectures popping up where users had these microservice architectures and virtual machines where they can have different components they can plug and play around with. Any technology stack matures, you have a modularization of the stack where developers can pick and choose what makes sense for the application. And that's what we're trying to do. That's how we see the blockchain space moving forward."
+    },
+    {
+        "speaker": "A",
+        "text": "So what are some projects that people can find on Celestia? What are some of the earliest projects that have committed to the celestia ecosystem? What are they up to? What's just like, the landscape of Celestia projects look like?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So it's kind of like a wide ranging landscape. So you have various roll up frameworks that support Celestia. So, for example, you've got dimension. And dimension is a Cosmos bridge, cosmos roll up settlement layer that supports Celestia for data availability. So you can deploy a Cosmos roll up on dimension that uses Celestia for data availability. And right now they've got an incentivized testnet with around 10,000 roll ups deployed. And I think that really kind of illustrates the point where we're trying to make deploying a roll up as easy as deploying a smart contract. And if you go to the portal, there's various kind of applications you can play around with deployed on there, like gaming and NFT applications. And then there's also support for arbitrum roll ups and op stack roll ups. So there's a few projects building a pstack roll ups that plan to use this for data availability. So there's one called Manta network, which I mentioned earlier. It's kind of like a roll up that has certain ZK opcodes to make certain privacy preserving applications, like privacy preserving hold impossible. They're already on Ethereum mainnet, but they're planning to use our opstack integration to support Celestia as data availability for cheaper transaction fees."
+    },
+    {
+        "speaker": "A",
+        "text": "Ismail, when you guys daydream about potential future use cases or potential future ideas that somebody could build, is there anything that comes to mind here?"
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, I dream of basically anyone today. If you deployed like an application, you just have an app store or whatever, you host it in some cloud provider. I think ideally we'd have something where you can deploy your roll up, your small roll up quickly in a browser, and run it with your community, run it with your friends and tear it down once you don't need it anymore. That's basically a use case. I think ephemeral roll ups, so to say, like, is something I would like to see and maybe something like, I think it's been a dream since, like, I don't know, early ethereum days or even before, like, have a social network on, on top of chain. And I think maybe not like the, like, not all the whole application, all the data needs to live on Celestia or on chain. But I think to some extent, having an alternative, like a social network alternative on chain or like a web three native social network, I think that would be really cool. And I think, yeah, Celestia enables applications like these as well."
+    },
+    {
+        "speaker": "B",
+        "text": "I personally think the killer use case for crypto is still payments. Kind of like going back to the roots of crypto. Bitcoin was a peer to peer cash system. But why hasn't that happened yet? I think for consumer applications like rollups, as I said, to me, the most important thing about roll ups is to create a better product. To me, roll ups are not just about better scale or decentralization, but to fundamentally to create a better product. So you know how the Solana people, they say the goal of Solana is to have web two scale blockchains. But I think roll ups are actually what will achieve that. And I had a tweet about this the other day, but you can imagine if you had a roll up sequencer. With a roll up, you can, for example, let's say PayPal wanted to become a roll up or compete with USDC or create some kind of stablecoin. They could easily make PayPal on chain by making it a roll up. And that sequencer would basically give the roll up, would give people web two like experience without even knowing they're interacting with the blockchain. Because the sequencer, with roll up sequencer, you can get faster finality times than the base layer or any kind of consensus algorithm. So it's like Solana has 400 millisecond block times. But with a roll up sequencer that inherits base layer censorship, resistance and security, you can have web two level finality or latency, like ten millisecond latency. And the fact that they can use their own execution environments means that they're not limited to having to work their system around how the EVM works. To me, that's the real beauty of roll ups, that you can literally, just in the future, you get any web three application and give it web three guarantees and the experience will be completely indistinguishable from using web two."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, guys, I've learned quite a lot going down this Celestia rabbit hole. There's a motto, a line apparently, that is in the Celestia ecosystem. I'll ask you guys to explain, as we close this one out, what does it mean to have 1gb blocks, a billion light nodes and a million roll ups? Can you just explain this vision, please?"
+    },
+    {
+        "speaker": "C",
+        "text": "To achieve what Mustafa mentioned, for instance, vision, you have web two style applications and all this, you need a very large block space. We want to move away from the scarcity mentality and have abundant and very inexpensive block space. And to achieve that, we want to aim for massive blocks, but we don't want to. So that's the 1gb blocks. But we don't want to sacrifice decentralization and the verifiability of the chain. That's why light nodes are essential part of our vision. And we want 1 billion light nodes, basically like light nodes running on your fridge and on all machines, everywhere, on your phone, in your browser. So these light nodes are necessary such that the passive blocks actually can be reconstructed in the case of a Wu folding attack. But also we want to empower users to actually verify the chain. That's the 1 billion light nodes. And obviously the applications on top are what matters. So that's the 1 million roll ups. We already seen this with dimension 11,000 roll ups, but we want to make it as easy as possible, such as even today's web. Two developers come and say, I can also just deploy this as a roll up. So why not? 1 million roll ups?"
+    },
+    {
+        "speaker": "A",
+        "text": "Beautiful. Love it. When you guys are done with this podcast, it's Monday, so they've got a long, long, another long week of crypto ahead of us. Mustafa, what's the first thing that you're going to go back and get working on? What's the near term focus for the celestial team right now?"
+    },
+    {
+        "speaker": "B",
+        "text": "So, yeah, I mean, in the short term, we're making various optimizations to the celestial software just to implement things like pruning. It's like very, these very short term optimizations that we have to do straight after mainnet, pretty much like nothing. Kind of like short term is very boring like this, kind of like technical depth. But that will allow, that will enable the, enable the groundwork to have things like 1gb blocks."
+    },
+    {
+        "speaker": "A",
+        "text": "Then what about the long term? What's the big landmarks ahead for the celestial project?"
+    },
+    {
+        "speaker": "B",
+        "text": "1Gb blocks, 1 billion roll ups."
+    },
+    {
+        "speaker": "A",
+        "text": "Awesome, guys. Well, if listeners are curious and they want to learn more where should I send them?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah celestia.org dot there's lots of material on there and also material on how modular blockchains work as well on stellar.org dot awesome."
+    },
+    {
+        "speaker": "A",
+        "text": "We'll get all those links in the show notes. Mustafa Ismail, thank you so much for guiding us down this less year. Rabbit hole and good luck. Congratulations on getting this project out there and seeing the light of day. And I too am very much aligned with the whole idea of a million roll ups. So let's get it done. Thanks for coming on the show today."
+    },
+    {
+        "speaker": "C",
+        "text": "Thank you. Thanks a lot."
+    },
+    {
+        "speaker": "A",
+        "text": "Cheers guys. Bankless nation. You know the deal. Crypto is risky, defi is risky. New chains are always risky. You can lose what you put it in. But we are headed west. This is the frontier. It's not for everyone. But we are glad you are with us on the bankless journey. Thanks a lot."
+    }
+]

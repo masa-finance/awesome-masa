@@ -1,0 +1,630 @@
+[
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless everybody get 30. 30 baby get 30 baby get 20. 2020, baby get 2020. Bid to get 15. 1515 just $15 a month, so give."
+    },
+    {
+        "speaker": "A",
+        "text": "It a try at Mint mobile.com switch."
+    },
+    {
+        "speaker": "B",
+        "text": "$45 upfront for three months, plus taxes and fees. Promoting for new customers for limited time unlimited, more than 40gb per month slows full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "A",
+        "text": "Hey everyone, if you like this podcast, go behind the paywall to get privileged access to the smartest minds in finance."
+    },
+    {
+        "speaker": "B",
+        "text": "Join the real vision community and learn."
+    },
+    {
+        "speaker": "A",
+        "text": "How to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off."
+    },
+    {
+        "speaker": "B",
+        "text": "Our essential membership for the first year."
+    },
+    {
+        "speaker": "A",
+        "text": "Now to the top analysis of today's crypto markets. Hey, everyone. Good to see you all. Now, I'm in charge of the real vision crypto data briefing, which I've never done before, so I've no fucking clue what I'm doing. I'm going to try and read some questions as they come in. Please ask questions. I think it's on YouTube. It's on the platform anywhere else, Twitter as well. And we'll have some fun doing this. Now, I've got Ovi, who's a good friend of mine and what I love about him, he's not only an artist, but he's a finance guy, he's a macro guy, he's a dj, and he's all of the things. So, ovi, do you want to just give people a bit of your background? I know you've been on real vision before, but for people who don't know your background, because that's why I think we can have a great conversation as ever because we just got so much stuff that we understand. We speak the same language."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, absolutely. Thanks for having me. It's good to be on real vision again. Yeah, so, I mean, I started my career as a trader. I worked at an investment bank and traded high yield and distressed credit for about ten years. For about ten years. I didn't touch crypto until January 2021. So I was very crypto skeptic for many years because just like any rational finance person, I couldnt figure out how to value it. But come 2021, I finally convinced myself to buy bitcoin ETH and then I fell into the NFT rabbit hole Raoul."
+    },
+    {
+        "speaker": "A",
+        "text": "What made you do that?"
+    },
+    {
+        "speaker": "B",
+        "text": "So I started to get my head around the idea of it being an inflation hedge in a low interest rate environment. I got this idea of it being digital gold. You know, actually, when I was on the trading desk, I just wanted to put on some kind of inflation trip, but there was nothing in my book where I could express that in a powerful way. So I was like, oh, let me just do it, PA but when you work at a bank, you're obviously prevented from trading stocks, and there's all these kind of, like, rules and regulations, but there's no, there's nothing with crypto. So I was like, you know what? This finally actually makes sense to me. Like, I actually see a macro narrative for it to work. And so then I jumped into bitcoin. And then for NFTs, we were looking at I was looking at with Mando, my friend. We were looking at a investing in art or collectibles. And then we summed onto nfTs. So it's just like you had this idea of crypto plus collectibles in this inflationary environment. And to us, that just seemed like that could really be the big trade, and it ended up being so in 2021. So that's how I stumbled into that world and ended up leaving my job to do it all full time."
+    },
+    {
+        "speaker": "A",
+        "text": "William and then you became an artist as well. I mean, you were involved in art when you were younger, right? And then you came back and you became an artist. So not only were you a trader and active participant in the space, you actually became one of the better known artists and then end up with one of the better known PFP projects. Give us a bit of that journey as well. Cause it's great. I love it."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Yeah. So I used to, before going to university, I basically spent all my time online. I taught myself how to code. I used to create a lot of digital art. And back then, there was this platform which still exists now called deviantarthe, and there was no crypto. Im talking about 1516 years ago. Theres no crypto there. Theres no real effective way to monetize it. So its just something that people would do because they enjoyed doing it, something that I just did as a pastime. So I did that for about ten years. And when I turned 18, went to university, discovered more fun things to do, like going out, drinking alcohol, and pursuing a career in trading. So I just didnt touch any of it for a long, long time, really, until Covid. And then I started painting a bit again in Covid and then I actually came into nfts through wanting to collect them, and I had the itch to start creating again, but I just. I wasn't sure because the space had moved so much in the last 15 years. I was just blown away by all the talent. So it took me a while. It took me six or seven months to actually create anything and put anything out there. But eventually I did, which was the rect guy meme and project that it's been built into now. Put something out in September 2021. Then I put a new piece out every two or three weeks, and eventually they started selling for higher prices, and more and more people got involved. And I had an addition which managed to create a community out of. And then right before the markets crashed, we did the Rets guy drop in May 2022, which was just pure luck in terms of timing. We never really intended it to be that way. And yes, that was the journey there."
+    },
+    {
+        "speaker": "A",
+        "text": "And did you imagine that Rek guy was going to end up being kind of as iconic as it has been? Because it was a bit of a joke, because everyone was getting utterly wrecked in everything, just around the perfect timing. But it's now a very vibrant community, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "With no promises to anybody about anything. Nothing. Just the meme."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. It's just grown into something that I never thought it would originally. The plan was, hey, I just wanted to create a profile picture as an extension of my art, using this character that featured in lots of the pieces and didn't really want to charge anything for it. I didn't really think it was serious. So it ended up being a free mint. Like it was. It was free to mint, we didn't charge for it. And it was one of those things where I was like, I'm going to just put this out there. And it was something I was working on on the side evenings and weekends. And when it was done, it was like, ok, this is done, and then we'll just see what happens next, move on to something else. And here's just like a token of appreciation or an experiment. But when I generated the final images, they just came out really well. And I just kind of got that special feeling that this had something more to it than I originally anticipated. And when we dropped the collection and we saw the response to it again, Amanda and I got that feeling. We were like, hey, this is actually maybe an opportunity. For whatever reason, people are really connecting and resonating with this. And. And we had the whole market crash. It just became a place for people to come and drown their sorrows. In our discord dive bar, as we call it."
+    },
+    {
+        "speaker": "A",
+        "text": "I remember I bought it pretty quick on at the same time. Snoop Dogg, everybody just. It was one weekend that it hit everybody's radar screen and everyone's like, yeah, this is fun. I'm getting involved in this."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, exactly. And I guess that's the way viral things work. Sometimes you don't really plan for them. They, you know, they come, come out of thin air and come out of nowhere. And I guess they feel organic. People like that organic kind of feeling. And if we tried to plan to make it what it was, then it wouldn't have worked. And I think just because we were so care, not care less, but carefree about it, I think just gave it that kind of like organic, grassroots kind of feeling, which I think people appreciated. But, yeah, we're still going strong today because people seem to forever get wrecked in crypto, whether it's the bull market. So we're always be there as a shoulder to cry on."
+    },
+    {
+        "speaker": "A",
+        "text": "So look, we've had this whole week of content, this crypto gathering you came on earlier with Mando and Sergio, I think, talk about nfts. I want to recap some of this stuff, get some of your thoughts, but I'm going to put something on you that I've been wanting to tell you that I've not said is I think you crashed the NFT market. And I'll tell you why not in a machiavellian sense, is because there were no buyers, because the market was on its arse. Generally, the stuff that you got, the inventory that you guys sold, just kept getting recycled amongst the same farmers. And it was part of the loop of that liquidity getting recycled. You've seen it again in distress markets, stuff like that. Everyone dumps inventory on each other. On each other. On each other as prices clear. And I think that was maybe the turning point that pushed the whole blur cycle."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's a good point. And it's something that I see a lot on Twitter. And the reply, I didn't realize. Yeah, yeah. And I've asked myself that question, I think the answer is yes and no. Like, did we start something? Probably yes. That we made a big. Made a very large sale to someone who didn't want the risk and he then had to recycle it. And that has repercussions. You know, that's like 910 million dollars of NFT risk. That's just like floating around out there being passed from person to person to person. I think if it wasn't us, I think someone else would have done it. There are large holes of punks."
+    },
+    {
+        "speaker": "A",
+        "text": "They I want to blame you just because I can."
+    },
+    {
+        "speaker": "B",
+        "text": "I'll take it, I'll take that on the chin."
+    },
+    {
+        "speaker": "A",
+        "text": "No, because I mean, that was, you know, I know you guys talked about it, that was an amazing sale. But I, again, we're both tradfi people and we've seen this 100 times before, is when the market has no buyers. Market makers recycle the same risk and they have to keep dumping each other on lower and lower prices. Whether it's you guys, it's just the market in general had no buyers so nothing cleared. Let's talk about the blur farming thing, because I have a feeling my hypothesis is, and im less in it than you are, is that all of these people were farming hoping for the future token of which they dont know what the value is. They market on the previous token and the token price just keeps going down. Im guessing at the end of all of this theyre creating a bit of a death spiral of the tokenization. Everybody is going to lose money and that liquidity is probably going to dry up because that incentive ended up being, seemed like a good idea to start with. And then as ever, with incentives, you're not careful, they become perverse incentives. How do you think about this whole blur thing?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I agree with you. It's a funny one, because when they had the season one of farming, everyone, the consensus view, and everyone was saying that oh well, when this token comes, it's going to be worthless. Look at, looks rare, look at the x two, y two. These other marketplace tokens, theyre basically worthless. So most people didnt even bother to farm in season one of the airdrop and they massively underpriced the value of it. And then what happened is when the airdrop came, they only released a very small amount of the fully diluted market cap and it rallied. It was real money and was like, oh wow, we didnt think itll be worth anything. And it is. And then the problem was they did season two farming and everyone extrapolated, as you rightly said, everyone extrapolated that valuation to oh, I can get more if I just start trading nfts basically, and trying not to get left long in the inventory that I dont want to have. I think the problem now is that youve had people who have been losing money and losing a lot of money, hoping that the value of this token will offset that money. And the level of farming is tenfold compared to the farming that we saw in season one. You can just look at the NFT volumes during season two. They were like literally ten x of volumes. I think that any of the collections were doing before. It was insane. And so you have to think when they do this airdrop, all the people that the biggest people that get the rewards just want to sell it and monetize it. And if they don't, it becomes a game of chicken. It's like, who wants to hold it before they can? Who's the first person to flinch to sell it? Then it all comes cascading lower. So it's really hard for me to think that that's going to be a profitable trade. I'm aware that it's a very consensus view among everyone who is not in the farming game, and maybe something left field comes out where they come out on top. But some of these guys have lost tens of millions of dollars on this stuff and it's hard, very hard for me to see you all get rewarded to offset that. I think."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it just feels like even if you give them the token now, they dump it anyway. This token just keeps collapsing until something changes. And I don't know what Blur's intention is after they've done this, but they need to figure something out to motivate both buyers, sellers, listers and everybody else in this, because what they've created is a mess and if not, they're not going to exist."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I mean, one thing I would say is, I think as a platform, it's really good. As a trader, you use it and you're like, wow, this is a material improvement to opensea or anything else out there. Its a very, very good platform. And I think blur gets a lot of the blame in a market that was already a down trending market. And its like, well, did blur cause the crash? Did ov and Mando caused a crash? Or was it that the market was falling anyway and some people just accelerated that? And by the way, if you were bearish nfTs, youve had liquidity from blur at every point of the way in the last nine months to sell it as much as you wanted to. I mean, we did it. We took the liquidity and sold it. Anyone could have done it. Right? So from that angle, it's like, well, you're upset now because NFTs have fallen a lot lower in the last nine months, but had you recognized that they would nine months ago and or even six months ago or three months ago, you've had these opportunities to sell, and without Blur, the liquidity would have been materially worse, because Blur created, even though it wasn't a real buyer, it created a buyer that didn't exist before and that wouldn't have existed. So if you wanted to imagine a world with Nobler and it's a, yeah, NFT bear market, it's just going to be like 25%, 30% price gaps with no liquidity until eventually we find some stable ground. Whereas NFTs have fallen a lot lower, but they've fallen a lot lower in a very gradual chart, all the way down with enough liquidity to be able to act all the way down rather than gappy price action. So I think with the blur token, if they can find ways to incentivize people to use the platform in an environment where we're actually in a bull market and people want to use Blur because it is a good platform and it's much better than Opensea and interest NFTs return, then I think it could have some value. And I think that's the other scenario that people aren't thinking of, because we're just surrounded by all this negativity at the moment, and it's hard to see the lights at the end of the tunnel. Hey, everyone, we're going to take a quick pause and hear a word from our partners."
+    },
+    {
+        "speaker": "A",
+        "text": "We'll be right back. Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices. So to help us, we brought in a reverse auctioneer, which is apparently a thing. Mint Mobile Unlimited Premium wireless how to."
+    },
+    {
+        "speaker": "B",
+        "text": "Baby get 30 30 Baby get 30 bid to get 20 2020 to 20 2015 just $15 a month, so give it a try@mintmobile.com. switch $45 up front for three months, plus taxes and fees. Promoting for new customers for limited time Unlimited more than 40gb per month slows full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, because it feels like how I'm thinking you probably are as well, is after everybody pukes. The token, is there some value there? Yeah, kind of. Could be. Interesting. One of the things I've been thinking through with nfts, and again, no surprise to you, but to other people, I think people need to think this through more, is assets within an economy, particularly status assets or excess discretionary spending. Assets in an economy suffer when the economy shrinks. So we've seen it with houses in the meat space. We've seen houses, Rolex watches, Patek Philippe are pretty much everything as the economy shrinks, less consumer spending and less recycled gains. So people aren't making any money everybody lost money last year in every single thing that they touched. So therefore nobody's buying stuff. And you're certainly not rewarding yourself with a new Rolex because you've made a lot of money. So that seems to apply for the ETH economy as well in exactly the same way. And we also find that assets tend to lag the business cycle somewhat. And so I've been observing this. Obviously, ETH was the first to bottom you. And I were pointing that out back in June of last year, ETH bottomed, rest of crypto bottomed. And then nfts feel like theyre bottoming now. Were in that process of market clearing prices. And what was amazing is I wrote about in GMI, the chart of Rolexes and Patek Philippe is the same chart as bored ape yacht club."
+    },
+    {
+        "speaker": "B",
+        "text": "It really is, huh?"
+    },
+    {
+        "speaker": "A",
+        "text": "Because its almost the same buyer, right? Its the same buyer with the same thing. And so when were looking at the ETH economy, now it looks like its starting to grow and come to life again. So I just look at this and think crisis opportunities in nfts, the issue is in what? Because all the good stuff, right? Art just if were looking at the ETH basing before bitcoin moment and didnt hit a new low, its the high end of the art market. It started decoupling and didnt fall. So how are you thinking through the opportunities going forwards? Because its bloody difficult in nfts."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it is. Look, I absolutely agree. You will have the wealth effect of appreciating eth that will come back into NFTs and people will want to buy that brand new PFP to flex or that great piece of art to show off how much money they made in the bull market, whatever it is, people will absolutely want to do that because that is human nature and it has been for centuries. But the point that you raise, what do you buy? It's a real tough one. The market has kind of like corrected itself very, very quickly. You had maybe a window of a few weeks to buy fenders at 40, ETH or ringers at 20th or some of that iconic generative art stuff. Punks at 40, maybe even in the thirties at some point. And those have now all rallied back, not to levels where they were in 2021, but they're a good 50 or 60% off of those because people have put that trade on as, hey, this is my eth or my bitcoin that Im happy to buy at these prices because I know that Im not going to get rubbed or lose my money on it. And if it goes lower. It goes lower. But Im happy to underwrite that risk. But those have already moved and maybe I think theyll still move higher, just like Ethan bitcoin will in the next cycle. But theyre obviously a big price range. Theyre difficult to deploy capital in and its tough to buy something that you see is already 50 or 60% off the low. The next thing is, well, what do you buy out there? And there's a plethora of profile picture projects out there. There's a plethora of gaming projects out there. There's so many different things. And it's like the altcoin market. It's like the shake I was about."
+    },
+    {
+        "speaker": "A",
+        "text": "To say exactly the same. It's like it's bloody difficult unless you're really plugged into something."
+    },
+    {
+        "speaker": "B",
+        "text": "It's exactly the same thing. And I think Kobe said it, nfts are just altcoins with pictures. And he was 100% right. Because it's like now if I, if I tell you, well, which meme coin should you buy for the future? Just like, well, maybe there's one or two that make sense, but I just don't know. There's all, there's like thousands of them. I don't really know which one. And it's the same problem with nfts. So I think what you have to do is two things. I think one thing is you have to remember that nfts are a collector's item. They're there to be collected. That's the primary use case of them to begin with. And chances are, if you're still, if you're listening to this and you're still in and around nfts, you probably have an appreciation for collecting things that you like. Just like you might buy a nice watch or a nice handbag or whatever it is. So first and foremost, if you just buy things that you have an appreciation for, chances are you're not the only person that has an appreciation for it. And you can then therefore underwrite that risk if it goes to zero. And then you might get lucky if something goes a lot higher. But to pick something purely for speculation, investment purposes, it's real tough and you have to really work from the ground up. But the problem is you get it wrong and there's no liquidity. If you're outside one of the top collections, it all just goes to zero very fast. So it's a tough one and it's one that. I think the answers to those questions might be clearer when we're in the beginning of that uptick. For nfts, rather than at this stage here, away from the well known collections."
+    },
+    {
+        "speaker": "A",
+        "text": "I think, yeah, I think some stuff nfts that are tied around kind of memberships, that's still interesting because you get utility. You know what you're getting there are nfts that have no utility. Nothing else like Ret guy or crypto dick butts. Do they become iconic memes in the next cycle? Who the fuck knows, right? So it's very hard. The other thing that I'm observing is the rise of new AI art. I'm obsessed by the Rupa Ernesto life in West America. It's like striking, right? It's amazing. And then we're seeing some of the video format stuff as well. And how I get around that is if I buy something like that, it's because I really like it. So I don't really give a shit if it goes down. It's different if they start trading at huge prices, but they're still at reasonable ish prices. How are you looking at what's interesting you in the art market?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think AI art is super, super interesting because it's like generative art. This idea of computer assisted technologies is the way I like to explain it. To produce and create art is a narrative that works very well in this environment and in the future. When you look back through the history of time, it's like, well, what kind of art do I want to collect during the 2020s? Well, I want to create stuff that had this idea of crypto and blockchain and AI and all this kind of stuff which captured the zeitgeist and culture. So I think that's super interesting, but I think you want to find artists who are creative about using that technology. Like just putting a prompt into mid journey and saying, hey, this is like all the stuff I'm creating. Like, it's good. I think people create some nice stuff, but it's not going to excite traditional collectors. It's not going to excite, like, the big guys that step in. So I think it's interesting to try and find people who use that technology in a creative or interesting way to redisplace something that is art."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it's got to augment their creativity and not be their creativity. So, like, again, the life in West America, it's kind of like x copies, glitches. It's like a glitch photograph of this photorealistic, surrealist world. And it's like, you know, that's cool. It's just cool because we hadn't seen anything like that before, like x copy, you know, and his glitches is, you know, it's very interesting to see where some of this stuff is going, but it has to enhance the creativity. They have to be using it as a conduit and not it being the creativity."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, absolutely. I think there's an artist that I collected a lot of this year's an artist called Orcan, who's an AI artist, and he writes a lot of bespoke script to reproduce different pieces of art using AI. And I bought a piece where he fed in thousands of images from oriental art, from the 17 hundreds and 18 hundreds that was actually painted by people from the west because they didn't have the ability to travel there. And it uses a reverse stable diffusion to actually output the various prompts. And then you reuse the prompts to recreate the art, basically. And that, for me, is like, well, that's amazing. And the actual piece actually shows that entire process from start to finish. Like, the piece is the process, if that makes sense. And for me, that was something incredible. It's like, wow, this isn't just like some guy that's just used prompts. He's actually shown you the entire, it's like mathematical proof from first principles. Like, that's the best way I'd explain it as having been a former mathematician at university, but something like that, I was like, wow, that's intellectually, that's just so satisfying to see something like that from start to finish. And that is a great example of something that I think is incredible. Just using AI and using blockchain to have it as an NFT, I think that kind of stuff, I think will do really, really well. Hey, everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing."
+    },
+    {
+        "speaker": "C",
+        "text": "This podcast is sponsored by Ramp. Are you the decision maker in your company? Consider this. For the first time in decades, there's a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your company's spending and control who spends what. With each vendor. Ramp's software collects and verifies receipts instantly. To save your team valuable time, Ramp automates data entry and routine tasks with automated approvals, expense categorization, and bill payments. Time consuming tasks, which means youll stop wasteful spending and close your books in hours instead of days. Businesses that use Ramp add up to 5% to their bottom line the first year. If youre a decision maker, adding Ramp could be one of the best decisions youve ever made. Get dollar 250 when you join ramp for free. Just go to ramp.com easy. Ramp.com easy ramp.com easy cards issued by."
+    },
+    {
+        "speaker": "A",
+        "text": "Sutton bank and celtic bank members have Dic."
+    },
+    {
+        "speaker": "C",
+        "text": "Terms and conditions apply."
+    },
+    {
+        "speaker": "A",
+        "text": "6529 mentions something, as he often does, that makes me stop and think. And he just said, we're too obsessed by current form, which is like, it needs to look like this, it needs to be that. He's like, the elements of, I guess, 3d plus animation plus other things are, things will likely come from this cycle and will take the world by storm again. I just don't know what that is. But how are you thinking through some of that? Or have you seen anything interesting yet?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think you're starting to see."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, who's the guy? I mean, the one that blew me away. I can't remember his name now."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, my God. I mean, that is like, that's a."
+    },
+    {
+        "speaker": "B",
+        "text": "Perfect example of it. Like the, like, his use of data science and his final output mediums are just insane. And these are things that never existed, like, like 40, 50, 60 years ago, you know. You know when someone says, why does it need to be an NFT? Or why does it need to be digital art? Like, why can't just buy a painting? Well, Rafik, is your answer to that? Like, try, try make a painting of what he does. You can't have is physically impossible. But yeah, you're going to see more of these mediums. Just the concept of being able to own piece of art that's animated, that would have been very foreign decades ago, and it's now no longer foreign. It's very normal. So we're going to see things like that as the technology improves and as we go on in this journey. I don't know, things like 3d artists being able to create projections that are then nfts and you can have a little projector that displays it and connects your wallet. Like, that's just some random thing that I thought on the spot. But that kind of stuff is what we're going to see more of in the future, which I think is incredible to get, like, different outside the box mediums for art that."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Because they become digital objects and not just digital. Yeah. Two dimensional art. And that becomes fascinating."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. I do believe, like, I do. I think for digital art and nfts to succeed, we do need to move beyond just viewing them on our phones and viewing them on our screens and stuff. And I know that's great, and it definitely has its upsides, but people need to. The normies need to see things in the flesh to really be able to appreciate it, and that's when they understand a bit more. You know, if you have, like, a load of. We had a display up on Oxford street recently on the outside of the fan's clothing. So with w one cur eight, and, like, people get that. Like, someone walks past and says, wow, that's really, really cool. And it's like, hey, well, you can actually own it. Here's how you own it and stuff. That process of motion works so much better than, oh, hey, look at my phone, by the way. You can own this. You know what I mean? So we need more of that for it to succeed, but I think we will get more of it."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. Let's move on to the market overall, the crypto markets, because you're active in that as well. Where do you think we are? Where do you think you're going? And how are you thinking about risk? Where you want to be on the risk curve, that kind of stuff?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Look, I think there are now multiple confirmations that we are at the beginning of what everyone might call the bull cycle. I think we very clearly bottomed in June last year. We had this long period of consolidation, and then things started to get better in the world from the macro standpoint. Watched inflation drop from 9.1% to 3%, which is 1% above the federal reserve target for inflation. How crazy is that? And the risk to that, everyone's like, well, we're going to get into bad recession. People going to lose their jobs. Well, guess what? The us economy is pretty fucking strong still, Raoul."
+    },
+    {
+        "speaker": "A",
+        "text": "And guess what? Markets went down 85% last year. What more do you want? Blood?"
+    },
+    {
+        "speaker": "B",
+        "text": "Exactly. Exactly. That negative scenario was priced in because that's how people react. And then we're now starting to price in the positive scenario because that's where it seems like the probability is. But I think we have a lot higher to go. Really do. I think that's probably true mostly for crypto like, as it stands, I know this is a very simplistic way of looking at it, but the S and P 500 is about 6% off its all time highs. Nasdaq is about 3% off its all time highs. Bitcoin is 55% off its all time highs. ETH is 60% of its all time highs. And let me not even mention any of the altcoins out there, because those numbers are still probably 70, 80, or maybe even 90%. So we are at the beginning of a bull cycle of crypto. And you have multiple macro narratives that I think are very, very bullish. But you also have crypto native narratives, too, that you've had the blow ups of last year, all that's washed out and cleaned up. You've had the leverage taken out the system, you've had a lot of the bad actors removed. And now you have the two of three of the worlds largest asset managers in the world. In fact, Larry, you think again today, the largest asset manager in the world, they managed, wherever it is, $9 trillion of assets, saying out there spewing bullish stuff about bitcoin. You have to understand, Larry Fink is not filing for a bitcoin ETF because hes bearish on bitcoin. Hes not filing for it because he thinks it wont get accepted. Its not filing for it because he doesnt have demand. He probably has so much demand for it. And I think when we start to see these numbers, once the ETF's get approved and you start to see the numbers of, hey, Blackrock just raised x million or billion dollar, probably billion dollars, whatever, ETF for bitcoin, now they want to do it for eth. Fidelity just did it, now they want it for you. Now bangalore want to get involved and it would just create so much real demand for crypto. We're before that. We're very early at this point. And of course, the ripple thing yesterday, I mean, like, as if you didn't need another surprise positive casus for crypto. There you go. Like there's another one right there. Just all the SEC stuff completely out the window with that. And that makes a strong case for altcoins to now rally and Coinbase were fast act there, I think, as well."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So how I'm thinking about this as well is like, we know about the ETF. Looks like I would give it like a 75% chance, something like that. So it's pretty certain, let's say they inject 10 billion of new liquidity into bitcoin, how risk markets work. And again, you understand this because youve always traded the riskier end of the markets, traditional markets, is the money that goes in here, gets recycled and goes down the risk curve. And $10 billion in bitcoin is very different than $10 billion in Solana because the market couldnt take it. It creates this whole move in the risk curve while everybody now thinks, well, this all means its bitcoin dominance. All the way forward because of the etfemen. I think its the opposite."
+    },
+    {
+        "speaker": "B",
+        "text": "Completely the opposite. I totally agree. I think the big reason for bitcoin dominance this year was bitcoin is not security, everything else is. And thats now changing. But look, we all bought Ethan bitcoin last summer because we didnt know what else to buy. We knew that was safe and we would buy those and DCA on those until we got to a point where the world has started changing. We think things are getting better now its time to move down the risk spectrum because I dont want to just try and make a two or three or four x on ETH. I want to try and make the next ten x, 50 x or 100 x. But the probability of achieving that is much higher now than it was last year. And of course nothing really did that in the last twelve months. So I totally agree. People will start to sell their bitcoin and start to sell their ETH and the other large cap to chase returns for higher risk assets. Because at the end of the day, if youre a bitcoin, max your an eth maxi whatever it is, youll be sitting there, youll be watching some random coin go up 1000 2000% and youll be like, well I need to get involved in this stuff. Nows the time to get involved in it. Thats how im thinking about risk. Now, ive been through this period of averaging down on majors for the last twelve months, but literally two or three weeks ago I had a long conversation with Mando and we were like, nows the time. This is it. We need to change our portfolios to have more risk in it. And it's not just about owning ETH anymore. And whether it's having levered ETH, whether it's having, you know, other tokens that you think can give you a high beta on returns on ETH, whatever it is, I think you need to push yourself out risk spectrum here and chase those returns because you only get the shot like once every few years, right. You don't get it all the time. And I missed don't fuck it up. Don't fuck it up. Yeah, I love the don't fuck it up in your thing. And we're fully adopting it and pushing don't fuck it up as the new mantra of this cycle. I think because I was late to things in 2021 and I still did okay, but this is the first time, like I'm here right at the beginning of it."
+    },
+    {
+        "speaker": "A",
+        "text": "This is your game, right? You grew up in high yield and distressed the game in high yield and distress is buy it when nobody else wants it, be the provider of liquidity, of last resort, and then ride the fucking cycle, because that's when you get the gains right. And the cycle works exactly the same way. As soon as people start getting bullish, it flows into us treasuries, and then people start going out the risk curve, and eventually the stuff that you all bought that was illiquid mess ends up going up ten x. It's that."
+    },
+    {
+        "speaker": "B",
+        "text": "It's literally that. And we've been the liquidity providers, we've had that part of the stage, we've been the buy when everyone else wants to sell part stage, and now we're in the ride the cycle part the stage. And I think it's a funny one because people always tell me it's like, well you were advocating so hard to buy the blood, but now that everyone's bullish, you're not advocating to take profits. And yes, if you make good returns, sure, take, take your profits. But never underestimate how powerful these cycles can be."
+    },
+    {
+        "speaker": "A",
+        "text": "And time horizon matters, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Time horizon matters great."
+    },
+    {
+        "speaker": "A",
+        "text": "Do not short term trade a rampant crypto bull market. You will massively underperform, which is the dont fuck it up, just buy and hold that. Worst case, just do that and worry about it when its up at new all time highs and beyond and everybodys counting 1000, 2000 every time bitcoin goes up. Worry about it then. But now, no, I think thats it."
+    },
+    {
+        "speaker": "B",
+        "text": "I think my sell targets would be sell something like 10%, not even just a small percentage of it. When we hit all time highs, when were back to five k on eth, when we were back to 69k on bitcoin. Between now and then I dont want to sell anything. And even then I only want to sell 10% because my view is that well going materially higher, well go much, much higher, and then well have a new cycle and then well go even higher the next cycle and so forth. So its like where were sitting here right now with like prices still where they were five or six years ago before youve had all these changes in crypto. Its just madness. Its total, total madness. And I think, I honestly really believe its an unbelievable opportunity and I dont want people to go out there and gamble their life savings because you certainly ever put in what you can afford to lose."
+    },
+    {
+        "speaker": "A",
+        "text": "But yeah, just dont use leverage. I mean leverage. Just dont use leverage."
+    },
+    {
+        "speaker": "B",
+        "text": "Dont use leverage. Yeah I did mention that earlier, but dont use it."
+    },
+    {
+        "speaker": "A",
+        "text": "Youre a professional trader right? Just generally don't use leverage because an 80 volts asset with leverage is a route to the poor house. If you don't know what you're doing."
+    },
+    {
+        "speaker": "B",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "A",
+        "text": "Options are all right, but they tend to get very expensive anyway."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, absolutely. But sometimes you just gotta recognize these paradigm shifts. And when you're in one, and even if you don't know you're in one, if you think there's a good probability, you just gotta take some risk. You have to go for it. And I remember the, I remember my first day on the trading floor. A senior trader said to me is, if you have conviction or something, you got to put the risk on. Don't think, don't dilly dally over level stuff. Just put the risk on, have conviction and ride it. And I think that's where we are now. I really do."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And the same, it's that mid curve thing. Just get out of the mid curve at this point. Right. It's a crypto bull market. That's all you need to know."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "So final question before we get to audience questions. Anybody watching this, drop some questions anywhere and we'll try to get to them. But the question is about. Okay, let's assume we're going out to the tail now and looking for diamonds in the dust. This is the same question with nfts. It's so difficult. Do you build a basket? Do you really focus on something because you like Defi or are you like Mando and you're just talking about Pepe all day? What is it? How the hell do you think about that? I gave up. I started an asset management company instead to give it to hedge funds because it's their job. So exponential hedge asset management to fund the funds that invest in digital asset hedge funds because they can do that all day because it's so hard."
+    },
+    {
+        "speaker": "B",
+        "text": "I think if you're looking at altcoins, let's move away from bitcoin, eth and l one s, you kind of have two options, really. You either buy stuff where you like what they're building, you like the technology and you hope it works, or you buy stuff because you're buying it for the intention economy. And that's what the pepe trade is. And I have to that Mando's fully convinced me on that too."
+    },
+    {
+        "speaker": "A",
+        "text": "But I think he might be right as well. But it's just not my wheelhouse. He was hitting me up about it. I get it, but I just, I."
+    },
+    {
+        "speaker": "B",
+        "text": "Love that he hit you up about it. I'm going to make fun of him for that. Later. But I think the way that crypto works and what happened with Doge and Shiba and some of this other stuff is attention economy stuff. And it's still mostly retail traders, but even institutional people that are on Twitter, they understand how this market works. So you have to just identify things that have the right DNA where they can capture some attention. And I think that's why sometimes people get lost and like, oh, this coin's amazing because it solves this issue and this tech is brilliant. But again, do you want to be on the tail curves, on the mid curve?"
+    },
+    {
+        "speaker": "A",
+        "text": "Somebody put that thing on Twitter this morning. Did you see there was something about ZK roll ups with snark and blah blah blah. And the actual crypto person is it's got a dog in it."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, exactly."
+    },
+    {
+        "speaker": "A",
+        "text": "Tech does not win."
+    },
+    {
+        "speaker": "B",
+        "text": "It doesn't win. It doesn't win. And I think getting attention and virality does not too dissimilar to nfts and trying to identify those things. And one of the reasons why we liked and looked at Pepe was because of that. But a lot of these meme coins, when you look at the numbers, the volumes die down very quickly. They go to zero with that one. That's doing. I mean, yesterday did $400 million in volume. Like, it's like consistently being top 20 coins almost volume wise, like every single day for the last two months. And that's just the spot. Like, if you look at perps, it's top three or four. So those volumes are crazy. I've never seen anything do that insane amount of volumes. And it has all the DNA of like, this is a good meme. This is the potentially the strongest Internet meme of all time. And it naturally has a community around it. Naturally is crypto native. All these kinds of things, narratives, they just make sense. And you cant explain this to any normal person or terrified person that, well, wheres the value? And all this stuff? But I think thats overthinking it. I really do. And thats something that I like is like, okay, maybe were wrong and its extremely high risk. But if we are in this big cycle and you do have a big altcoin rally and you do have a big tension economy rally, that's got a good, as you know, that's a surefire, not surefire bet. That's good a bet as anything else out there. And the way that we like to trade is we just pick something that we're convicted on, just go big on it, and be very concentrated. And that's what we've done there."
+    },
+    {
+        "speaker": "A",
+        "text": "So when the rec fund, I bet you're thinking about it."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So we visited it about a year or so ago and then we decided not to because it wasn't a good entry point for the market. And then we decided, well, we just trade with our own money because you don't dance to anyone. It's more fun. But I have to say, looking at all these opportunities now and looking at where things are, it's like, man, if we just raise a fund and put it into some pretty simple trades, you could really return a lot of money to your investors, potentially with a good probability, and obviously make a lot of money for the fund as well. So I don't know if we'll go down that route or not yet. We have things in so many different pies, but it's always in the back of our minds for sure."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Because you can't get that out of your skin. Right. Once a trader, always a trader."
+    },
+    {
+        "speaker": "B",
+        "text": "Always. Yeah, always."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. Let's get some questions. Okay, Peter, who's on the real vision website now we've had time to read the XRP case. What do you think this now means for other coins named as securities by the SEC?"
+    },
+    {
+        "speaker": "B",
+        "text": "Peter, it significantly weakens the arguments against those other coins. I think you have to look into the specifics of XRP. So I think they said the institutional sales actually did offend securities laws, but the programmatic sales didn't. So you have to look at the way that other coins did their icos or did their sales. And I think potentially some coins that did icos maybe still violates SeC laws, but as a whole. For example, ETh which was in that bucket earlier. Eth is fine. EtH will be fine as a result of it. So I think it will have a knock on effect to other coins. I think you should see other altcoins that got beaten up because of this bounce back. But the real smart trade, to be honest with you, is to look into the exact language of this ruling and find out which coins it applies to, where theyre clear, and which coins it applies to, where theyre not clear. And you want to be really creative, you can put on that spread trade or whatever. But I think thats what you should be doing."
+    },
+    {
+        "speaker": "A",
+        "text": "Raoul OK, next question. Jorge or George on the royal Vision website. GM, great fan. For those of us who are well positioned already, please, some thoughts on how to exit so that we don't eat another. So we don't eat another. My third bear market. So my view on this is, I don't think you should exit. And I've gone through the maths of exiting versus not exiting and I always find exiting is actually suboptimal, but people don't like it. I'm so used to the drawdown, I don't care. But what do you think about exits? We talked a bit about scaling out."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. My view on exits is they should be more to do with your personal life and personal goals and ambitions in terms of the money than whether you think it's going to go up or down. If you're like, I want to buy a house. When you make that money to reach that goal, you should sell it. Even if you think it's going to go higher, you should sell it because you're achieving that goal. If you have kids that you want to put through school, whatever it is."
+    },
+    {
+        "speaker": "A",
+        "text": "Money can't be the goal. Life is the goal itself."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And that's how I'm thinking about it. I'm like, well, maybe one day my wife and I want to have kids. We want to buy a house. When I get to that stage, that's why I'll want to take profits on. And so I've set myself price targets in my head where I'll sell 10%, here's where I'll sell 20%. And then once you set yourself those targets, you have to stick to them. You have to stick to the plan. When it gets to your sell target, you can't just be like, oh, I think it's going higher, so I'm not going to sell now."
+    },
+    {
+        "speaker": "A",
+        "text": "It's classic."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. That's not the reason why you set it. You set it to avoid because you wanted that money out. And I think that's the way you have to start thinking about, figure out how much money you want to make or take out to achieve whatever in real life goals you want to achieve and then back solve for what percentage you need to sell at each level. And then the main thing is write it down a piece of paper and stick to the plan. Dont deviate from it no matter what happens."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think thats right. If the cost of your goal is less than the total capital youve got in space, you can ride the rest because youve essentially taken profits. What you've done is banked it into lifestyle and you can go again without the fear of. The hard thing is thinking you're about to buy a new house and then suddenly you can't afford to because what you've done is crushed your image of your future self that you promised yourself. That's really hard to deal with. The P and L. Going up and down is much easier than that thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Yeah, absolutely. That's the right way to do it."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, Timothy, who's on the RV website? Ovi. I love the skateboards in the corner. Are the skateboards part of an NFT project?"
+    },
+    {
+        "speaker": "B",
+        "text": "So one of them is a skateboard I bought when I lived in NYC, which is not. But the other one that's slightly more colored is actually. I bought a piece of art from an artist called Alien Queen. It's a one on one, unique piece of art. And for all her collectors, she actually printed the artwork on a skateboard. On a skateboard deck and then sent it to us. The colored one there is exactly that."
+    },
+    {
+        "speaker": "A",
+        "text": "There's actually a few skaters in the space because fuck. Render. Who both you and I know, Ian Rogers, another skater. There's a whole bunch of them. Right. It's a weird subculture within NFTs."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think that's not coincidence. I think NFTs are kind of counterculture. Skateboarding has been for a long time and I think it brings together similar people, I would say."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, next question. Paul on the real vision website, I think ov should tokenize his hair for the RV community. Yeah, you're getting like Faroque, right? Just because you've all got the same names doesn't mean you have to have the same hair."
+    },
+    {
+        "speaker": "B",
+        "text": "It's definitely getting a bit long. I think it's been almost a year since I've cut it now. So, yeah, I'm well on my way to you."
+    },
+    {
+        "speaker": "A",
+        "text": "Starting to look like a Bollywood star. It's hilarious. Bijan, who works for real vision, runs our community on the real Vision website, recently been hearing about ERC 6551 and AI PFPs or aiPs. Curious to hear your thoughts. He asked for my thoughts. I have no idea. But you might know."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think. I can't remember if it's 6551 or a different standard, but it's pretty interesting. Like, there's things that will come into Ethereum standards, will allow you to have subscriptions on chain. It will allow for NFT to be owned by other NFTs and it will allow for, I think, different level of like, dynamicness that you. That kind of exists in MT's right now, but not to, um. Not to a level or a standard where people are amazed or wowed by it, but all this stuff is the future. Like, again, it goes back to the question like, what is the difference between buying a painting and buying an NFT? And you want to make that NFT have features and standards and functionality that is not possible to replicate in a painting. And I think some of these standards will. Will achieve that. So first I've heard of AI PFP, so I'm curious to, after this, read a bit more about what that exactly is. But I've seen a lot of the 6551 stuff and I think it's going to be interesting and it will also change. It will change the way that consumers also interact with NFTs as well, in a way that's a bit more understanding and user friendly than what we're used to."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, Gary, on the real Vision website, any views on Galaxy? Galaxy Digital? I just lump them all together and say that probably if the market goes up, they go up, but no real comment whether Novo's built a good business or not."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I've not thought. I mean, this is now going to be like, what? Like post bankruptcy proceedings kind of thing, and you're going to have to figure out the recovery value of everything and look at it from, like, a distressed mindset. On that note, I would say, like, it's very hard, unless you're like, the weeds, it's very hard to get the right information as to where it could go and where it could recover because people will have access to private information that you won't have access to. So, yeah, like, I would lump it with everything, but I think as we see the fallout of this and three ac and Celsius and all these things like the FTX, all of them will have different recoveries and they'll be based on numbers that most of us don't have access to. And so it's very hard to judge whether to buy or sell, if that makes sense, without having all the information. And I say this having worked on distress desk, I think we're talking about."
+    },
+    {
+        "speaker": "A",
+        "text": "A different stock because Galaxy's the Novo's investment bank. That's not gone bust, is it?"
+    },
+    {
+        "speaker": "B",
+        "text": "You know what? I was thinking of digital. Galaxy group of DC Digital?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, DCG. I was like, what? Novo's gone bust. Oh, my God."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, I was thinking of DCG. God, everyone, Garrett, Paul or Gary's having a heart attack. I don't have a strong view on Galaxy Digital, but apologies for the. What about."
+    },
+    {
+        "speaker": "A",
+        "text": "Is he breaking news here?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, apologies for the mix up."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, Ralph, on the RV website, do you know if Damien Hirst is planning to offer any more nfts? I don't know, actually. I know his business manager and stuff like that. Have you come across any of that group, any of the Henny group or any of those guys, not that I'm aware of."
+    },
+    {
+        "speaker": "B",
+        "text": "You had great expectations, which was the follow up to currency."
+    },
+    {
+        "speaker": "A",
+        "text": "He also is pretty. He's a good businessman and he wouldn't be active in this market."
+    },
+    {
+        "speaker": "B",
+        "text": "I think he's smart. He probably realized. He probably knows this is not the right time to come in and sell art. Would I be surprised if he came back in a stronger market to sell stuff? I wouldn't be surprised."
+    },
+    {
+        "speaker": "A",
+        "text": "Did you buy the currency?"
+    },
+    {
+        "speaker": "B",
+        "text": "We did, yeah. We did have some. We actually ended up selling them all, but we did originally buy them."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah, I kept mine. You know, it was just a really interesting idea of getting a physical because it really. It's him proving that digital art is worth the same as physical art."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "You know, it's just a really interesting experiment. I think it will stand the test of time."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Because there's Damien Hirst experimenting and proving for the first time that these things are of equivalence of value depending who owns them. Okay, running into the last one. Simon on YouTube. What's the chance of an ethereum spot eTF in the US?"
+    },
+    {
+        "speaker": "B",
+        "text": "I personally think it's quite high. I think you'll need some sec clarity. But once everyone does bitcoin and it goes really well, people will say, well, I want to do ETh. It's just the next. It's just the natural progression."
+    },
+    {
+        "speaker": "A",
+        "text": "Fidelity. Fidelity. Have shown that way. They start with all the bitcoin offerings. Now they've got ETh. Everybody wants to get eth done."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, exactly. So, I mean, I don't know why."
+    },
+    {
+        "speaker": "A",
+        "text": "They want to do ETh."
+    },
+    {
+        "speaker": "B",
+        "text": "Why?"
+    },
+    {
+        "speaker": "A",
+        "text": "It's because it's the same as what they do with ETF's. They take the stock, borrow. In this case, they'll keep the yield."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "They'll give you spot returns of ETH and they'll keep yields. Of course they will."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "It's so lucrative for them."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. Yeah. That's genius. So I guess the answer is pretty high. I don't know the. I mean, I don't know what has to happen from a regulatory and legal standpoint, but, you know, if ETH is in the clear, securities bias. I think people will try. I think people try because it's lucrative businesses for all of them."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly. Zindaggi on YouTube. Greetings from Cambodia. This is why I love this shit. Right? Everybody's everywhere. Fantastic. Any thoughts on Sol moving forwards? I think everyone knows my view on Sol. What's your view?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I like it. I think it's proven that it's not going to die. I think the reason why people don't want to touch other l ones because they think this network will no longer be used. Solana's been around for a while now and they have people actively working on it. I think it will do pretty well. That's one where, like, if you're looking for. I think if you're looking for more juice outside of ETh or outside of bitcoin, whatever it is, like that has it, like, what's that down from all time highs? Like 80% or something like that, probably. And, you know, there is. I'm not an ETH. I love eth, but I'm not an eth, Maxi. Like, there's room in the world for more than one l, one chain. And I think each cycle you'll get like another thing that joins the group of things that will always exists and perform. And I don't own any Solana at all. I definitely thought about it a lot, but personally I think it will fall into that category."
+    },
+    {
+        "speaker": "A",
+        "text": "Really interesting to see tolly talking about. Just theoretically, could it be a layer two to ETh? Could you use ETh as the security layer? And I'm like, that's interesting because everything becomes interoperable if you kind of have a couple of one or two mega change, which is the security level, and everything goes on top."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's an interesting thought. I hadn't thought about that before. I do think the future is this omnichain future where the user doesn't really know what chain it's on and everything with each other and which is probably constructive for anything that is still around in five years. But yeah, it's an interesting thought. Actually. I never thought of that as a user. No."
+    },
+    {
+        "speaker": "A",
+        "text": "It struck me when he was, he was kind of debating just out on Twitter to see. And I just like. That's fascinating because if we want to have this omnichain world, do you need all of the security levels in every chain? Because then you can be faster. It's the layer two idea. But use eth as the base layer. I'm like, that's interesting. Okay. Castillero on YouTube. Ok, this is one for you as well. How do you see web three? Gaming could be huge in the next cycle. IMX and Matic. Seeing the obvious winners. Or it's not matic anymore. It's now pol or something, isn't it? Poll obvious winners. How are you thinking through gaming? Because you've mentioned it before."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. I mean, gaming is just, you have to have to think gaming. Web three is going to be so huge. It's so, such a massive, like esports and online games, such a massive sector outside of web three. And the reason why they haven't jumped into web three is because the game makers and the operators are making so much money they have no reason to. Right. But eventually this is something that's having this idea of interoperable currencies within the underpin the games and the native currencies. It's so much of a benefit for game players. Eventually someone is going to make a game that's a lot better than Axie Infinity, a good web three game that will go viral. Maybe it's yuga labs with other side. Maybe it's something that's building on IMX o matic, but some will do it, it'll go viral and people will realize like, oh shit, I can play this game and make real money from it and be able to change this into ETh or whatever it is and have a real play to earn component to it that is on a good game. We just need that game to come. We haven't seen that game."
+    },
+    {
+        "speaker": "A",
+        "text": "The issue is with all of these is I think of these as economies and if you're not careful, you just get capital flying. You need to get FDI into the economy. And how do you drive the two way flow of capital in and out of the borders? That's the thing that needs to be solved that I've not yet seen fully solved in crypto closed economies."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I guess. I don't know. Is the FDI that the web, two native people realize they have to make the switch because someone's nailed it with a really good game. Maybe that's what it is and that's not what we're seeing."
+    },
+    {
+        "speaker": "A",
+        "text": "Or maybe you have to have a certain amount of stake. Like you need to go to the casino, so you need to buy to enter the world or at least stake it. It has to be something that creates a two way demand for this stuff. Because if not, the gamers are always like axie Infinity, always incentivized to just take the money out and then pay for their food in the Philippines because it was the Filipino driven and it was a way of making money in dollars. But then it just becomes difficult. Okay, just coming into the last few minutes here, not selling this is BB on YouTube. Not selling the majors at all time highs has been a strategy that's worked for both prior cycles. Would you apply the same framework to meme coins like Pepe?"
+    },
+    {
+        "speaker": "B",
+        "text": "Thats a pretty good question. I mean something like Pepe has only been around for a few months. Its hard to compare against all time highs. I think what you probably want to do is apply some kind of a ratio to eth or bitcoin or some kind of a beta and then see how that ratio changes as eth of bitcoin goes a lot higher. For me, in my head its like, well im not looking at Pepe or any other meme coin and thinking when I get store so hung and sell 10% but im like, well bitcoin gets here, when ETh gets here, how has that relationship versus the majors changed? And if it's bitcoin dominance is still 52% and the altcoins haven't really moved bitcoins at all time highs, then I'm like, well, I probably want to keep these altcoins. It's dropped to 40% or 35% and altcoins have outperformed. Then that feels like a better time to sell. So I think you're applying that strategy. I think you want to be looking at ratios to majors rather than the absolute levels on the altcoins."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, I got to that with the whole of the investing world. I kind of looked everything and what drives it and how it drives it and then break it all down to, okay, whats going to drive the most returns for the view? And I cant find anything that beats crypto, right? So technology, yes, and weve seen it this year, but cryptos done double that. And so my base investment is will it be eth or not? Its as simple as that. I think Solana might, just because I like the chart and I can see it's the third branded chain because they're all in the business of selling blockchains and they've got a brand. Most people don't have a brand yet, so I can see that. But I just think of that. And same with my nfts. It's all about can I beat the one asset allocation of truth for me, which is just Eth? And it's not because I'm an Eth Max or anything else. It's just the best vehicle to express the view."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, absolutely. I completely agree. And it's a perfect natural benchmark, I think."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, final question. Okay. Varys on YouTube. When do you see the next correction in the s and P and crypto? This year. And I know, Raoul, you don't want to trade crypto, but if you wanted to trade EtH for the next six months, how would you do it?"
+    },
+    {
+        "speaker": "B",
+        "text": "The next correction? I'm assuming that means a correction downwards, I think there are still a few risks out there. You have the FOMC at the end of this month and for whatever reason Powell seems to be want to be very hawkish the whole time. And those FOMC meetings we get every month, their potential risks. I think the other big risk right now is it's been smooth sailing for inflation because the annual comps are very easy. When you're comparing 9% versus inflation inflation last year to today, its easy to beat that. So as we go into the next six months with a very strong labor market in the US, the comps start to get a bit more challenging. And the question is can we keep dropping below 3% or do we start to where do we bottom out and do we start rising? Or do we stay stable there? And I think you will find that information out in the next six months. The next six months. That number is very very important amidst a very very strong labor market, amid still what appears to be a hawkish fed. So thats a scenario where I think it could create a correction. I dont think it changes things in over 18 months but thats a possible scenario where you see some kind of correction in the next few months."
+    },
+    {
+        "speaker": "A",
+        "text": "Im going to go with the opposite which is the first rate cut is when you get a big fucking sell off. I remember this from trading euro dollar futures. Its the anticipation of the easing of. Thats why everythings going up. Its the anticipation of, of stimulus to help the business cycle develop and bottom out and start moving forwards. And the amount of times I got caught out by the rumor. Sell the fact and before you wear 100 basis point pullback in euro dollars which is huge for no reason, but everybody's over their ski tips long betting on it. So my guess is if there's a bigger broader correction it's because we've all bought into the same narrative and there's no buyers left at that particular moment. As opposed to bad news. It's probably good news that does it."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah that makes sense. I guess if they're cutting by the time they get to rate cuts, maybe we're not in a stronger place economically as well. So housing market could finally break or whatever it is. So there's those things as well. That might time."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah I mean I think that all of that commercial real estate has to end up on the balance sheet of the Fed and probably all the world's central banks because there's no answer. Nobody's ever going back to the office again. So there's no answer to that stuff. So as soon as the leases come up, it's going to get dumped back on the banks and the whole banking system goes under unless the Fed takes it."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, yeah, I agree."
+    },
+    {
+        "speaker": "A",
+        "text": "Perfect. Listen, evie, fantastic, really great, wide ranging, fun conversation, and appreciate you dropping by."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, thanks a lot for having me. Always a pleasure. And hope you and everyone listening has a great weekend."
+    },
+    {
+        "speaker": "A",
+        "text": "Yep. And hopefully I'll see you in person somewhere soon in the world."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, sure we will."
+    },
+    {
+        "speaker": "A",
+        "text": "All right. Take care."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. What's up, revolutionaries? Thanks for tuning in. For more content like this, head over."
+    },
+    {
+        "speaker": "A",
+        "text": "To realvision.com and get unfiltered access to."
+    },
+    {
+        "speaker": "B",
+        "text": "The very best, brightest, and biggest names in finance."
+    }
+]
