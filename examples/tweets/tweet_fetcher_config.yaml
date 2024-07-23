@@ -1,0 +1,21 @@
+# API settings
+api_endpoint: 'http://localhost:8080/api/v1/data/twitter/tweets/recent'
+headers:
+  accept: 'application/json'
+  Content-Type: 'application/json'
+
+# Query settings
+query_hashtag: '#memecoin'
+days_to_fetch: 100
+tweets_per_request: 100
+
+# File settings
+data_directory: 'data'
+
+# Timing settings
+retry_delay: 960  # 16 minutes in seconds
+request_delay: 15  # 15 seconds between requests
+
+# Logging settings
+log_level: 'INFO'
+log_format: '%(asctime)s - %(levelname)s - %(message)s'
