@@ -1,21 +1,27 @@
 import requests
+import os
 import yaml
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 import time
 import logging
-from tweet_service import setup_logging, ensure_data_directory, save_tweet_response, create_tweet_query
+from tweet_service import setup_logging, ensure_data_directory, save_all_tweets, create_tweet_query
 
 def load_config():
-    with open('tweet_fetcher_config.yaml', 'r') as file:
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+    config_path = os.path.join(dir_path, 'tweet_fetcher_config.yaml')
+    with open(config_path, 'r') as file:
         return yaml.safe_load(file)
 
 def fetch_tweets(config):
     api_calls_count = 0
     records_fetched = 0
+    all_tweets = []  # Initialize an empty list to store all tweets
 
-    end_date = datetime.now().date()
-    start_date = end_date - timedelta(days=config['days_to_fetch'])
+    # Use the start_date and end_date from the config
+    start_date = datetime.strptime(config['start_date'], '%Y-%m-%d').date()
+    end_date = datetime.strptime(config['end_date'], '%Y-%m-%d').date()
+    days_per_iteration = config['days_per_iteration']  # Get the number of days per iteration from the config
 
     ensure_data_directory(config['data_directory'])
 
@@ -26,8 +32,13 @@ def fetch_tweets(config):
         success = False
         attempts = 0
         while not success and attempts < 3:
-            day_before = current_date - timedelta(days=1)
-            query = create_tweet_query(config['query_hashtag'], day_before, current_date)
+            # Calculate the start date for the current iteration
+            iteration_start_date = current_date - timedelta(days=days_per_iteration)
+            # Ensure the iteration does not go before the start_date
+            day_before = max(iteration_start_date, start_date - timedelta(days=1))
+
+            # Use the adjusted start date (day_before) for the query
+            query = create_tweet_query(config['query'], day_before, current_date)
             request_body = {"query": query, "count": config['tweets_per_request']}
 
             response = requests.post(config['api_endpoint'], json=request_body, headers=config['headers'], timeout=60)
@@ -35,25 +46,30 @@ def fetch_tweets(config):
 
             if response.status_code == 200:
                 response_data = response.json()
-                save_tweet_response(response_data, current_date, config['data_directory'])
                 if response_data and 'data' in response_data and response_data['data'] is not None:
+                    all_tweets.extend(response_data['data'])
                     num_tweets = len(response_data['data'])
                     records_fetched += num_tweets
-                    logging.info(f"Fetched and saved {num_tweets} tweets for {current_date.strftime('%Y-%m-%d')}.")
+                    logging.info(f"Fetched {num_tweets} tweets for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}.")
                     success = True
                 else:
-                    logging.warning(f"No tweets fetched for {current_date.strftime('%Y-%m-%d')}. Rate limited, pausing before retrying...")
+                    logging.warning(f"No tweets fetched for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}. Rate limited, pausing before retrying...")
                     time.sleep(config['retry_delay'])
                     attempts += 1
             else:
-                logging.error(f"Failed to fetch tweets for {day_before.strftime('%Y-%m-%d')}: {response.status_code}")
+                logging.error(f"Failed to fetch tweets for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}: {response.status_code}")
                 break
 
         if not success:
-            logging.error(f"Failed to fetch tweets for {current_date.strftime('%Y-%m-%d')} after {attempts} attempts.")
+            logging.error(f"Failed to fetch tweets for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')} after {attempts} attempts.")
 
-        current_date = day_before
+        # Decrement current_date by the specified number of days for the next iteration
+        current_date -= timedelta(days=days_per_iteration)
+
         time.sleep(config['request_delay'])
+
+    # After all requests, save the accumulated tweets to a single file
+    save_all_tweets(all_tweets, config['data_directory'])
 
     logging.info(f"Operation completed. Total API calls made: {api_calls_count}. Total records fetched: {records_fetched}.")
 
