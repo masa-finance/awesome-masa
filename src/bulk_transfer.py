@@ -3,13 +3,15 @@ import bittensor
 
 # Initialize the wallet and subtensor
 wallet = bittensor.wallet(name="owner")
+print("wallet up")
 subtensor = bittensor.subtensor("ws://100.28.51.29:9945")
-
+print("subtensor up")
 # Read the CSV file and extract Coldkeys
 coldkeys = []
 with open("tTAO_requests.csv", mode="r") as file:
     csv_reader = csv.DictReader(file)
     for row in csv_reader:
+        print("Coldkey" + row["Coldkey"])
         coldkeys.append(row["Coldkey"])
 
 # Read the funded coldkeys from data/funded_coldkeys.txt
@@ -32,8 +34,8 @@ coldkeys_to_fund = [
 total_coldkeys = len(coldkeys_to_fund)
 for index, coldkey in enumerate(coldkeys_to_fund):
     try:
-        subtensor.transfer(wallet=wallet, dest=coldkey, amount=5.0)
-        print(f"Transferred 5 TAO to {coldkey}")
+        subtensor.transfer(wallet=wallet, dest=coldkey, amount=20.0)
+        print(f"Transferred 20 TAO to {coldkey}")
         print(f"{total_coldkeys - (index + 1)} coldkeys left")
 
         # Append the coldkey to data/funded_coldkeys.txt
