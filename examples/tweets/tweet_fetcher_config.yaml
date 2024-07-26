@@ -5,13 +5,13 @@ headers:
   Content-Type: 'application/json'
 
 # Query settings
-query: '#memecoin'
-tweets_per_request: 400
+query: '(from:MacnBTC)'
+tweets_per_request: 150
 
 # Add start_date and end_date
 start_date: '2023-07-24'
 end_date: '2024-07-24'
-days_per_iteration: 1
+days_per_iteration: 5
 
 # File settings
 data_directory: 'data'
