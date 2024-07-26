@@ -55,7 +55,7 @@ def fetch_tweets(config):
     while current_date >= start_date:
         success = False
         attempts = 0
-        while not success and attempts < 10:
+        while not success and attempts < 3:
             iteration_start_date = current_date - timedelta(days=days_per_iteration)
             day_before = max(iteration_start_date, start_date - timedelta(days=1))
 
