@@ -18,3 +18,5 @@ dependencies:
     - transformers
     - numpy
     - pinecone
+    - streamlit
+    - ollama
