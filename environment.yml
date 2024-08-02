@@ -20,3 +20,4 @@ dependencies:
     - pinecone
     - streamlit
     - ollama
+    - colorlog

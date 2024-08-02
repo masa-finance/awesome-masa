@@ -1,0 +1,130 @@
+{
+    "last_known_state": {
+        "current_date": "2024-05-17 08:43:38.265",
+        "last_message_id": "1240947829568966697"
+    },
+    "api_calls_count": 19,
+    "records_fetched": 1900,
+    "all_messages_sample": [
+        {
+            "author": {
+                "avatar": "30727d7c132c8d989c58dd1b586e88bd",
+                "discriminator": "0",
+                "id": "410036120978587658",
+                "username": "kycoinapple.com"
+            },
+            "channel_id": "906256283068403732",
+            "content": "you better to go either <#1247449212124401756> or <#897582685759893535>",
+            "id": "1263871643340505179",
+            "timestamp": "2024-07-19T14:54:41.372000+00:00"
+        },
+        {
+            "author": {
+                "avatar": "d6cef23598b33ad71bf2e276d7e63a4d",
+                "discriminator": "5683",
+                "id": "1189727263000907807",
+                "username": "Masa-Guard"
+            },
+            "channel_id": "906256283068403732",
+            "content": "",
+            "id": "1263871353900236860",
+            "timestamp": "2024-07-19T14:53:32.364000+00:00"
+        },
+        {
+            "author": {
+                "avatar": "a4af09ce965246ac0f9987508347ed7f",
+                "discriminator": "0",
+                "id": "679297266334433293",
+                "username": "elpam_gnoud"
+            },
+            "channel_id": "906256283068403732",
+            "content": "how many storage disk you think is proper for the vps",
+            "id": "1263846571087364119",
+            "timestamp": "2024-07-19T13:15:03.681000+00:00"
+        },
+        {
+            "author": {
+                "avatar": "a4af09ce965246ac0f9987508347ed7f",
+                "discriminator": "0",
+                "id": "679297266334433293",
+                "username": "elpam_gnoud"
+            },
+            "channel_id": "906256283068403732",
+            "content": "hey <@210390925153665024>",
+            "id": "1263846495124328548",
+            "timestamp": "2024-07-19T13:14:45.570000+00:00"
+        },
+        {
+            "author": {
+                "avatar": "0c8297a34843dd1246f7412a2a0b2027",
+                "discriminator": "0",
+                "id": "865729630899273753",
+                "username": "zzqqww"
+            },
+            "channel_id": "906256283068403732",
+            "content": "Where can I browse team information?",
+            "id": "1263841808560164969",
+            "timestamp": "2024-07-19T12:56:08.206000+00:00"
+        },
+        {
+            "author": {
+                "avatar": "9f42f60f1f13eea514380d59983dfddf",
+                "discriminator": "0",
+                "id": "1092123970867826739",
+                "username": "dada8795"
+            },
+            "channel_id": "906256283068403732",
+            "content": "<@407078241489387540>  please get him some champagne \ud83c\udf7e he must be tasty \ud83d\ude0b to know what we are into",
+            "id": "1263770632798339112",
+            "timestamp": "2024-07-19T08:13:18.582000+00:00"
+        },
+        {
+            "author": {
+                "avatar": "9f42f60f1f13eea514380d59983dfddf",
+                "discriminator": "0",
+                "id": "1092123970867826739",
+                "username": "dada8795"
+            },
+            "channel_id": "906256283068403732",
+            "content": "In here at Masa the Vtrust is inbuilt  in every masa team members \u2764\ufe0f<@1107547404913360906>",
+            "id": "1263770323497783327",
+            "timestamp": "2024-07-19T08:12:04.839000+00:00"
+        },
+        {
+            "author": {
+                "avatar": "9f42f60f1f13eea514380d59983dfddf",
+                "discriminator": "0",
+                "id": "1092123970867826739",
+                "username": "dada8795"
+            },
+            "channel_id": "906256283068403732",
+            "content": "Mate! The handler isn't in the wrong group welcome \ud83e\udd17 to MASA community your number one worldwide Best community in crypto/web3 <@1107547404913360906>",
+            "id": "1263769518644400130",
+            "timestamp": "2024-07-19T08:08:52.947000+00:00"
+        },
+        {
+            "author": {
+                "avatar": "9f42f60f1f13eea514380d59983dfddf",
+                "discriminator": "0",
+                "id": "1092123970867826739",
+                "username": "dada8795"
+            },
+            "channel_id": "906256283068403732",
+            "content": "VTrust is a blockchain-based platform that aims to provide a decentralized and secure way to create, manage, and execute trusts. A trust is a legal arrangement where one party (the settlor transfers assets to another party (the trustee) to hold and manage for the benefit of a third party (the beneficiary",
+            "id": "1263769060974268476",
+            "timestamp": "2024-07-19T08:07:03.830000+00:00"
+        },
+        {
+            "author": {
+                "avatar": "9f42f60f1f13eea514380d59983dfddf",
+                "discriminator": "0",
+                "id": "1092123970867826739",
+                "username": "dada8795"
+            },
+            "channel_id": "906256283068403732",
+            "content": "Maybe Virtual trust or something",
+            "id": "1263768517568626729",
+            "timestamp": "2024-07-19T08:04:54.272000+00:00"
+        }
+    ]
+}
