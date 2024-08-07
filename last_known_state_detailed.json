@@ -1,490 +1,551 @@
 {
     "last_known_state": {
-        "current_date": "2024-06-16"
+        "current_date": "2024-05-15"
     },
-    "api_calls_count": 9,
-    "records_fetched": 335,
+    "api_calls_count": 3,
+    "records_fetched": 121,
     "all_tweets_sample": [
         {
-            "ConversationID": "1805027734785307092",
-            "GIFs": null,
-            "HTML": "Other coins: Buy the dip! <br>ApeSuits: Buy the tailored fit. \ud83d\udcc8\ud83d\udc54 <br><a href=\"https://twitter.com/hashtag/InvestmentFashion\">#InvestmentFashion</a> \ud83e\udd8d <a href=\"https://twitter.com/hashtag/ApeSuits\">#ApeSuits</a> <a href=\"https://twitter.com/ApeSuitsCoin\">@ApeSuitsCoin</a> <a href=\"https://twitter.com/hashtag/Solanawhales\">#Solanawhales</a> <a href=\"https://twitter.com/hashtag/solana\">#solana</a> <a href=\"https://twitter.com/hashtag/memecoin\">#memecoin</a> <a href=\"https://twitter.com/hashtag/BTC\">#BTC</a> $SOL <br><a href=\"https://t.co/TKsIqlkpJz\"><img src=\"https://pbs.twimg.com/media/GQy-2IpagAArvJo.jpg\"/></a>",
-            "Hashtags": [
-                "InvestmentFashion",
-                "ApeSuits",
-                "Solanawhales",
-                "solana",
-                "memecoin",
-                "BTC"
-            ],
-            "ID": "1805027734785307092",
-            "InReplyToStatus": null,
-            "InReplyToStatusID": "",
-            "IsPin": false,
-            "IsQuoted": false,
-            "IsReply": false,
-            "IsRetweet": false,
-            "IsSelfThread": false,
-            "Likes": 4,
-            "Mentions": [
-                {
-                    "ID": "1699928745186914304",
-                    "Name": "ApesinSuits",
-                    "Username": "ApeSuitsCoin"
-                }
-            ],
-            "Name": "Arikso",
-            "PermanentURL": "https://twitter.com/Arikso1/status/1805027734785307092",
-            "Photos": [
-                {
-                    "ID": "1805027387912126464",
-                    "URL": "https://pbs.twimg.com/media/GQy-2IpagAArvJo.jpg"
-                }
-            ],
-            "Place": null,
-            "QuotedStatus": null,
-            "QuotedStatusID": "",
-            "Replies": 0,
-            "RetweetedStatus": null,
-            "RetweetedStatusID": "",
-            "Retweets": 0,
-            "SensitiveContent": false,
-            "Text": "Other coins: Buy the dip! \nApeSuits: Buy the tailored fit. \ud83d\udcc8\ud83d\udc54 \n#InvestmentFashion \ud83e\udd8d #ApeSuits @ApeSuitsCoin #Solanawhales #solana #memecoin #BTC $SOL https://t.co/TKsIqlkpJz",
-            "Thread": null,
-            "TimeParsed": "2024-06-23T23:58:42Z",
-            "Timestamp": 1719187122,
-            "URLs": null,
-            "UserID": "1773073583520264199",
-            "Username": "Arikso1",
-            "Videos": null,
-            "Views": 89
+            "Error": null,
+            "Tweet": {
+                "ConversationID": "1790532364927435258",
+                "GIFs": null,
+                "HTML": "Dive into the future with <a href=\"https://twitter.com/hashtag/KIZUNA\">#KIZUNA</a> - where liquidity is locked forever! \ud83d\ude80 $KIZUNA <a href=\"https://twitter.com/hashtag/cryptocurrency\">#cryptocurrency</a> <a href=\"https://twitter.com/hashtag/memecoin\">#memecoin</a><br>All will circle back to those who wear the crane's feathers \ud83e\udeb6",
+                "Hashtags": [
+                    "KIZUNA",
+                    "cryptocurrency",
+                    "memecoin"
+                ],
+                "ID": "1790532364927435258",
+                "InReplyToStatus": null,
+                "InReplyToStatusID": "",
+                "IsPin": false,
+                "IsQuoted": false,
+                "IsReply": false,
+                "IsRetweet": false,
+                "IsSelfThread": false,
+                "Likes": 8,
+                "Mentions": null,
+                "Name": "Kizuna_Druid",
+                "PermanentURL": "https://twitter.com/georgi10074/status/1790532364927435258",
+                "Photos": null,
+                "Place": null,
+                "QuotedStatus": null,
+                "QuotedStatusID": "",
+                "Replies": 1,
+                "RetweetedStatus": null,
+                "RetweetedStatusID": "",
+                "Retweets": 0,
+                "SensitiveContent": false,
+                "Text": "Dive into the future with #KIZUNA - where liquidity is locked forever! \ud83d\ude80 $KIZUNA #cryptocurrency #memecoin\nAll will circle back to those who wear the crane's feathers \ud83e\udeb6",
+                "Thread": null,
+                "TimeParsed": "2024-05-14T23:59:16Z",
+                "Timestamp": 1715731156,
+                "URLs": null,
+                "UserID": "1757861469700411393",
+                "Username": "georgi10074",
+                "Videos": null,
+                "Views": 171
+            }
         },
         {
-            "ConversationID": "1804867457309364481",
-            "GIFs": null,
-            "HTML": "<a href=\"https://twitter.com/GodsBurnt\">@GodsBurnt</a> Hello, guys, week starting with $MOON \ud83c\udf1a\u2728 the <a href=\"https://twitter.com/hashtag/memecoin\">#memecoin</a> that is winning the hearts of the <a href=\"https://twitter.com/FreeMoonMeme\">@FreeMoonMeme</a> community \ud83e\udd11 Come and meet $MOON \ud83d\udd25\ud83d\ude80\ud83c\udf1a",
-            "Hashtags": [
-                "memecoin"
-            ],
-            "ID": "1805027636394983753",
-            "InReplyToStatus": null,
-            "InReplyToStatusID": "1804867457309364481",
-            "IsPin": false,
-            "IsQuoted": false,
-            "IsReply": true,
-            "IsRetweet": false,
-            "IsSelfThread": false,
-            "Likes": 1,
-            "Mentions": [
-                {
-                    "ID": "1547753041092231168",
-                    "Name": "Shibo",
-                    "Username": "GodsBurnt"
-                },
-                {
-                    "ID": "1783105319142379520",
-                    "Name": "MoreGen FreeMoon",
-                    "Username": "FreeMoonMeme"
-                }
-            ],
-            "Name": "WillOnPro",
-            "PermanentURL": "https://twitter.com/WillOnPro/status/1805027636394983753",
-            "Photos": null,
-            "Place": null,
-            "QuotedStatus": null,
-            "QuotedStatusID": "",
-            "Replies": 0,
-            "RetweetedStatus": null,
-            "RetweetedStatusID": "",
-            "Retweets": 0,
-            "SensitiveContent": false,
-            "Text": "@GodsBurnt Hello, guys, week starting with $MOON \ud83c\udf1a\u2728 the #memecoin that is winning the hearts of the @FreeMoonMeme community \ud83e\udd11 Come and meet $MOON \ud83d\udd25\ud83d\ude80\ud83c\udf1a",
-            "Thread": null,
-            "TimeParsed": "2024-06-23T23:58:18Z",
-            "Timestamp": 1719187098,
-            "URLs": null,
-            "UserID": "1751637704255713280",
-            "Username": "WillOnPro",
-            "Videos": null,
-            "Views": 11
+            "Error": null,
+            "Tweet": {
+                "ConversationID": "1790532099524456691",
+                "GIFs": null,
+                "HTML": "Don't know who needs to hear this.. But you really need to quit missing out on $KENDU \ud83d\ude80\ud83d\ude80\ud83d\ude80<br><br>$ETH <a href=\"https://twitter.com/hashtag/Ethereum\">#Ethereum</a> <a href=\"https://twitter.com/hashtag/meme\">#meme</a> <a href=\"https://twitter.com/hashtag/Memecoin\">#Memecoin</a> $GME $AMC <a href=\"https://twitter.com/hashtag/Crypto\">#Crypto</a> <a href=\"https://twitter.com/KenduInu\">@KenduInu</a> <a href=\"https://twitter.com/KenduLabs\">@KenduLabs</a> <br><a href=\"https://t.co/dpYuoZuhg1\"><img src=\"https://pbs.twimg.com/media/GNk_Ob_XsAE4GCZ.png\"/></a>",
+                "Hashtags": [
+                    "Ethereum",
+                    "meme",
+                    "Memecoin",
+                    "Crypto"
+                ],
+                "ID": "1790532099524456691",
+                "InReplyToStatus": null,
+                "InReplyToStatusID": "",
+                "IsPin": false,
+                "IsQuoted": false,
+                "IsReply": false,
+                "IsRetweet": false,
+                "IsSelfThread": false,
+                "Likes": 51,
+                "Mentions": [
+                    {
+                        "ID": "1759591525439479808",
+                        "Name": "Kendu Inu",
+                        "Username": "KenduInu"
+                    },
+                    {
+                        "ID": "1770519681729953792",
+                        "Name": "Kendu Labs",
+                        "Username": "KenduLabs"
+                    }
+                ],
+                "Name": "CryptoSteu\ud83d\udc0d",
+                "PermanentURL": "https://twitter.com/CryptoSteu/status/1790532099524456691",
+                "Photos": [
+                    {
+                        "ID": "1790531844120752129",
+                        "URL": "https://pbs.twimg.com/media/GNk_Ob_XsAE4GCZ.png"
+                    }
+                ],
+                "Place": null,
+                "QuotedStatus": null,
+                "QuotedStatusID": "",
+                "Replies": 5,
+                "RetweetedStatus": null,
+                "RetweetedStatusID": "",
+                "Retweets": 25,
+                "SensitiveContent": false,
+                "Text": "Don't know who needs to hear this.. But you really need to quit missing out on $KENDU \ud83d\ude80\ud83d\ude80\ud83d\ude80\n\n$ETH #Ethereum #meme #Memecoin $GME $AMC #Crypto @KenduInu @KenduLabs https://t.co/dpYuoZuhg1",
+                "Thread": null,
+                "TimeParsed": "2024-05-14T23:58:13Z",
+                "Timestamp": 1715731093,
+                "URLs": null,
+                "UserID": "1584595195",
+                "Username": "CryptoSteu",
+                "Videos": null,
+                "Views": 1230
+            }
         },
         {
-            "ConversationID": "1805027244152095087",
-            "GIFs": null,
-            "HTML": "\u2705EN ESTE CANAL DE TELEGRAM <a href=\"http://t.me/GanaDolaresVzla\">https://t.co/SvFZT2IG8p</a>  PASAN LAS MINERIAS APENAS SALEN Y EN ESE GRUPO NOS AYUDAMOS \ud83d\udcf7<br><br>  <a href=\"https://twitter.com/hashtag/Not\">#Not</a> <a href=\"https://twitter.com/hashtag/Zksynk\">#Zksynk</a> <a href=\"https://twitter.com/hashtag/ton\">#ton</a> <a href=\"https://twitter.com/hashtag/HamsterKombat\">#HamsterKombat</a> <a href=\"https://twitter.com/hashtag/Taptoearn\">#Taptoearn</a> <a href=\"https://twitter.com/hashtag/Memecoin\">#Memecoin</a> <a href=\"https://twitter.com/hashtag/Memefi\">#Memefi</a> <a href=\"https://twitter.com/hashtag/Onchain\">#Onchain</a> <a href=\"https://twitter.com/hashtag/TapSwap\">#TapSwap</a> <a href=\"https://twitter.com/hashtag/Yescoin\">#Yescoin</a> <a href=\"https://twitter.com/hashtag/notcoin\">#notcoin</a> <a href=\"https://twitter.com/hashtag/web3\">#web3</a> <a href=\"https://twitter.com/hashtag/hamstercoin\">#hamstercoin</a> <a href=\"https://twitter.com/hashtag/airdrops\">#airdrops</a> <a href=\"https://twitter.com/hashtag/temblor\">#temblor</a> <a href=\"https://twitter.com/hashtag/memecoins\">#memecoins</a> <br><a href=\"https://t.co/4Br6lAT7L8\"><img src=\"https://pbs.twimg.com/media/GQy-tQRW4AAY9_8.jpg\"/></a>",
-            "Hashtags": [
-                "Not",
-                "Zksynk",
-                "ton",
-                "HamsterKombat",
-                "Taptoearn",
-                "Memecoin",
-                "Memefi",
-                "Onchain",
-                "TapSwap",
-                "Yescoin",
-                "notcoin",
-                "web3",
-                "hamstercoin",
-                "airdrops",
-                "temblor",
-                "memecoins"
-            ],
-            "ID": "1805027244152095087",
-            "InReplyToStatus": null,
-            "InReplyToStatusID": "",
-            "IsPin": false,
-            "IsQuoted": false,
-            "IsReply": false,
-            "IsRetweet": false,
-            "IsSelfThread": false,
-            "Likes": 2,
-            "Mentions": null,
-            "Name": "\ud83c\udd72\ud83c\udd81\ud83c\udd88\ud83c\udd7f\ud83c\udd83\ud83c\udd7e \ud83c\udd76\ud83c\udd70\ud83c\udd7c\ud83c\udd74\ud83c\udd82 \ud83c\udd7d\ud83c\udd75\ud83c\udd83",
-            "PermanentURL": "https://twitter.com/CryptogamesVzla/status/1805027244152095087",
-            "Photos": [
-                {
-                    "ID": "1805027235339886592",
-                    "URL": "https://pbs.twimg.com/media/GQy-tQRW4AAY9_8.jpg"
-                }
-            ],
-            "Place": null,
-            "QuotedStatus": null,
-            "QuotedStatusID": "",
-            "Replies": 1,
-            "RetweetedStatus": null,
-            "RetweetedStatusID": "",
-            "Retweets": 0,
-            "SensitiveContent": false,
-            "Text": "\u2705EN ESTE CANAL DE TELEGRAM https://t.co/SvFZT2IG8p  PASAN LAS MINERIAS APENAS SALEN Y EN ESE GRUPO NOS AYUDAMOS \ud83d\udcf7\n\n  #Not #Zksynk #ton #HamsterKombat #Taptoearn #Memecoin #Memefi #Onchain #TapSwap #Yescoin #notcoin #web3 #hamstercoin #airdrops #temblor #memecoins https://t.co/4Br6lAT7L8",
-            "Thread": null,
-            "TimeParsed": "2024-06-23T23:56:45Z",
-            "Timestamp": 1719187005,
-            "URLs": [
-                "http://t.me/GanaDolaresVzla"
-            ],
-            "UserID": "1400419177249312769",
-            "Username": "CryptogamesVzla",
-            "Videos": null,
-            "Views": 148
+            "Error": null,
+            "Tweet": {
+                "ConversationID": "1790532085935153383",
+                "GIFs": null,
+                "HTML": "Who Got The Best <a href=\"https://twitter.com/hashtag/MemeCoin\">#MemeCoin</a> Community Blow My Comments On TikTok Up. $whoren $bork $bonk $jup <a href=\"https://twitter.com/hashtag/andy\">#andy</a> <a href=\"https://twitter.com/hashtag/amc\">#amc</a> <a href=\"https://twitter.com/hashtag/gme\">#gme</a> <br><br><a href=\"https://www.tiktok.com/t/ZPRwv9uSm/\">https://t.co/je7G6eSVDt</a> <br><a href=\"https://t.co/ovQkp0HZgC\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1790532027386896384/pu/img/PLL58Fij37CIkuFg.jpg\"/></a>",
+                "Hashtags": [
+                    "MemeCoin",
+                    "andy",
+                    "amc",
+                    "gme"
+                ],
+                "ID": "1790532085935153383",
+                "InReplyToStatus": null,
+                "InReplyToStatusID": "",
+                "IsPin": false,
+                "IsQuoted": false,
+                "IsReply": false,
+                "IsRetweet": false,
+                "IsSelfThread": false,
+                "Likes": 1,
+                "Mentions": null,
+                "Name": "Mr-liusal.SOL \ud83d\udc7d",
+                "PermanentURL": "https://twitter.com/MrLiusal/status/1790532085935153383",
+                "Photos": null,
+                "Place": null,
+                "QuotedStatus": null,
+                "QuotedStatusID": "",
+                "Replies": 0,
+                "RetweetedStatus": null,
+                "RetweetedStatusID": "",
+                "Retweets": 0,
+                "SensitiveContent": false,
+                "Text": "Who Got The Best #MemeCoin Community Blow My Comments On TikTok Up. $whoren $bork $bonk $jup #andy #amc #gme \n\nhttps://t.co/je7G6eSVDt https://t.co/ovQkp0HZgC",
+                "Thread": null,
+                "TimeParsed": "2024-05-14T23:58:10Z",
+                "Timestamp": 1715731090,
+                "URLs": [
+                    "https://www.tiktok.com/t/ZPRwv9uSm/"
+                ],
+                "UserID": "1323926378824101889",
+                "Username": "MrLiusal",
+                "Videos": [
+                    {
+                        "ID": "1790532027386896384",
+                        "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1790532027386896384/pu/img/PLL58Fij37CIkuFg.jpg",
+                        "URL": "https://video.twimg.com/ext_tw_video/1790532027386896384/pu/vid/avc1/720x1280/yvWaM9eVWunlrk5e.mp4?tag=12"
+                    }
+                ],
+                "Views": 93
+            }
         },
         {
-            "ConversationID": "1805027176921940359",
-            "GIFs": null,
-            "HTML": "$HAWKTUAH sittin on 10M marketcap\ud83e\udd23<br>i am still waitin for high quality projects airdrops<br>feelin I'm on the wrong path\ud83d\ude07<br> <br><a href=\"https://dexscreener.com/solana/errdtwwykdz37ogvjdruq2txnc9ntx78x32pnxwpeq7l\">https://t.co/Tfa3tfN2pJ</a><br><br><a href=\"https://twitter.com/hashtag/HawkTuah\">#HawkTuah</a> <a href=\"https://twitter.com/hashtag/solana\">#solana</a> <a href=\"https://twitter.com/hashtag/memecoin\">#memecoin</a> <br><a href=\"https://t.co/xrSRDbSG0M\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1805024078736011264/pu/img/9DHp0NLBOu_ZZcBm.jpg\"/></a><br><img src=\"https://pbs.twimg.com/media/GQy8lBHX0AE8XYo.png\"/>",
-            "Hashtags": [
-                "HawkTuah",
-                "solana",
-                "memecoin"
-            ],
-            "ID": "1805027176921940359",
-            "InReplyToStatus": null,
-            "InReplyToStatusID": "",
-            "IsPin": false,
-            "IsQuoted": false,
-            "IsReply": false,
-            "IsRetweet": false,
-            "IsSelfThread": false,
-            "Likes": 7,
-            "Mentions": null,
-            "Name": "UNJO\u039e\u2122",
-            "PermanentURL": "https://twitter.com/0xUnJoe/status/1805027176921940359",
-            "Photos": [
-                {
-                    "ID": "1805024894809264129",
-                    "URL": "https://pbs.twimg.com/media/GQy8lBHX0AE8XYo.png"
-                }
-            ],
-            "Place": null,
-            "QuotedStatus": null,
-            "QuotedStatusID": "",
-            "Replies": 2,
-            "RetweetedStatus": null,
-            "RetweetedStatusID": "",
-            "Retweets": 1,
-            "SensitiveContent": false,
-            "Text": "$HAWKTUAH sittin on 10M marketcap\ud83e\udd23\ni am still waitin for high quality projects airdrops\nfeelin I'm on the wrong path\ud83d\ude07\n \nhttps://t.co/Tfa3tfN2pJ\n\n#HawkTuah #solana #memecoin https://t.co/xrSRDbSG0M",
-            "Thread": null,
-            "TimeParsed": "2024-06-23T23:56:29Z",
-            "Timestamp": 1719186989,
-            "URLs": [
-                "https://dexscreener.com/solana/errdtwwykdz37ogvjdruq2txnc9ntx78x32pnxwpeq7l"
-            ],
-            "UserID": "899666755425112064",
-            "Username": "0xUnJoe",
-            "Videos": [
-                {
-                    "ID": "1805024078736011264",
-                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1805024078736011264/pu/img/9DHp0NLBOu_ZZcBm.jpg",
-                    "URL": "https://video.twimg.com/ext_tw_video/1805024078736011264/pu/vid/avc1/720x1270/Qoe4c6NDLAaUqbZE.mp4?tag=12"
-                }
-            ],
-            "Views": 834
+            "Error": null,
+            "Tweet": {
+                "ConversationID": "1790531651388272766",
+                "GIFs": null,
+                "HTML": "With great $frug come great responsibility\u2026<br><a href=\"https://twitter.com/hashtag/sol\">#sol</a> <a href=\"https://twitter.com/hashtag/memecoin\">#memecoin</a> <a href=\"https://twitter.com/metaversejoji\">@metaversejoji</a> <a href=\"https://twitter.com/blknoiz06\">@blknoiz06</a> <a href=\"https://twitter.com/Cobratate\">@Cobratate</a> <br><br><a href=\"https://pump.fun/5iW2SUFqauQcqiA93Pv168cnRLhP82SU3PbSNy1GspTF\">https://t.co/ADqXZD3q1e</a> <br><a href=\"https://t.co/lRBIU5Yy4I\"><img src=\"https://pbs.twimg.com/media/GNk_C87W0AAl9ud.jpg\"/></a>",
+                "Hashtags": [
+                    "sol",
+                    "memecoin"
+                ],
+                "ID": "1790531651388272766",
+                "InReplyToStatus": null,
+                "InReplyToStatusID": "",
+                "IsPin": false,
+                "IsQuoted": false,
+                "IsReply": false,
+                "IsRetweet": false,
+                "IsSelfThread": false,
+                "Likes": 1,
+                "Mentions": [
+                    {
+                        "ID": "1392124029914566666",
+                        "Name": "joji",
+                        "Username": "metaversejoji"
+                    },
+                    {
+                        "ID": "973261472",
+                        "Name": "Ansem \ud83d\udc02\ud83c\udc04\ufe0f",
+                        "Username": "blknoiz06"
+                    },
+                    {
+                        "ID": "333357345",
+                        "Name": "Andrew Tate",
+                        "Username": "Cobratate"
+                    }
+                ],
+                "Name": "Frug",
+                "PermanentURL": "https://twitter.com/FrugOnSolana/status/1790531651388272766",
+                "Photos": [
+                    {
+                        "ID": "1790531646803857408",
+                        "URL": "https://pbs.twimg.com/media/GNk_C87W0AAl9ud.jpg"
+                    }
+                ],
+                "Place": null,
+                "QuotedStatus": null,
+                "QuotedStatusID": "",
+                "Replies": 0,
+                "RetweetedStatus": null,
+                "RetweetedStatusID": "",
+                "Retweets": 0,
+                "SensitiveContent": false,
+                "Text": "With great $frug come great responsibility\u2026\n#sol #memecoin @metaversejoji @blknoiz06 @Cobratate \n\nhttps://t.co/ADqXZD3q1e https://t.co/lRBIU5Yy4I",
+                "Thread": null,
+                "TimeParsed": "2024-05-14T23:56:26Z",
+                "Timestamp": 1715730986,
+                "URLs": [
+                    "https://pump.fun/5iW2SUFqauQcqiA93Pv168cnRLhP82SU3PbSNy1GspTF"
+                ],
+                "UserID": "1781951068668076032",
+                "Username": "FrugOnSolana",
+                "Videos": null,
+                "Views": 63
+            }
         },
         {
-            "ConversationID": "1805026524090794262",
-            "GIFs": null,
-            "HTML": "If you have spent anytime working the floor and getting to know Miazaki in the TG and spaces, you will know that he doesn\u2019t miss <br><br>100B LFG \ud83d\ude80\ud83d\ude80\ud83d\ude80<br><br>HELMETS ON!!! <br><br>$Kendu <a href=\"https://twitter.com/hashtag/Ethereum\">#Ethereum</a> <a href=\"https://twitter.com/hashtag/Memecoin\">#Memecoin</a>",
-            "Hashtags": [
-                "Ethereum",
-                "Memecoin"
-            ],
-            "ID": "1805026524090794262",
-            "InReplyToStatus": null,
-            "InReplyToStatusID": "",
-            "IsPin": false,
-            "IsQuoted": true,
-            "IsReply": false,
-            "IsRetweet": false,
-            "IsSelfThread": false,
-            "Likes": 28,
-            "Mentions": null,
-            "Name": "Andreas $Kendu",
-            "PermanentURL": "https://twitter.com/1pinkdonut/status/1805026524090794262",
-            "Photos": null,
-            "Place": null,
-            "QuotedStatus": null,
-            "QuotedStatusID": "1805015110194524214",
-            "Replies": 0,
-            "RetweetedStatus": null,
-            "RetweetedStatusID": "",
-            "Retweets": 15,
-            "SensitiveContent": false,
-            "Text": "If you have spent anytime working the floor and getting to know Miazaki in the TG and spaces, you will know that he doesn\u2019t miss \n\n100B LFG \ud83d\ude80\ud83d\ude80\ud83d\ude80\n\nHELMETS ON!!! \n\n$Kendu #Ethereum #Memecoin",
-            "Thread": null,
-            "TimeParsed": "2024-06-23T23:53:53Z",
-            "Timestamp": 1719186833,
-            "URLs": null,
-            "UserID": "1656105965412921349",
-            "Username": "1pinkdonut",
-            "Videos": null,
-            "Views": 354
+            "Error": null,
+            "Tweet": {
+                "ConversationID": "1790531467547726126",
+                "GIFs": null,
+                "HTML": "22 Billones en el sorteo de hoy \ud83e\udd73\ud83e\udd73\ud83e\udd73<br><br><a href=\"https://twitter.com/hashtag/Perezoso\">#Perezoso</a> <a href=\"https://twitter.com/hashtag/PRZS\">#PRZS</a> <a href=\"https://twitter.com/hashtag/Memecoin\">#Memecoin</a> <br><a href=\"https://t.co/H5leaknRUg\"><img src=\"https://pbs.twimg.com/media/GNk-4OjWsAASHpS.jpg\"/></a>",
+                "Hashtags": [
+                    "Perezoso",
+                    "PRZS",
+                    "Memecoin"
+                ],
+                "ID": "1790531467547726126",
+                "InReplyToStatus": null,
+                "InReplyToStatusID": "",
+                "IsPin": false,
+                "IsQuoted": false,
+                "IsReply": false,
+                "IsRetweet": false,
+                "IsSelfThread": false,
+                "Likes": 24,
+                "Mentions": null,
+                "Name": "Perezoso \ud83e\udda5",
+                "PermanentURL": "https://twitter.com/Perezosotoken/status/1790531467547726126",
+                "Photos": [
+                    {
+                        "ID": "1790531462556463104",
+                        "URL": "https://pbs.twimg.com/media/GNk-4OjWsAASHpS.jpg"
+                    }
+                ],
+                "Place": null,
+                "QuotedStatus": null,
+                "QuotedStatusID": "",
+                "Replies": 2,
+                "RetweetedStatus": null,
+                "RetweetedStatusID": "",
+                "Retweets": 6,
+                "SensitiveContent": false,
+                "Text": "22 Billones en el sorteo de hoy \ud83e\udd73\ud83e\udd73\ud83e\udd73\n\n#Perezoso #PRZS #Memecoin https://t.co/H5leaknRUg",
+                "Thread": null,
+                "TimeParsed": "2024-05-14T23:55:42Z",
+                "Timestamp": 1715730942,
+                "URLs": null,
+                "UserID": "1749143145055395840",
+                "Username": "Perezosotoken",
+                "Videos": null,
+                "Views": 555
+            }
         },
         {
-            "ConversationID": "1804734286152491270",
-            "GIFs": null,
-            "HTML": "<a href=\"https://twitter.com/LeonidasNFT\">@LeonidasNFT</a> $DOG simply the best <a href=\"https://twitter.com/hashtag/memecoin\">#memecoin</a>",
-            "Hashtags": [
-                "memecoin"
-            ],
-            "ID": "1805026489316077904",
-            "InReplyToStatus": null,
-            "InReplyToStatusID": "1804734286152491270",
-            "IsPin": false,
-            "IsQuoted": false,
-            "IsReply": true,
-            "IsRetweet": false,
-            "IsSelfThread": false,
-            "Likes": 1,
-            "Mentions": [
-                {
-                    "ID": "720831897031421952",
-                    "Name": "Leonidas",
-                    "Username": "LeonidasNFT"
-                }
-            ],
-            "Name": "021.plot",
-            "PermanentURL": "https://twitter.com/021Plot84099/status/1805026489316077904",
-            "Photos": null,
-            "Place": null,
-            "QuotedStatus": null,
-            "QuotedStatusID": "",
-            "Replies": 0,
-            "RetweetedStatus": null,
-            "RetweetedStatusID": "",
-            "Retweets": 0,
-            "SensitiveContent": false,
-            "Text": "@LeonidasNFT $DOG simply the best #memecoin",
-            "Thread": null,
-            "TimeParsed": "2024-06-23T23:53:45Z",
-            "Timestamp": 1719186825,
-            "URLs": null,
-            "UserID": "1690647300035792896",
-            "Username": "021Plot84099",
-            "Videos": null,
-            "Views": 16
+            "Error": null,
+            "Tweet": {
+                "ConversationID": "1790530904722493648",
+                "GIFs": null,
+                "HTML": "<a href=\"https://twitter.com/JXjeezER\">@JXjeezER</a> $POPE GANG<br><br><a href=\"https://twitter.com/hashtag/Pope\">#Pope</a> <a href=\"https://twitter.com/hashtag/Pepe\">#Pepe</a> <a href=\"https://twitter.com/hashtag/btc\">#btc</a> <a href=\"https://twitter.com/hashtag/solana\">#solana</a> <a href=\"https://twitter.com/hashtag/crypto\">#crypto</a> <a href=\"https://twitter.com/hashtag/memecoin\">#memecoin</a> <br><a href=\"https://t.co/viPRTjAUlq\"><img src=\"https://pbs.twimg.com/media/GNk-tscXUAA0UQU.jpg\"/></a>",
+                "Hashtags": [
+                    "Pope",
+                    "Pepe",
+                    "btc",
+                    "solana",
+                    "crypto",
+                    "memecoin"
+                ],
+                "ID": "1790531285661737385",
+                "InReplyToStatus": null,
+                "InReplyToStatusID": "1790530904722493648",
+                "IsPin": false,
+                "IsQuoted": false,
+                "IsReply": true,
+                "IsRetweet": false,
+                "IsSelfThread": false,
+                "Likes": 0,
+                "Mentions": [
+                    {
+                        "ID": "1788599557938438144",
+                        "Name": "JEEXER",
+                        "Username": "JXjeezER"
+                    }
+                ],
+                "Name": "seanSOL",
+                "PermanentURL": "https://twitter.com/semsonSOL/status/1790531285661737385",
+                "Photos": [
+                    {
+                        "ID": "1790531281601646592",
+                        "URL": "https://pbs.twimg.com/media/GNk-tscXUAA0UQU.jpg"
+                    }
+                ],
+                "Place": null,
+                "QuotedStatus": null,
+                "QuotedStatusID": "",
+                "Replies": 0,
+                "RetweetedStatus": null,
+                "RetweetedStatusID": "",
+                "Retweets": 0,
+                "SensitiveContent": false,
+                "Text": "@JXjeezER $POPE GANG\n\n#Pope #Pepe #btc #solana #crypto #memecoin https://t.co/viPRTjAUlq",
+                "Thread": null,
+                "TimeParsed": "2024-05-14T23:54:59Z",
+                "Timestamp": 1715730899,
+                "URLs": null,
+                "UserID": "1787542307719315456",
+                "Username": "semsonSOL",
+                "Videos": null,
+                "Views": 4
+            }
         },
         {
-            "ConversationID": "1805026416624595297",
-            "GIFs": null,
-            "HTML": "The Educational Bear $TD<br><br>Insane narrative <br>&amp;<br>Groundbreaking marketing<br><br><a href=\"https://twitter.com/hashtag/Memecoin\">#Memecoin</a> <a href=\"https://twitter.com/hashtag/Altcoin\">#Altcoin</a> you decide. <br><a href=\"https://t.co/CyIL69lV8U\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1805026400011010048/pu/img/DL0eIKCr7vO1mGWJ.jpg\"/></a>",
-            "Hashtags": [
-                "Memecoin",
-                "Altcoin"
-            ],
-            "ID": "1805026416624595297",
-            "InReplyToStatus": null,
-            "InReplyToStatusID": "",
-            "IsPin": false,
-            "IsQuoted": true,
-            "IsReply": false,
-            "IsRetweet": false,
-            "IsSelfThread": false,
-            "Likes": 11,
-            "Mentions": null,
-            "Name": "Bearsquito",
-            "PermanentURL": "https://twitter.com/Bearsquito/status/1805026416624595297",
-            "Photos": null,
-            "Place": null,
-            "QuotedStatus": null,
-            "QuotedStatusID": "1805022568199376942",
-            "Replies": 6,
-            "RetweetedStatus": null,
-            "RetweetedStatusID": "",
-            "Retweets": 2,
-            "SensitiveContent": false,
-            "Text": "The Educational Bear $TD\n\nInsane narrative \n&amp;\nGroundbreaking marketing\n\n#Memecoin #Altcoin you decide. https://t.co/CyIL69lV8U",
-            "Thread": null,
-            "TimeParsed": "2024-06-23T23:53:28Z",
-            "Timestamp": 1719186808,
-            "URLs": null,
-            "UserID": "1750672121444065280",
-            "Username": "Bearsquito",
-            "Videos": [
-                {
-                    "ID": "1805026400011010048",
-                    "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1805026400011010048/pu/img/DL0eIKCr7vO1mGWJ.jpg",
-                    "URL": "https://video.twimg.com/ext_tw_video/1805026400011010048/pu/vid/avc1/720x720/4JGEehJceIcb8jeO.mp4?tag=12"
-                }
-            ],
-            "Views": 202
+            "Error": null,
+            "Tweet": {
+                "ConversationID": "1790530502002463191",
+                "GIFs": null,
+                "HTML": "$AMZI<br><br><a href=\"https://twitter.com/hashtag/Amazon\">#Amazon</a> <a href=\"https://twitter.com/hashtag/memecoin\">#memecoin</a> <a href=\"https://twitter.com/hashtag/MemecoinMay\">#MemecoinMay</a> <a href=\"https://twitter.com/hashtag/stonks\">#stonks</a> <a href=\"https://twitter.com/hashtag/gme\">#gme</a> <br><br>$CHET $AABL $GME $GEME $WSBS $RDDT $TUZLA <br><a href=\"https://t.co/uuybMosLqX\"><img src=\"https://pbs.twimg.com/ext_tw_video_thumb/1790530132022792192/pu/img/QGX3zGf71KWRt5q2.jpg\"/></a>",
+                "Hashtags": [
+                    "Amazon",
+                    "memecoin",
+                    "MemecoinMay",
+                    "stonks",
+                    "gme"
+                ],
+                "ID": "1790530502002463191",
+                "InReplyToStatus": null,
+                "InReplyToStatusID": "",
+                "IsPin": false,
+                "IsQuoted": false,
+                "IsReply": false,
+                "IsRetweet": false,
+                "IsSelfThread": false,
+                "Likes": 2,
+                "Mentions": null,
+                "Name": "Jeet Crusher",
+                "PermanentURL": "https://twitter.com/jeetcrusher/status/1790530502002463191",
+                "Photos": null,
+                "Place": null,
+                "QuotedStatus": null,
+                "QuotedStatusID": "",
+                "Replies": 1,
+                "RetweetedStatus": null,
+                "RetweetedStatusID": "",
+                "Retweets": 0,
+                "SensitiveContent": false,
+                "Text": "$AMZI\n\n#Amazon #memecoin #MemecoinMay #stonks #gme \n\n$CHET $AABL $GME $GEME $WSBS $RDDT $TUZLA https://t.co/uuybMosLqX",
+                "Thread": null,
+                "TimeParsed": "2024-05-14T23:51:52Z",
+                "Timestamp": 1715730712,
+                "URLs": null,
+                "UserID": "1790047322896060416",
+                "Username": "jeetcrusher",
+                "Videos": [
+                    {
+                        "ID": "1790530132022792192",
+                        "Preview": "https://pbs.twimg.com/ext_tw_video_thumb/1790530132022792192/pu/img/QGX3zGf71KWRt5q2.jpg",
+                        "URL": "https://video.twimg.com/ext_tw_video/1790530132022792192/pu/vid/avc1/576x576/0NIq44ifYvPMtSMq.mp4?tag=12"
+                    }
+                ],
+                "Views": 51
+            }
         },
         {
-            "ConversationID": "1805026176903061639",
-            "GIFs": null,
-            "HTML": "I told you to buy $MIGA \ud83d\ude0e<br>Strongest community that I have seen so far in the <a href=\"https://twitter.com/hashtag/memecoin\">#memecoin</a> space<br>It\u2019s still below $ 1 million market cap and I see here an easy x500 after DEX listing <br>What are you waiting for? Just throw $ 200 dollar in and wait. <br><br>Best risk/ reward ever \ud83d\ude80\ud83d\ude80\ud83d\ude80 <br><a href=\"https://t.co/MsHJ0tO9Y7\"><img src=\"https://pbs.twimg.com/media/GQy9rZRWwAAgd2a.jpg\"/></a>",
-            "Hashtags": [
-                "memecoin"
-            ],
-            "ID": "1805026176903061639",
-            "InReplyToStatus": null,
-            "InReplyToStatusID": "",
-            "IsPin": false,
-            "IsQuoted": false,
-            "IsReply": false,
-            "IsRetweet": false,
-            "IsSelfThread": false,
-            "Likes": 54,
-            "Mentions": null,
-            "Name": "RONNY TALKS CRYPTO",
-            "PermanentURL": "https://twitter.com/RonytalksCrypto/status/1805026176903061639",
-            "Photos": [
-                {
-                    "ID": "1805026103884431360",
-                    "URL": "https://pbs.twimg.com/media/GQy9rZRWwAAgd2a.jpg"
-                }
-            ],
-            "Place": null,
-            "QuotedStatus": null,
-            "QuotedStatusID": "",
-            "Replies": 30,
-            "RetweetedStatus": null,
-            "RetweetedStatusID": "",
-            "Retweets": 36,
-            "SensitiveContent": false,
-            "Text": "I told you to buy $MIGA \ud83d\ude0e\nStrongest community that I have seen so far in the #memecoin space\nIt\u2019s still below $ 1 million market cap and I see here an easy x500 after DEX listing \nWhat are you waiting for? Just throw $ 200 dollar in and wait. \n\nBest risk/ reward ever \ud83d\ude80\ud83d\ude80\ud83d\ude80 https://t.co/MsHJ0tO9Y7",
-            "Thread": null,
-            "TimeParsed": "2024-06-23T23:52:30Z",
-            "Timestamp": 1719186750,
-            "URLs": null,
-            "UserID": "41339124",
-            "Username": "RonytalksCrypto",
-            "Videos": null,
-            "Views": 1155
+            "Error": null,
+            "Tweet": {
+                "ConversationID": "1790529911377084442",
+                "GIFs": null,
+                "HTML": "Mi name is Peet.<br>\ud83d\udc38Fully Audited and Verified<br>\ud83d\udc38Website/Litepaper<br>\ud83d\udc38Coingecko/CoinMarketCap listed<br>\ud83c\udf10 Website: <a href=\"https://peestcommunity.com/\">https://t.co/t9nhzweHsB</a><br><a href=\"https://twitter.com/hashtag/Stake\">#Stake</a> <a href=\"https://twitter.com/hashtag/crypto\">#crypto</a> <a href=\"https://twitter.com/hashtag/staking\">#staking</a> <a href=\"https://twitter.com/hashtag/memecoin\">#memecoin</a><br>C$H6@B<br><br><a href=\"https://twitter.com/hashtag/forextrading\">#forextrading</a> <a href=\"https://twitter.com/hashtag/bitcoins\">#bitcoins</a> <a href=\"https://twitter.com/hashtag/buy\">#buy</a> <a href=\"https://twitter.com/hashtag/Retroactive\">#Retroactive</a> <br><a href=\"https://t.co/h3P2K5qZAr\"><img src=\"https://pbs.twimg.com/media/GNk9bMzWoAAerQr.jpg\"/></a>",
+                "Hashtags": [
+                    "Stake",
+                    "crypto",
+                    "staking",
+                    "memecoin",
+                    "forextrading",
+                    "bitcoins",
+                    "buy",
+                    "Retroactive"
+                ],
+                "ID": "1790529911377084442",
+                "InReplyToStatus": null,
+                "InReplyToStatusID": "",
+                "IsPin": false,
+                "IsQuoted": false,
+                "IsReply": false,
+                "IsRetweet": false,
+                "IsSelfThread": false,
+                "Likes": 0,
+                "Mentions": null,
+                "Name": "sharon walker",
+                "PermanentURL": "https://twitter.com/sharonwalk9395/status/1790529911377084442",
+                "Photos": [
+                    {
+                        "ID": "1790529864358862848",
+                        "URL": "https://pbs.twimg.com/media/GNk9bMzWoAAerQr.jpg"
+                    }
+                ],
+                "Place": null,
+                "QuotedStatus": null,
+                "QuotedStatusID": "",
+                "Replies": 0,
+                "RetweetedStatus": null,
+                "RetweetedStatusID": "",
+                "Retweets": 0,
+                "SensitiveContent": false,
+                "Text": "Mi name is Peet.\n\ud83d\udc38Fully Audited and Verified\n\ud83d\udc38Website/Litepaper\n\ud83d\udc38Coingecko/CoinMarketCap listed\n\ud83c\udf10 Website: https://t.co/t9nhzweHsB\n#Stake #crypto #staking #memecoin\nC$H6@B\n\n#forextrading #bitcoins #buy #Retroactive https://t.co/h3P2K5qZAr",
+                "Thread": null,
+                "TimeParsed": "2024-05-14T23:49:31Z",
+                "Timestamp": 1715730571,
+                "URLs": [
+                    "https://peestcommunity.com/"
+                ],
+                "UserID": "1705668353497731072",
+                "Username": "sharonwalk9395",
+                "Videos": null,
+                "Views": 18
+            }
         },
         {
-            "ConversationID": "1805025822132347170",
-            "GIFs": null,
-            "HTML": "BOT Link\uff1a<a href=\"https://t.me/dogeebot_bot?start=r-xixi\">https://t.co/G2JqeB56gt</a><br><br>When you're playing sol meme, you can use nftflip team's Dogee sol bot. Now it has a new feature that lets you automatically sell when devs sell or list on raydium. Come try it out!<br><br><a href=\"https://twitter.com/hashtag/Sol\">#Sol</a> <a href=\"https://twitter.com/hashtag/Meme\">#Meme</a> <a href=\"https://twitter.com/hashtag/Memecoin\">#Memecoin</a> <a href=\"https://twitter.com/hashtag/BOT\">#BOT</a> <a href=\"https://twitter.com/hashtag/ETH\">#ETH</a> <a href=\"https://twitter.com/hashtag/BASE\">#BASE</a> <br><a href=\"https://t.co/lyYjI2V0vk\"><img src=\"https://pbs.twimg.com/media/GQy9KwlacAA_J7S.png\"/></a>",
-            "Hashtags": [
-                "Sol",
-                "Meme",
-                "Memecoin",
-                "BOT",
-                "ETH",
-                "BASE"
-            ],
-            "ID": "1805025822132347170",
-            "InReplyToStatus": null,
-            "InReplyToStatusID": "",
-            "IsPin": false,
-            "IsQuoted": true,
-            "IsReply": false,
-            "IsRetweet": false,
-            "IsSelfThread": false,
-            "Likes": 1,
-            "Mentions": null,
-            "Name": "\u6c50",
-            "PermanentURL": "https://twitter.com/xixi_kawayi/status/1805025822132347170",
-            "Photos": [
-                {
-                    "ID": "1805025543206891520",
-                    "URL": "https://pbs.twimg.com/media/GQy9KwlacAA_J7S.png"
-                }
-            ],
-            "Place": null,
-            "QuotedStatus": null,
-            "QuotedStatusID": "1804947924545318924",
-            "Replies": 3,
-            "RetweetedStatus": null,
-            "RetweetedStatusID": "",
-            "Retweets": 0,
-            "SensitiveContent": false,
-            "Text": "BOT Link\uff1ahttps://t.co/G2JqeB56gt\n\nWhen you're playing sol meme, you can use nftflip team's Dogee sol bot. Now it has a new feature that lets you automatically sell when devs sell or list on raydium. Come try it out!\n\n#Sol #Meme #Memecoin #BOT #ETH #BASE https://t.co/lyYjI2V0vk",
-            "Thread": null,
-            "TimeParsed": "2024-06-23T23:51:06Z",
-            "Timestamp": 1719186666,
-            "URLs": [
-                "https://t.me/dogeebot_bot?start=r-xixi"
-            ],
-            "UserID": "1342135083252105216",
-            "Username": "xixi_kawayi",
-            "Videos": null,
-            "Views": 1635
+            "Error": null,
+            "Tweet": {
+                "ConversationID": "1790529122307051792",
+                "GIFs": null,
+                "HTML": "Mi name is Peet.<br>\ud83d\udc38Fully Audited and Verified<br>\ud83d\udc38Website/Litepaper<br>\ud83d\udc38Coingecko/CoinMarketCap listed<br>\ud83c\udf10 Website: <a href=\"https://peestcommunity.com/\">https://t.co/QasLkeUvSA</a><br><a href=\"https://twitter.com/hashtag/Stake\">#Stake</a> <a href=\"https://twitter.com/hashtag/crypto\">#crypto</a> <a href=\"https://twitter.com/hashtag/staking\">#staking</a> <a href=\"https://twitter.com/hashtag/memecoin\">#memecoin</a><br>5N61KP<br><br><a href=\"https://twitter.com/hashtag/trading\">#trading</a> <a href=\"https://twitter.com/hashtag/Web3\">#Web3</a> <a href=\"https://twitter.com/hashtag/Powell\">#Powell</a> <a href=\"https://twitter.com/hashtag/stocks\">#stocks</a> <br><a href=\"https://t.co/XlzJs2UFsC\"><img src=\"https://pbs.twimg.com/media/GNk8tf-XUAEjwdv.jpg\"/></a>",
+                "Hashtags": [
+                    "Stake",
+                    "crypto",
+                    "staking",
+                    "memecoin",
+                    "trading",
+                    "Web3",
+                    "Powell",
+                    "stocks"
+                ],
+                "ID": "1790529122307051792",
+                "InReplyToStatus": null,
+                "InReplyToStatusID": "",
+                "IsPin": false,
+                "IsQuoted": false,
+                "IsReply": false,
+                "IsRetweet": false,
+                "IsSelfThread": false,
+                "Likes": 0,
+                "Mentions": null,
+                "Name": "Burnard Fay",
+                "PermanentURL": "https://twitter.com/BurnardF32462/status/1790529122307051792",
+                "Photos": [
+                    {
+                        "ID": "1790529079231336449",
+                        "URL": "https://pbs.twimg.com/media/GNk8tf-XUAEjwdv.jpg"
+                    }
+                ],
+                "Place": null,
+                "QuotedStatus": null,
+                "QuotedStatusID": "",
+                "Replies": 0,
+                "RetweetedStatus": null,
+                "RetweetedStatusID": "",
+                "Retweets": 0,
+                "SensitiveContent": false,
+                "Text": "Mi name is Peet.\n\ud83d\udc38Fully Audited and Verified\n\ud83d\udc38Website/Litepaper\n\ud83d\udc38Coingecko/CoinMarketCap listed\n\ud83c\udf10 Website: https://t.co/QasLkeUvSA\n#Stake #crypto #staking #memecoin\n5N61KP\n\n#trading #Web3 #Powell #stocks https://t.co/XlzJs2UFsC",
+                "Thread": null,
+                "TimeParsed": "2024-05-14T23:46:23Z",
+                "Timestamp": 1715730383,
+                "URLs": [
+                    "https://peestcommunity.com/"
+                ],
+                "UserID": "1672154124631277576",
+                "Username": "BurnardF32462",
+                "Videos": null,
+                "Views": 26
+            }
         },
         {
-            "ConversationID": "1805025802246820309",
-            "GIFs": null,
-            "HTML": "<a href=\"http://t.me/BlumCryptoBot/app?startapp=ref_6rq7KDdaqH\">https://t.co/KL6TH7PNeP</a><br><a href=\"https://twitter.com/hashtag/tapswap\">#tapswap</a> <a href=\"https://twitter.com/hashtag/memecoin\">#memecoin</a> <a href=\"https://twitter.com/hashtag/notcoin\">#notcoin</a> <a href=\"https://twitter.com/hashtag/yescoin\">#yescoin</a> $BLUM <a href=\"https://twitter.com/hashtag/NOTNOt\">#NOTNOt</a>",
-            "Hashtags": [
-                "tapswap",
-                "memecoin",
-                "notcoin",
-                "yescoin",
-                "NOTNOt"
-            ],
-            "ID": "1805025802246820309",
-            "InReplyToStatus": null,
-            "InReplyToStatusID": "",
-            "IsPin": false,
-            "IsQuoted": false,
-            "IsReply": false,
-            "IsRetweet": false,
-            "IsSelfThread": false,
-            "Likes": 3,
-            "Mentions": null,
-            "Name": "\ud835\udc13\ud835\udc1a\ud835\udc24\ud835\udc22\ud835\udc29 \ud835\udc1e\ud835\udc2d & \ud835\udc1f\ud835\udc28\ud835\udc25\ud835\udc25\ud835\udc28\ud835\udc30 \ud835\udfd3\ud835\udfce.\ud835\udc28\ud835\udc0a \ud83c\udd87",
-            "PermanentURL": "https://twitter.com/Okacmaz72/status/1805025802246820309",
-            "Photos": null,
-            "Place": null,
-            "QuotedStatus": null,
-            "QuotedStatusID": "",
-            "Replies": 0,
-            "RetweetedStatus": null,
-            "RetweetedStatusID": "",
-            "Retweets": 0,
-            "SensitiveContent": false,
-            "Text": "https://t.co/KL6TH7PNeP\n#tapswap #memecoin #notcoin #yescoin $BLUM #NOTNOt",
-            "Thread": null,
-            "TimeParsed": "2024-06-23T23:51:01Z",
-            "Timestamp": 1719186661,
-            "URLs": [
-                "http://t.me/BlumCryptoBot/app?startapp=ref_6rq7KDdaqH"
-            ],
-            "UserID": "1349403045646524424",
-            "Username": "Okacmaz72",
-            "Videos": null,
-            "Views": 133
+            "Error": null,
+            "Tweet": {
+                "ConversationID": "1790528948373467613",
+                "GIFs": null,
+                "HTML": "Mi name is Peet.<br>\ud83d\udc38Fully Audited and Verified<br>\ud83d\udc38Website/Litepaper<br>\ud83d\udc38Coingecko/CoinMarketCap listed<br>\ud83c\udf10 Website: <a href=\"https://peestcommunity.com/\">https://t.co/WUn4IT4J6g</a><br><a href=\"https://twitter.com/hashtag/Stake\">#Stake</a> <a href=\"https://twitter.com/hashtag/crypto\">#crypto</a> <a href=\"https://twitter.com/hashtag/staking\">#staking</a> <a href=\"https://twitter.com/hashtag/memecoin\">#memecoin</a><br>8!L1HF<br><br><a href=\"https://twitter.com/hashtag/opensea\">#opensea</a> <a href=\"https://twitter.com/hashtag/altcoin\">#altcoin</a> <a href=\"https://twitter.com/hashtag/pennystocks\">#pennystocks</a> <a href=\"https://twitter.com/hashtag/art\">#art</a> <a href=\"https://twitter.com/hashtag/citex\">#citex</a> <br><a href=\"https://t.co/J4jvBeReN9\"><img src=\"https://pbs.twimg.com/media/GNk8jg0bkAAHHpr.jpg\"/></a>",
+                "Hashtags": [
+                    "Stake",
+                    "crypto",
+                    "staking",
+                    "memecoin",
+                    "opensea",
+                    "altcoin",
+                    "pennystocks",
+                    "art",
+                    "citex"
+                ],
+                "ID": "1790528948373467613",
+                "InReplyToStatus": null,
+                "InReplyToStatusID": "",
+                "IsPin": false,
+                "IsQuoted": false,
+                "IsReply": false,
+                "IsRetweet": false,
+                "IsSelfThread": false,
+                "Likes": 2,
+                "Mentions": null,
+                "Name": "karen martinez",
+                "PermanentURL": "https://twitter.com/karenma79914542/status/1790528948373467613",
+                "Photos": [
+                    {
+                        "ID": "1790528907659415552",
+                        "URL": "https://pbs.twimg.com/media/GNk8jg0bkAAHHpr.jpg"
+                    }
+                ],
+                "Place": null,
+                "QuotedStatus": null,
+                "QuotedStatusID": "",
+                "Replies": 0,
+                "RetweetedStatus": null,
+                "RetweetedStatusID": "",
+                "Retweets": 0,
+                "SensitiveContent": false,
+                "Text": "Mi name is Peet.\n\ud83d\udc38Fully Audited and Verified\n\ud83d\udc38Website/Litepaper\n\ud83d\udc38Coingecko/CoinMarketCap listed\n\ud83c\udf10 Website: https://t.co/WUn4IT4J6g\n#Stake #crypto #staking #memecoin\n8!L1HF\n\n#opensea #altcoin #pennystocks #art #citex https://t.co/J4jvBeReN9",
+                "Thread": null,
+                "TimeParsed": "2024-05-14T23:45:42Z",
+                "Timestamp": 1715730342,
+                "URLs": [
+                    "https://peestcommunity.com/"
+                ],
+                "UserID": "1703006569020227584",
+                "Username": "karenma79914542",
+                "Videos": null,
+                "Views": 89
+            }
         }
     ]
 }
