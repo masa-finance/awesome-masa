@@ -55,7 +55,7 @@ def fetch_tweets(config):
     while current_date >= start_date:
         success = False
         attempts = 0
-        while not success and attempts < 3:
+        while not success and attempts < config['max_retries']:
             iteration_start_date = current_date - timedelta(days=days_per_iteration)
             day_before = max(iteration_start_date, start_date - timedelta(days=1))
 
@@ -77,6 +77,10 @@ def fetch_tweets(config):
                     logging.warning(f"No tweets fetched for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}. Rate limited, pausing before retrying...")
                     time.sleep(config['retry_delay'])
                     attempts += 1
+            elif response.status_code == 504:
+                logging.warning(f"Received 504 error for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}. Pausing before retrying...")
+                time.sleep(config['retry_delay'])
+                attempts += 1
             else:
                 logging.error(f"Failed to fetch tweets for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}: {response.status_code}")
                 break

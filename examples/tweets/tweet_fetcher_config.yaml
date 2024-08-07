@@ -6,19 +6,20 @@ headers:
 
 # Query settings
 query: '(#memecoin)'
-tweets_per_request: 250
+tweets_per_request: 100
 
 # Add start_date and end_date
-start_date: '2023-07-24'
-end_date: '2024-07-24'
-days_per_iteration: 0.1
+start_date: '2024-08-05'
+end_date: '2024-08-07'
+days_per_iteration: 0.10
 
 # File settings
 data_directory: 'data'
 
 # Timing settings
 retry_delay: 960  # 16 minutes in seconds
-request_delay: 5  # 15 seconds between requests
+request_delay: 15  # 15 seconds between requests
+max_retries: 3
 
 # Logging settings
 log_level: 'INFO'
