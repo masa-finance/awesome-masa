@@ -62,7 +62,10 @@ def fetch_tweets(config):
             query = create_tweet_query(config['query'], day_before, current_date)
             request_body = {"query": query, "count": config['tweets_per_request']}
 
-            response = requests.post(config['api_endpoint'], json=request_body, headers=config['headers'], timeout=60)
+            response = requests.post(config['api_endpoint'], 
+                                     json=request_body, 
+                                     headers=config['headers'], 
+                                     timeout=config['request_timeout'])  # Use timeout from config
             api_calls_count += 1
 
             if response.status_code == 200:
