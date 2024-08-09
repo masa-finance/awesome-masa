@@ -71,7 +71,7 @@ Our example RAG agent showcases:
 - Implementing vector search for relevant context retrieval
 - Integrating retrieved context with a language model for enhanced responses
 
-*For the full implementation, see the `agents/rag_example.py` file.*
+*For the full implementation, see the [RAG example agent](agents/rag_example.py) file.*
 
 ## 🤝 Contribution
 
