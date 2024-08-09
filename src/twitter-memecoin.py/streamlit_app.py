@@ -10,17 +10,13 @@ parent_dir = os.path.dirname(current_dir)
 project_root = os.path.dirname(parent_dir)
 sys.path.append(project_root)
 
-from agents.agent.rag_agent import get_rag_response, initialize_rag
-from agents.twitter_kol_agent.agent_config import DATA_URLS
-
-# Initialize the RAG components
-retriever, rag_chain, web_search_tool = initialize_rag(DATA_URLS)
+from src.agent import rag_agent
 
 def get_streaming_rag_response(question: str):
     logging.info(f"Generating response for question: {question}")
-    response, _ = get_rag_response(question, rag_chain)
+    response = rag_agent.graph.invoke({"question": question, "steps": []})
     
-    words = response.split()
+    words = response["generation"].split()
     for word in words:
         yield word + " "
         time.sleep(0.05)  # Adjust this delay as needed

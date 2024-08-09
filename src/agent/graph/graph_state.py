@@ -8,7 +8,8 @@ class GraphState(TypedDict):
     data: List[str]
     steps: List[str]
 
-def retrieve(state, retriever):
+def retrieve(state):
+    from src.agent.rag_agent import retriever  # Move import here
     logging.info(f"Retrieving data for question: {state['question']}")
     question = state["question"]
     data = retriever.invoke(question)
@@ -17,7 +18,8 @@ def retrieve(state, retriever):
     logging.info(f"Data retrieved for question: {question}")
     return {"data": data, "question": question, "steps": steps}
 
-def generate(state, rag_chain):
+def generate(state):
+    from src.agent.rag_agent import rag_chain  # Move import here
     logging.info(f"Generating answer for question: {state['question']}")
     question = state["question"]
     data = state["data"]
@@ -32,7 +34,8 @@ def generate(state, rag_chain):
         "steps": steps,
     }
 
-def web_search(state, web_search_tool):
+def web_search(state):
+    from src.agent.rag_agent import web_search_tool  # Move import here
     logging.info(f"Performing web search for question: {state['question']}")
     question = state["question"]
     data = state.get("data", [])

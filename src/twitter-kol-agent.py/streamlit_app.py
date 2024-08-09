@@ -3,48 +3,55 @@ import os
 import logging
 import time
 import streamlit as st
-# Import add_logo from streamlit_extras
-from streamlit_extras.app_logo import add_logo
 from streamlit_extras.add_vertical_space import add_vertical_space
+from dotenv import load_dotenv
 
+st.set_page_config(page_title="Masa Chat", page_icon="💬")
 
-# Get the absolute path of the current file
-current_path = os.path.abspath(__file__)
+# Load environment variables
+load_dotenv()
 
-# Navigate up to the agents directory (2 levels up from twitter_memecoin_agent.py)
-agents_dir = os.path.dirname(os.path.dirname(current_path))
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Add the agents directory to sys.path
-sys.path.append(agents_dir)
+# URLs for data loading
+DATA_URLS = [
+    "data/twitter_data/traderxo.json",
+]
 
-# Now import rag_agent
-from agent.rag_agent import get_rag_response, graph
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
+project_root = os.path.dirname(parent_dir)
+sys.path.append(project_root)
 
+from src.agent import rag_agent
+
+# Initialize the agent only once per session
+@st.cache_resource
+def initialize_agent_cached():
+    return rag_agent.initialize_agent(DATA_URLS)
+
+# Use the cached agent initialization
+graph = initialize_agent_cached()
 
 def get_streaming_rag_response(question: str):
     logging.info(f"Generating response for question: {question}")
-    response, steps = get_rag_response(question)
+    response, steps = rag_agent.get_rag_response(graph, question)
     
     words = response.split()
     for word in words:
         yield word + " "
-        time.sleep(0.05)  # Adjust this delay as needed
-
-# Set page config and add logo
-st.set_page_config(page_title="Chat", page_icon="💬")
-# Use add_logo to add a custom logo to the navigation bar
-logo_path = os.path.join(os.path.dirname(__file__), '..', 'logo.png')
-add_logo(logo_path, height=120)
+        time.sleep(0.05)
 
 st.title("💬 Masa Chat")
 
 st.markdown("""
     Welcome to the Masa Dataset Chat!
     
-    This interactive chat interface allows you to ask questions about the datasets you explored in the Datasets page.
-    Our AI assistant will provide insights and answer your queries based on the available data.
+    This interactive application is designed to let you explore and interact with datasets scraped by the Masa protocol. 
+    It leverages a sophisticated AI to provide insights, answer questions, and facilitate understanding of complex datasets.
     
-    Start by asking a question about any of the datasets you're interested in.
+    Dive into the data collected by Masa, ask questions, and uncover hidden insights with the help of our AI assistant.
 """)
 
 st.markdown("---")
@@ -59,7 +66,7 @@ def display_chat_history():
 
 display_chat_history()
 
-if prompt := st.chat_input("Ask a question about the datasets:"):
+if prompt := st.chat_input("Ask a question:"):
     st.session_state.message_history.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
         st.markdown(prompt)
