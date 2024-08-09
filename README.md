@@ -2,7 +2,7 @@
 
 A curated collection of datasets, tools, and agents for AI developers using the Masa protocol.
 
-![Masa Protocol](https://github.com/masa-finance/masa-oracle)
+[Masa Protocol](https://github.com/masa-finance/masa-oracle)
 
 ## 🚀 Quick Start
 
