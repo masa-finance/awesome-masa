@@ -1,4 +1,5 @@
 import sys
+import os
 import logging 
 from agent.core.config import * 
 from agent_config import DATA_URLS
@@ -7,6 +8,14 @@ from agent.rag.rag_chain_setup import setup_rag_chain
 from agent.graph.graph_workflow import setup_workflow
 from agent.search_tools.search_tools import get_web_search_tool 
 
+# Get the absolute path of the current file
+current_path = os.path.abspath(__file__)
+
+# Navigate up to the agents directory (1 level up from rag_agent.py)
+agents_dir = os.path.dirname(os.path.dirname(current_path))
+
+# Add the agents directory to sys.path
+sys.path.append(agents_dir)
 # Setup
 retriever = load_and_prepare_data(DATA_URLS)
 rag_chain = setup_rag_chain()

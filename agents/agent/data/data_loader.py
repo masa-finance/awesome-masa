@@ -1,5 +1,5 @@
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from src.agent.data.tweet_preprocessor import load_and_process_tweets
+from agent.data.tweet_preprocessor import load_and_process_tweets
 
 def load_documents(file_paths):
     docs = []

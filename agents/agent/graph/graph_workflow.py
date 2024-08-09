@@ -1,6 +1,6 @@
 import logging
 from langgraph.graph import StateGraph
-from src.agent.graph.graph_state import GraphState, retrieve, generate, web_search, decide_to_generate
+from agent.graph.graph_state import GraphState, retrieve, generate, web_search, decide_to_generate
 
 def setup_workflow():
     logging.info("Setting up the workflow graph...")

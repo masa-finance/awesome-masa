@@ -7,17 +7,19 @@ import streamlit as st
 from streamlit_extras.app_logo import add_logo
 from streamlit_extras.add_vertical_space import add_vertical_space
 
+
 # Get the absolute path of the current file
 current_path = os.path.abspath(__file__)
 
-# Navigate up to the root directory (3 levels up from 1_chat.py)
-root_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(current_path))))
+# Navigate up to the agents directory (2 levels up from twitter_memecoin_agent.py)
+agents_dir = os.path.dirname(os.path.dirname(current_path))
 
-# Add the root directory to sys.path
-sys.path.append(root_dir)
+# Add the agents directory to sys.path
+sys.path.append(agents_dir)
 
-# Import the necessary components from rag_agent
-from agent.rag_agent import get_rag_response, graph
+# Now import rag_agent
+from rag_agent import get_rag_response, graph
+
 
 def get_streaming_rag_response(question: str):
     logging.info(f"Generating response for question: {question}")
