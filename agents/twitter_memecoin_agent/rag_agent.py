@@ -1,10 +1,11 @@
 import sys
 import logging 
-from src.agent.core.config import * 
-from src.agent.data.data_management import load_and_prepare_data
-from src.agent.rag.rag_chain_setup import setup_rag_chain
-from src.agent.graph.graph_workflow import setup_workflow
-from src.agent.search_tools.search_tools import get_web_search_tool 
+from agent.core.config import * 
+from agent_config import DATA_URLS
+from agent.data.data_management import load_and_prepare_data
+from agent.rag.rag_chain_setup import setup_rag_chain
+from agent.graph.graph_workflow import setup_workflow
+from agent.search_tools.search_tools import get_web_search_tool 
 
 # Setup
 retriever = load_and_prepare_data(DATA_URLS)
