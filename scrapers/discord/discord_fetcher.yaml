@@ -1,0 +1,25 @@
+# API settings
+api_endpoint: 'http://localhost:8080/api/v1/data/discord/channels/{channel_id}/messages'
+headers:
+  accept: 'application/json'
+
+# Query params
+messages_per_request: 100 # 100 is the max
+
+# Number of iterations - starts from the most recent messages and iterates backwards by the number defined in messages_per_request
+iterations: 20
+
+# File settings
+data_directory: 'data/discord_data'
+
+# Timing settings
+request_delay: 5  # 5 seconds between requests
+
+# Logging settings
+log_level: 'INFO'
+log_format: '%(asctime)s - %(levelname)s - %(message)s'
+
+# Discord-specific settings
+guild_id: 'your_guild_id_here'
+channel_id: '906256283068403732'
+
