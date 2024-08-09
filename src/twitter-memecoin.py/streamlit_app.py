@@ -4,6 +4,20 @@ import logging
 import time
 import streamlit as st
 from streamlit_extras.add_vertical_space import add_vertical_space
+from dotenv import load_dotenv
+
+st.set_page_config(page_title="Masa Chat", page_icon="💬")
+
+# Load environment variables
+load_dotenv()
+
+# Configure logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+
+# URLs for data loading
+DATA_URLS = [
+    "data/twitter_data/memecoin.json",
+]
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 parent_dir = os.path.dirname(current_dir)
@@ -12,16 +26,23 @@ sys.path.append(project_root)
 
 from src.agent import rag_agent
 
+# Initialize the agent only once per session
+@st.cache_resource
+def initialize_agent_cached():
+    return rag_agent.initialize_agent(DATA_URLS)
+
+# Use the cached agent initialization
+graph = initialize_agent_cached()
+
 def get_streaming_rag_response(question: str):
     logging.info(f"Generating response for question: {question}")
-    response = rag_agent.graph.invoke({"question": question, "steps": []})
+    response, steps = rag_agent.get_rag_response(graph, question)
     
-    words = response["generation"].split()
+    words = response.split()
     for word in words:
         yield word + " "
-        time.sleep(0.05)  # Adjust this delay as needed
+        time.sleep(0.05)
 
-st.set_page_config(page_title="Masa Chat", page_icon="💬")
 st.title("💬 Masa Chat")
 
 st.markdown("""
