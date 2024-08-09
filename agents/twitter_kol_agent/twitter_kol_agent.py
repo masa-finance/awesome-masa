@@ -3,46 +3,38 @@ import os
 import logging
 import time
 import streamlit as st
-# Import add_logo from streamlit_extras
-from streamlit_extras.app_logo import add_logo
 from streamlit_extras.add_vertical_space import add_vertical_space
 
-# Get the absolute path of the current file
-current_path = os.path.abspath(__file__)
+current_dir = os.path.dirname(os.path.abspath(__file__))
+parent_dir = os.path.dirname(current_dir)
+project_root = os.path.dirname(parent_dir)
+sys.path.append(project_root)
 
-# Navigate up to the root directory (3 levels up from 1_chat.py)
-root_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(current_path))))
+from agents.agent.rag_agent import get_rag_response, initialize_rag
+from agents.twitter_kol_agent.agent_config import DATA_URLS
 
-# Add the root directory to sys.path
-sys.path.append(root_dir)
-
-# Import the necessary components from rag_agent
-from agent.rag_agent import get_rag_response, graph
+# Initialize the RAG components
+retriever, rag_chain, web_search_tool = initialize_rag(DATA_URLS)
 
 def get_streaming_rag_response(question: str):
     logging.info(f"Generating response for question: {question}")
-    response, steps = get_rag_response(question)
+    response, _ = get_rag_response(question, rag_chain)
     
     words = response.split()
     for word in words:
         yield word + " "
         time.sleep(0.05)  # Adjust this delay as needed
 
-# Set page config and add logo
-st.set_page_config(page_title="Chat", page_icon="💬")
-# Use add_logo to add a custom logo to the navigation bar
-logo_path = os.path.join(os.path.dirname(__file__), '..', 'logo.png')
-add_logo(logo_path, height=120)
-
+st.set_page_config(page_title="Masa Chat", page_icon="💬")
 st.title("💬 Masa Chat")
 
 st.markdown("""
     Welcome to the Masa Dataset Chat!
     
-    This interactive chat interface allows you to ask questions about the datasets you explored in the Datasets page.
-    Our AI assistant will provide insights and answer your queries based on the available data.
+    This interactive application is designed to let you explore and interact with datasets scraped by the Masa protocol. 
+    It leverages a sophisticated AI to provide insights, answer questions, and facilitate understanding of complex datasets.
     
-    Start by asking a question about any of the datasets you're interested in.
+    Dive into the data collected by Masa, ask questions, and uncover hidden insights with the help of our AI assistant.
 """)
 
 st.markdown("---")
@@ -57,7 +49,7 @@ def display_chat_history():
 
 display_chat_history()
 
-if prompt := st.chat_input("Ask a question about the datasets:"):
+if prompt := st.chat_input("Ask a question:"):
     st.session_state.message_history.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
         st.markdown(prompt)

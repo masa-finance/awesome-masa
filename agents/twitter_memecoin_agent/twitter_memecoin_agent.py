@@ -18,7 +18,7 @@ agents_dir = os.path.dirname(os.path.dirname(current_path))
 sys.path.append(agents_dir)
 
 # Now import rag_agent
-from rag_agent import get_rag_response, graph
+from agent.rag_agent import get_rag_response, graph
 
 
 def get_streaming_rag_response(question: str):
