@@ -56,7 +56,11 @@ To process datasets in a specific subfolder:
 python hf_refactor.py process --subfolder <subfolder_name>
 ```
 
-This will process only the datasets in the specified subfolder.
+To process datasets in a specific folder within a subfolder:
+
+```bash
+python hf_refactor.py process --subfolder <subfolder_name> --folder <folder_name>
+```
 
 ### Delete Collection
 
@@ -116,6 +120,7 @@ Failed file uploads are logged and summarized at the end of the process.
 - The script uses a local JSON file (`hf_upload_record.json`) to keep track of uploaded files and avoid re-uploading unchanged files.
 - There's a 5-second delay between file uploads to avoid overloading the API.
 - Dataset names are sanitized to comply with Hugging Face naming conventions.
+- The script now supports processing specific subfolders and folders within subfolders.
 
 ## Caution
 
