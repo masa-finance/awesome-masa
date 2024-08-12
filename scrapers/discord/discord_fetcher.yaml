@@ -7,7 +7,7 @@ headers:
 messages_per_request: 100 # 100 is the max
 
 # Number of iterations - starts from the most recent messages and iterates backwards by the number defined in messages_per_request
-iterations: 20
+iterations: 3
 
 # File settings
 data_directory: 'data/discord_data'

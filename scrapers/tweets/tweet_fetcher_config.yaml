@@ -5,16 +5,16 @@ headers:
   Content-Type: 'application/json'
 
 # Query settings
-query: '(from:macnbtc)'
-tweets_per_request: 200
+query: '(from:MartiniGuyYT)'
+tweets_per_request: 350
 
 # Add start_date and end_date
-start_date: '2023-07-24'
-end_date: '2024-07-24'
-days_per_iteration: 10
+start_date: '2024-07-31'
+end_date: '2024-07-31'
+days_per_iteration: 3
 
 # File settings
-data_directory: 'data'
+data_directory: 'data/twitter_data'
 
 # Timing settings
 retry_delay: 960  # 16 minutes in seconds
