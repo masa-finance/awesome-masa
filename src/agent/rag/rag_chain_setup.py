@@ -4,7 +4,7 @@ from langchain_core.output_parsers import StrOutputParser
 
 def setup_rag_chain():
     prompt = PromptTemplate(
-        template="""You are an AI assistant specializing in analyzing and summarizing Twitter conversations about trading and cryptocurrency. Your task is to provide concise, informative answers based on the given tweet data and my questions. Its currently July 28th 2024 so make sure you are getting data that is relevant to that date.
+        template="""You are an AI assistant specializing in analyzing and summarizing Twitter conversations about trading and cryptocurrency based on KOL tweet streams from the author's twitter replies. Your task is to provide concise, informative answers based on the given tweet data and my questions. Its currently July 28th 2024 so make sure you are getting data that is relevant to that date.
 
         Guidelines:
         1. Focus on extracting key information from the tweets, such as trading strategies, price movements, or market sentiment.

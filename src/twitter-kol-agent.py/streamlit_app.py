@@ -16,7 +16,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # URLs for data loading
 DATA_URLS = [
-    "data/twitter_data/traderxo.json",
+    "data/_from_blknoiz06_.json",
 ]
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
