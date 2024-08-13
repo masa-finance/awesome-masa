@@ -6,10 +6,10 @@ headers:
 
 # Query settings
 query: '(#memecoin)'
-tweets_per_request: 10
+tweets_per_request: 150
 
 # Add start_date and end_date
-start_date: '2024-08-01'
+start_date: '2024-07-01'
 end_date: '2024-08-12'
 days_per_iteration: 1
 
