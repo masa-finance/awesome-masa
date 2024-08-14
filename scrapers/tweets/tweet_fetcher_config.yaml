@@ -5,12 +5,12 @@ headers:
   Content-Type: 'application/json'
 
 # Query settings
-query: '(from:blknoiz06)'
-tweets_per_request: 50
+query: '\"Bitcoin Price\"'
+tweets_per_request: 145
 
 # Add start_date and end_date
-start_date: '2024-07-01'
-end_date: '2024-08-12'
+start_date: '2024-01-01'
+end_date: '2024-08-14'
 days_per_iteration: 1
 
 # File settings
