@@ -52,7 +52,7 @@ def get_streaming_rag_response(question: str):
                 # Replace bullet points with markdown bullets and newlines if necessary
                 chunk = chunk.replace("•", "\n\n• ")
                 yield chunk + " "
-                time.sleep(0.65)  # Simulate typing for each chunk
+                time.sleep(1)  # Simulate typing for each chunk
     except Exception as e:
         logging.error(f"Error generating response: {e}")
         yield "An error occurred while generating the response."
