@@ -41,15 +41,18 @@ def get_streaming_rag_response(question: str):
         if not response:
             yield "No response generated."
         else:
-            # Split the response into sentences for streaming
-            sentences = response.split('. ')
-            for sentence in sentences:
-                # Format each sentence with markdown bullets and newlines if necessary
-                formatted_sentence = sentence.replace("•", "\n\n• ")
-                if not formatted_sentence.endswith('.'):
-                    formatted_sentence += '.'
-                yield formatted_sentence + " "
-                time.sleep(0.5)  # Simulate typing for each sentence
+            # Split the response into chunks based on full stops followed by a space
+            chunks = response.split('. ')
+            for chunk in chunks:
+                # Check if the chunk ends with a full stop, if not, add it
+                if not chunk.endswith('.'):
+                    chunk += '.'
+                # Add a space after commas for better readability
+                chunk = chunk.replace(',', ', ')
+                # Replace bullet points with markdown bullets and newlines if necessary
+                chunk = chunk.replace("•", "\n\n• ")
+                yield chunk + " "
+                time.sleep(0.65)  # Simulate typing for each chunk
     except Exception as e:
         logging.error(f"Error generating response: {e}")
         yield "An error occurred while generating the response."
