@@ -2,14 +2,16 @@ import json
 import os
 
 def categorize_item(url):
-    if any(source in url for source in ['bankless', 'huberman_lab', 'laurashin', 'realvision', 'themintcondition']):
-        return 'Podcasts'
-    elif any(source in url for source in ['elonmusk', 'memecoin', 'milesdeutscher', 'themooncarl', 'trader_xo']):
-        return 'Twitter(X)'
-    elif 'jake_steeves' in url:
-        return 'YouTube'
-    else:
-        return None
+    sources = {
+        'Podcasts': ['bankless', 'huberman_lab', 'laurashin', 'realvision', 'themintcondition'],
+        'Twitter(X)': ['elonmusk', 'memecoin', 'milesdeutscher', 'themooncarl', 'trader_xo'],
+        'YouTube': ['jake_steeves']
+    }
+    for category, keywords in sources.items():
+        for keyword in keywords:
+            if keyword in url:
+                return category, keyword
+    return None, None
 
 # Get the directory of the current script
 script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -35,8 +37,12 @@ categorized_data = {
 
 for item in data:
     if item['title'] is not None:
-        category = categorize_item(item['url'])
+        category, source = categorize_item(item['url'])
         if category:
+            item['data_source'] = source  # Add data source to the item
+            if category == 'Twitter(X)':
+                # Remove "all tweets" from the title and update it with the source
+                item['title'] = f"{source.capitalize()} tweets between {item['title'].replace('all tweets', '').strip()}"
             categorized_data[category].append(item)
 
 # Create the new structure
