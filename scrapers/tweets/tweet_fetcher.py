@@ -52,6 +52,21 @@ def load_state():
     except (FileNotFoundError, json.JSONDecodeError):
         return {}
 
+import requests
+import os
+import yaml
+from datetime import datetime, timedelta
+from dotenv import load_dotenv
+import time
+import logging
+import json
+from tweet_service import setup_logging, ensure_data_directory, save_tweets, create_tweet_query, load_existing_tweets
+from requests.exceptions import ReadTimeout, ConnectionError, RequestException
+
+
+class NoWorkersAvailableError(Exception):
+    pass
+
 def fetch_tweets(config):
     api_calls_count = 0
     records_fetched = 0
@@ -91,6 +106,12 @@ def fetch_tweets(config):
 
                 if response.status_code == 200:
                     response_data = response.json()
+                    if response_data == {"Error": {}, "Tweet": None}:
+                        logging.warning(f"Received an empty response for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}. Waiting 960 seconds before retrying...")
+                        time.sleep(960)  # Wait for 960 seconds
+                        attempts += 1
+                        continue  # Skip to the next iteration of the while loop
+
                     if response_data and 'data' in response_data and response_data['data'] is not None:
                         new_tweets = response_data['data']
                         all_tweets.extend(new_tweets)
@@ -102,9 +123,24 @@ def fetch_tweets(config):
                         save_tweets(all_tweets, config['data_directory'], config['query'])
                         save_state({'current_date': current_date.strftime('%Y-%m-%d')}, api_calls_count, records_fetched, all_tweets)
                     else:
-                        logging.warning(f"No tweets fetched for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}. Rate limited, pausing before retrying...")
+                        logging.warning(f"No tweets fetched for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}. Unexpected response format. Pausing before retrying...")
                         time.sleep(config['retry_delay'])
                         attempts += 1
+
+                elif response.status_code == 429:
+                    response_data = response.json()
+                    if "error" in response_data and response_data["error"] == "Twitter API rate limit exceeded":
+                        logging.warning(f"Twitter API rate limit exceeded. Pausing for 15 minutes before retrying...")
+                        time.sleep(900)  # 15 minutes in seconds
+                        attempts += 1
+                        continue
+                    else:
+                        logging.error(f"Received 429 error for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}: {response_data}")
+                        time.sleep(config['retry_delay'])
+                        attempts += 1
+
+                elif response.status_code == 417:
+                    raise NoWorkersAvailableError("No workers available on the network")
                 elif response.status_code == 504:
                     logging.warning(f"Received 504 error for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}. Pausing before retrying...")
                     time.sleep(config['retry_delay'])
@@ -113,6 +149,11 @@ def fetch_tweets(config):
                     logging.error(f"Failed to fetch tweets for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}: {response.status_code}")
                     break
 
+            except NoWorkersAvailableError as e:
+                logging.warning(f"No workers available on the network: {str(e)}")
+                logging.warning("Try again later when workers become available.")
+                save_state({'current_date': current_date.strftime('%Y-%m-%d')}, api_calls_count, records_fetched, all_tweets)
+                return  # Exit the function, ending the tweet fetching process
             except ReadTimeout:
                 logging.warning(f"Read timeout occurred for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}. Retrying...")
                 time.sleep(config['retry_delay'])

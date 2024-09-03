@@ -5,6 +5,7 @@ import time
 import streamlit as st
 from streamlit_extras.add_vertical_space import add_vertical_space
 from dotenv import load_dotenv
+import re
 
 st.set_page_config(page_title="Masa Chat", page_icon="💬")
 
@@ -16,7 +17,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # URLs for data loading
 DATA_URLS = [
-    "data/__Bitcoin_Price__.json",
+    "data/__Ethereum_Price__.json",
 ]
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -41,18 +42,31 @@ def get_streaming_rag_response(question: str):
         if not response:
             yield "No response generated."
         else:
-            # Split the response into chunks based on full stops followed by a space
-            chunks = response.split('. ')
-            for chunk in chunks:
-                # Check if the chunk ends with a full stop, if not, add it
-                if not chunk.endswith('.'):
-                    chunk += '.'
-                # Add a space after commas for better readability
-                chunk = chunk.replace(',', ', ')
-                # Replace bullet points with markdown bullets and newlines if necessary
-                chunk = chunk.replace("•", "\n\n• ")
-                yield chunk + " "
-                time.sleep(1)  # Simulate typing for each chunk
+            # Process the response to maintain formatting
+            # Replace bullet points with markdown bullets and newlines if necessary
+            response = response.replace("•", "\n\n• ")
+            # Split the response into paragraphs for streaming
+            paragraphs = response.split('\n\n')
+            for paragraph in paragraphs:
+                # Correct the spacing around numbers and words
+                paragraph = re.sub(r'(\d+)([a-zA-Z])', r'\1 \2', paragraph)
+                paragraph = re.sub(r'([a-zA-Z])(\d+)', r'\1 \2', paragraph)
+                # Correct the spacing for special cases like '70k by August 5th'
+                paragraph = re.sub(r'(\d+)(k)(by)([A-Za-z]+)(\d+)(th)', r'\1 \2 \3 \4 \5\6', paragraph)
+                paragraph = re.sub(r'(\d+)(k)', r'\1 \2', paragraph)
+                # Add space after currency symbol if missing
+                paragraph = re.sub(r'(\$\d+)([^\s])', r'\1 \2', paragraph)
+                # Add space between words and numbers glued together without spaces
+                paragraph = re.sub(r'(\w)(\d+)(k)', r'\1 \2\3', paragraph)
+                paragraph = re.sub(r'(\d+)([a-zA-Z])', r'\1 \2', paragraph)
+                # Ensure space around 'or even' phrase
+                paragraph = re.sub(r'(or even)(\d+)', r'\1 \2', paragraph)
+                # Ensure space around currency values
+                paragraph = re.sub(r'(\d+)(k)', r'\1\2', paragraph)
+                paragraph = re.sub(r'(\$\d+)(k)', r'\1 \2', paragraph)
+                paragraph = re.sub(r'(\d+)(\s?)(k)', r'\1k', paragraph)
+                yield paragraph + "\n\n"
+                time.sleep(1)  # Increase sleep duration to slow down the streaming
     except Exception as e:
         logging.error(f"Error generating response: {e}")
         yield "An error occurred while generating the response."
