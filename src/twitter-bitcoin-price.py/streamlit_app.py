@@ -17,7 +17,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # URLs for data loading
 DATA_URLS = [
-    "data/__Ethereum_Price__.json",
+    "data/__Bitcoin_Price__.json",
 ]
 
 current_dir = os.path.dirname(os.path.abspath(__file__))

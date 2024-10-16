@@ -16,7 +16,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # URLs for data loading
 DATA_URLS = [
-    "data/_from_blknoiz06_.json",
+    "data/__MASA_.json",
 ]
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
