@@ -1,0 +1,1382 @@
+[
+    {
+        "speaker": "A",
+        "text": "Where, where does this stop? David? Are they going to arrest Tim Berners Lee, you know, the creator of the Internet protocols? How about Netscape 1994, who designed HTTPs? Remember Marc Andreessen talked about kind of cryptowars 1.0 when he came on the podcast? He was talking about the battle there. I mean, are the developers of Internet protocols responsible for how North Korea uses the Internet in order to do nefarious things that treasury doesn't want? It's absolutely ludicrous. And I think that if. If treasury or ever any government regulator in the US took this type of stance towards communication, we would have no silicon Valley, we would have no free and open Internet based largely in the us today. We would have none of this innovation and economic GDP growth. It would have been completely squelched. Bankless nation. It is the last Friday of August. David, what time is it?"
+    },
+    {
+        "speaker": "B",
+        "text": "It's the bankless Friday weekly roll up where we cover the entire weekly news. And crypto, which is always an ambitious endeavor, yet we persevere nonetheless into the frontier. How you doing, Ryan?"
+    },
+    {
+        "speaker": "A",
+        "text": "We're doing okay. Just okay, though, you know, this, this week felt like a gut punch. And we're gonna talk about some, the bad thing that happened this week and in the show. There's also some good stuff, but I mean, getting the bad thing out of the way. Number one, the Department of Justice has arrested Roman Semenov. This is a us developer of tornado cash, an open source privacy developer. This one hurt. David. It feels like crypto continues to be under attack. Privacy and freedom are under attack. It's a big freaking deal. And we're going to spend some time talking about it in the episode. That's the bad stuff. But we got some good stuff, too. What else?"
+    },
+    {
+        "speaker": "B",
+        "text": "We're talking about plenty of good stuff. The arrival of EIP 4844 draws close. This is, of course, the one that scales up layer twos further than they already have. The friend tech debate continues. Is it good or bad? Ron and I did an entire show on that. We will recap it very quickly, but really talk about the big takeaways, which are that it's proof that we are ready to go mainstream. We got a mainnet debut as well. We got an airdrop to talk about and an exploit as well. Just a normal week in crypto, so make sure to, like, subscribe, rate, and review wherever you get your podcasts. Ryan, I don't know if you've checked recently, but on Apple Podcasts, we are about to hit 1005 star reviews. So this is a call to action for anyone listening to on bankless on Apple, give us those five star reviews so we can legitimize the bankless podcast and get that top of the iTunes investing in business categories."
+    },
+    {
+        "speaker": "A",
+        "text": "You know what? We gotta start here, though. This is pretty cool from our friends and sponsors over it. Speaking of cool events, this one's not in Germany, David. But we're throwing a little party, little shindig over at permissionless. This is gonna happen Monday, September 11, from 07:00 p.m. to 10:00 p.m. in Austin, Texas. David, what are we doing here?"
+    },
+    {
+        "speaker": "B",
+        "text": "So every once a year, bankless manifests in real life. Could you imagine? That is the permissionless conference. Of course. We've been talking about it endlessly on the weekly roll up for bankless citizens who did not catch it last week or for whatever reason, missive roll up. How dare you? We are throwing a party for you, the citizens, and that is Monday the 11th at permissionless. So the one time of the year the bank list shows up in real life. Ryan will be there. I will be there. The entire bankless team will be there. So you guys can meet all the magicians that make this show possible behind the scenes. Big shout out to the team. We're all going to hang out, going to get some drinks. 500 people is our limit. We are not there yet. So if you are a citizen, make sure you show up in the discord to click the link. That is only for citizens, as well as all the other podcasts, guests that you guys have listened to, all the people, panelists that we've invited to permissionless. Anyone that's ever been on bank list that's also a permissionless will be there. I think. I think Eric Voorhees signed up today, so he'll be there at the party along with everyone else. You know, all the fam."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm gonna buy that man a drink for that debate with SP."
+    },
+    {
+        "speaker": "B",
+        "text": "I will also buy. Well, you can get Eric Voorhees. I'll get Dankrat's drink. I'll get Dankrat's drink."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Do you know what? Actually, I got a surprise for you, David, because all the drinks are free."
+    },
+    {
+        "speaker": "B",
+        "text": "All the drinks are free. Kraken is actually buying Eric Voorhees a drink. Thank you. Kraken for thanks, Kraken. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, speaking of Kraken, let's pull up the Kraken price charts. Bitcoin price this week, start of the week. I think we're down from last week."
+    },
+    {
+        "speaker": "B",
+        "text": "But tell us the carnage here down 7%. Bitcoin has lost $2,000 off of its market cap, starting the week at $28,000, ending the week at $26,000. You know, last week, we were covering the prices during the dump, and I was like, oh, we almost never get to do this because it always usually dumps right afterwards."
+    },
+    {
+        "speaker": "A",
+        "text": "You're excited."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, because we actually were able to cover the market action. And so, like I said, like, oh, yeah. So it's. We're botting them out. Right now. It's at 1740 or maybe 16. It was 1640. I was like, okay, sweet. We're actually getting the market action. And then afterwards, there was a huge wick all the way down to, like, below 1600. That's the ether price I'm talking about. So, no, we actually did not get the capture the market actions. But moving on to Eth price. 1740 is where it started last week. Down 5.5% to 1640. Wicked. Down to 1520. $5. Whoa, that got real low."
+    },
+    {
+        "speaker": "A",
+        "text": "We're going to talk about that. We're going to talk about that in a bit. Why that wick may have been. But before we do, let's talk about a few of the other metrics here. Eth bitcoin ratio, is that flat?"
+    },
+    {
+        "speaker": "B",
+        "text": "Up 1.5%. Yeah. So this is a bitcoin sell off that dragged the rest of the market down."
+    },
+    {
+        "speaker": "A",
+        "text": "All right. And global crypto, market cap. Total market value of crypto. What's that sitting at, David?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, almost 1.1 trillion. We did drop below a trillion dollars during the bottom. Yeah, but we're back up 10% above a trillion."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I don't like bitcoin below 30k, eth below two k, and definitely market cap below a trillion."
+    },
+    {
+        "speaker": "B",
+        "text": "Enough buyers kept us above, you know, above $1 trillion. So thank you to."
+    },
+    {
+        "speaker": "A",
+        "text": "This is going to be one of."
+    },
+    {
+        "speaker": "B",
+        "text": "The shout out to buyers out there. I was a buyer last week. You were buyers?"
+    },
+    {
+        "speaker": "A",
+        "text": "You were a buyer? Yeah, I was a buyer. I think by proxy, one of the things that I do is buying total crypto market captain above a trillion, though, still, I think this is going to be one of those bad news good news episodes. All right, so that was the bad news. Prices are down a little bit. Let's get into some good news here. It's all on layer two beat. Look at the activity. David, what are we looking at here?"
+    },
+    {
+        "speaker": "B",
+        "text": "We're looking at a growing area under the curve of the scaling factor, hitting new highs for the week at 5.2 x ethereums. So the aggregate scaling of all layer twos on ethereum are 5.2 x one the base. Ethereum, mainly thanks to Zksync era, actually, interestingly enough, clocking in at 12.2 transactions per second, coming in at number one, followed up by. So this is earlier the week, followed by base coming in at 8.6 transactions per second, arbitrum, seven transactions per second, and op mainnet, five transactions per second. So really, honestly, like, shout out to ZK era. The transaction volume has been absolutely insane. There is a decent supply of that that is bots, but also there's a decent supply that's not. What do you mean, bot airdrop farmers."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, bots. Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "Actual bots passing money around. And so, like, yeah, like many, many people think like, oh, well, it's bots. It's kind of, it's like illegitimate, illegitimate transaction volume. It's not, it's not real humans. It's real money. Like that's. There's a half a billion dollars being pushed around in ZK sync era. So that's real, actual, like stress testing of the protocol. Bots or not, there are actual, like new novel apps being built on ZKDe that real humans are actually using. So it's a mix between bots and humans. Kind of a taste for the future."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, that's what you're going to get. When the transactions are so cheap, then the robots can start affording it, right? Cheap transactions are robot transactions. Base flipping arbitrum and optimism by daily transaction count. Wow."
+    },
+    {
+        "speaker": "B",
+        "text": "Yep. Coming in at number one at the optimistic roll ups."
+    },
+    {
+        "speaker": "A",
+        "text": "Yep, it's a big freaking deal. Look at this chart just straight up. Have you been surprised by Base's adoption, David?"
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, as someone who's been playing on friends all week."
+    },
+    {
+        "speaker": "A",
+        "text": "No, I mean, from a month ago to now, would you have predicted this chart, base in like a period of weeks, outstripping Ethereum and then also the two largest optimistic roll up chains that have been live for like two years and base beats it in two weeks."
+    },
+    {
+        "speaker": "B",
+        "text": "I have the benefit of hindsight right now, but I don't know, it feels pretty obvious. That's why people have been excited about base all along. Like a lot of the l two based contrarians have been like, why is everyone excited? It's just another optimism fork. It's nothing new. And then everyone, the base bulls are like, what do you mean it's nothing new? It is the largest exchange, the largest us public company exchange with their own layer two. Of course they're going to pump the hell out of it and they have the marketing reach and so we're seeing, I think the base bulls take a victory lap here."
+    },
+    {
+        "speaker": "A",
+        "text": "I would say a lot of things in crypto do not live up to the hype. I would say even among the people who are hyping it, base has kind of lived up to the hype, at least to this point in time. This is a post from will she hand 1 million trades on friend Tech in the last two weeks? In less than two weeks. That's incredible. Would this be base's first breakout app? It's all friend tech."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I would say so. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "These are the dune boards. David, what are we looking at here? This is fascinating roll up economics. What do you see in these charts?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, this is just some great bankless candy right here. This is why we've been bullish on layer twos, fundamentally, is because their economics just check out. This is an economic dashboard from Nifty table. Shout out to nifty table. Thank you for putting this dashboard together. They've got a newsletter@zeroxtrends.com. if you want to sign up. Okay, so on the top left on chain profit. This is how profitable these roll ups are. And you can see kind of why I was pointing, like, yeah, sure, there's a bunch of bots on Zksync era, but they're paying Zksync era a ton of money. That's real revenue into the bought or not, followed by base. This is for the month of August of 2022, followed by base profitability, and then op Mainnet and arbitrum. And so this is the transaction fees that the roll ups are charging minus the cost of publishing transaction data to the ethereum. Layer one is the profit. And that is what you are seeing on the left in ether terms and on the right in dollar terms. And then if you go scroll down, it'll kind of just walk you through the costs and also the revenue, just all the economics that make a roll up. A roll up. And so this is the dune dashboard that basically articulates the economic case for layer twos. And as you can tell, they are extremely profitable. So, in aggregate, between arbitrum, optimism, base, and Zksync era, all of them combined together profited 3000 ether so far in August. In the first three weeks of August."
+    },
+    {
+        "speaker": "A",
+        "text": "3000 ether in August. What would that translate to 3000 times?"
+    },
+    {
+        "speaker": "B",
+        "text": "Almost $8 million. Almost $8 million. Thank you to the us dollar chart on the right here."
+    },
+    {
+        "speaker": "A",
+        "text": "What I love about this, David, is, you know, in so many, I guess, crypto economic models that are obfuscated or hand waved away, this is like real tangible on chain revenue. And the business model for roll ups for layer twos could not be more simple. What do they do? Ethereum is a wholesaler of ether block space. Ethereum block space. Rollups purchase that and they resell it for more. They are a value added reseller, and then they make a profit on that resale. And that's how they generate 3000 eth worth of value in one month. It's a really freaking simple business model. I mean, like a lot of technology here, a lot of work to get the kind of the network effect. But what do rollups do? They take layer one block space, Ethereum block space, and they resell it for a profit. That's what they do."
+    },
+    {
+        "speaker": "B",
+        "text": "So Ethereum layer one is Costco, and all of the options of roll ups are your local grocery store that goes to Costco buys the goods. Restaurants on packages. Yeah, restaurants. Yeah. Your local distribution center, wherever that is. Yeah. Ethereum is the Costco of blockchains."
+    },
+    {
+        "speaker": "A",
+        "text": "Wow. The new narrative. Watch. It's coming from bankless. No longer ultrasound money."
+    },
+    {
+        "speaker": "B",
+        "text": "This is a graphic that I saw going through crypto Twitter last week that I thought was pretty cool. Cool. The current layer two landscape, I think this already needs updating because there's definitely some extra op stack chains that aren't in here. These are all the layer two s that are deployed to Ethereum and then also the ones that are scheduled to be deployed. Things like Scroll, Tyco, some other ones I'm not familiar with. So you can see just like the Starkx ecosystem, the Zk stack ecosystem, the op stack ecosystem, and then the ones that don't have shared code bases like Arbitrum, Starknet, Aztec connect, et cetera, linea."
+    },
+    {
+        "speaker": "A",
+        "text": "Where's polygon? Oh, I see it. No shared code base up here, huh?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, should be changing soon. So the scheduled live immutable Zkevm, I'm pretty sure that is a polygon Zkevm. So the polygon will have its own ecosystem. I don't know about the no shared code base between arbitrum Nova and Arbitrum one. I thought that that was a shared code base TBG on the accuracy of this whole thing. But this is like the spread of the layer two s, and there's a lot of them is the point."
+    },
+    {
+        "speaker": "A",
+        "text": "There's a lot of them and each of these, this is kind of a new thing to take a look at taking shape. Each of these, I think, will become super chains in and of the himself. Networks of chains, I believe. So we'll talk about that. A little bit more maybe at the end of the show. David, some market news here. Let's get back to why. There was this massive down a candle right after we recorded the roll up last week. Did we see something wrong?"
+    },
+    {
+        "speaker": "B",
+        "text": "Bitcoin is at 26,000 at the time of recording, and it dumped down to 25,200 ether. That was, like, below 1550."
+    },
+    {
+        "speaker": "A",
+        "text": "That happened last Thursday."
+    },
+    {
+        "speaker": "B",
+        "text": "We call this a wick or a flash crash."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So it happened last Thursday, the 17th, I believe. Okay, so why? Why did this happen?"
+    },
+    {
+        "speaker": "B",
+        "text": "So there were rumors that bitcoin was dumped by Elon Musk from SpaceX. So. Thanks, Elon. Turns out that was unsubstantiated. The actual reason was leverage. It was leverage."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, we did one of those things again?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, yes. A bunch of apes loaded up on leverage, and then the buyers ran out and the sellers kept on selling, and then we dumped, and then there was a cascade of liquidations. So over a billion dollars was liquidated on Thursday, both shorts and longs, which just tells you exactly how degenerate some of this. Some corners of this industry is."
+    },
+    {
+        "speaker": "A",
+        "text": "That's all it was. There's no conspiracy, there's no big event, no news."
+    },
+    {
+        "speaker": "B",
+        "text": "It was just like when apes pile in, too much leverage, this is what we get. So $835 million of longs were liquidated, along with almost $200 million of shorts. So you can blame the apes for that one. Thank you."
+    },
+    {
+        "speaker": "A",
+        "text": "Candles like that, I don't remember when I zoom out, but because I remember, we do these every week, David, so I remember this happening probably, like, five or six times. Candles like this."
+    },
+    {
+        "speaker": "B",
+        "text": "This is a regular celebration. Just a cleansing of the apes. Yeah, it's like."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, it is a cleansing."
+    },
+    {
+        "speaker": "B",
+        "text": "They'll be back, don't worry."
+    },
+    {
+        "speaker": "A",
+        "text": "The good news is now you can buy lower if you're bullish on these assets, so thank you, apes."
+    },
+    {
+        "speaker": "B",
+        "text": "This was the largest liquidation event since FTX."
+    },
+    {
+        "speaker": "A",
+        "text": "Really?"
+    },
+    {
+        "speaker": "B",
+        "text": "So there's a fun fact that's pretty freaking big. It's not. Not small. Yeah, go back. One tweet, you can compare the candles. Half as big. I would say, as one. No, that you had the right tweet. Half as big as FTX. So FTX had maybe a double way back here. That's. That's the FTX. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Almost an FTX worth. Huh. And it's just leverage. Apes being apes."
+    },
+    {
+        "speaker": "B",
+        "text": "Yep."
+    },
+    {
+        "speaker": "A",
+        "text": "David, you know, I spent the morning reading a fantastic Arthur Hayes article. Oh, really? Interesting."
+    },
+    {
+        "speaker": "B",
+        "text": "Please download me. I didn't."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I mean, you got to read it yourself. I can't, like, put put this man's words into. Into my own. But I'll give you the punchline. Let me give you the punchline."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "All right. So he says this. The Fed wants to cool us domestic inflation, but the more they simultaneously raise rates and reduce their balance sheet, the more stimulus will be handed to rich asset holders. Okay. Okay. So the more they do this thing. Yes. The more they raise rates, the more they do the quantitative tightening thing. The key thing is the more stimulus will be handed to rich asset holders. That's his thesis. And he justifies it through the rest of the article. One interesting stat here, David. Remember we were talking about how interest pay, how high interest payments are for the government, for the us government, because they've raised their rates. Right. So the Fed is."
+    },
+    {
+        "speaker": "B",
+        "text": "They have a bunch of debt and they raise rates."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. The us government has to pay interest on all of their debt. And they have a lot of freaking debt. And so now they have to debunk themselves."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "Rather than like one or 2% interest, they now have to pay over 5% interest. All right. This amounts to a lot of money. So this is the federal current government expenditures, interest payments. Right. And we talked about that in a previous. We talked about that in the previous roll up. So as of the second quarter, 2023, the US treasury will be handing out close to 1 trillion in interest payments to debt holders. 1 trillion. That's why rates are so high. And Arthur contends that this effectively becomes a rich person. Stimmy check. Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "Because an asset holder stimmy check. Right."
+    },
+    {
+        "speaker": "A",
+        "text": "An asset holder stimmy check. Right. And who are the asset holders disproportionately?"
+    },
+    {
+        "speaker": "B",
+        "text": "Obviously, people are wealthy people, probably listeners of this podcast."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, people who are not living paycheck to paycheck, people who have some spare assets to invest. Right. I mean, this is. We're talking about like top 10% types of individuals. And so effectively, this $1 trillion per year, David, it goes to them. And what are they going to do with it? This is what Arthur is saying. They're going to. They're not going to buy. They're going to buy more assets because what do they need most? You know, maybe some services, maybe some kind of luxury vacations, that sort of thing. Maybe some college tuition. I don't know. But the rest of that goes into assets. That's why property values are rising. That's why asset prices continue to increase in this higher interest rate environment. And he calls this kind of the rich person stimulus check. So what we end up getting here, David, is interest rates are up, but so our asset prices. And so wealth inequality continues to increase. It just feels like the pot is getting closer and closer to that boiling point. And what is the next era, the next phase of this? Well, actually, there was a Fed official from the St. Louis Fed who wrote a fantastic paper that I've skimmed, but I'm getting ready to read this weekend because it looks fantastic."
+    },
+    {
+        "speaker": "B",
+        "text": "That's what Ryan does on weekends."
+    },
+    {
+        "speaker": "A",
+        "text": "Seriously. They're spelling it out. And he talks about this new era of fiscal dominance that is the key phrase here. And fiscal dominance occurs when the central bank must set up policies not to maintain stable prices, but to ensure the federal government can afford to fund itself in the debt market. What this means is the central bank is no longer in charge and the fiscal government spending is more in charge, and they are going to have to print more money. This is following the trajectory of bank of Japan kind of thing. Anyway, the net of this is, as you could expect, more money printing. Asset prices continue to rise. The Fed and the us government really painting itself into a corner. This is not like the 1980s when we raised interest rates there because our debt to GDP was something like 40% and now it's 130%. So that is maybe a taste of the article. And as always, I found it tremendously insightful."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, thank you for distilling that, brother."
+    },
+    {
+        "speaker": "A",
+        "text": "I feel bullish on what, though?"
+    },
+    {
+        "speaker": "B",
+        "text": "My takeaway is that I am bullish on assets."
+    },
+    {
+        "speaker": "A",
+        "text": "There you go."
+    },
+    {
+        "speaker": "B",
+        "text": "Specifically risk on assets."
+    },
+    {
+        "speaker": "A",
+        "text": "There you go. In crypto, assets that aren't tied to fiat. David, what's this? What are we looking at here?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, just something to add to the markets. Lido staked ether. Mantle, formerly bitdao, which got funded out of this bybit exchange. So this bybit exchange was just printing money throughout the bull market. They realized that, hey, eventually the best case thing to do is to decentralize. So we're gonna make bitdao. And so we had the centralized exchange that slowly evolved over time to what we now know as the mantle ecosystem. Really cool story. Regardless, Xerox mantle has staked 40,000 ether from their treasury, the Bitdao treasury, to stake ether with Lido. So that is a big dub for Lido. 40,000 ether into the lido staked ether supply. So congrats to Lido."
+    },
+    {
+        "speaker": "A",
+        "text": "This dow as well. The mantle Dao has a ton of ether on the balance sheet."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, 40,000 is not all of it. Like a few hundred thousand. Minority of it. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "And they're investing a lot of this into the, into the mantle ecosystem."
+    },
+    {
+        "speaker": "B",
+        "text": "Mantle is a sponsor of bankless."
+    },
+    {
+        "speaker": "A",
+        "text": "Disclaimer, David, what do we have coming up next?"
+    },
+    {
+        "speaker": "B",
+        "text": "Coming up next, one of the Tornado cash co founders, developers was arrested and the other sanctioned. So bad day. We're going to talk about these details and the significance of them and what they represent in the crypto Wars 2.0, which does not seem to be ending anytime soon. Ethereum about to launch a brand new testnet. This is the den kun testnet. So EIP 4844 is on the horizon. Layer twos, a bunch of new upgrades in layer two week. The layer two summer continues to go on. There's an airdrop to talk about that you need to claim there is a new exploit that we have to talk about. So all of this and more coming up as soon as we talk to some of these fantastic sponsors that make this show possible."
+    },
+    {
+        "speaker": "A",
+        "text": "An open source developer of privacy technology was just arrested by the us government. Name is Roman. There's another co founder who has not been located but was also sanctioned. David, this is really bad news in the Tornado cash case. Not the first time this has happened. Of course, we've talked about Alexei Purcev, who was arrested I believe over a year ago by authorities in the Netherlands, but this is the first time the us government is directly taking action. What went on here? What are we looking at?"
+    },
+    {
+        "speaker": "B",
+        "text": "So before we get confused, there are two romans that we need to talk about. There is roman storm and Roman Semenov. Both are co founders of Tornado Cache. It's coincidence that their names are both Roman. Roman storm, resident of Auburn, Washington, not too far away from where I grew up. And then Roman Semenov of Russia, both co founders, creators of Tornado Cache, which is the privacy tool that we have previously, I have previously used to achieve privacy in crypto before it was sanctioned by OFAC. The Department of justice arrested Roman Storm. And OFAC has sanctioned Roman Semenov. They were both charged with us federal money laundering upwards over a billion dollars in sanctions violations. So a quote from us attorney Damian Williams says, while publicly claiming to offer a technically sophisticated privacy service, storm and Semenov in fact knew that they were helping hackers and fraudsters conceal the fruits of their crimes. The action taken against Seminov and Storm was part of the government disrupting the ability of North Korea to raise funds through illicit activity and was aimed at protecting the integrity of our financial system, including the virtual currency ecosystem. So Brian Klein, who's a famous attorney, a pro crypto attorney who has done some landmark cases in the crypto ecosystem, is the attorney for roman storm, his statement is, we are incredibly disappointed that the prosecutors chose to charge mister Storm because he helped developed software and they did so based on the novel legal theory with dangerous implications for all software developers. Mister Storm has been cooperating with the prosecutor's investigation since last year and disputes that he engaged in any criminal conduct. There's a lot more to the story that will come out in the trial. So basically, Roman Storm has been living inside the United States because a United States citizen, being a United States developer, a cryptographer, an open source developer, and so he's lived probably with this cloud of like, the Department of Justice really didn't like this tornado cache thing, but nonetheless stayed in the United States as a patriot of freedom. I'd say understanding that this day might come, and sadly, it sounds like this day has indeed come."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I guess a few. This is definitely a gut punch, as I said earlier, for all of crypto, and we'll talk about the reactions and implications. Just a few points. So what you were reading from was partially a press release from the US Department of Treasury. They are the ones kind of authoring the full press behind this. And those were some of the quotes that you mentioned here. And so the developers are being charged for creating and deploying the privacy mixing software called tornado. And so if you've never used privacy software before on Jane, you of course know on something like Ethereum, your address is completely public. Right? And so if that address is kind of linked to your name somehow, you have no way to, like, maintain your privacy. There's no SSL or HTTPs or secure encrypted communication for crypto. Right. All of that metadata is kind of leaked. So tornado is akin to almost using encryption software for money. Sort of like, I don't know, David or any listeners have ever used the signal app before. Right. So signal encrypts all of your communications. This did that for money. Failing doing that on chain, people use sort of exchanges as a mixing service. Of course, it's not completely private, but you could bounce your money into Kraken Coinbase and then bounce it to a new address to sort of pseudo protect your anonymity. But of course, it's not pure privacy protection. It appears that these developers did not do anything more than deploy to tornado cache code."
+    },
+    {
+        "speaker": "B",
+        "text": "And importantly, they are not being charged for anything more than that. They're not being charged for aiding and abetting. We weren't liaising with anyone so far. As far as we know, they are only being charged for being builders of tornado cash."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, for deploying it. And then this is the other key point, not taking preventative measures to block North Korea from accessing. So it's very clear that North Korea and this Lazarus group, they are unsafe reactors, they are stealing money from crypto hacks and bridges and that sort of thing. They did use tornado as a privacy technology. And the charge is that these developers did nothing to block them. The question, though, is how would it even be possible to block North Korea? Okay, remember, guys, you know, crypto, this is code deployed to an immutable smart contract on Ethereum. You can't stop anybody from using it, right? How? How would you even do that? You can't do that."
+    },
+    {
+        "speaker": "B",
+        "text": "This is the big missing thing from this charge from the Department of Justice is they said they could have taken preventative measures without actually, they just are waving this idea around without actually providing any details."
+    },
+    {
+        "speaker": "A",
+        "text": "Right? And so, I mean, what a chilling effect, right, for american privacy developers or privacy technology developers worldwide. And what a betrayal to me of american values. And where does this stop? I think that's part of the question that everyone is asking. So what if you run an Ethereum validator that processes one of those turn into cash transactions? What if you hold Ethan, which is economic security? Right? What if you tweet or do a show on crypto privacy? What if you write a tactic in the bankless newsletter on how to maintain your privacy on crypto and it mentioned tornado cash?"
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, like, where we did that. We did that."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, so, like, where does this stop, David? Are they going to arrest Tim Berners Lee? You know, the creator of the Internet protocols? How about Netscape 1994, who designed HTTPs? Remember Marc Andreessen talked about kind of cryptowars 1.0 when he came on the podcast? He was talking about the battle there. I mean, are the developers of Internet protocols responsible for how North Korea uses the Internet in order to do nefarious things that treasury doesn't want? It's absolutely ludicrous. And I think that if treasury or ever any government regulator in the US took this type of stance towards communication messaging, the type of stance they're talking about for money over ip, if they took this stance for communications over Internet protocol, we would have no Silicon Valley, we would have no free and open Internet based largely in the us today. We would have none of this innovation and economic GDP growth. It would have been completely squelched. You know what? When I read this press release, it was one of the most almost disturbing parts of all of this. There's lots, lots disturbing about this was how they ended it. David, let me read to you how they freaking end this piece. I'm actually highlighted what is the goal of all of these sanctions, these arrests and sanctions. Here it is. The ultimate goal of sanctions is not to punish, but to bring about a positive change in behavior."
+    },
+    {
+        "speaker": "B",
+        "text": "Get the fuck out of here."
+    },
+    {
+        "speaker": "A",
+        "text": "Not to punish, but bring about a positive change in behavior. You know what this reminds me of?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Freaking Dolores Umbridge. Right? Like, that's what this feels like. It's just. It's for your own good. We're just trying to modify. What behavior are you trying to modify? Like stripping american citizens, global citizens, of their ability to access privacy, encrypt their money transactions in the same way we can. We can encrypt our communication transactions. Incredibly disturbing. What. What are some takes from around crypto?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So coincenter put out an article, which is something that they typically do whenever something bad happens as a result of government decision making. And so they say. The indictment claimed the defendant's unlicensed money transmission engaged in the business of transferring funds on behalf of the public, and also did so without registering with FinCen. But also, they're pointing out, does the indictment state any facts that the defendants engage in any activities that actually qualify as money transmission under the relevant law? That's probably what Brian Klein, the lawyer, is going to argue, is that they are. One side is saying, hey, you engage in money transmission, and then the lawyer is going to be like, can you point to the time where either of these developers actually custodied or took control of any money? Because you can't."
+    },
+    {
+        "speaker": "A",
+        "text": "It was just code."
+    },
+    {
+        "speaker": "B",
+        "text": "It was just code. The implementing regulations of the Bank Secrecy act defined money transmission services as the acceptance of currency, funds, or other value that substitutes for currency from one person, and the transmission of currency, funds, or other value substitutes for currency to another person or location by any means. That's a bunch of legal speak. It's basically, was tornado cash ever a bank, or was it code? Was there any trust in these individuals? Did these two individuals have any authority or power over the direction of these funds? Or was it just code? Interestingly, in 2019, FinCEn virtual currency guidance, a paper released by FinCeN, interpreted the regulations and said that an anonymizing software provider is not a money transmitter."
+    },
+    {
+        "speaker": "A",
+        "text": "Freaking obviously it's not."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes."
+    },
+    {
+        "speaker": "A",
+        "text": "So what are they doing now? Here's Niraj on this. What's he saying from coin?"
+    },
+    {
+        "speaker": "B",
+        "text": "So Niraj is just also from coin center. Just basically says the obvious. Roman Storm and Roman Seminov did not accept nor transmit user funds. They never touched users funds. You know, what's the other nefarious thing about this is that in the indictment, in the statement from Department of Justice, they said that the majority of money going through tornado cash was illicit. But interestingly, they previously admitted that only 7% of money going through tornado cash is illicit. And that discrepancy between what they are saying in this document saying the majority of funds going through tornado cash is all bad and nefarious, you can tell that they are just trying to work up a case here because of the fact that they previously said that they know that only 7%. So they're clearly working up a case here."
+    },
+    {
+        "speaker": "A",
+        "text": "So that means David 93% was presumably not illicit. It was citizens money, some of my."
+    },
+    {
+        "speaker": "B",
+        "text": "Money, some of the other people's money."
+    },
+    {
+        "speaker": "A",
+        "text": "For privacy on chain, which is again, we don't have an HTTP, there is no privacy solution on chain right now that can be accessible on ethereum. And this was it. This was one of those. And there was not all scammers and tax evaders and terrorists and rogue states using this protocol. It's like regular people, they're stripping this function out. I just want to reiterate, for those who aren't familiar, we talked about this months ago when it happened. Any us citizen is actually not permitted. It's illegal for you to go use tornado cash right now. You cannot do it. It's an o fact sanctioned smart contract address."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. And again, going down to the base principles of why this is important is like the line, the classic line is like, why do you need privacy if you have nothing to hide? Of course, I think bankless listeners don't need to be have these arguments reiterated. Like when I use tornado cash, it's not because I have a skeleton to hide. Like I just want to hide my bad trades and my stupid nfts that I bought on one particular address. And when I send you money, I don't want you to be able to see."
+    },
+    {
+        "speaker": "A",
+        "text": "I think if you, there's somehow this norm that we don't have around financial privacy but, but, you know, flip it around messaging. Imagine if the government could open up every single email, every single community, every single message that you send to your, your friends or your wife or your family and they had like read access to all of that. That's what you have without privacy on chain. I will note too, this 7% tornado cash is legal activity. I was looking at estimates for, do you know, actual physical cash. What percent estimates experts estimate of that is kind of illegal or tax evading."
+    },
+    {
+        "speaker": "B",
+        "text": "Do you know what number is higher than seven?"
+    },
+    {
+        "speaker": "A",
+        "text": "It's 30%. David, physical cash. Maybe we should outlaw. I don't want to give them ideas."
+    },
+    {
+        "speaker": "B",
+        "text": "They are also trying to do that. Okay, so Seth from privacy, another tweet from him says the logic so that he's quoting, he has a picture of the document and says, as discussed below, this is a statement from the government. The failure to implement AML KYC facilitated the ability of customers of the tornado cash service to transfer criminal proceeds between addresses on the Ethereum blockchain without being traced. And then importantly, Seth says, who's a lawyer, says the logic that non custodial services must implement KYC Amlae is without prior legal precedent. There has never been any statement or precedent ever that non custodial financial services have to enforce KYC AML."
+    },
+    {
+        "speaker": "A",
+        "text": "So it's one of those. How do you find out this is illegal? It's like we arrest you, we show up to your house and arrest you."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, exactly."
+    },
+    {
+        "speaker": "A",
+        "text": "There's not actually a law about this."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I will say. Okay, so there's one new thing. We've as a industry of cryptographers, who are we? We are downstream. The cryptocurrency industry is downstream of the cryptographers that have come before us in the eighties, nineties and early thousands. We've already fought cryptography wars 1.0. Why are we doing cryptography wars 2.0?"
+    },
+    {
+        "speaker": "A",
+        "text": "Because as David's saying, cryptography itself, like encryption technology itself, the thing that we take for granted every day, it used to be on the us munitions list. It could not be a technology that was exported. It was illegal for citizens to use. And we changed that with the birth of the Internet. That's what you mean by cryptowars 1.0."
+    },
+    {
+        "speaker": "B",
+        "text": "Exactly. So we've done this before. Why are we doing it again? Well, because now we have the addition of cryptocurrency. So now there's this new form factor and the government thinks that it gets to have a second attempt of making cryptography illegal, or at least this particular implementation. So the addition of financial assets is the novel thing here. And this is where the torn token, the tornado cash token, actually has a story to play here. So again, Seth from privacy focuses on one of the elements in the documents here and says that this is most assuredly where the court will focus on profit motives as there was a clear profit at stake for the founders indicted here. Without torn, I doubt that there will be any case at all made by the us government. And so inside of the document there's a section that says, in connection with the creation of Tornado Cash Dao, the Tornado cash founders made a public announcement of the creation of a new token on the Ethereum blockchain called the torn token, and created approximately 10 million torn tokens pursuant to a formula created by roman storm and Roman Seminov, the defendants. Approximately 30% of torn tokens were distributed to the three founders and to certain investors in the tornado cash service, including some venture capital firms. And so they were able to profit off of what the Department of Justice is saying is promoting illicit illegal activities that violate Fincen. And so that profit motive is a new variable in what is now crypto wars 2.0."
+    },
+    {
+        "speaker": "A",
+        "text": "It's the strongest part of their case. If there was no token, this case would be a whole lot weaker."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. And so this is why we are thinking that we are doubling down on this whole torn thing. But what did torn actually govern over tornado cash? Could it have removed money from the pools? Could it have directed any money? The answer is unequivocally no, it could have not done that. There were some very small surface areas that tornado cache, the torn token, governed over. One of them was the relayers. I think you could approve or unapprove relayers. I think that was the big one. But really, there was no material control over tornado cash. In fact, tornado cash governance broke not too long ago from an exploit. I remember. Don't know if you remember that story, but basically, tornado cash governance is now completely corrupt because of an exploit that happened."
+    },
+    {
+        "speaker": "A",
+        "text": "They couldn't do anything about it. They didn't have control yet."
+    },
+    {
+        "speaker": "B",
+        "text": "The pools still live on. So it's actually proof that the tornado cash token is completely adjacent to the actual details of the protocol."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, and how far back do you kind of go around that, too? Again, Ethereum stakers theorem validators received some fractional proceed of a tornado cash transaction. So there's a profit there. Like, I mean. So do you make Ethereum illegal and validating illegal? I don't know where this road leads to. This is Jake Trevinsky. I'm struggling to think of something, anything useful to say about this tragic mistake that is the DOJ's decision to treat privacy and speak and speech as crimes. I'm blank. Wow. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "When Jake is blank. Oof."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. When he runs out of words. The treatment of privacy and speech as crimes. Let's remember what code is and why we won crypto wars 1.0 is because encryption technology code is speech."
+    },
+    {
+        "speaker": "B",
+        "text": "It's math."
+    },
+    {
+        "speaker": "A",
+        "text": "It's speech. Right. And we have protection of free speech, at least in our western liberal democracies, or I guess so we believe, Jake continues, privacy is normal. Code is speech. The right to anonymity is essential to a free society. These are fundamental principles embodied in the us constitution. He ends with this. Take a in time, I'm confident they will be confirmed by the judiciary, even if today they were ignored by the executive. So he thinks we still have a case to make on the judiciary side. Do you remember when we first met with Jake? He said, I think all of this ends with us versus crypto in some sort of supreme court case. And he thinks that's where we'll have to make our stand. And, I mean, we're getting closer to that, I suppose."
+    },
+    {
+        "speaker": "B",
+        "text": "So. A tweet that I put out in response to this is cryptography is the language of truth. A stance against cryptography is a denial of reality. Arresting those who write cryptography is futile. It merely causes unnecessary harm while resisting the inevitable. And this is what I would say is emblematic of the friction between large scale authority, coercive government, and I say coercive relatively neutrally, because, like, that's how a government works. And then also the rights and the power of the individual. Cryptography is just applied mathematics. And when you construct cryptography in many different ways, infinite different ways, one of those ways of construction, just like building blocks, just like adding some numbers together, you can get a system like tornado cash. Tornado cash is just math, and it's just deployed on a crypto economic system called ethereum. There's no politics about that. It is an expression of numbers, and you cannot make that illegal. And the reason why the government is trying to make that illegal is because it's looking at that thing, and it's so cryptography, so powerful that it appears like magic to people. And so that disconnect of understanding, it's seriously just misunderstanding. That is what is allows them to have room to make this arrest."
+    },
+    {
+        "speaker": "A",
+        "text": "I think I want to add to that take. Right, because you said it's applied math, and somebody might say, yeah, but, you know, like nuclear weapons or just applied physics. I think the difference with cryptography is that it is a defensive technology only. It is not an offensive, aggressive weapon. It is more like a wall that you build, and it is a tool for the individual. An individual person can have a piece of communication that cannot be decrypted by anybody, not even the NSA, not even Mossad. Right. The full brunt of government power and spending cannot break an individual's ability to encrypt some communication and keep that secret. It is a defensive technology for the people, essentially, and that's what's at stake here. And that's what makes it even more insidious. I think this is Amin Soleimani. Just so you get a picture of who this guy is, which Roman is this? David, who are we looking at?"
+    },
+    {
+        "speaker": "B",
+        "text": "This is roman storm at East Denver, this most recent year."
+    },
+    {
+        "speaker": "A",
+        "text": "Looks like a regular kind of crypto eth dev standing next to you, like, I mean, I wouldn't be surprised if you've seen him around at conferences, David, maybe without knowing it."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, probably, yeah, it's a normal looking guy. Again, he's from Auburn, Washington. That's like 30 minutes away from where I grew up."
+    },
+    {
+        "speaker": "A",
+        "text": "So what do we do about this? What do we do about this? This is Samin Soleimani, GM. I would like to talk to the manager. He thinks we should go full karen on this and we should raise a ruckus. I don't know exactly what that looks like."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, no, that's the picture that he's showing. He's like, how to file a petition removing someone from the OFAC sanctions list. So Amin is asking you, I'll go do this after we conclude here today, Ryan, to file a petition. Hey, let's get Roman Semenov off of the OFAC list. Roman storm is in jail, Roman Seminov is on the OFAC list."
+    },
+    {
+        "speaker": "A",
+        "text": "Can you do that?"
+    },
+    {
+        "speaker": "B",
+        "text": "So we can. At least we can file a petition?"
+    },
+    {
+        "speaker": "A",
+        "text": "Sure, what else can we do? I mean, we'll do that, but just that we'll go into, you know, I want to know, like legal defense groups to fund. There's always like coin center and, you know, blockchain association doing great work. We've got to figure out some other calls to action here. But maybe this is related to this, David, because I know Coinbase has been working on this. Tell us about an update to this court case, because it's definitely related."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's related and also bad, also negative. So this is the lawsuits against tornado cash. So way back when, after tornado cash was added to the OFAC sanctions list, there was the mass dusting of people out of the tornado cash contract address, which, if you are a us citizen and you received any of this dust that made you violate OFAC sanctions, listen, because the law makes no effing sense, it doesn't account for the idea that a smart contract, if deemed illegal, can go touch you if somebody else uses the logic of that smart contract to send you money, which is exactly what happened."
+    },
+    {
+        "speaker": "A",
+        "text": "It's like if you got an envelope with something bad in it and somebody dropped that in your mailbox, you would be legally responsible for that."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. And so there are a handful of people suing the Department of Treasury over this. And so this Coinbase is sponsoring one of them. Coincenter is sponsoring me, I'm the other one. And so this is not my case. This is the Coinbase sponsored case where I think the TLDR is that the United States treasury has won one of these lawsuits. Coinbase is going to appeal this, but the tweet here is the district court in the Van Loon versus department of the treasury. That Van Loon name sounds familiar. That'll be Preston Van Loon, who is one of the co founders of Prismatic Labs. The related suit challenging the OFAC sanctions has held in favor of the us government on the merits, meaning that the treasury wins and the sanctions designations are upheld. This tweet goes through the logic here. Three main points. The tornado cash is an entity, so it can be designated under sanctions regulations. We, the crypto industry, want tornado cash to not be an entity. We want it to just be code because of how it is."
+    },
+    {
+        "speaker": "A",
+        "text": "Because that's what it is."
+    },
+    {
+        "speaker": "B",
+        "text": "That's what it is. In an association composed of its founders, developers and the DAO, a body of persons who have combined to execute the common purpose of developing, promoting and governing tornado cash. So you can start to see where the torn token and the tornado cash dao start to be a relevant variable here. So that's the first of three reasons OFAC's determination. Here's the second. That smart contracts constitute property under the applicable regulations is not plainly wrong. So the court will defer to that determination. In particular, regular contracts are property under the regulations, and so therefore, smart contracts are just code enabled species of unilateral contracts."
+    },
+    {
+        "speaker": "A",
+        "text": "How many things can you get wrong?"
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, like you can make a smart contract that is a property. So an NFT, for example, is a smart contract and I own nfts and so that is my property. But I don't own a tornado cash, even though it is also a smart contract or a system of smart contracts, because you need to take the thing in facts and circumstances, like calling something a smart contract doesn't tell you much about what that thing is. An ERC 20 token is a smart contract. An NFT is a smart contract. A DAO is a smart contract. Uniswap is a smart contract. Literally everything on Ethereum other than externally owned accounts are smart contracts. So everything on Ethereum is a smart contract. Not everything on Ethereum is property so we need to figure this one out. Treasury. So that's the second point. The third, no first amendment conflict here has happened because the sanctions does not prohibit all expression, just an expression using one service."
+    },
+    {
+        "speaker": "A",
+        "text": "So this is the first amendment, is our freedom of speech one?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. So they're saying that this is okay because tornado cash is not a public place or forum. No problem here has been caused by a chilling effect on code developers because it only limits transactions, not writing or otherwise interacting with the code itself. Saying that when you type in the numbers in your keyboard and those numbers happen to manifest into a valid transaction, that transaction is not speech, which we want it to be speech. It ought to be speech."
+    },
+    {
+        "speaker": "A",
+        "text": "It seems very simple. Treasury in the us government does not want an HTTPs for money. They just do not want that right that is not written anywhere in the constitution that gives them the right. Just because something's digital, they think they can surveil it, they think they can access it. We don't think they should. We don't think they can. It seems incredibly obvious to me, but they are losing this case. And so where do we go from here? So the coin base case is going to proceed. I think that's going to be appealed to a new court. You've got the coin. You also have the coin center case, which you mentioned. You are a plaintiff on."
+    },
+    {
+        "speaker": "B",
+        "text": "And so I am the plaintiff of."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, you are the plaintiff on. So it's like David Hoffman versus Janet Yellen in Treasury. That hasn't proceeded yet. So that's going forward. So we're pushing back in the court system. But this court ruling was a pretty major setback. And the actual arrest, I don't like this one of open source developers is again, another major setback here. So not winning."
+    },
+    {
+        "speaker": "B",
+        "text": "Paul Greywall, the chief legal officer of Coinbase, just says, rights are rarely secured. That is on a path that is always up and to the right. We will continue to believe the plaintiff's challenge to OFAC's for NATO cash action is correct. So they're not backing down. They're just going to appeal this and we're going to have another rodeo. The instances in which I've talked to two people at Coincenter, both Peter and Neeraj from Coin center, they've both said very positive things about the progression of my case. They think that they kind of revealed that treasury actually didn't really understand what they were getting into. I can't really say too much, but positive sentiments. But we don't really know until the day actually comes and the ruling is ruled upon. So plenty of reasons to be optimistic about it."
+    },
+    {
+        "speaker": "A",
+        "text": "Guys, we'll try to come back next week with some more substantial action items for you and places you can donate, things you can do. But definitely there'll be a place to contact your representatives if you live in the US. If you don't live in the US, look, I think the battle will be fought in your jurisdiction as well. And so look at the US as kind of a bellwether for some of these things, because if it's not there, it's coming to a jurisdiction near you. Wow."
+    },
+    {
+        "speaker": "B",
+        "text": "Onto more jovial notes, friend tech continues to shake with crypto Twitter. Ryan put out a tweet saying, is friend tech good or bad? Because people have opinions on this. Friend tech is not universally loved by everyone, and so there's a bunch of division about whether the structure of friends is actually something that we want to promote. We did an entire episode on this because I thought it was a pretty good conversation, so 45 minutes episode. That episode came out yesterday, if you just want the update on friend tech, but I think the TLDR is that Friends has started to attract outside influencers outside of crypto. Faze Banks, Gracie Hardy from Onlyfans, Grayson Allen, an NBA player, disclosure, the DJ duo is now on there. So now we are scaling some of our crypto platforms to definitely break into mainstream society. Autism Capital put out a take that is basically saying that all of the soul and spirit of crypto is lost, and a friend tech proves it."
+    },
+    {
+        "speaker": "A",
+        "text": "Just another Ponzi scheme."
+    },
+    {
+        "speaker": "B",
+        "text": "Just another Ponzi. Yep. So, like I said, if you want to listen to our takes about that, we have a full length discussion both on YouTube and on the podcast. But I think aside from all of that, Eric Wall really sums this up best when he tweets out. Remember when one app, cryptokitties, took down the entire Ethereum blockchain in 2018? We just handled an entire Ponzi speculation on our friends like an effin breeze. Absolute progress. And this is him showing Brian Armstrong tweet out that base hit 16 transactions per second yesterday and not a single hiccup, neither on base nor on the Ethereum layer one. So for those that have been here around since, cryptokitties progress, progress."
+    },
+    {
+        "speaker": "A",
+        "text": "Definitely worth celebrating. We don't have time to get into this story today, but there's still some question as to whether Binance is in trouble or not. Here's the Wall Street Journal a headline. Binance, the biggest crypto player, is facing legal risks over Russia. So the question, I think is, you know, Binance is facing all of this investigation by the us government. This one in particular, that Binance was essentially serving OFAC sanctioned russian oligarchs, not doing proper AML KYC and abiding by us regulation. And so Binance, of course, denied that claim. There's some other things in the works though, too. I think Travis Kling signed that. I think Travis Kling sums this up pretty well. There's some pretty wild action in the BNB token. The BNB token."
+    },
+    {
+        "speaker": "B",
+        "text": "Down wild, negative action. Yeah, wild."
+    },
+    {
+        "speaker": "A",
+        "text": "It's down bad. Let me just say this. This is BNB on the month. I don't know what's this down about. It's on 33%, 30%."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "And Travis Kling says, not sure what's going on. Binance was sued by the SEC on numerous charges. Sued by the CFTC. Had three senior executives quit, had a billion dollar collateral hole in finance, Peg B USD had Paxos, forced them to wind down. Busd, got kicked out of Canada, Germany, Netherlands, Belgium, about to be charged by the DoJ. Strong evidence of massive money laundering, terrorist financing allegations under investigation in France for aggregated money laundering. Had their auditor quit and remove attestation. Like I could go on. All right, and Travis does go on. So there's a lot that has surfaced, but I think the big question in my mind is, like, who do you trust more, CZ, a crypto banker or the us government? And I don't know, that's a hard one right now. I can't tell. I can't tell whether this is like a mini SBF going on, because it's nothing quite like SBF. It can't be. Or binance would already be wiped out. Or is this western government persecution of yet another crypto company? Like, I trust neither of them, David."
+    },
+    {
+        "speaker": "B",
+        "text": "Neither."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't."
+    },
+    {
+        "speaker": "B",
+        "text": "You know what? I opt out to defy, I will stick. Stick my. Continue sticking with the ethereum layer one and perhaps some layer twos. You know, I opt into ignoring all of these things, and CZ can just deal with whatever hole he is in. And if he's not in a hole, then congrats."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, the rest of this episode is all good news. Let me just say that. So, David, what do we have coming up next?"
+    },
+    {
+        "speaker": "B",
+        "text": "That is very, very true. The rest of this episode is absolutely awesome. Okay, so farcaster on Mainnet, maybe you didn't know that Farcaster wasn't on Mainnet. We'll talk about what that means. No, not the ethereum. Layer one. Which layer two did they pick? Everyone place your bets. Moving on from that, a new airdrop. Did you qualify? We'll find out some EIP 4844 updates. Circle and Coinbase strike a deal and first squad staking block gets shipped to Mainnet, gets verified. So much good stuff. So stick around for all the happy side of this weekly roll up. Cause we saved all the good stuff after the bad stuff, of course. Cause that's what you do. So let's go ahead and get into all that good stuff. But first I want to talk about some of these fantastic sponsors that make this show possible. Coinbase and Circle are formally melding what was previously said. There was a middle ground called the center Consortium of Governance over circle. It's no longer needed because Coinbase is taking an equity stake in circle. So we're eliminating the whole center consortium. And so now Coinbase and Circle are banding together. Wow, that is a powerhouse."
+    },
+    {
+        "speaker": "A",
+        "text": "And for those of you guys that don't know Circle and Coinbase, they had this project together called USDC. You know that old stable coin?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, no. Now it used to be just circles project. Now it is both of their projects."
+    },
+    {
+        "speaker": "A",
+        "text": "There you go. That's good."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Yeah. So USCC, it's on six different blockchains. Launching between September and October, will be base cosmos near optimism. Polygon and polygon."
+    },
+    {
+        "speaker": "A",
+        "text": "All the chains. Doing all the chains."
+    },
+    {
+        "speaker": "B",
+        "text": "All the chains."
+    },
+    {
+        "speaker": "A",
+        "text": "David, is this good news from for EIP 4844? And give me a quick refresher on what. Like why I know that EIP by number."
+    },
+    {
+        "speaker": "B",
+        "text": "EIP 4844. 1st we had 1559. That's in the rear view mirror. That one's now called Ethereum. Now that was the burn. That was the burn. Okay. 4844, we have the Ethereum layer one block space, which is what you know and love, but we are going to get blob space. What is blob space for? It is this first class. It is this place for roll ups to submit their state routes to. It is going to be extremely cheap for layer twos for roll ups to leverage so that they can be the best versions of themselves. It is basically the cheapest version of block space that is dedicated for layer two to submit their state route two. And so it's basically going to take off the brakes of all layer twos. And so layer two s are all about to get orders of magnitude cheaper. And this is Proto dank Sharding. EIP 4844, we have another order of magnitude beyond that called full dank sharding. But first you have to get to proto dank sharding. Why is it called proto dank sharding. Well, because there's Proto lambda and Dankrad created proto dank sharding."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, my God, this is so mainstream. Ready?"
+    },
+    {
+        "speaker": "B",
+        "text": "Huge nerds. We don't need. Well, eventually all of this stuff will just become ethereum, and we don't even need to talk about it."
+    },
+    {
+        "speaker": "A",
+        "text": "It's just all you need to know is it's cheap blocks. But just like last eiP, that 115 59 that you mentioned, David, that was the burn. We're going to burn our eth this one. Roll ups getting real cheap. That's what's happening."
+    },
+    {
+        "speaker": "B",
+        "text": "Anyways, the news. So that was the background for 4844. What's the actual news? The news is there's a testnet. So the testnet is live. This is getting to be one of the last steps before actual Deng kun gets shipped. Feels like this year. My speculation, my, not anyone else's. Don't quote me because I'm not an authority here. I'm not a podcaster."
+    },
+    {
+        "speaker": "A",
+        "text": "He knows nothing."
+    },
+    {
+        "speaker": "B",
+        "text": "November ish of 2023."
+    },
+    {
+        "speaker": "A",
+        "text": "It's November. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "November is where I bet."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "So 4844, Dankun. That's what we're hoping for for November. Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "Huge."
+    },
+    {
+        "speaker": "B",
+        "text": "Moving on. Eigen layer. So Eigen layer increased their liquid staking cap. So every time Eigen layer updates their staking cap for how much ether you can actually deposit into Eigen layer, it immediately gets filled. They released a new cap. They raised their cap and to another 100,000 of ether to be staked with Eigen layer and immediately gets filled. So now total in Eigen layer, we have 100,000 staked ether from Lido, 20,000 staked from rocket pool, 21,000 cb ether. And then also 14,000 actual vanilla virgin 14,000 ether from the beacon chain."
+    },
+    {
+        "speaker": "A",
+        "text": "So every time they move the cap up, it gets filled, like, almost instantly. This is the restaking. We did an episode with Eigen Lair that you should absolutely check out. This is a very important primitive that we're creating. And this is like a vacuum cleaner for ether."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "My God, it's just sucking it in."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And the cool thing is the funny. I know, actually, maybe it's not that cool. Is that. What is this ether doing? Nothing. This is waiting for. This is waiting to get restaked. Yeah. So this is just showing demand for eigen layer restaking to get restaked somewhere. So all of this ether is just, like, waiting for some networks to spawn. This is the first step. This is like Eigen layer loading up the engine so that it can actually point its economic security, which is retaking to any of the restaking networks that come online where we will just stake."
+    },
+    {
+        "speaker": "A",
+        "text": "Put our ether into anything. You know what I mean?"
+    },
+    {
+        "speaker": "B",
+        "text": "Like, why are people doing this? Why are people airdropping? It's airdrops."
+    },
+    {
+        "speaker": "A",
+        "text": "What's this? David? First squad block. What are we looking at? It's a tweet from you."
+    },
+    {
+        "speaker": "B",
+        "text": "So this is the squad staking DVT distributed validator technology out of ol, something that me and Ryan and many others in the Ethereum staking world are very, very excited about. Has been an idea for a long time. It's been on Testnet for a long time. But now we had the first ever squad block proposed from Etherfi. Congrats. So they used opal and dap node. So what is squad staking? Distributed validator technology. Say you and your friends don't have 32 eth, but you want to stake your eth together. So you guys all run your own node. You each put your ether on your own node. One of you guys has the leadership position, and everyone else signs off on that. And so four nodes or five nodes or three nodes can come together, and the one leader node can build a block and sign it, and then all the other ones can check it. It's basically a multisig for eth validators. It's very, very cool. It opens up a ton of cool new use cases. Okay, moving on. Scroll. Scroll is entering its beta phase. So after launching its sepoylia testnet, this is the final stage before scroll mainnet. So scroll also does not have too many sips before Mainnet. And so there are some zke EVM upgrades. There are some bridge upgrades. There are some infrastructure upgrades in this update. So over 100 projects have already integrated with scroll to date. That's big in their final stages before releasing a mainnet."
+    },
+    {
+        "speaker": "A",
+        "text": "Another Zke EVM layer two. Right. So would you say this is one of the big three? So we got ZK sync, we've got Polygon, ZK environment, and then scroll would probably be the third. I mean, there's obviously scroll would be the third."
+    },
+    {
+        "speaker": "B",
+        "text": "And then Tyco, I would kind of put as a distant fourth, but definitely mentionable."
+    },
+    {
+        "speaker": "A",
+        "text": "Definitely, you know, big, big four, maybe. David Farcaster. We've had Dan Romero on the podcast talking about web three, social and Farcaster, decentralized Twitter. Can you imagine that? That's what Farcaster is. They deployed somewhere. You said to Mainnet. What main net did they deploy to?"
+    },
+    {
+        "speaker": "B",
+        "text": "We'll get there. I'm going to tease this a little bit first, as Dan Romero tweets out a step closer to 100% permissionless farcaster because he was retweeting a tweet, talking about Farcaster hubs. So there's 30 farcaster hubs. So this is like the different ways of viewing the Farcaster protocol. The warpcast runs four out of 30 of them. The rest are independently run and not subsidized. So, economically sustainable, if Warpcast, the main canonical app of Farcaster, disappear tomorrow, the network would keep on running. Next up, Dan teases Ethereum layer two, mainnet migration and turning off the gating to signups. So moving on to the next tweet. What? Layer two?"
+    },
+    {
+        "speaker": "A",
+        "text": "That happened quick."
+    },
+    {
+        "speaker": "B",
+        "text": "Did they choose optimism? They chose optimism. Optimism Mainnet is now going to be the home of Farcaster. So you have the many different apps that make up the Farcaster ecosystem. That's Warpcast, that's jam, that's yap. All the other apps that look at the Farcaster protocol, you have ens as part of the stack. But then everything is ultimately going to settle down to an NFT on optimism Mainnet as the base case for people's keys. And so that is the complete farcaster stack built on optimism mainnet."
+    },
+    {
+        "speaker": "A",
+        "text": "Very cool."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, by the way, I have 30 invites to bankless citizens who want to come on Farcaster today. I've actually, I've replaced Ryan, I've replaced Twitter as the little spot in my home screen on my phone, really, you know, flicked Twitter out of there, and I put Warpcaster there. And so I'm hanging out in Warpcaster a little bit more. And let me tell you, the absence of bots, there is very refreshing."
+    },
+    {
+        "speaker": "A",
+        "text": "Nice conversations, too. The absence of toxicity is that there's."
+    },
+    {
+        "speaker": "B",
+        "text": "No Solana people morph cast."
+    },
+    {
+        "speaker": "A",
+        "text": "You should retract that. David, you need to apologize for that one. That's too much."
+    },
+    {
+        "speaker": "B",
+        "text": "Do I?"
+    },
+    {
+        "speaker": "A",
+        "text": "I don't know. The comments will tell you. Okay, what is this? A shielded mempool on optimism. What does this mean?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, so I wanted to really put this one in the agenda because of the era of privacy that is going around as a theme of this episode. So part of the explanation as to why fighting privacy is futile is because we have other technologies, like an encrypted mempool that is now coming to the optimism mainnet and will also eventually be on the Ethereum layer one. What does an encrypted mempool do? So, if you don't want people to know what the contents of your transactions are before they get included as a transaction into the blockchain, you need something called a encrypted mempool. So shudder has built a shielded mempool using threshold encryption for the modular op stack. So this is what they are releasing into the wild today. This is a grant recipient from optimism's retroactive public goods funding efforts. So optimism might get a shielded mempool, an encrypted mempool on its horizon, which extremely cool and very privacy first, very individual first. And so something that we definitely could need in this day and age."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I don't know. It sounds highly illegal to me. It sounds like this should not be allowed."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, mister Fed, this is great, too."
+    },
+    {
+        "speaker": "A",
+        "text": "This is another example of, I think, layer twos kind of pioneering the frontier mainnet. Yeah, I can adopt it later. And this certainly helps minimize mev and increase privacy. Airdrops. Hey, it's Airdrop season, I guess. Announcing the next airdrop, a new chapter in cross chain innovation. What is this?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, no, no. Not announcing the next airdrop. Announcing next airdrop."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, they said the next."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so this is next from Connext, which is one of the probably the earliest and most sophisticated bridges, cross chain roll up bridges on Ethereum. So you can check out if you want to qualify for the Connext airdrop here in the blog that we will link in the show notes. There's a bunch of different criteria. It's too long to read out. But if you can also, interestingly, what's cool is you can claim next on arbitrum or optimism or polygon or gnosis. Why do you have that ability? Well, because K'nex is a cross chain bridge, so it knows what chain you claimed it on, so it doesn't matter. It's part of the obfuscation and blurring the lines of all the chains."
+    },
+    {
+        "speaker": "A",
+        "text": "This airdrop begins on September 5, 2023. If you don't want to mark that in your calendar, you know what you should go do is you should go to earnify. Okay, so this is earn fi. This is a bankless application that is provided for free. There's a premium subscription."
+    },
+    {
+        "speaker": "B",
+        "text": "When we say this is a bankless application, we mean this is our application. This is our app."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, you know, the airdrop hunter that we talked about last week, guys, this is the sequel to that. This essentially notifies you when you receive an airdrop. So if you type in your ETh address here or connect your wallet, then you will know immediately if you have a opportunity for next tokens awaiting you."
+    },
+    {
+        "speaker": "B",
+        "text": "And not just the next airdrop. Ryan, but I was checking my email for the once per month. I checked my email, and I actually was notified that one of my wallets, I have not claimed the arbitrum airdrop. And so this is a PSA for everyone out there. Arbitrum expires in one month. So if you have not claimed your arbitrum airdrop, you need to claim it in the next one month. Now, like, some of you are like, arbitrary airdrop happened forever ago. Why are you bothering to tell me this on the roll up? Well, because we know that there's $1.8 million of bankless citizens and or earnify users who have not claimed."
+    },
+    {
+        "speaker": "A",
+        "text": "Guys."
+    },
+    {
+        "speaker": "B",
+        "text": "Their arbitrum airdrop."
+    },
+    {
+        "speaker": "A",
+        "text": "Guys, what are you doing?"
+    },
+    {
+        "speaker": "B",
+        "text": "What are you doing? Okay, and so now if you think that, like, oh, no, that can't be me. I've already claimed my arbitrum airdrop. Have you checked all your wallets? Because you can qualify for the arbitrary airdrop in, like, seven different ways."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And so the only way that you can actually, like, I, the reason I didn't know that I had this airdrop, and then I checked my email and earn, if I said, like, hey, you have $8,000. You need a claim pro. I'm like, oh, thank you. Earn a five."
+    },
+    {
+        "speaker": "A",
+        "text": "Say, bro. It should say, you idiot."
+    },
+    {
+        "speaker": "B",
+        "text": "You idiot."
+    },
+    {
+        "speaker": "A",
+        "text": "Claim up."
+    },
+    {
+        "speaker": "B",
+        "text": "Claim your Harvey trim airdrop."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, man. Well, those have gone up in value, to be fair. But, yeah, there's a lot of opportunity out there, so we're just trying to keep you looping. Clipped on this. There's a link in the show notes to earn a fi, but check that out. I think it's going to continue to be airdrop season. Now we're getting airdrops."
+    },
+    {
+        "speaker": "B",
+        "text": "I hinted at this in previous roll ups until. I'll just call that back. I said that I know for a fact that one of our portfolio companies, Ryan, is withholding its airdrop for more opportune parts in the market. More bullish sentiment in the market. That was connect. Oh, that was next. Hey, airdrop appetite. Therefore, if that is a signal, it will be back."
+    },
+    {
+        "speaker": "A",
+        "text": "I think it's a signal. Starkware's got some tech here, and it's open source. We like open source. What are they releasing?"
+    },
+    {
+        "speaker": "B",
+        "text": "They are releasing their open source prover called Stone. So this is a very core component of decentralizing a ZK roll up. A. Layer two is making the prover accessible so that anyone can produce a proof. Everyone can be a prover. And so that is a very important, critical part of every single role."
+    },
+    {
+        "speaker": "A",
+        "text": "This is what arbitrum just did, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, that's fraud proofs. This would be correlated to a ZK sync boojum or Polygon's plonky. This is Darkware's stone. And so this is their ZK stuff. Fraud proofs are specifically for optimistic roll ups."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I know it's fraud proofs, but."
+    },
+    {
+        "speaker": "B",
+        "text": "It'S same niche, same idea, right? Same idea."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, we're proving our Zkhdem spooky math, aren't we?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, that's exactly right. For any of the people who are in the San Francisco area or who are going to the Starknet summit on August 35, bankless citizens, we have a 50% discount to tickets for you. So if you want to go to the Starkware summit, make sure you show up in the discord and we'll get you the discount code for tickets."
+    },
+    {
+        "speaker": "A",
+        "text": "You know, all these projects we just mentioned, Opal, eigen layer, scroll, starkware, they're all going to be a permissionless too. Some of them might be at the party that we mentioned at the outset. Oh, they will."
+    },
+    {
+        "speaker": "B",
+        "text": "Everyone be at the party?"
+    },
+    {
+        "speaker": "A",
+        "text": "Good time to catch them. Fire now has a wallet. Fire is a very useful extension that I now use it. Basically, it should be on your tool belt. It really should, because. So you pair it with metamask and it checks a transaction to see if the transaction is kind of like a phishing attempt or a scam or not. And it tells you exactly what the transaction actually is before. Anyway, that's a useful extension. And now they also have a wallet. I've not tried this out, but if it's anything like their extension, I'm sure it's pretty good. So there'll be a link in the show notes where you can go check that out and see if that's a wallet you can pair with metamask and some of your other wallets. David, there was an exploit this week on Balancer, though. It wasn't that bad, but just give us the TLDR."
+    },
+    {
+        "speaker": "B",
+        "text": "So about 1.4% of Balancer's TVL was at risk. Only certain pools, boosted pools were affected. So some of these pools were paused to mitigate risk, and they will remain so. So if you have been supplying liquidity to balancer in boosted pools, you should remove your liquidity. And so it's probably too late for that, isn't it? It's a little bit too late. So the vulnerable. So this is also part of this conversation. Shout out to balancer. And the way that they communicated this exploit, they identified the exploit, they took precautionary action. And then they broadcasted, hey, there's a vulnerability. You need to exit these vulnerable pools without saying what the vulnerability is. So it doesn't set any black hat hackers off on a. Well, it did, but they didn't give them the."
+    },
+    {
+        "speaker": "A",
+        "text": "Hey, treasure map, huh?"
+    },
+    {
+        "speaker": "B",
+        "text": "Exactly. They didn't give them the treasure map. So overall, this has been like one of the best handled exploits that I think we've seen. They even built a UI while they announced the exploit to go check if you were in an infected pool and then a button to go with wow. So like shout out to bouncer. Well done. Congrats on only having a 1.4 TVL vulnerable exploit. I guess that's worth congratulations for. So I don't think any money was affected. I haven't heard of anyone actually losing money, so narrow escape from balancer. Really good protocol. We love the balancer team. Shout out Fernando."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, they're ogs. They've been around for a while. Doing a great job."
+    },
+    {
+        "speaker": "B",
+        "text": "Really quick in the NFT landscape. Congratulations to miladys for being number three out of the ten K PFP projects category. Only behind punks and apes. Miladys. Wow. I do not own a milady. Its not really my vibe, but wow. Here they are."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, those are them. Huh? Okay, ive seen those."
+    },
+    {
+        "speaker": "B",
+        "text": "Those are the miladys. Yeah. Like the weird corner of. I dont know even how to call it."
+    },
+    {
+        "speaker": "A",
+        "text": "This is weird that I'm seeing the SEC in the good news section here, but the SEC is set to green light and ether future ETF. Alright, looks like that's going to happen. We haven't had one of these before. We have the bitcoin futures ETF. Now we get an ether futures ETF. This is Eric B from Twitter. He says this is not surprising to us. We said they would approve an ethers future early on in the race. Nice to be validated. What does this mean for spot? Hard to say. Beyond. It shows that things can change. That's nice. Things can change. Even grinches can increase."
+    },
+    {
+        "speaker": "B",
+        "text": "Increase the size of their hearts. Wow, you spell Gary Gensler a Grinch. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "That's the worst thing I've ever said about Gary."
+    },
+    {
+        "speaker": "B",
+        "text": "There are twelve companies with applications for an ETH futures ETF pro. Shares volatility shares bitwise, roundhill among them. The SEC is not supposed to play Kingmaker. But I. They do."
+    },
+    {
+        "speaker": "A",
+        "text": "But they do."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. I'm not the SEC."
+    },
+    {
+        "speaker": "A",
+        "text": "No, you're not."
+    },
+    {
+        "speaker": "B",
+        "text": "If you are going to partake in this game, I recommend bitwise. They are crypto natives. They are one of us. Who the hell knows? Anyone from pro shares or volatility shares. That sounds like some boomer shit. So if you're going to buy some eth futures, ETF's do it through bitwise. There are friends."
+    },
+    {
+        "speaker": "A",
+        "text": "Wow. We just criticized Gary for being a Kinmake kingmaker. And here's David from bankless."
+    },
+    {
+        "speaker": "B",
+        "text": "I know I'm not, I'm not Gary. I do not play, I don't have, I'm not beholden to his role rules."
+    },
+    {
+        "speaker": "A",
+        "text": "Speaking of not being beholden to the rules, you like that segue? Here's SPF is a picture of him. He's pleaded not guilty for fraud and money laundering charges because of course he would. He's also on bread and water. Do you know that? So he's a, he's a vegan in prison. They won't comply with his diet. So he has what just. I saw this, normie, mainstream news. I didn't even see this on crypto news. So there you go."
+    },
+    {
+        "speaker": "B",
+        "text": "The more you know, as a consumer of nutrition content, bread and water is not a recommended diet."
+    },
+    {
+        "speaker": "A",
+        "text": "David, he's in jail. All right."
+    },
+    {
+        "speaker": "B",
+        "text": "That's not a recommended place to be."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, thanks for these pro tips from bankless. All right, what do we got next?"
+    },
+    {
+        "speaker": "B",
+        "text": "Coming up next, we got Vance Spencer's smell. We had an episode about smell, the fang of Defi synthetix maker ether link Lido. We got a question from the nation. David Ryan, what would you add? What about the other tokens? So we're going to add some letters to Vance Spencer's smell."
+    },
+    {
+        "speaker": "A",
+        "text": "Keep it, don't cut it."
+    },
+    {
+        "speaker": "B",
+        "text": "And then, of course, what we're bullish on. And we did a very cool episode on super change, which I think is going to be related to what Reiner and I are bullish on. So all of that is coming up and more. But first, a moment to talk about some of these fantastic sponsors that make this show possible."
+    },
+    {
+        "speaker": "A",
+        "text": "Questions from the nation this week. This one from art. Democrat, bankless citizen, art, Democrats going to be at the party."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm pretty sure art is coming to party. We know art."
+    },
+    {
+        "speaker": "A",
+        "text": "You met, you met him in real life."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, he was at our party in France. He's been to more bankless parties than you have right now."
+    },
+    {
+        "speaker": "A",
+        "text": "Good job. Our democrat. It's a great question here. So we were talking about smell before the break. That actually stands for synthetix maker Ethereum, Lido Chainlink. So Vance Spencer said that he was bullish on all of these tokens. We did an episode earlier this week on why the case for them. This is our Democrats question. What would you add to the smell cohort David and Ryan, based on the current crypto space outlook? And why. Why would you add these letters, these acronyms? So, yeah, what's your answer to that?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think the two obvious low hanging fruit ones that come to mind is uniswap and aave. We talked about Uniswap in the Van Spencer episode. He said that he's not convinced that liquidity inside of Uniswap is all that sticky. He doesn't see a large moat around Uniswap. And I take that point. Uniswap lP's are losing money and everyone knows it. And they probably know it too. Unless they have just like, been ignoring reality, yet they are still keeping their money inside of Uniswap. And so maybe we don't understand the moat, but there does appear to be a moat, or at least no one's really leaving liquidity out of Uniswap. Uniswap has over 85% of all on chain trading volumes going through. Through Uniswap. It's pretty dominant. And so maybe we can explain the moat. I think there's an argument to be made that it does exist, and all that needs to happen is a few select innovations on Uniswap's own application layer in my mind to really help with. I think it's an extremely valid contender to be considered part of the fang of defi. Like, come on, it's Uniswap, bro."
+    },
+    {
+        "speaker": "A",
+        "text": "You smell. You smell that? What else you got?"
+    },
+    {
+        "speaker": "B",
+        "text": "Ave would be the other one. Aethereze compound is pretty stagnant. AAVE is updating. They did have that governance fumble with the whole CRV, but I mean, they're really the only ones, I would say, that are progressing forward meaningfully. And of course, there's a conversation of is governance going to work? Do we need more governance free primitives? But I mean, between the market cap of AAVE, it is a blue chip. I mean, everyone uses AAve. And so smell plus u plus a. You smell a, you smell a."
+    },
+    {
+        "speaker": "A",
+        "text": "You smell a, you smell a. Do you know, I guess what I would add is, I think Vance is focused on DeFi, which is cool. But there's another area."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, the layer two tokens. Yeah. So I. Opr polydez."
+    },
+    {
+        "speaker": "A",
+        "text": "Yep."
+    },
+    {
+        "speaker": "B",
+        "text": "All of these."
+    },
+    {
+        "speaker": "A",
+        "text": "Can we make an acronym for this? We probably can. I mean, can you write these down? All of them? Like, you know, I'm more bullish on some than others based on kind of their fully diluted valuation, where I see, kind of their organic growth. I hazard to share that here, though, because we love all of our children equally, but maybe someday we'll do an episode kind of comparing these different ecosystems. Very bullish in general on layer two, so there might be some other initials to come up with. And, you know, David wants his competitor for smells, so I can hear him clicking away. He's trying to figure out how you get."
+    },
+    {
+        "speaker": "B",
+        "text": "I got it."
+    },
+    {
+        "speaker": "A",
+        "text": "A."
+    },
+    {
+        "speaker": "B",
+        "text": "What do you got, Spaz? Scroll, scroll. Polygon arbitragenk. Oh, I don't have the o for optimism. Spazzo. Spazzo."
+    },
+    {
+        "speaker": "A",
+        "text": "There might be something better there. I mean, that's basically all of the big ones, right? So, anyway, that's not what Vance's portfolio is, but definitely bullish on some l two stuff these days for myself. And I know you are, too."
+    },
+    {
+        "speaker": "B",
+        "text": "Another question, Nick. How worried should we be about banks gobbling up ETH and BTC through ETF's? Feels like a step backward if the majority of folks that own either of these assets actually own them through a bank instead of their own. I got my answer to this. You want to take it?"
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, really? Yeah. I'll start with my answer. So my answer is, you know what feels like? So, great question, Nick. You know what feels like a step backwards? Logging into your fidelity account. Logging into your e trade account. Okay, so, like, that's where you have to purchase these ETF assets. They're not programmable. You can't do anything with them. You could just look at them in, like, side the fidelity price tracking app. So I would contend that it's net accretive to crypto because I don't think that the value is actually going to reside there because it's an inferior product and it's an inferior set of rails. It's in tradfi. It's in the old banking system. And these are crypto native assets. You want their tokenized form so you can do things with them, you can restake them, you can stake them for the first time, use them in lido, use them as collateral for loans. Freaking like there's so much more you can do with them. I could send it to you. If I wasn't an american. Maybe I could get some privacy for my crypto native assets. So I don't think Tradfi will be competitive against any of that. And we'll just slurp all of their liquidity, and then we'll. Now, I'll make one exception, though I don't necessarily think that holds true for bitcoin. I think it holds true for ether. I don't think it holds true for bitcoin. Why? Bitcoin does not have a fully developed set of use cases in defi inside of its ecosystem."
+    },
+    {
+        "speaker": "B",
+        "text": "It doesn't have any developing experiences."
+    },
+    {
+        "speaker": "A",
+        "text": "I think it is potentially more concerning for bitcoin, although I'm still not overly."
+    },
+    {
+        "speaker": "B",
+        "text": "Concerned, but I'm not concerned about that."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. What's your take on that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, my take is that one of the lines that I liked about how just the wheels of history turn is that science progresses one grave at a time. Little bit dark. Some people are never going bankless. Some people are, people need to die. Some people are just always going to have their assets inside of their centralized brokerages. They are not. They don't care to become a crypto person. No. Maybe their financial advisor recommends them, like, hey, let's allocate 1% of your savings to crypto just because you don't have any exposure there, and because it's inside of your fidelity account. We can just buy ether or bitcoin inside of your fidelity account. And then these people will go and retire, and they will go and be sipping margaritas on the island, on an island for the rest of their life, and they'll never become a crypto person. Yeah, at least they're pumping our bags. And so for all the people that are going bankless that bought ether earlier than they did. Fine. Fine."
+    },
+    {
+        "speaker": "A",
+        "text": "I love the back half of this episode, by the way. The first half is all about cryptic values and, like, we're fighting for privacy and all these meaningful things, and the back half is like, we got some bag pumping. We're excited about that, huh?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's, that's what bankless does, is we actually. Never mind."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, I take it away. This one from me, although it's not my PFP, the SEC wants to make every crypto asset a security FinCEN wants to make every crypto person a money transmitter. The IR's wants to make every crypto transaction a tax event. America, please save yourselves from your regulators. I felt this one strongly this week. What I think that they don't understand, they refuse to understand, is because I think these institutions, organizations, there's always a book you refer me to about the nation state apparatus seeing like a state, seeing like a state. So each of these institutions are trying to garner more and more control, and they become kind of their own, like, autonomous slime molds. They're just zombies that are just seeking that. But the new thing they don't understand is that this is dis intermediated this is peer to peer. All right? So even when you look at kind of the, you know, treasury stance against these tornado cash developers, right, they keep thinking of them as custodians, as if they're institutions and they're not. This is peer to peer, peer to peer, digital money. It's a new thing, but it's also a very old thing. Peer to peer is how we used to do money when, like, we would barter with gold, when we would have physical, you know, cash, and I would give it to you and. Or you would give it to me. And that record, that transaction did not have to be recorded by some nation state. It could be private. Okay, so we're doing something new, but we're also going back to something old. And in this old system, in this peer to peer system or now peer to contract type system, we don't need the institutions as much because why were the institutions put in place? They were put in place so that they could protect the people from large intermediaries who had more power, who had the ability to manipulate to information, arbitrage, to not be transparent. They were put in place to help the people. And now these institutions are getting in the way of peer to peer transactions because they think we still need them in these cases, and they're grasping at power. And I think that has to change. That has to invert the way we think about these crypto transactions. Has to be more like the old peer to peer model, right? And less like everything is intermediated through a bank and can be controlled by a regulator. And the regulators have to come back to their mission statement of, like, protect the people. And how do you protect the people? You give them access to privacy. So third parties like Facebook or Meta or Visa or Google can't prey on us and steal all our data. I mean, Google can scrape the blockchain and figure out what every transaction is right now. Do we need protection against that from our regulators? Yes. What are they doing? They're stripping that away. That's the thing that has to change. And, yeah, that's why I tweeted this out."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that book that I frequently referenced seeing, like, a state, it gave me this one very big aha. Moment that made me appreciate a lot more about, like, how the nation state approaches crypto. And that is, it explains why there's this always this antagonistic relationship between the nation state and aboriginal societies. Because aboriginal societies are nomadic. They don't decentralized. Yeah, they're decentralized. Right. They don't have an address. They don't exist anywhere. They don't have a serial number. They don't have a Social Security number, and they're always on the move. So how do you tax them? How do you reason about them? How do they fit inside of, like, the rigid grid, your machine? And so the nation say, isn't inherently racist, but it is oppressive towards aboriginals. And then also there's probably some racist people that, you know, blah, blah, blah. And so, like this, it just doesn't compute, the relationship between aboriginals and nation states. Like, they're different languages. And this is the same thing that's happening with cryptographers and cryptosystems. They don't understand us. They don't understand the systems. We don't speak the same languages. And so what do they do? They oppress, they silence, they coerce. And so this is if the whole rule of law system works in our favorite, we will be able to fight for that, but by default, it is an oppressive system that we need to fight against."
+    },
+    {
+        "speaker": "A",
+        "text": "Agreed. Yeah. And we need to spend a lot of time educating. And I think that's what, that's what a big part of the bankless podcast and the movement is, right. It's why we get politicians on here, even though sometimes those episodes are, you know, it's like, what, what is this person going to say?"
+    },
+    {
+        "speaker": "B",
+        "text": "Generally enjoyed what they need."
+    },
+    {
+        "speaker": "A",
+        "text": "Like, we need to engage. We need to talk to them. All right, David, what are you bullish on this this week?"
+    },
+    {
+        "speaker": "B",
+        "text": "So this will be yet another articulation as to why I'm bullish on the super chain. But this is a more narrow reason as to why I'm bullish on the super chain. There's this growing axis over there between the Ethereum attestation service, who we just did a podcast with, optimism governance. This platform called Click and also forecaster is a part of this. Overall, there's this axis of infrastructure that's growing that is helping establish identity in a little bit more of a roundabout way than I think people are typically used to. Like worldcoin, scan your eyeball will give you an identity. Many, many identity platforms say, hey, our platform gives you an identity. Whereas optimism governance, the whole op stack system, Ethereum attestation service, and then there's attestation providers like click. They're actually providing you an identity in a more roundabout way, more about like, they're showing the contour, the outside of your identity. They're showing the contours of your identity without actually trying to ascribe you an identity the way world coin is and so I think people are trying to look at what the frontier of decentralized identity looks like. They would go look at this axis that's forming over in the op stack. I mean, the idea is that that scales out to every single op stack chain."
+    },
+    {
+        "speaker": "A",
+        "text": "I think I agree with that. There's some cool things that we're seeing. That episode we did recently with Ethereum attestation service. Okay, if you means it's not out yet, but attestations are just a fact that you can claim about yourself or somebody can claim about you. And it turns out that attestations actually form the basis of this thing, this social construct we call identity and reputation. And so it's very cool to see different ecosystems. In particular, I think you're right. Optimism is really pressing into this formation of an identity. And what's different about that in world coin is it's kind of like it's app driven identity rather than identity first. Right? So there's like the use case for. I think that's probably how identity happens. It has to sort of. It's an emergent phenomenon. It has to emerge. You can't say, here's identity now everyone come and get your identity. Step right up, ladies and gentlemen. Here's your identity."
+    },
+    {
+        "speaker": "B",
+        "text": "The only platform that does that is the nation state. And that's because they have a gun pointed to your face."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, they got, they got, they already built the economy of scale to sort of roll that out, make that happen. And so, yeah, I think there's some really cool identity experiments going on. So ethereum attestation service, that episode is coming up soon. It's cool. It's public non token, it's public goodsie. And that's going to be a foundational basis. Token tokenless."
+    },
+    {
+        "speaker": "B",
+        "text": "That actually will come out a week after next. Oh yeah, on Monday."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, that's mine. Don't steal mine, don't steal mine."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. Oh, ask me when are you bullish on?"
+    },
+    {
+        "speaker": "A",
+        "text": "I'm bullish about this. I'm bullish about this idea of a super chain, this kind of structure that we're forming. And it was part of the back of the episode that we just recorded with Ben Jones and Jesse Pollock from the base team. That's Coinbase base team. And it implanted this kind of image in my mind that I think has already been more present in yours. But I don't know, something about that episode really clicked for me. I think what we're going to have is with all of these layer twos, we're going to have federations of chains, call them United States of chains, where each chain is kind of its own state, but they're all part of this Confederation where they have kind of an economic zone together and maybe a shared governance layer. So I think all of these layer twos are emerging along that path. So we'll have, like, the united chains of Polygon. We'll have the united chains of arbitrum, the united chains of optimism. Right? And that's what they call the super chain."
+    },
+    {
+        "speaker": "B",
+        "text": "Super chain."
+    },
+    {
+        "speaker": "A",
+        "text": "That's what they call the super chain. And there's two levels to this union that it wasn't quite broken apart for me until that episode. The first is, like, the social level and the social alliance, and that's very much about governance and a shared tax system and a constitution that all of the chains subscribe to. And to me, that starts to look like very nation state like or very like formation of the United States or the European Union like, where you have all of these separate nations agreeing to a shared protocol constitution come together to create an economic zone. So that's like this. And they have representatives, they have governance. Right. That's where identity fits in, by the way. Anyway, that is starting to form the social alliance. And then there's also a technical alliance here where we have shared standards, right? And this looks very much like Internet, like Web 1.0 technical alliances. Right? So DNS, domain name services. This is a governance. Sorry, a technical standards body. Basically, there's all sorts of technical standards bodies that form the Internet, but they're basically more committee type driven. They don't have any kind of governance power. Anyway, what we're creating in these super chain structures is almost like a little bit of nation state and a little bit of technical standards body, and we're combining that together in a new experiment. I think this is the next frontier of, you know, Balaji talking about the digital nation states. I think this is that. It's what we're creating are these digital nation superstructures. And what's really neat."
+    },
+    {
+        "speaker": "B",
+        "text": "Hold on. I'm gonna take some credit here. Okay, Balaji. Balaji takes the network state. He wants these things to go manifest in real life and buy land. The digital nation state, that's a bankless."
+    },
+    {
+        "speaker": "A",
+        "text": "That's true. That is original."
+    },
+    {
+        "speaker": "B",
+        "text": "That is us. Yes."
+    },
+    {
+        "speaker": "A",
+        "text": "This is what we've always. This is what we've said. And this is. And so what's interesting is it sort of positions Ethereum in a unique place in that. I used to think Ethereum was more of a digital nation state in itself. In fact, that was kind of the original episode we did about this ethereum, the digital nation state, and that's true still, but also it's kind of a fractal and it's more emerging as kind of a birthplace for it was new."
+    },
+    {
+        "speaker": "B",
+        "text": "Digital structures while everyone was on the layer one."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Because we didn't have layer twos."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. So Ethereum is a birthplace for networks of network states. This is really cool concept, I think. Anyway, that's what's exciting me this week. Oh, and lastly, I think that's the structure that's actually going to scale us to a billion on chain users. Like, I think we have it now."
+    },
+    {
+        "speaker": "B",
+        "text": "We didn't have it. I think we have the evidence, because look at what base is doing, right? New people for the first time ever."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, we didn't even say, you know, base is almost up to a million."
+    },
+    {
+        "speaker": "B",
+        "text": "Active, a million addresses. Right. Yeah. That's crazy."
+    },
+    {
+        "speaker": "A",
+        "text": "In like, two, two, three weeks."
+    },
+    {
+        "speaker": "B",
+        "text": "Yep. Yeah, it's. I mean, it's just like fractal scaling, right? How do you. How do you get to 10,000? Or how do you get to 10 billion people? As soon as we get 10 billion people on this planet, the only way you get there is fractal growth, geometric growth, and that is what is comprised inside of these, like, super chain phenomenons where we have permissionless forking of chain that I'll coalesce into an economic zone and share the spoils of each one's network effects."
+    },
+    {
+        "speaker": "A",
+        "text": "There you go. There you go. Meme of the week. David, what are we looking at?"
+    },
+    {
+        "speaker": "B",
+        "text": "Meme of the week. Shout out to the boys club, Twitter. They produce some of the best memes about crypto. So this is the meme of somebody pressing multiple fountain soda drinks at once, going into the same cup. And so on the left, we have weird, unusable technology that's being mixed with volatile, confusing money and. Hey, that's us. That's crypto. That's what we are. That's a great meme, guys."
+    },
+    {
+        "speaker": "A",
+        "text": "Stay tuned for the moment of Zen as well. It's a song by song and day man, I think you're going to really, like, got to end with this, of course."
+    },
+    {
+        "speaker": "B",
+        "text": "Wait, have you listened to this song, Ryan?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. You have a main feature in it?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Do you want to give a parental advisory warning?"
+    },
+    {
+        "speaker": "B",
+        "text": "It says the f word a few times in between Ryan and Adams. There's an f word, and it's repeated a handful of times."
+    },
+    {
+        "speaker": "A",
+        "text": "Wow."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, wait, no, it goes Ryan s f word."
+    },
+    {
+        "speaker": "A",
+        "text": "F. Of course. You gotta get the middle name there. Yeah. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Guys, we're gonna get to risks in just a second. But first, disclosures. David and I mentioned a few projects today. Full disclosure. We are angel investors to Opal. Scroll and connects. We're also advisors to optimism. A few other layer twos as well. Both David and I hold Ethan. We're long term investors. We're not journalists. We don't do paid content. There's always a link to all bankless disclosures in the show notes or@bankless.com disclosures. All right. Crypto is risky. You could lose what you put in. But we are headed west. This is the frontier. It's not for everyone. But we're glad you're with us on the bankless journey. Thanks a lot. First day, first day? First day? First day from Michelle Aaron Moyes, the Taliban. Dang rat. Hong Fang, Anatoly, David Hoffman, Michael."
+    },
+    {
+        "speaker": "B",
+        "text": "Esther."
+    },
+    {
+        "speaker": "A",
+        "text": "Price, Kristen Smith, Brian Quintans, and Ryan Sean fucking Adams. Oh, yeah? Ryan Sean fucking Adams. Oh, yeah? Thursday. First day up on the shelves? First day? First day of the shadow?"
+    },
+    {
+        "speaker": "B",
+        "text": "First day?"
+    },
+    {
+        "speaker": "A",
+        "text": "First day? First day? First day? Why? Why are we here? Turning."
+    }
+]

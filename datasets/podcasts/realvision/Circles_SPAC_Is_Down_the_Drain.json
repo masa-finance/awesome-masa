@@ -1,0 +1,330 @@
+[
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless everybody get 30. 30 baby get 30 baby get 20. 2020 baby get 2020. Bid to get 15. 1515 just $15 a month, so give."
+    },
+    {
+        "speaker": "A",
+        "text": "It a try at Mint mobile.com switch."
+    },
+    {
+        "speaker": "C",
+        "text": "$45 upfront for three months, plus taxes and fees. Promoting for new customers for limited time unlimited, more than 40gb per month slows full terms at Mint mobile.com dot."
+    },
+    {
+        "speaker": "B",
+        "text": "Hello."
+    },
+    {
+        "speaker": "C",
+        "text": "Everyone, and welcome back to real Vision Crypto daily briefing. And here's why you should tune in to today's show. Circle won't go public anytime soon. We'll discuss why USDC issuer had to abandon its SPAC plan, plus the importance of safe crypto custody. We cannot drum that in people's ear anymore. Every day. We'll be joined live by Diogo Monica, co founder of Anchorage, to discuss I'm Elaine Lee, your friendly crypto host and producer. GMGM ash Bennington is with me. How are you doing, my darling?"
+    },
+    {
+        "speaker": "D",
+        "text": "Oh, Elaine Lee, I'm great to be."
+    },
+    {
+        "speaker": "C",
+        "text": "Here with you, of course. Now, by the way, don't forget to subscribe to real Vision crypto. It's absolutely free if you're watching on YouTube, like and subscribe and hit the notification bell so you don't miss it when we go live Monday to Friday every day. Now let's jump straight into the price action, okay, taking a look at bitcoin remains stable at around $17,000. We've been range bound for the past week. Bitcoin did hit a monthly high of nearly 17,400 yesterday. Before scaling a little bit back. Coindesk is reporting interesting data from mining Paul Bitcoin, BTC.com I should say it shows the difficulty of mining. A bitcoin block fell by more than 7.3% today. That's the biggest drop since July 2021. So miners with the machines have been powering them off as their profits dwindle. When that happens, the difficulty of mining bitcoin drops. Ash, what's going on with our friend ethereum?"
+    },
+    {
+        "speaker": "D",
+        "text": "Ether is range bound as well. Lane Ether has been bouncing around between $1,250 and $1,300 for the past week, which obviously is a quite narrow range. Ether is down slightly right now on a 24 hours basis. One more thing, I'd like to point out some exclusive reporting from Reuters. It says that Goldman Sachs is planning to spend tens of millions of dollars on investments in crypto companies. Clearly they're seeing opportunities in that market."
+    },
+    {
+        "speaker": "C",
+        "text": "Elaine all right, Ash, want to go straight into our top story for today? And one of our community members has already been sharing it on your Twitter timeline. So circle, the issuer of the USDC stablecoin, is no longer planning to go public via SPAC. It is not the season, I should say. The company has announced it will terminate it's deal with Concord Acquisition Group. First of all, Ash, let's maybe explain what SPAC is."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, so SPAC stands for special purpose acquisition company. It's a publicly traded company whose sole purpose is to merge with another company. It's an alternate way for private companies to become publicly listed on a stock exchange. SPACs do not require quite as much scrutiny as a traditional IPO structure would. Concorde, in this case is led by Bob Diamond, a veteran banker and former CEO of Barclays, the british bank. Circle signed a deal with Concorde in July last year, which was then later amended in February. They've now mutually terminated that agreement."
+    },
+    {
+        "speaker": "C",
+        "text": "Elaine ok, well, obviously the next question is why the termination of the deal?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, basically they ran out of time. According to Circle's press release, they had until the end of this week to finalize the deal and merge. It's not exactly clear why that didn't happen precisely in terms of what the sequence of events were. Circle CEO Jeremy Aller said on Twitter. The plan remains to eventually take Circle public. The original deal from July 2021 was valued at 4.5 billion. Then that was doubled in February of 2022 to as much as 9 billion. Obviously back then we were off the highs. Still in a relatively strong market, though we have a different situation right now. Look, Elaine, here's the deal. Crypto got shook by the FTX collapse. The S and P 500 is down 17.5% year to date. PCE, that's the Fed's preferred mesh method of measuring inflation, is currently running at about 6%. Headline core PCE running at 5%. Look, spacs rely on low interest rates and a bullish perception of future valuations of equities. We clearly don't have either of those things. This is just one of those situations where the events on the ground moved beyond the goal of the deal. Essentially, you had the macroeconomic environment, the growth environment, the valuations environment, as well as headwinds specific to the crypto space derailing this deal. At least that's what it looks like here from the outside."
+    },
+    {
+        "speaker": "C",
+        "text": "Elaine Ash, just get the iron out and iron out the macro backdrop for me already before we head into 2020. And that's an open invitation, obviously. Hopefully the circle CEO will be with us sometime soon on real vision. All right, now let's bring in our next guest. So Diogo Monica is a co founder and president of Anchorage Digital, a crypto custodian, the first crypto native institution to receive a federal banking charter. Welcome to the show, Diogo."
+    },
+    {
+        "speaker": "B",
+        "text": "Thank you so much for having me."
+    },
+    {
+        "speaker": "C",
+        "text": "All right, Ash, over to you, Diego."
+    },
+    {
+        "speaker": "D",
+        "text": "Great to have you back. We know you've been on with us many times before. Obviously, lots to talk about. Talking about custody here today, obviously with you. Many crypto owners in this most recent cycle learned about the risks of holding assets on exchange in the wake of the FTX meltdown. Lots to talk about here. In general. I guess I'd like to just start off with the big picture. How do you see what's happening in the space right now? We were talking a little bit offline about regulation. How do you see the big picture right now? Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "So what happened with FDX is obviously horrible for us and to a very large extent is a massive unforced error of the industry. So you can think of it as us actually shooting ourselves in the foot. That very much is the case of what's happening right now. And so one of the things that is happening due to it is there's a lot more scrutiny on the companies that are operating in crypto, and there's a lot more scrutiny on the actual counterparties of crypto companies. So if you, like Anchorage, are a federally chartered bank, you actually end up benefiting from lots of the clients looking for safety. So this flight to safety that is happening, unfortunately, what ends up happening too, is for institutions like us, we end up winning a larger portion of a smaller pie in that area. Much is not the intent. The intent is to win the biggest portion of the biggest possible piece. And in crypto right now, the pie is definitely dwindling. And we can see that in terms of market cap, we can definitely see that in terms of prices. So lots of stuff that is happening that actually points towards higher scrutiny, not just from regulators on what these crypto companies are doing, but also from clients. Are these bankruptcy remote entities? Where is the custody of the assets? Are these on the balance sheet insurance? All of these conversations were conversations that weren't really had, at least to their full extent, last year, really, just twelve months ago. And now it's the first question out of clients mouths. Is bankruptcy remote?"
+    },
+    {
+        "speaker": "D",
+        "text": "Right. Let's talk a little bit about Anchorage digital I know many folks in the space have certainly heard of you guys, but because you guys service institutional clients, lots of folks may not know exactly what it is you guys do. Talk a little bit about the services Anchorage digital provides."
+    },
+    {
+        "speaker": "B",
+        "text": "Of course. So Anchorage is just over five years old. We pride ourselves in being the first federally charged crypto bank. What that means is we actually have a license, the same license as JPMorgan Chase and Goldman Sachs. And lots of these banks have under which they operate. This is a license that gets issued by the OCC and thus has supervisory oversight of the OCC, which is the oldest banking regulator in the United States."
+    },
+    {
+        "speaker": "D",
+        "text": "Thats the comptroller of currency for people who may not know."
+    },
+    {
+        "speaker": "B",
+        "text": "That is correct. Thats right. Office of Control of the currency. Its the oldest banking regulator and is actually the regulator that oversees all of these big banks that you use on a regular basis. The reason why thats important is because the scrutiny that were subject to is the same scrutiny as the very large banks are subject to, which then increases the confidence of our clients that were actually running a tight ship and that were not commingling clients funds or really absconding clients funds, which is obviously the topic du jour, post FTX and mislabeled bank accounts. And so that's something that is extremely important. It is the fact that we have a great regulatory stack, but we also have amazing technology. The company was started with the insight that modern digital custody cannot be reliant exclusively on this, what I lovingly call pirate custody, which is this view that custody of crypto assets should be done by hiding your crypto assets under your mattress or in a mountain somewhere in Switzerland, which, if you think about it, pirate custody. I talk about it because it's the same way that the pirates store their gold coins in the 17 hundreds. You had gold coins, you put them in treasure chests, you buried them in islands, and then you really had a little treasure map to make sure that you knew how to actually recover it. And that's effectively what a lot of these companies are doing. They're just, instead of a gold coins, they have little usb keys and smart cards. Instead of a treasure chest, they have safety deposit box in the bank somewhere. And instead of a map, they have a checklist, is effectively the same technology. So Anchorage was built on a technology that is not only safer than cold storage while keeping the assets offline, but does not require the human element and thus allows us to do active participation, staking governance. All these other things that all these assets outside of bitcoin, too, and then, obviously, in the meantime, from inception, we've added not just custody services, but trading services, staking services, governance services, settlement services. So today, you can really build your business on top of Anchorage. So, if I had to summarize, Anchorage in a nutshell, it really is a regulated institution that allows you to build products in a safe, easy, and regulated manner."
+    },
+    {
+        "speaker": "D",
+        "text": "So, Diogo, let's unpack that a little bit. What those mechanisms are, what those protocols and procedures are, and how you ensure security. I think most folks know that you're one of the biggest players in this space, a huge institutional player. That makes you guys a massive honeypot. What are the risks? How do you ensure against those risks? And how do you think about the protocols, processes, and philosophy of ensuring security of such a large stash of digital assets?"
+    },
+    {
+        "speaker": "B",
+        "text": "The interesting thing about Anchorage is that that was the explicit purpose under which we were created. We were created just to serve institutions. And so that means two things. Number one, it means that the type of effort that you put on your technology solution, auditability, proof of reserves, external audits, cryptographic guarantees, all of these just great security principles and practices you have to do are really having to meet not the bar of a retail client, but really the bar of the most sophisticated institutions. We have clients like Visa, we have sovereign wealth funds. We have some very large top tier banks. Those are the people that really have the sophistication to really look under the COVID and understand whether this is real technology or, you know, just lipstick slapped on a pig, which is, unfortunately, still happens a lot in crypto and still happens a lot in, particularly exchanges, but even other technology players that weren't really created with that goal. So think about a company purposefully built with the objective of serving institutions, means that we are an open book for our institutions. And we've gone through hundreds of due diligence efforts that have inspected deeply our technology. We've gotten external audit. We obviously are under regulated oversight of OCC. So all of these things really give confidence that the things that we've built are very uniquely differentiated and are truly, truly safe. The second component is because we're not a retail service, we're actually not in the crosshairs of a lot of these hackers in a lot of these nation states that are trying to fund their terrorist operations by using cryptocurrencies and really any kind of financial instrument that they can get their hands on. It's not that crypto is somehow better, to a large extent, is that crypto might be easier to steal from some unregulated exchange or some exchange that has poor security principles. And so that actually becomes the prime target. And until you actually get to Anchorage, which is really at the top of the pyramid in terms of security and best practices and only serves institutions and doesn't really have a retail presence, and you can't even, as a retail consumer, Diogo can't really open an account on Anchorage to even, like, look at what the system is. Then all of a sudden, you just, you're in a very different spectrum of risk in terms of profile and high profile, and thus you also become less of a target for attackers. So you're absolutely right. As time goes on and we accumulate more assets, we become more of an attacker. But also think about security as not being a finished product. Security is not static. It is a process. It's constantly evolving. So we constantly evolve all security also based on the number of assets under custody."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. And we should point out, of course, that you have a PhD in computer science, network security, and you were also the lead security person over at square for many years. So you have a long and strong background in precisely this type of technology."
+    },
+    {
+        "speaker": "B",
+        "text": "That's right. So in a way, one of the ways that our investors described our background was mine and Nathan's. My co founder was perfect founder, market Fit. So before starting Anchorage twelve years ago, I was actually working on something that was not very useful at the time, which was a PhD in distributed systems and security. And so I was actually publishing academic papers, working on these types of topics and quoting hash cash and mentioning lots of the papers that the original Satoshi Nakamoto paper actually quoted. So I was intimately familiar with this. And when the paper came out, I actually understood and intimately had actually referenced over half of the reference papers. And that's actually part of my passion for crypto is the fact that I've been working on distributed systems for so long. And then I had the luck of joining a company called Square very early on the same week as my now co founder Nathan McCauley. And so we led the secure team at square for four years, joined as employee 40 and 41st, and really worked on payment systems, hundreds of millions of dollars of gross payment volume. We still have the patent on the little encrypted credit card reader that I'm sure you swept your card on in the United States, which is a really fun project. We also end up leading the security team at Docker. So building software that is securing what is now hundreds of millions of computers in containers and in virtual machines over on the Internet. So if you do the Venn diagram of that, of academic experience, of payments experience and operational experience at scale and open source. Then the Venn diagram really is private keys that are worth billions of dollars. So we just lucked out to have the perfect Venn diagram of a skill set. And when this opportunity came along, we just jumped on it."
+    },
+    {
+        "speaker": "D",
+        "text": "Hey, everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back."
+    },
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless everybody get 30, 30, baby get 30, baby get 20. 2020 better get 2020 better get 15. 1515 just $15 a month so give."
+    },
+    {
+        "speaker": "A",
+        "text": "It a try at mint mobile.com switch."
+    },
+    {
+        "speaker": "C",
+        "text": "$45 up front for three months, plus taxes and fees. Promoting for new customers for limited time Unlimited. More than 40gb per month slows full Terms@mintmobile.com dot I know this is an."
+    },
+    {
+        "speaker": "D",
+        "text": "Easy question for you to answer in an academic context and probably a little bit more challenging in layman's terms, but what were some of the lessons that you learned both from your academic work and also your professional experience in security and distributed systems?"
+    },
+    {
+        "speaker": "B",
+        "text": "So lots of things actually get to be learned when you're developing systems themselves. And in particular, people ask me a lot, what is the secret sauce of Anchorage? And I just honestly answer, there's no secret sauce. It's just good security engineering principles. And people fail to realize that, yes, to a very large extent, cryptocurrency has never existed. We have never had private keys that are worth tens of billions of dollars. That is absolutely the case, and it's absolutely correct. However, we have been protecting private keys for many, many, many decades. And the operational security principles that you need to run very large companies with hundreds of millions, if not billions of payment cards, to a large extent, actually match up with the best practices that you have to do with an actual traditional company. And in fact, one of my biggest surprises is that not more crypto companies are started by security engineers like Anchorage Digital was, if you think about it, Anchorage Digital is, I believe, the only custodian that was actually founded by two security engineers, which to me at the time, felt like the perfect background for people that are storing private keys of high importance. But somehow the rest of the space has not really been founded by engineers with that type of background. Definitely the exchanges were founded by folks that were general web developers or came from different walks of life. Or there's really institutions here that are trying to do institutional great custody that really come from the more finance heavy New York side of the house. And that's all fine and great. These are great institutions. But it does feel, at the end of the day, that the DNA that permeates through these companies really needs to be the DNA of people that have been working on it for decades, not people that have kind of, like, looking at the challenge and this kind of thing for the first time."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Very well said. I want to bring Elaine Lee back into the conversation. I know she has some additional news stories from the day."
+    },
+    {
+        "speaker": "C",
+        "text": "Ash Bennington. I do so remember that tweet from fried? We showed you yesterday's show where he basically said, no, thanks to a request to take part in a hearing on FTX in the US Congress on December 13. He was responding to Maxine Waters, the democratic chairwoman of the Financial services Committee, and she sent up a tweet to follow up on that. Fair to say, it's a little bit more forceful this time. She said, quote, based on your role as CEO and your media interviews over the past week, it's clear to us that the information you have thus far is sufficient for testimony. She goes on to say, it is imperative that you attend our hearing on the 13th, and we are willing to schedule continued hearings if there is more information to be shared later. Ash, you know, I love a bit of crypto banter, but even to me, it seems like such an odd place of where we are right now, especially to exchange messages between a high ranking lawmaker and a former CEO at the center of a massive scandal. Ash, I know you are aggressively neutral, but come on, let your girl do the job for you and just react with this kind of face. What?"
+    },
+    {
+        "speaker": "D",
+        "text": "Well, it's a little surreal, right? You don't see Jamie Dimon and James Gorman and David Solomon tweeting at lawmakers, especially committee chairs. It's just a, it's just a bizarre situation. By the way, the chairwoman makes a pretty good point when she says that Sam Bankman Fried has been doing interviews with the New York Times, the Wall Street Journal, Good Morning America. She makes a pretty good point that he's been speaking about this. So why not come down to Congress and do some conversations under oath? Uh, we should also point out that she's the outgoing house committee on financial services chairperson, and obviously in January, that's going to flip to the other party. Elaine Diogo, are, are you tweeting at, at congressional representatives? Are you. I mean, what do you think about this? It's pretty wild, isn't it?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, it is pretty wild. I don't know what to think about it except to say that Twitter is a pretty amazing tool and this would not actually, this couldn't happen anywhere else. And so I think I take the positive view of this. This type of interaction really wasn't possible before Twitter was around and really wasn't possible before it actually got this type of use. So at least we get to see it. In many cases we don't. And there's also a generational gap here where obviously the younger generation gets to use it a lot more and maybe a little bit too freely, seems like in this case. And so it's pretty entertaining."
+    },
+    {
+        "speaker": "D",
+        "text": "If you were employee number 40 at square, im sure you had some interesting late night conversations about exactly these topics with Jack Dorsey."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, we did. We did. But remember that Jack Dorsey was actually ousted off Twitter and Square was actually created as his second go about it being CEO. And so when he started square, he was not back at Twitter yet. Then he had an actual period in which he was CEO of two companies, which caused a lot of consternation out there. And at some point there had to be a custody hearing between the executive teams of Twitter and the executive teams at square to decide how many days it would get Jack on each side, which is kind of hilarious to think about that. That meeting had to happen at some point. It's just a hilarious thing to happen. But there were lots of conversations. I do have to say that Twitter only really started premiering the conversation when Jack Ashley went back, which was actually pretty late into the square journey. So that was, I believe year six or seven that Jack actually went back. And so for a large majority of the time, our focus was square almost or basically exclusively."
+    },
+    {
+        "speaker": "D",
+        "text": "Right. Elaine, what else you have on tap for us today?"
+    },
+    {
+        "speaker": "C",
+        "text": "Let me just really translate what Ash was really trying to say. Diogo was, can you slide into Jack's DM for us and ask him for an interview on behalf of real vision to talk about bitcoin?"
+    },
+    {
+        "speaker": "B",
+        "text": "Wait, I'm pretty sure he has open DM's so you can know he doesn't."
+    },
+    {
+        "speaker": "C",
+        "text": "There you go. All right. That's a task for us to follow when we finish this show, but don't go away just yet. Another story that we've got to talk about is uk crypto lender Nexo says it will phase out its us products. Now, I didn't know Nexo was a uk product, actually, but the company blames a lack of regulatory. I always have trouble saying that word at this time of the day. Regulatory clarity. Nexo says it has spent 18 months speaking with regulators, but reached a, quote, dead end. As of today, its earned program will no longer be available in eight us states that it was operating in. It will eventually fully exit the us market, but it has not provided a clear timeline on that full disclosure. Nexo is an advisor on advertiser, on real vision. Crypto. I have to eat bread somewhere. Ash this is yet another company thrown it in the towel due to regulation or lack of it in the US, I think. I just want to ask you, what are your views as an american?"
+    },
+    {
+        "speaker": "D",
+        "text": "You got to talk about bread when you know I'm doing keto. Elaine, brutal. Look, I think if you were out there, you know, as a, as a non us based company, obviously this is not the time you want to be negotiating with us regulators to offer expanded products here in the United States. It's clearly a significant headwind right now. Elaine."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. And I think that's just next going to say I don't really know what the us regulation is doing. We're going to move a little bit forward and carry on while we have a prime minister that is crypto bullish. He knows about apes, punks and monkeys or whatever we offer out there in JPEG form, but definitely more crypto friendly regulation in the UK is what I'm seeing."
+    },
+    {
+        "speaker": "D",
+        "text": "That's Rishi Sunak for our american viewers."
+    },
+    {
+        "speaker": "C",
+        "text": "Very good. Now just moving on to another story. There's lots to get through, as you know, but we are here to translate it and make sense of it for you. At real vision is FTC. So more crypto companies could be on the hook for false advertising. Bloomberg reports that the FTC, that's the US Federal Trade Commission, is investigating several companies. This is over allegations their advertising was misleading or dissecting. The agency didn't say which companies it's probing. Now, the Consumer Protection Agency enforces law that requires truth in advertising. Now that includes rules that individuals disclose when they have been paid for endorsements or reviews. Ash, I think this once again goes back to the unregulated nature of crypto. What do you think?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, look, I would just say FTC is a consumer protection agency. They do a lot more than just truth in advertising. But this feels like an all hands effort by the us government to look into where some of the trouble spots might be in crypto and attempt to protect consumers. That at least would be the optimistic way of phrasing it. I'm curious to ask Diogo, who deals with regulators on a wide variety of different fronts, what he thinks about this particular moment in time and how he's experienced it over at Anchorage Digital."
+    },
+    {
+        "speaker": "B",
+        "text": "I think one of the things to notice is that obviously we don't do retail business, but if you see a lot of the efforts of regulators are really about consumer protection, like you said. So the FTC going after advertising, that is false. Advertisement is extremely important. And I think we've seen some of this claimed on the cases of companies like Celsius. That was one of the claims that was actually done and that was written about. And then the other side of this is that anything that touches retail is going to be looked upon with a very, very big lens and magnifying lens because all of these companies lost millions of people's money. And so that's the focus of the institutional. Sorry, that is the focus of the regulators. And that is the primary focus of the regulators. So what we see is that we actually have way easier conversations when we talk about, hey, our clients, our institutions, they're very large institutions. In many cases, they actually have their own regulatory stack and they are regulated. And to a very large extent, we know what regulation applies to many of the things that are being done. Maybe someone on the edges of crypto, that is not the case. And definitely for some of these types of products that are retail products, there are still a lot of open questions that are out there. But there is a concerted effort to make sure that we're protecting consumers, that these things don't happen again. And after the sequence of events that we've had over the past few months, that is not surprising."
+    },
+    {
+        "speaker": "D",
+        "text": "So what you're saying, Diogo, is it's a great time to be in a b two b business?"
+    },
+    {
+        "speaker": "B",
+        "text": "It was always a great time to be in a b two b business in crypto, because regulators actually love you to a certain extent, because you are providing infrastructure, regulated infrastructure. And it's also a great time to be a regulated bank and kind of like offer yourself up for regulation when a lot of these companies have been following the more traditional tech playbook of ask for forgiveness, not for permission, and we very much have done the opposite. From day one, we have asked for permission from day one, and we've built the right things and we've worked for institutions. And then obviously, it's still very bad for all of this to happen around us, but at least it is extremely validating of the path that we've taken."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Elaine, any more stories?"
+    },
+    {
+        "speaker": "C",
+        "text": "Ash? I don't think we're moving away from this one, just quiet yet, because, look, I've seen this narrative of false advertising in London. Actually, when I remember back in March, they started taking down the posters in the tube when they sort of like sugarcoin, so to speak. And now you can see it happening again for this wave. Okay, so, Ash, no more stories, but I do have some viewer questions."
+    },
+    {
+        "speaker": "D",
+        "text": "I don't think we're quite there yet. Elaine. I wanted to ask just a couple more questions of Diogo before we do viewer questions here. So, Diogo, I'm curious, one of the things that we've been talking about here with FTX, which is this question of how the, and I know you're not an operations person, but I watched that interview with the Wall Street Journal between FTX and the Wall Street Journal, and I was just gobsmacked at the level of just absolute cluelessness that he exhibited during that conversation. Basically, there were hundreds of millions, billions of dollars being wired into Alameda, those wire transfers going back and forth. I know you're not an operations person, but talk a little bit about what the business process looks like, what some of the accounting security protocols, things like basic audit and understanding how wires come in and where they're going from. I mean, to me, it was just staggering to hear, as I said, the total cluelessness on behalf of Sam Bankman fried in that conversation. Now, I know that there are people who will suggest that he had ulterior motives for maybe framing it that way, but talk a little bit about what the operations procedure looks like at a regulated institution. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "So that is actually one of the major differences when, you know, last year talking about a SoC two, type one or soc two, type two or SoC one, type one. All of those were just acronyms that nobody really wanted to talk about that much. But extremely important because there are the validation that you're doing these things correctly, and you're being audited by, hopefully one of the big four firms, not obviously, a firm that was founded or as offices exclusively in the metaverse, which is something that ive seen in the media claimed from the firm that was actually auditing FTX. So you want that type of scrutiny. You want that type of audits. And so thats part of the reason why people trust regulated institutions. And think about it as many layers of security. Banks and financial institutions traditionally have many layers of security. They have not just the yearly or every six months audits from the regulators. They actually have internal audit committees and internal teams auditing the companies they have external auditors coming in. They have their finances actually audited by some of these very big firms that are putting their reputation on the line. And so this is exactly so that mistakes like this, you can't possibly claim mistakes like this because they can't really happen when there's so many checks and balances actually being put in place. So it is, one of the primary functions of regulation is to make sure that the basic things are not going to be done wrong."
+    },
+    {
+        "speaker": "D",
+        "text": "Right? Yeah. And it obviously is a pretty big mistake. I wanted to also ask you about something else that came up in the conversation with FTX and about your views on this. One of the things that Sam Bankman Fried said that I found to be pretty striking was this idea that dollars are fungible. $1 is equal to any other $1, and that essentially they didn't allocate, segregate, and otherwise divide client funds. How do you guys think about that in your space? And what do you sort of offer in terms of assurances to your clients about how their funds are protected, segregated and otherwise allocated?"
+    },
+    {
+        "speaker": "B",
+        "text": "It's an extremely contrived argument. I think we know as the medium of exchange that we need a currency to actually work correctly for it to be fungible. So we need that characteristic. But that does not mean that omnibus is the right way. So omnibus, just a collection and pooling everybody's money? It's what it means, right? When you have an omnibus account, you're pooling everybody's money and you're hopefully keeping a correct ledger of what belongs to whom. But that is not, for example, what we do at all for crypto. And it's a very common thing that exchanges do, and that is absolutely incorrect and it should be fixed. And it's one of the biggest outcomes of the FTX. We've actually been pushing for this for a long time. Exchanges should not also be the custodians of the client's access assets. And these exchanges should not be commingling client funds, definitely not for very large institutions where it's extremely easy to create different segregated addresses on chain that can be independently audit and make it a lot harder for you to actually abscond any funds or just hide it away."
+    },
+    {
+        "speaker": "D",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "So at Anchorage, it's actually extremely simple. When you deposit crypto assets at Anchorage, those things are an address that is completely segregated, that you can individually inspect on chain and that we don't touch and we can't touch, and you can audit and we can have proofs of still ownership of the address and of the private key and still prove that we can use it. And you can independently verify on chain that the assets are still there and that they're your assets. Cause there's no expectation that there's gonna be a pooling of clients assets and more assets, more bitcoin is gonna be pooled, and so you're 100 bitcoin, you don't know if it's in there or not. And so that's actually the totally opposite way that we should be going. And I think this FTX debacle or debacle really shows is the fact that no commingling of client funds is extremely important in assets. Being segregated is very, very beneficial for auditing."
+    },
+    {
+        "speaker": "D",
+        "text": "Hey, everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing."
+    },
+    {
+        "speaker": "E",
+        "text": "This podcast is sponsored by Ramp. Are you the decision maker in your company? Consider this. For the first time in decades, there's a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your company's spending and control who spends what. With each vendor. Ramp's software collects and verifies receipts instantly. To save your team valuable time. Ramp automates data entry and routine tasks with automated approvals, expense categorization, and bill payments. Time consuming tasks, which means you'll stop wasteful spending and close your books in hours instead of days. Businesses that use Ramp add up to 5% to their bottom line the first year. If you're a decision maker, adding ramp could be one of the best decisions you've ever made. Get $250 when you join ramp for free. Just go to ramp.com easy. Ramp.com easy. Ramp.com easy cards issued by Sutton bank and Celtic bank. Members of the IC terms and conditions apply."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, you make so many good points there. One of the things that I found most interesting around the FTX debacle is we talk about, whenever we talk about crypto exchanges, I always want to sort of refer to it with the. With the air quotes, because the functions that exchanges serve in crypto are not in any way analogous to what an exchange serves. For example, in capital markets, us equities, for example, precisely, as you point out, you have an exchange that serves as well. Let's see if we can get all these functions straight. So, basically, they're an exchange, they're a custodian, they're an investment bank. They're a broker dealer. We found out in the case of FTX that they were basically a hedge fund. They were also a VC shop, a quant trading prop shop. I mean, the number of things that are basically contracted and smashed into that single word exchange in crypto, pretty striking for people who have capital markets backgrounds when you see how all those get effectively aggregated into one. And as you say, particularly no division between custody and the exchange function."
+    },
+    {
+        "speaker": "B",
+        "text": "That's absolutely right. And look, this is part of also the criticism is that this is an obvious point because even in traditional financial institutions and traditional financial infrastructure, this works this way. Like you're describing, there's a custodian that keeps your assets and then there's an actual investment manager that has your assets and both of them are reporting to you. So you have independent validity and checks on. Do I still have x many shares of square at this financial institution? This is just basic checks and balances and segregation of principles. And it should be adopted in crypto. And it was to a large extent, it's been an unpopular view. It, of course, benefits anchorage Digital and it benefits the fact that we're institutional only and are not doing retail. But that's how we've designed the company from day one, explicitly because we knew that at some point these conflicts of interest were going to cause issues. And that's what we're seeing, conflicts of interest causing issues."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. And by the way, all of this was completely unregulated and offshore in the case of the FTX global entity. With that said, I also wanted to bring Elaine Lee back in for some viewer questions."
+    },
+    {
+        "speaker": "C",
+        "text": "Elaine Ash, I'm so sorry for cutting you off earlier on because in front of me I have notes and when I recognize community members names, I get so excited that they're so engaging in following us throughout the show at this time of the day. So yes, it is time for some viewers questions."
+    },
+    {
+        "speaker": "D",
+        "text": "But before Elaine, I know you are the chief advocate for our viewers. You are constantly in the discord, you are constantly on Twitter, and I know how excited you get. So let's jump in."
+    },
+    {
+        "speaker": "C",
+        "text": "Absolutely. I am the vibe machine. Ash, though please remember to subscribe to that channel so you know when to be with us. It's really important for us here at real vision. So Ralph H. Is asking, and I think Ralph is just the one in my DM's, but I couldn't respond. So I'm glad. I think if it's the same guy, he got this question through. So he's asking, can Diego discuss the consent order Anchorage entered into with the OCC earlier this year and if any assets held by Anchorage be eligible for FDIC coverage or private insurance. Non captive question mark. Also, it looks like Q Anchorage, an entity I assume to be an affiliate, was bidding for a contract with the FDIC to act as a crypto asset management and solutions provider. Can you discuss that for a bit? Now remember, Diego, these are real vision, real vision visionaries. They're in deepen. So go ahead if you can tackle that one."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, they're great questions. So I can't really speak to the FDIC business, one, just because, as you'd expect, our clients rely on us for our discretion, and so it's really not something that I can discuss. However, the other two, let me touch upon them. The consent order really is a mechanism that the OCC has to give feedback on companies that they oversee on things that they would like to change. And so last year we got our first charter, so our license was given and in really record time, we were constantly subject to bank exams. And then as part of the exams, the OCC gives us feedback. And that's what the consent order effectively is. It is a document that is publicly stated. It has some pretty standard language, and so you can read it on the OCC website, and it actually provides feedback on things that they want us to improve. So lots of those things are things that actually are pretty old in the sense that many of them are things that we've been working on for a long time. So the other thing that was asked was FDIC insurance. So let me point out that there's only FDIC insurance for traditional assets. There's no FDIC insurance really for crypto assets. And so Anchorage exclusively works with crypto assets and not really with fiat deposits. And so we are not FDIC insured because we don't need to be. We don't take on fiat. We use partners for our fiat networks. And really what we're taking is crypto. And then remember, the concept of FDIC really is to make sure that there's insurance for clients deposits. However, Anchorage is a full reserve crypto bank. When you deposit crypto, crypto stays there. We do nothing with it. You can see it on chain, you can withdraw it at any time. There's no possibility of there being on a bank run on a full reserve bank that actually has all of your assets, one to one. The exact same bitcoins that you've deposited, the exact same ethereum that you've deposited is just there on the address never moves and you can remove it at any time. And so a lot of the goals of the FDIC really is to protect the fact that traditional banks are reserve fractional reserve banks, and they use it for investments and to ensure that there is liquidity of the bank in the case that people want to withdraw, which is not really the case for Anchorage, if you think of that way, because it's full reserve one to one back the moment you want to withdraw."
+    },
+    {
+        "speaker": "D",
+        "text": "You can quick follow up for Diogo. Any talk about something not FDIC, but maybe something more like SIPIC, the securities investor protection corporation, which protects, in the case of insolvency for brokered dealers, the idea that you could have some kind of umbrella of protection to ensure that assets remain in place? Or is that something that doesn't sound terribly interesting to you at this time?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, I think it's interesting. I think we need more of those. I will point out that SiPic and FDIC actually cover really small amounts of funds. And so for large institutions that have a billion dollars deposited on an actual custodian, the fact that they would recover half a million dollars, $250,000, is really not material in that sense. So I will point out that the orders of magnitude that we're talking about are pretty different in terms of focus. So some of those conversations will make sense. But conversations around insurance and full insurance and better insurance and better insurance underwriting and the ability to make sure that we have these external entities that pay out in case something goes horribly wrong, those are all great conversations and things that we are a part of. We're part of many of these associations, the blockchain association, many of these entities that are actually pushing forward the crypto markets, the crypto market infrastructure to make sure that we have more trust. And part of trust is obviously those mechanisms that you're describing of worst case insurance."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so going on to another question, the final question that connected one on YouTube, asking Diogo, what is your take as a security expert on the hack of anchor? Not sure if you have any comments on this."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't actually know a lot of details. It wasn't really a protocol that was participating in actively, so to speak, or at all, really. And so I don't know a lot about this hacks. What I do know is that one of the things that is not talked about enough is the fact that there's a lot of fault of the industry and not really getting together and shipping smart contract languages and blockchains that actually support native security functions that do not exist today. The fact that we're still allowing lots of these smart contracts to be written in solidity. The fact that we're still allowing many not robust bridge architectures are really just. They're a black eye in the industry as a whole. We can do a lot better. We know how to do a lot better. And so it's really up to us push forward with some better standards, which haven't really been done so far."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so great conversation today between the two of you, but at this part of the show, we like to wrap things up with. Here are the key takeaways, because when you have some really big, complicated, big thoughts here on real vision, it is good to step away with some key takeaways to make sense of it. Also, first things first, investors who come into the crypto space now will come into the space with much more scrutiny. The second thing is to note is that modern digital custody cannot rely on this pirate custody, as Diogo put it. So how would your business hold the crypto assets in a safe and regulated manner? Diego says exchanges should not be the custodians of customer funds. The time of, quote, slapping lipstick on a pig is over. Crypto is a serious business. Let's treat it seriously. And then third institution have been holding off. DC needs to step in. So as the industry moves forward, the tech needs to move forward. Right. Pick your players wisely, and always press and ask the questions, where are customer funds? It is on the blockchain. So good security principles need to grow alongside with good tech and good banking systems. So security, security, those are my key takeaways. Did I do okay there, Diogo?"
+    },
+    {
+        "speaker": "B",
+        "text": "You did fantastic. Those are some. Those are some fantastic takeaways."
+    },
+    {
+        "speaker": "C",
+        "text": "Obviously, you can ask. You can add any more takeaways. Anything else from you or ash?"
+    },
+    {
+        "speaker": "D",
+        "text": "Diogo, go."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think on my side, I was just point out that it's easy to say now, but not all regulated institutions are the same. And obviously, unregulated institutions are not regulated institutions. And I know there's a lot of boring acronyms and lots of these things, the socks and et cetera, et cetera, et cetera. But those things are extremely important, and they've been extremely important for market robustness for a long, long time, and they're not going to disappear now. And so what I'm seeing now is people actually asking the hard questions from the counterparties, and I'm not seeing that going away anytime soon."
+    },
+    {
+        "speaker": "C",
+        "text": "All right, well, thank you, Dioga. Thank you, Ash. Pleasure doing the show."
+    },
+    {
+        "speaker": "D",
+        "text": "Let me jump in and give just a couple quick takeaways of my own here, Elaine. So I think you heard here three sort of critical topics that we're going to be talking about, not just in 2023, but I think for years to come. Number one, as we all know, legal, regulatory compliance and legislative action is going to be an incredibly important topic for everyone in this space. Number two, something that we talked about today that you hear far less about in the space is operations, how operations are run, how audits are conducted, how the processes and procedures are put in place to make sure that, at least in terms of the centralized component of the digital asset space, that we see some of the best practices that we've seen in traditional financial services migrating over to where the crypto space is headed. And number three, such an important point, and I think one that Diogo and I agree on completely, is the segregation of different services at different layers. One of the challenges with FTX, one of the reasons that was allowed to happen, number one, it wasn't regulated. Number two, it did not have the operational procedures and protocols in place to secure it. Number three, they were just doing too much. If you think about this in terms of a protocol stack, if you're someone who works in tech, something like TCP IP, there are a series of layers that are stacked on top of each other. We learned many, many decades ago in the traditional capital market space that there were huge challenges with having too many functions being performed by single entities. That is something that is going to be a topic that we're going to be talking about, I believe, a great deal more. And by the way, the other point we should make, of course, is that as we move toward more decentralized systems, some of the balance of this may change, some of the mix may change, but as long as we're dealing with centralized entities, all of those things are going to be factors moving forward. Elaine."
+    },
+    {
+        "speaker": "C",
+        "text": "All right, lovely. Now, before we go, chief S community is bringing you the vibes. Let's whack up a photo that I got sent in my DM's this morning. Take a look at that. In the middle, you see a real visionary member. That's Hubert, who is also actually with Moonpay. And then that guy on the right, I think we recognize him. That's our very own Raoul pal gallivanting through the streets of Europe in France, where basically ledger conference is taking place right now. Look at them having so much fun. If that isn't what community is about, I don't know what is. All right, guys, so that's it for today. Don't forget to subscribe real vision crypto is absolutely free. Diogo, have you pressed the like button?"
+    },
+    {
+        "speaker": "B",
+        "text": "I have."
+    },
+    {
+        "speaker": "C",
+        "text": "So for those who are you watching on YouTube, smash everything. Smash the like button. The bells, the whistles. It will help us out big time. Join us again tomorrow. We'll dive into the metaverse with DAp radar CEO. So that's a very fun one, and you don't want to miss that. See you at noon Eastern, 05:00 p.m. london time. Live here, real vision crypto, daily briefing."
+    }
+]

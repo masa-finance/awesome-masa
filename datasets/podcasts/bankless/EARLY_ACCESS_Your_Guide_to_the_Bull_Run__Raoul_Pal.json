@@ -1,0 +1,534 @@
+[
+    {
+        "speaker": "A",
+        "text": "The entire thesis is, this market is going from 2.7 trillion to call it 12 trillion this cycle, to 100 trillion by maybe the end of the 30, 32 cycle."
+    },
+    {
+        "speaker": "B",
+        "text": "Wow. Wow."
+    },
+    {
+        "speaker": "A",
+        "text": "So this is, I think, in front of us, the largest, fastest accumulation of wealth in all human history."
+    },
+    {
+        "speaker": "B",
+        "text": "Welcome to bankless, where we explore the frontier of Internet money and Internet finance. This is Brian. Sean Adams. I'm here with David Hoffmande, and we're here to help you become more bankless. Guys, you know this. The bull market is here. The question on our minds in today's episode is, what's gonna happen next? We brought these questions on crypto, on macro, and on investing to Raoul Paul, who's one of David and I's favorite guests, I think, on this subject, particularly at this part of the market. And so we ask questions like, where are we in the crypto cycle? How long will this cycle last? Will it be different? Will it be similar to previous cycles? How high will it go? Which assets will benefit? And most importantly, how to make sure you don't eff it up. If you're looking for an episode to guide you on what to expect next, this is it."
+    },
+    {
+        "speaker": "C",
+        "text": "I think the reason why we keep bringing Raoul Paul on is that he has this very clear north star. He's got these theses that he really loves. We also love theses, and they keep Raul grounded and his feet on the ground while I. The just chaos of a bull market warps around him. Uh, and that's also. That's always something I appreciate, like, navigating through crypto without some sort of, like, north star something to. To keep your. Your boots on the ground. Uh, without that is. It's hard. It's hard. You kind of need to some level of something to keep you sane. And, uh, we call this for us, Ryan, the bankless thesis. Ral, how Raoul has his names for his theses, uh, and every single bull market presents some new thing, right? How do nfts fit into what Raoul calls his, uh, his everything, uh, code? It was one of his theses. How does that fit in? How do nfts fit in the bankless thesis? All these, like, things that happen as bull markets present, like new curveballs, can all kind of be mapped into a frame of reference, a frame of understanding. This is what Raul does. Uh, this is why we frequently talk to him about, like, all the new changes that are happening in the world and how it fits into the ideas that he has. And so, because he is so grounded, he has come on the Bankless podcast, like, six times now, and I've enjoyed every single one."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, we're getting right into our episode with Raul Paul. If you want a debrief episode, which is the episode that David and I record after this podcast, make sure you are dialed into the bankless premium feed. That's where we'll publish that. And David, I'm excited to record that with you. I want to hear your thoughts on what Raoul Paul had to say about the bull run we're going to get right to the episode, but before we do, we want to thank the sponsors that made this possible, including bankless nation. We are excited to have Raoul Paul back on the show. He is the co founder and CEO of Real Vision, which is a financial, media, and education platform. It's focused on macro investing in crypto. Raoul himself is a fantastic investor. I always learn a lot from him. I think in today's episode, we're trying to get a sense of the 2024 bull market, what the shape of this will be, what the contours are. David and I have going to this episode. Raoul just listed a whole bunch of questions we want to ask you. Anyway, welcome back to bankless. It's great to have you."
+    },
+    {
+        "speaker": "A",
+        "text": "Great to be here, guys, as always."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, so we got to start with this, though, because this was breaking right before we jumped into."
+    },
+    {
+        "speaker": "C",
+        "text": "We're already going off script."
+    },
+    {
+        "speaker": "B",
+        "text": "We're already going off script. And this seems to happen with Raoul Paul episodes. I remember, like, one time we recorded. This is back in 2022. It was in the middle of terra Luna breaking down."
+    },
+    {
+        "speaker": "A",
+        "text": "That's right."
+    },
+    {
+        "speaker": "B",
+        "text": "This also feels, to me at least, like it could be some pretty big news. The SEC is now suing uniswap. So this is, like, a fortune article that just came out. I'm not sure the details of it."
+    },
+    {
+        "speaker": "C",
+        "text": "For the time of recording, literally minutes ago."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So I'm not sure if they're suing the foundation or labs or what the details of this are. I haven't had a chance to get caught up, but this feels very much like a shot across the bow for Defi. Like a big one. So they're not just like a shot."
+    },
+    {
+        "speaker": "C",
+        "text": "Into the hull of defi?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, it's. It's just like, do we know what."
+    },
+    {
+        "speaker": "A",
+        "text": "Do we know the substance of this?"
+    },
+    {
+        "speaker": "C",
+        "text": "We don't. We don't."
+    },
+    {
+        "speaker": "A",
+        "text": "Because, you know, sometimes they do this, and it's kind of a. Ends up being a clarification issue is like, we'll absolve you of your past sins, move forwards. You know? We don't really know yet. I haven't seen. I haven't seen the details at all."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I may actually pay for the fortune crypto paywall to just get this and actually read this entire article here, but I guess some context here. Uniswap feels like the poster child for Defi. It's not only that, it's a US developed project. Hayden Adams us citizens lived here. The team is based in Yorick, I believe, and it's really been a flagship protocol. They have done the right things in order to decentralize the pieces that should be decentralized the US as a regulator, to go after Uniswap, bring them to court in this way, rather than inviting Hayden Adams to the. To the. To the White House for, you know, like a celebration of him as an entrepreneur on that team. And what they're doing in crypto, this is akin to, like, taking Google to court or Altavista or something like this in the 1990s. Like, why. Why are we doing this? And I know you're not living in the US, Raul, but, like, collectively, I'm. I'm just speaking on behalf of people in the US who are crypto users. Why are we doing this to our best and brightest american projects?"
+    },
+    {
+        "speaker": "A",
+        "text": "They're all terrified of DeFi. We don't know what. We've only just heard about this. We don't know whether it's about the KYC elements, which we understand has been an issue for DeFi as an industry because it didn't have it set up in the way that they wanted it. We don't know whether it's to do with the token change. I don't know anything yet by the time people watch this. But all sounds stupid because everyone will know what the details were. And we don't know anything. Anything. But it's a pain in the ass. But I kind of figured they were going to come after Defi anyway. They just. They're uncomfortable with it."
+    },
+    {
+        "speaker": "B",
+        "text": "When you say, what do you mean."
+    },
+    {
+        "speaker": "A",
+        "text": "You can have a bank? Well, the authorities put it that way. You know, what do you mean you can have a bank without bankers? What do you mean? You can have, you know, you can have an exchange without people. What, you know, to them, this is alien concept because it was really the antithesis of the existing system. So they've never been comfortable. And then they use the ridiculous KYC AML thing, which really, all KYC AML is to increase tax takes. So everyone has to declare everything. That's really what that's about. It wasn't really about terrorism financing and stuff like that. It's really about. They need to know where your money is at all times, so you can't leave the system. Okay, fine. We live in their countries. They want those rules. It is what it is, but they just don't like this whole system yet."
+    },
+    {
+        "speaker": "C",
+        "text": "So it sounds like Uniswap was prepared for this. So they just put out a tweet thread saying, today Uniswap Labs received a wells notice from the SEC, and we are ready to fight. This is the latest political effort to target even the best actors in crypto, like Uniswap and Coinbase. And then they follow up saying all Uniswap products and the Uniswap protocol are unaffected. And then they go on in a short little thread. Again, sounds like the details are still uncertain here, but it also sounds like Uniswap. I mean, they received a Wels notice, so they were informed that the SEC intends to sue them. That's what a wells notice is. Sounds like they got this wells notice at least a number of days ago, if not a couple of weeks ago."
+    },
+    {
+        "speaker": "A",
+        "text": "And hopefully they've got the resources to take the fight to the courts. I mean, because that seems to be the only way here. And I think that's purposefully done to create speed bumps. You know, the SEC kind of often knows it's going to lose, but it does it to slow the whole industry down."
+    },
+    {
+        "speaker": "C",
+        "text": "This is the take that Jake Stravinsky gave me when I talked to him last, that it might be the opinions of some of the more decelerationist regulators, especially the Biden administration, who I would classify this as, is that like, they might want the SEC to be even more hostile to crypto as a whole, up to the point of, like, you have to lose in court, and that's how regulation is determined. So if you aren't fighting and losing, then you're not trying hard enough. So go ahead and take as many people to court as possible, and then the law. Well, what is okay and is not okay will be determined by in which core cases does the SEC lose? And that's how regulation is set. According to one philosophy, which seems to be how SECs operate."
+    },
+    {
+        "speaker": "A",
+        "text": "It slows everything down, which suits everybody. Right? Because if they're all terrified about it, you can see almost every other central bank in the world of certain size is working on cbdcs. The US won't, because it's terrified of making the move. The US has a history of this, and I wrote some threads about this in the past. So after the US left the gold standard, everybody now needed to exchange currencies with each other. And the US was like, well, we don't really want to be involved in this, because they were worried about what was going to happen to the dollar. The UK started the foreign exchange markets and it became the biggest market the world has ever seen. And the UK dominated that market ever since. Second one was the offshore lending in dollars. So the US was really worried about dollar circulation outside of the US, didn't know how to deal with it. Same thing with the reserve currency. We were on. Fuck this up. They just basically restricted us bank lending to various entities. So the UK started the eurodollar market, which is the offshore dollar market, and it siphoned through other global banks. It became the largest market the world has ever seen. The US missed all of those. So that's why Libor, the London interbank offered rate, is the interest rate for the entire world, or was, until they've just changed it to sofa. Then it happened again in the very late eighties, where the derivative market in the US was basically the Chicago Mercantile Exchange and the Chicago border trade. But then the swaps market was developed and it was an OTC market and it required bank regulatory capital. The us regulators, to protect their own exchanges, said, we're going to make it so hard for you to do that. You're not able to. So the UK started the swaps market, which then became the whole OTC derivative market, which based out of the UK, which became a 1.4 quadrillion dollar market. So the US has a history of doing this in its fear of screwing up. I get it. You're the incumbent, you've got a fear factor. The UK has an innate ability to arbitrage that they see the opportunity. That's why the City of London is so big. The UK stock market is small. It's because they took all of the business from the US. And what was very interesting is they see the US fumbling the ball yet again with crypto and the UK stood up and said, we want to regulate this properly, we want to bring it here to the city and we want to turn this into a huge market. And theyve done this. This would be the fourth time I remember speaking to the guys at Coinbase about this. I think it was Brett who runs their institutional side. Im like he grew up like me, in the traditional finance industry. Back in the nineties, all of the main offices of all the us banks was London. Goldmans biggest office, London. JP Morgan's biggest office, London Morgan Stanley's biggest office, London. All of them because of this. And slowly, after Basel three regulations came in, in the early two thousands, capital went back to the US, because the US didn't put such stringent things onto the balance sheets of the banks, so money flowed back. So it just feels that the opportunity here is this whole thing to happen all over again."
+    },
+    {
+        "speaker": "B",
+        "text": "It sounds like it. And I guess when you paint the history like that, it does seem like the US has often pulled the handbrake on financial changes and technologies, and kind of been a laggard with respect to that. But if you look at this from a non finance lens, and look at this from a lens of it's a technology like the Internet. The US has also had a history of being kind of first movers dominant, like the 1990s, like building Silicon Valley, all of these things."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes and no. When you're in a monopolistic power situation, look at Google's inability. And I know the Google web three team well, they understand it, yes, they do. They think it's great. But even the CTO of Google, as far as I'm aware, is a huge web three fan. But they can't do anything because it's going to disrupt their own business."
+    },
+    {
+        "speaker": "B",
+        "text": "So this is classic innovators dilemma type of stuff, where the US is the."
+    },
+    {
+        "speaker": "A",
+        "text": "Incumbent monopoly of money, global money, and it's fearful of changing its system in case it loses control of the system. So this is why they've kind of, if you think about it on this kind of spectrum, Coinbase good, binance bad. Yeah, because Coinbase is within the walls they've now given. They bless them with a monopoly, basically, and shut out binance, which is the world's largest exchange, which is probably chinese controlled, in as much as Coinbase is us controlled. And therein lies the separation, much like chinese tech firms, us tech firms. So this game is being played out literally everywhere we see, even the ETF, for them, is quite funny, because the ETF they think of is keeping the money within the system. It has to go through the intermediaries and the middlemen and all the checks and balances that they've got, so they know where it goes. I actually think of it differently. I think it's a Trojan horse of cryptoland put into fiat world, because what you do is you give people a taste of what this is and they will move out the risk curve, they always do, and they'll come into crypto land. So I think the SEC and the us government think that it's a victory to channel assets through the ETF. I think it's a victory for Cryptoland as a Trojan horse."
+    },
+    {
+        "speaker": "B",
+        "text": "Pyrrhic victory, then. So, Raoul, for the rest of this episode, I think we're going to be zoomed out, and maybe we could just kind of zoom out on this issue. Do you think that these types of handbrakes that us regulators are pulling right now, will that slow us down at all? And in particular, when we're looking at the bull market that we're in right now in 2024, will that slow down the bull market? Could it disrupt the bull market? Is this an impediment in the medium to long term?"
+    },
+    {
+        "speaker": "A",
+        "text": "No. Firstly, obviously, it's a global marketplace. Secondly, bitcoin's got the seal of approval. ETH will get the seal of approval at some point. What you've now created is capital inflows. Now, this is not direct investment, because it doesn't go directly into crypto land. It's like a trade deal. That money gets recycled in the crypto economy and out the risk curve, profits get recycled into VC. VC creates new products which create the new opportunities for the next cycle. So I don't think it slows it down because that still continues. Mom and pop in Ohio are not going to be using uniswap to trade some hundredth token, so I don't think it really matters. The issue actually is, as you alluded to, is I just feel sorry for us innovators. That's the issue. They're having to move. I'm off to token 2049 in Dubai shortly. Dubai is attracting a ton of talent. Singapore, slowed down a bit. Hong Kong, getting talent back again. Europe, getting talent. Bizarrely, Switzerland's got some great talent going on there in Crypto Valley. UK is getting talent, and others are moving offshore elsewhere. It's a shame."
+    },
+    {
+        "speaker": "C",
+        "text": "As we enter this bull market, you've seen your fair share of crypto cycles. This one's already manifesting differently. We bitcoin pass all time high before the havening, which is this hallmark of what a crypto cycle is. First the havening happens, and then bitcoin hits all time high sometime nine months later. Well, now that order is happening in reverse. Also, this bitcoin ETF thing is perhaps the reason why that's happening. Um, overall, there are some things about this particular bull market that are different. Uh, and this, I think, would be expected. As time goes on and the crypto industry matures, things are going to change. Like, we can't be having this, like four years, like 300% cycles over and over and over again. Like, we have to, like, be less insane as an industry, um, in order to get mainstream adoption. But overall, like, how are you, um, how would you characterize the flavor of this particular bull market as with the data that we've been able to have so far?"
+    },
+    {
+        "speaker": "A",
+        "text": "So, as ive spoken here before, this is all driven by the liquidity cycle. Its actually a macro cycle driven by the refinancing of government debts. Because everybody reset interest rates to zero in 2008. They set their government debts all at three to five years. Gives us a four year cycle. That was the exact point, the launch of bitcoin. Its also the us presidential election cycle. Its all the same thing. And election cycles, they give out candy to the kids, which is their way of stimulating. So it's all part of the stimulus cycle and debt refi cycle. So I don't think that changes because the debt issue is still too big. Okay, so what is the nuance of the cycle normally? Normally we've only got three data points, but the crypto spring, which is the first year after the bear market, this has been a strong one. Bitcoin was up 150% or whatever. So that's pretty strong because we brought an extra source of demand in, as you allude to, with ETF. But that actually came later. But it was front running by hedge funds and participants, us."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Is that what we're in, by the way? Now, Raul, is crypto spring like the."
+    },
+    {
+        "speaker": "A",
+        "text": "Year we're just transitioning to crypto summer, which is. I'll come into in a sec. Okay, so crypto spring transitions to crypto summer, and that's usually happens after the halving. And after the halving, you see something that I know everybody's getting shit for right now, is if you go back to 2020, after the halving, what happened? Eth, bitcoin bottomed, and then it slowly based, and then it started outperforming. That's when the market takes on risk and goes out the risk curve. And that's when you start to see bitcoin dominance coming down, all of that kind of stuff. That's what the summer is. It's also altcoin season. It's when we hit what I commonly refer to as the banana zone, when everything goes bananas. Right, the bit of crypto magic. Now, this banana zone is interesting to me because we've got this new source of demand. This is the most reflexive market ever, because the more people join the network, the more the price goes up, the more it encourages people to join the network, the more the price goes up. And obviously that reflexivity works in reverse, which is why we get strong bear markets. But basically, the world is underweight this asset, because it's still a new asset, and it's an adoption curve. So over time, more and more people join the network as investors or users. So I think we can see a second wave of panic into the bitcoin ETF from people. I was speaking to a good friend of mine who's a very well known hedge fund manager, or ex hedge fund manager, and one of the billionaire crowd, and he's like, raoul, when do you think bitcoin hits 100,000? I said, probably the summer. With the demand and the ETF kind of feels like sometime in the summer. He's like, so much wealth is getting made in crypto, it's making the billionaire class nervous. I said, what are you talking about?"
+    },
+    {
+        "speaker": "B",
+        "text": "What?"
+    },
+    {
+        "speaker": "A",
+        "text": "And this was a lovely insight. He's like, okay, there's two groups here who all they care about, they're so rich. All they care about is where they fit on the rich table, right? They can't be the Silicon Valley guys, but there's this whole group that compete with each other for how wealthy they are."
+    },
+    {
+        "speaker": "C",
+        "text": "It's not even about scoreboards anymore, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "It's like a scoreboard."
+    },
+    {
+        "speaker": "C",
+        "text": "When you're in the top 10,000, you can kind of count your way to the top, and you really know exactly where you are."
+    },
+    {
+        "speaker": "A",
+        "text": "And so he said, theyre all going to panic, that theyre going to lose relevancy. So theyre going to panic in. Theyre going to panic into bitcoin, the bill Ackmans of this world, and all of these people. So I thought that was funny. But he also said, the other group is the billionaire property developers. He goes, these guys are losing relevancy fast because of commercial real estate. And these guys have been lording it around Palm beach and everything else as the kings of the hill. And they're worried about their relevancy because once you're worth $5 billion, it's not a wealth game anymore. It's like, am I richer than my neighbor? That's all they care about. And so he's like, I think that they'll probably get involved as well. And I think that mindset is pretty true. Everywhere people see bitcoin going up, and then you hear that your mates are playing golf or having a drink, and he made money in it, and then you think, I've got to make money in it. And this is the reflexive loop. So that's what crypto summary is all about. It's the fomo the madness, the insanity that crypto becomes. But it also drives adoption, drives money into the vc again. It flushes money through the system, allows people to build new product, which is the next cycles gains and all of this stuff. So that's great. And then we go into fall, and this is where the complications lie. Crypto fall, which will be historically 2025, they've generally finished at the end of the year. We don't really ever know exactly. I think this cycle's maybe started a bit earlier. I don't know. And falls can be the most tricky part. This summer is the easy bit. You just shut up and do nothing. A number go up. Fall is tricky. If you go back to 2013, we had a 50% sell off. People thought it was done because it had already gone up, I don't know, 20 x or something stupid. It then corrected 50%. Everyone thought it was over. And then it moon rocketed in just a way you can't comprehend. Then you get to 2017, same 2017. Everyone kind of thought it was over early summer, and then it did, I don't know, ten x from there it was bananas. Right? That is really hard to deal with because 2021 was a stunted cycle. We never got the accelerated final leg. We had the huge correction. It went up, poked its nose back up in the highs, collapsed. Everyone's got PTSD from that. The real money was made in those previous two bull markets in terms of percentage returns. Everyone now assumes it can only go up three x from the all time high. There is actually no evidence of that. Maybe something was weird in the last cycle because the other ones did a lot past the all time highs. So im slightly so. How I think of it is a distribution curve. Middle is it kind of does what its supposed to do until sometime mid hd to 2025. It tops out. Okay, that would be normal. That would be bitcoin as a price target of call it 200,000, something like that. Three x, the all time high kind of thing. I would give a 60% probability. I think there's a 20% probability that people who are calling this a left translated cycle, that is, we've brought forward demand because of the ETF. It dries up. We're overperforming for this stage in the cycle. I think people saying that tend to be one cycle, people because they only saw the last cycle because others have outperformed earlier on. So anyway, okay, there's a 20% chance of that. Then there's a 20% chance that this turns into a full blown bubble cycle. A 2013, 2017 because of this new dynamics. You throw in an Eth ETF as well. You throw in the $65 billion of vc that went into the last cycle. Somebody comes up with some killer applications, before you know it, there's 200 million people playing a game. There's stuff like this going on, okay? That could create something crazier. And I'm continually assessing these probabilities in my head. And because there's so many people who I've note have PTSD from the last cycle, the stunted top, it's less translated. They're going to take it away from us, starts to move my probabilities, that you get a correction and then a spike, you can't predict that because everyone's going to hate you if you're wrong. Like, I got hated at the top last time by thinking we were going to have that. And it's also very difficult to manage. It's complex, I would say, but we don't have to care this year, which is lovely."
+    },
+    {
+        "speaker": "C",
+        "text": "So I want to add one, bring up one conversation here about the stunted cycle of last cycle. 2021, end of 2022. We had the rise of interest rates, which perhaps was the cause of the stunting, right? Like, we had. We maybe were on our way to do just another stereotypical cycle that we've seen in the past. But then we had the fastest rising interest rates that we've seen in 30 years, and perhaps truncated the whole entire bull market to which the interest rates are still high. To this day, we haven't really seen interest rates come down. Ryan and I, for an episode not too long ago, we were looking at the supply of m one in United States, the US dollar. And it's pretty, like insane how much the monetary, the m one monetary supply expanded post Covid when they, like, issued like $4 trillion in a very short amount of time. Semi checks going everywhere. The supply of m one, like, quadrupled. It went from like 4 trillion to $16 trillion inside of 2020. And then you can see when they turn the interest rates on and you started to see that supply kind of like, turn over and come back down. But, like, to say it came back down is just like, it's not even a blip in comparison to the quadrupling of the m one supply that happened. Like, we are just starting to marginally make a dent in it. It's almost not even there. And so, like, really just the emphasis here is that, like, all that money that we printed in Covid is still out there. It just went into, like, money markets. It went closer to home, it went closer to the Federal Reserve. It created into bank, commercial bank deposits on the, on the Federal Reserve. It stayed risk off because everyone just got walloped in 2022 in the markets. And so to add to the case that this is the 20% more bullish scenario, since that money is still out there, it's just waiting, in my opinion, just waiting for the floodgates to open back up and for that, to all of that real capital that's inside the traditional system to work its way back down the risk curve. And it just needs a lowering of interest rates in order to add the jet fuel onto the fire. There's, there's, where there was $4 trillion in m one in 2020, in 2020, there's now $16 trillion of m one out there now, which could all end up moving down the risk curve. We just haven't seen that move yet."
+    },
+    {
+        "speaker": "A",
+        "text": "Look, I think that's very valid, but let's look at the scenario where rates don't come down much because that's what people are worried about. We don't need to worry about a bubble cycle. It would be nice if we get one. But what we have to worry about is the other stuff and trying to figure this out, a lot of people on Twitter saying, well, rates are never going to go down, not with inflation. This slow. A inflation is lagging. All of the heavy stuff of inflation, rents and stuff lags significantly, so it should continue to deflate. When you look at the trueflation index, it keeps falling. So I still think that game is still to be played out. But let's assume it doesn't get back down to the levels and they don't cut, or they cut a little bit because they've got to finance the debt. Right. This is the problem. This is what gold is sniffing out right now is how are they going to make the interest payments on the debt at 5.5% rates? Well, it becomes a compounding of new debt issuance and they'll lose control of the bond market, which means they have to do yield curve control, which would be printing of money. But within this, let's assume that they do manage to get squeezed in a few rate cuts. 75 basis points. Well, that reminds me a lot of 1995. In 1994 we had a massive move in rates. Banks went under same situation, markets puked, they hated it. And the Fed, everybody thought there would be a recession, didnt get one. And the Fed cuts twice or three times, 75 basis points, nowhere near where it would come back from. And they kept them on hold basically. Until 1998, when the asian crisis came. They cut it a bit and then raised it once, but nothing really. It was basically stable rate rates. So everyone's like, well, if they lead rates here, well, that's nightmare for the markets. Well, a, the cost of 5% interest rates in a market that does what ETH does about 175% a year annualized. So 5% interest rates are irrelevant, which is why you can have funding rates of 65% and people still pay them. Secondly, back in 1995, 96, 97 into 98, the market went up. The S and P went up 160%. And that's when people would say inflation kind of rebounded a bit. All of the usual stuff was not bad. The markets don't like rate of change stability more than happy with. Everybody adjusts their cost of capital, and everybody carries on their business. Now, obviously, if you bring rates lower and they bring it lower faster, and they push more liquidity. Liquidity is actually the big thing in the system. There's various ways of measuring liquidity, but liquidity has been rising global liquidity, not by much, but enough that bottom the crypto markets and everything else and the forward looking indicators suggest liquidity continues to come into the system, and that liquidity ends up flowing down the risk curve, or acts as a debasement of fiat, because it's a global liquidity measure, which optically pushes up the price of assets."
+    },
+    {
+        "speaker": "B",
+        "text": "So you're saying that even if they don't decrease rates, it's still kind of bullish in crypto? I mean, the base case that they."
+    },
+    {
+        "speaker": "A",
+        "text": "Even if they put them up another 50."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "50 basis points, that rate of change is low. Right. It's not really a problem for markets."
+    },
+    {
+        "speaker": "B",
+        "text": "To digest, as we're still kind of looking at the backdrop of this crypto bull market and the summer that maybe we have now recently entered. Raoul, I'm curious on this word debasement, because that is always looming in the background from a macro perspective. And the birth of bitcoin was sort of based on the debasement story. I saw a tweet you recently put out. While everyone is worried about 3.5% inflation, which is our current inflation rate, the real issue is the ongoing 8% per annum debasement of currency on top of inflation. Here's the kicker. Your hurdle rate to break even is around 12%. What do you mean by hurdle rate? Does that mean, like, the amount that I have to earn in the market with my investments in order to not get debased?"
+    },
+    {
+        "speaker": "A",
+        "text": "So let's first understand what debasement does. Debasement of fiat currency overall. So I'm using a global liquidity index, which is the 8% means that as the central banks create more fiat currency, assets optically rise, particularly us assets, because it's the us dollar. As the global reserve system, however, variable income doesn't go up. Fixed, scarce assets go up. So scarce assets go up versus your wages, prices go up versus earnings, p e ratios go up. Once you understand this, you stop fighting p e ratios and saying the market's expensive. No, it's debasement. It pushes up the p and keeps the e growing roughly in line with the economy. That's the difference. So when you understand that what they are doing here is essentially creating liquidity to buy the government bonds to finance the deficits, that's they're all doing that is at 8% a year, and has been ongoing since 2008, it was basically agreement amongst all the central banks that the only way out of this, this is this whole everything code thesis that I've been working through, is that the only way out of this was to use liquidity from the central banks to finance the government. You now hear a new word, which is really the everything code. But there's a new fancy expression called fiscal dominance, which means central banks become more attuned to helping the government finance their deficits than they are about unemployment and inflation. Fiscal dominance is a fancy word for the everything code, which is let's debase the currency to pay the bills."
+    },
+    {
+        "speaker": "B",
+        "text": "They used to call that MMT. Do they not call that MMT?"
+    },
+    {
+        "speaker": "A",
+        "text": "There's another way of MMT is kind of another way of doing it. It's all the same thing is I'm going to magic money to pay my bills. Now if we could all do that, we'd do that too. You can't help yourself. You can't help yourself. If you've got the magic printer button, you can't. So that's the 8%. So your wages aren't going up as much as asset prices are rising. So why does that matter? Well, what is an asset? An asset is a vehicle for your future consumption. You've deferred your consumption today to be able to use that money in the future. Now, why do we invest is we take on a bit of extra risk to make that money worth more than it would have been, because we're taking the risk of locking up our money in an investment for a long period of time. We need to get paid for it. Okay? And then you add in the generalized inflation rate I took, global inflation is maybe 4% so that gives you this 12% hurdle rate. Okay, that's fine. What is the return of the S and P 500 annualized since 2012? 12%. And I've shown these charts over and over again. Divide them by the balance sheet. None of these assets have gone anywhere. There's only two assets in the world that have gone anywhere. Technology stocks, which are 17% a year. But even if you pay taxes on capital gains, you're probably just about breaking even. On the S and P, you're actually negative. Then you've got crypto, which is like an alien asset class that does something like 175% a year. If you're taking Ethan as your benchmark, 175% a year, including down 80% markets. So that's how you get to this understanding of debasement. What you're trying to do is make sure your future self thanks you for the decisions you make today, is that every time you try and buy something, it's now getting more expensive versus your wages. So many people of your age are seeing this with housing. So, fuck. How are we ever supposed to do that? That whole equation of the mismatch of asset prices, which is your future self and where you are today, is what's driving the speculation economy. So, us citizens spent $108 billion on lottery tickets last year. 108 billion. It's a one in 300 million probability of winning the big lottery. And maybe winning a million bucks is, I don't know, the actual odds, but let's call it one in 50 million. Okay? You can take those odds, or you can go to the meme coin casino of the wild west, and you will get better odds. And that's what people have done. They've done it with single day options in tech stocks. They've done it with options in general, and they've done it with crypto. And it's much easier to speculate in something that has a trend as opposed to a random distribution. So, if it's trending, even if you buy generalized shit, you can make money in crypto at this point. But that's not an endorsement for that at all. It's an endorsement for the speculative behavior, because they don't get a chance. This is what people also don't understand is, okay, so we try and educate them. Say, listen, if you want, just buy some bitcoin or some ETH. Let's use bitcoins, easy numbers. So they've got ten grand in savings. They can't buy a house. They can't make a deposit. They can't do any of it. So then they look at bitcoin and say, where do you think bitcoin is going to go? A million dollars. Okay, that's a 14 x. My 140 grand in five years time probably still won't get me the deposit on a house. So what do they do? They look for bigger risk rewards, and they're not given the tools because a lot of people are new investors. They don't really know. This is one of the things that you guys do, and we do at real vision, is really try and say, okay, if you're going to speculate, you're going to take more risk, we're not going to judge you for it, but we're going to try and help you do it. This is this whole don't fuck this up thesis that I've got on my t shirt."
+    },
+    {
+        "speaker": "B",
+        "text": "What is that thesis?"
+    },
+    {
+        "speaker": "A",
+        "text": "Don't fuck this up is something that's actually been now trending all over Twitter. In fact, somebody's even sort of meme coin completely against the idea of this. So don't fuck this up. It's like, this is the biggest gift, the biggest macro opportunity of all time. It's been ongoing, really since like, 2010, but investably for most of us, 2013 or so, this is the biggest thing of all time."
+    },
+    {
+        "speaker": "B",
+        "text": "What is specifically like crypto?"
+    },
+    {
+        "speaker": "A",
+        "text": "Investing in crypto is the fastest adoption of any technology the world has ever seen, except for AI. That's just come the fastest accumulation in value of any asset class in all recorded history. The fastest growth of number of users. That is adoption of any asset class in history. The largest price appreciation in returns of any asset class in history. This thing is an alien, and it is the biggest gift to people. I've talked about this for almost a decade now. Oh, from a decade from when we started real vision. This is a absolute fucking gift. So what are you supposed to do to take the gift? Don't fuck it up. And what that means is, own the large crypto that have proven network effects. There are only three with network effects right now that are fully proven out. Bitcoin, ETH, and Solana has come into that fray and has got provable network effects. There are many others that have some elements of network effects that are slightly lower down. Okay, but let's assume you could put your money in those three. You'll be fine. Put 90% of your assets there, they will go up. Well, if you did an equally weighted basket, you'll do very well. Thank you very much. 10% feed. You're in a djen. Do what the fuck you want, and you will learn. You will learn very quickly, like all of us have. You will end up with a wallet of shame in 2026. And you'll look at it and go, really? Did I own that shit? But you'll have had fun doing it. You'll have learnt a bunch of lessons. And I, who knows? You might get the hundred x. You probably won't. You'll see somebody on Twitter getting it, and you'll think, it can be me. It can be me. And you'll do the rotations at the wrong time. But this way, you get to participate in the madness because it's kind of fun. But what can you lose? 10%? What's the rest of your portfolio going to do? Five x? You'll be fine. So don't fuck this up, as that is one. Secondly, don't use leverage. Leverage is just a way of you to have your coins taken away from you. Your one job is not to lose your coins. You just hold them for the longest period of time. The more money you will make over time. So just don't let anybody have your coins. That's why I don't use defi. Anything that is involving yield is taking an extra risk. Staking is different. You've got the currency risk in staking, which is your eth goes down or your soul goes down, or whatever it is. But I assume people are prepared to do that because they're already in those assets anyway. But once you start getting to restaking or all sorts of different stuff, you're assuming a different risk from the market in which you may have to part with your coins. That is rule number one. Don't park with your coins. Do that in your 10% bucket. If you want to play around with Defi, do that, but just don't part with your coins. This was the same thing about what happened with all the sexes and the centralized exchanges. What happened with everything is that the other thing is self custody. At worst, leave it on Coinbase. It's a government monopoly, but at best, self custody. Don't part with your coins. I've had money in MF Global. When that blew up as a bank, I lost all of my investments, and it took seven years of court cases to get them back. Everyone's going through that now in crypto. Don't lose your coins. It's pretty simple. That's the don't fuck this up thesis. It's like hash DTFU, and people resonate because so many people fucked it up last time around."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, look, I think that is incredibly. Let me just. Plus one that is incredibly practical advice. And I think you're right in terms of, especially first and second cyclers. They need some portion of their portfolio to play the games. It almost sounds like a sex ed type class. Right. This is the reason abstinence never works. You got to teach them kind of a safe investing, basically. And that's what we're talking about here in these cycles. I want to get back to that comment that you said, because some people will say, raoul, you're actually wrong about this. You're saying crypto is being adopted even faster than the Internet, but we don't see it. Where are the real use cases? Yes, we see it in gambling. We see it in meme coins. When you think about adoption, you say it's being adopted faster than the Internet, faster than any technology aside from AI. How do you measure that? I was looking at a tweet, and I think the source of this is crypto users. Maybe a crypto.com study partnered with World bank, crypto users versus Internet users yearly growth. And then it kind of charts over a ten year time period what crypto is on a trajectory to do as compared to the early Internet. And I think they measure this by the number of people around the world who are holders of crypto assets. Is that how you measure? Is that a fair proxy?"
+    },
+    {
+        "speaker": "A",
+        "text": "And everyone will debate this, but that's very mid curve. What this is is, okay, we're looking at rates of growth. So it says 516 million. I think the number now is 550 or something million people. Okay, there is not 550 million people. It's 550 million active addresses. But what are we comparing it to, the Internet? What are those numbers? IP addresses. How many IP addresses do you have? I have no fucking clue. How many wallets do I have? I have no fucking clue. It's a lot, right? Compare them. That's all you're trying to do. So that's, you know, anybody argues in the middle is just, again, mid curving it. Oh, well, there's not that many users. So let's go back to the use case. Wealth is a use case. People are making money. That money gets recycled to the economy. That's good. So creating something that has value, all value is a memetic. It's perceived value. It doesn't have to be utility value. Gold is a memetic. Religion is a memetic. So don't overthink that. Again, very mid curve. When people start talking about what is the value? Okay, stable coins. What are stable coins? Remember the story of the eurodollar market? Well, the eURUSD market is great for companies who need to borrow and lend in dollars because most 87% of world trade is in dollars. What about people, you ever tried to go in the bank in the Philippines or India and try and get dollars? It is not easy. But now they've got a fractionalized euro dollar market. This is dollar dominance writ large. Okay, so that's super interesting. But it gets more interesting than that because stablecoins are being used by corporations. So there's capital controls in Indonesia and Malaysia and in China. But those two nations trade with each other a lot. So as opposed to filling out all the paperwork for capital controls having to do all of this, they're using stablecoins for instant payment. Brazil is doing a lot of this as well. So we're seeing a lot of uses of this globalized dollar market, which is the stablecoin market. It's on crypto rails. It's like private sector cbdcs, but for dollars. Okay, fine, that's great. And that's biggest. Then we've got, we're obviously seeing the beginning of DPIN. That's interesting. Some of these are getting quite big. Helium is getting pretty big. Hivemapper is getting pretty big. So very interesting. We've got to mark that down as, ok, there's some real use cases of bootstrapping networks by using tokenized incentive systems and build it on a web three stack. Great. We are seeing the financial system building on top. We know because they've all said, and this is my thesis from 2013, the entire financial system will go and tokenize rails. Why is it not already? Because it doesn't work fast enough yet. It cannot simply support at the level of security. The financial system just can't do it. Now we're getting one step closer with when fire dancer comes. Why fired answer matters. Jump trading. They understand the game. Are we there yet with Ethereum? No. So it has to be a settlement layer. Okay, that's fine. Ethereum works well as a settlement layer. But will they use a regular layer two for this? What, for the entire futures industry? No, they're going to have to find something. Now whether that's a Nasdaq layer two. Well, we've just seen that with base. Okay, that's interesting. So look, everything is coming into place for that. And we're seeing asset managers testing out this thesis by tokenizing stuff. But we haven't even started that game yet. But when Larry Fink, the world's largest asset manager, tells you he wants to tokenize every single thing I tell you that every single firm in Wall street understands this, too."
+    },
+    {
+        "speaker": "B",
+        "text": "How big of a deal is that? That's been new this cycle. I remember all the previous cycles of institutions are coming. And what, I mean, what is more institutional than Blackrock and Larry Fink saying, right, we're."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I said, this last cycle is like, I knew all these people in 2020, I was talking to them all. They're all building Goldman, JP Morgan, Morgan Stanley, Blackrock, Apollo. I mean, every single firm has a web three team, a blockchain team, all of them. So they know it's coming, but they've got a. The same speed bumps that we've all got to face, which is the bloody us regulators."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, do they have some leverage there? I've always thought that the black rocks of the world would be a heat shield, would be sort of like they would absorb, they would push the us government apparatus in a certain direction. I know it's not one in the same."
+    },
+    {
+        "speaker": "A",
+        "text": "When they're ready, there's no point pushing for the tokenization of all assets when we don't even have a blockchain that can support it. I mean, that would be dumb. We would score an own goal, and so would they. Now, Australia tried to tokenize their exchange, gave up. A friend of mine worked for London Stock exchange. They looked at it for a number of different things. Many of the futures exchanges have looked at it. We're just not there yet. We're just not there yet. There are some protocols that are getting closer. Swe, which I'm on the foundation of, just so disclose that. Object based move protocol is bloody fast as a layer one, and very interesting. They've got chance, but we're still not there yet. The compute's not big enough to manage it all. We've just seen Solana with its scaling problems. ETH went through this last time around. If you go back to 2020, 2021, ETH had the same problem. Massive congestion issues. Bitcoin's had it before. It's normal. This is what adoption looks like, but we're just not ready for it yet. So it is coming. Gaming, that's another one. And people don't really understand why we want games. Feels like a forced narrative. But the forced narrative will reveal itself over time once you realize that the assets that you own in one world may be transferable to another world or just transferable into money."
+    },
+    {
+        "speaker": "B",
+        "text": "So the contours of the bull market that we're in, you think it'll be a four Seasons bull market like the previous three? Right, so where we have our spring, which we've had our summer, and then our fall and our winter. And the timeline will roughly correspond to the previous in these four year cycles, and not because of the havening, more because of kind of like global liquidity and election cycles and what the rest of the world is doing. Just happens that the havening kind of is on that same schedule as well. That's kind of your base case for the cycle in the seasons themselves. So we are now in summertime. The assets that we'll appreciate most, do you think, is this blue chip bitcoin ether, Solana? Or you also said kind of like moving out to all coins, or is it impossible to predict? Is it kind of like these narratives that pop up over time?"
+    },
+    {
+        "speaker": "A",
+        "text": "What benefits have observed is things that are getting adoption, that are earlier on the adoption curve outperform. ETH killed it last cycle as a chain going from it's been proven, now it's gone through its bad times. Lindy effect in play. Okay, now, it then exploded 47 x from the low right and then established itself firmly as the second most dominant player in the space. If you remember, last cycle, there was three breakouts. Really? Well, four. One was Luna that went three breakouts. One was Solana, one was avalanche, and the other was probably polygon. Now, who was the winner? Well, the one that got the most adoption ended up being Solana. It was the one that came from the bottom down, 97.5% from this cycle. Like ETH was the previous cycle, it's gone into now accepted as an adopted ecosystem at scale. Who's the next one? Who's the next Solana? The next eth of this cycle. That's where the real money gets made. Because those first cycle, you've got nothing to compare it against. You can't say, oh, it's already up five x versus all time high. You've got nothing, just blue sky charts. And that's why you tend to get these ridiculous first time runs, like Solana last time. And I'm very interested in what that's going to be. I've got two or three ideas what it might be, but who the hell? I mean, I'm just not good at this get. I'm good at the next bit, which is see what's getting adoption properly, and then that one. That trade is relatively easy. This trade is more difficult to figure out. What is it going to be?"
+    },
+    {
+        "speaker": "B",
+        "text": "Do you want to share any thoughts you have on what it's going to be?"
+    },
+    {
+        "speaker": "A",
+        "text": "Listening to people like Chris Beniski, Melton, Damieres seeing what ive seen with stuff like the Sui Foundation, I go with the thesis that there are two ecosystems that are probably going to be in the race here, the layer one race, the big adoption, because layer twos is a different conversation. I think its the move protocol thats the Tsui Aptos, may the best man win kind of game there because its different, has a lot of different use cases. And then theres Cosmos, Celestia and others. Those feel like, okay, thats the game to be played. Maybe Avalanche again, but doesnt feel like it should have happened. It got it last cycle. Doesnt feel like its getting full scale adoption. Its kind of in that lower tier layer twos. That's a whole different game being played out, but that's not this game. So that's how I'm thinking about it. And there could be something else entirely that I've missed just because it's not on my radar screen, because when it happens, it happens fast."
+    },
+    {
+        "speaker": "B",
+        "text": "Raoul, do you think retail is here? The meme coins that you were mentioning earlier, is that an example of retail or is that just crypto natives playing games?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it's uslop fucking around."
+    },
+    {
+        "speaker": "B",
+        "text": "Does retail come during the summer or what's going to bring them?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. So cast your mind back to the previous time. Okay, where are we? April 10. Half of everybody was still in lockdown at that point. We hadn't had the halving. In fact, bitcoin was still on its way down. I think by April 10, I can't remember what that flush out date was. It was maybe now, maybe it was April 10, 2020. I can't remember. It was something like that. So I would say, yes, it's early for retail. I don't get many messages. I still have cynical friends saying, we've got to be careful with this stuff. I don't get them fomoing yet. We will all know because you get those messages. I've had a few, but a lot of them, because whether it's family members and stuff, they've kind of kept an eye on this thing for a while. But otherwise, no, retail is not in. And you know how I can tell? The easiest way is Coinbase active wallets. So they have 110 million wallets or accounts. Sorry. And as of about six months, nine months ago was 9 million actives. I havent checked the last quarterly numbers, but lets assume its like ten or 11 million. Speaking to the guys at Coinbase, theyre like, yeah, probably assuming the market doesnt grow, which of course it will, it should be at 35, 40 million now. Okay. The ETF takes some of that. But most young people wont just buy bitcoin. It doesnt take long before theyre straight out the risk curve, buying whiff and then derivatives of whiff. And then it just doesn't take."
+    },
+    {
+        "speaker": "B",
+        "text": "Only with that 10% though, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Only with 10%."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, I want to go back to the conversation we were previously touching on, which is like the layer one race, the layer one game, because I think you identified a pattern that I really want to talk about a little bit more, where you have, like Ethereum had its breakout year in 2017, and then it's like maturity year in 2021, where we discovered 600 Gui gas prices. And then the first reactions to Ethereum. Bitcoin went through that same cycle one cycle earlier, right? It had its breakout year in 2014 and then its maturity year actually coming into its more modern shoes in 2017. Solana had its breakout year in 2021. That was its first big introduction into the world, and now it's having its maturity year. You're seeing this with just the bottleneck that's being hit with the failed transactions in the Solana ecosystem. So now it's having its maturity year and you're kind of just saying, hey, cycles repeat. Every single bull market, we seem to get a new layer one player entering the game, and then there's a handful of contenders here. Do you think that this is a game that just always is played? Like every single cycle we get a new layer one to really be a new valid player."
+    },
+    {
+        "speaker": "A",
+        "text": "We go back to our previous conversation about where are the use cases for blockchains? And do we have suitable blockchains there yet? The answer is no, probably not in their current form. Now, many of these evolve. Like ethereum keeps evolving. It gets better and better. It makes greater opportunities. It created this time around, the greater opportunities for twos by collapsing the fees and all this kind of stuff. Right, we're getting there, but there is still space, probably for four or five blockchains that dominate. And then over time, maybe it migrates down to three, whoever they may be, we have no idea, because even bitcoin has come into the race by actually allowing some development on the bloody thing. Now, finally grandad woke up. And so I think it repeats for a bit. Then we're going to get at some point, whether it's this cycle or next cycle, we're going to say we're going to have to ask ourselves, have we overbuilt block space? Because every capital cycle comes through this. The mobile phone cycle, the broadband, fiber optic. I mean, they all do it. So maybe that just means that everything past number three, four or five just never recovers even close again. Maybe that's one way. Or maybe we miss a cycle at some point because we've got so much excess capacity. Don't know. I'm still thinking that one through, certainly."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Well at the very least, at least we will be able to know what crypto can really do when it has abundant block space. That's always been a mystery because we haven't really seen what we can do with literally free transactions. There's been a number of startups and a number of chains and other projects that we look at in the space that are now actually getting into the world of just like, oh, we're going to just pay our users transaction fees for them, we're just going to eliminate that from their entire experience. Because block space is so cheap, so we actually don't know what that unlocks."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, cloud compute did this, its exactly the same. If you just step back, all of these people are in the business of selling block space with an incentivized token to do so. Right. Its no different than any other network structure, cloud computing being one of them. And in the end theres still quite a lot of cloud providers, but 80% of the market is in three different companies. And then theres others that you'll use. There's a general level of interoperability on the Internet generally, and it works. It feels like it's going to be that. And then the excess capacity of cloud mints means that it just costs us nothing. Now we're storing terabytes and terabytes of stupid photographs that we'll never look at again because it costs us like $2."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so while it's fantastic that we have entered this world of abundant block space supply, and finally we get to like really take off the brakes of what it means to be like a blockchain developer using trustless block space to do your crypto things. I do also want to put identify a line in the sand that's being drawn here like you identified earlier, which is like the ETF line. Bitcoin has its ETF's. I think Ethereum will get its ETF's. It's pretty well assumed that Ethereum, whether it gets it in May, at the May deadline, or November, at the November deadline, or in 2025, like whatever, doesn't really matter. It's just assumed that Ethereum is getting its ETF. And then down below the ETH network in the market cap stack, any other network is minimum three years plus before getting an ETF. And three years is very optimistic. First you have to get your futures ETF, and then you have to get your spot ETF. There's a line that's being drawn between bitcoin, ETH and the rest of the market. How do you think about this particular part of this phase of crypto?"
+    },
+    {
+        "speaker": "A",
+        "text": "I dont think it matters. Between bitcoin and etH. You capture the essential entire narrative of the space, which is Internet compute, the value layer of the Internet, all of the big picture eth stuff. And with the bitcoin narrative, the store of value, the anti debasement, whatever, you've covered both the technology investment and the money argument. Now, I know everyone fights over all this shit, but let's just simplify it. So you put the Raas, the boomers, through this channel, the millennials can put it into their 401k, which is actually a very big deal, and may change what the structure of bear markets look like, because you can put every two weeks, your paycheck into this. Interesting. And then what that creates is the whole ongoing risk curve. You don't need Solana or avalanche to be tokenized. I mean, to be created in ETF. It doesn't make a difference. It doesn't need the direct flows to win. The narrative needs the direct flows to win. And it comes through out the risk curve, the other side. So I just don't think everything needs an ETF."
+    },
+    {
+        "speaker": "C",
+        "text": "So you're saying as long as the pipes to the top of the market, the bitcoin, the ETF, so long as those pipes are sufficiently wide, then capital will get recycled. And the benefits, the tailwinds will be blown down the market cap stack. And so all of the other chains will also experience the network of the positive effects of the ETF."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly. Now, at some point, we will get an index ETF. That's interesting."
+    },
+    {
+        "speaker": "C",
+        "text": "Just explain a little bit more about that. An index you're talking about, like, of the entire crypto market cap, or like a selected basket, or just elaborate a."
+    },
+    {
+        "speaker": "A",
+        "text": "Little bit more because of the complications of how many things are in it. You don't want it for everything. But, you know, the top 50, there's."
+    },
+    {
+        "speaker": "C",
+        "text": "Some meme coins I would exclude from that index."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, like 99.99% of them. But call it top ten, top 30, because you want to get some of the non layer one layer, two stuff. You want to get some of the deep in and gaming and AI and stuff. So call it top 50 app layer. Yeah, top layer. You get app layer network layer, because those are the two things here. It's the applications layer and the network layer."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, you just have like a BlackRock crypto 30 or something. Right."
+    },
+    {
+        "speaker": "A",
+        "text": "How I think about this. And I've got an asset management company, exponential agile asset management. We have a fund of funds which invest in crypto hedge funds. The entire thesis is this market is going from 2.7 trillion to call it 12 trillion this cycle, to 100 trillion by maybe the end of the 30, 32 cycle."
+    },
+    {
+        "speaker": "B",
+        "text": "Wow. Wow."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. That's just that log adoption curve that I showed you the Internet. It backs out same numbers. Same numbers. If you back out the logarithmic regression channel of bitcoin, you get to these numbers. So this is, I think, in front of us, the largest, fastest accumulation of wealth in all human history. I know it sounds bananas now, but when you double, we double a 2.7 trillion, market cap five, whatever. But once you double a 12 trillion, at the peak of the cycle, it's 25 trillion. Double it again. These numbers start getting la la land. That's exponentials for you. You need to capture the two parts of this equation, which is the network layer, which is where that value really gets accrued, and the applications layer. The applications layer is twofold. One is some of its tokenized, and other is the equity layer. You guys have a vc firm, so you are capturing a lot of the applications layer. And all I'm trying to do here is capture that. This is why it's so important that whole don't fuck this up. It's like, just, it's not hard. Don't lose this."
+    },
+    {
+        "speaker": "B",
+        "text": "It's not complicated."
+    },
+    {
+        "speaker": "A",
+        "text": "But it won't be eth and bitcoin that accrues. They get to a certain level, but it's the whole tail of the space being worth more. As you start building use cases and whatever, that's where the real game gets played. In the end. The real anchoring is here. And that's why an index will do very well over time. And we've seen that from the Nasdaq. New technology comes in, ends up becoming Microsoft at the top of the pile, and it starts moving the whole index, and then it concentrates, and then more money flows into the index, it flows into those, and before you know it, you've got this reflexive loop going on. But we don't have that ability right now. So it's a complex game, which is what we farm out to hedge funds to do it, because it's their job. And give 14 hedge funds other people. I mean, there is a tokenized. I haven't used it, but there is a tokenized index. Someone's got a token. I don't know how legal it is, what we can do. There's also the bitwise have got a product, but then those are closed end funds and that have its own set of problems, so it's not solved yet. To make it super easy."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, we've talked about the seasons of spring, summer, and fall. We haven't yet talked about the next winter. And I don't want to be a buzzkill on this episode, but I'm interested in what you think the next winter will actually look like. Mentioned something interesting just in passing. You said just the existence of a bitcoin. ETF means millennials can maybe dollar cost average paychecks into four hundred one k. And that's different. Are there any factors that make you think that the next winter, whether that comes in 25, 2026, wherever the timeline is, do you think that that will be different? Or do you think we end up with something like 2022? And, man, 2022, shallow winter. Yeah, it was painful. We had scammers, we had grifters, we had insolvency. I'm glad we're done with that. I don't know if it's the worst winter. The Ico mania bull bust was a bad winter was bad, but, like, this seemed also pretty bad. Are we in store for another long Game of Thrones style winter here?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, they all last the same period of time."
+    },
+    {
+        "speaker": "B",
+        "text": "True."
+    },
+    {
+        "speaker": "C",
+        "text": "Wait, didn't the 2022? 2023. I thought that one was meaningfully shorter than the 20. A 17 to 2020 bear market, 2018."
+    },
+    {
+        "speaker": "A",
+        "text": "They're all generally a year. They just feel like misery and death. Right? Was literally six months. Peak to trough of ETH was six months. So. But we like this narrative. Oh, my God, it's fucking drama. It's like, listen, cycles are a function of the space. Everybody is so scarred. If you're in this for the long run, accept them. Don't even care about them. I didn't do a damn thing over the last down cycle because I've been through one before, so I skipped one. I've done two out of the three, so I've got my stripes, but I did what I didn't do. The first one, I did properly this time, which was I bought as much as I could, given whatever cash flow I can, I could get in the depths of the bear market. And I bought two things. One was Ethereum and one was Solana, and I did exactly that, and it compounded my returns. So before anywhere near the markets were through all time highs, I was through all time highs. I did the right thing. And people think they can be clever and cute. They think, I'm going to time this thing. We've already talked about how difficult crypto fall is. Do you have a spike? Does it finish early? You don't know. The easier game is to say, I don't care, I'm just going to continue buying it. But then there's another thing is like some people, particularly in the first cycle or even the second cycle, it starts to really matter. Like, I can do with this cash. I want to buy a house. I want to do it. Do that. If you're lucky enough, you could sell half your portfolio, completely secure lifestyle gains and whatever that means to you. And then you just run the rest and enjoy the bear market for the ridiculousness that it is. All of the drama, who's going to go bust, whose leverage got caught out, all of that. Just go with it. It doesn't matter. As long as you're self custarding your tokens, really, none of it touches you. You just kind of laugh at it and then try and add to it. So you take some off the table if you want. I didn't purposely because I did not want to take anything off the table. I wanted to just keep adding to it. Because here's a different thing. So let's say you put $1,000 in, it goes up to $10,000, you're feeling amazing, and you time the top, you time the top, you take it out. Your thousand dollars means a lot to you, and the market's now down 75%. You will not put in $1,000. You just won't do it. Everybody psychologically thinks, well, I just take out the top and buy it back down. You won't. You'll put in $100, and then before you know it, you're chasing all the way up and you've just fucked the whole thing up to start with. You just don't need the stress. So take some chips off the table, just run the rest and then add when you can."
+    },
+    {
+        "speaker": "B",
+        "text": "Raoul, the way we're articulating this, it's like this is the fourth time around for crypto. And you said, this is the biggest wealth, a generating opportunity, and it's the most obvious trade maybe to ever exist in our lifetimes. And yet smart investors, quote unquote, are still missing this. And there are many skeptics, like you mentioned, you still have friends who text you and have these skeptics you put out this tweet that said, I find it interesting that most of the world's greatest macro investors are big crypto and tech investors, both public and private markets. So you mentioned Stan D. Druckenmiller, Paul Tudor of drones, Alan Howard, Steve Cohen, some of these. But you said many macro posers, I think you're saying, who wish to emulate them on X are still skeptical."
+    },
+    {
+        "speaker": "A",
+        "text": "But posters or poses."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So there's a lot of posers out there, posters on X who are still skeptical. Yet some of the brightest macro minds are bought into crypto. Some are not, though, who are smart investors. What is keeping the skeptics away from this asset class, who still remains to be convinced."
+    },
+    {
+        "speaker": "A",
+        "text": "So if you are an equity stock picking hedge fund manager whos famous for his long, short bets, to admit that theres basically a free trade thats been on the table, questions your whole purpose."
+    },
+    {
+        "speaker": "B",
+        "text": "That sounds like just ego."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, don't forget, you've got thousands of investors, you're managing 50 billion of their capital, and you just go, you know what? This trade's better. I'm off. There's a real psychological hurdle to admit that long, short value investing, whatever, doesn't outperform. And what you get is that classic bell curve that I now find everywhere. It is the most important chart I of all time is like, number go up on the left, number go up on the right. In the middle is, no, it's impossible to. Can't you see the risks you're taking? Don't you know it's cyclical? It goes down 80%. Blah, blah, blah, blah, blah, blah, blah, blah, blah. They're all in the middle of the bell curve because they don't want to accept the simple, stupid fact that a network that attracts more people is worth more. And in crypto, you happen to be able to own that network. It's just, it's built for number go up. But they just think, well, this is crazy. You know, this can't. Yes, it really is that easy if you are actually, and that's why we talk about why you'd own the top three over anything else. It's because those networks have been adopted. So just add incremental people in number incrementally go up. It's just not complicated. But, God, people complicate this whole game, and they find it as if there's a philosophical war that they have to have. It's because it questions everything. I got to this, that in 2021, and I started really uncovering this everything code and the debasement and everything else. And I divided everything by the fed balance sheet, and I saw that technology and crypto were the only things outperformed. That shattered my macro old school beliefs that everything that tech itself, crypto, had been in forever. But tech was a bubble, that it was just always overpriced and can't people see? And one day it's all going to crash, and blah, blah, blah. And then I realized, no, it's just network effects. These companies just keep growing. And it took me a while to completely abandon my framework, where I would be looking for the down cycle to make the gains, because they come fast in a down cycle, if you're sure and completely switch mind, most people won't do that. I completely changed my framework. And then when I started dividing Nasdaq, bye, bitcoin. Because it's got the longest history, it's like it's down 99.97%. So what the fucking point is there owning anything else? Even adjusted for the 97.5% fall, the 85% fall, the 75% fall, even adjusting for all of that, it's beaten the Nasdaq by 99.97%."
+    },
+    {
+        "speaker": "B",
+        "text": "Raoul, I was trying to figure out, coming into this, I was going to."
+    },
+    {
+        "speaker": "A",
+        "text": "Not beat me by 97%. Nasdaq has underperformed by 99.97%."
+    },
+    {
+        "speaker": "B",
+        "text": "I was going to ask you, coming into this at the end, just to summarize how you think of yourself as an investor, if you were to classify yourself, there's fundamentals, investors, there's long, short types of investors. Maybe you're a macro investor, but in hearing you talk this way, I feel like my observation is maybe you are doing two things really well. One is you are a debasement avoider. So you look at debasement, and you try to avoid all of that stuff so that you can preserve your wealth. And that seems to allow you to pick the asset classes that are most interesting for avoiding debasement."
+    },
+    {
+        "speaker": "A",
+        "text": "Without any ideology."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, without ideology. And then what you do is you layer a second layer of analysis here, which is like you're looking for network effect, and you're measuring that network effect, like, through some metric, pretty obvious metric that's out there and open in public. And then you are disciplined with those. So you're avoiding the basement, picking your asset classes, and then you're looking for network effect and investing in that. Is that an accurate kind of framing of how you think about the world and what you do? Or what would you add to that?"
+    },
+    {
+        "speaker": "A",
+        "text": "So what you've done there is identify my secular thesis. So I'm actually a long term investor that uses a secular thesis. I used to always have a secular thesis and then use the business cycle more and be in the timeframe of the business cycle. This would be like, when am I going to time the top in crypto? But I now actually am 80% weighted to the secular thesis because that's what all the gains are. And it's a bit mid curve to be fucking around with the business cycle too much. It was great to get me my entry into ETH and Sol in 2022 because I used my liquidity cycle framework. The business cycle framework. Great. It'll give me some idea of when I might want to take some lifestyle chips off the table. So I don't run everything through the winter, not because I don't want to, it's because I want to take some chips off the table to do some lifestyle stuff. Okay, fine. So actually I'm a secular long term thematic investor that have broken it down to a couple of simple KPI's because I like to keep things super simple and then I use a business cycle and a bit of charting to help me understand where I am in that journey."
+    },
+    {
+        "speaker": "B",
+        "text": "What's the secular part?"
+    },
+    {
+        "speaker": "A",
+        "text": "Secular trend is a long term trend. So demographics, this is all driven by demographics, because it's the demographics that drove. It was World War two that drove people to have too many kids, which drove the wages never going up because there was too many baby boomers in the workforce at the same time, which drove the american dream dying. So they borrowed more money to make up, which drove the use of monetary policy and ongoing debasement of currency, which then the whole thing. And that was the birth of bitcoin because the banks blew up. It's all driven, actually by the demographics. Post world War two, that's a secular theme. India is the opposite. Demographics, 28 years old, average population, 1.4 billion 28 year olds. Pretty smart. Probably going up because GDP growth equals population growth plus productivity growth plus debt growth. India has low debts. Productivity is increasing as you come out of the fields and into the productive economy, particularly India, because it's got this whole fintech layer. And then you add population growth. Well, they got plenty of those and they're 28 years old. So secular themes, long term, decade, two decade themes, those are really investable and make. They're easy. They make any idiot money, technology. All you had to do was buy the fucking Nasdaq. So all you had to do, you had to do one trade in your entire life was just buy the Nasdaq. And you'd have done absolutely fine and outperformed 99% of all hedge fund managers. Half the VC's on the planet. And every active fund passive, I mean, just won the game. It's just what, a secular trend."
+    },
+    {
+        "speaker": "B",
+        "text": "So what is your portfolio like these days? Like in terms of like percentage, crypto percentage. And you know what, I know your style. Like, we're not looking for anything exotic, right? Unless you, unless you want to disclose. But a boring portfolio can be a fantastic portfolio. But I'm curious, how do you think about allocation across different crypto, non crypto asset classes and then just things generally?"
+    },
+    {
+        "speaker": "A",
+        "text": "Preston. So people shouldn't emulate me because I've got a lot of experience with risk taking and I'm comfortable with the risks that I'm taking. I don't use leverage, I use external custody, multisig, all of the things. And im very focused on my thesis, which is youre dead right, its the network thesis. So I then look at charts of assets relative to each other. So I was looking at the bitcoin ETH chart, which I follow closely, which has been underperforming and I think its basing, as we talked about. But the chart to me, that was a standout in 2022, was the sole ETh chart. And that was the chart that got me buying Solana and then going all in, much like I went into ETH all in in about September 2020, 2020, right. I just did it earlier in Solana. And so I am 90, 80% sold. All of my Eth is now nfts. I've been buying high end art nfts. I then have a bunch of the portfolio in the fund of hedge funds in exponential age asset management, and I have 1% in stupid shit like with and doge and bonk goal of those. But that's 1%. So even when I post about it on Twitter, I'm sure some guy is going to, some joker in 2026 is saying you were recommending whiff. Just to be clear, I've got in all of meme coins and everything else, 1% of my portfolio. I am 90%, 80% Solana Raoul, part."
+    },
+    {
+        "speaker": "B",
+        "text": "Of our target audience, I think, is the up and coming investor who might be on their second cycle, maybe even their first cycle. And I think a lot of people are entering crypto for that once in a lifetime opportunity, right. And they're focused on how can I become financially independent. Besides kind of the don't eff it up strategy, which is good, kind of like, you know, general advice or maybe that's the ticket. How do you think they should invest? Like, how do you think they should approach investing in general in terms of where they should allocate their time, resources, all of these things."
+    },
+    {
+        "speaker": "A",
+        "text": "I think the important thing is the DTFU strategy. Number 1. Second, educate yourself. Educate yourself from the right people. So get your sources of information from the right people and actually do some education. There are available courses that are free or paid that are valuable. Like, in fact, coming up next week, we've got the festival of learning and real vision. There's tons of people coming to that, and it's free. And we're there to teach you how to trade in meme coins, how to trade in nfts. And we've got a bunch of people who really know this stuff. There's a whole thing on Solana. There's a whole bunch of other stuff all about learning. So go to realvision.com festival I think it is, and it's free. Go and do that. Educate yourself. Because then eventually, let's say it's cycle two. You too can take the eth bet of the last cycle or the Solana bet of this cycle, whatever it is. I'm still not good enough to do the next bit, which is like, who's going to be the next one of this? I can do that. Who's going to be the number three? That's easy, easier. But you can't do that without educating yourself, studying the space, understanding the players, listening to the narratives, finding out where the opportunities are. So that's the key thing. Dtfu. Just keep it simple. Stupid. I but learn, and next time around you'll really make money."
+    },
+    {
+        "speaker": "B",
+        "text": "Raoul, this has been a lot of fun. Thank you for guiding us through this cycle and giving us some context here. I think you're the perfect guest to have on this. So aside from the festival of learning, which you just mentioned, what else are you guys up to at real vision?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, look, the other thing is, I've got a YouTube channel called the Journeyman. If you heard me speak, you can hear that. What I'm actually looking at is a very big secular thesis about where this is all going and why it matters. The journeyman is my journey to the nexus of macro crypto and the exponential age of technology, because we're all going to that place, which I think of as some sort of economic singularity, which is something I'll come back on and talk another time to you guys about. But I interview some incredible people on that and to nudge people along. And I also do some other stuff like some lifestyle stuff. I did some longevity interviews. I've got one about wine coming up. Just because we're all in this journey together, right? And we want to have some fun, we want to learn some stuff en route. And so that's what the journeyman is all about. So if you haven't watched it, just go over there, subscribe to that, you get some killer content."
+    },
+    {
+        "speaker": "B",
+        "text": "We will include a link for sure in the show notes. I'm curious, has the Aihdeenen bug gotten to you, Raoul? It's part of the exponential age for sure. It's a huge tech theme."
+    },
+    {
+        "speaker": "A",
+        "text": "I was probably the first of the kind of major podcast and stuff to cover this because Emad Mostak, who started stability AI, you guys know, I think."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, we just had him on."
+    },
+    {
+        "speaker": "A",
+        "text": "Emad was an old friend of mine. He was a global macro investors subscriber."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, wow. Oh, no way to run a fund, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I've known it for like 15 years. So we had him on before chatgpt three came out, before everything. Just as he was launching. I've got a whole research service called the exponentialist with another person called David Matin. It's a paid service where this is all it's about. Now, blockchain technology is part of it, but it's the whole exponential age. It's AI, it's robotics, it's evident I its Internet of things. It's blockchain technology, it's genetic sciences, it's the science of longevity. It's all of that. And we cover it all as portfolio. All of that stuff. It's really, really, I wish, you know."
+    },
+    {
+        "speaker": "B",
+        "text": "The one thing I wish about all the AI stuff, the cool stuff that's going on, is that it was, I wish it was a bit more accessible for unaccredited investors for kind of retail. That has been the beauty of crypto, right? Anybody in the world anywhere can buy bitcoin. Doesn't matter how much net worth they have or whether they're a credit investor status. Whereas the open AI's of the world and the chat dpts, it's all vc stuff. And it's much less accessible for the up and comer learning, investing in this field."
+    },
+    {
+        "speaker": "A",
+        "text": "It's even worse than that. Nobody gets to look in an OpenAI. This is basically a monopolistic play. And they've created a monopoly alongside another monopoly, which is Microsoft, Facebook have their own monopolistic play with llama. There's no look in here. Now there's another issue that I've got with this entire space I think OpenAI are using some form of early stage AGI to build product. Sam Altman has said all the way through is I can't take you to there without going through steps because you're not ready. I think they know what there is. And what you do with an AGI is like, how do I get the world ready for AGI? Well, you build out these incremental things and this, look at 500 people. 500 people build products across so many verticals and every three months destroy all competition every single time. If you just observe what the fuck is going on here. We've never seen anything like this. This rate of innovation, speed of market, and total disruption of existing players, that happens. Makes me concerned that as it becomes normal to use AGI or AI to build product. So Ryan and David have this new cool product, this amazing looking, decentralized application with funky ux. And it's really interesting. I just give it to my AGI and so just copy that. But do it for the indian market because it's bigger. And it would say, don't do it for India, do it for this, this, and this market, because this market's growing and you'll get a dollar. What world is that? How long does anything last? Everything becomes like a meme coin at that point. So I don't think I worry actually about things like venture capital in 2030. Something. 2030 I've used as the date. Beyond that, I don't see how vehicles for long term capital cycles will work in very short capital cycle markets. I think the only way is to tokenize this stuff and it becomes how much attention does the product get before it gets disrupted again? This is a much longer conversation we shall have that I can't do today. But this is where I think the world is going. And this is just part of the big picture that I call the economic singularity. This AI thing, I think it's good that it's not investable as well. I think it's going to destroy so much capital because of this dynamic. The dynamic is everybody gets replaced by who's got the fastest and best AGI. Then you're going to get into what the hell is a financial market when there's an AGI? How do we even stand a chance? But this is a topic that stuff I write a lot about in the exponentialists. It's super interesting."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I think we'll have to leave this episode then, since we're short of time on it. To be continued. And we'll have to bring you back and talk about the intersection of AI and even Crypto. Maybe Crypto's got some tools up its sleeve to stave off some of that capital destruction, at least. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "One of my great mid curve moments this year, I've been trying not to mid curve things."
+    },
+    {
+        "speaker": "B",
+        "text": "I've been trying to be dumber this cycle."
+    },
+    {
+        "speaker": "A",
+        "text": "I've been trying to be dumber. And it was the dumb one is like, we all saw world coin. Everyone laughed at it, blah, blah, blah. And they were here in Cayman because their foundation's here. And they asked me to come on this panel with them. And I was chatting to them. I'm like, what are you doing? Why did you just create the world's worst narrative possible? And they're like, yeah, we kind of got it wrong. We're still down what it is you're doing to me, please. Because I can see you've got this passport and this net thing, and it's proof of humanity, blah, blah, blah. And they just answered with such perfection. Well, Sam figured out in 2020 that the AI he's building is going to create a huge problem on the Internet where nobody's going to know who's human and who's AI. So he built worldcoin. I'm like, if you'd have said that, they would have got up to 50 x in the first few days, but they didn't. And so. And then I walked away from that thing thinking, and it had been stuck at, like, dollar and a half rages. And I'm like, I should buy this, you know, because this makes sense to me. And then I mid curved it. Yeah, but is the hardware worth doing? It is their approach, right? Blah, blah, blah. What are people going to say next minute it went up ten x. I'm like, more on rel. Sam Altman says, good buy. Simple."
+    },
+    {
+        "speaker": "B",
+        "text": "You know what? Sometimes I feel like our service as podcasters is to take the stuff that right curve people say, really, really smart people say, and then distill that. So left curve people can actually understand it, invest in the concept. Uh, so I don't. I don't know if we're providing that service sometimes on bank list, but that's what we seek to do. Um, Raoul, this is always excellent to have you on the show. Thank you so much for joining us. And, uh, enjoy summertime. We're in summer, so it was just kick back and relax, and we can just enjoy this thing at least for a few months."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. We don't. This is not the year we have to worry. Of course there'll be gut checks there'll be complications. Generally. Summer. Summertime's the living's easy."
+    },
+    {
+        "speaker": "B",
+        "text": "There you go. Bankless nation. This has been Raoul Paul. Got to end with this. Of course, you know crypto is risky. You lose what you put in. But we are headed west. This is the frontier. It's not for everyone. But we're glad you're with us on the bankless journey. Don't f it."
+    }
+]

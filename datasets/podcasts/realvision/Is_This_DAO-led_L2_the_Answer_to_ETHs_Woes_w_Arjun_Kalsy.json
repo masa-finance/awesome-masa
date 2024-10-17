@@ -1,0 +1,190 @@
+[
+    {
+        "speaker": "A",
+        "text": "Hey everyone, if you like this podcast, go behind the paywall to get privileged access to the smartest minds in finance. Join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off our essential membership for the first year. Now to the top analysis of today's crypto markets."
+    },
+    {
+        "speaker": "B",
+        "text": "What's up, everybody? Welcome to real Vision Crypto daily briefing. I'm Ash Bennington. Today I'm joined by Arjun Khalsi, head of ecosystem at mantle. Welcome, Arjun. Hey."
+    },
+    {
+        "speaker": "C",
+        "text": "Hi. Thank you so much for having me, Ash."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, lots to talk about here today, and we're gonna get started in just a second. But first I wanna take a look at the price action in crypto right now. It looks like the, the rally we've seen the last couple of days continues. Bitcoin trading at 31,243, trailing 24 hours. We're up about four and a half percent on bitcoin, trailing seven days. We're up nearly 21%, trailing seven days on bitcoin. Ethereum trading right now at 1918, still below that two k handle, but up 2%, trailing 24 hours, trailing seven day basis, up over 14%. So the rally very much continues, I should say we've had a little bit of volatility and choppiness here in us equity markets at the open RV DB. That's real Vision daily briefing, our sister show where we talk about capital markets and macro at 04:00 p.m. eastern time, close of business, close of markets here in New York City. 01:00 p.m. pacific. 09:00 p.m. in London. For folks who are interested in hearing more about that. With that said, arjun, welcome to the show."
+    },
+    {
+        "speaker": "C",
+        "text": "Hi. Thank you so much."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, it's a pleasure to have you with us. Let's talk a little bit about what you guys do."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure thing. So Mantle is an ethereum l two network. That's what we're building. And it's got an interesting backstory that mantle was actually born out of a Dao vote. So BiTdao is the Dao which incubated mantle. The DAO participants decided on the forum that they should build some infrastructure. There was a long discussion on what it should look like, what the technology should look like, how we should build it. And then it went to a vote. It was passed, and that's how mantle network came to be. So it's very, very interesting genesis. Typically when you compare with other chains where you start centralized and then you go into a DaO. We were a dao to begin with. Then over the past few months, we've had our testnet live since January of this year. We're going to be going into main net very soon. So things are coming together at a very rapid pace. We've also, the way we've designed the technology and the ecosystem is also unique. It's very decentralized, very open. All the funding which we have has come from the DAO. So we have a treasury monitor where we transparently show the community how much we're spending. What are we spending it on? Line item by line item. So very transparent, run by the community, owned by the community. And I feel more ecosystems should be run by this. So this is kind of a quick brief about mantle."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, well, we're very passionate about talking about new technology and innovation here, I should say. Obviously, this is not something yet that has hit main net extremely early in this technology. Obviously early stage token investing is a highly risky activity. None of this should be construed as financial advice. And more specifically, it's not an endorsement of any particular protocol, coin or technology. But we're here to talk about this innovation. So let's give a little bit of the backstory. You mentioned some of it with Bitdao. Bitdao, obviously something that folks have heard of because of some of the investors in that Peter Thiel, I believe, Dragonfly, Pantera, some other folks that are pretty well known in the VC investing space talk a little bit about how this got spun up."
+    },
+    {
+        "speaker": "C",
+        "text": "So it's a very, again, very interesting story. So if you look back at what was happening in the early 2020s, we had the advent of binance smart chain, and it was this very interesting model where you had the chain and the changed sort of working together, and the model proved to be successful. Right. A lot of value was created. Developers came and built solutions. And then what we also saw was that everybody tried to copy that model. So every exchange out there tried to sort of run with the same model where you had the chain and the exchange working together and creating value. Now, this was like super interesting. Now, when it came to Bybit, the exchange, the founders of Bybit were also sort of the community of Bybit was asking the founders that, hey, why dont we build a chain? The founders decided to take a very interesting path. So what they decided was that instead of building a chain, why dont we build a Dao? Instead we build a Dao. We get all the top investors into this dao. So it has great guidance when it comes to web three, crypto and token economics and investments, everything then lets seed the DAO with liquidity and then the DAO can decide whatever the DAO wants to do. So if you want to create a chain, if you want to build some other product, thats up to the daO. We wont interfere with that decision. But let's go about building web three in a more decentralized manner. And that's how Bitdao came about. And Bitdao was seeded with liquidity by bit. The terms were that 2.5 bps of their daily volume would flow into the Dow. This continued for a long period of time. And now, of course, if you see Bitdao, it's one of the largest daos in the space. We've got close to about 4 billion in assets on chain. And using mantle now, we will have an ability to take these assets, put them to work, and then create even more value for the community and the network."
+    },
+    {
+        "speaker": "B",
+        "text": "We should say for folks who are not familiar, Bybit is an exchange based, I believe, in Dubai and the United Arab Emirates."
+    },
+    {
+        "speaker": "C",
+        "text": "So offices both in Dubai and Singapore. And yes, Bybit has been around for almost as long as binance. Its one of the oldest exchanges out there and its one of the largest derivatives exchanges in the world."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, a quick point of order here, I should say. Actually today we're doing a summer Friday edition of real vision daily briefing. So it's going to air at 01:00 p.m. eastern time. 05:00 p.m. london. Okay, let's talk a little bit about the treasury on Bitdao because that's gotten some buzz. Talk a little bit about how you guys state those numbers."
+    },
+    {
+        "speaker": "C",
+        "text": "So it's very interesting. So if you go to mantle XYZ, if you go to our website, you can see the entire breakup of the treasury. So the treasury is all on chain. So you can go and see the smart contract. You can see all the different tokens we have in there. So we've got, I would say, a lot of value on chain in the Dow now if I were to talk about how we plan to use some of this liquidity now. So, for example, what we're also doing is we're building a liquid staking derivatives protocol. So if you look at our treasury, we've got close to about 270,000 ETH just lying there in the treasury. So what we decided is, okay, let's build a liquid staking derivatives protocol. We can stake our own ETH, then we can create our own liquid state eth. And then we could use that to liquidity provision any DeFi protocol. Building on a network. This is what makes mantle unique in the sense that we're possibly the only chain out there which has got access to a huge pool of liquidity, which we can use to liquidity provision any DeFi or any protocol on chain. We also have an exchange where we can list high quality teams and high quality tokens and give those projects ultimate distribution. So with the treasury, which we have by staking this ETH, we will have access to this liquidity. We will also get the yield on this ETH, which we can then use to further amplify the ecosystem. In terms of incentives, we also have about another 220 million USDT, about another, I think about 73 million USDC. Again, all of this can be put to work on the chain to create new value. So it's a pretty large treasury. A majority of it is still in bit tokens. And as time progresses, as we continue to roll out bounties within the chain, we continue to support builders with different initiatives. We slowly, over a period of time, decentralize the Dow as these tokens go out of the Dow and end up in the hands of the community."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, lets walk through some of the numbers on the treasury. Ive got it up on my screen right now. The bit token right now is a little over 75% eye bulging number here. $2.6 billion, 2.565 to be precise. Million dollars, excuse me, billion dollars. Five and 65 million on top of what we see here in Ethereum, which you already mentioned, about 250,000 eth. So you've got roughly a little over two and a half billion in bit tokens and about 500 million in eth tokens. Talk a little bit about that. First. Are those tokens in any way encumbered? Are they pledged against any other asset? Are they being yield farm? Is there any other risk associated with those treasury tokens?"
+    },
+    {
+        "speaker": "C",
+        "text": "They are literally just sitting there. There is no risk with these tokens. I think one of the things which Beta was very careful about was to not play fast and loose with the community's funds. They were not invested in all of these different yield farming strategies. They were not leveraged in any way. These are assets in their purest form on chain. We plan to be very, very strategic about how we use these funds, even when it comes to using them for the chain. If you have to liquidity provision any projects, we're going to ensure there's a full stack due diligence on those teams. They're going to be audits before we know we plan to use this liquidity. So we're going to be very careful with it. Ultimately, it's the community's money, it's not ours. They hold the governance part to direct this liquidity. So we have to be like very, very careful and very mindful of how we use this liquidity."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back. So you're saying they're totally unencumbered, no liabilities against them, no smart contract commits or any other type of liability?"
+    },
+    {
+        "speaker": "C",
+        "text": "Zero liability."
+    },
+    {
+        "speaker": "B",
+        "text": "Can this all be viewed totally on chain through Etherscan, for example?"
+    },
+    {
+        "speaker": "C",
+        "text": "100%. If you go to our git book, you can see all the different addresses and you can check it out on Etherscan."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, so let's talk a little bit about the relationship between Bitdao and mantle. Explain what that relationship looks like today, and talk a little bit about how those treasury tokens are used within the ecosystem."
+    },
+    {
+        "speaker": "C",
+        "text": "100%. So ultimately the bittoken is used as the governance token within the DAO. So whenever the DAO has to make a decision, for example, should we build matl. Should we invest in gaming, like through game seven, which is another one of the investments of Biddao? Should we invest in web three education and research, which is.edu dao, which is another body which was incubated by Biddao. So the way Biddao works is that there is governance, there is the community, and the community can exercise that governance to basically channel the liquidity which is sitting there in the DAO, to build different vehicles, to take web three forward. Ultimately, what we want to do with the DAO is to build a future of token of products which are governed by tokens, and have this token governed products and governance take the web three space forward. What we're trying to prove also with this model is that we can get a DaO, a chain and an exchange working together to create new and newer value for the user. We've seen the chain and the exchange model create value, but I think in our model, it's very interesting that we also have a watchdog, which is the DAO. So, for example, if there is any unethical activities happening on the chain. So, for example, if the team does not live up to the expectations of the community, the community can pass a vote and choose to fire the entire team or even shut down the chain. So the ultimate power lies in the community. And this is why the governance is so important. This is why in any kind of model where there is a chain and there is an exchange, it is so important to have a watchdog there. And for us, we have the best watchdog. We have an all powerful dow which can take all decisions. Now, the decision now sort of the relationship between the DAo and the chain is very interesting in the sense that the chain was incubated by the DAO. So all the funding which we have has come from a DAO board. And you can go to the DAO forums and you can see the entire detailed proposal of exactly how much funding we want for exactly which line item. And all of this is like super transparent. And this is kind of why it's, you know why it's very interesting for us that, and what we really feel is this is how ecosystem should be built and run with this level of transparency, where every major decision you take with respect to funding, there has to be clear, like line items of how you're going to use that money, because you owe that to the community. Also, what's interesting about mantle is that we're using the same token as the DAO. So we will be building utility for that token. So, for example, in this case, if you take the bit token, we would be using the bit token as gas fees. It'll be used for governance on the DAO. It'll be used in the ecosystem, which we're building on mantle. It would be used for staking at the infrastructure layer. So we would be building multiple levels of utility for the token. So if we are able to build this kind of utility, the token will capture more and more value of the entire ecosystem. And this intent over a period of time makes the DAO even stronger and gives us the wherewithal to launch even broader or more ambitious projects. So this is kind of how."
+    },
+    {
+        "speaker": "B",
+        "text": "Let's stick with that for a second and talk a little bit about the Bitdao token. I don't know if we can bring up a chart of this. Obviously, when you look at this screen with the x axis set to Max, you see a drawdown of about 85 or so percent from about $3 to where we're trading right now at around $0.43 total. I think return here is about 71% negative from inception. Talk a little bit about the price action and what your perception is about why markets have priced this down so significantly since late 2021."
+    },
+    {
+        "speaker": "C",
+        "text": "So I think, I think a lot of things have changed since late 2021. So there's been a markdown. And I think every asset out there, including, including bitcoin, ETH and every other token out there. What I also feel is that what is different about the bit token earlier was that it was used purely for governance. It did not have a lot of utility outside of governance. I think with mantle now that there are whole levels of utility which we can build for the token where it'll be used in many different ways. Also other products which we are building right now, like the liquid staking derivatives protocol, which will also be using the mantle tokenization. So we will be able to build these multiple levels of utility and then the token will continue to sort of capture a larger share of this entire business and all the value it's accruing. And this is why I feel over a period of time that we can position mantle as sort of, as a really, really sort of strong token. So we're also doing this rebranding process. We are rebranding sort of bid out to mantle governance. We're redoing the token as well from bit to mnt, because when the token bit was created, it was not designed to be run in a chain. Like there were several functions missing, et cetera. So we literally had to redo the token so it could be used in a layer to chain. So we will have a new token MNT. The details are there on the website as well. We will be redoing the DAO. And then, and what this essentially means is that Mantledao will be sort of a product focused out where the core product is, the mantle infrastructure chain. We will also be building a liquid staking derivatives protocol and we will also build other products in the future. And all of them will build utility for the MND token. So this is kind of the path we've set for the token right now, where now there are multiple levels of utility and we'll continue to keep building those as time progresses. So which is kind of like, I don't want to comment on token price or definitely not financial advice, but I feel that if you can build multiple levels of utility for a token, then it'll start to capture sort of the entire value of the business. And that I think would be good in the long term for the Dow. So this is kind of how we want to design it."
+    },
+    {
+        "speaker": "B",
+        "text": "Let me ask you this question about liquid staking derivatives. In the post Shanghai Chappelle Ethereum world, where beacon chain, you can access those funds, talk about the role of liquid staking derivatives and why they're important in your view to the ecosystem."
+    },
+    {
+        "speaker": "C",
+        "text": "So I think as Ethereum has transitioned to a proof of stake chain. Of course, you want to stake as many assets as you can, or as much eth as you can on the chain, so that you can secure the assets which are, or you rather, you can secure all the value which is being created on Ethereum. So a proof of stake chain is only as strong as the value state in it. Now, the problem with the stake was that there was no real incentive to stake outside of possibly the returns you might get from Ethereum. Ethereum, as a chain, was becoming more and more congested with a period of time. But liquid staking, what this has allowed us to do is that if you're a user, you can stake your eth, you can get yield on that stake, but then you can also get this token as a receipt, whether it's Cbeth or Steth, depending on whichever staking protocol you use. And then you can take that token, and then you can participate in DeFi or in any sort of other activity. Or you could even restake that into other vehicles like Eigen layer, where again, it's used to provide security for various different chains. So that's why I think liquid staking is interesting, where there's now an incentive for people to stake their tokens, because they will get this receipt token, which they can further use in a variety of defi, in a variety of chains, or in a variety of ways. In some sense, there's now an extra incentive to do staking. And it's good for Ethereum to have more and more Ethereum staked on it, so that the network just continues to become stronger."
+    },
+    {
+        "speaker": "B",
+        "text": "So you mentioned the Eigen layer, which is the protocol that allows restaking in Ethereum. Talk a little bit about the significance of the Eigen layer and its relationship to the mantle token."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure, definitely. So I think Eigen layer is, for me, very, very interesting concept in general. So with Eigen layer, essentially, you're creating a decentralized layer of trust. And when you're building decentralized trust, you need to have a trust assumption. And the idea being that if you can stake. So for example, if you can stake eth, and then you get your liquid stake token, if you can stake those liquid stake tokens on Eigen layer, then you can provide crypto economic security to many different types of use cases, whether it's data availability, whether it's bridging, whatever have you, because once you've solved decentralized trust, you can do many different things. This is why we've been partnering with Eigen layer. We've been working very closely with the team for the almost last six to nine months, because when we were building mantle, we decided to build a modular chain. So what we felt is that instead of having monolithic architecture, where all the components of a blockchain are tightly bound together, if you build it in a modular fashion, for example with legos, where you have chain processing, you have data availability, you have transaction finality consensus, then the chain will be easier to upgrade, easier to maintain, and we could continue to improve it with time. So in our model architecture, we've gone with Eigen layer as the data availability sort of solution. So what this means is that our chain sort of will have possibly anywhere from 30% to 50% lower costs than any other roll up out there. It will also be faster because you don't have to push all of that data onto Ethereum. You can now push it to the data availability layer. How this is interesting for the token as well, is that for this layer as well, for the data availability layer, you need to provide crypto economic security. And for that security you'll again be staking the mantle token, the MNT token, which is the one, one redone token for the bit token."
+    },
+    {
+        "speaker": "B",
+        "text": "This idea of modular architecture is incredibly important in your thesis, at least as I understand it. You mentioned this notion of how rollups are done. Traditionally. It's with either zero knowledge proofs or with optimistic roll ups. This is a third option, essentially disaggregating this at the architecture layer so that you have different layers doing different things. Can you give us an overview of what those modular layers are in your ecosystem and how you think about the functionality, perhaps with a stylized, simplified example?"
+    },
+    {
+        "speaker": "C",
+        "text": "Sure, definitely. So let me explain it in terms of rollups. You still have either optimistic rollups or zero knowledge rollups, and we've seen both of those in the market. We've gone with the optimistic roll up stack since the technology has been around for a long period of time. It's a tried and tested technology. And if you look at the liquidity which we're playing with, we wanted to go with something which is more tried and tested and has been in the market for a long period of time. In terms of roll ups, there is optimistic roll ups or ZK roll ups. But modular architecture essentially sort of talks about the basics of how you want to design the chain in the first place, right? So for example, if you were so monolithic, architecture, which I talked about, is when all the components of a chain are in some sense welded together. So imagine if you build a car, right? And instead of bolting all the parts together. You weld everything together, right? So the car, everything is welded together. You can run the car, but if you want to change the engine, if you want to change the tires, if you want to change anything about the car, it requires a massive refit and lots and lots of testing before it can be roadworthy. But with modular architecture, what you do is that all the different parts of a chain are modules, essentially, which you can sort of mix and match. So it's like bolting together parts of a car, and then if you want to change the engine, you just bolt it out, swap out the engine. If you want to change the tires, you swap those out. You want to change the body, you swap that out. And this allows you to create a vehicle or a car, which you can continue to upgrade with time. Like a lot of people do, they modify the cars for different types of use cases. This is how modular architecture works, where all the parts of a chain are like Lego blocks, and you can add different types of data availability. You can upgrade your chain processing. You can add different types of fraud proofs. Whether you want to do optimistic, whether you want to do ZK, whatever have you. So your chain becomes a lot more easier to operate. It becomes easier to test, it becomes easier to upgrade. And the general consensus in the in the blockchain world is that modular architecture is the way forward. And more and more chains are now being designed in a model of fashion."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing."
+    },
+    {
+        "speaker": "D",
+        "text": "This podcast is sponsored by Ramp. Are you the decision maker in your company? Consider this for the first time in decades, there's a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your company's spending and control who spends what. With each vendor, Ramp's software collects and verifies receipts instantly to save your team valuable time. Ramp automates data entry and routine tasks with automated approvals, expense categorization, and bill payments, time consuming tasks, which means you'll stop wasteful spending and close your books in hours instead of days. Businesses that use Ramp add up to 5% to their bottom line the first year. If you're a decision maker, adding ramp could be one of the best decisions you've ever made. Get $250 when you join ramp for free. Just go to ramp.com easy. Ramp.com easy ramp.com easy cards issued by."
+    },
+    {
+        "speaker": "C",
+        "text": "Sutton bank and celtic bank members of DIC."
+    },
+    {
+        "speaker": "D",
+        "text": "Terms and conditions apply."
+    },
+    {
+        "speaker": "B",
+        "text": "So what are those layers, as you see? And what's the functionality of each one? If you could just give us an example, perhaps with a simple transaction, so that people could try and understand and visualize what those layers are, what each one does, and why it's critical to the system."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure, definitely. So this is interesting. Let's walk through a transaction. So the user pings a transaction. So what happens? So you have a chain. The chain is sort of collating all of those transactions. Those transactions, essentially are being bunched into blocks. And this is where the sequencer comes into play. So you have the chain. So think of it like this. You got the chain, you have the sequencer here, and you have the data availability here. So there are three parts. Think of it like a pyramid. Like you got the chain here, which is producing all those transactions. You have a sequencer. Sequencers job is to punch those transactions into blocks and then take those blocks and bunch those further into batches. And then it takes a batch and it creates a proof, right? And it. And it essentially creates two things. Once it. One part of it is the proof, which is the proof that those transactions happen. And it also creates a roll up. And roll up is enough data for you to recreate the proof. So essentially what you've done is you've taken transactions. Transactions go into blocks, lots and lots of then blocks go into a batch, and the batch essentially results in a proof and roll up data. And like I said, roll up data is just enough data for you to recreate this proof."
+    },
+    {
+        "speaker": "B",
+        "text": "So imagine it's almost like a cryptographic, it's almost like a cryptographic hash of those batch transactions that can then be verified."
+    },
+    {
+        "speaker": "C",
+        "text": "Basically, yes. And the roll up data is interesting. Why? Because roll up data is like, if I were to give you a simple example, it's like you have a ten page essay, and then you create a gist of that essay, like one paragraph, which gives you, like, an idea of what's happening in the entire ten pages. So typically, in any roll up, what you do is you take this proof and you take this roll up data and you ping that onto Ethereum. So you've got Ethereum right here, you've got this other chain, and you're pinging a proof and roll up data onto Ethereum. Now, all transactions on Ethereum are expensive. The proof is pretty small, so it's not so expensive. But the roll up data and pushing data onto Ethereum is expensive. In fact, one could say that over 70% to 90% of the cost of a transaction, of a roll up, like of this sort of roll up transaction, is actually because of the data. And this is kind of where data availability becomes interesting, where the sequencer is now producing the proof and the roll up data. Instead of putting that roll up data on Ethereum, you send it to some other layer, you send it to a data availability layer. So you've got a chain, you have the sequencer doing all of this stuff. It's producing those proofs, it produces a roll up data. The roll up data goes to another layer, which is the data availability layer. This is the Eigen layer, data availability layer, or eigen data availability, where we'll be punching this data, we won't be putting it on Ethereum, thereby not incurring that cost. And only the proof goes onto Ethereum. So if anybody on Ethereum wants to recreate that proof, they can just get the data from the data availability layer, recreate the proof and check. So the transaction becomes almost equivalent as that of an Ethereum transaction. Because any transaction on Ethereum, you can recreate it. In this case, you can do the same, except that the data, which you need to sort of redo the transaction, recreate the transaction for security purposes, is on some other layer. And because it's not on Ethereum, you're not incurring that cost. And this is kind of why the chain becomes modular in the sense where you have a separate layer for managing or keeping all of this data. You have a separate layer which is producing all of this proofs and all of this roll up. And then you have the chain on top of that, which is getting all your transactions together."
+    },
+    {
+        "speaker": "B",
+        "text": "So you take the hash or the digest, the cryptographically compressed version that secures all of that data. You push that on chain where all the underlying work remains at a separate layer, in this case, the eigen layer, where that can be independently validated."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, yes, you got it right. So that's exactly how this and more and more chains are moving towards this kind of modular setup, because they realize that, see, even the data availability Eigen layer is not the only solution out there. There are other teams working on data availability. And similarly, on the sequencer side, where you have fraud proofs, etcetera, there are a bunch of teams working on that as well. So it's so interesting now that in the blockchain space, you got this chain, and then you got this entire arms race happening on the data availability layer side. And then you got this other arms race happening on the fraud proof, ZK proof side. And what has happened is by splitting the chain into layers, you've got efficiency now into the system where everybody is looking at those separate layers and trying to create the most efficient and the."
+    },
+    {
+        "speaker": "B",
+        "text": "Best system so those changes essentially can be swapped out. That's what you're talking about when you talk about modularity. It's basically like the battery of your car dies, you don't have to replace the entire engine. You remove the battery, you drop in a new one."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly, exactly. So this is why it's so interesting for me, because now I can see which way the blockchain ecosystem is going to run that. You want to have all of these different layers, and all of these different layers are going to have all of this different optimization happening. And then modular chains will be able to swap these out. They'll be like, okay, you know what, this system's better. Maybe we should offer this to our user, because as a blockchain infrastructure, we have to offer the best of what's available on the market to the developer and the user. So we have to continuously keep an eye on all market innovations, whether it's ZK rollup. So we have a full stack research team continuously looking at all of this stuff, like whether it's decentralized sequencers, ZK approvers, or any other kind of technology which could potentially improve our chain in the future. So its very exciting and interesting for me when I look at this space."
+    },
+    {
+        "speaker": "B",
+        "text": "Trey, lets talk a little bit about transparency. One of the challenges that any complex ecosystem has here in 2023, as we look at the world in the wake of the terra Luna collapse, for example, people hear the terms of ecosystem, they see a lot of complexity and they may not feel comfortable about whats beneath the surface. Talk about how you guys are trying to essentially, through transparency, avoid those kinds of risks, or at least the perception of those kinds of risks. Obviously, this technology is very new. There's a lot of complexity here. Talk a little bit about how you assess those risks and how you attempt to mitigate them."
+    },
+    {
+        "speaker": "C",
+        "text": "So this is interesting, right? Yes, you're right that we've had several episodes where because there was no transparency, bad actors sort of co opted the system now in our case. So let's look at how we've had solve for transparency. So number one, all the assets, or rather all the money we need to run this chain has come from a dao. All of the daos assets are on chain. So you can go to Etherscan, you can see all the assets. Number two, you can also see the transaction which was done to send those assets to this other wallet which we are using to run or sort of pay for all of our expenses. On top of that, if you go to our website, you can see the treasury monitor. So if you go to governance and you can see the treasury monitor where you can see all the money, like I said, line item by line item, which we are spending on the chain, whether it is on salaries or whether it's on infrastructure. So we've tried our best to have unprecedented level of transparency, which I don't think any other ecosystem out there operates in this fashion. And to mitigate any sort of risks, not just from, not just in terms of optics, which is what people might feel, but also from the team itself. Nobody in the team essentially has enough power or can go rogue because everything is transparent. Like it's simply not possible in our system. Like any doubt would be able to just view that transaction and be like, okay, what's happening? And if the team is working against the chain, they're like, fire the team. Like, a proposal comes on board, gets passed, team's gone. So, so this is kind of like how we've managed to sort of. So it's not just about transparency. You need to empower somebody to be able to take those kind of executive decisions. And for us, that's the Dao. The Dao can take these kind of decisions."
+    },
+    {
+        "speaker": "B",
+        "text": "So, Arjun, really interesting stuff. I'm glad you could come on the show and talk with us. I hear about the innovation that you guys are doing. It's been a deep dive Friday. Thank you so much for joining us."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure thing. Thank you so much for having me."
+    },
+    {
+        "speaker": "B",
+        "text": "Thanks for watching. Everyone. Make sure to check out our website. You can go to real vision.com. that's real Vision.com forward Slash crypto. It's free to sign up for our crypto content. Real Vision.com forward Slash crypto. Also, it's summer Fridays on our sister macro focus show, real Vision daily briefing. It's starting at the top of this hour, so 01:00 p.m. eastern time. 06:00 p.m. london check it out over here. We have yet another great set of guests for next week, including the co founder of arbitrary, Stephen Goldfetter, and bitcoin investor Mike Alfred. See you at 09:00 a.m. pacific noon Eastern, 05:00 p.m. london time on Monday. Thanks for watching, everybody."
+    },
+    {
+        "speaker": "E",
+        "text": "What's up, revolutionaries? Thanks for tuning in for more content like this. Head over to real vision.com and get unfiltered access to the very best, brightest, and biggest names in finance."
+    }
+]

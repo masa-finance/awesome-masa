@@ -1,0 +1,178 @@
+[
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless everybody get 30. 30, baby get 30, baby get 20. 2020, baby get 2020. Bid to get 15. 1515 just $15 a month, so give."
+    },
+    {
+        "speaker": "A",
+        "text": "It a try at Mint mobile.com switch."
+    },
+    {
+        "speaker": "C",
+        "text": "$45 upfront for three months, plus taxes and fees. Promoting for new customers for limited time unlimited, more than 40gb per month slows full terms at Mint mobile.com dot."
+    },
+    {
+        "speaker": "D",
+        "text": "Hey, everyone, if you like this podcast, go behind the paywall to get privileged access to the smartest minds in finance. Join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off our essential membership for the first year. Now to the top analysis of today's crypto markets."
+    },
+    {
+        "speaker": "E",
+        "text": "Christopher Calicott, managing director at Trammel Venture Partners. Welcome to real vision Crypto Daily Briefing."
+    },
+    {
+        "speaker": "F",
+        "text": "Thank you for having me, Ash. It's great to be on."
+    },
+    {
+        "speaker": "E",
+        "text": "It's a pleasure to have you here today. I'm excited to talk about all things bitcoin, bitcoin development, what's happening in the bitcoin ether ecosystem, and so much more. But, Christopher, before we get started, tell us a little bit about your background, how you got into bitcoin, and what sparked your passion for this technology."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, absolutely. Both myself and my business partner, Dustin Trammell, he's the t in TVP. We're both career technologists. I was a generalist, did a lot of things across technology during the early years of the Internet without specifically dating myself too much. While I was very broad, Dustin was very deep in one specific area at a time where there really wasn't a cybersecurity industry per se. He was doing a lot of advanced research, information security research. And you do things like find vulnerabilities in enterprise systems and then find ways to protect those through intrusion prevention systems and that kind of work. You know, he wasn't a cryptographer. He didn't have multiple advanced degrees in math and cryptology per se, but he touched on hashing all the time. This is an interesting piece of our story because of his interest in cryptography. He had been on the cryptography mailing list for probably seven, eight, maybe nine years at the time that Satoshi published the white paper, Halloween 2008, for what was to become the bitcoin network. To get his great fortune, he ended up being a day one guy in bitcoin. And then subsequently, he evangelized the power of a bitcoin and the future of this network to myself and a lot of his friends around Texas. And so that was kind of the formative piece. How does that relevant for us today? In the early years, he wouldn't have used a word like deal flow. That's jargony. Neither of us came from asset management, but entrepreneurs that were working on a project would reach out and say, hey, Dustin, check this out. I've got this. I think this could be a cool company. And so he was getting an organic deal flow in the early days. So that led to what became TBP. And TVP was spun out of his family office back in 2016."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I read up on the website at Trammel Partners, it says what it is right on the tin. We help bitcoin founders build iconic brands at the emergence of a new monetary order. Talk a little bit about that as a thesis statement, as a mission statement, and how it relates to what you guys see in the ecosystem right now."
+    },
+    {
+        "speaker": "F",
+        "text": "Sure, great question. And it is formative for TVP in the early years of bitcoin, rightly so. It was fair to ask questions like, well, what if there's some unknown vulnerability, fear or uncertainty about the long term viability of the network? Maybe there was something in the code that would make an exploit that would be just existential as a threat to the bitcoin network. We felt like it was the best chance to get security right. Certainly with information security researcher on the team, he had a very strong view. We felt like if we just get a few more years under our belt, and we always make sure that we're thinking about decentralization for what that means for a non state backed currency, that bitcoin has the best chance of becoming the Internet's monetary layer full stop. And that is our thesis. That's a fundamental, almost like a prereq for the investment strategy that we do on a day to day basis. We believe that bitcoin's already won the battle for the Internet's monetary layer. It's just not broadly and evenly recognized yet. I would follow that up by giving a little bit more color and saying, if you can get on board with someone that have that market view that bitcoin has won the Internet's money, then you would want to be extraordinarily careful to make any changes, inducing potential security risks, etcetera. With money, it's very important not to take the Mark Zuckerberg move fast, break things approach to the Internet's monetary layer. We think that bitcoin has won that. Nevertheless, over time, progress has happened for the lightning network and some of the exciting stuff that's happening there. Segwit was merged into bitcoin core back in 2017, and that was a technical prereq, a prerequisite for the lightning network. Taproot and other kinds of enablements are coming soon."
+    },
+    {
+        "speaker": "E",
+        "text": "Before we go sort of two down the rabbit hole in terms of the jargon about the technology, let's unpack this and explain it to folks, particularly people who come to us from a financial background who don't really have the engineering background. Segwit was the segregated witness upgrade, which was an upgrade that handled the way that bitcoin signatures were embedded in the technology. Talk a little bit about that and explain why it was a prerequisite for everything that came after, particularly layer twos like the Lightning network."
+    },
+    {
+        "speaker": "F",
+        "text": "The answer is fairly technical as well, unfortunately. But it had to do with having consistency in the way that messages are signed and making sure that everything was always known, and there couldn't be any malleability in the way that those messages were built into the network. A technical note, but it gave a solid foundation for being able to open channels on the lightning network, and that progress has continued. And when you ask about money and financial people, one of the things that's maybe a little bit different for TVP and the people that work here is Dustin and myself, the partners. We came from an austrian leaning economics background. We understand what makes a good money, what makes something sound, and we think it's actually an odd thing for the government to be in charge of that, since it's really just a coordination tool. And so we think that bitcoin has actually won that. And a clinical assessment across all these different kinds of smart contract platforms, et cetera, bitcoin is the only one that has robust decentralization to date, and we think that's important from a standpoint."
+    },
+    {
+        "speaker": "E",
+        "text": "Preston, how do you define that? Christopher, when you say robust decentralization, what are the metrics you use? How do you think about what that means?"
+    },
+    {
+        "speaker": "F",
+        "text": "Well, whenever there were some proposals back in the block size wars, as people affectionately referred to them, a lot of those large block attempts can just be fully rejected. If you don't think that that matches the consensus rules as you understood it, if you have a small, very inexpensive device that are validating the blocks as they're gossiped around the bitcoin network, you can say that block does not conform and I'm going to reject it. That's extremely powerful and it's a user focused approach. And for me, that's just one of the key criteria that users be able to participate and not be it not be necessary that they rely on extremely expensive, largely cloud based infrastructure just to perform that simple little task, which is to make sure that, yep, that was a valid transaction."
+    },
+    {
+        "speaker": "E",
+        "text": "So let's talk about the bitcoin ecosystem development. You said something that was really interesting. You talked about how for a monetary system, the move fast and break things approach Mark Zuckerberg is very famous for at Facebook is probably not the most appropriate methodology or framework to think about one of the challenges, and folks who have backgrounds in economics know that these things are all about trade offs. One of the challenges has been, I remember when I first came into the space in 2017, and I remember someone sitting me down when I was asking about bitcoin and I was having some troubles understanding the consensus process. And this guy said to me, hey, listen, the most important thing for you to understand about bitcoin is that everything is built for security. And if you get lost in the weeds, come back to that thesis statement, because it will help guide you, to help focus you, to help you understand the way that the design specifications are implemented. It's all about security. I think that that's something that continues to this day in terms of the driving philosophy of bitcoin. One of the challenges with that is that we see faster development on other networks. I think a lot of folks who watch this show, real vision crypto daily briefing, have heard a lot about the Ethereum ecosystem and the work that's going there to extend transactions to l two networks and smart contracts. Talk a little bit about where bitcoin is in this process, how you think about adding some of the functionality that we've already seen on the Ethereum network, on the bitcoin network, and what some of the challenges and opportunities are in terms of that development effort."
+    },
+    {
+        "speaker": "F",
+        "text": "Great. There's a lot there, actually, to unpack. We could probably spend a few hours on security. I think we could. I think, in short, the security emphasis that you're putting there is key. It's critical. And unsurprisingly, security like values and privacy. These are sort of in the TVP DNA that matters to us in particular, but it doesn't matter for us. Just from a strictly philosophical perspective, we think that that actually gives opportunity for development. By the way, are we still on? I just lost everything. So let me say it this way, and I think some of your audience will think this is amazing. In the early days of bitcoin, one of the things that some of the ogs that were out there said, look, we think bitcoin has a great chance of success. Please go build an altcoin. Go do something somewhere else. Just dont break the money, dont break the monetary layer. And by the way, well be paying attention. And if you happen to stumble upon a massive validated market in due time, well find a way to appropriate that and bring it home to build it directly on bitcoin. And one of the exciting things I think thats happening now is weve have nearly 14 and a half years of historical knowledge and we've been doing all these observations and we've participated in some of these other platforms and we've learned a lot. There are a few markets that are massively validated which haven't yet actually arrived to bitcoin, but we're at this really an inflection point where it's about to start happening through the Taproot Asset protocol, which is put forth by Lightning Labs, one of the implementations of the Lightning network."
+    },
+    {
+        "speaker": "E",
+        "text": "Hey everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back."
+    },
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless how about to get 30? 30 baby. Get 30, get 20? $2020 20 2015 just $15 a month."
+    },
+    {
+        "speaker": "A",
+        "text": "So give it a try at Mint mobile.com switch $45 up front for three."
+    },
+    {
+        "speaker": "C",
+        "text": "Months, plus taxes and fees. Promoting for new customers for limited time unlimited. More than 40gb per month slows full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "E",
+        "text": "Can you give some very simple definitions for folks who may not know about what the Taproot upgrade did and what the Lightning network is? I think many people think of it as an l two payment network, but talk a little bit about the first principles behind those two technologies."
+    },
+    {
+        "speaker": "F",
+        "text": "Great question, and I actually stopped myself. I thought, you know what, we should set some levels on the Lightning network. The lightning network is 100% real bitcoin. It's a way that people can do peer to peer routing of payments that are a second layer above layer one. In the end, layer one is probably going to be quite expensive. To move bitcoin around on lightning opens up the chance to do something in its it's as close to a tech feeling like magic as anything can. I encourage everyone to try lightning, and probably a lot of your viewers already have a lightning wallet in their phone, and they don't even know it because cash app did a massive implementation. Lightning Network, in short, allows for nearly instantaneous, fully final settlement with bitcoin hard money being the base. This happens by opening up channels. There's custodial, non custodial approaches to this, but in short, that's very, very important. We've talked about for years, things like categories like remittances and payments. If you have to pay a lot of gas fees or to send a relatively small amount of money, that's a barrier. And it doesn't actually achieve what we thought we would be able to achieve with Internet money. Certainly something like micropayments, where you want to express something like in Twitter, it'd be alike. In Noster, that would be a zap, which is sharing a little bit of monetary value, recognizing the value that someone just gave from their post or their content, which is anything that's built on Lightning has the potential to inherit all of its speed and all of its finality. And so where I was going to go with Taproot, Taproot is an enablement layer that's making more development faster without getting down too much into the technical weeds. Taproot asset protocol, which is by lightning labs on their l and D lightning implementation, is going to, for the first time, and I think imminently, probably later this year, maybe early next year at the latest. I don't have inside information on that. But to enable something like stable coins, which in the Ethereum world, maybe people just kind of shrug and yawn a little bit. Um, the voracious appetite for. For USD globally, and to be able to get that and be able to send a transaction of real size for some fraction of a cent through the lightning network and to receive it as maybe you're a. It's a point. You're running a point of sale system, or it's a friend that's paying you back for a coffee or whatever it might be, to know that when. When you get that it's fully yours and can't be recalled, you don't have all the latency from the legacy financial network, and it was extremely low cost to do it. Now pair with SAts like the fundamental unit of a bitcoin, and think about that in US dollar terms. And to be able to send to someone, a family member in Mexico or the other end of the world, they have it in a matter of seconds and it's fully final when they receive it as well. I like to think in bitcoin, but a lot of the world still thinks in dollars if they're dollarized or some other, a national currency as it were. So bitcoin backed euros, dollars for Minbi, whatever it might be thats coming soon. And that speed and finality you only actually get from the bitcoin and lightning stack. Preston."
+    },
+    {
+        "speaker": "E",
+        "text": "So lets zoom the camera out a little bit and talk about what your vision is. Big picture for what the bitcoin ecosystem looks like in one, three, five years. Where do you see this going? If we were to zoom back here in 2026 and be having this conversation, what would you like to see happen in the ecosystem? What functionality would you like to see most, and how do you see us getting there?"
+    },
+    {
+        "speaker": "F",
+        "text": "I think it's. There's an inevitability in the answer to your question. From my perspective, it's just every day, and there's been a kind of a narrative that's been, been shared by a lot of people out there that, hey, it's kind of hard to build on bitcoin. And while that there was some significant truth to that, let's say five years ago, increasingly that is less and less true. And actually it's happening in real time, that every day in the wild. We talked to someone that had been thinking about building a company elsewhere, Solana, or name your smart contract platform, and they realized, oh wow, I had no idea what I'm trying to do. I can actually do this today or in the next six months directly on the bitcoin stack. One of the funny and interesting learnings from the whole ordinals phenomenon, which has been a q one Q two thing, for the most part, on the back of a couple of years work, was that people have very much validated a hypothesis that TDP had, which is given the option to build on bitcoin or not build on bitcoin anywhere else due to all of the risks that entrepreneurs assessed. You're taking career risk, opportunity costs, all these kinds of things, you're not going to take platform risk given the opportunity to build there. And so we think that's driving a coming wave. And to your question, five years from now, three or five years from now, what that's going to look like is a lot of people that probably spent some time building elsewhere in crypto will say, have returned, and I are building directly on the bitcoin stack. And they've learned a lot from a lot of these experiments and hypothesis testing."
+    },
+    {
+        "speaker": "E",
+        "text": "That'S happened elsewhere you talked about ordinals. This concept of inscribing directly on to the bitcoin blockchain has been controversial in bitcoin circles. Talk a little bit about how you guys think about it. What you see is the advantages and the disadvantages. Obviously, one of the things that we've heard was from purists who thought that there was potential risk for congestion on the network caused by these inscriptions. Talk a little bit about how you see that phenomenon."
+    },
+    {
+        "speaker": "F",
+        "text": "You know, ordinals, like I said, have been kind of interesting. And I would say for sure we have a long term view that for all of the questions about this idea of a security budget, that long term, this sorts itself out with transaction fees. And if anything, ordinals have completely validated that there will be increasing demand for block space in bitcoin. There was one or more days where the transaction fee component of the block reward was actually larger than the block reward. That's actually very bullish for bitcoin. Not only bitcoin block space usage, but the price level of bitcoin over the medium term and long term ordinals, as a use case, haven't spent much time. I personally, I understand the question and empathize with, is this the best use of block space? On the other hand, if you're not violating consensus rules, who am I to say what you should do with your money? This is a fundamental tenet of freedom and I think part and parcel of the initial bitcoin ethos. And so we actually have some exposure there through someone who is doing something kind of at the intersection of the lightning network and over about a week and a half, built some, some fantastic plumbing that are actually being used for other platforms to do minting of large collections and that sort of thing. But it's been interesting to see and to kind of double down on that assertion that I'm making, that entrepreneurs will find a way to build on bitcoin given the opportunity. I wrote an article that's coming out shortly. I think it's. Jason Williams had done something kind of interesting. Uh, a couple of months back. He had, uh, he had a board ape, and it was on ethereum, of course. Um, when he had the opportunity to mint it on bitcoin, he minted it on bitcoin. But he did something very, very interesting that reminded me of what I described as the Ernand Cortez going to the new world moment. He burned it on ethereum. That's a very strong statement of where people want things that they perceive to have value to live long term."
+    },
+    {
+        "speaker": "E",
+        "text": "Preston, explain what that means, because it's a powerful metaphor."
+    },
+    {
+        "speaker": "F",
+        "text": "They're anon Cortez piece. So, yeah, you know, we could talk about conquistadors and good or bad, but when they came to the new world, you know, there's. It's hard. And so this, this explorer, when they got to where they were going initially, he made them burn the boats, so there's not any going back. We've got to make it work here to say that this is where he wants to be. And for me, I thought about the metaphor between this. It's like you're literally burning something that many would argue have a lot of value there. But you're saying that you want it to live on this stack, and that's very clear for a lot of reasons. And so a lot of the excitement and the new renewed energy that you've seen, I think is just additional evidence of, like, okay, wow, if we knew we could do this on bitcoin, we would have already been doing it. And imagine from the entrepreneurial activity when every day an entrepreneur in the wild wakes up and says, oh, wow, I can build this on bitcoin. Of course I'm going to choose that platform. And so that platform risk component is why we're focused on something that, candidly, we feel like was the work we were always intended to do and backing these founders that are building on the bitcoin stack. It's not only, we think, going to be wildly successful in terms of financial profits, but also there's a sense of mission, and that's why we've had multiple people move to Austin, Texas, from both coasts to come and work on mission and work on bitcoin specifically. So there's a lot of reasons for this captive latent demand to do things on bitcoin. And it's coming. It's coming fast."
+    },
+    {
+        "speaker": "E",
+        "text": "Hey, everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing. Yeah, I love Austin. It's got a lot going for it. No state and local income taxes and fantastic, fantastic food."
+    },
+    {
+        "speaker": "F",
+        "text": "Absolutely."
+    },
+    {
+        "speaker": "E",
+        "text": "Hey, so let me ask you this, Christopher. Let's talk a little bit about the timeframe here that you see some of these bitcoin ecosystem developments unfolding over. What do you think we're talking about here in terms of seeing some of the functionality, particularly on the spaces where Ethereum has been the leader in smart contracts and defi, in the ability to, to have things like nfts non fungible tokens and others. Talk a little bit about what you see the time horizons looking like in your view from where you sit."
+    },
+    {
+        "speaker": "F",
+        "text": "I'll be honest, we have a sense of urgency here at CBP. She mentioned also the research that we've released about a month and a half ago. This research actually is indicative of why 2022? It was a down bad year across spot markets in crypto. I think everybody would recognize that crypto venture dollars were essentially flat. They were up about 1% over 2021. TVP is in a very unique position, so we've been around long enough. For the last several years, we've been instrumenting the universe of investable bitcoin companies, and it might be surprising to the viewers to hear that in 2022, obviously, we're nearly halfway into 2023 now. Bitcoin native venture capital was a breakout category last year. It grew as a category about 52.9%, despite spot markets down bad and crypto venture flat. So this is actually, this happened in advance of ordinals. You can imagine the kind of excitement that's happening now, dollars raised and small. One of the things that we feel like is important, and one of the reasons why I was excited to come and talk with you today is to tap into new markets, and especially from an institutional allocator perspective, to challenge some assumptions because of some of these ideas that have been out there for a long time, that innovation is not happening on bitcoin. All of these things that I think are just patently false. Now, one of the interesting slides, slide eight in this research, which is free to download. By the way, despite bitcoin, if you add up all of the market capitalization for every crypto asset out there, and inclusive of every price, stable asset. Bitcoin today, as of know, December 31 was still market cap dominant to 42.1% of everything else, just on a spot basis. However, of venture dollars invested, it was only 1.31 that went to bitcoin native companies in 2022. We think, and we make the assertion in this research, that there's a specific capital misallocation to bitcoin native venture. That's really important, because as we've been talking about today, a lot of these tech enablements and what's happening underneath the hood are moving very fast. And when you ask me things like where are things going? When I mentioned about we'll be paying attention, and when you find a validated market, I mentioned stablecoins directly on the bitcoin stack, inheriting the speed and finality of the lightning network. If you take that just one step further. What that means is once one of the primary issuers are directly on the lightning network, the next day or the next moment, someone could actually do the first bitcoin native decentralized exchange. Those kinds of ideas and those kinds of archetypal companies are here to be built in the next immediately. And so that's why we're excited about what we're doing. And one of the reasons why we put the research out is challenging some of those assumptions and bringing education to some of the institutional allocators that should certainly be looking at the bitcoin native ecosystem."
+    },
+    {
+        "speaker": "E",
+        "text": "Boy, a bitcoin native decentralized exchange would be a game changer. Do you see that something that might be coming down the pike in the next, say, twelve to 24 months?"
+    },
+    {
+        "speaker": "F",
+        "text": "100%. Absolutely. And it's wild too, if you think about things from a macro perspective. I mentioned this global voracious appetite for dollars, if you can get it for an absolute de minimis amount of fees to move things around the lightning network, which is, that's how it works. You also have something that might be a little counterintuitive in nations that would say you can only bring so many dollars in because the network's actually built on a decentralized foundation that's actually unstoppable. And so I think a lot of that appetite is going to drive a lot of demand and shift. And so decentralized exchange directly on the bitcoin stack is an absolute no brainer and definitely coming. And thats something TPP wants to back. So if youre a founder building on bitcoin and youre thinking about decentralized exchange, please do reach out. Preston."
+    },
+    {
+        "speaker": "E",
+        "text": "Hey Christopher. Spectacular conversation. Really enjoyed this. I hope you come back and do it again with us soon."
+    },
+    {
+        "speaker": "F",
+        "text": "Love to."
+    },
+    {
+        "speaker": "E",
+        "text": "Final thoughts, key takeaways that youd like to leave our audience with."
+    },
+    {
+        "speaker": "F",
+        "text": "Preston. I would just say im here to challenge assumptions. And if youve, if you found yourself historically discounting whats happening on the bitcoin stack, I would encourage you take another look. I mean, its actually the excitement has been palpable. We did the PPP annual meeting. We have a full day of content. Its a founder and investors symposium. We held that up in Jackson hole just the 1 march. The founders were leaning in and spitballing ideas with other founders in real time. Its just the pent up demand to build on bitcoin is absolutely phenomenal. And so I would encourage everyone to take another look."
+    },
+    {
+        "speaker": "E",
+        "text": "Great conversation, Christopher. We'll have to do this again soon."
+    },
+    {
+        "speaker": "F",
+        "text": "Thank you so much for having me."
+    },
+    {
+        "speaker": "E",
+        "text": "Thanks so much for joining us, everybody. That's it for today's real Vision crypto daily briefing. Remember to sign up for real vision crypto. It's free. Of course, you can go to real vision.com crypto. That's real vision.com forward slash crypto. We'll be back again tomorrow with Burke, Osgon Dex, a lot's head of strategy. Make sure to join us live. See you at 09:00 a.m. pacific time, noon Eastern, 05:00 p.m. london thanks for watching, everybody. Have a great afternoon."
+    },
+    {
+        "speaker": "A",
+        "text": "What's up, revolutionaries? Thanks for tuning in. For more content like this, head over to realvision.com and get unfiltered access to the very best, brightest and biggest names in finance."
+    }
+]

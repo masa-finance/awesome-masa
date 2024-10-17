@@ -1,0 +1,670 @@
+[
+    {
+        "speaker": "A",
+        "text": "Give us some of your predictions. Right. And over the next three to five years, what's going to happen, do you think, in the world of stablecoins? Welcome to bankless, where we explore the frontier of Internet money and Internet finance. This is how to get started, how to get better, how to front run the opportunity. This is Ryan Sean Adams and I'm here with David Hoffman. And we're here to help you become more bankless. Crypto dollars are the new eurodollars. Okay, but what are euro dollars? We get into that in today's episode with Nick Carter. There's over $10 trillion of euro dollars out there. And our guest today, Nick, says crypto dollars are going to be even bigger. While stable coins are often called crypto's killer app, our guest, Nick says you ain't seen nothing yet. A few takeaways in today's episode. Number one, why crypto dollars are growing even in the bear market. Number two, how crypto dollars are playing back the history and evolution of euro dollars and what we can learn from all that. Number three, how the us government policy is actually pushing crypto dollars offshore. Number four, the roadmap for stablecoins. What's going to happen next? And number five, we conclude with Nick Carter's top predictions for the next five years of crypto dollars, including his take on whether crypto dollar adoption is going to be good or bad for ethereum and bitcoin. That's a question we had to end with, David, is this good or bad for our bags? Why was this episode significant to you?"
+    },
+    {
+        "speaker": "B",
+        "text": "Why this episode is significant is the same as asking why are crypto dollars significant? And of course, using crypto dollars as interchangeable with what we know as stable coins, eurodollars, therefore crypto dollars, I think, is we talk about the semantics behind this conversation with Nick. Stablecoins, crypto dollars are an immense pillar of this industry. If there's one thing that crypto has exported, it's crypto dollars. That's one of the biggest innovations that we have. And this is something that we are going to rise in parallel with this technology that puts crypto 1ft in tradfi and 1ft in crypto, crypto finance. I think this is going to be a massive pillar of innovation that we should definitely be tapping into because this is the way that all financial networks, bank networks inside of a nation state, all commercial banking layers inside of nation states get woven together by global blockchain infrastructure through crypto dollars, through stable coins. So this is one of the big stories of crypto is we're all coming together as a population, one global population, under the same financial fabric. And this is the story of crypto dollars starting to weave that fabric together, first and foremost. And so understanding the growth of this parallel industry that we are creating, we are supporting, I think, is very valuable to understanding just overall where crypto is going as a whole."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, they're going to be a big deal. And it's kind of ironic in that, you know, crypto was here to kill fiat. No, actually, it's here to export to the world and also kill at the same time. How do we square these realities? So we talk about that with Nick. A fantastic episode for you. But before we get into this episode, first we disclose. David and I have nothing material to disclose in today's episode. There's always a link to our disclosures in the show notes, I own some stable coin."
+    },
+    {
+        "speaker": "B",
+        "text": "If we owned a large supply of stable coins, would we have to disclose that?"
+    },
+    {
+        "speaker": "C",
+        "text": "I don't think so."
+    },
+    {
+        "speaker": "B",
+        "text": "Do they go up?"
+    },
+    {
+        "speaker": "A",
+        "text": "You know, we own some stable coins. Anyway, you can see all the disclosures at all times. Bankless.com disclosures. We're getting right to this episode."
+    },
+    {
+        "speaker": "B",
+        "text": "Bankless Nation. Nick Carter is a partner at Castle Island Ventures, a fidelity alumni, co founder and board member of Coinmetrics. A prolific writer of editorials and academic articles alike, Nick is also a believer that the Havening is always priced in. He's a stablecoin connoisseur, an on chain wizard, an unlicensed Vespa driver, and greatest achievement of all, an eight times repeat guest of the bankless podcast. Nick, welcome back."
+    },
+    {
+        "speaker": "C",
+        "text": "Thank you. Thank you. I'm trying the number, I think, to guess on what bitcoin did. Also apparently number two on bankless. So this is correct. Yeah, we want to go for more appearances on bankless than Peter McCormack. So that's the goal, guys."
+    },
+    {
+        "speaker": "A",
+        "text": "Wait, so you're number two on what bitcoin did. Who's number one?"
+    },
+    {
+        "speaker": "C",
+        "text": "And I think when Alden, I think, is number one."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, well deserved."
+    },
+    {
+        "speaker": "B",
+        "text": "Valid."
+    },
+    {
+        "speaker": "A",
+        "text": "Valid is correct. You are only succeeded on bank list by Vitalik Buterin."
+    },
+    {
+        "speaker": "C",
+        "text": "I'll take it as the guest."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, but he's at 14, so you have."
+    },
+    {
+        "speaker": "C",
+        "text": "You guys did once, point blank, asked me if I was an ethereum, and."
+    },
+    {
+        "speaker": "B",
+        "text": "That was episode number two. Oh, no, one. That was the first episode."
+    },
+    {
+        "speaker": "C",
+        "text": "I squirmed. I squirmed under that question."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, you did. You really did."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. I think my answer probably changed over time."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, actually. Nick, are you an ethereum in all."
+    },
+    {
+        "speaker": "C",
+        "text": "Meaningful senses of that term, for sure. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Wow."
+    },
+    {
+        "speaker": "C",
+        "text": "That's amazing. Let's."
+    },
+    {
+        "speaker": "A",
+        "text": "Let's clip all Nick's answers together across the eight episodes. Let's always ask that question at the beginning of every Nick Carter episode."
+    },
+    {
+        "speaker": "C",
+        "text": "My most infamous podcast moment ever was on this show."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. The rising star."
+    },
+    {
+        "speaker": "C",
+        "text": "Comment me with that one. The big corners. They wrote songs about it. No way. They wrote whole there. Someone wrote a song about it. I didn't listen to it."
+    },
+    {
+        "speaker": "A",
+        "text": "I missed this part."
+    },
+    {
+        "speaker": "C",
+        "text": "My reply. Guys love to talk about stars rising."
+    },
+    {
+        "speaker": "B",
+        "text": "So now it was a cheesy line that has absolutely stood the test of time. For sure."
+    },
+    {
+        "speaker": "C",
+        "text": "It was a regrettable line. Now I have this burden where I have to keep, like, I don't know, crushing it. Whatever it is. Whatever a star is."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Your star has to always be rising."
+    },
+    {
+        "speaker": "C",
+        "text": "I can't ever stop rising linearly, perpetually rise up."
+    },
+    {
+        "speaker": "A",
+        "text": "Only star."
+    },
+    {
+        "speaker": "C",
+        "text": "That's what I have to do now."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, you know what? This episode will be another example of Nick Carter's star rising. What are we talking about today? Not bitcoin maximalism. We're talking about stable coins."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Of your long introduction of many, many titles. We're going to pull apart one particular tribe, the stablecoin connoisseur. This is the version of Nick that we're bringing onto the show today."
+    },
+    {
+        "speaker": "C",
+        "text": "All right. I was actually making a list of these people, like stablecoin people. I really like. There's like a half dozen, but we're. Our numbers are growing. Like people that just love stablecoin. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Stablecoin tribe. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Do you want to give some shout outs?"
+    },
+    {
+        "speaker": "C",
+        "text": "All right. Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "At the beginning?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah, yeah. Okay. These are people I really respect on stable coins. Peter Johnson, of course, my fellow stablecoin loving vc, as vocal, if not more vocal than me on stable coins. Historically, Amin Soleimani, who has been an innovator in stablecoins, I should definitely shout out the make or die people, just like as a general category, and then as far as thinkers are concerned. Antonie Lewis, he used to write a great blog, had some great insights on stablecoins. Luca Prosperi has a great substack. He's also a builder in stablecoins. JP Koenig, I'm sure you guys are familiar with his work. He's sort of on the outside looking in. I would say more of a crypto critic, but also really stellar work on stables. Manny rank on cruise, also excellent writing on stables. Austin Campbell, who I think you guys are familiar with, who's my stablecoin guru. So those are my stablecoin thinkers where I get all my ideas from, basically."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And the stablecoin tribe has definitely grown in strength. It's interesting to call it a tribe, because usually tribes are reserved for native layer one assets and some layer two assets. But the stablecoin cohort is definitely growing in strength. And like I said, this is going to be the focus of this episode today. Stablecoins have always been in the limelight, ever since inception. It's always been a fascinating topic of discussion, especially as they've gone from just like something new to something core to crypto. But even lately, and throughout 2023, it seems to be a particularly shining bright star, if you will, lately."
+    },
+    {
+        "speaker": "A",
+        "text": "Rising star."
+    },
+    {
+        "speaker": "B",
+        "text": "Rising star, yeah. The star of stablecoins continues to rise. So, Nick, maybe you could provide us with a little bit of a snapshot of just your perception as to the state of stablecoins in 2023 as it relates to our industry and just global concerns."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, from the perspective of VC, I think I could just do stable coins for the next year, stablecoin deals, and there would be enough there. So on the kind of entrepreneur capital raising allocation side, I see enough there to just feast on. So that's very exciting. But from the outside looking in, you might be thinking, well, hang on, the stable coin market cap is shrinking. The stablecoin sector is beleaguered. It went from, depending on whether you count ust, I don't know if I would count UST, but if you do, it went from 185 bill to 125 bill. So it lost a full 50 bill in market cap. So you might be thinking, okay, well, stablecoins are over, it's all about fed. Now, stable coins are in the past, but the actual underlying metrics actually look really good. So like actual usage, whether that's transaction count, monthly actives, or dollar value transmitted on chain. And importantly, it's also decoupled from exchange volumes from the proxies for speculation that we see. I mean, I don't really like that word speculation, but whatever. For all the data driven proxies that we see reflecting attention in crypto, whatever that is, those are declining. Stablecoin usage appears to be basically growing. Stablecoin volumes themselves, like dollar value settled, is roughly flat over the last two years, which obviously contrasted with sort of like aggregate prices in crypto is good. Monthly actives are up. And also more importantly, we see these decoupling from stables just being used to settle with exchanges, just being this liquidity for exchanges or liquidity for DeFi, we see it as now an independent global settlement. Rail, where a lot of the usage of stables has very little to do with crypto itself. This broader, hot ball of money crypto economy. And depending on your perspective, some people might say, may not like that. But I think as far as selling crypto to the outside audience, that's a very powerful and important thing, because we've never really been able to plausibly claim, hey, there's some actual utility for making blockchain based transactions that is in some way decoupled from the broader speculative casino in crypto. We're starting to see it. We're really meaningfully seeing remitters embracing it, global payment systems embracing stables, mobile money apps embracing them. This we see very earnestly. It's very real. It's happening globally in virtually every jurisdiction. And to me, that's a very exciting thing. We can dig into the numbers a little bit, but, yeah, I think it's a really key moment to sell the value proposition of public blockchain based transactions to the broader public."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So a couple of thoughts on that, Nick. So you say stablecoin in terms of total value or number of billions in stablecoins is actually down, but other usage metrics are up, which is interesting. I want to ask what kind of usage metrics are most important, but do you think that stablecoins are one of crypto's killer apps? Like one of its use cases where it has found product market fit? I was actually just interacting with somebody in traditional finance, and we were going on it kind of a little, a little bit of a road trip. I was driving one of my kids to a sports event, and he was asking about crypto. You have a crypto podcast? Like, tell me about it. I don't know very much about it. What are the use cases? And I found myself talking a little bit about store of value, right. Kind of like think about gold. Right? Where did gold's value come from? Memetic value and what is actually money anyway? And all of these things. Right? So that's the common store of value type case. But the most persuasive use case that popped into my mind and the one that was most compelling was actually the stablecoin use case. It's think of, you are an argentinian and your bank system is failing you both from an inflationary perspective. So the local fiat currency is failing you, and then the banking system in general has capital control, so it sets a limit on how much you can actually withdraw and how much commerce you can do and who you can do commerce with and that sort of thing. And so stable coins in parallel to a store of value are a killer use case for someone in an environment like that, or take turkey, or take all sorts of emerging economies with less robust, robust banking sectors than we have here in the west. And I found myself relying on that as kind of, this is an example of crypto's killer use cases. This is why we are still here. Do you think that is overselling it, or do you think that apart from store value, kind of, it's the second product market fit that we can honestly point to and say, hey, this is something that works and is good for the world and is useful."
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, I think it's the first thing that we've done that has real product market fit exactly. In 2020. I think I called it, I wrote this white paper, I called them crypto dollars, and I called it a killer app of crypto. And I mean, the difference is that I think it's very easy. Unless someone is strongly ideologically disposed against non bank transactions occurring, and these people exist, and they generally stablecoin haters, unless, that is their ideological framework, virtually anyone can be made to see the value proposition of stablecoins, which is final settlement digitally, instantly cross border, natively interoperable, natively composable public ledger, read, write access everybody has access to. I think that is a very clear and compelling story for almost anyone on the planet. The store value digital gold bitcoin ether story, that's something that a large fraction of the world's population, I think, will never acknowledge or understand or truly internalize. That's a much more difficult story. That's one that'll play out over decades. The utility of stablecoins is apparent today to anybody that's had to sign a bank wire internationally or anything like that."
+    },
+    {
+        "speaker": "A",
+        "text": "I have a hard time, Nick, imagining there are stablecoin haters. Why would someone hate a stablecoin? Does the same individual who hates a stablecoin also not use fiat dollars in their bank account? Do they not pay utility bills or pay taxes? Or what's the take from a staple coin hater? Is this a group that's more exclusive to crypto and not found outside of crypto circles?"
+    },
+    {
+        "speaker": "C",
+        "text": "No, I mean, these people exist in Washington. There's a cohort of people that think that all transactions should be the purview of the state, and thus they should be mediated by banks, which are basically, banks are public private partnerships, so they're effectively an arm of the state. And we see this very clearly this year with what I call operation choke .2.0 where the banks are very clearly deputized for political purposes. And so if you basically reject the notion of financial privacy, or you think only the state itself can create financial privacy, some people do believe that. So if you think transacting financially should be solely a kind of a public concern and not a private concern, you may really disdain stablecoins. These kinds of people tend to also be against fintech broadly, and they call stablecoins like counterfeiting, or they'll point to the sketchiness of tether, say that it's a vehicle for money laundering. But yeah, there's a cohort of people out there that really, really dislike the notion of stablecoins because these are typically private, non bank entities. They're effectively fintechs that are opening up this brand new transactional space. For some people that's totally against their worldview is people making unencumbered transactions."
+    },
+    {
+        "speaker": "B",
+        "text": "One of the things that we say about bitcoin, ethereum, defi, crypto at large, is that they're largely misunderstood by the outside world. And we say the most bullish thing about crypto is to be understood. And I think that can extend to stable coins. Even though stable coins kind of straddle old world and new world, old fi and defi, there's still something that, like, you know, raises the heckles of people coming from the old world, like, oh, that's the new Wild West. I don't like those kinds of stable coins. It's fake, fake money printing, etcetera. But I think that comes from a place of lack of understanding, of just simple global economics in dollar demand, and also history lessons that we've seen play out over time. And Nick, you gave this talk at Token 2049, which is a bit of the inspiration for some of the focus here on this episode. I'm wondering if you can kind of run through the parallels of the growth of the eurodollar market, because I think that is just a logical history is rhyming continuation of what we see with the rise of the crypto dollar market. I think understanding this would allow people to, I think, understand that crypto dollars are pretty inevitable, and we should embrace."
+    },
+    {
+        "speaker": "C",
+        "text": "Them, is why I called them crypto dollars as a direct callback to eurodollars. So that was a really clear attempt to make the analogy."
+    },
+    {
+        "speaker": "B",
+        "text": "We tried to join you with bankless for a while, but we raised the right flag."
+    },
+    {
+        "speaker": "C",
+        "text": "I appreciate that. No, because stablecoin is, I call it a skeuomorphic term, because we only have the term stablecoin because we were starting from sort of native crypto. And so then we called the thing a coin and we called it stable as a contrast to sort of like unstable crypto. But I totally hate the term. I think it scares people. And putting stable in the name is also, I think, a mistake, because occasionally these things will try to discount for genuine market driven reasons. Then people assume that means the whole system has failed, when really it's just the market playing, doing what the market does. If it depex for a second, does that mean the system's a failure? Because the name presupposes one thing and then it's anyway, for if we're going."
+    },
+    {
+        "speaker": "B",
+        "text": "To go down this one little rabbit hole. I've always appreciated rye as a stable coin. Rai, the thing that fluctuates around a dollar, but is free to fluctuate around a dollar and can sometimes be plus 30%. Negative 30%, that's a stable coin. And if it's a tokenized dollar, then it's a crypto dollar."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, totally. It's all about expectations management. And it's funny that like central bankers just hate unstables. They're like, oh, these things aren't really stable. It's like, well, that's not even strictly what we're trying to achieve. We're trying to tokenize a dollar liability held by some issuer and facilitate trade globally. That's what we're trying to do. We don't need this thing religiously pegged to one. They're not even really pegged to a dollar. I mean, tether, for instance, there's a redemption fee. So that implies that it's not actually pegged to a dollar, if that makes sense."
+    },
+    {
+        "speaker": "B",
+        "text": "Anyways. Yeah. To dive down into the history, the semantics aside."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah. So, okay, euro dollars. Stablecoins are tokenized euro dollars for the most part. Right. 75% and a couple percent are crypto backed. And then mostly they're issued by offshore issuers. Of course, the element in the room is tether. I don't know what percentage that is. Like it's in the sixties. I think it's very meaningful. But the biggest onshore one is circle. But circle is still issued by non bank entity. Banks in the US are banned, really, from touching stable coins, which is a huge tragedy and a big scandal, I think."
+    },
+    {
+        "speaker": "A",
+        "text": "Wait, stable coins or do you mean crypto dollars?"
+    },
+    {
+        "speaker": "C",
+        "text": "Crypto dollars, yeah. Stablecoins themselves are mostly tokenized euro dollars. They're also very much like eurusd. Okay, so what's a eurodollar? It's very simple. Euro dollar is a bank liability that's issued by a bank that is not based in the US. That's really it. And this kind of emerged after world War two when people want to make dollar transactions internationally and for whatever reason, they didn't want to do that in the US. One reason was they were concerned that the US would arbitrarily freeze the assets for political reasons. This is why Russia was actually initially one of the entities that was creating eurodollars because there was the cold war, they started creating dollar deposits, dollar liabilities in french banks. I think Josh Younger mentioned this on the odd Lots podcast. I think one of the first things they did was pay striking workers with those euro dollars. So they look and feel just like dollars. It's just they are issued by an offshore bank and they may not actually be backed by dollar collateral, which will become problematic later in the story. Later on, more euro dollars were created because banks saw an opportunity to pay higher interest rates on those deposits, and depositors liked that, whereas in the US, interest rates were actually capped for a while. So theres this kind of market driven reason. The euro dollar market expanded. London became the center of this throughout the fifties and sixties. In the seventies, the oil shock occurred and the pound sterling stopped being the global reserve. In the fifties, actually, and the oil trade began to take place in dollars. Im really accelerating through history here. But what happened was the US started to worry a little bit because they'd been monitoring the euro dollar space. Initially, they didn't know what it was. Then they started to go to Europe and try and figure out what was going on there. And they began to worry that all these dollar liabilities were being created without corresponding dollar assets and without the central banks themselves having access to dollar liquidity. The Fed ultimately decided to reconcile that by creating swap lines with these foreign central banks. Then the hierarchy was like local bank issues, dollars. They would be able to get emergency dollar liquidity from their central bank. Their central bank would have a relationship with the Fed itself."
+    },
+    {
+        "speaker": "B",
+        "text": "Was that kind of a formalization of the relationship between the United States economy and euro dollars?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, the Fed made the, and really sort of the major western central banks made the deliberate decision to kind of defend the euro dollar market because they saw that it was kind of getting offsides."
+    },
+    {
+        "speaker": "B",
+        "text": "But one thing I want to just put opinion about the existence of the eurodollar market was that it's a quote unquote permissionless technology, as in there's no gatekeepers around who can issue a euro dollar. It is just simply an invention of the free market banks to issue dollar liabilities. And because they're outside of the purview of the United States, there's no gatekeeper to say that. And so it's kind of a natural market demanded phenomenon that occurred throughout many banks across Europe. This is correct."
+    },
+    {
+        "speaker": "A",
+        "text": "It's like a gray market."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, precisely. So that's exactly it. It was a market derived phenomenon in response to real market need, which was dollar transactions globally."
+    },
+    {
+        "speaker": "B",
+        "text": "And then that eventually forced the hand of the Federal Reserve to like, okay, this is a real market force. We're going to have to align with it rather than compete with it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, what they could have done was just deny the importance of the market and not create this dollar liquidity, which would have caused a financial crisis abroad. So what they did do over the sixties, progressively, and then increasingly in the seventies, was realize the importance of this market and the value of the market for the US, except that they would have a loss of control. But trade that for dollar stability globally. And for the fact that all these entities transacting with dollars were buyers of the us debt, they were buyers of the treasuries. They basically formalized these relationships, created swap lines, opened up dollar liquidity. The swap lines today are still a politicized thing. Not everyone has that access. If you're an ally of the US, you have pretty good dollar liquidity. If you're a competitor, you don't. But with their partner nations, they created these swap lines and came to realize the value of the euro dollar market. Today. There's more euro dollars than there are dollar dollars."
+    },
+    {
+        "speaker": "A",
+        "text": "How much are we talking about, Nick?"
+    },
+    {
+        "speaker": "C",
+        "text": "Over 10 trillion euro dollars for sure. We don't know the exact number. That's another thing that cracks me up. We know the quantity of stable coins to the nearest centennial. But we stopped counting the euro dollars. We don't know how many there are."
+    },
+    {
+        "speaker": "B",
+        "text": "Importantly, just to double down on something you just said, there's more euro dollars in existence than actual dollars."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, because there's more money in the world outside the US than there is money in the US. And the dollar is a global reserve. It's 60% of official FX reserves. I think it's like 48% of international trade is booked in dollars. You know, something like 80% of all FX transactions have the dollar as at least one leg. So by virtue of the fact that the dollar is a global reserve and the world is much bigger than just the US, there's more euro dollars than there are dollars."
+    },
+    {
+        "speaker": "B",
+        "text": "Is it the eurodollar nomenclature even incorrect? Shouldn't just be called global dollars or non us dollars."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Obviously the creation of the euro dollars preceded the creation of the euro. So it's something to do with visa. I don't know. There's some nomenclature reason. But it does have the funny conclusion that the euro prefix in euro dollars just means a currency issued outside of the sort of domicile that currency. So a euro issued abroad would be called a euro euro, which is pretty amusing."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so when we talk about, like, euro dollars and crypto dollars, we're actually kind of talking about the same exact thing. Except for the fact that crypto dollars just happens on blockchains."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, pretty much. I mean, some crypto dollars are issued in the US, in which case, I wouldn't call them a eurodollar. But in the parallel, the obvious parallel is people are creating these things and using them because the original system is restricted in some way. Obviously you can't do a smart contract transaction using a bank wire. Maybe one day you'll be able to, you can't get access to this transactional space, which is a lucrative, important, growing market. With the legacy fiat system, you had to join the crypto dollar system to engage in crypto type transactions. And also the creation of crypto dollars was a direct reaction to the inherent politicization of the legacy financial infrastructure. The exact, precise reason the first crypto dollars were created, which was really tether, which was the first major one, was because Bitfinex had trouble banking. And so all they had to do was find one bank that would do business with them, persuade that bank to custody some dollar assets that they could issue dollar liabilities out of, and then the dollar liabilities would freely trade so they could settle up with their clients as opposed to maintaining bank relationships in every single country where every single one of their clients was domiciled. And if you guys remember, back in the day, Bitfinex was banked in Taiwan and they were getting chased out of there. And then there's a network of banks. They were always trying to use crypto dollars changed the calculus, where you just have to persuade a single bank to hold your dollar assets in reserve and create the liabilities based on those. So it vastly simplifies the ability to transact in crypto. So the creation of these things was a direct reaction to the very controlled nature of the existing financial system, which is very analogous to euro dollars, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, very analogous to eurodollars, except for the crux of the fact that eventually the Fed, the government, the United States, accepted euro dollars and enshrined them formally. We haven't had that moment happen yet in crypto, but this is kind of what we are hoping for and predicting, right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So this is the speculative part of my analogy, which is on a go forward basis, I expect this will eventually occur and the US will realize they've lost control over the crypto dollar market, which they have. That's been deliberate. They've wanted to lose control. They've wanted to push them abroad. The reason why this key catalytic moment hasn't occurred yet is because crypto dollars are not yet systemically useful to the US. So the analysis I would do is if you look at where we are, if you pretend that crypto dollars have a growth trajectory like eurodollars, we're in the equivalent of 1967. So if you take the eurodollar supply in 67, you inflation adjust it to today, unless my math is wrong, you get to 130 billion roughly. That's the supply of the stable coins of the crypto dollars. So in 67, it wasn't yet fully apparent that euro dollars needed to be backstopped by the US directly. So they were still kind of on the out and out. It was still in the skepticism phase. So basically the crypto dollar supply needs to continue to grow and then make the case to the US that, hey, you should actually embrace this thing as opposed to kind of harassing it. But maybe we don't need that. Maybe we don't need that. It just, for me, selfishly, as a kind of a us firm, US individual, it would be nice if the US did do that. But meanwhile these things are happily growing and thriving abroad."
+    },
+    {
+        "speaker": "B",
+        "text": "Why did the Federal Reserve US government come to the conclusion that they needed to backstop the euro dollar? What was that conclusion?"
+    },
+    {
+        "speaker": "C",
+        "text": "Because the Nixon shock occurred and this question emerged as to who was going to buy our debt post gold standard. Then the oil shock happened, I think in 73. And there's this huge, huge market all of a sudden for euro dollars. And there is a worry that the oil market, that we wouldn't be able to get sufficient oil if we didn't support the euro dollar market. A lot of it had to do with the petrodollar, I guess, a few."
+    },
+    {
+        "speaker": "A",
+        "text": "Housekeeping items here because a lot of this is new information to me or just it's paths I haven't gone down very deeply. So you're telling me that there are tens of trillions of euro dollars out there and it would probably be more accurate to call these like global dollars because they're not all necessarily in Europe. And maybe there's some banker out there who's really angry about the eurodollar meme and just like, us wants to change it to Globo dollar. But that's kind of the reality, right? There are tens of trillions of dollars out there. And by the way, we don't actually have a precise number. Like, we don't actually know how much which coming from crypto, I mean, that feels very weird, right? Shouldn't the central bank be able to run a full node and calculate the supply of their dollars out?"
+    },
+    {
+        "speaker": "C",
+        "text": "Crypto. Great. That's why they like crypto. Yeah, I mean, it's not just euro dollars, it's also physical cash."
+    },
+    {
+        "speaker": "A",
+        "text": "They don't know how much physical cash is out there, obviously. How could they?"
+    },
+    {
+        "speaker": "C",
+        "text": "And there's more dollar cash outside the US than there is in the US also."
+    },
+    {
+        "speaker": "A",
+        "text": "And it's an unknown amount as well because of course it's not on a global permissionless blockchain. So we got you on the technology side, central bank. Well, let me just ask a few housekeeping items here. So as bizarre and crazy as that sounds, I want to get into kind of the incentives at play for the creation of this market. So we're calling this kind of a gray market and it's increasing in legitimacy as the US starts to recognize it. And it's like, okay, euro dollars are here and we can't quell them. Maybe we don't want to. It's not in our interest. Let's talk about the demand side, though. Why are dollars so demanded? Why does everyone want dollars? Why is the dollar kind of better than the euro? I mean, why aren't they using euros instead? Do you have some sense of that? Because that also informs why crypto dollars might be demanded in the future."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, and this is a good question that I think about a lot because crypto dollars are very unique in that 99% of them reference the dollar, which is just remarkable, which is a much higher percentage penetration than we see dollars in any other domain, especially because crypto is a fully global market. I mean, a very global market. So I always wonder about that. What is it about crypto that causes the dollar to have these tremendous network effects that's just squashed any other fiat?"
+    },
+    {
+        "speaker": "A",
+        "text": "And what you mean is there's no, like euro stablecoin. There's no canadian dollar stablecoin really, that."
+    },
+    {
+        "speaker": "C",
+        "text": "Has, they exist but nobody wants them. Yeah, I mean, I think this will change to a certain degree. Like probably people will start, you're a european and you're using crypto and you're using crypto fiat, you're probably using dollars, which is remarkable to me. I think there's a few reasons why people want dollars. One is use a dollar to extinguish a tax liability in the US. Obviously, that's not that salient in the euro dollar conversation. You also need dollars to purchase us securities, so treasuries, for instance. But the other one would just be the network effects of trade. You need some currency to denominate trade, to denominate contracts in. And as the US became the global exporter and just the trade partner for the entire world, post world War two, that was all occurring with dollars. So I think it's just really the network effect and the liquidity benefits that caused the dollar to be so demanded globally."
+    },
+    {
+        "speaker": "A",
+        "text": "What a powerful network effect it's turned out to be. It seems like. I guess the question remains over the decades to come, how durable that is. Of course, that phases into the crypto story, but I just want to understand euro dollars a little bit more. So what you were saying, is it basically the case? So I have dollars in my us bank account, my wells Fargo account, right. And that is a us dollar, that's not a euro dollar. I have FDIC insurance on that account up to 250k. If I have dollars in a bank account in Europe, is that automatically a euro dollar? And then what is it backed by? What composes that specific euro dollar? I think you referenced earlier in this conversation that not normally or not necessarily, there's $1 for every dollar that I have in a european bank account. So maybe it's backed by something else. What is the actual structure of that dollar that I might have in a bank account in Europe? Is that a true euro dollar? And how is it different than the dollar I might have in my american Wells Fargo account?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, so initially they weren't fungible. So you wouldn't have had FDIC insurance if those dollars were in an offshore bank. But as time went on, the connectivity grew greater as the US realized they couldn't suffer these deflationary shocks when people thought they'd have dollar liabilities in these banks and they weren't supported by dollar assets. But yeah, initially the banks kind of were offside in the sense that they had non dollar assets that were backing the dollar liabilities. What I would say theyre backed by now is the relationship that ultimately the local central bank has with the Federal Reserve. Thats sort of the ultimate backing. If you think about your dollars in your bank. What theyre ultimately backed by is the Federal Reserve's willingness to create liquidity if theres a crisis. The FDIC thing is symbolic, I would say the FDIC insurance. And like we saw this year with the banking crisis, FDIC was kind of irrelevant in a sense right, because it didn't support all the unsecured deposits in the banks. So what were your dollar deposits in banks actually supported by was like the feds willingness to create liquidity in a crisis, which of course manifested potentially in inflation. But yeah, it's like your dollars in the US are ultimately supported by the fact that there's a central bank that's willing to create dollars and shore up the banks if necessary, and then it's more diffuse offshore. But I would say it's still the strength of that bank's relationship with their central bank and then the central bank's relationship with the Fed, which is kind of a geopolitical question. So the allies of the US have a tight linkage and the foes of the US or the non affiliated countries, they have a less tight linkage."
+    },
+    {
+        "speaker": "A",
+        "text": "Anyone who the US wants to maybe screw or just not bail out, what you're saying is that example is very pressing this year. And I feel like we all learned that with Silicon Valley bank, right where depositors were, they would have gotten screwed. And there's of course an FDIC limited two hundred fifty k per account. And of course that was bailed out. And all depositors money was basically guaranteed by the us central bank apparatus. And so you're saying that relationship would also exist maybe in a foreign bank dependent on the US's desire, political will, monetary will, to go commit to a bailout should some sort of event happen. So I guess it sounds like it's very different. It's more similar to the dollar I would have in a Wells Fargo account, in that it's backed by, I guess some full faith and credit of the us banking system type of relationship is a little different than a USDC or a tethere, which actually you can kind of like audit. Yeah, I don't know what the latest of tether is, but in the case of USDC, you get whatever monthly audits and you can actually see, oh, this is backed by 70% treasuries and x percent, whatever else, 20% dollars. It's kind of composed by a grouping of assets. In the case of a crypto dollar or stablecoin, and that's a little bit different than a euro dollar. Is that the case?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, I mean the bank's asset, they're like portfolio of mortgages and loans to small businesses. Et cetera. That's the actual asset that supports it. That is not necessarily dollar denominated. The liquidity provider of last resort would still be the Fed, but the Fed, well, rather the US, may not feel that they owe anything to the foreign holders of eurodollars. So I think this is actually something people talk about a little bit, like, well, there's all these dollars overseas, in particular in countries that we're not friendly with. And there may be in the near future, a situation which emerges where we have a global financial crisis again. And the Fed ends up being at odds with the national security apparatus of the US because the Fed's motive will be to shore up the dollar system and provide that liquidity, even if it helps our adversaries. You're not talking about american savers who are potentially dealing with loss or saving. You're talking about total foreigners that we may not feel like we owe anything to. So the kind of Natsack portion of the government might be like, well, why on earth would we bail out, like, people abroad that, you know, like, what do we owe them? Whereas the Fed, their motive is, well, actually our job is just to, like, ensure the sanctity of the dollar globally, even if the dollar was created in a foreign bank. And so this is actually like a debate that will be had in the coming years as to what extent should we support the global euro dollar system."
+    },
+    {
+        "speaker": "A",
+        "text": "That's a very interesting question, right? Because when you look at it through that political lens, you sort of wonder, what's the safer asset? A euro dollar in a european bank account, or USDC denomination of USDC, which is basically a us bank account at the end of the day. And almost feels like under a certain lens, you could easily say USDC is the safer asset relative to a eurodollar. What do you think of that?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, so with USDC specifically, I'd feel really good about it because, well, it's kind of an interesting thing. That's maybe not the best example, because you, no offense to my friends at circle, as a USCC holder, my analysis is you're an unsecured creditor of Circle."
+    },
+    {
+        "speaker": "A",
+        "text": "So unsecured creditor of Circle, it's like."
+    },
+    {
+        "speaker": "C",
+        "text": "You bought a bond that they issued and you get zero coupon for that. So, you know, what would you have to be paid to be a unsecured credit of circle? For me, it's probably more than zero, but that's what USDC holders are getting paid. We'll take a better example, would be like PayPal's pyusd. So that's issued under the New York Trust license. And I don't want to be mean to any given stablecoin here. I love them all equally. They're all my children. But PyUSD is a good example because it's issued New York New York trust license, bankruptcy remote. The regulator is very clear about that. And they do monthly attestations. They're very clear about what the assets backing that are treasuries, reverse repos, some cash probably. And they're very clear about what your assurances are as a holder of that. You compare that to, let's say, the users of the ordinary PayPal product. And JP Koenig wrote a great blog making this exact clear contrast. The holders of the dollar liabilities issued by PayPal in their conventional product have none of those assurances. In fact, there's a higher maturity. It's not just short dated treasuries or cash. There's some exotic stuff in there. They're not as transparent with the disclosures because they don't have to be. And you don't have priority in a bankruptcy or liquidation situation. So because of the way that crypto stablecoin regulation is being treated in the US, at least the crypto dollar holders of PyUSD are in a far better position than the dollar holders of ordinary PayPal issuance."
+    },
+    {
+        "speaker": "A",
+        "text": "And by the way, Nick, for people who haven't kept up with this, PyUSD is a new PayPal stablecoin that just was started being issued, I believe, this summer. It doesn't have a lot of traction yet, but you're saying actually the settlement guarantees, let's call them a Py USD, are actually pretty strong."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. The overall assurances you have from being a user in that system, I mean, look, there's a freeze and seize function as most fiat backstables have stabletakes. Yeah, yeah. Table six, we can dig into why you probably should have that. But yeah, the assurances of the system, because of the weird contingency that it's a crypto dollar, are far, far greater than the assurances you have being an ordinary user of PayPal. And not all stablecoins are like that. They're not all issued on New York with New York trust license. Obviously the biggest stable coins, big questions around them. Other stable coins in the US, there's an array of strategies, issuance strategies. Some are state by state MTL, some are issue out of trusts, but on kind of a go forward basis, my general statement would be, id be far more comfortable being a stable coin holder than I would be a citizen of some foreign nation with a dollar account in their bank account."
+    },
+    {
+        "speaker": "A",
+        "text": "I have one last question about the euro dollar, and thats with respect to how it grows and how its issued, is it basically just a function of demand? Im very familiar with how stable coins grow and stable coins grow when the market demands or stablecoins. Right. So if there's more demand for USDC, then it can just, you know, there's more USDC liabilities in the account and they can issue more USDC and it just kind of ratchets up with demand. Do euro dollars work the same way? Are they just kind of like they could mint infinite? I suppose, to the extent that the demand is there."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, I mean, the bank solvency is ultimately the question. So if they're over issuing dollars and then there's a run on the bank, the bank itself runs into trouble and could potentially go bust. It's the same constraint applies. It would be a capital ratio, liquidity ratio. So they'll be able to issue dollars commensurate with whatever the local regulatory requirements are, but ultimately it would be a function of the demand to hold dollars in that bank."
+    },
+    {
+        "speaker": "A",
+        "text": "So do you think crypto dollars could be a competitor to eurodollars in the future and start to take some of that market share?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, I think they are a force for your dollar creation, basically. But also crypto dollars don't have to be issued by a bank. I mean, we see non bank issuance of crypto dollars. So it could well be the case that the banks are kind of cut out of this process whereby you have a crypto dollar issuer, you have some custodian that holds treasuries for them, and some intermediary that helps with liquidity, and there's no bank involved at all. So basically, I think crypto dollars are the new euro dollars. They could also be accretive to the euro dollar sector generally. But yeah, I see them as basically the new euro dollars."
+    },
+    {
+        "speaker": "B",
+        "text": "I want to talk about some of the drivers behind the rising star of crypto dollars. Why is it gaining momentum? Not few things in 2023 have actually rose in popularity, rose in utility, rose in interest. Stablecoins is definitely one of them. But why? You alluded to earlier, Nick, that it's actually decoupled from exchange volumes. There are net new buyers of stablecoins. There are net new transactors in stablecoins. Who are these people? What are the sectors of the world, the sectors of industry and parts of the globe that are like leaning into the crypto dollar world?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, and I'll caveat this by saying that we see monthly active and weakly active users increasing for stables. The volumes, as far as I can tell, are flat, but obviously relative to crypto, that's good."
+    },
+    {
+        "speaker": "B",
+        "text": "Flat is up in this day and."
+    },
+    {
+        "speaker": "C",
+        "text": "Age flats up and the total supply of stables is contracting. But so, so that means velocity is increasing, so we're doing more with less. In terms of monetary base, I would love to know who all these people are. And it's very circumstantial. You have to put the puzzle together. So based on all the pieces, I'll identify a few kind of categories. So one is cross border payment remittances and we see the legacy remittance providers getting into the stablecoin space. So that's the thing that's happening. Like Moneygram is getting into it. But you also see new crypto native remitters engaging in stablecoin transactions to satisfy the cross border lag. And these are just new names that are emerging. A lot of these remitters will be using cryptodollars without their users knowing about it. So this is kind of like utility scale. B two B two c type mechanics. So thats certainly a category. They may not be holding a big float because this is more for payments, but wed certainly see that another cohort is stablecoin. Like fintechs, banking service companies, emoney mobile money companies that are giving their users access to the dollar, whether its for transactional access or just to hold the dollar. And maybe an interest bearing mechanic, like a tokenized treasury type thing. This we see mostly outside the US. Obviously, we're very well served from a fintech neo bank perspective in the US. But in ems you see this and there's a bunch of new names emerging there. And I think within a year or two we'll see massive, massive companies built here. And we've talked to like at Castle island, we've talked to like two dozen of these firms in the last couple of months. A lot of them. Their metrics are just skyrocketing as users become more comfortable with this or as users become more attuned to the risk of their local fiats. We've seen banking crisis around the world, the hotspots. I see, everyone knows LATAM is a hotspot for this. That's probably the number one place. There's a combination of latent amounts of wealth there. There's obviously a flow of remittance in and out. Depending on the country. There might be a very unstable or weak fiat system. You've even seen dollarization episodes in LATam. And there's also a very tech savvy, mobile first user base. So I think that's why you see such high penetration in Latium. The other hotspots we see are Eastern Europe, again, very technically savvy populations and history of unstable currencies, unstable governance. We see this in Africa, where investors and I think the largest crypto brokerage in Africa, yellow card, the main thing people do with them is make cross border stablecoin transactions. And of course, the dirty secret of all this is that a lot of it is on tether, on Tron specifically. So we joke about it, but Tether Tron is the number one crypto application that anyone has ever come up with, which is pretty amusing. And then you see a lot of usage in Southeast Asia as well. So it's like you really have to put the picture together. I'd love to know, just from looking at the on chain data, what's going on, but of course, there's only so much you can piece out of that. So we have to go kind of bottom up."
+    },
+    {
+        "speaker": "B",
+        "text": "We were joking earlier about, we call them euro dollars, but they're really global dollars. They may be just the meme started in Europe, but really it's a global phenomenon. But maybe that's just because Europe is more financialized and more banked than the rest of the world. So they got to this phenomenon first. Is it accurate to say that crypto dollars, stablecoins, blockchains, are a democratizing force for access to what we call euro dollars, that blockchains have helped, like the non Europe, non United States, parts of the world actually penetrate into the crypto dollar market. Is this a democratizing force that's being brought to play here?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. And people talk about, like, financial inclusion. I've talked about it for years in crypto. And, like, sometimes it's just total red herring facade, like a justification for what we're trying to doing, but, like, it's very real. So my prediction here is actually, if you actually look at it, the euro is becoming less and less influential because Europe is fading in many ways. My prediction is the dollar actually kind of re entrenches their dominance in the coming years. And I think crypto is a big part of that. I think you'll see this spontaneous crypto dollarization occur. And I thought this would happen back in 2020. I started talking about it in a podcast, mini series. I wrote my little white paper about it. I thought you would see crypto dollarization episodes and, like, in certain hotspots. You have seen this definitely. Like in Venezuela, it's absolutely the case that crypto dollarization has occurred with a certain portion of the population. But I basically think there's going to be many fewer fiats in the next kind of 20 years or so. And it's not that I think, like, bitcoin is going to kill them or anything, it's the dollar will kill them, right? Like, the dollar will be forcibly imported into these countries and the local government authority will not have the tools to stop this. And if these countries are democracies, it will be politically unpopular to try and inhibit this. It won't make sense at a certain point. So I think you'll see a lot more countries kind of submit to dollarization if their local population becomes too fed up with the kind of fiat mismanagement. But as far as giving people access to dollars that they never had before, in a lot of these countries, elites have access to dollar accounts in the way that they get that as they literally fly to the US with cash. They deposit the cash in bank of America. For some reason, bank of America is very common with Venezuelans, for instance. That's obviously not something that ordinary people can do. But now that you have fiat liquidity, whether it's p two p basis, like Binance, p two p or with these exchanges that are pretty well established and basically every country on the planet, all the tools are there and high quality wallets, crypto wallets that work, or fintechs that can kind of intermediate this. If you don't want to bother with key management, all the pieces are there for this to occur. So as the world gets smaller, as blockchains tear down these kind of geographic barriers, you'll see, I'm certain, episodes of crypto dollarization. And basically we're going to see the dollar be this kind of apex predator that predates on all these weaker fiat currencies. So I might have been early in this prediction, but I kind of stand by it. I still think it's going to happen."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And I'm going to put something up on screen here. This is a slide from your recent talk at Mazari, which is just. It's got three lines on it. Two that we're going to focus on. One is the supply of USDT tether, of course, and one is the supply of USDC circle. And these lines largely move in parallel with each other with UST in the lead right up until recently, right up until a few months into 2023, when they just massively diverge. And. And USDT grows to basically new highs that it's never seen before in the crypto world. And then USDC has seen a decrease in supply from about almost 50 billion down to below 30 billion. With the context that we just had in this conversation, Nick, and the demand for crypto dollars outside the United States, what is the signal that we get from this slide? Why is this slide significant?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think it's one of the most important charts that I've put together. I tweeted that, and people are like, this isn't interesting. This is not an interesting chart. Found it interesting. I found it interesting. So this shows the disparate rate sensitivity of the two major stable coins. And this tells us so much, this tells us so much. It tells us that USDC holders are rate sensitive. Of course USDC holders are. A lot of them are us based firms that wanted to make crypto transactions. If you were to plot the crypto yield, the kind of native crypto yield that there's not one, but there is a collection of crypto yields against the tradfi yields, the crossover would have happened in late 22, early 23. And that's the moment when USDC supply started to draw down. This is just like how sovereign currencies work, by the way, if there are two similar nations, two similar currencies, and one of them pays a very high yield and one of them pays a low yield, capital will flow into the high yielding one. It sucks it in and out of the low yielding one. So it's the exact same thing happening here. Like cryptoland stopped paying a high yield. I mean, we can talk about the yields in crypto. Some of them were illusory. Whatever. Fiat land started paying a high yield, in fact, it's gone up since this. It's astronomically high right in the US. So USDC holders all of a sudden have this massive opportunity cost where they're getting paid zero to hold this stable. And crypto opportunities weren't as good, and it wasn't difficult for them to move back into fiat and put their money in treasuries and earn the now 535 basis points. This is the main thing that's responsible for the sell off in stablecoins is the fact that stablecoins pay zero yield. It's like a savings account in the bank that pays you nothing. You're not going to keep your funds in that bank. Actually, this happened to me just last week. I pulled all my funds out of my credit union because they're paying 20 basis points on my cash, which is ridiculous. Meanwhile, Tether is rallying. It's an all time high. Tether also pays zero yield. So what's going on? There's something substantively different between Tether and USDC, or at least there's a perception. And I think it's that tether holders are more remote from the US, and they don't necessarily have the ability to go from crypto dollars to fiat dollars because that's more difficult for them because they're either unable to or unwilling. They're able to tolerate the opportunity costs much better than a USDC holder was. I find it fascinating. I think it tells us a lot about the different user bases. I think it tells us that USDT holders are holding it because they want to be as far away from the US as possible. And whereas USDC holders, we know they're much more proximate to the US."
+    },
+    {
+        "speaker": "A",
+        "text": "It's actually much more fascinating when you explain it that way. On first glimpse, I looked at it and said, okay, so tether up, USDC down, right? Maybe that's because of regulatory crackdown or something, or maybe that's because tether is just winning some sort of a narrative war. But the way you explain it, I think sheds a lot more light into it. And I also wonder about kind of a product that this seems to imply that would be highly demanded by the entire global market, including uS users of USDC. And that is the idea of tokenized Treasuries, because then you could actually get that fed fund rate on top of your stablecoin and have kind of the benefit there. Does this chart also imply that that demand could be sucked up by an ERC 20 or some sort of form of a tokenized treasury where you're getting that fed fund rate yield on top of your dollar?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, that's one of my big hypotheses for this year. You look at the ETH to staked ETH transition in Defi, where staked ETH derivatives became a very dominant form of collateral. I think the exact same will happen with stables. It won't be a full replacement. We won't go from all of the tethers, 86 billion of tethers, to 86 billion of interest bearing stablecoins. But I think it'll be a very meaningful share because 550 basis points or 500 basis points of opportunity cost is very real. So we're seeing dozens of these emerge. All kinds of different approaches. The commonalities, a lot of them are issued offshore, so they're finding jurisdictions that are willing to have a interest bearing stablecoin or tokenized treasury list in foreign jurisdictions, because of course, it'd be very hard to do it, if not impossible, in the US. So technologically, there's no reason we can't do this. It's just not that difficult to pass on some of the yield. I think users are a little bit fed up of these firms, the stablecoin issuers, internalizing all of their yield. I mean, that's kind of ridiculous. People at this point know that tether, they have, what, 50 employees? They make $4 billion a year, roughly from the treasury and asset portfolio they're sitting on. They pass on. And none of that."
+    },
+    {
+        "speaker": "A",
+        "text": "Are you saying 50 employees generate, did you say 4 billion a year?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So I think tether is the most profitable per employee business on the planet at this point. And I mean, that is stupid. Look, they have the golden goose, they have the liquidity everywhere. That's fine. Some percentage of their clients will be fed up with that, and they'll move to. Unless tether themselves turns on the yield spigot, you'll see this competitive dynamic emerge just the same way that banks are now competing with money market mutual funds or certain banks that are now passing on a lot more interest. As interest rates have risen, you'll see this competitive dynamic emerge where some newer issuers that are willing to pass on a good portion of that yield will do very well at the expense of the incumbents. The difficult thing for USDC is they probably can't do this in the US, at least not on chain. They're trying to get around this by not calling it a yield, they're calling it a reward. They're passing on some of the underlying yield from USDC via coinbase and things."
+    },
+    {
+        "speaker": "A",
+        "text": "Like that is the security regulations that prevent them."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, for sure. The SEC even thinks BUSD, which is a non interest bearing stable, is a security. Under their very strange reading of the."
+    },
+    {
+        "speaker": "A",
+        "text": "Reeves test, it seems like they might think Pokemon cards are security here lately, Nick, so you. Who knows? If it's tokenized, it's got to be a security, right?"
+    },
+    {
+        "speaker": "C",
+        "text": "They think everything's a security, but it certainly doesn't help your case if you're paying an explicit yield to the holder."
+    },
+    {
+        "speaker": "A",
+        "text": "Fair enough."
+    },
+    {
+        "speaker": "C",
+        "text": "And look, we talked to a lot of startups that we're trying to do this in the US, but us issuers will basically not be able to do this. This will be another force. I've been talking about the offshoring of balance sheet from the US to other places and to other ex US issued stables. This will be another force that accelerates that."
+    },
+    {
+        "speaker": "A",
+        "text": "This is fascinating. I mean, you've got maybe near the end of this episode we can kind of lay out Nick Carter's crypto dollar predictions. But one of your predictions earlier in this episode seemed to be that crypto dollars will maybe surpass at some point euro dollars, which would be quite the feat. And the second prediction of the coming of a tokenized treasury would be maybe another prediction that I'm hearing you make. But a lot of this depends as we start to talk about what the US wants on actual US banking regulatory apparatus and what's in kind of the best interest of the United States. And it feels like they're kind of split brain on this a little, maybe schizophrenic, or there's different factions that want different things. And I'm wondering if you could walk us through the regulatory idea maze here and kind of the incentives at play, and maybe we can pull in parallels from the eurodollar market. It seems like probably, maybe you would know much more, but probably in the fifties and sixties, with the emergence of the eurodollar, the US regulatory apparatus would have squashed it, maybe if they could. They don't necessarily like things that are outside of their jurisdiction and control, but they were content to kind of let it grow. And then it became so big and they found some wins there with petrodollar and other things exporting us monetary supremacy, that eventually they just brought it into the fold. Right? Maybe begrudgingly at first, but they saw enough benefits, saw enough wins to kind of bring it into the fold. What is the current us posture towards crypto dollars right now, aka stablecoins? They've been interchangeable through this episode, but crypto dollars, and how do you think it'll play out? Like, what are the wins for the US and what are the things that they might not like about crypto dollars?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, and this was kind of my subject of my talk, which is basically the conclusion of all that was, it's kind of up to them. It can be really good for the us american interests, or it can be kind of less good. And it really depends on whether they want to fold them in and embrace a sector or whether they want to push it away. So it could well be more hostile to us interests if they push stables away. Way, if a few things happen, like if stables start to be issued against crypto collateral as opposed to dollars, then that wouldn't be good as far as the crypto dollar sector being a buyer of the us debt, because instead crypto dollars would be buying ether and potentially bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "That's what the US wants. That's one thing the US wants is they want buyers of treasuries, basically US debt."
+    },
+    {
+        "speaker": "C",
+        "text": "In theory, yes. They don't seem to care very much. The stat that I have is crypto dollars overall would be the 16th largest sovereign holder of US debt already. 16th? Yeah. Mexico more than Saudi Arabia more than Germany."
+    },
+    {
+        "speaker": "B",
+        "text": "You say that like quote the government. They don't care, but they're naive. Right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Naive or there's some overriding concern. So one concern is the loss of control, similar to eurodollars. And I think what they don't understand is if they were to cultivate a network of issuers here in the US, they would still be able to exert meaningful control. I mean, it's not like your ability to project power, you know, through sanctions enforcement or to pursue law enforcement objectives. That doesn't go away with a stable. You can still ask the issuer to carry out your will. And the stablecoins themselves listen to law enforcement. I mean, even tether does, right? Tether has frozen more addresses than USDC, I believe. So what they should want is accountable issuers that are willing to listen to courts and listen to treasury if they want to pursue some kind of political objective. But of course, stablecoins are less accountable than ordinary transactions that are happening fully within the banking sector because they're cash like transactions. These are p two p. So I think that's one thing they don't like. I'd say often if cash was invented today, it would be illegal. This is like the reinvention of cash. And so it's not surprising they don't like it even if it can be frozen a distance, unlike cash. The other thing they're worried about is quote unquote financial stability. So it's very ironic. Us regulators think stable coins and crypto like helped bring down some of the banks that failed earlier this year. I don't buy that. In fact, I think the banks were pretty much taken out behind the woodshed and shot, and that's being pinned on crypto. So I think it's pretty much the opposite. But what they worry about is like, oh, what if tether redeemed all of their outstanding liabilities in one day and they had to sell off their entire treasury portfolio? Wouldn't this cause yields to spike? The obvious point there is stable coins or cryptid are still very small relative to treasury liquidity. Austin Campbell wrote a good blog post on this. I dont see a scenario today where thats a threat. Also, I dont think its very likely that all of the tethers will be redeemed all at once. In fact, everything weve seen about tether is that its incredibly sticky. People dont want to redeem their tethers. They want to keep holding them, and they may not be able to redeem them. Frankly, thats the other worry they have. Its a loss of control theyre concerned about, and then I think this pretextual concern about financial stability. So with all that in mind, what weve actually seen this year is every tool in the toolbook the US has to suppress and quash the stablecoin sector theyve used. So in January, they denied the custodia application the Federal Reserve did to get access to the master account, which is basically the core of the Fed. Instead, that meant that custodia couldn't issue their own stablecoin, which they were trying to do with a bank charter that sent a signal to anybody else that was trying to get a bank charter to issue a stablecoin, which, in my opinion, would be the best way to do it through a chartered bank, not just with a state by state money transmission license. In March, we had this crisis with the banks, Silvergate and signature. Silvergate choose to voluntarily liquidate. Signature were shuttered and unfairly, in my opinion. They both ran this fiat clearing infrastructure, which was very useful for stablecoin, liquidity sen and Cygnet, respectively. What they allowed was 24/7 liquidity for the creation, redemption of stablecoins. The process of winding down those banks and having their assets sold off in that process, Cen and Signet were not included in the sales, which violates the FDIC's mandate to maximize the value of those sales. So this is a huge scandal, in my opinion. It's really a huge, huge deal. This is like key infrastructure that should have been sold to someone to keep these networks running. And the government didn't allow that to happen. So they basically selectively destroyed a key piece of crypto infrastructure which was very useful for stablecoins. That's a huge deal. Also in January, all of the major federal bank regulators wrote a letter saying, yeah, we think stablecoins are risky. Don't touch them. In August, they wrote another letter the Fed did, saying, yeah, look, if you want to do stablecoin itself as a bank, you can do it, but you have to ask us permission and get a letter. So basically they're saying you can't do it. So everything they've done to date has been an effort to discourage stablecoin activity in the US, specifically with banks. And that's I think a big part of the reason why we see the stable coins going offshore."
+    },
+    {
+        "speaker": "A",
+        "text": "It's frankly, Nick, been kind of bizarre behavior because what they are in effect doing is they're trying to slow it down in the US, but they are in effect, as long as the demand is there. We saw this play out with eurodollars. They're actually just driving it offshore and they might even be driving it towards a different asset, as you said. Well, if they're not going to allow dollar backed stablecoins, then how about an ETH backed stablecoin or another crypto asset backed stablecoin? So it's frankly been kind of bizarre behavior. And I'm wondering what you think about this kind of not a conspiracy theory take, but just sort of an influence type take, which is, is how about the big banks? It seems like they might have a lot of sway in Washington, in DC, and are tied up at some level with the kind of the central banking apparatus. What about when they get a product to sell? Maybe the approach makes some logical sense if some of the larger banks are just trying to slow down, almost like these neo proto banks call Coinbase or circle like proto banks slow them down until they have a product that they can sell. Very interesting to me that JP Morgan for instance, they have a private blockchain. Like not a lot of people are aware of this. It was formerly called Quorum. It's called something else now."
+    },
+    {
+        "speaker": "C",
+        "text": "Onyx, I think."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, onyx. And they're doing things on their private network and there's an actual JPMorgan chain. I could imagine that they would want to issue that as an ERC 20 on public networks and take some of this global market that you're talking about and they haven't been able to yet. And I'm wondering if it's just because. Well, I'm wondering if the tide could change if there are enough wins for traditional Wall street or the big banks to kind of push this know down the throats of regulators who might be resistant. What do you think of that theory?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, its a great question. I think generally open interoperable networks probably are not good for the banks and banks as an industry, especially now that rates are high. So in theory, banking is more profitable. They probably wouldnt like the competitive dynamic where a bunch of quasi banks were able to emerge charge all of a sudden very quickly, the banks certainly benefit from the status quo whereby it's very expensive to charter a new bank, if not impossible post financial crisis. Dodd Frank made it very, very hard to create a new bank. So the rate of bank chartering became effectively nil after that, which is a."
+    },
+    {
+        "speaker": "A",
+        "text": "Form of regulatory capture."
+    },
+    {
+        "speaker": "C",
+        "text": "It's a very unfortunate situation, and it reduced the competitiveness of the banking sector, in my opinion. So the banks themselves, I think some newer, smaller banks would want to hitch their horse towards the crypto space and become stablecoin issuers and compete. That's what Silvergate and signature were trying to do, was to be crypto focused banks. That's what custodia was trying to do. So the states want to charter these things. There's newer banks that want to do this. They want to distinguish themselves by doing crypto. The big banks, I think the status quo works for them. However, there's also the asset managers. BNY Mellon has clearly had crypto ambitions for some time. Blackrock is active. They work with circle. They actually administer some of these assets. They would like to issue an ETF. There's a whole laundry list of asset managers that seek to benefit from crypto. We know fidelity is active there. Franklin Templeton has a tokenized treasury product. From the asset manager side, I think theres certainly the will there. One problem is this obscure accounting rule, SAB 121, which means that if you are a bank, you have to take a capital charge against any crypto asset that youre holding, even if its on behalf of your customers, which is kind of a ridiculous interpretation of how it works. That holds any bank back from touching crypto meaningfully. So I think you kind of have to disaggregate the institutional environment a little bit. I think its heterogeneous, basically. I think the large banks dont have a lot to gain from public blockchains. I think certain asset managers have something to gain from it. And I think smaller banks that want to win market share certainly have a lot to gain from it. And its them that have been really harshly stymied here."
+    },
+    {
+        "speaker": "B",
+        "text": "The conversation of stablecoins is always, in my mind, an innovation on two fronts. One is the trad world innovation, and this is just legal work, making sure you're buttoned up, making sure you're accepted, and then maybe some bd stuff, some trad stuff. And then there's actual raw stablecoin innovation on the crypto side of things. And that's where I want to ask you about next, Nick, about the new frontiers of stablecoin innovation. There's topics here, like on chain t bills, which, again, kind of straddles both. But then there's new form factors for stablecoins, which are a little bit more crypto native. But overall, if we talk about just like stable coins and a roadmap, if you will, like Ethereum has got a roadmap, Solana's got a roadmap. If there's a perceived stablecoin roadmap about like, you know, things to squeeze juice out of, what do you focus on? What's there left to squeeze here?"
+    },
+    {
+        "speaker": "C",
+        "text": "Wow, there's so much juice to squeeze, man. It's very exciting. Like we'll see l two s that are stable coin focused, l one s that are stablecoin focused. We will see like aggregators for stablecoins to emerge, especially as stablecoin liquidity becomes very fragmented. So you see the one inch for stablecoins, the cow swap for stablecoins. On the stablecoin issuance side, you'll see interest bearing stables, you'll see crypto backed stables. Especially now the ETH has this positive carry. Now for the first time, in some ways it's possible to have a robust eth back stablecoin, a synthetic USD. That's all very exciting. Then on the financial rails you'll see more efficient ways to stitch together fiat rails and stable rails to create an alternative to the correspondent banking system, which is highly, highly efficient at moving money. So you see global venmos, global PayPal emerge when they just weren't able to do that before. Then you'll see more sophisticated, especially offshore fintechs that are fully powered by stables on the backend, custodial, semi custodial deal. So I mean, total cambrian explosion is what we're seeing. And the quality of entrepreneurs here and the number of startups I'm seeing is very significant. As I said, I could just do stablecoin related deals for the next year probably, and that would be it."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "So we started off this conversation saying like, oh yeah, stablecoin is kind of crypto's killer app, right? I think what you're calling for is like, yes, and we're just getting started. You ain't seen nothing yet. That kind of seems like what you're saying."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, it's remarkable actually. Like how, how in some ways poor the stablecoin experience has been. The stablecoins that exist don't give us great assurances. I'd love to see better transparency also in the accounting. I would like to see real time proof of assets as opposed to monthly attestations, which I don't like. I would like to see much more concrete property rights carved out. So I would like all issuers, to find a way to make the assets bankruptcy remote held for the benefit of holders, as opposed to being an unsecured creditor, that's bad thing. So there's a lot of legal and contractual innovations to occur there and then stablecoins are still pretty siloed. They are not fully integrated into the financial system in the US or abroad. One interesting thing that is making them more proximate is the emergence of rapidly settling payments on the fiat side. If you want to go from fiat to crypto to fiat for, let's say, an end to end remittance that you want to send from the US to whatever the Philippines, the historical issue was that there was a settlement risk on the fiat side. So it was always the fiat leg of the transaction that was a problem. But as these newer payment systems emerge that settle very quickly on the fiat side, now you can do that whole transaction and maybe in seconds, as opposed to having the issuer trying to take on some risk where ACH might be reversible after some number of days, a credit card payment might be reversible, like this chargeback risk. So one interesting thing that's going to make stablecoins better and more useful is fiat transactions getting better and more useful as fiat transactions approach the settlement speed of stables. That makes the whole system more functional, if that makes sense, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So the properties, the underlying strengths of one fiat network impacts how strong the stablecoin network can be."
+    },
+    {
+        "speaker": "C",
+        "text": "If you want to go end to end from fiat via crypto to fiat, the fiat leg on the ingress side needs to be fast settling. Otherwise, the entity that's intermediating the transaction is taking on a whole lot of risk. And it's one of the weird ironies. We think the us financial system is really good, actually, relative to many, many others, including developing world financial systems. It's very, very bad because there's a lot of settlement risk in the us financial system, typically. And actually, as we see more real time payment systems emerge, even fed now, potentially, believe it or not, that will actually make the experience of going from fiat to stables back to fiat much, much better. That's a weird thing that's been holding us back, is actually the fiat side that sucks."
+    },
+    {
+        "speaker": "A",
+        "text": "Fed now is bullish for crypto. So I want to ask you for the crypto natives who've been hanging out this entire episode, who are excited about crypto dollars and the potential, but they might have the question, okay, so how about our crypto native assets? What does this do for our bags? Nick, since we've been talking about stable coins and crypto dollars. There's always been kind of two sides of the coin here. Some have made the argument that crypto dollars are actually parasitic to the value of ether and bitcoin because they represent sort of a monetary demand that's expressed in dollars rather than in crypto native asset. And others have said, no, adoption is good. More addresses and more people's more use cases and more gas fees and all of these things, what do you think? So if this vision comes true and we get crypto dollars rising to scale of the euro dollar market, is that going to be good for crypto native assets like bitcoin and ethereum?"
+    },
+    {
+        "speaker": "C",
+        "text": "It depends on whether you lean into the change or whether you reject it, I think. I wrote a blog post for your newsletter some years ago saying I think crypto fiat was parasitic."
+    },
+    {
+        "speaker": "A",
+        "text": "You did? You totally did. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "At the time, I think I'd be saying it was. I think the real question is how quickly are you able to internalize this reality? One of the charts I showed on one of my talks showed that, that something like 70 80% of all dollar value settling on blockchains is now happening in dollars as opposed to bitcoin or ether or other l one s. And when I wrote my first white paper in 2020, it was 30%. I already thought that was a big deal, and now it's like 70 80%. So it's a huge deal now. So it's the challenge I pose to the protocol engineers, can you make your blockchain such that it benefits from the existence of settling non native assets? The ETh folks, I've said this before, I think did a good job because ETH tokens are able to extract some of the value from the transactions happening in fiat via fees and the burn mechanism, things like that, bitcoin is still more up in the air because, well, there aren't really a lot of crypto dollars settling on bitcoin, but potentially it could be a force driving up fees if that were to be to become a domicile for crypto dollars. But it would also eliminate the medium of exchange value prop of bitcoin. Not, maybe not eliminate it, but challenge it. And this is a big argument I've been having with the bitcoiners. Is bitcoin being a medium of exchange and bridge currency an absolutely inherent part of the bitcoin thesis? If it is, that's challenged by the emergence of stablecoins, for sure. However, if you can position your blockchain such that stablecoins represent a revenue opportunity for the blockchain itself, then you can certainly benefit from it. So I dont think its a bad thing for crypto that were settling a ton of dollars. Thats usage. Thats very real world economic usage. That seems like a great thing. But the question is, can you position yourself to benefit from it? I think youll see a lot of these l one s start to realize this and start to try and position themselves to be the stablecoin domicile of choice. We certainly see this with the stellars of the world. Solana is leaning into this heavily. Eth, I think, tends to not really care what kind of transactions you're doing. So maybe this is for the newer, smaller l one s that want to distinguish themselves in some way. But yeah, it's kind of up to you really whether you benefit from this trend because it's very real and I think intensifying."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it'll be fascinating to see what l two s do with it as well. I mean, base is a fascinating experiment with Coinbase, who's obviously very friendly with USDC and circle and now has their own layer two. There's going to be a lot of innovation here. Nick, a final question for you. You've been kind of an oracle of crypto dollars and stable coins for a while long, predicting that their star would rise. Is that the fourth time we've used that in this episode? I'm not sure. So give us some of your predictions over the next three to five years. What's going to happen, do you think, in the world of crypto dollars?"
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so first of all, I think the us dollar is going to remain the main unit of account. I think the interest bearing cohort of stables, it's less than 1%. I think it'll be at least 25% within two to three years."
+    },
+    {
+        "speaker": "B",
+        "text": "Wow, that's large growth."
+    },
+    {
+        "speaker": "C",
+        "text": "So I think that'll be a huge, huge shift. I think tether will eventually realize this and probably be forced to create their own competing product. USDC will not be able to directly. Maybe they'll be able to indirectly the way they're currently doing it. I also do think crypto collateralized, starting with ETH collateral, but also moving on towards bitcoin collateral. Those will become a meaningful sector, at least 10% of supply. And of course, I think total supply is going to grow dramatically, like completely plausible to me. We'll see $500 billion worth of stables within three, four years."
+    },
+    {
+        "speaker": "B",
+        "text": "Do you think stablecoin market cap might actually overtake ether market cap?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think so. Yeah. I certainly see that. I think stables will ultimately flip in the kind of crypto native assets. I mean, it's an interesting question."
+    },
+    {
+        "speaker": "B",
+        "text": "Like bitcoin, too?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah, sure."
+    },
+    {
+        "speaker": "B",
+        "text": "Wow."
+    },
+    {
+        "speaker": "C",
+        "text": "For sure. Like, what's the supply of all stocks and then what's the supply of all dollars? It's actually probably pretty close parity. It's actually probably pretty close. I think their equity, public equity might market cap, but bitcoin and ether, like, just a subset of that. So, yeah, I think crypto dollars will ultimately exceed the l one tokens. Rather, one thing I think is that the rise of crypto collateralized stables will push down ETh yields, because that'll be a big consumer of ETH stake staking and also push down the yield from the basis trade on Ethan bitcoin, because basically stablecoins themselves will be doing this carry trade."
+    },
+    {
+        "speaker": "B",
+        "text": "You think the issuance and minting of stablecoins will use ether staking as one of its assets?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah. I mean, so you look at these synthetic stables like Ethan, a good example where they're long staked ETH, and they're also short eth futures. Both of those have a positive carry, as you see, billions and billions of this type of stable created. It'll push down both of those yields. I think the other big prediction is other jurisdictions will embrace us dollar stables. This is clearly already happening. And then I think longer term, it'll take the US some time to realize this, but they'll see the benefit and themselves fold stablecoins in and potentially even give stablecoin issuers closer access to the central bank directly. So I think eventually you'll see that."
+    },
+    {
+        "speaker": "A",
+        "text": "Any short term NIc US laws, do you think that will be pro stablecoin? Do you see that happening in the next one to two to three years?"
+    },
+    {
+        "speaker": "C",
+        "text": "Certainly not before the election. Maybe if the Senate becomes republican, then maybe we'll see that, but not with this current senate."
+    },
+    {
+        "speaker": "A",
+        "text": "Here we go. Nick Carter, thank you so much."
+    },
+    {
+        "speaker": "C",
+        "text": "This is great."
+    },
+    {
+        "speaker": "B",
+        "text": "I learned a lot."
+    },
+    {
+        "speaker": "A",
+        "text": "Clearly, you are bullish crypto dollars, and maybe we never call them stable coins again. This has been an absolute pleasure. We appreciate it."
+    },
+    {
+        "speaker": "C",
+        "text": "Thanks, guys. It's been great."
+    },
+    {
+        "speaker": "A",
+        "text": "Bankless nation. Got to end with risks and disclaimers. Of course, crypto is risky, but crypto dollars, on the other hand, no volatility there. You just got to make sure you know what backs them. You could definitely lose what you put in. But we are headed west. This is the frontier. It's not for everyone. But we're glad you're with us on the bankless. Journey. Thanks a lot."
+    }
+]

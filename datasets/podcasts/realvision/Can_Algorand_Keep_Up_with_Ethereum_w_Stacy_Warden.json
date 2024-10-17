@@ -1,0 +1,290 @@
+[
+    {
+        "speaker": "A",
+        "text": "Golddealer.com provides one of the nation's largest inventories of gold, silver, platinum, palladium, and rhodium bullion. And our website offers live buy and sell prices. We specialize in precious metal IRA accounts, charge no setup or shipping fees, and provide one of the best storage programs in the business. Golddealer.com also provides a free audio quote line that is updated twice each day and a gold newsletter that is published every week."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey everyone, if you like this podcast, go behind the paywall to get privileged access to the smartest minds in finance. Join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off our essential membership for the first year. Now to the top analysis of today's crypto markets."
+    },
+    {
+        "speaker": "C",
+        "text": "Stacey Warden, CEO of the Algorand foundation. Welcome to real Vision Crypto Daily Briefing."
+    },
+    {
+        "speaker": "D",
+        "text": "Thank you so much, Ash. I'm so psyched to be here."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, it's a pleasure to have you here to talk about all things Algorand. But first, let's take a quick look at the price. Action on the day. Lots of green on the screen, always a happy thing. Bitcoin, up on a 24 hours basis, 1.67%, trading now on my screen at 27,330, trailing seven day basis, up about 1%. Ethereum, also up on the day and up on a trailing seven day basis, trading on my screen, 1857, right now, trailing 24 hours, up 2.22%. Trailing seven days, up 2%. Algorand, also up on the day, up about 1%. What you're seeing there, I think in the outset is an initial chart. That's a twelve month chart. You can see it's declined about 60% in value over the trailing twelve months, but up on the day now about one and a quarter percent. Stacey, it's great to have you on the show. So much to talk about. I know there's been a lot of buzz on social media about this in the Algorand community, lots of folks in the community watching the show. But for people who may not be familiar with Algorand, let's start at the very beginning. Let's talk about the basics. What's the use case? What's the framework? How do you think about the importance of Algorand?"
+    },
+    {
+        "speaker": "E",
+        "text": "What I want to know is, are."
+    },
+    {
+        "speaker": "D",
+        "text": "We up on the day because of this show? I mean, maybe you have this sort of magical power over markets. I don't know."
+    },
+    {
+        "speaker": "C",
+        "text": "Definitely not."
+    },
+    {
+        "speaker": "D",
+        "text": "So Alcorand was famously founded by Sylvia Malcolm, who is a touring award winner in cryptography out of MIT. And he invented a couple of things that are quite important for cryptography more generally, and also the cryptocurrency ecosystem more generally. Zero knowledge proofs, verifiable random functions. These are a couple of the big ones. And so he, I think, watched this ecosystem develop, and he thought I could probably build a pretty good blockchain myself. So we went live in 2019, and Algorand, at its core, I would say, is built for real world applications, and it's built to be able to scale. And so there are a couple of components of that that I can take you through. First, and most importantly, the consensus is reached through something called a byzantine agreement. And that means that in the case of Algorand, after 3.7 seconds, consensus is reached on the block, and the block is a final settlement. So there's no such thing as like in a bitcoin or an ethereum world, where these. There's a little bit of a competition between block forks and then the one that wins, the one that has the most work. In the case of bitcoin, the other transactions fall off, go back into the ether, and then are appended later that the argument is that that cannot work. And for real world applications, you cannot have that moment of uncertainty, even for a short period of time, and so on. Algorand, when you're done, you're done. This is a very important component of the value proposition."
+    },
+    {
+        "speaker": "C",
+        "text": "So transaction finality after a single block."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Transaction finality after a single block. Exactly. And that block, when I started it was at about five and a half seconds, and now it's at 3.7 seconds. Full finality. Yeah. In that 3.7 seconds, three little rounds of consensus happen. I can explain how that works, but you're done and done after 3.7 seconds."
+    },
+    {
+        "speaker": "C",
+        "text": "One of the interesting things about the consensus mechanism for me is the way that it works based on randomness, which I think is really fascinating, sort of randomly selecting stakeholders to come to consensus. Talk a little bit about that, because I think it's a really interesting component of the technology."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. So you are. The amount of algos that you hold improves your chances of being selected as part of the consensus mechanism, but it doesn't guarantee it. Right. So what you do is you as a node, you run like a little, it's called a verifiable random function. It's like a little, you can think of it as a little slot machine, and if you win, you're picked like three pineapples come up and the algo's on your, weighted by the number of algos you have, you're picked, and then a committee. And then a committee determines which of those that are picked has the lowest hash function. Okay? And there's some physics involved in how."
+    },
+    {
+        "speaker": "E",
+        "text": "Long it needs to take a certain."
+    },
+    {
+        "speaker": "D",
+        "text": "Amount of time because all of the relay nodes have to get all of the transactions and you sort of, everybody has to have a chance. Then you go out to a committee again. So if you believe in statistics, what you're believing in here is the ability to sample across all of the nodes that participate. You sample to get the committee. Another committee verifies the work of the first committee. And then yet a third committee is picked to look inside the block and make sure that it has integrity so that there's no double spend and all."
+    },
+    {
+        "speaker": "E",
+        "text": "That kind of stuff."
+    },
+    {
+        "speaker": "D",
+        "text": "And then that all happens in quick succession. After 3.7 seconds, you're done through this sort of committee, three committee process. And then you move on to the next block. And it is so lightweight that you are actually not paid currently to participate in this consensus. This makes us unique from other kinds of blockchains. When we started, you could do all of this on a raspberry PI. Now we're pretty performant, so we can do 6000 transactions per second. And the latency has gone down. So now you need a bit more of a higher end laptop to do it. But it's nothing like the kind of enterprise grade hardware that's required for other layer ones."
+    },
+    {
+        "speaker": "C",
+        "text": "So this is predicated on verifiable randomness, the idea that you can, in a way, observe that these are in fact truly random selections. Talk a little bit about that process, and such an important part of the security protocol is dependent upon it."
+    },
+    {
+        "speaker": "D",
+        "text": "Yes, it's critical to the security protocol because, you know, it is unknowable even to you if you are going to be selected. And then once you are selected, it is deterministic what happens after that. So it's this combination of these two things. So the problem with proof of stake protocols typically is that, you know, the vector of attack is so well known, it's like attack that guy with the big stake, and you don't have that in Algorand because it is unknown and unknowable who to go after, because you don't know if you're picked until after you're picked. And this is our claim, kind of, to have solved the trilemma that Vitalik Buterin famously said that you can't have scalability you can't have decentralization, scalability and security at the same time. And we believe that this consensus mechanism gives mechanism gives you the decentralization because you're sampling from a large size, the security because of this verifiable random function, and the scalability because the committee selected are small enough to be able to do this quickly. So this is the way we sort of thread the needle between the three. You know, one of the interesting, I say, I mean, the brainiacs over it, over it. On the technology side, of course, talking."
+    },
+    {
+        "speaker": "C",
+        "text": "About the brainiacs on the technology side, one of the interesting things you mentioned is the idea that Sylvia McCalli, of course, very well known for creating zero knowledge proofs. But what's fascinating about that, I think when people say that he was one of the co creators of zero knowledge proofs, it almost sounds as though he created them with using modern computer science techniques to facilitate this technology. That, in fact, is not the case. This is something that was done decades ago in his early work as a mathematician, kind of on a pen and paper, pen or pencil and paper basis. And it's fascinating to me that this theoretical work that didn't seem to have, I'm sure, at the time, much practical application, is now at the core of this protocol."
+    },
+    {
+        "speaker": "D",
+        "text": "Right. And, you know, the way that the field has developed even in the last five years, is almost unmatched by other fields. You know, maybe AI can give it a run for its money, but the idea that these proofs have become more succinct and easier, less meaning, you know, needing less computing hardware and also the way that these succinct proofs also now have a zero knowledge attachment to it. And this, I think, is. Is going to be fundamental for the way forward for the industry as a whole, not, of course, just for Algorand."
+    },
+    {
+        "speaker": "C",
+        "text": "So let's talk a little bit about your organization, the Algorand foundation, and its relationship to the governance and the execution of day to day operations of the coin."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. So the TLDR on it is that Algorand Inc. Run by Silvio. It does all of the tech. They are based in Boston. They run the protocol, they care about latency, they care about transactions per second. They care about the Algorand virtual machine. The foundation, which I have the privilege to run, cares about the community, the ecosystem, the governance, the tokenomics of the, you know, we are about the care and feeding and growing of planet Algorand, I guess, is how you could, how you could describe it. So we try to make this, this, you know, we. We try to make planet Algorand have good infrastructure and roads and institutions, and we try to light it up so everybody else in the interstellar community can find us. And we try to make it a happy place to live. It's very environmentally, the air quality is great because we have no carbon footprint as well. Water is clean."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back."
+    },
+    {
+        "speaker": "A",
+        "text": "This podcast is sponsored by Ramp. Are you the decision maker in your company? Consider this. For the first time in decades, there's a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your company's spending and control who spends what. With each vendor, Ramp's software collects and verifies receipts instantly. To save your team valuable time. Ramp automates data entry and routine tasks with automated approvals, expense categorization, and bill payments. Time consuming tasks, which means you'll stop wasteful spending and close your books in hours instead of days. Businesses that use Ramp add up to 5% to their bottom line the first year. If you're a decision maker, adding Ramp could be one of the best decisions you've ever made. Get dollar 250 when you join ramp for free. Just go to ramp.com easy. Ramp.com easy ramp.com easy cards issued by Sutton bank and celtic bank members of DIC. Terms and conditions apply."
+    },
+    {
+        "speaker": "C",
+        "text": "By the way, talking about lighting it up, I'd like to invite our viewers and listeners to join this conversation in the chat, wherever they are, be it on the real vision platform or on YouTube. I know we've got some questions that are coming in already. So please, if you're listening to this conversation and you have questions, please jump in and ask. Listen, I wanted to ask you this. Obviously, one of the questions that is in the mind of the community, people out there, is what's happening right now with the lawsuit with Bittrex. I should point out that I don't believe that Algorand is a direct party to this lawsuit. This is an SEC lawsuit against the cryptocurrency exchange Bittrex. And the question, as it involves Algorand, which is, I believe, the largest market cap coin named in that lawsuit, is that Algorand is alleged to be a security by Sec. I know this is tricky because it's an ongoing legal question. What can you tell us about what's happening there?"
+    },
+    {
+        "speaker": "D",
+        "text": "Not very much, actually. We have no idea. It came as a surprise to us. The Algorand foundation, first of all, is nothing based in the United States. We don't issue algo in the United States ever. We don't believe that we are us security under us law. We hope for regulatory clarity. I mean, I don't know what more to say about it, actually, but."
+    },
+    {
+        "speaker": "E",
+        "text": "We."
+    },
+    {
+        "speaker": "D",
+        "text": "Were surprised as well."
+    },
+    {
+        "speaker": "C",
+        "text": "I will say, yeah, yeah, it does feel like many people in this space who want to be good actors feel like they're caught in limbo by the current absence of regulatory clarity. I know Chair Gensler has said, essentially, come on in and register. There are folks who have raised significant challenges with that in the community about the appropriateness of the existing legal framework and laws to address digital assets. Of course, the securities laws in this country, the basis and framework, were developed in the 1930s. So here we are, some 80 years later, trying to figure out how to deal with that situation. I also mentioned Price at the top of the show. Algorand off about 60% on a trailing twelve month basis, following, generally speaking, the pattern that we've seen. Uh, bitcoin, for example, peaked in, uh, in 2021. November of 2021 had a low, uh, November of 2022, uh, around the time of the FTX, following, uh, of the FTX bankruptcy. Uh, Algorand, following a somewhat similar pattern, peaked a bit earlier, but has been continually down about 60%. As I said, give us a little bit of context on how you guys think about price."
+    },
+    {
+        "speaker": "D",
+        "text": "You know, we at the foundation, we don't think about price at all."
+    },
+    {
+        "speaker": "C",
+        "text": "It's a."
+    },
+    {
+        "speaker": "D",
+        "text": "It's a pretty easy question to answer. You know, as I said, we are trying to make sure that the people that want to build on Algorand, and we are having a cambrian explosion of builders on this ecosystem right now. I will say we try to make sure that they have a good path to success. We are committed to decentralization. So we try to turn over increasingly amounts of decisions that the foundation makes over to the community, over to our governors. We try to. I'm about kind of excuse elimination. So we try to, for any reason that you wouldn't build on Algorand, we try to eliminate that reason. One of the most important ones is developer tools. So we have put a lot of effort into developing a much better developer toolkit this year, making sure that things that we are available to, protocols, that we do a lot on, education, that we give the bear hug to our protocols, even in non monetary ways. So those are the kinds of things that we focus on. We don't focus on the price at all, actually."
+    },
+    {
+        "speaker": "C",
+        "text": "So let me ask you this, Stacy. What do you worry about? What are your concerns when you look at the ecosystem more broadly and the specific implementation of Algorand?"
+    },
+    {
+        "speaker": "D",
+        "text": "When I look at the Algorand ecosystem."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, both the broader cryptocurrency ecosystem, I know you expressed some concerns about an absence of regulatory clarity, but what are your chief concerns? When you wake up in the morning, what do you worry about?"
+    },
+    {
+        "speaker": "D",
+        "text": "Well, you know, I worry about, am I doing the best job I possibly can for my community, you know, more specifically, but more broadly, which I think is more of the spirit of your question. I think the those of us that are building and are trying to use this technology, be it on Algorand or be it on polygon or any of the other layer ones that are trying to do a serious job in this space, we worry about the fraudsters and the tricksters and those that cast a pall on everything that we builders are trying to do. It would be an exaggeration to say that I wake up every morning worried about that. But when something blows up again, I think, ah, you know, here we go again. You know, let's just. And so that's the kind of thing that I guess sometimes makes me a little nervous. But when I wake up in the morning, it's pretty. It's pretty heads down about what do we need to do as the foundation? What do we need to do to help our community and help the protocols building on Algorand succeed?"
+    },
+    {
+        "speaker": "C",
+        "text": "Trey, you mentioned the other layer ones, layer twos. How do you see that ecosystem? What do you see the role for Algorand being in it, and how do you see it being differentiated in terms of specific use cases?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Again, I think Algorand is going to be there if you need to scale. So the Algorand virtual machine and the teal based machine language that it is built on, your success will not be your demise. It will never be the case that your NFT project blows up to such an extent that the fees on Algorand are more than the value of the NFT. It's not that kind of an ecosystem. It is built to scale. And so our transaction fees are very low, our carbon footprint is very low, and our latency is very short. So when you think about those things, you think about, like, who needs that? Well, a couple of different use cases come to mind. One is micro payments. So if you're going to be in the business of micro payments, I'm talking about financial inclusion and remittances. And that kind of thing. You can't have high transaction fees. I think about institution and particularly financial type implications where you cannot for 1 second have one scintilla of doubt about whether there are two forks on the chain. It doesn't matter if it's going to go away in ten minutes or five minutes. That's just too long. And so those kinds of applications lend themselves to building on Algorand. The creator economy is another one. Musicians and NFT artists. And that kind of thing kind of lends itself to Algorand because again, the fees are low and the carbon footprint is quite low. And we have had people come to us simply because they understand that we're, that we're green by the design of our consensus mechanism. So we try to follow where we think we have a good, where we have good niches."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, you mentioned financial inclusivity. What does that term mean to you? It's something that's often used to talk about the unbanked here, whether in the developed world or in emerging markets. How do you think about financial inclusivity? And how do you think about the potential global footprint of Algorand?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I think of financial inclusivity as having a couple of different components. One is identity. And I will say that identity is bedrock. And the three components of identity are the ability to, in a web three context. And again, it's easy on Algorand to do this, but it applies to web three more broadly. The idea that you can marshal credentials to establish your identity, particularly if you live in a country where you don't have Social Security numbers and easy kind of forms of government id that you can craft and create an identity for yourself based on credentialism is just a, it's a life changing implementation. And then closely related to that is the idea that you can use data about yourself as, as collateral for you to borrow again, so that you can just, you can, you can exhibit good behavior, understand that that good behavior is not tampered with by you because it's on a blockchain, and that you can use that to, to access the financial system in ways that you couldn't before. You're not collateralizing, say, like a tractor in your field. You're collateralizing things about yourself. And this is potentially a game changer. And then the third piece on identity is the idea that you can marshal only the pieces of your identity that are relevant. You don't have to say everything that you want to say about yourself, you need to say about yourself. The second piece of that is this ability to make micro payments that I talked about before. And the third piece of that is programmable money, the idea that you can disintermediate some of the middlemen and you can send payments based on if then statements while your audience knows what programmable money is. But I think those are the three core components of financial inclusion, not to mention the fact that it's always on 24/7."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, we've got lots of questions coming in from our audience. Probably not a surprise, given the uptake this has gotten on Twitter. First question comes to us from Peter on the real vision website. What lessons have been learned by the Algorand team regarding the recent myalgo attack?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, so Myalgo was an important web, the most important web based wallet on Algorand, and it was hacked in a few months ago. And it was hacked kind of in a way that started with big wallets and then trickled down to smaller wallets over the course of a couple of months. And it was pretty, I would say, devastating to the ecosystem. It affected a lot of people. It affected a lot of people at the foundation, a lot of protocols, a lot of individuals. We funded a we at the foundation. The myalgo wallet is not related to the foundation. We did give it a grant to get going in the beginning, but we then funded forensics to try to find out what's going on. We have turned everything over to the FBI. They are showing indications that they're working on it. They have some kind of a theory of the case of what happened. But it was a terrible. I mean, I don't know how anybody could do something like that."
+    },
+    {
+        "speaker": "C",
+        "text": "A little bit of a technical glitch there, but we were able to get Stacey back. Joining us from your cell phone. Thank you so much for coming back. We appreciate it. I was asking you this question about the relationship between the foundation and some of the ancillary technology around it. The challenge here is you have a core protocol that has not been hacked, but a wallet that has. How do you think about that relationship between the wallets, which are obviously critical part of interacting with the protocol, the protocol itself and the governance around the protocol?"
+    },
+    {
+        "speaker": "E",
+        "text": "Well, the thing I'm thinking right now is like, did that guy just hack into this call? Because I. Because I said something about it, you know, I mean, it's just a very sort of scary level of timing."
+    },
+    {
+        "speaker": "D",
+        "text": "I think probably pure serendipity jeopardy."
+    },
+    {
+        "speaker": "E",
+        "text": "I think in the beginning, everybody, I cannot tell you how many protocols have the word algo in them when they are built. And I think that was a thought, a marketing strategy. In the beginning, everybody put an algo, the letters lend themselves to use in longer words. So there's just algo, everything. And I think that's probably a bit confusing, maybe to folks. But the protocol is the protocol. It's never been down for a second. The foundation doesn't run any protocols, per se. We fund and we support and we encourage and we help incubate protocols building on Algorand. And, you know, that's the, that's the relationship. Of course, they all go through audits. And Myalgo in particular was audited, you know, any one of a number of times. So, you know, it's. It's decentralized. Right. We don't. We don't, you know, we don't have direct influence over that kind of stuff."
+    },
+    {
+        "speaker": "C",
+        "text": "That question came to us from Peter on the real vision website. Next question from Martinez on the real Vision website. Are there any lessons learned from interactions with us regulatory agencies? Boy, what an interesting question."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, you know, I."
+    },
+    {
+        "speaker": "D",
+        "text": "Maybe I will."
+    },
+    {
+        "speaker": "E",
+        "text": "I'd like to stick up for some regulatory, you know, folks in the United States, there are some really good, very forward thinking regulators in the United States. I mean, if you look at, in the CFTC, there's Caroline Pham, Commissioner Pham, there's also, at the SEC, there's in New York, there's Adrienne Harris at the New York Department of Financial Services. Ash, I don't know. They're all women. I'm not sure if there's a correlation there or not, but I'm just throwing it out there as maybe something to think about. I think that we are finding our way through in the United States. I think there's been a lot of great leadership coming out of with, with Amica in Europe. The UAE is also very forward thinking. Singapore and the UK has done some interesting things. But I think in addition to that, some of the talk around securities has also taken some of the attention away from other things that are pretty important going on in a kind of. Not quite, I guess, fully regulatory, but also kind of in finance and tax treatment. And, you know, are these going to be, you know, considered long lived intangible assets, right. That need to be impaired versus whether they can be marked to market if they're property, if it's intangible property, can you mark value at higher valuations as well as lower valuations? How is the bis going to treat the risk weighting around these things? Are you going to be able to have stable coins in your balance sheet? Is cash and cash equivalent. Right. You know, these kinds of things are all. There's a myriad of issues that this broad ecosystem is trying to find its way through, not just this more limited question about securities, I would say."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing. Yeah. There's just so many open questions that face the entire ecosystem right now from a legal, regulatory, legislative and compliance standpoint. And we're retrofitting these technologies that are very new, incredibly cutting edge into a legal and regulatory framework that's 80 years old. Obviously, there are bound to be some challenges there."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. Yeah. And it's hard, right? It's like everything is so new. It's hard, right."
+    },
+    {
+        "speaker": "C",
+        "text": "Here's a question from Ralph on the real Vision website, who always comes up with great questions to ask. Can Stacy discuss the work that Algorand has been doing with Siae? This was a story that broke, I guess, in March. I didn't really understand it. This is a copyright agency in Italy. Talk a little bit about what that story is all about."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I don't know a ton about this. This is the artist's registry, registry of Artists. And they, because Silvio's is italian, they have put the copyright, this is my understanding, the copyright for artists through this registry on the Algorand blockchain before I came. And it was one of the very early partnerships that Algorand had."
+    },
+    {
+        "speaker": "C",
+        "text": "So, so many questions coming in right now. Here's one from YouTube. I saw in the past week that Algorand Labs, as the entity that was involved in a bank of Italy deal. What is Algorand Labs? And can you talk about that deal?"
+    },
+    {
+        "speaker": "E",
+        "text": "Brian Pendley on? Okay. Okay, I see what you mean. Yeah. And the bank of Italy has issued a prize and a number of, like a hundred different contestants joined this to find out ways to tokenize and to think about approaches for tokenizing sovereign debt in Italy. And Algorand was one of the, I think, 14 winners of this prize. So they're moving forward with a pilot on sovereign debt tokenization."
+    },
+    {
+        "speaker": "C",
+        "text": "Here's a question from Bandit 8899 on YouTube. Can you please name any widely used app built on top of Algorand? I guess that's a broad question that we could ask about any in the web three space. But what are the apps that you look at that you find interesting?"
+    },
+    {
+        "speaker": "E",
+        "text": "So in our defi space, when I started, we had a number of. We had sort of like, I don't know, six total protocol applications built on Algorand. But now we have so many different kinds of protocols building. In Defi, for example, one of the most important ones, and I would say one of the most widely used ones, is called folks finance. And folks finance also participates in our governance. And so you can participate in governance and get some more juice through folks finance participating there. We also have lots of protocols in the art and music space. For example, I talked on the, I talked about these a couple of days ago. So we have music licensing apps, ways to monetize music royalties through an opulous app which is launching this week, a licensing app called de Quincy. We've got a lot going on in prop tech. One of the most interesting ones I think is called lofty AI where they, they take a rental, it's very interesting because they form daos around rental properties and then these daos vote on how to run these properties. They've even fired a property manager in one instance and they collect these rental incomes. And of course, because it's web three, you can do this. You can take daily, you get your revenue daily instead of monthly or yearly as you would for a regular property, a rental property owner. That's pretty interesting. There's another one in the prop tech space that allows homeowners to sell equity in their home on the blockchain so you don't have to refinance your home. You can share your equity and share your upside with other investors. So a lot of this stuff like around asset tokenization is pretty interesting. We're doing a bunch of stuff in the disaster recovery space, payments and disaster recovery. I think that is maybe not one to talk about being widely used because we're really in early days now. They've only downloaded like 1000 wallets so far. But pretty interesting pilots going on all over the world around that. But our NFT marketplaces are rand gallery. We're just like, we're just seeing. The myocle hack did set us back on some of these things, but we're just seeing such a vibrant level of activity around all of these things."
+    },
+    {
+        "speaker": "C",
+        "text": "Here's a question from pickup debeat on YouTube. With the new CMO being onboarded a few months ago, can you speak to any of the new initiatives or strategies for marketing specifically to attract developers and startups? Great question."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, yeah, yeah, 100%. So we did, we got a new CMO from, she was the head of brand for WhatsApp and she came this year, spent about a year trying to find, find a good person. And she is very focused on a couple of different things. Number one is our brand identity and making sure that we show up in both web three and in web two in a consistent way that with a value proposition that is very easily understood and that accurately describes our tech, our ecosystem. Our value proposition. Number two is we have developed this year the Algo kit, which is a developer toolkit. So we've done a lot of promoting of this algo kit and that now is a set of tooling. But by the end of the year, it will be really a kind of a fully python enabled developer suite. And so we're going to have a big, big launch going on throughout the year to the final launch of that, I think, in January that will be done. So that's a really important thing. The third piece, I think, is a lot more marketing and marketing help for protocols that are building on Algorand. So we want to really be side by side with you, helping you, if you're doing well on Algorand, helping you make sure that you can tell your story. That's also a really important thing that they're up to. Consolidation of websites and making sure that we show up again in searches in a better way than we are right now. All of these things are. We just haven't been. We didn't pay enough attention to marketing before, and I think we thought that the tech was so good that the tech would speak for itself. So now we really have to pay much more attention to it."
+    },
+    {
+        "speaker": "C",
+        "text": "Great conversation here today. We've covered a tremendous amount of ground. Final thoughts, key takeaways that you'd like to leave our listeners and viewers with."
+    },
+    {
+        "speaker": "E",
+        "text": "The only thing I will say is the acronym that you said in Italy. Now, I'm not sure what the acronym was, so it may not have been about the artists, it may have been one of the number of things that Al Grand Labs is doing in Italy. So I want to just."
+    },
+    {
+        "speaker": "C",
+        "text": "I think it was Sia. I'm looking at the Algorand website and it is described as, let's see if we can find it. Authors rights as digital assets managed on the Algorand blockchain. So I think."
+    },
+    {
+        "speaker": "E",
+        "text": "Great. Okay, great. Because I took a guess at the acronym and I wanted to, you know, I don't like to be wrong about these things, but. So, yes, that was one of the early projects, an important project when we first got going."
+    },
+    {
+        "speaker": "D",
+        "text": "So I guess I would just leave."
+    },
+    {
+        "speaker": "E",
+        "text": "Your audience with a couple of thoughts. You know, we are a young ecosystem. We are very, we're not focused on the hype. We're focused on our community and we're focused on our developers and we're focused on our protocols, and we're focused on kind of a bottoms up strategy, which is supporting our ecosystem and our community and also a top down strategy, which is where we try to find these partnerships that Algorand Labs is doing now with the central bank of Italy, what we're doing with disaster relief and other partnerships across the board like that. I guess we kind of feel like if we can, the sweet spot is if we meet in the middle, and that's where the magic will happen."
+    },
+    {
+        "speaker": "C",
+        "text": "Stacey Warden, thanks for joining us on the show. Pleasure having you. Hopefully you can come back again and give us an update on what's happening in the algorand ecosystem."
+    },
+    {
+        "speaker": "E",
+        "text": "I'll do that and I'll try to stay the whole time. I won't leave you for five minutes in the middle."
+    },
+    {
+        "speaker": "C",
+        "text": "That's the beauty of that."
+    },
+    {
+        "speaker": "E",
+        "text": "Thanks, Ash. Thank you for your patience. I appreciate your kindness."
+    },
+    {
+        "speaker": "C",
+        "text": "Thanks again for joining us. That's it for today. Remember to sign up for real Vision Crypto. Crypto. It's free. Go to the real Vision website, real vision.com crypto. That's real vision.com forward slash Crypto. Well, we got back again tomorrow with Ram Alewalia, co founder of Lumita. Make sure to join us live see at 09:00 a.m. pacific, noon Eastern or 05:00 p.m. in London. Thanks again for watching, everybody. Have a great afternoon. What's up, revolutionaries? Thanks for tuning in. For more content like this, head over to realvision.com and get unfiltered access to the very best, brightest and biggest names in finance."
+    }
+]

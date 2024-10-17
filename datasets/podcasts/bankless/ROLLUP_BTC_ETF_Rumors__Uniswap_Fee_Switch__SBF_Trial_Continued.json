@@ -1,0 +1,1574 @@
+[
+    {
+        "speaker": "A",
+        "text": "The BTC ETF gets approved. Actually, no, it didn't. Instead, $65 million of liquidations occurred due to an eager Beaver news organization. But not bankless. Not bankless, not us. But we did accidentally get a mock dry run of what a bitcoin ETF approval would do to the market. And Larry Fink, of all people, gives his take."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, bankless nation. It is the third Friday of this beautiful month of October, and it's time for what, David?"
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, the bankless Friday weekly roll up, Ryan. Where we cover the entire weekly news in crypto, which is always an ambitious endeavor, yet we persevere nonetheless into the frontier. Ryan, you got your morning coffee?"
+    },
+    {
+        "speaker": "B",
+        "text": "I got my morning coffee. It is black."
+    },
+    {
+        "speaker": "A",
+        "text": "What number of pots are you on? I know you measured coffee in pots."
+    },
+    {
+        "speaker": "B",
+        "text": "Second pot. Second pot. About halfway through. So I would say one and a half pots."
+    },
+    {
+        "speaker": "A",
+        "text": "You're going to need some extra coffee to get through this roll up because it's a little bit of a doozy."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, there's so much going on this week. It was actually an action packed week. Number one, we talk about uniswap fees. They have been flipped on."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Everyone is upset about this because it's not the uniswap fees you actually hoped doesn't mean things for the uni token, necessarily. Let's talk about what else we got, David."
+    },
+    {
+        "speaker": "A",
+        "text": "Coming up after that, a false positive on the approved bitcoin ETF sends the market in for a roller coaster. It turns out that no bitcoin ETF has been approved. But we did learn some things, and so we will talk about what we learned and all about the lessons learned along. That's why we're here, just for learning. A new layer two hits main net. So we'll talk about why that one's unique. Another layer two just dropped. And then, of course, Ryan, what are we gonna end with?"
+    },
+    {
+        "speaker": "B",
+        "text": "David, you remember that guy who was storing $3 billion in bitcoin that he stole from the Silk Road?"
+    },
+    {
+        "speaker": "A",
+        "text": "I remember this guy."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so a year ago. And the FBI found it in his basement. Well, we have the full story on today's show. CNBC did an exhaustive interview and in depth story on Jimmy Zong of Gainesville, Georgia, the bitcoin billionaire."
+    },
+    {
+        "speaker": "A",
+        "text": "Gainesville?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, Gainesville. Literally Gainesville. So we're gonna talk about that, too, David, before we get in, we have a special message. From who? Ourselves."
+    },
+    {
+        "speaker": "A",
+        "text": "Ourselves, actually. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. What do we want the bankless nation to go do?"
+    },
+    {
+        "speaker": "A",
+        "text": "We've got a survey. We got a survey to make the podcast better so we would like you to fill it out if you are a listener of the podcast. Surprised you are. We would like your feedback about how we can improve the podcast. So there's a bunch of questions about who you are when you started listening to bankless, why you listen to bankless, what types of episodes you like. Uh, we are working on a new show format coming. Mid week is a little bit roll up y. Uh, but we need more information about you guys, uh, so we can understand what you guys want. So we can figure out how to structure that show. One or a few lucky responders will get a very cool bankless Suji kin jacket, uh, which is quite literally the coolest piece of apparel that I own. I don't. It's in my closet. I don't have it on me. Do you have a picture of it?"
+    },
+    {
+        "speaker": "B",
+        "text": "Look at this."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. Super cool. Super cool. I think it's great. It's also reversible in case, you know, I don't know why you wouldn't ever want to rock this. My gosh. But it also is reversible to be a little bit more tame. Yeah. Bear on both side on one side, bull on the other. It's awesome. So, yeah, go fill out the survey. Go fill out the survey."
+    },
+    {
+        "speaker": "B",
+        "text": "That's David looking out in his sushi Kim jacket over the New York landscape."
+    },
+    {
+        "speaker": "A",
+        "text": "Shout out Dave Krugman for taking that photo."
+    },
+    {
+        "speaker": "B",
+        "text": "That's awesome. All right, David, you ready to get to markets?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, let's do it. Let's do it."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, let's."
+    },
+    {
+        "speaker": "A",
+        "text": "Happy sounds. Happy sounds."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, really?"
+    },
+    {
+        "speaker": "A",
+        "text": "We didn't get a double digit week, but, man, bitcoin put in a 7.5% green seven day candle."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, 7.5%."
+    },
+    {
+        "speaker": "A",
+        "text": "7.5%. Yeah. That's a more than 1% a day."
+    },
+    {
+        "speaker": "B",
+        "text": "We are just hovering below 30k. So what's the number on the week?"
+    },
+    {
+        "speaker": "A",
+        "text": "Started the week at below 27,000. We are now at almost 29,000. 28,700 up seven and a half percent."
+    },
+    {
+        "speaker": "B",
+        "text": "That's crazy. And look at this big spike here. We didn't talk a little bit."
+    },
+    {
+        "speaker": "A",
+        "text": "That was. That was the fraudhouse. It wasn't broad. It was a mistake. It was. It wasn't."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it was a mistake. It was a big old mistake that."
+    },
+    {
+        "speaker": "A",
+        "text": "We learned a lot of saying the fraud word on this podcast."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's great. All right, how about youth price in the week?"
+    },
+    {
+        "speaker": "A",
+        "text": "Less happy. Starting the week at 1530, ending the week at 1665 up two and a half percent. So definitely a bitcoin week. Definitely."
+    },
+    {
+        "speaker": "B",
+        "text": "Still happy, though. Still up, though. But the ratio, extremely sad."
+    },
+    {
+        "speaker": "A",
+        "text": "Extremely sad ratio is all the way down to."
+    },
+    {
+        "speaker": "B",
+        "text": ".0545 if you're a bitcoin bull, this is not sad. This is happy."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I think if you're overall a markets bull, like crypto markets like first bitcoin, then the rest of the market. This is how it goes. III doubled down. I ate up a little bit more of my eth BTC trade. Just a lower dollar cost average into like lower the price. How do I explain this?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I know."
+    },
+    {
+        "speaker": "A",
+        "text": "You mean you get what you guys saying. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And how about crypto market cap on the week?"
+    },
+    {
+        "speaker": "A",
+        "text": "$1.13 trillion. So definitely up. Total market cap is looking good. Looking good. L, two b, paint and floor."
+    },
+    {
+        "speaker": "B",
+        "text": "L two b. We're hovering above 10 billion in total value. Locked and changed. Yeah. Unchanged. Activity side. We're kind of hovering in the same. Around five."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. 43. We hit some six x on layer twos on ethereum. Now we're down to 4.8, but still holding high."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, let's broaden our horizons to macro. The rest of the world beyond crypto for just a minute. So this is Janet Yellen this week saying America can certainly afford to support Israel and Ukraine. So this is her saying, the us treasury, of course, David, saying that America can certainly afford to support two wars on two different fronts. Where do you think she gets that confidence, David? Because I'm not so sure about our ability to support wars or pay for all of the things that America wants to pay for. Where do you think she gets that confidence?"
+    },
+    {
+        "speaker": "A",
+        "text": "It's a pretty hot take to say that America can finance two other people's wars when we have a, like a very bad deteriorating fiscal situation internally, like our own house is not in order. And then Janet Yellen, who is the treasury secretary, she's a manager of the treasury. She's trying to make, you know, our, she's managing our budget, and then she is saying, quote, we need to come up with the funds both for Israel and for Ukraine. This is a priority, which is a very politicized statement. So it kind of just goes into the whole thing that the whole, like, story arc of the US dollar and the politicization of the us dollar, like our dollar is a weapon for a means to an end, to get what America, the american empire wants. And that is, I am here in crypto to not have politicized money. This is extremely politicized."
+    },
+    {
+        "speaker": "B",
+        "text": "You also have a take here. War is the most inflationary thing humans do. What do you mean by this?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, war is extremely inflationary. When a building collapses because of a bomb. That building is capital being destroyed, and we have to go rebuild that building. Who is going to finance that? Who is going to rebuild all of this destruction that wars cause? It comes out of the fiat because we're not, like, we're not going to increase taxes. We're not going to. We can't make more money. Actually. Just kidding. We can make more money. It comes from inflation. So when we finance wars, where does that money come from? It comes from inflation. We just print our way to finance it."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And if you want evidence of that, go look at World War one. Go look at World War two. Go look at all of the wars throughout history and what they do to the nations that, you know, that partake in them."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. It is a transfer of value from the monetary base to fighting war, which is just straight destruction. I think it's like one of the worst fiscal decision you can make."
+    },
+    {
+        "speaker": "B",
+        "text": "And we also have some hot wars going on. But we also have some trade wars going on. This is a Kobiasi letter saying the last thing we need right now is a trade war. Taming inflation with skyrocketing energy prices and geopolitically, geopolitical conflicts is already hard enough, unfortunately. We're taking one step forward and two steps backward. I think they are referring to a trade war with China. So about a year ago, David, President Biden restricted AI chip sales to China. And now, last week, as of last week, he actually expanded that restriction to include another set of chips. Nvidia, particularly a maker of some of these GPU chips, which, of course, GPU's are kind of the chips that AI's eat up."
+    },
+    {
+        "speaker": "A",
+        "text": "It's kind of a new oil."
+    },
+    {
+        "speaker": "B",
+        "text": "Everyone needs chips down 7.5% on the back of this restriction. So the stock has raised $100 billion in value, just over 20 in the last 24 hours."
+    },
+    {
+        "speaker": "A",
+        "text": "For reference, Ethereum is $180 billion."
+    },
+    {
+        "speaker": "B",
+        "text": "Market cap man and videos is absolutely flying, huh? But, yeah, this is another thing that also decreases productivity. It's. It's not a hot war, but even trade wars are negative value creation for all parties involved, unfortunately. Speaking of negative value creation, David, you want to take a look at the, the value of us treasuries compared to bitcoin from the beginning of COVID what are we looking at here?"
+    },
+    {
+        "speaker": "A",
+        "text": "So we're looking at a chart here. If you bought, if you were like, oh, Covid, scary, I'm going to fly to safety. And whereas safety, for the average person, it's a bond. If you did that at the beginning of COVID a 20 to 30 year us treasury bond, you are down about 50%. You are down bad about 50%. You lost half of your money. Asset, the safe asset. If you went to bitcoin at the beginning of COVID you're up 230%. Wow. Yeah. What were you flight to safety?"
+    },
+    {
+        "speaker": "B",
+        "text": "What were you thinking that week, the beginning of COVID It was a week in March when all of this broke, if I recall correctly."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I had fear for sure. Yeah. I was like, oh, pandemics are a thing that can totally happen. How bad is this going to get? I think we got lucky with COVID with how bad of a disease it actually was. It could have been way worse."
+    },
+    {
+        "speaker": "B",
+        "text": "I completely agree. I thought there was the potential to, like, to head into, like a, you know, decade long depression type of era."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. I was considering that reality, for sure."
+    },
+    {
+        "speaker": "B",
+        "text": "That was a crazy time. But, yeah, the flight to safety, at least in the form of us government bonds, did not work out so well. David, this is a take from Vance Spencer. What's he saying here?"
+    },
+    {
+        "speaker": "A",
+        "text": "Vance says when no millennials or zoomers can afford a house and job prospects are limited, don't be surprised when price to earning ratios for zeitgeist, tech stocks or crypto are going to go vertical. Even with higher rates, interest rates don't matter to millennials and zoomers. They have no savings and little prospects to ever have them. Even big tech friends are living paycheck to paycheck. So, like, big, big tech friends, people working at Google or meta or very well paid people are still living paycheck to paycheck. Vance says all that matters is swinging for the fences, a portfolio optimized for the Instagram lifestyle. And this is actually quite rational. Spend more time in Asia and you'll understand the crushing paradox for young people. We definitely saw this energy throughout. Crypto is one of the big narratives that supported crypto during its bull market, is like, why buy a monkey JPeg? Like, why go down the list?"
+    },
+    {
+        "speaker": "B",
+        "text": "It's like, why not?"
+    },
+    {
+        "speaker": "A",
+        "text": "Why not? It's like, it might be worth a million dollars. It's a new narrative. Like, we'll run with it. And so when interest rates where they can't buy a house, you can't have savings, you need to swing for the fences. And so portfolios are going to be like, people are dollar cost averaging into swinging for the fence portfolios right now."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's pretty crazy. And so Vance is making the case that even though stocks are valued at very high rates, from a PE ratio perspective, they could go even higher. It's almost sad though, David, because it just feels like the statement of people are desperate and so they're just going to gamble is what's actually happening here. And to me, that's sad."
+    },
+    {
+        "speaker": "A",
+        "text": "I feel like time is a flat circle. This was content that we were talking about for, like, I think, a year and a half straight during the bull run. And I think people are just noticing like, hey, there's a bunch of tinder. This is bull market tender for what's going on. Mike has a similar take here. Crypto combines two of today's biggest trends. One, a return to commodity like money. It's part of the Neil house fourth, turnings. Ray Dalio. Like transitions like that, every once in a while, we blow up our money, and so we return to commodity like money that you can't blow up. And then two religious, like, online communities. Fade it at your peril. Fade crypto at your peril. I totally agree."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Especially going into this world, you know who is not fading eth? David, just actually reminder, Vitalik helped remind everyone is Vitalik. He's not dumping on us in this bear market."
+    },
+    {
+        "speaker": "A",
+        "text": "Vitalik would like you to know that he's not dumping on you."
+    },
+    {
+        "speaker": "B",
+        "text": "I think somebody asked him the question because there was a transfer of something like 4 million of ETH from not his address, but an address. Address is connected to his address."
+    },
+    {
+        "speaker": "A",
+        "text": "Someone asked, you mean?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, it was from Vitalik. Like, not his specific addresses, but, you know, he moved some Eth somewhere else and they ended up selling. And so he was asked in ama, hey, are you selling? And he was like, nope, that's a nonprofit. I haven't sold any of my ethnic since 2018. So these sales are from donations. I don't know, man. If you're selling your eth, are you smarter than Vitalik? That's my question. That's my question today in this market. So there you go. Some clarification there, David. You know what's killing it even in the bear market?"
+    },
+    {
+        "speaker": "A",
+        "text": "Tell me."
+    },
+    {
+        "speaker": "B",
+        "text": "Crypto dollars. Okay, what are we looking at on screen here?"
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so this is, interestingly, crypto dollars on Tron. We're looking at a chart of weekly active addresses settling stablecoin payments across various blockchains. Ethereum, Tron, binance, polygon, optimism, arbitrum, phantom, avalanche, and then also like, USDT, USDC. USDT active addresses on TRON are by far the most active addresses settling stable coins in all of crypto, and is followed up by binance smart chain, followed by ethereum. Ethereum is third, and then USCC is a. Like a long second behind USDT Tron. Just the absolute payments gargantuan for settling USDT."
+    },
+    {
+        "speaker": "B",
+        "text": "It's pretty crazy, actually. And. But stable coins in general, active addresses are about flat. And, you know, Nick Carter reminded us in our crypto dollar episode we did earlier this week that flat is actually up hard economic times."
+    },
+    {
+        "speaker": "A",
+        "text": "You know what's not on that chart?"
+    },
+    {
+        "speaker": "B",
+        "text": "What's that?"
+    },
+    {
+        "speaker": "A",
+        "text": "Solana didn't even make the chart."
+    },
+    {
+        "speaker": "B",
+        "text": "It's true. But if you look at this, stable coins are now the 16th largest sovereign holder of treasuries. Okay, so stable coins hold more us treasuries than Norway, South Korea, Saudi Arabia, Germany, the Netherlands, Mexico, the UAE. So they are, they are rising in terms of the amount of treasuries that they are holding. I think if they break into the top ten, David, that's when the force reckoned with. Yeah, that's when it's a force to be reckoned with. That's when Janet Yellen, Jerome Powell really have to pay it more attention."
+    },
+    {
+        "speaker": "A",
+        "text": "Breaking into the top ten is not hard. Like, it's the top three. It's Japan, China, UK that are the big ones. If stable coins doubled, they would be like number four in the top ten."
+    },
+    {
+        "speaker": "B",
+        "text": "I know. It's absolutely crazy. So very bullish. Crypto dollars. If you want to get more bullish on crypto dollars, we did an episode with Nick Carter earlier this week that you absolutely have to catch up on if you haven't. David, what do we have coming up next?"
+    },
+    {
+        "speaker": "A",
+        "text": "Coming up next, Uniswap is collecting fees, but no, not the uniswap you're thinking of. We'll talk about that. The BTC ETF gets approved. Actually, no, it didn't. Instead, $65 million of liquidations occurred due to an eager Beaver news organization. But not bankless. Not bankless, not us. But we did accidentally get a mock dry run of what a bitcoin ETF approval would do to the market. And Larry Fink, of all people, gives his take. SPF trial week three, all this stuff and more. New layer two, main net, some really good stuff. So we're going to get to all of that and more. But first, a moment to talk about these fantastic sponsors that make this show possible, especially a preferred crypto exchange for 2023. If you not have an account with Kraken, consider clicking the link in the show notes to getting started with Kraken today."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, David, that green candle we were looking at earlier, where did that come from? Did it come from this tweet?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So Cointelegraph reported earlier this week, SEC approves iShares spot bitcoin ETF. The level of the spot bitcoin ETF is the big thing that we are."
+    },
+    {
+        "speaker": "B",
+        "text": "That's the one we've been waiting for."
+    },
+    {
+        "speaker": "A",
+        "text": "The big one."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes."
+    },
+    {
+        "speaker": "A",
+        "text": "It's probably going to be the thing that kicks off the bull market, like, way earlier than people expected. Like, it's on the table to get an approval, but like, we're kind of waiting for December. January not. What month is it? October. And then we got this surprising, like, report from cointelegraph that a spot bitcoin ETF got approved. Uh, bitcoin."
+    },
+    {
+        "speaker": "B",
+        "text": "There's just one problem with this tweet, of course. And what's that, David?"
+    },
+    {
+        "speaker": "A",
+        "text": "Uh, what?"
+    },
+    {
+        "speaker": "B",
+        "text": "It's not true at all."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, right. The big problem. Yes, the big problem, yes. Uh, but before it was realized to be not true, bitcoin went all the way up above $30,000, uh, touched $30,000 and then immediately fell back down because people realized that, like, wait, wait, wait, this is not, this is not real. Uh, causing almost up to a hundred million dollars of liquidations on various exchanges. Oof, not great. And like I said, people quickly realized that, like, wait, this is not confirmed. Can we get, can we get a source? Source, please? And no one was able to produce a source."
+    },
+    {
+        "speaker": "B",
+        "text": "So what happened? How did this happen?"
+    },
+    {
+        "speaker": "A",
+        "text": "So there was some news telegram groups where people like, share are sharing news sharing Alpha, and somebody just says in a telegram group, I found in my Bloomberg terminal that the iShares spot, bitcoin ETF, was approved. So the source was this one guy said that he saw it in his Bloomberg terminal. If it's in the Bloomberg terminal, it's legit. This guy said it was in the Bloomberg's terminal. It was not in the Bloomberg terminal."
+    },
+    {
+        "speaker": "B",
+        "text": "So that was the source was a rando on telegram that said it was in the Bloomberg terminal. That is kind of the source. And then what happened from there?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And so cointelegraph is part, like, one of the few people who's like, in the arena of trying to break news as fast as possible. Like, there's a big difference between first and second. And so they just absolutely jump the gun and send out the tweet, which sends the markets flying without verifying. Yeah. And so, like, shorts get, get liquidated. Bitcoin adds in like billions of dollars on Twitter market cap and then loses it momentarily afterwards. Not great. Not great. Like, Blackrock had to issue a statement saying like, no, no, it wasn't approved. It wasn't approved."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, my God. So this act, absolutely big. And then, so what did Cointelegraph say on the back of this?"
+    },
+    {
+        "speaker": "A",
+        "text": "They said, we're sorry."
+    },
+    {
+        "speaker": "B",
+        "text": "Did you see the, there was a news clip, I think CEO or executive at Cointelegraph was at a conference."
+    },
+    {
+        "speaker": "A",
+        "text": "Coin telegraph representative."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, right. And, you know, they, they asked her about this event as it was going on. And she spoke to the difficulty with the modern news ecosystem, the incentives around news. Yeah. The pressure and incentive to get something out there as quick as possible. Right. And a bunch of people saw this clip and were like, oh, wow, she's totally deflecting all blame."
+    },
+    {
+        "speaker": "A",
+        "text": "That was not a very well accepted line in crypto."
+    },
+    {
+        "speaker": "B",
+        "text": "That didn't work out."
+    },
+    {
+        "speaker": "A",
+        "text": "They didn't accept that one."
+    },
+    {
+        "speaker": "B",
+        "text": "So what are we looking at here?"
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so then there was a bunch of speculation. It's like, okay, well, why would, somebody was manipulating this market? That was a move. Somebody made money here. So fubar. I don't know if this how to verify the integrity of this analysis. This is beyond me. But he goes, insider trading. T whopping, time weighted average price. It just means you buy more as more volume happens. An inside trader tea whopping in preparation for a fake bitcoin ETF announcement. Tweet pumped, which retraced once shown false, yet higher than expected strength shown from people buying the fake ETF news is making people buy the preparation for the real ETF announcement. Are there any questions? Basically, FUBAR is saying there were more buyers than anticipated for the ETF approval. And so now as a result of that, people are actually buying bitcoin. So this is a fundamental catalyst, a real, true fundamental catalyst."
+    },
+    {
+        "speaker": "B",
+        "text": "So we got more than a trial run. We actually, you know, people were so bullish on the fact that price went up due to this fake news that they actually became bullish. Became bullish?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. It started, it's a snake eating his tail, but it's like more people were caught off guard with how fast this impacted the market. So people started buying. And that's why, that's why bitcoin's up. Like, you know, I'm not going to say it's all of the price action this week, but a decent chunk of it."
+    },
+    {
+        "speaker": "B",
+        "text": "So here's an account John Brown says, learnings from false rumors on ETF. Number one, the market eagerly anticipates an ETF, too. Most exchanges continue to work well under load and liquidations. Oh, yeah, exchanges didn't go down this time, David. Number three, liquidity upwards is thinner than expected. Wow. Yeah, it's true. We just burst through those lines. And number four, cointelegraph sucks. Oof. Sorry for toy."
+    },
+    {
+        "speaker": "A",
+        "text": "That was your fault."
+    },
+    {
+        "speaker": "B",
+        "text": "You know what? It was a bad week for journalism in general. Just like, reporting on things like, you know, truth and accurate news. And I think a lot of people realized through, like, Israel Palestine conflict and other things like how journalism is weird."
+    },
+    {
+        "speaker": "A",
+        "text": "In this, in the series, it's very bad."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, back to the coin telegraph executive. I mean, she's not wrong. There is this crazy incentive to get news out first without verifying the actual facts. And that's happening in mainstream verify."
+    },
+    {
+        "speaker": "A",
+        "text": "You come second. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, slightly unrelated, but this is Larry Fink, the CEO of Black Rock and probably one of the most plugged in people."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't know why you said that. It's extremely related."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I think he said it before the ETF kind of debacle, but no."
+    },
+    {
+        "speaker": "A",
+        "text": "It is in response. Did you listen to."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, really?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yes."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, well, let's watch this. This rally is way beyond the rumor. I think the rally today is about a flight to quality."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, my God."
+    },
+    {
+        "speaker": "B",
+        "text": "It is. You know, all the issues around Israel, global terrorism, and I think there's more people running into a fight quality, whether that is in treasuries gold or crypto, depending on how you think about it. And I believe crypto will play that type of role as a flight to quality. He said flight to quality three times."
+    },
+    {
+        "speaker": "A",
+        "text": "Crypto is a flight to quality depending on your perspective. Everyone has their own perceived perspective. And then. But he said crypto is a flight to quality, man."
+    },
+    {
+        "speaker": "B",
+        "text": "Hearts and minds."
+    },
+    {
+        "speaker": "A",
+        "text": "Hearts and minds."
+    },
+    {
+        "speaker": "B",
+        "text": "But also bags, David, because this is how I know Larry Fink has, has bags. Is Phil."
+    },
+    {
+        "speaker": "A",
+        "text": "These are the rules. Fill, then chill."
+    },
+    {
+        "speaker": "B",
+        "text": "I think he's filled. And I think the ETF is coming with Blackrock here pretty soon. Oh, speaking of which, what's this?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so this is James Sefer, who says there's an update. Blackrock filed an updated bitcoin ETF perspective early this morning. This is the morning of October 19, Thursday, which is likely in their response to SEC comments that we've seen from Ark fidelity and others. The conclusion, what does this mean? Just more confirmation that issuers are in talks with the SEC, which means that the SEC knows that they're gonna have to approve it."
+    },
+    {
+        "speaker": "B",
+        "text": "Gonna happen. Gary cannot reject it any longer. He's gonna get totally mowed over. It's coming."
+    },
+    {
+        "speaker": "A",
+        "text": "You know when my, my next climb, my mountain climb is scheduled for right around some of the deadlines for the spotlight climbing."
+    },
+    {
+        "speaker": "B",
+        "text": "It's. It's January isn't it?"
+    },
+    {
+        "speaker": "A",
+        "text": "It's January."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, my God, David, if that happens, we'll know for sure you are on some kind of a quest on these mountains."
+    },
+    {
+        "speaker": "A",
+        "text": "These are the biggest findings I've yet to climb, too."
+    },
+    {
+        "speaker": "B",
+        "text": "So everything is together. Every time David is climbing a mountain, he's actually destroying a Gary Gensler horror cross."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, because Gary Gensler takes an l in some court somewhere."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, uniswap, they're switching on fees."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, but we've teased this a couple times."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, tell me about this. What are we looking at?"
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so here is Hayden's announcement. Tweet about this. He starts off saying, I work in crypto because of the immense positive impact I believe it can have on the world, removing gatekeepers and increasing access to value and ownership. You know, he's TlDr. He's saying like, hey, guys, we're turning on the fees on the uniswap front end. And he's really kind of dressing it up."
+    },
+    {
+        "speaker": "B",
+        "text": "What are the fees?"
+    },
+    {
+        "speaker": "A",
+        "text": "So the fees are 0.15% on a trade that goes through uniswap.org. so the uniswap.org website will add 0.15% fees to your uniswap trade."
+    },
+    {
+        "speaker": "B",
+        "text": "And that's not that bad."
+    },
+    {
+        "speaker": "A",
+        "text": "Uniswap protocol. And this is why. This is why everyone was upset and, like, why hated. Needed to make this longer announcement just to, like, again, take caution around the announcement of a Uniswap lab turning on the fees. Uniswap protocol has not had no fees. Still no fees."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so there's two. There's two types of ways you could collect fees, right? So there's one on the protocol level. So every time someone makes a swap, the protocol could say, hey, we get, you know, whatever."
+    },
+    {
+        "speaker": "A",
+        "text": "Anyway, 50 basis points. Of that, we can have ten basis points."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay? And then the other time to collect fees is actually on the user interface itself."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. The way the transaction is generated in the first place."
+    },
+    {
+        "speaker": "B",
+        "text": "Right? So if you do a swap right now on metamask, for instance, the metamask wallet, it charges you a fee. There's a swap fee. That metamask then takes."
+    },
+    {
+        "speaker": "A",
+        "text": "That's how it generates revenue, which is pretty high."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, something like that. And so this is Uniswap saying, hey, now, I'm Ui, uniswap lab. Now, on the UI, we're going to take 15 basis points, a swap fee, and also in our web app itself. So in the browser wallet that Uniswap supports, they're going to take that, too. So why is everyone upset?"
+    },
+    {
+        "speaker": "A",
+        "text": "David, people are upset because they feel like the uni token has been abandoned. And I think that they think that Hayden has more of a responsibility to the uni token than what he has, what he's been shown. And so they feel upset that Uniswap Labs is a for profit company that's trying to take care of itself and it's just abandoned token holders. And so Uniswap Labs has equity. There are investors in Uniswap Labs, a 16 z paradigm like own equity. In Uniswap Labs, they also own the token. But the Uniswap labs is taking the fee. And now the uni token, which has like dangled the fee switch, like, oh, Uniswap V three. It's got a fee switch, guys, but it's not on. And where are the fees actually going? Is going to uniswap Labs, you know, the investors, the equity holders pockets and that's."
+    },
+    {
+        "speaker": "B",
+        "text": "David, what's the process, what's the process of turning that fee switch on to that for the unitoken? Because the unitoken could also have a sweet fee switch switch in addition to Uniswap."
+    },
+    {
+        "speaker": "A",
+        "text": "This Uniswap protocol could turn on the fee switch and have that go to the Uniswap dao, which would be in effect the uni token. That is a governance vote. I haven't gotten on to the details specifically, but it sounds like there has been a handful of attempts of turning on the fee switch and the voted down. Voted down. And people are pointing fingers towards the investors. I need to verify that. But that is the claim that investors, the large VC whales, have voted no on the protocol fee switch and yes on. Now, I think."
+    },
+    {
+        "speaker": "B",
+        "text": "I think, David, some of them have, some of them haven't. This is Eric Conner with the very pessimistic, critical, the very negative take towards you."
+    },
+    {
+        "speaker": "A",
+        "text": "Uniswap, not bad."
+    },
+    {
+        "speaker": "B",
+        "text": "So let me get this right. Uniswap launches uni. That's the token. And in original launch, post hype fees. Post hypes, a fee switch that gets people excited. Uniswap VC is tied closely to labs. Continue to make sure fee switch doesn't happen. Allegedly. I don't know. I don't know how true that is. But anyway, that's what Eric says."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Uniswap Lee's Uniswap labs enables fees for themselves. That's the charge is basically like, rather than put the fee switch on the Unitoken side, you're just taking the fees in the UI side."
+    },
+    {
+        "speaker": "A",
+        "text": "Here's Nick Tomaino. Who says the purpose of a protocol token is to align the incentives of developers, investors and users. He continues, without pure alignment, users and retail get screwed worse than in web two. In web two, there is explicit misalignment in incentives. We all know that Facebook's business is not aligned with its users. When a web three protocol launches, a token alignment is assumed and reflected in the token distribution. When this turns out to not be the case, the users and the retail investors are deceived. This is wrong. That's a more measured take than Eric Connor. I don't think the VC's that own Uniswap Labs equity are like, guys turn on the fees, they're doing other things. Hayden and the other executives at Uniswap Labs are like, we have a company and we need to make revenue at some point. Let's stop leading money and let's start making money. And so they turn on the fee switch."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, that's what Jesse Walden says here. Another VC. Uniswap Labs products create lots of value for end users. This is an important step, talking about the fee switch for Uniswap labs on the way to sustaining that long term value. And the healthiest protocols have sustainable products built on top. That is Jesse's take on this, that, you know, they have to have a business model in order to continue to develop the wallet and continue to develop the user interface. And absent this, what do you want them not to have? A business model? That's the take here."
+    },
+    {
+        "speaker": "A",
+        "text": "Some people will say yes to that question."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, here's a take from Layton. What's he saying here?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, here's Layton Cusack saying, if you are mad that the Uniswap protocol fee switch is not on, these are the people to yell at. And then he lists a link that shows all of the major delegates towards the Uniswap, the Uniswap protocol, which is a 16 z. There's Jesse Walden Gauntlet, Robert Leshner, consensus. Sorry to name names, but these are the people that have been delegated. Unitokenshe, if you want to go turn the Uniswap fee switch on, these are the people of influence that need to be convinced to vote for that."
+    },
+    {
+        "speaker": "B",
+        "text": "Layton had another take on this, which is maybe more the positive side. And this is just positive."
+    },
+    {
+        "speaker": "A",
+        "text": "Positive is pro Uniswap Labs is what you mean."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, pro uniswap labs. He says this. There's a clear opinion divide in uniswap labs decision. Crypto builders who understand why it's good, and professional influencers who don't I think he's making the case that just like Uniswap labs needs to have a sustainable business model, the builders need a way to generate revenue. And if you're depriving them of that."
+    },
+    {
+        "speaker": "A",
+        "text": "Then you're telling them that they can't exist."
+    },
+    {
+        "speaker": "B",
+        "text": "Exactly. So let me ask you, what's kind of your concluding thoughts on this? What's your concluding take, David?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, there are some. We're going to read a Haseeb take. Who? I think there's just some analysis about the story arc that is where fees will ultimately converge in the fullness of time as it relates to front end versus protocol that I think are really, really good."
+    },
+    {
+        "speaker": "B",
+        "text": "You want me to pull up that Hasid?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, actually, let's start there. Yeah, so he's responding to this Matty take who says he's responding to someone? So we're kind of entering in the middle of the conversation. They say, I don't think it's that simple, but clearly there's some soft max aggregate fee that the market will bear. Softmax as mean like people only accept some amount of fees before they will move elsewhere or just not trade. So the market will develop some sort of limit as to like, how many, how much fees users can bear. All else equal. The higher the fee earned by token holders, the less room is available to equity holders or front end people. Uniswap Labs, then. Uniswap.org is not the only front end to the Uniswap protocol. Other front ends can trade on Uniswap and have different fees because that's just how this works. There's an asymmetry because routing fees to equity holders, the front end less directly impacts token holders because users can trade on different interfaces. Uniswap. Uniswap.org is. There's no moat there. People can very easily type in a different URL to go to a different front end to trade there and just ignore the fee that has now been turned on by the Uniswap front end. And so Matty continues and says this asymmetry and payoffs help helps explain why one would expect the front end fee to be turned on first. And it is why it'll be increasingly difficult for the token to accrue fees. And Haseeb just follows up and says, I totally agree with this, and gives the analysis that I kind of agree with, where many front ends will turn on fees and that will actually inform the protocol how much the market is willing to bear for their fees. It makes sense for the periphery to turn on fees first, and then that is like user testing, market testing. And if the front ends all kind of converge on like, 0.150.30 .1% of protocol fees, well, then the. The token holders, the deeper in the stack versus the interface, have the information that they need. Like, all of these front ends are taking 0.15%. Let's turn our fee on to 0.15% and totally rug all equity holders or all front ends, because the protocol is understanding that this is what the market will bear. Protocols are. They got to be slower to move than front ends. Front like Hayden and Uniswap labs, they just turned it on because they're a centralized company and they can just do whatever they want. The protocol is going to take a larger, longer time to move. This is just the nature of protocols. But, like, the token has the winning thumb war. They just need to turn on the fees. And I think this might be a moment in Uniswap's history where, like, okay, that whole, like, promise of the fee switch was cute, let's effing do it. And I hope that's how this plays out. And that's my opinion."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think it can play out that way. I think. I think there could be a feast. There could be a fee on the protocol, obviously, and there could be a fee on the user interface. One thing, when you put a fee on the user interface, you need swap labs. They're inviting competition to enter the ring and build against the swap protocol and add their own fee as well. So from a decentralization perspective, this might get. Give us a diversity of front ends that we didn't have before. The other, I think, factor in play here is obviously the SEC. Okay, so, like, I think there is a world where the uni token could have received fees from even the fee switch on uniswap user interface. Right. And from. From day one. But how can you do that when you're a us based entity? Yeah, I think the question I would have for people who are saying, well, why can't Uniswap Labs just give those fees back to the protocols? Like, how can they do that in the US? There's no way a us based company can actually share these fees to the uni token holders, given the current posture of the SEC in the US, 100%. And so should they. Should they break securities laws? And if you're saying, well, uswap labs already has a whole bunch of uni tokens, and why don't they just sell them to the market? Well, that's not a sustainable business model. And that's going to put downward pressure on the price of the uni token anyway. And so that's kind of counterproductive. I don't know. I think in the fullness of time some of this gets resolved. I do think the fee switch will happen on the uni token itself and hopefully it gets resolved. There are, there are people that felt like this was value extractive, I would say, from a uni governance token perspective."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, when we have, remember when you had Vance Spencer on the show to talk about smell like the smell, the token index synthetix maker ether Lido link, and we asked him like, yo, why isn't uniswap here? And he cited like, I think there's a misalignment between equity holders and token holders. And he would be able to say like, yeah, this is what I was talking about."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think my takeaways from this are, it's not good for governance tokens that don't have a real source of cash flow. If you're just a governance token, if you're just a utility token, it's not great for that entire asset class and any us based token team. I don't think it's necessarily bullish for them either. If you're just a token without cash flows, you're just doing governance. It really calls into question, like why that token is worth what it's worth right now. And so those are some of my takeaways. But you, you think this is some bear market rabble rabble, don't you, David?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, well that, that was my headline of this meme. I, this is here the man standing up the freedom of speech meme, and I just say the protocol fee switch and front end fees are just separate conversations. They're a separate conversation. People who I think are like mad at Hayden or labs, I think are just muddling the waters here. And it's like, like the token has the power. We do, we do need to be able to express it. So like perhaps shame on VC's if they are actually oppressing token holders from trying to turn that on. But they're also token holders too."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, well this could amount to a lot of revenue, I think. What are we looking at here?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so let's talk, just, let's talk about the actual metrics behind this. Let's get some numbers to frame the debate that we're talking about. First, Uniswap, Dex dominance on Ethereum is about 75%. So all Dex volume on Ethereum, all Dex trades, Uniswap accounts for 75%. So like, that's huge, pretty big dominance on Ethereum. Like the next biggest one is pancake swap at 7.4%. And so that's, that's Uniswap Dex dominance. Uniswap has 75% of all dextrades on Ethereum. The uniswap.org front end, which is what we're talking about with where the new fees are, that accounts for 35% to 40% of all Uniswap trades. So that's actually pretty, a pretty healthy amount of trades going through the Uniswap front end. I don't know where the other venues are, but aggregators would be the next big one. And then also mev people just trading straight through the protocol, no interface. But Uniswap is definitely the most popular place to trade on Uniswap, 35% to 40%. And so that is the 15 percentage fees. That's where that's coming from. I actually just got this from Micah Bolito from blockworks. So this is their new blockworks research platform that they gave me access to so I could talk about this Uniswap labs, uh, trading and phrase. They just slapped this together. Pretty cool interface. Since the, uh, since the fee switch has been turned on, the Uniswap labs, uh, organization has earned $110,000. And that's been like over two and a half days. Uh, and so a little bit over $100,000 over, over, over almost three days. About $30,000 a day, about $12 million a year at current rates. In a bear market. In a bear market. So Uniswap Labs is getting about $12 million a year from this, which is pretty, pretty good. Yeah, pretty good."
+    },
+    {
+        "speaker": "B",
+        "text": "But the context is they've lost some in the uni token, at least to the extent that Uniswap Labs was holding Unitoken. So Uniswap fees went live 5 hours ago. They made eight k in that time. Meanwhile, they lost 200 million in market cap on the Unitoken over the past 24 hours."
+    },
+    {
+        "speaker": "A",
+        "text": "Unitoken took a big hit in price. Not big, not small. Yeah, so here's the, here's the price of the unitoken. Right after Hayden tweets goes from $4.20 down to $3.85. The actual release of the uni token happened at $3. So like, it went up to like $45 in the top of the bear. And that's all the way back down to basically it's like debut price a little over $3. I mean, if you think the uni fee switch is never getting turned on, then maybe, maybe yours bearish uni tokens. If you are. If you think that in the fullness of time, the fee switch will get turned on, like this is. Look at this dip. This is your dip. This is a dip for you. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, the market is adjusting real time to information. Right. And it looks like, you know, I guess one question I would have for you, though, David, is, and this is a question I asked on Twitter earlier this week, is unitokens or coin, which are you more bullish on if you had to pick one? Right. Because both are exchanges, but one is kind of like a squishy governance token that maybe has a claim to fees, such as they are. The other is like a fully registered security where you have, like, legal guarantees."
+    },
+    {
+        "speaker": "A",
+        "text": "And to make that thing go up in price. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "With fiduciary responsibility, it very much shows you that the uni token is a different type of asset. It is certainly not a stock. It has different kinds of guarantees. But you're right."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Fully diluted valuation of uniswap is now under $4 billion. Market cap 3 billion. So there's some dilution that will eventually happen, but not too much. Coinbase valuation is $18 billion. And so Coinbase is it, like you said, it's an exchange. It's also got other lines of businesses that Uniswap does not have. We did a podcast on this recently exploring all their lines of businesses. We're actually going to talk about when they have an announcement. $18 billion versus $3 billion, $4 billion."
+    },
+    {
+        "speaker": "B",
+        "text": "That's interesting."
+    },
+    {
+        "speaker": "A",
+        "text": "That is interesting, actually. I hold both. I hold both coin and uni. I'm bullish both. And if I'm staking a beta, I think the Uniswap fee switch gets turned on sooner rather than later, like inside of one cycle."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. Well, I am temporarily bearish on governance tokens, but that could, that could certainly change. David, what do we have coming up next?"
+    },
+    {
+        "speaker": "A",
+        "text": "Coming up next. Coming up next, SBF week three. How's it going? How's it going, Sam? How you doing? We're going to ask you that. We're going to ask that question. New layer two live on Mainnet and Coinbase. International exchange launches. Uniswap is already international, but Coinbase is making its way there. And so we'll talk about all these details and more. But first, a moment to talk about these fantastic sponsors that make this show possible, like metamask portfolio. If you have not opened up your metamask portfolio, because I know you have a metamask account. There is a link in the show notes to go open up your metamask portfolio. It's pretty cool."
+    },
+    {
+        "speaker": "B",
+        "text": "Check it out."
+    },
+    {
+        "speaker": "A",
+        "text": "David."
+    },
+    {
+        "speaker": "B",
+        "text": "We got to check on Sam Bankman fried this week. It is third week of his six week trial, I believe, and I think this headline that we have up on the screen about sums it up, at least to me. Legal experts say SBF is in deep trouble. Things aren't looking too hot."
+    },
+    {
+        "speaker": "A",
+        "text": "Thanks for that analysis."
+    },
+    {
+        "speaker": "B",
+        "text": "There you go. As former FTX CEO Sam Bankman Free's criminal trial settles into its third week, legal experts don't seem particularly optimistic about the ex billionaire's chances of exoneration."
+    },
+    {
+        "speaker": "A",
+        "text": "I have a number of friends who are not legal experts, who are watching or in the courthouse watching this, and they say the same things. I don't know if you need to be a legal expert to say that."
+    },
+    {
+        "speaker": "B",
+        "text": "Maybe it's more credible coming from a legal expert, though. You got this list. What's this last line saying?"
+    },
+    {
+        "speaker": "A",
+        "text": "I'll read this last line a second. There's a little bit of context, which is that there's a big question going on, which is, will Sam Bankman Freed take the stand? Will he testify? Yeah, because I'm sure he has words to say, but if he goes up there, he will be questioned by the prosecutor and are. Do they want that, like, gut take? No, you don't. But the question is, the trial is going so poorly that they kind of think, like, well, there's not much to lose, so let's go for the Hail Mary."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, you know what? SBF has always been a bit of a gambler, I'd say."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm sure SBF is like, put me in, coach. Put me in."
+    },
+    {
+        "speaker": "B",
+        "text": "So what's this say?"
+    },
+    {
+        "speaker": "A",
+        "text": "A former federal prosecutor and law professor at Duke says it's very rare that a defendant can turn a case around from the witness stand."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, not looking so good. But three things happened this week that I think are worth touching on. So, one is Sam's high school friend goes on the witness stand."
+    },
+    {
+        "speaker": "A",
+        "text": "So who also worked at FTX and worked at FTX. Yes."
+    },
+    {
+        "speaker": "B",
+        "text": "Cool. What's the TLDR from this part?"
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so the TLDR here is that of all FTX executives that have testified so far, Singh, who's the friend, has the biggest, best moral compass. One of my friends who was there, who's reporting on it, said that, like, they felt the most empathy for this particular gentleman who described admitting to admitting guilt to various crimes, including fraud, money laundering, campaign finance violations inside of the FTX arena. This individual described that he had felt suicidal in November of 2022, when FTX declared bankruptcy. He mentioned that there was a tense atmosphere among the executives. In early November 2022. There was a war room of sorts. That, quote, he said, a crazy blame game going on, so everyone kind of blaming everyone else. Go figure how, like, Caroline just immediately defects and goes full prisoner's dilemma is like, I'm cooperating with the government. He confirmed that Alameda took billions from FTX and that SBF was the mastermind behind it. Like, shocker. No surprise there. That's, like, the third time that different people have all said this. He also portrayed Sam as a formidable character who had met with many celebrities. Uh, he had described the massive SBF spending habits, uh, including endorsement deals with high, very high investments, and in connections to celebrities like Hillary Clinton, Katy Perry, Orlando Bloom, and the Jenner family. And, quote, I honestly could not tell you what they do. As in, like, why do we have these relationships? I don't know. And that was, I think this is the last FTX executive that will testify. So that that wraps the whole, like, inner circle testimony."
+    },
+    {
+        "speaker": "B",
+        "text": "Another ghost from 2022 is Zach Prince. He is the blockfi co founder and CEO. He apparently got on the witness stand and said, hey, you know why Blockfi went bankrupt? It was because of that guy right there. And he pointed at SBF because he."
+    },
+    {
+        "speaker": "A",
+        "text": "Gave us fraudulent books."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Zach Prince said he would never have doled out funds had he known false balance sheets were being used. So actually lent money to FTX, 1.1 billion to FTX, $1.1 billion on those. Remember we were talking about last week, the seven different alt balance sheets that FTX actually had?"
+    },
+    {
+        "speaker": "A",
+        "text": "I'm sure Blockfi got one of those, I think alt number seven, the worst one."
+    },
+    {
+        "speaker": "B",
+        "text": "And lent him money based on it, would have never done it. So all of the retail loss on Blockfi, of which there are many, probably even bankless listeners. I was one of those, too, dude. You were because you lost money in Blockfi as a result of this. And then there was this comment from SBF lawyers about whether Sam would attempt to jump on the witness stand or not so unhinged. I don't think they're doing him any favors, man. What is he saying?"
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so this is a tweet from somebody who's covering this debacle. SBF Sunday night, filing a re request for trial day Adderall, so he can decide whether to testify. Quote, so as we approach the decision of. With whether Mister Bankman fried will testify. Because of the lack of access to Adderall, he will not be able to concentrate. And so they are saying, hey, we need to get Sam some Adderall so he can. So he can speak words coherently."
+    },
+    {
+        "speaker": "B",
+        "text": "I feel like that is not doing him any favor. Doesn't he have an Adderall problem? Anyway, this is how we got that."
+    },
+    {
+        "speaker": "A",
+        "text": "Sam Bankman fried is off of his. Of his amphetamines, off of his hoppers."
+    },
+    {
+        "speaker": "B",
+        "text": "Wish it happened earlier, actually, honestly, going."
+    },
+    {
+        "speaker": "A",
+        "text": "Back up to the Zack prince thing, the friend that I have that's down at the courthouse reporting, like, what witness Zach prince talks to the jury and to everyone listening, and she just. She said that he was just, like, a huge douche."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, really?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, just like, super cringe. Wouldn't stop using finance tech bro, like lingo. And the court had to stop him over and over and over again and say, hey, can you explain that? And, like, the reason why I'm pulling this out is like, and this is Natasha Hoskins from the boys club, by the way. They're doing a great job, just, like, reporting on the court. She's in there, like, watching this happen. And so, like, the statement is that Zach prince, who's totally managing Blockfi's finances super well, and it's up to Sam Bankman fried, and it's all his fault. It's like, if you look at. She said, like, they. He had to disclose some of his decision making about whether to give Alameda money or not. And she said, like, yeah, like, he was gambling, too, man. Like, he was also effing it up. He just has the benefit that he can actually point to Sam Bankman Fried. But, like, Zach Prince was not doing good risk adjusted analysis of the capital of his customers either."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, that was that. That was certainly evident. I think a lot of retail is feeling that now, David. But let's go on to brighter things away from the SBF trial, at least this week. We only have three more weeks of that scroll. Mainnet just went live, David, what's been launched?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, scroll. The Zk evM byte code equivalent with the EVM, that zk evM just went live. So this is a true copy and paste your app onto scroll and it's good to go. That's what that means to be. Bytecode. ZK EVM equivalent, open source from day one, created in collaboration with the Ethereum foundation, interestingly, and a community of independent collaborators. And so this is just kind of. Kind of a big day, obviously a massive day for scroll, but a byte code equivalent, Zkevm. Layer two on Ethereum is a big deal. Big deal for the ZK world. Big day for the layer two world. So congrats, scroll."
+    },
+    {
+        "speaker": "B",
+        "text": "And we did an entire episode on this. If you want to find out more, go catch that episode. It's on the RSS feed and also our YouTube channel. And David, do you know the talented analysts over at the bankless Airdrop hunter have actually put a few quests up that might make folks eligible for this scroll airdrop if they launch a token at some point in the future."
+    },
+    {
+        "speaker": "A",
+        "text": "It's a layer two, dude. How do you decentralize a layer two without a token?"
+    },
+    {
+        "speaker": "B",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't know how you do else that would be new."
+    },
+    {
+        "speaker": "B",
+        "text": "We have no special knowledge on how they might this token, but we've got some folks that are hunting the airdrop opportunities here."
+    },
+    {
+        "speaker": "A",
+        "text": "And I mean, we asked Sandy and Torgal, hey, are you guys going to win the token? And they said that they are not focused on a token. Not that there wasn't a token. Not focused on it."
+    },
+    {
+        "speaker": "B",
+        "text": "So bankless.com airdrop hunter, if you want to join some quests and do that, David, there are some perps coming out of Coinbase. What are we looking at here?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so this is the Coinbase international exchange launch. So perpetual futures have arrived. Not for Americans, sorry. Uh, and so if you are in eligible non US countries, you can now trade bitcoin, ether, litecoin and XRP. Fantastic. Perpetual contracts. Coinbase.com perpetuals is the new exchange. Okay, but why is this a big deal, Ryan? Like what? Thank you. Thank you for asking. You remember bitMex? That was a huge exchange. It's gone under. FTX, like, was famous for its perps that also went under. Binance has eaten up the market share for perps."
+    },
+    {
+        "speaker": "B",
+        "text": "What are herps, by the way?"
+    },
+    {
+        "speaker": "A",
+        "text": "It's kind of like our crypto native version of options or like native leverage. It's actually like a financial primitive made by crypto people for crypto people that actually could get ported back into tradfi like this. Tradfi can do this too. We just made perps based on the constraints of blockchains. So this is kind of like our contribution, crypto's contribution, contribution to the world of financial primitives. Turns out there's still things that you can build there."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And they allow you to go margin long, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Super capital efficient. Like, if you like. How do you, you know, whenever you see those, like, advertisements for like a hundred x leverage on some like, b tier exchange that you don't know anything about. Yeah, that's a perp. That's a perp. And so perps, because, like derivatives, it's a derivative. It's a derivative financial product under the purview of the CFTC, which is why BitMex went under, because the CFTC is like, hey, BitMex, you're not registered. You need to go away. And so then it went away. And so the derivatives market's massive. Just because of the capital efficiency that you can get, you can get leverage on your money. Like, $1 means up to $100 of capital. And so this is why exchanges like Coinbase are chomping at the bit to be able to service this demand, because the fees of outpace the fees that you can take on the spot market, the fees are lower, but the volume is much larger. And so Coinbase, I'm sure, is just very stoked to be able to enter this market slowly, like in good old Coinbase fashion, just like very late. But they're now in the game and they're doing it well. It's a compliant way."
+    },
+    {
+        "speaker": "B",
+        "text": "FTX is completely left open. Right."
+    },
+    {
+        "speaker": "A",
+        "text": "It's just really first dominated and then died."
+    },
+    {
+        "speaker": "B",
+        "text": "That died. But binance is the big player here. And if you look at actual trading volumes, I mean, look, all of this orange David, this looks like it's about 70%, 75% of all exchanges actually happens in these perps, tokens and derivatives. And it's not on spot."
+    },
+    {
+        "speaker": "A",
+        "text": "Spot is about 25% of volume. Derivatives, perps is about 75%. We actually just recorded a bull case for Coin episode with a couple of crypto Twitter analysts. And so we actually have some speculation about what could this mean for Coinbase, the company. So let's go hear some hypothetical numbers."
+    },
+    {
+        "speaker": "B",
+        "text": "If Coinbase is able to do what FTX did from January 2021 to January 2022, over that year, Coinbase would make $720 million. Okay, that's a bit bigger. That'd be good for a 23% jump in Coinbase's overall revenue. So now we're getting into things that really going to potentially move our stock. Then if we go even crazier and think about Binance, which is obviously the whale in all exchange talk, if Coinbase is able to capture 25% of Binance's volume on perps, that would mean 3.6 billion with a B billion revenue jump. And that's good for a 97% increase over last year's total revenue for Coinbase. We can get crazier from there, but you can see how quickly how much money this product can throw off for Coinbase. You could get crazier from there. But perks are absolutely massive. It's a huge opportunity for, for us exchanges like Coinbase."
+    },
+    {
+        "speaker": "A",
+        "text": "So, yeah, I think this is the big question, which is like, Coinbase is going after Binance's market share. They're entering the international offshore exchange arena. How much perp capital trading volume desires the comfiness of an onshore United States company that's producing this offshore exchange? How much capital will go from like, oh, I prefer Brian Armstrong over Cz? That is an unknown question."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think so. There's also an unknown question as to how much of this market share Defi can take. Right. There's like, there's only of all of the players and kind of perps today, it's only really dy DX that has any kind of market share, and that's still tiny. It's just like 1%. So there's got to be some new perp designs that, that happen in Defi to take some of this market opportunity away. So we will see. David, I just saw this when we're getting into the agenda, and my only conclusion is this, David, Elizabeth Warren is actually trying to kill crypto like she actually is. I think it's aggressive. I think it's coordinated. This is a letter led by Elizabeth Warren has some other senators who have signed off on it, but she's basically asking the IR's to speed up its crypto tax reporting rules. And these are some tax reporting rules that would be absolutely disastrous for DeFi in the United States. In particular, they make it such that all DeFi user interfaces, as vaguely defined as they are, which could mean something like etherscan, for instance, and certainly could mean something like the Uniswap front end or crypto wallets. It could expand to basically all of the interfaces and applications that we use in DeFi. They would have reporting obligations, IR's reporting obligations. All right. And so this is an interpretation that the IR's has had recently that they put out publicly, and the public is now commenting on that. In fact, we're doing an entire episode about this. We're going to be putting this out next week with the DeFi education Fund on how disastrous this interpretation of the tax rules would be by the IR's and what we can do about it, how, how we can push back against it. But Elizabeth Warren here in this letter, David, is saying that the IR's should accelerate its implementation of these tax rules. Originally, the IR's was going to deploy them over the next two years. And she says, we can't wait that long. We got to push this forward even faster. And, yeah, that's. It's incredibly alarming what's going on. And that. That's not the only thing. Um, she actually penned an op ed this week in the Wall Street Journal titled cryptocurrency feeds Hamas terrorism. Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "Oof. Oof."
+    },
+    {
+        "speaker": "B",
+        "text": "Wait."
+    },
+    {
+        "speaker": "A",
+        "text": "We just know that that's just false. We know that that's false. You can see it on chain. You can see the lie on chain."
+    },
+    {
+        "speaker": "B",
+        "text": "It's just opportunistically dishonest. This is, like, low rung politics. Hamas is obviously in the news right now, and her association of that with crypto is completely targeted. It's completely aggressive, and I don't know why they're doing this. I don't know why she is doing this specifically, but this seems like an aggressive, targeted campaign against crypto. I'm very concerned about this IR's interpretation, implementation of tax code laws, but it just doesn't stop there. It's been, like the entire trajectory of Operation choke point over the last twelve months or so, and I have no idea where it's coming from. So that is the context here. We are definitely under attack in crypto, and I feel like I haven't fully realized it until lately, how bad it's actually gotten, how coordinated and aggressive it is."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. I think. I mean, we, as crypto citizens in the United States, like, definitely, we would enjoy improved and updated tax guidelines for how we do taxes. And that's not what we're getting. And, like, we want precise and aligned tax guidelines. And what we're getting is, like, this blunt tool. And then Elizabeth Warren is like, yeah, but now faster. Like, just hit them with a hammer. Hit him with a hammer. That's basically. What is Elizabeth Warren doing. She is understanding that, like, she can get $50 billion. That's the number that she cited, $50 billion of taxes out of crypto. If we just hit them with this massive blunt, like, tax ban hammerhead. And it's basically a way to, like, you know, to push the industry away and saying, like, hey, everything you're doing, just, like, blunt taxes, it's. It's just like, it's just a hammer."
+    },
+    {
+        "speaker": "B",
+        "text": "It's certainly pushing a lot of crypto, I think, interest out of the United States, at least for right now, so. But we are winning in the court system, David, what are we looking at here?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so this is a headline out of Bloomberg saying SEC won't appeal court decision paying, paving the way for grayscale spot bitcoin ETF. And so this is just another indication that we have of Gary Gensler and the SEC backing down in the courts. And so they, the SEC lost the court case against grayscale about turning their spot, their bitcoin treasury into a spot bitcoin ETF. They could have appealed it. They did not. So weak."
+    },
+    {
+        "speaker": "B",
+        "text": "Weak."
+    },
+    {
+        "speaker": "A",
+        "text": "Gary."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's going well in the court system. At least we got that going for us. David, what are we looking at? This was a release this week that was notable."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, back to some crypto native stuff. Etherfi tweets out. After a tremendous amount of hard work by the whole Etherfi team, we are excited to announce that we are shipping our LST eth. So lowercase eth, it is an LST like Lido, like rocket pool, like diva, except it's different because it's Eigen layers native restaking token. And so it is a liquid staking token that is also earning the yield of Eigen layer re staking networks. So it's all the yield bundled up into one token. So you would expect, logically, it has the yield of Ethereum staking and what other, whatever other Eigen layer networks are also up and running in the early stages of Eigen layer. And so it would, in theory, have more yield, which is why it's cool."
+    },
+    {
+        "speaker": "B",
+        "text": "Money Legos."
+    },
+    {
+        "speaker": "A",
+        "text": "David M. Yeah, good meme, David, what."
+    },
+    {
+        "speaker": "B",
+        "text": "Do we have coming up?"
+    },
+    {
+        "speaker": "A",
+        "text": "Ever tell you about the sad story of money Legos eth?"
+    },
+    {
+        "speaker": "B",
+        "text": "No."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it's the only private keys that I've ever lost. Oh, what happened to them? It was in my argent smart contract wallet and I lost the Guardian and I don't know where this. Yeah, so I think money that goes out ETH expires in like 2025, and I'm just gonna like, watch it, watch it go."
+    },
+    {
+        "speaker": "B",
+        "text": "Does it have. Okay, and does it have any crypto in it or. Not much."
+    },
+    {
+        "speaker": "A",
+        "text": "I think I lost my arbitram airdrop in there as well."
+    },
+    {
+        "speaker": "B",
+        "text": "Sad. Well, speaking of crypto, if anyone buys."
+    },
+    {
+        "speaker": "A",
+        "text": "Money Lego Zadi, please talk to me. So it's the one meme that I made, that I made super proud of. Other than triple point asset, I do own that one."
+    },
+    {
+        "speaker": "B",
+        "text": "Speaking of people losing crypto, we got to tell you the story of Jimmy Zong, who is the guy who had 3 billion in bitcoin in his basement and he lost it to the FBI. Ok, it's going to be story time coming up after the break. David, what else we have?"
+    },
+    {
+        "speaker": "A",
+        "text": "I actually have a story time for you as well. It's completely unrelated, but it's one of the biggest bear market signals. And it's all the MeV searchers have moved to. Restaurants in New York City is something I learned about this week. And then, of course, we have a takes of the week. One take from Deegen Spartan about crypto as the mirror image of stocks and a few other things and what David and Ryan are bullish on. So we're going to get to all of this and more, but first, a moment to talk about these fantastic sponsors that make the show possible."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, David, you ready for story time?"
+    },
+    {
+        "speaker": "A",
+        "text": "I love story time."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, do you remember that guy that we were talking about? Like the FBI suddenly discovered $3 billion worth of bitcoin? That was in November of last year, in the midst of a lot of craziness, I think the SBF stuff and all of this. So we didn't talk about it for. For very long. But the story was the FBI uncovered $3.6 billion worth of bitcoin from some guy's basement in Georgia. In Gainesville, Georgia? Yes, Gainesville, Georgia. And this was bitcoin from the original Silk Road hack. This was bitcoin that was actually stolen from dread pirate Roberts of the Silk Roads. It was 50k worth of bitcoin. And suddenly it popped back on the FBI's map and they raided somebody's house and confiscated $3.6 billion worth of bitcoin. So at the time, it was just a crazy story. We didn't know very much about it, but here are the details here. So the guy's name was James Zong of Gainesville, Georgia, and he pleaded guilty to all of this stuff. James was apparently living the high life in Gainesville, Georgia. Okay, this is a picture of James right here. This is James and his friends, Gainesville, Georgia."
+    },
+    {
+        "speaker": "A",
+        "text": "For the podcast listeners, this is the stereotypical crypto nerd who's stumbled into a ton of wealth and now has two attractive women at his side."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. So multiple times."
+    },
+    {
+        "speaker": "A",
+        "text": "Here's the same picture I just described, but now on a boat."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. So how did the FBI actually track this down? So apparently Jimmy, as his friends call him, not James, Jimmy. He had a break in, actually. So he had a break in in 2018 or so, and somebody broke in. It's assumed to be one of his friends or somebody close to his circle broke in, stole some of his bitcoin. So he called the cops, and it was only like 150 bitcoin, which is a small amount for. For him. He's like half a million dollars or something. But he called private investigators to go help him with that. And so he was on private investigators radar. And then in 2019, he mistakenly sent a transaction to a centralized crypto exchange that had AMl KyC to him. Right. That's how he f'd up at his identity. All right. And this put him on the radar of chainalysis, who, of course, tracks all of these different addresses. They probably know a lot about you. Bankless listener. But, you know, listening to this and your on chain profile, and they flagged this particular address with Jimmy Zong's identity, and they called the FBI. And so to huge own goal. Yes, yes. Unfortunate mistake for Jimmy Zong. So two FBI agents show up to his house. They pretend that they are private investigators as well, and they're trying to help him find the 150 bitcoin that somebody stole from his house. And so he invites them in, he shows them his basement and the cool stripper pole he installed there."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, my God. He had a stripper pole in his house?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, he did. In his basement. And so they talk and they chum it up, and they just discover more about Jaydeh, and it becomes pretty obvious."
+    },
+    {
+        "speaker": "A",
+        "text": "Them into his home. And he does give them everything."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, he's just a really friendly. He's a. He was a friendly guy, by all accounts. But these FBI agents are clearly, you know, vetting more information. They're building the case, and then they show back. They show up another time, this time with, like, a full warrant. Right, for his arrest and the ability to. To search his house, because they. They. They know, essentially, he's got more bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Because, in fact, might be the Silk Road thief. I mean, he stole from a thief. So he's the thief of the thief. And apparently, Jimmy was hiding a lot of his bitcoin in a Cheetos popcorn tin. So it was. There was millions of dollars."
+    },
+    {
+        "speaker": "A",
+        "text": "That's where I keep my private keys."
+    },
+    {
+        "speaker": "B",
+        "text": "You know, his Cheetos popcorn tin, and then also under the floorboards of his house. So here's how a bitcoin ogden actually hide. Hit his bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "You know, that's kind of what I had in mind, actually. That's what I envisioned."
+    },
+    {
+        "speaker": "B",
+        "text": "Looks very much."
+    },
+    {
+        "speaker": "A",
+        "text": "It looks like tens of thousands of dollars of cash, some silver, and some private keys."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, some private keys. And do you remember these? These are actually, like, what are those called?"
+    },
+    {
+        "speaker": "A",
+        "text": "Coins."
+    },
+    {
+        "speaker": "B",
+        "text": "Exactly. So they're actually bitcoin representations in kind of a coin form. And then, of course, you know, I don't."
+    },
+    {
+        "speaker": "A",
+        "text": "I've never actually understood how those."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Anyway, completely busted. But the craziest part of this story, I feel like. So they arrested Jimmy. He got a year in prison. Of course, they took all of the bitcoin back. But the craziest thing about this, David, is the government wasn't even really that mad. And do you know why?"
+    },
+    {
+        "speaker": "A",
+        "text": "It's because he was a hooligan."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. No, no. He was a holder. That's what he was. Jimmy Zong did not spend any of this bitcoin. All right? And so what? Bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, yeah, because he would get in trouble."
+    },
+    {
+        "speaker": "B",
+        "text": "I know. But what the. What the FBI originally did was they obviously, they got all this bitcoin from the Silk Road from Ross Ulbricht, and then they sold it fairly, fairly immediately, like."
+    },
+    {
+        "speaker": "A",
+        "text": "And then who's the guy that bought it? What's his face? James Draper. Draper."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, yes."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "VC."
+    },
+    {
+        "speaker": "A",
+        "text": "It went for a premium because the government was selling it. So it was like, yo, this is clean bitcoin. This is good. This is, like, cleaned by the government. And so it went for a premium. Yeah, back then, so."
+    },
+    {
+        "speaker": "B",
+        "text": "But if they had gotten this bitcoin at that time and sold it, they said they would have gotten $320 a coin or they would have made. The government would have made $14 million. And because Jimmy Zong diamond handed it for, like, ten years now, the government got three. 3 billion in profit. Like 3.6 billion in profit."
+    },
+    {
+        "speaker": "A",
+        "text": "Nice job, Jimmy. Nice job."
+    },
+    {
+        "speaker": "B",
+        "text": "So that is the story of Jimmy Zong in Gainesville, Florida. And, yeah, that's, you know, wishing. Wishing the best. David, we got some takes of the week. What's the first one we're looking at?"
+    },
+    {
+        "speaker": "A",
+        "text": "Bankless nation. Should be pretty familiar with the takes. Like these. Now, this is Tommy from Delphi goes, congrats, United States. The Celestia airdrop is not accessible to you. There's 800 million telegram accounts and us users that cannot access the in app wallet of telegram. There are zero dy DX nodes in the new Dy DX chain that are inside of the United States. And eigen layer restaking nodes not in the United States will see premium usage, as in, if your Eigen layer node is not in the United States, you will make more yield. You imagine being this protected from the future of technology. I am so protected."
+    },
+    {
+        "speaker": "B",
+        "text": "Protected from all this upside, all of these gains, all of these air drops. David, what are we looking at here? This is a mev take."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So this is. This is my story time for you. This is something that I learned during my gossipy travels in New York."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. So you know what an MeV searcher is, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes."
+    },
+    {
+        "speaker": "A",
+        "text": "You want to explain what an MEV searcher does to the bank location?"
+    },
+    {
+        "speaker": "B",
+        "text": "You explain it."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. So MeV searchers, they just crawl the blockchain and they find arbitrage. So they rebalance sushiswap and uniswap. They just, they just, you know, they sandwich people. They just find arbitrage opportunities."
+    },
+    {
+        "speaker": "B",
+        "text": "Little nanobots looking little nanobots profit that."
+    },
+    {
+        "speaker": "A",
+        "text": "Make markets on Ethereum in defi extremely efficient, because if there's an inefficiency, they will eke out that profit. Lately, that skill set has some searchers. There are some searchers out there. They might be listening to this right now. Shout out, there are some searchers out there who are either bored by the bear market, aren't finding profit on Ethereum in the bear market, or just are intrinsically interested to take their skills to other venues. Yes, this is appointmenttrader.com. apparently, there are at least two searchers out there who are very good at their jobs, who are now searching out for arbitrage opportunities on appointment trader.com dot. What is appointmenttrader.com? well, there are a number of restaurants and neighborhoods in New York where, like, if you want to get a reservation, you have to, like, hit refresh for the week. That restaurant will open up their reservations for, and then you, like, get it as soon as possible. Otherwise, you're not getting a reservation. If you have a reservation, you can sell it on the secondary market. No way for a buyer of that reservation. So people will, this is, it's like ticket sales. So bots are. But boss are going, and they are mev. They are me being like, New York restaurant opportunities. And so, like, they will. They'll try and bought the, and make the first reservation, but then they will also arb between reservations as if there's, if somebody is, like, selling a reservation for too cheap, they'll buy it up and then resell it and they'll sandwich. They will arb out New York restaurants. So, like, the unit, the New York restaurant liquidity market is, like, made very deep. Like, the order book for New York restaurants is liquid because of these goddamn mev searches."
+    },
+    {
+        "speaker": "B",
+        "text": "Can we tokenize it and can we spin up a uniswap market?"
+    },
+    {
+        "speaker": "A",
+        "text": "That is going to be up to them, man. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "That's hilarious."
+    },
+    {
+        "speaker": "A",
+        "text": "Theory of exporting technology to the world, I guess."
+    },
+    {
+        "speaker": "B",
+        "text": "So this is take from Djen Spartan. What are we looking at?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so DJ and Spartan made a good take. I thought it was interesting. He says crypto is the mirror image of the stock market. He actually says grip toe is the mirror image of the stock market because he is a crypto Twitter DJ. And that's the worst person."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "In stocks, you get a big dump every few years when panic supply overwhelms a stable demand. That was the COVID dump. That was, you know, anytime there's like a big. This is like the Berkshire Hathaway model. You just. You just hold a bunch of cash, and then when there's what DJ Spartan says, a panic supply overwhelms a stable demand. You buy those in the stock market. In crypto, in grip two, you get a big pump every few years. When panic demand overwhelms a stable supply, you sell those. And this is kind of how I've described crypto bull markets every now and then is like, society just is going to forget about crypto for three years, and then one year, all of society remembers crypto exists. They'll. And then they realize, and they realize that we've made three to four years of progress, and they're like, oh, I'm underexposed by. Yep, that's if you are part of. Exactly right. And if you are part of the stable supply, you bankless listener, you are part of the stable supply. You sell those is what Degen is saying. I just like to juxtaposition."
+    },
+    {
+        "speaker": "B",
+        "text": "I do. And I think that if you do dabble in trading at all, it's optional. Whether you sell those or not. Some long term holders will be like, what do I care? It's noise on the way down. It's noise on the way up. What do I care? I'm going to hold for another ten years. Or you could dabble a little bit in trading, which is what I would say."
+    },
+    {
+        "speaker": "A",
+        "text": "Long term trading. I would."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, long term trading, which is you just sell a little bit when. When everybody else is fomoing in, because that's what they're going to do, right? They, they don't. They panic buy rather than panic sell. That's a. Yeah, it's a good take, David. Here's an Eric Voorhees take. Like every bank in the world, FTX was closed source custodial spied on and censored its users and advocated for compliance with government regulation. Open source, non custodial, permissionless finance is the antidote. This is what pisses me off so much about Elizabeth Warren and others in the US actually trying to clamp down."
+    },
+    {
+        "speaker": "A",
+        "text": "On deFi, using terrorism as a cudgel."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And trying to shut down our open source, non custodial permissionless finance, because that is the thing that worked when FTX and Blockfi and all of the other centralized lending providers were going under. And so taking that away from us, basically, that's, you know, how are you helping any american when you do that?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yep, 100%."
+    },
+    {
+        "speaker": "B",
+        "text": "David, what are you bullish on? What am I bullish on?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, you're going first this week."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. I'm going first this week. This is actually not something I'm bullish on. This is another. I guess it's storytime week, because."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. All right, cool."
+    },
+    {
+        "speaker": "B",
+        "text": "This was, like, the most bizarre thing I think I've seen so far in, like, or this year in crypto. It's called Joseon. All right, let me explain to you what Joseon is. Joseon is the first blockchain ecosystem, first ever virtual nation state. I saw this from a newsletter I read telling me about Joseon. I was like, oh, cool. It's Balaji's network state idea. Let me go look into this project. So, David, this is the project. You see, this is joson.com dot Joseon or Jozeon."
+    },
+    {
+        "speaker": "A",
+        "text": "Joseon."
+    },
+    {
+        "speaker": "B",
+        "text": "Joson. The first cyber nation state recognized by a UN member nation. All right, that sounds promising. So Joseon is a non territorial successor state to the Joseon Empire, which was a korean empire that founded in 1392."
+    },
+    {
+        "speaker": "A",
+        "text": "Korean empire."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So we're going back in history, and this is the successor crypto nation state to the original Joseon empire founded in 1392. So I was like, okay, what is this?"
+    },
+    {
+        "speaker": "A",
+        "text": "It says, who? Why is this the successor?"
+    },
+    {
+        "speaker": "B",
+        "text": "Some crypto person is like, hey, we're going to carry on the legacy. Okay, so the country name. Other names for this are the chosen Empire. The korean empire. The language is any. Any language, right? It's an Internet community. So it's not just English. It's any language. Freedom of religion. Okay, okay. Freedom of censorship. They have a currency called the Moon Mun. Yes. Excuse me. The mun, which is the legal national currency that has all of the benefits of a cryptocurrency."
+    },
+    {
+        "speaker": "A",
+        "text": "The government. It's a crypto. It's a crypto."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, there's a cryptocurrency. This is all on chain. Okay. This is an EVM based side chain called Joseon. It's a digital country. The government. Here's where it gets very interesting. The government is a constitutional monarchy. Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "There's a king, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "I imagine it's the guy who wrote the words that we're reading."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. His name is Andrew Lee. King Andrew Lee. His Imperial Highness. Okay. This is the founder of a crypto nation state, and he put himself as the sovereign king of this thing."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. Because of course you. That's exactly what you would do. Of course you would."
+    },
+    {
+        "speaker": "B",
+        "text": "Who's gonna join this country where this guy is the king?"
+    },
+    {
+        "speaker": "A",
+        "text": "At least one person."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so who is this guy? I looked up the, the white."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, these are some names that I've, these are some old names. Wow."
+    },
+    {
+        "speaker": "B",
+        "text": "His name is Andrew Lingen. Yeah, Andrew Lee. It's been ten years since I made this statement. This is a statement he made. He said, in 50 years, I hope to be alive on earth. However, if I'm not, I hope to be known in history as a man who helped bring happiness to the world. It's been ten years since I made this statement. Eleven years after I declined joining Ripple's leadership team for 6% of all XRP coins. So he declined that. And twelve years since I voluntarily left the world's leading bitcoin exchange, and now he has set himself up to be the king of Joseon. And do you want to look at Joseon's tokens here, David? How many tokens he has, this proud country. 20% goes to the Joseon government, 5% to Joseon officials. Government officials? Yes. 65% goes to the Joseon ministry of."
+    },
+    {
+        "speaker": "A",
+        "text": "Isn't this all him?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, this is all him. And then 10% issuance goes to kind of like, anybody, I guess, who wants."
+    },
+    {
+        "speaker": "A",
+        "text": "To buy it, which is also him. Wait, but is there anyone else in this new country that's not him?"
+    },
+    {
+        "speaker": "B",
+        "text": "I have no freaking idea. I mean, you can buy the mun token if you want, so you can be a Joseon."
+    },
+    {
+        "speaker": "A",
+        "text": "They're not called in this digital nation's nation state. What is this network state?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, what state?"
+    },
+    {
+        "speaker": "A",
+        "text": "What do I get?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, it's not how do I join? It's not really clear what the upside is, but you could definitely buy some mud tokens and you can join this. You can become a denizen, which is a little bit different than a citizen. They have a different take on it. It's like this quasi corporate entity. And you can join this country where this guy Andrew Lee is king and you can pledge your allegiance to him. And I was thinking as I was reading this, so this is what we're doing with Balaji's network state ideas. We're creating these network states with kings in them. And it made me a little sad. But also, that's probably how we start, right? Like, there's going to be all of these cults and weird network state experiments first and then maybe we'll land on something that is actually wholesome and decent. So that's the story of Joseon David. Uh, and if you've become a denizen, I mean, let me know and tell me how it is, you know, might be cool."
+    },
+    {
+        "speaker": "A",
+        "text": "I can't tell if you just wasted my time or not. What the hell was that?"
+    },
+    {
+        "speaker": "B",
+        "text": "I definitely wasted your time. What are you bullish on this week, Mandy?"
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, my God. I don't know. How do I come back from that? I have so many more questions. Okay, what am I bullish on? I wrote this article. I'm bullish on everyone reading this article. That's the TLDR. The article is titled five big questions about the future of Crypto. Usually when I write, I have some idea that I very much believe in, that I want to express that I think I'm right about. And this one is the opposite of that. This is five questions that I would like to have answers answered so that I can have some clarity about crypto. But the point is that these are, I think, very important questions. And the first one, like, is how. What does the future of Ethereum scaling look like? We know it's roll ups, but actually there's still plenty of more questions."
+    },
+    {
+        "speaker": "B",
+        "text": "Many super chains are. One Uber chain, huh?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. One uber chain is a term that I just made up. And then there are also sub questions to help answer the questions. Two, where does value get captured in the roll up stack? There's a tension here between rollup as a service providers versus layer two tokens, so I kind of unpack that. Number three, where is the equilibrium of liquid staking tokens? There's a bunch of."
+    },
+    {
+        "speaker": "B",
+        "text": "There's more than just one dominant LST or many."
+    },
+    {
+        "speaker": "A",
+        "text": "Right, exactly. Number four, does Solana get gobbled? I mean, bankless nation kind of understands my general take there, but I think there's some."
+    },
+    {
+        "speaker": "B",
+        "text": "You have a fixation on Solana, David, don't you?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, yeah, I think Ethereum is going to gobble it up. Is that. Is that the question? Is it going to do that? But also the most important one."
+    },
+    {
+        "speaker": "B",
+        "text": "Is this one of our discord conversations?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I ripped, I screenshotted whatever."
+    },
+    {
+        "speaker": "B",
+        "text": "You asked for that. I remember that."
+    },
+    {
+        "speaker": "A",
+        "text": "I did ask for that, yeah. Yeah. But the most important one of the five is how do we get price discovery to happen on chain rather than on centralized exchanges?"
+    },
+    {
+        "speaker": "B",
+        "text": "Which is where it happens now."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. Currently, price discovery happens on binance. And if it wasn't happening on binance, then it would be happening on Coinbase. And if it wasn't happening on Coinbase, then it would maybe be happening on uniswap. It should be considered unacceptable to all crypto believers out there that price discovery about the assets that our crypto networks produce happen exogenously. It needs to happen endogenously. We need endogenous price discovery over our own assets. And until we can rip the trophy of price discovery from the hands of centralized exchanges, we will always be in their shadow. So how do we get price discovery on chain is, like, the big question, and that's what I'm bullish on. It's. I'm not bullish on anything. Please go read the article."
+    },
+    {
+        "speaker": "B",
+        "text": "You know what, David? These. These are five excellent questions, I think. And I think that, you know, I learned a lot more from your bullish, what you're bullish on segment than you probably learned from mine about Joseon, David. But these are really good takes. What do we got for meme of the week here?"
+    },
+    {
+        "speaker": "A",
+        "text": "Meme of the week? We're throwing it back to the uniswap drama. The tweet is devs absolutely unhinged about this one, and it's the regular old uniswap interface. But with the option to leave a tip, you like to leave a 15% tip, 20% tip."
+    },
+    {
+        "speaker": "B",
+        "text": "Are we going to say that thing obligatory of, like, man, tips are getting insane, aren't they?"
+    },
+    {
+        "speaker": "A",
+        "text": "Tips are getting insane."
+    },
+    {
+        "speaker": "B",
+        "text": "Everybody, everything's asking for a tip. And it. You know that it's not starting at 5% anymore. It's like 10%, 15%, 2020, 5%."
+    },
+    {
+        "speaker": "A",
+        "text": "I always tip restaurants, of course, and I try to draw the line very firmly there."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, I agree. Tipping is everywhere. Tipping culture is in. So now it's been added to the uniswap Ui. David, we got a really cool moment of Zen, actually. This is. Do you know Theo von?"
+    },
+    {
+        "speaker": "A",
+        "text": "It's not that cool."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, he's a comedian, and it's funny, but I think it perfectly captures what normies think about crypto right now. And about nfts."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, nfts."
+    },
+    {
+        "speaker": "B",
+        "text": "And about our computer money. So we'll play that right after we get through the disclosures and the risks and disclaimers. First, disclosures. David and I are investors in scroll. Uniswap is also a sponsor of the bankless show. They were in the news this week, so obviously we talked about them. We are long term investors. We are not journalists. We don't do paid content. There's always a link to all bankless disclosures in the show notes. You can find that in the show notes section. I don't have to say that twice. There's always a link to all bankless disclosures in the show. Notes, risks and disclaimers. Of course, crypto is risky. You could lose what you put in. But we are headed west. This is the frontier. It's not for everyone. But we're glad you're with us on the bankless journey. Thanks a lot. Now here's the moment of Zen. David, let's watch this together. Oh, God, look at that nFt market. That thing disappeared. I mean, what the fuck was dumb."
+    },
+    {
+        "speaker": "A",
+        "text": "From the jump, I would say it sounded dumb. People like you don't get it. I'm like, I think I do. And now it's all like, everything's been proven right."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, it's all jp."
+    },
+    {
+        "speaker": "A",
+        "text": "It's all gone. Yeah. And I don't why the board ape was. It wasn't good in the first place. But you're gonna spend billions on this thing. It was very, very dumb."
+    },
+    {
+        "speaker": "B",
+        "text": "And I think the person spending billions, I think it's just one guy telling his buddy, hey, let's write an article that said you spent a billion. Yeah, and then we'll get everybody else to buy bullshit."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "It's like the guy who said he spent a billion. Never even spent a fucking billion. I spent. I think they spent five grand paying a website to make an article."
+    },
+    {
+        "speaker": "A",
+        "text": "Computer money isn't real. I don't believe that. You have, like, a billion dollars in crypto. That's the same as having a billion dollars in real money. Yeah, I don't buy it. Okay? The thing is, like, a part of that is actually, like, some of that was not."
+    },
+    {
+        "speaker": "B",
+        "text": "We don't have to make commentary on it. That was the moment is then. All right, see you guys later."
+    },
+    {
+        "speaker": "A",
+        "text": "That's over. Goodbye."
+    }
+]

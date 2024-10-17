@@ -1,0 +1,630 @@
+[
+    {
+        "speaker": "A",
+        "text": "Bitcoins down like over 20%, like 25%, something like that. Like people saying it's over. I mean like, look, I am no trader and you don't get trading advice on bankless, at least not good advice. That's not why you're tuning in every week. But like this one is so easy to freaking call."
+    },
+    {
+        "speaker": "B",
+        "text": "So easy."
+    },
+    {
+        "speaker": "A",
+        "text": "The answer to the question is, is it over yet? Have we topped the answer that question. Let me give it to you. Bankless nation. It is the last Friday of January and it, it is weekly roll up time. We're going to talk about a few things. First, though, not to sugarcoat this. Bitcoin is down on the week big, down big. We'll give you the numbers, but the question is, is the bull market over? And I think to answer that, we got to answer the question, when will Grayscale's BTC ETF, the new bitcoin ETF, when will it stop selling? Seems to be a source of the trouble here. What else we got here?"
+    },
+    {
+        "speaker": "B",
+        "text": "The curse of Barry Silbert still among us. After that, we're going to talk about some more exciting things. We're going to talk about restaking summer, what it is, what's going on, what are people doing and why it's a big deal. And then we're also going to talk about how 10% of Ethereum went down, 10% of the Ethereum network stopped producing blocks, but the network as a whole doing just fine. That's why we have multiple clients. But Ryan, have you ever thought about what if 80% of the network went down? Because a lot of people have been thinking about that later."
+    },
+    {
+        "speaker": "A",
+        "text": "Only in my waking nightmares, David, that's the only time I ever think about that. But I think we as a community have to think about it. So we'll talk about that. And also the Tornado cache developers David, Roman and Alexei, they're getting ready for their trials. I think this is going to be an absolutely massive court case, so we'll give you an update on that. But David, before we get in, a little self shill that we don't often do, and that is talking about bankless citizenship."
+    },
+    {
+        "speaker": "B",
+        "text": "We've had a thousand new citizens sign up in the last week and you can go into in real life bankless events like the one that we're doing at ETH Denver. So this is a call to action for all bankless citizens. If you are listening to this on the ad free premium feed, Wednesday, February 28, mark your calendars. There is a link in the citizens discord where we're all chatting, hanging out for you to come to our meetup at East Denver. This is only available to bankless citizens and previous podcast guests that I'm slipping the link to. And so if you want to go hang out, free beer. Said Brewery. Same brewery as last year. Free beer. Free beer. Free beer. Free beer."
+    },
+    {
+        "speaker": "A",
+        "text": "We almost missed this as well. The code to get a 10% discount is podcast 24. So you can go use that@bankless.com. join that's podcast 24. All right, David, let's get to the bad news, man. Markets. Bitcoin is down, and I think it's down in the double digits. Is that what you're about to tell me?"
+    },
+    {
+        "speaker": "B",
+        "text": "Uh, no, that would be ether. Bitcoin only down 6.5% this week."
+    },
+    {
+        "speaker": "A",
+        "text": "Thank you."
+    },
+    {
+        "speaker": "B",
+        "text": "Started the week at 42,000 and a half dollars, ending the week at $39,800. The big question, uh, why is it so down? I think the very simple answer was, it was a sell the news event. But that answer actually can get more and more sophisticated. Grayscale. Everyone's looking at Grayscale and Barry Silbert. So Grayscale sent over $1 billion of bitcoin to coinbase to dump. That's what you do when you send bitcoin to Coinbase. Since the launch of the ETF's at large, since the GBTC trust was converted to an ETF, it's sent over over $3 billion of bitcoin. Other bitcoin ETF's, the blackrock ones, fidelity ones, the bitwise ones have absorbed a pretty good amount of bitcoin. So there's been buying pressure from those. But it's hard to ignore the absolute gargantuan sell pressure that Grayscale has presented to the market. Grayscale currently holds over half a million bitcoins. That's $20 billion. People are just waking up to the 20%, the 1.5% fees that the GPTC is charging. But there's been speculation that it's actually not very much conversion from GPTC to other bitcoin. ETF's. Nick Carter, I think, put out just like kind of a ad hoc number of like 20% to 30% conversions where other people are just selling, selling. They're just trying to get out. They're finally recapitalized after the bitcoin discount has been in the GPTC trust for so long that people are just hitting that sell button and they're getting out."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. You know how sometimes it's sell the news and it's just like, that's the narrative. Well, this is actual, like, outflows. This is actual selling of bitcoin. That I think explains a lot of the, what, down six and a half percent this week? And like last week, I think we were in the double digits down for bitcoin, right. About 1 billion."
+    },
+    {
+        "speaker": "B",
+        "text": "Bitcoin peaked out at $49,000 and we are currently not $39,000, which, you know, pretty big, pretty big fall off."
+    },
+    {
+        "speaker": "A",
+        "text": "It's a, it's a big explainer. This is Matt Hogan here that says this is not, strictly speaking, ETF led sell off. The ETF's are net buyers of bitcoin. That includes grayscale. This is an ETF expectations led sell off. The market front ran the ETF approval by piling to both spot bitcoin and bitcoin derivatives. It is now expected larger net flows into ETF's than we've gotten so far. It is now unwinding that bet. Oh, that's, that's what he's saying."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So there's a diversity of opinions about like, what's going on here. Matt. Matt is just saying the industry really placed bets on this being a massive by the news event and it was actually sell the news event. Here's Vance Spencer who says, my two cent guess on GPT flows is that very little of the outflows have been recycled into new ETF's. This was Vance prediction, maybe 20% to 30%. I would think. Grayscale and FTX are probably sellers in the neighborhood of $1 billion each. Not recycling. That is 50% of flows. So FTX, the FTX treasury that is trying to source all the capital that they can, they didn't sell any of their GPTC up until now. Now that GPTC is an ETF, not a trust. Now they are selling, which will eventually go into the pockets of FTX creditors."
+    },
+    {
+        "speaker": "A",
+        "text": "You want, you want to hear a silver lining here, David, if that news brought you down, bankless listeners. Okay. The silver lining is this. You know how they used to say that litecoin is a silver to bitcoin's gold? Well, it turns out bitcoin that never made sure. Yeah. Bitcoin is silver to gold's gold. All right, here's what I mean. Bitcoin is now the second largest ETF commodity in the US. Just took that place. There used to be gold number one, right in this former monetary unit. It still has a, you know, consumption value as like a, you know, a consumable type of asset, commodity, asset. Silver is number two. Now bitcoin is actually, number two. So sorry, silver. Got to get out of the way."
+    },
+    {
+        "speaker": "B",
+        "text": "By a lot, too. Bitcoin. The bitcoin ETF's are coming in at 27 and a half billion dollars across the eleven ETF's that they have 27."
+    },
+    {
+        "speaker": "A",
+        "text": "And a half billion."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, yeah. Well, I mean, you take degrees. The grayscale trust, which is 20 billion right now. Well, it's starting."
+    },
+    {
+        "speaker": "A",
+        "text": "It's no longer a trust. It's no longer a trust. It's correct."
+    },
+    {
+        "speaker": "B",
+        "text": "Correct. Now it's an ETF. Yeah. With outflows."
+    },
+    {
+        "speaker": "A",
+        "text": "But they had years of doing that is what you're saying."
+    },
+    {
+        "speaker": "B",
+        "text": "Correct. Exactly. Yeah. They started. It started from square one at 20 plus billion dollars silver. So $27.5 billion in BTC trusts. Number two, silver. Eleven and a half. So we're already almost like two and a half x ing silver across five ETF's."
+    },
+    {
+        "speaker": "A",
+        "text": "Just out of curiosity, what's gold, David?"
+    },
+    {
+        "speaker": "B",
+        "text": "Gold. $95 billion. So bitcoin is a second, very far distant second to gold. But we are so young in the bitcoin ETF lifespan that is totally within striking distance. Yeah, that's striking distance for sure."
+    },
+    {
+        "speaker": "A",
+        "text": "Gold had since. In ETF's since 2004."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. It's got a 20 year head start."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Yeah. Plus, not just that, it's got thousands of years in history."
+    },
+    {
+        "speaker": "B",
+        "text": "As an asset."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, as an asset. I mean, how long has gold been? And, like, we're already at 27. Like, we're in striking distance. That's pretty impressive."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, well, striking distance, 27, 96. These are different numbers, but I think, yeah. As soon as we can get rid of just this toxic selling of grayscale."
+    },
+    {
+        "speaker": "A",
+        "text": "GBTC, a three x for crypto. What's that?"
+    },
+    {
+        "speaker": "B",
+        "text": "That's easy. Yeah, that's a good point, actually. Actually, we don't even need necessarily any more bitcoins to flow into the ETF's. You actually just need bitcoin to triple. And so, like, if we have half of each, you know, it's easy. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Gold."
+    },
+    {
+        "speaker": "B",
+        "text": "Gold is done for."
+    },
+    {
+        "speaker": "A",
+        "text": "Sell your gold, everyone."
+    },
+    {
+        "speaker": "B",
+        "text": "Sell your gold, baby boomers."
+    },
+    {
+        "speaker": "A",
+        "text": "Sell your gold. Switch to bitcoin. All right, let's talk about the ETH price, though. You said that was down in the double digit territory. And thanks to Kraken for these glorious charts, by the way."
+    },
+    {
+        "speaker": "B",
+        "text": "So we can really see how bad ETH is down in high fidelity and modular charts. Look at those red candles."
+    },
+    {
+        "speaker": "A",
+        "text": "It's kind of ugly, but it's beautiful when we view it like this as well. So what are we at right now?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, so ether down 13% on the week started the week at 2500, ending the week at 2200, which of course means the ratio down 6% ratio touched 0.06. Now it's at 0.055. Sad."
+    },
+    {
+        "speaker": "A",
+        "text": "Did you know this though, David, on January 24? Actually, you did know this, because you mentioned this. On January 24, we hit over 2700 ETh in the Kraken charts. Can you believe that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, 2700. That was."
+    },
+    {
+        "speaker": "A",
+        "text": "What were you doing on the 24th? Because I don't remember that usually I like."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, yeah, I was climbing mountains. As soon as I got back from the mountains, we started dumping."
+    },
+    {
+        "speaker": "A",
+        "text": "Wait, what day is that? Oh, shoot. 2024. I said January 24. That's why it was the 12th that happened. The 12th?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "So you're climbing mountains. So I should have been paying attention."
+    },
+    {
+        "speaker": "B",
+        "text": "I was climbing mountains when it was going up, and then when I came back, it started going down."
+    },
+    {
+        "speaker": "A",
+        "text": "I have a solution for that, David."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, I should go for no more."
+    },
+    {
+        "speaker": "A",
+        "text": "Like, we want an ethereum ETF, okay? And we want all time highs back again. So go climb some mountains eth. Bitcoin on the ratio. What are you looking at?"
+    },
+    {
+        "speaker": "B",
+        "text": "0.055. And then the total crypto market cap, 1.62."
+    },
+    {
+        "speaker": "A",
+        "text": "As far as l two updates, these."
+    },
+    {
+        "speaker": "B",
+        "text": "Updates are always before we get to the layer twos. I just got a tweet notification on my phone from the DB with, like, they announced it announces, like, big news in the crypto space. Us files notice to sell $130 million of bitcoin seized from Silk Road agent. We just got like, the United States government."
+    },
+    {
+        "speaker": "A",
+        "text": "How much money? How much is that?"
+    },
+    {
+        "speaker": "B",
+        "text": "$30 million."
+    },
+    {
+        "speaker": "A",
+        "text": "130 million? Yeah, I guess we can absorb that."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's just hilarious. It's like, here's a brand new reason no one saw coming for 130 million more dollars of bitcoin cell pressure."
+    },
+    {
+        "speaker": "A",
+        "text": "They know they need to, like, not broadcast their, their cells, their cells. They get a lower, lower, lower price. And some trading advice to the us government. The justice over there. Maybe that's not what they're optimizing for. I don't know. Anyway, okay, back to layer two update. This is brought to you by mantle, which is a new and up and coming layer two that David and I enjoy. It's also growing real fast. Speaking of growing real fast, look at our scaling factor on the week. So remind us what scaling factor is because it says six x. So what are we talking about with scaling factor of l two s?"
+    },
+    {
+        "speaker": "B",
+        "text": "We're talking about six ethereums. So we have the ethereum layer one, and then we have the aggregate transaction volume of all the layer twos on Ethereum and the aggregate transaction volumes, if the all layer two s are six ethereums, so six x ethereums, we saw that one big, big spike where we got to like eight or nine or ten ethereums, but that's the one where ordinals took down arbitrum and then they updated their client and everything's fine. So six six when ten win, sustained ten. Once we hit ten, we're never like, this chart doesn't go down. This isn't a price chart where it."
+    },
+    {
+        "speaker": "A",
+        "text": "Goes up only chart comes up."
+    },
+    {
+        "speaker": "B",
+        "text": "It's an up only chart because scaling."
+    },
+    {
+        "speaker": "A",
+        "text": "Is up only transactions per second."
+    },
+    {
+        "speaker": "B",
+        "text": "And it's like we're going up like one ethereum at a time. Like one month is six, the next month is seven, the next month it's eight. But sometimes we're gonna, we're gonna start going like by two a month, and then we're gonna go by like five a month, and then we're gonna go by ten a month. And that's just how it's going to look."
+    },
+    {
+        "speaker": "A",
+        "text": "Speaking of going up, David, let's talk about some coins that were going up. There's a bunch here, Bittenzer Manta network, but you want to focus on one, which is, I believe, the UMA token."
+    },
+    {
+        "speaker": "B",
+        "text": "What about UMA protocol? Yeah, so Uma just completely repriced itself. It went from $2 to above $6, coming back down to where it is at just below $5 right now. Uma, that is universal market access. Pretty old protocol, I'd say, like really old protocol, like 2018, 2019. These are all also the same people behind the across bridge. So this new oval protocol, they just announced it this week. That's why the price pump happened. They announced this thing called OEV, maybe it was already a thing. Oracle extractable value. So when Chainlink has stale data and then they update their price feeds, because that's what they do. Whoever can capture the change in liquidations or the change in uniswap pools or like whatever, somebody gets to have the first opportunity of arbitrage as a result of updating oracles across Defi and UMA just announced this oracle value extraction layer, aggregation layer, where instead of just allowing mev to happen as a result of oracles, you can bid for that pretty common design pattern and it just created a 2.5 x increase in the UMA price. So that is why UMa is the mover of the week this week."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I mean, that kind of makes sense, right? Because it's a new value accrual mechanism for an old token, which is kind."
+    },
+    {
+        "speaker": "B",
+        "text": "Of, kind of a forgotten token. Yeah, no offense hart all right, David."
+    },
+    {
+        "speaker": "A",
+        "text": "Let'S talk about the other thing that's flying high this week, which is the s and p 500, my friend. Did you know my favorites are at all time highs? And I buy a lot, too. Yeah. Let's look at this chart. Look at this chart. This is s and p price. It's just barely off its all time high, I guess, in the last couple of days. But I mean, look at this, man."
+    },
+    {
+        "speaker": "B",
+        "text": "It's at its all time highs. It's at all time highs. And so this is like there's a big decoupling going on between the crypto markets where like we, we ran up from below a trillion to almost 1.8 trillion. Now we're down to 1.6 trillion. Everyone's super bearish and they're like, oh, is the bull market over?"
+    },
+    {
+        "speaker": "A",
+        "text": "Meanwhile, Jim Cramer says, david, he said it's over. He said bitcoin is topped."
+    },
+    {
+        "speaker": "B",
+        "text": "Meanwhile, the trad markets are up only, and bitcoin and crypto at large has been more coupled to trad than not as it's grown bigger. And so I think this is just Matt perfect signal of just like, yeah, we had this like run up in price. We're recovering from the bitcoin ETF party. We're a little bit like hungover at the moment. But like, overall markets are definitely healthy as a whole. Like risk on assets are definitely a thing. We still got the Fed pivot."
+    },
+    {
+        "speaker": "A",
+        "text": "Bitcoin's down like over 20%, like 25%, something like that. Like people saying it's over. I mean, like, look, I am no trader, and you don't get trading advice on bank list, at least not good advice. That's not why you're tuning in every week. But, like, this one is so easy to freaking call."
+    },
+    {
+        "speaker": "B",
+        "text": "So easy."
+    },
+    {
+        "speaker": "A",
+        "text": "The answer to the question is, is it over yet? Have we topped the answer? That question. Let me give it to you."
+    },
+    {
+        "speaker": "B",
+        "text": "No, no, it's, no, this is so easy."
+    },
+    {
+        "speaker": "A",
+        "text": "Like, this is just like, this is what you see. Bull markets will give you opportunities. Like they will give you shapes, real dumb ones. They will give you times where you know it's going to go down 20%, 30%, 40%, right? You could even see 50%. And it definitely depends on the asset, right. But like what this is is sort of a shakeout if you're still a buyer. And that buyer, it's a buying opportunity. That's all I see. I don't know. Look, could be wrong, but, like, 98% certainty we ain't seen the top. That would be. This would be the dumbest bull market ever. And it would just be contrary to all of the, like, ways everything has ever played out in crypto. Now, the only thing I'll say is, black swan event aside, something crazy could happen. You never know. But, like, you can't."
+    },
+    {
+        "speaker": "B",
+        "text": "Whatever."
+    },
+    {
+        "speaker": "A",
+        "text": "Can't price that in. Yeah. For sure."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Am I wrong? No, totally. It's just. It's going to take some time for the GPTC outflows to cease. So that is like, an open wound that is currently bleeding. It'll take two weeks, four weeks, six weeks. I don't know, two months. And then eventually it'll stop, and then there will continue to be flows into the bitcoin ETF's like the black rocks of fidelity's, the bitwises. And also there's, like, the whole concept of a bitcoin ETF. It ages like wine. There's like a. There's like a six month period where people are just, like, looking at it and be like, you know, we're gonna. We're gonna revisit this in six months. We'll just buy in six months. There's, like, an age, like, wine kind of thing going on in tradfi, and so, like, it flows into the bitcoin ETF or nonstop, if you're here."
+    },
+    {
+        "speaker": "A",
+        "text": "The nice thing about this is it gives you some time, because now, I think mainstream is just like, they're not interested in the bitcoin ETF as much right now because. Why? Because it's not pumping. Like, price isn't pumping right. So now they have a product they can buy, but, you know, when they'll want to hit the buy button is when this thing shoots up. Right. That's when you get the text. That's when everyone kind of piles in. These markets are so reflexive."
+    },
+    {
+        "speaker": "B",
+        "text": "Can I give you a prediction, Ryan?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. What's that?"
+    },
+    {
+        "speaker": "B",
+        "text": "So markets have memory. We all just watch the bitcoin ETF happen. Now the ETF approval is, like, going to be known, a known sell the news event, and we have the ETH ETF later this year. There's an update for that later in the show, may or August or something. Later this year, it'll get approved probably this year. Like, most likely. More likely than not. And then the market is going to be like, oh, it's going to be a sell the news event because of how the bitcoin was a sell of the news event, except we also have the ETH e trust. It's just meaningfully smaller than the GPTC trust. And so I think my prediction is more like the market's just going to be kind of confused going into the ETH trust because the ETH ETF approval, because they're not going to know. It's not going to know if it's a bullish or bearish event. It'll be more muted going into it, but then post it will be more bullish, is what I'm saying, is my prediction."
+    },
+    {
+        "speaker": "A",
+        "text": "David, you're getting dangerously close to trading talk, my friend. All right."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, these are words, not actions."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, you're just gonna hold all the way through that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I'm not gonna do anything about it."
+    },
+    {
+        "speaker": "A",
+        "text": "That's the way to do it, man. All right, what do we got coming up next?"
+    },
+    {
+        "speaker": "B",
+        "text": "Coming up next, we're gonna talk about restaking. We got some updates from the Eigen layer, LST caps for deposits. We also got some LRT protocols to talk about. And the emergence of LRT Phi with something called Pendle. It gets more and more risky. We further, we progress into the conversation. So we're on the frontier of restaking. And also a bug in Nethermind takes down 10% of Ethereum. Not that big of a deal. But what if it happened to geth? And then also tornado cash developers preparing for trial, and they need your help. So we're gonna talk about all of this and more, but first, a moment to talk about some of these fantastic sponsors that make this show possible."
+    },
+    {
+        "speaker": "A",
+        "text": "David, restaking summer is here. I think this is going to be an absolutely major thing in 2024. We got to talk about the liquid restaking token wars, the LRT wars. But in order to do that, I'm looking for a base level explanation of what restaking is and why we're so excited about restaking. Summer. David, we've got a screen pulled up, which is the total amount restaked inside of Eigen layer. That amount is 815,000 ether. So that's like $1.5 billion. Can you explain what is going on here?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, explain what is going on. And it'll end up leading into why the liquid staking wars are so, so hot right now. 815,000 ether deposited into Eigen layer. 330,000 of that is natively restaked. And this just means that people running Ethereum validators have set their withdrawal credentials, as in, when they withdraw their deposit from ether staking, it goes to Eigen layer first, and then it goes to their wallet. And that is what restaking is if eigenlayer restaking is you stake your ETH, you stake it again. And Eigenlayer has control over additional slashing conditions for Eigen layer networks that will come online when Eigen layer mainnet hits in Q one Q 2330,000 ether are just normal ethereum solo validators that have staked to Eigen layer. Then there's this thing called liquid restaking where people are taking staked ETH from lido, Reth from rocket pool, Stator ETH, all the LST's and they're also depositing into Eigen layer. So instead of running your own node, you just take your liquid stake token and you deposit it into Eigen layer, and that's the remainder of the ETH and how we get up to 815,000. These are like the two concentric circles. You have native restaking, just normal vanilla ethereum staking, but you set your withdrawal credentials to eigen layer, making that restaking. And then next concentric circle out. You have liquid restaking where you just deposit lsts into eigen layer. Are you with me so far? Because we're about to go one more concentric circle out."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, there's another circle."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, there's a few."
+    },
+    {
+        "speaker": "A",
+        "text": "There's always another circle. All right."
+    },
+    {
+        "speaker": "B",
+        "text": "There's always another circle."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm with that far."
+    },
+    {
+        "speaker": "B",
+        "text": "Then we get into liquid restaking tokens, which is the brand new war that's going on. I'm super stoked on it. I think it's a super cool thing. It is a brand new playing field for dominance over liquid restaking tokens, which are just like liquid staking tokens, just like staked ETH from Lido, just like Reth from rocket pool, but liquid restaked tokens from these new liquid re staking protocols that are coming out. So it's more yield when all these Eigen layer networks that are going to come online, which are called avSs, actively validated services like Eigen Da or cross between protocols or fast finality layers, additional Eigen layer networks, these are all going to be spitting out yield. And that yield will be incorporated into the yield of a liquid restaking token, which will also have the yield of a liquid staking token. So ether, then staked ether, then restaked ether, all of that yield being packaged up into a liquid re staking token, which is the subject of the most recent wars in the ethereum, in the Ethereum space, because people are jostling for dominance. Just like how like Lido was jostling with like rocket pool and all the other ones, but it's all over again. And so now applications, liquid restaking protocols, are jostling for dominance over the liquid restaking market. You with me so far?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. So let's talk about some details with the liquids restaking wars. But before we do. Okay, so I think we need to take a step backwards, because people are hearing restaking, they're hearing yield. Why are people restaking their eth? So, again, what is restaking? You take your eth, and then you stake it again. And so what that means is you are lending out the economic security of your ether to somebody in exchange for what you're getting some type of yield, or there's some expectation of yield in the future, and there's some additional risks that you sign up for, too. Is that what's going on? Are people staking their ETH with the expectation restaking their ETH with the expectation of future stacking yield? Is that why they're doing it?"
+    },
+    {
+        "speaker": "B",
+        "text": "That's, like, the fundamental reason. That is, like, why Eigen layer exists. Yes. You will have more yield as a function of all the fees that are going to be collected from avss. Are any avss online? No. Is Eigen layer at Mainnet? No. So what are people doing? They're farming the Eigen lair airdrop, because Eigen layer points are a thing. And so that's what people are doing. Now, in the future, we will be able to talk about the yields produced from avss. But right now, that is a future conversation. Right now, people are just playing the Eigen Lair Airdrop farming game."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so there's some. Some speculation going on, and why are we focusing so much on Eigen layer? That's because it seems like that's where the center of all of this restaking activity on Ethereum is. That is kind of the ground zero for this. And the Eigen layer network is what it's like channeling this ether, this economic security, in order to secure other applications. So it's like a platform that you can build applications on top of. And you call these things AVss. Am I right so far?"
+    },
+    {
+        "speaker": "B",
+        "text": "That's right. Like, think of Eigen layer as ethereum security, as a service, and for networks that are not blockchains, any type of other network, like an oracle, for example, or anything. Really?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yep. So that's a refresher. And now help me with this last piece, David. So how does somebody restake? Okay, you mentioned all of these things, but, like, how do I, as someone who's interested in exploring restaking, how do I actually do it. Are there multiple ways to do it? What are they?"
+    },
+    {
+        "speaker": "B",
+        "text": "There are multiple ways to do it. You could go and do native vanilla, native restaking, but that requires running your own node. And so that's why people have opted for liquid restaking, which is just depositing staked ether from Lido or reth from rocket pool into Eigen layer. The problem with that, Ryan, is that there are LSE caps in eigen layer. They have constrained the amount of deposits into Eigen layer because they want to start slowly. They don't want this thing to blow up too fast. So they are responsibly slow starting the Eigen layer protocol by constraining the amount of LST deposits into Eigen layer. But native restaking has always been uncapped. That's actually the news that went out this week, is that they are postponing the raising of the cap by one week. So the new dates are somewhere between February 5 and 9th. And between those dates, actually, all caps will be lifted because they are preparing for mainnet. And so sometime in the first or second week of February, LST caps will be completely lifted, and then we will be able to resume Eigen layer farming with lsts. But the existence of these caps have created incentives for people to find ways to farm the Eigen layer airdrop using protocols that can natively restake. And this accounts for the explosion of TVL in Etherfi. And also Renzo protocol is one of the other new ones. But the Etherfi has this absolute, like, hockey stick growth where they went from, like $50 million of TVL, like, just a couple months ago, to over, like $350 million of TVL as of now. And the race between them and swell as number two and number one of TVL and Eigen Lair is, like, odd. Like, things are like neck and neck right now."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so let me try to summarize that for you. So the way you restake, I think I heard three different ways that somebody could restake right now. They could restake natively. So that's vanilla. But in order to do that, you have to have the capability to run an ETH node and some additional Eigen layer validator like functionality. Okay, that's one. One way. There's no cap. So anybody can go do that. Now, if you have those skills and expertise. The second is if you have, you know, you're staked with Lido, you're staked with Reth, you're staked with swell, something like that."
+    },
+    {
+        "speaker": "B",
+        "text": "You're just holding staked eth, for sure."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, you could take those tokens and just kind of, like, restake them, deposit them. The problem is, it's caps. You can't do that now. Maybe sometime later in February, those capsule, and you can, like, slip in before it where it fills up again, because it's going to fill up again. And then there's the third way. And that is kind of the new group, like, the new category that crypto is creating, and that is restaking with, like, a service provider. Right? So it's like restaking natively, except you're not running the validators. You're using a service provider in that category. That's called LRT. So it's liquid restaking tokens. Right. They do the managed service, and you get a liquid token the other side of that. And folks like ether fire kind of. And that's where the. That's where the war exists right now. Is that. Is that all correct?"
+    },
+    {
+        "speaker": "B",
+        "text": "That's. That's exactly correct. Uh, I think we need to do a whole entire episode. We'll do this, I think, next week, Ryan, uh, where we need to go through, like, all of the different ways, the ways to build an application, an LRT application, because there's Etherfi, who's spinning up their own nodes for vanilla native restaking, and that's accounted for a lot of the deposits that are going into Etherfy. There's swell, which is both an LST and an LRT, who are the number one TVL depositors of the LRTs, into eigen layer, followed by Etherfi. And then there's Renzo, and then there's puffer, and then there's other ones that haven't come online yet, like Rio. There's a bunch of others that I'm not naming because there's so many right now. And then after that, Ryan, we go one more concentric circle out, and we talk about LRTFI with things like Pendle and people foregoing their airdrops for a more yield, 30% yield, or people are going for zero yield. And, like, leveraging up on Eigen layer air drops, there's, like, this whole blossoming, like, LRT financialization layer. It gets very, very degenerate. But, like, this has accounted for a ton of activity in the Ethereum financial space lately."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, bankless promise we will do an entire episode on restaking and what the opportunities are and how that landscape is now. I'll just kind of zoom out for a minute and talk about why this is important. This seems very much like Defi summer 2020, 2020. And that's why like, we're calling this, others are calling this restaking summer. And I will note that during Defi summer, a lot of these yields were kind of speculative yields. And remember the point earlier that you made that none of these applications on Eigen layer, these things called AVss, none of them are live, none of them are producing yield. So why are people doing this? They're. They're piling in because there's anticipated value being created and anticipated airdrops and tokens that can be received. It's kind of like yield farming, yield hunting. It's Defi summer 2020. If you weren't there for that, this is what that is. And so what's going to happen is what happened that time. There's going to be a lot of people that pile in risk too much, because, look smart. Like, these things haven't been. Like, some of them haven't been audited. Some of them will go fast and loose, and they won't take security seriously. Like, there's real risk. If you're playing this restaking game and you don't have to go there if you don't want to, you can sit by, hold your eth, maybe just stake your eth, like, simple stake. You don't have to restake and observe what's going on. However, if you want to be an active player in this, I would just remember that there's a lot of risk associated with these things. And, like, maybe only a portion of your portfolio, you know, assign it to kind of explore this ecosystem, because there's going to be, like, fortunes made and fortunes lost. There's going to be lots of shenanigans playing out. What's really exciting, though, is this is the birth of an entire new sector of crypto. Like, that's what's happening now of the same order of magnitude, in my opinion, of Defi in 2020. And, yeah, there's a lot of chaos, but it's like a star being born in a nebula cloud, right? It's like all of this chaos, these gamma radiation, all of this stuff. But at the other side of that, something beautiful is going to form something life giving, and it's going to propel our industry forward. So don't get caught up too much in the speculation unless you want to play those speculation games and then, you know, enjoy the frontier."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. As re staking summer continues, there's definitely going to be some blood sacrifices along the way, for sure. Don't let that be you do be the people, people that collect the restaking airdrops for restaking your ether. Which one of these is alt layer? That was announced this week. Alt layer airdrop season one was just announced by this brand new roll up as a service provider with Eigen layer restaking networks too, as like extra little modules on rollups. So, like, think of them like super powered roll ups. And so if you want an easy way to deploy your roll ups with the perks of Eigen layer re staking networks, avss, when they come online, this is what Alt layer does. They just launch. Their token is coming in at like a $3 billion valuation. If you are a Celestia staker or you are an Eigen layer restaker, or a few other criteria or conditions, you have an air trap to claim. This was in the airdrop hunter. So go check that out."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, you'd know all this if you're a bankless citizen. Guys, it's in the airdrop hunter mentioned at the beginning of the show. David, let's talk about the ETH client bug that shook up the Ethereum network, both from a technical and a social level. So what happened this week with the client bug?"
+    },
+    {
+        "speaker": "B",
+        "text": "So Nethermind, which is the number two largest client execution layer client on Ethereum, had a bug that took down all Nethermind running nodes, which was about 10% of the network."
+    },
+    {
+        "speaker": "A",
+        "text": "And so 10% of ours, by the way, David, you know, you and I are running some Netherland, Nethermind clients."
+    },
+    {
+        "speaker": "B",
+        "text": "I do know that, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "Those went down and they went back up. It was a relatively simple fix. And so what were the consequences of this? Nothing, really, because 10% of the network is. It's a big deal. If we hit 33%, 10%, we're very, very safe. But this really sparked a conversation about what if it was the larger execution client, Geth, which has 80% of the network? So there are two levels of risk with Ethereum. There's the 33% level, and then there's the 66% level, and then there's Geth, which has 80% of the network. Coinbase uses this, binance uses this, Kraken uses this, most of lido uses this. And so our client diversity around the execution client, around the Ethereum layer one, not great. Geth is a very hardened execution client. It's easy to run, it's very stable. That's why people run it. It's just very stable. And so everyone's running it. The problem is we have this tragedy of the commons, where everyone's running the same execution client. And if this was a bug in Geth, well, Geth is less likely to have a bug. A bug in Geth could be massively catastrophic. And so this has kicked off a conversation in the Ethereum community about yo, it doesn't matter how stable Geth is, we can't have it at above 66% and really we need it below 33%. So switch away from Geth. This has created pressure from the Ethereum community into people like Coinbase and Kraken and Lido, who all props to all of them. Brian Armstrong comes into DC, investors tweet saying, hey, dear Coinbase, I'm unstaking my eth with you guys because you guys use Geth. Brian Armstrong Response taking a look, Kraken comes in and also says, hey, the team is currently exploring this, internal discussions are happening and we will share updates as we get some decisions in place. Lido has also had some of their validators switch away from Geth, and as a result, the Geth dominance in Ethereum has gone from 82% to 78%, I think is where it is now. So we're down 5%, which is great, but we still got a long way to go. We need to get down below 66%."
+    },
+    {
+        "speaker": "A",
+        "text": "Bigly great summary, David. The only thing I would ask you is when you say massively catastrophic, if that was geth or that was kind of like a super majority client, what do you mean by massively a catastrophic? So the network goes down, right? Like there's a liveness issue."
+    },
+    {
+        "speaker": "B",
+        "text": "It depends upon the nature of the bug it could go. It could be anywhere from trivial to catastrophic. The thing is, because Geth is at 80%, whatever bug that is becomes ethereum. Where like you could have a catastrophic bug in Nethermind, but Nethermind is only 14%. And so that doesn't become Ethereum. Since Geth is 80%. A catastrophic bug in Geth becomes a catastrophic bug in Ethereum. And so the worst of this would be like an inflation bug mint in Ethereum, where ether goes from like 120 million supply to infinite supply, that breaks the network. We would have to do a socially coordinated rollback. Then there's like other more trivial bugs where like the network just stops finalizing, but it's just totally fine. That would be best case scenario. But the problem is any bug in Geth becomes a bug in Ethereum because it has such a dominance in the network."
+    },
+    {
+        "speaker": "A",
+        "text": "Got it. A few, a few things to note, I guess I would say, is most other networks, non ethereum networks, including bitcoin, don't have multiple clients, right? In fact, all on their version of guests, only Ethereum right. But the other thing I would add is Ethereum is not really getting the benefit of its multiple clients if it's not actually running those multiple clients. Right. And so that is kind of the call and the social push for client distribution. So maybe the network is self healing due to this close call. Humans have to learn the hard way, don't we? All of us. David, what do we have coming up next?"
+    },
+    {
+        "speaker": "B",
+        "text": "Coming up next, we got some updates on the ETH ETF timelines and some layer two updates as well. Why? We're about to see a lot more arbitram orbit chains coming into the fold. All of this and more. But first, I want to talk about some of these fantastic sponsors that make this show possible."
+    },
+    {
+        "speaker": "A",
+        "text": "Before we get into the ETF stuff, I got to talk about the tornado cash trials. So the two developers, two of the developers behind Tornado Cash, which was a privacy protocol, smart set of smart contracts deployed on Ethereum, Roman Storm and Alexey Pertsev are bracing for their trials at this moment. This, David, was an impassioned plea from Roman that he put out on Twitter. Let's go hear it."
+    },
+    {
+        "speaker": "C",
+        "text": "Hi, my name is Roman Storm. I'm passionate software developer, and four years ago, I helped develop Thernanda Cash, an open source, non custodial privacy protocol. A few months ago, despite my ongoing cooperation with us authorities, heavily armed FBI agents raided my home at 06:00 a.m. and arrested me in front of my three year old daughter. My legal team and I are going to put forth a strong defense at trial, not just for my family sake, but for the future software developers and financial privacy. Folks, I need your help. Whether you are passionate developer like me, involved with web three, or just care about software and privacy, this legal battle will affect you. So please help contribute to my legal defense, because this case will set major precedent for years to come. Justice Dow has put together a number of options to Danae, will you support this cause? Every contribution counts. Thank you."
+    },
+    {
+        "speaker": "A",
+        "text": "Arrested in front of his children. David, I know many people in the Ethereum community who know Roman and everything I have heard and everything. It seems like at this point in time, he's just a typical open source, smart contract developer. Of course, there could be some other things revealed in the court cases, so we don't know for sure, but that indeed is what it looks like. And he was arrested for developing and deploying open source cryptography code on chain. So from my perspective, this is kind of like the us government. This is, I believe, fincen kind of leading the charge here. And of course carried out by the US Justice Department. It's kind of like them saying HTTPs is now illegal. You know, you're trying to encrypt communications. Okay, well, like, you can't do that. Encryption is illegal. It's back to the cryptography wars of the early nineties. And Roman, it appears, is an early casualty. So here he is asking for some help from the crypto community for that case. And I think this case is going to be a landmark case in the US because it's going to. It's not just about Roman and it's not just about tornado cash. It's actually going to set some precedent for how the us court system applies like privacy and juxtaposes that with free speech and the right to develop code and the right of everyday ordinary Americans who are using tornado cash just to shield their transactions. Okay. The same freedom that we have with cash dollars in physical form. Will they have the right to do that moving forward in any form? So that's what this case. Why. That's why this case is so important."
+    },
+    {
+        "speaker": "B",
+        "text": "I think the precedent can become even larger than that is not just about achieving financial privacy using crypto. The precedent that this is setting is that smart contracts can be illegal. That that is the precedent that the DOJ and treasury are trying to prove with this court case. And so it's about privacy, but really ultimately, like, if. If we lose this court case, it is. The precedent is set that smart contracts on Ethereum credibly neutral protocols are illegal to touch."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, they currently are, David. They currently are. So it's like this hasn't been contested in court. But if you are a us citizen, reminder, you cannot use tornado cash smart contracts. Like, if you do, like, I just wouldn't. Just don't do it."
+    },
+    {
+        "speaker": "B",
+        "text": "Just don't do it. Don't do that."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. FinCEN has already talked about what the repercussions of that might be. So Roman's trial is going to be in September 2024. Alexei, his trial is getting started in the next two months. And if you wanted to get involved, if you want to help, there's a place where you can donate for the legal expenses for Roman and Alexei as well. We'll include a link in the show notes. It's a Justice Dao. There's multiple ways to donate, including if you want to use fiat. Gofundme. Hopefully they don't shut that down."
+    },
+    {
+        "speaker": "B",
+        "text": "David, I'll call this a pooly moment. Round two. Remember when there was frivolous lawsuits going after the pool together? Dao and all of crypto banded together to help support that legal case. This is one of those moments. I think the stakes are much higher. That's why we at bankless have donated $10,000. Many other people have signaled their support on Twitter about their donations to help fund this case. This is going to be a matter of just like, can we get enough money into the hands of these lawyers who are defending our rights to be able to touch neutral, credible, smart contracts on Ethereum? And so there's a link in the show notes if you would like to donate to this court case."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, let's talk about the ETF's one more time this episode. David, but this is not the bitcoin ETF. The ethereum ETF. The ether ETF. It was. There's something was delayed this week, which is the Blackrock spot ethereum ETF. I don't know how to parse this. Was this expected? Give me an update on this."
+    },
+    {
+        "speaker": "B",
+        "text": "This was super expected. So the SEC has postponed its decision on the Blackrock proposed spot ETF, citing the need for additional time to review the proposed rule changes. This just, the final deadline was tomorrow, and so they're just delaying at the last possible moment. This is exactly what they did with the bitcoin spot ETF. The new final decision on the Blackrock spot ETF is now expected for August 7 of this year, which to me represents a very strong backstop for when the ETH ETF could be approved. There are some other key dates as well. And so Vanek and Ark 21 shares ether efts have final decisions on May 23 and May 24. So those are two dates to keep in mind. Grayscale, Invesco, Fidelity, and Galaxy all have deadlines of June 18, July 5, and August 3. And then after that, we have the black rock on August 7. So sometime between May and August, ETH probably getting approved, probably not."
+    },
+    {
+        "speaker": "A",
+        "text": "Probably feels likely. If you want Hester purse, commissioner, Hester purse's take. Someone asked her about the ETH ETF and the SEC's likelihood. She said this, we shouldn't need a court to tell us that our approach is arbitrary and capricious in order for us to get it right. So I certainly hope that wouldn't be the case. A delay was the question. She says she certainly hopes a delay wouldn't be the case. Yeah. So I'm with you, David. I think we get the Ethereum ETF this year. Let's get into some l two updates. David. Arbitrary orbit is expanding. Today we introduced an arbitrum orbit expansion program allowing you to have a self service path to launch custom orbit chains, l two s or l three s, that settle to Ethereum. What does this mean?"
+    },
+    {
+        "speaker": "B",
+        "text": "This means that arbitrum is going to be easier to deploy arbitrum orbit chains, not just on top of the arbitrum layer two, just anywhere across Ethereum. And so I think this was pretty hotly needed by the arbitrum ecosystem. Just more orbit chains. You know, we have all these op stack chains now. Arbitrary wants, all these orbit chains. Two criteria. First, people that deploy an arbitrum orbit are expected to contribute a portion of their profits back to the arbitrum ecosystem. So that is 10%. If you want to use arbitram orbit technology, you have to give 10% back to the arbitrum dao. Second, the deployment of the roll up must be exclusive to Ethereum or any chain that derives its security from Ethereum."
+    },
+    {
+        "speaker": "A",
+        "text": "Dang."
+    },
+    {
+        "speaker": "B",
+        "text": "So arbitram is like, yo, free to use max on Ethereum, like, not anywhere else, which I think is hilarious. And. Yeah, and so I think this is going to help bootstrap a lot of arbitrum orbit networks across the Ethereum space and nowhere else."
+    },
+    {
+        "speaker": "A",
+        "text": "It's kind of like they're basically going after the optimism play that's been a successful. Right, which is like, this is the key here, the self service path anybody can launch."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, there is a difference here. Whereas the op stack, forking the op stack and deploying your own op stack chain, you don't have to give any license fees back to the op collective. Opt if you want to join the optimism super chain, the collective, then you have to give 15%. So it's either zero or 15%. And arbitram is like 10% for everything."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, l two s are moving, and they're moving fast. Not to be outdone this week, Polygon's got some news as well. This is an upcoming feature that they're going to launch as early as February. I guess maybe calling it a feature is kind of underselling it."
+    },
+    {
+        "speaker": "B",
+        "text": "Polygon is introducing what is its own middleware layer across all of its Polygon supernets. So these are all the polygon chains. And since Polygon is a ZK rollup, every single ZK roll up produces a ZK proof. What this is is an aggregation layer across ZK proofs. So every single ZK roll up from Polygon produces one. And then the aggregation layer takes all these ZK proofs and aggregates them into another ZK proof. And this has a bunch of just composability and liquidity and atomic inclusion benefits as well. So it is a big plus one to the world of the recombination of Ethereum layer twos using a ZK proof aggregation layer."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, we actually did recording an episode with Justin Drake about this. It's entitled it's coming out in a week or two. It's called fixing fragmentation. And he talks about like the promised land that Ethereum can get to, which is something he calls universal synchronous composability. Basically, right now, the experience of Ethereum is very fractured across all the l two s. Like you got a bridge from one l two to the other. You got a switch change in your wallet, all of that. Drake says all of that will be solved and it will be solved relatively soon. And a polygon is actually relatively, I mean, in the next one to three years. But this is actually accelerating, David, because this is a part of that solution. With this solution, it sounds like from Polygon, there will be universal synchronous composability, not quite to the same degree as a decentralized sequencer, but with some feature limitations across polygon chains. And that's a start. And other ZK chains can also opt into this as well, which is kind of interesting."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, so this is some internal composability for the internal polygon ecosystem. And then there's the larger battle, which is global composability across different standards, like between polygon and arbitrum and optimism, that's a harder thing, but we have the tools to get there."
+    },
+    {
+        "speaker": "A",
+        "text": "According to Justin Drake, Evo, they are migrating to Celestia da. What is this?"
+    },
+    {
+        "speaker": "B",
+        "text": "Avo, which is a derivatives focused layer two built on an op stack that previously was using Ethereum for data availability, which is very expensive, has now migrated to using Celestia for a data availability layer. So Ethereum for asset settlement, but Celestia for Daevdev now becoming modular. This is the second that we've seen of this. Lyra did this like two weeks ago. I think we're about to see many, many, many more of these because that's just what the incentives played out. We saw Lyra paying 40 ether a month in fees to Ethereum layer one, and then as soon as they pivoted to Celestia da, half an etH, avo, I'm sure is doing the same thing. And then you're going to see, you're going to see more of these for sure."
+    },
+    {
+        "speaker": "A",
+        "text": "So that was the roll up this week. We got to end with this, the meme of the week. David, what are we looking at here?"
+    },
+    {
+        "speaker": "B",
+        "text": "This is the breaking up with my best friend. I found a new best friend meme format. This is net worth is not in the hands of Vitalik anymore. Peter from Geth now controls my net worth. And this is when you learn that a bug in Geth could wipe out 90% of your network of the net worth of ethereum if we let that happen. Which is why you should switch to a minority client."
+    },
+    {
+        "speaker": "A",
+        "text": "Peter, of course, is the core developer behind Gethenne. And, you know, I just want to shout out, Peter, like, he doesn't get enough. Peter, like, seriously, thank you for everything you're doing. I mean, please don't rug us 80% of the Ethereum network thanks to this man and others on his team at Geths."
+    },
+    {
+        "speaker": "B",
+        "text": "Hard work."
+    },
+    {
+        "speaker": "A",
+        "text": "And we appreciate you. Thank you for keeping our net worth safe."
+    },
+    {
+        "speaker": "B",
+        "text": "I remember. Okay, so there's a. I did an interview with Peter at Last Devcon. I think it's one of the few interviews that Peter's ever done. And I asked him a question of, just, like, imagine if, like you, I think, I can't remember who the other developer was. I think Preston Van Loon from prismatic. I was like, if you and Preston, like, teamed up, because Preston has is prismatic and Peter's geth. So we have two, like, client team chads being able to, like, you know, support the Ethereum network. It's like, if you and Preston teamed up to take down the Ethereum network, how hard would that be? And, you know, his response was, what? Why do I need Preston?"
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, Mandy."
+    },
+    {
+        "speaker": "B",
+        "text": "Nervous laughter does that make you feel good or no?"
+    },
+    {
+        "speaker": "A",
+        "text": "Peter."
+    },
+    {
+        "speaker": "B",
+        "text": "Peter."
+    },
+    {
+        "speaker": "A",
+        "text": "Wow. It wasn't metallic. It's always been in Peter's hands."
+    },
+    {
+        "speaker": "B",
+        "text": "Always been Peter."
+    },
+    {
+        "speaker": "A",
+        "text": "Keep that man safe. And, like, let's. Let's thank him again. David, as we thank you, Peter."
+    },
+    {
+        "speaker": "B",
+        "text": "Please, no rug."
+    },
+    {
+        "speaker": "A",
+        "text": "That's a perfect time to end with risks and disclaimers in a minute. But first, we disclose both David and I are advisors for Eigen lair. Also, we're investors in some of the l two s mentioned, and bankless ventures is an investor in some of the restaking protocols we talked about. As always, you can see a link to all of our disclosures@bankless.com. disclosures crypto is risky. So is staking. So is restaking. So is whatever we think of next. You could lose what you put in. But we are headed west. This is the frontier. It's not for everyone. But we're glad you're with us on the bankless journey. Thanks a lot."
+    }
+]

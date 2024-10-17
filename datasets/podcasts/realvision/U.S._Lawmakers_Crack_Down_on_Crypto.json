@@ -1,0 +1,362 @@
+[
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing. Mint Mobile Unlimited Premium wireless everybody get 30. 30, baby get 30 baby get 20. 2020, baby get 2020."
+    },
+    {
+        "speaker": "B",
+        "text": "Bid to get 15."
+    },
+    {
+        "speaker": "A",
+        "text": "1515 just $15 a month. So give it a try at Mint mobile.com switch $45 upfront for three months, plus taxes and fees. Promoting for new customers for limited time unlimited, more than 40gb per month slows."
+    },
+    {
+        "speaker": "B",
+        "text": "Full terms at Mint mobile.com dot. Hello, everyone, and welcome back to real Vision Crypto daily briefing. Here's why you should tune in to today's show. Us senators are working up a new bill to crack down on crypto money laundering. Plus, Cathie Wood adds more Coinbase shares to Ark invest, a surprising move as given the stock price hitting all time lows. And we also have Benjamin Cohen, founder CEO of into the cryptoverse, to give us his view on the markets. So we have a really exciting episode for you today. My name is Mark Oliveira. Ash bank is with me today. How's it going, Ash?"
+    },
+    {
+        "speaker": "C",
+        "text": "Marco, it's going great. It's good to be back with you."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's great to be back with you. For our viewers, if you're watching on the real Vision website, thank you. If you haven't signed up there yet, check it out@realvision.com. crypto we have a ton of crypto content. And if you're watching on YouTube, please like and subscribe and hit the notification. Bella, let's jump into the latest price action. Ash so bitcoin has cooled off since yesterday. It's currently sitting around $17,400, down around 2% over the past 24 hours. This could, of course, be a result of yesterday's move by the Fed. They announced an interest rate hike of 50 basis point, and there's no sign yet of the noose loosening for the terminal rate. So how is that going to affect the us economy? We're going to have to wait and see. Ash, how's ethereum performing theorem?"
+    },
+    {
+        "speaker": "C",
+        "text": "Price is also cooling, Marco. Trading under just under $1300. Looks like $1,270 or thereabouts on my screen. Ether is down 3% over the last 24 hours. Nothing too exciting, but definitely not seeing green today."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, no green. It's never green whenever bitcoin's down as well. Right. So let's jump into our top story. Us senator. Us senators Elizabeth Warren and Roger Marshall are introducing a bill called the Digital Asset Anti Money Laundering act. We know it's aimed at hindering criminal transactions in the crypto industry. It will also apply the KYC rules to digital wallet providers. Ash, what's your take on this bill?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, it's a bipartisan bill. This probably isn't shocking, given what we've seen happening in FTX. Obviously, there's a lot of concern, particularly for folks who are not native of the digital asset ecosystem, as most us senators, quite frankly, are not. It's still very early in the text of the bill. I suspect it's going to to bounce around a little bit, so we're going to have to watch and see where it ultimately lands in terms of the final tax. One thing I'm going to be watching, non custodial wallets. These are wallets that are controlled exclusively by users. I'm curious, there's some language in the bill about that. Right. It's going to be really interesting to see ultimately where that lands, mark."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, definitely. Well, our next story here, it seems that Cathie Wood is buying the dip on Coinbase. Coindesk is reporting that Ark adding is adding more coin shares to their portfolio. What's your take on that move? Ash?"
+    },
+    {
+        "speaker": "C",
+        "text": "My take on this is it's Kathy Wood being Kathie Wood. We know that she's long innovation. We know that she's bullish on digital assets like cryptocurrency. And this move, I think, is quite consistent with that position. She's added another $3.2 million to her Coinbase holdings, not a huge amount considering she's already got a big stake in coinbase. I think it's worth approximately a quarter of a billion dollars, if my back of the envelope math is correct. So she's bullish for the long term. And it makes sense that she's probably interested in expanding her position at lower price levels. Let's take a look. By the way, I think it's coinbase was up to a high of around $350. I think a shade below $350 in November of 2021. Looks like it's trading on my screen right now at 37, spot 63. So obviously a significant decline in price. She's going to be lowering her cost basis by acquiring a larger position here at this point."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's a huge position. A quarter of a billion dollars is definitely a lot of money, right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Sure is."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Well, let's bring in our guest, Benjamin Cohen. He's a fan favorite of the real vision audience, and he's here to deep dive into the technical profiles with bitcoin, the crypto markets. We may even touch a little bit of the macro with treasury yields. Ben, how are you doing? Welcome. Welcome back to real vision."
+    },
+    {
+        "speaker": "A",
+        "text": "Doing great. Thanks for having me, as always. Pleasure to be here and talk with you guys."
+    },
+    {
+        "speaker": "B",
+        "text": "Awesome. Well, take it away, Ash. I'll be back for key takeaways at the end."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, Ben, it's always great to have you back on the show. I know you brought a lot of charts with you, as you always do. Excited to go and dive into those. But first, before we get started, Ben, how would you characterize this moment that we find ourselves in today? In the wake of the FTX meltdown, obviously, legislation pending on the hill, lots of moving parts, speculation about things like binance and Genesis. Tons of stories happening right now. How are you thinking about where we are right now? Big picture?"
+    },
+    {
+        "speaker": "A",
+        "text": "I think it's a very uncertain time in the crypto verse, and it's often reminiscent of the year after a bear market, kind of going into the year after a bear market. It can be quite apathetic, and it's just very reminiscent of that type of a landscape. And I remind myself that it's during those apathetic times that the markets normally."
+    },
+    {
+        "speaker": "C",
+        "text": "Find their bottom interesting. So let's jump into the charts right off the bat, bitcoin dominance. Tell us a little bit about this chart and why it matters."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so we've talked about. I bring this chart, I think, every time I come on the channel. And one of the reasons is because it's a really great way to understand where we are within the cycle, within the market cycle of crypto in general. And the bitcoin dominance, if you look at it on trading view, of course, it's a bit lower, but that's because it includes stable coins. If you exclude stable coins, this is the chart you get. And what you'll notice is that no matter what has happened over the last year and a half, basically since May of 2021, the bitcoin dominance, excluding stable coins, continues to slowly go higher. So it's continuing to put in higher lows. And basically what that means is, on the macro side of things, most bitcoin pairs are bleeding. There's always a few that are outperforming. But over the macro, or over most of them, they have been bleeding against bitcoin off and on over the last year and a half. And so the general expectation for me and the reason why this chart is important is because I would normally expect a move higher by the bitcoin dominance before the bear market is over. This is something we've seen happen before. I think we're going to see it happen again. And it's essentially a phase where the altcoins bleed back to bitcoin. And going back to what you mentioned earlier, with all these uncertainty around regulations, I think regulations are going to hit altcoins a lot harder than they're going to hit bitcoin. Clay."
+    },
+    {
+        "speaker": "C",
+        "text": "Interesting. And by the way, we should point out, if you look at that dip, looks like Q one or Q two of 2017, that enormous collapse is the ICO mania boom."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. Yeah, yeah. Going all the way back to 2018, you can see, and actually, if you carry this chart out, I think until just a few years, those lines, so those, we're putting in lower highs. Right. So we're also putting in lower highs, and we're also putting in higher lows over the macros scale. And so I remain short to medium term bullish on the bitcoin dominance, but then eventually we'll hit that top trend line, probably, and come back down for another, for another altcoin season. But it's probably a year or two away. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "And once again, that's net of all stable coins."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "C",
+        "text": "So let's move on to our next chart, the indicator dashboard. Historical summary, risk, raw values."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So this is a chart I find quite interesting because there's always ways we can create metrics to navigate the cryptoverse and various indicators to help us understand what's going on in the crypto verse at any given time. But this indicator is a risk metric that takes into account a lot of different data. It takes into account on chain metrics like the NVRBZ score, the pure multiple. The pure multiple is a measure of minor profitability. It takes into account things like the bitcoin risk level itself, logarithmic regression charts, and it also takes into account social risk. And this is one of the charts that has kept me bearish throughout this year. And even back in the summer, we were talking about that back then, that 17 five was not likely going to be the bottom. Based on mostly one of the things I look at is this risk level. You can see every major cycle bottom again, the blue line on this chart is the price of bitcoin. The orange line is the risk metric. It goes from zero to 10, low risk, one, high risk. And you can see every single bear market, 2011, 2015 and 2018. We, every single time we went down to that lowest risk band before the bottom was in. I look at it today and I remind myself, you know, we are sitting at a relatively low risk level, all things considered, just like we were basically at the end of 2014. But it doesn't mean that we are going to avoid another leg down. So I look at this chart, it has kept me bearish, essentially, since the first quarter of this year. And until we get to those lower levels, I'm going to have to remain relatively cautious."
+    },
+    {
+        "speaker": "C",
+        "text": "I think if this is the great sort of Ben Cowan macro chart that shows the big picture view of how you see the universe with all of your indicators baked in, let me ask you this for a little bit of context. How strong has the correlation been between bitcoin price and the overall risk metric? Uh, oscillator."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So it's a good. It's a good question. I mean, if you look back to. To 2019, 2020, it was a pretty low risk time. Right? This is when I was making videos called, like, the accumulation phase of a lifetime and all this sort of stuff, because I. I was really anticipating a bull run. And the hard part is the 2021 bull market was sort of like a bull market that we haven't seen in crypto before. Because if you look at this metric, it actually shows that early 2021 was the top. Right? That's where it says the top was. And for me, that's where I took a majority of my own profits for this market cycle, because I just stick to this, you know, to this risk metric or derivatives, that this specific risk metric was not. I was not using, um, you know, back then I was using a different one. But I do like this one a little bit better. What you'll see, though, in, in that old risk metric and then this one as well and a lot of other indicators, is that basically says that April was the top. Right? Or that February to April timeframe was the top. November was sort of like a dead cap balance where technically we managed to put a new all time high. But arguably, we've just been in a bear market ever since. And so right now, I think it's worked out pretty well. Throughout this bear market, you can see as the price continues to slowly step down. We've had this slow bleed essentially since November of last year, the risk level has been slowly going down as well. And so I think it's been doing pretty well so far. I think the real test will be, once this indicator gets down to that zero level or close to it, how accurate will it be at actually calling the macro bottom?"
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back."
+    },
+    {
+        "speaker": "A",
+        "text": "Ryan, Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited premium wireless."
+    },
+    {
+        "speaker": "A",
+        "text": "How do you get 30? 30, baby, get 30 bid to get 20. 2020 to 2020, I better get 15. 1515, just $15 a month. So give it a try at Mint mobile.com switch $45 upfront for three months, plus taxes and fees. Promoting for new customers for limited time unlimited, more than 40gb per month slows."
+    },
+    {
+        "speaker": "B",
+        "text": "Full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, let me ask you this, and this is probably the skeptical question. You look at the metrics that you have along the top, they look almost like a 1990s old fashioned stereo equalizer. When you look at all of those points up at the top. And I guess the question sort of raises, what happens if there's a hedge fund in Asia that we're not thinking about? That's not anybody's radar that blows up. There's an unwind, there's contagion effects. To what extent do you feel comfortable thinking about that? Or how do you contextualize the risk of exogenous sort of failure in the system and how it looks at the endogenous variables that you're looking at here and that you've graphed on this chart?"
+    },
+    {
+        "speaker": "A",
+        "text": "That's a great question. And I think about that quite frequently, because at the end of the day, these are just indicators. They're not going to tell you the entire story. One thing I have to remind myself of as well, in addition to these random events that could occur, these indicators and this risk metric was developed during a secular bull market in equities, fairly cheap rates, and everyone had access, cheap access to capital. So, as I'm a fairly risk averse investor, right, like I've just been saying, cash is king this entire year. I mean, and when I say cash is king, I mean the US dollar, I think is king this year. And what I'm, what I'm using this with, specifically this risk metric for is not to tell me exactly where the bottom is, but until we get down to those lower risk levels, which we've hit during secular bull markets, I find it a non useful exercise to put too much mental power in questioning whether the bottom is already in. Okay, so, for instance, right now, with the overall indicator risk at 0.15 or wherever it is right now, it's hard for me to think that the bottom is in when this metric here has shown that we can go lower, even when things are much better and we're not looking at the face of a potential recession and we're nothing having the most hawkish fed we've seen in 20 years. And so that's the way I look at it. I say once we get down to those lower levels on this risk metric, then I can start to think about the bottom potentially being in the main risk. Beyond that, I think could be, like you said, these other events that could occur, it could also just be a recession, right? If we go into a recession, which as the yield curve suggests, this could be bitcoins first real recession. So that's why I think it makes sense to be fairly risk averse. And for me, again, I'm only going to start assuming the bottom could be in with any strong likelihood, only until after this gives us that zero reading. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "One of the things I always admire about you, Ben, is your intellectual honesty and rigor with the way you look at this and understanding what variables are not baked in the cake to understand where that risk might come from. By the way, for people who don't know, it probably comes from your background with a PhD in nuclear engineering postdoc at Sandia national labs. These are very serious quantitative pursuits. And so it's fascinating to me always to have you on for this perspective because there's not a lot of folks out in the charting universe with that kind of a quantitative background. With that said, let's move on. Here's another view. Basically, it's the indicator dashboard historical summary. This one's color coded. So essentially we're just looking at the same data here in a slightly different format."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it's the same exact data. I just think it might be a little bit more aesthetically pleasing to look at to try to figure out where the general accumulation zones are, the deep value zones, and then where are the times that you generally want to be scaling out of the market. It was very difficult. If you think back to February and March, that was when I was mostly scaling out myself. Again, I didn't really scale out much in November because I'd already done it back in February, March and April. That was. It's always difficult because that's when everyone's telling you that it's going to keep going much, much higher. And it can feel wrong almost. And it almost feels like you're kind of against bitcoin or something because you're no longer huddling or something, but you have to stick to the data. And I always say, never let a good level go to waste, you don't know where the top is exactly. But once you see it, once you see these risk levels getting into those upper regions, I think it's time to at least start skimming out. Right is the way that I look at it."
+    },
+    {
+        "speaker": "C",
+        "text": "Preston, let me ask you to explain this just so people understand what theyre looking at here. Youve got price on the y axis. This is bitcoin that were looking at, I believe, and its semi log y. So that equal changes in distance result in equal changes in magnitude and price. Explain a little bit what the color coding means."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so going back to that last chart, if you think when it was going down to zero risk. So zero risk on this chart is just sort of blue. And the one risk is red, like really dark red. So if it goes to the dark red area, you're talking about really, really high risk, it doesn't mean that it can't go just a bit higher for a few more weeks or even a couple more months. It just means that that's the time you have to start thinking about scaling out. And when you get into the dark blue region, it's generally time to think about start scaling in. But as human emotion, oftentimes when we get to very low risk, we don't want to buy because we're always convinced it's going, goes so much lower. And when it's really high, a lot of times we're convinced it's going to go so much higher."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, two interesting points here. First, when you say zero risk, you're not talking about zero risk in the sort of a colloquial sense. You just mean on a zero to one scale. It's at the, it's at the lowest ebb on that. But it's really striking, Ben, when you look at this, the degree of predictive power that these risk metrics have, when you look at those red lines, they're all at peaks. And the blues really are generally, I'm just looking here trying to mismatch it, basically at lows."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. And you said it correctly. Right. There's no such thing as zero risk on anything. There's always going to be the idiosyncratic risk of any individual asset. It's just based on, it's based on historical indicators that have done a fairly decent job of sort of defining bitcoin's prior ranges, always remembering they were developed during a bull market. And, you know, this is going to be the first time we're really going to see how's bitcoin going to hold up. If. If the. If equities are in a two to."
+    },
+    {
+        "speaker": "C",
+        "text": "Three year bear market, it's an important proviso. The only way to get zero risk in life is to define it operationally in an arbitrary index."
+    },
+    {
+        "speaker": "A",
+        "text": "Right? Exactly."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so let's move on to the next one. Indicator dashboard historical summary chart."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, this is one of the favorite ways to look at the indicator risk. It's the same chart as the last one you saw. The only thing I'm doing is I'm only showing you the zero to 0.1 risk range. Right. And what you see, every single. Every single bear market, that deep value zone was eventually found. It was found in 2011, it was found in 2015. And when it was found in 2018, you had to wait a while to get there. Right? You sometimes had to wait twelve months, 14 months. But every single time we eventually made it to those levels. And that is sort of the level for me, whenever we get to that level is when I can start thinking about, is the bottom in or not? Right. That's when I would start thinking about it. And you can see we haven't made it there yet. And this was also one of those indicators that, back in the summer, there was a lot of discussion around whether 17 five was the bottom. This is one of those indicators that said it wasn't and said that we could easily go down and put in a new low. And now we have. And now, again, we have the same discussion. Is 15 for the low or is it not? This indicator would still suggest that we could have a bit further to ultimately bleed before all is said and done."
+    },
+    {
+        "speaker": "C",
+        "text": "We could also do this with the red peaks, I imagine, which would be interesting."
+    },
+    {
+        "speaker": "A",
+        "text": "We could. Yeah, we could. It would show you. Right. It would show the exact opposite. It would just show you the major peaks before us. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, talking of which. Indicator dashboard historical social metric risk number two."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So the social risk is something that I've only really just developed this year. And the reason I developed it, or my team developed it is because I was thinking about, well, how can we capture retail sentiment? How can we capture retail interest? Because if the price is going to go up in a sustained way, you need to see more people coming into the space. If people are leaving the space, that doesn't really support the idea of sustained moves higher."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, Ben, I know we've got a lot of repeat viewers who probably watch your last couple of shows here on real vision with us. But for those who may not have explain what social risk is measuring, how you're measuring this metric, because I think it's really interesting."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So it's measured five different ways and it's weight, they're all weighted equally. So it's measuring YouTube subscribers to popular cryptocurrency, YouTube channels, like new subscribers. Like, it's. So it's looking at the difference, right. The delta, it's measuring YouTube views to popular crypto channels, and it's also measuring Twitter followers to popular crypto, Twitter analysts, Twitter followers to layer ones on Twitter and Twitter followers to exchanges on Twitter. And so by doing that, and then also sort of assuming there's a baseline increase of social interest over the macro scale, as we have just one, like, the adoption level from 2018 is going to be lower than where it is in 2022. So the baseline, you would still argue, is going up. So what it does is it just measures that social interest rate. Like, are people coming in or are they not? And when you measure it like that, and again, you plot it out and you look at it from a risk perspective, from zero to one, in this case, from blue to red, you can see where the low points are and where the high points are. What it shows is. And again, this time I'm actually overlaying it with the price of Ethereum. I can overlay it with the price of bitcoin, but I find it actually gives a better, a better idea when you overlay it with the price of Ethereum. I think it actually looks a bit better and is a bit more compelling. If you look at this, it's when people don't care. When we're in blue, when no one's tuning into my YouTube, sometimes I joke, like, I'm like, hey, can people stop watching my YouTube channel so that the social risk will go down? You know, I look at this and I say, well, when we get to the blue and no one really cares anymore, that's probably the time that you're going to get the best risk reward, right? And when we're in the red, when everyone's tuning in and wants to hear it's going to go higher, that's usually when you want to start scaling out. And so I look at this, and you could equate, if you kind of look where Ethereum is right now, the price, it's not, I mean, it's not, I'm not saying we need to drop 95% like we did back in 2018, but if you look at where the risk is, that color code, like that, sort of that light blue and greenhouse, and that higher lows, putting in higher lows, higher lows, it looks very similar to mid 2018. Right. That's what it looks like to me, is that you could easily have a leg down. Note this is an important part. I think it's worth pointing out that leg down that ethereum had back in mid 2018, bitcoin was going sideways. That sort of, that middle leg, bitcoin is going sideways. And that would take you back to that first chart we talked about. What's going to send the bitcoin dominance up? Right. It has to be, if bitcoin goes sideways and the altcoin market is dropping. Right. And that is where the altcoin market drops. And what I notice is that the dominance of bitcoin moves higher. It tends to move higher when the social risk goes below that .3 level or so. And right now, it just dropped below 0.3 again. And you were noticing the dominance of bitcoin has been moving up over the last week or two, right? It was at like 39% and 40%. Now it's at 41%. I think we're finally starting to see it go higher. This is just sort of a way to relate those charts back to some of the ones we talked about earlier."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing."
+    },
+    {
+        "speaker": "D",
+        "text": "This podcast is sponsored by Ramp. Are you the decision maker in your company? Consider this. For the first time in decades, there's a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your company's spending and control who spends what. With each vendor, Ramp's software collects and verifies receipts instantly. To save your team valuable time. Ramp automates data entry and routine tasks with automated approvals, expense categorization, and bill payments. Time consuming tasks, which means you'll stop wasteful spending and close your books in hours instead of days. Businesses that use Ramp add up to 5% to their bottom line the first year. If you're a decision maker, adding ramp could be one of the best decisions you've ever made. Get $250 when you join Ramp for free. Just go to ramp.com easy. Ramp.com easy ramp.com easy cards issued by Sutton bank and celtic bank members have DIC. Terms and conditions apply."
+    },
+    {
+        "speaker": "C",
+        "text": "All right, Ben, I got a personal question for you. Is this published on a feed that you guys can programmatically pull, or you and your team actually going and crawling YouTube to get this data."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, no. I mean, it's all programmatic. We're not manually going and getting anything."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, nothing would surprise me with your level of diligence, Ben. So let's move on to the next one. This is the binance coin Ethereum chart. What are we looking at here? Is this a ratio of BNB to eth?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So I always think about where altcoins are valued with respect to bitcoin and Ethereum. I consider bitcoin and Ethereum to be the blue chips. So. Right. In rising."
+    },
+    {
+        "speaker": "C",
+        "text": "So when this chart rises, that means relatively stronger BNB, relatively weaker ethereum."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. Yeah. And I always think about where these altcoins are with respect to their blue chip valuations. And I mean, I know I'm bearish on. I mean, I've been bearish on Ethereum, you know, basically this entire year. And I know that might make me sound like a perma bear. I'm not. I'm actually very bullish on Ethereum long term. I just think we have to get through this bear market first and then we'll, you know, we can, we can start talking about the bullish case again. But yeah, this chart here is. I mean, I know binance coin is in the. A lot of people are talking about it right now and people are interested in it. If you look at the BNB ether valuation, I was just sort of noting that we're looking at a potential double top on it. There is obviously, there's a lot of Fud right now for, for BNB. If, again, I don't, I have no insight into, you know, binance or anything like that. I hope that everything is backed, as they say it, as this is what my hope is. But it's not necessarily going to stop people from being a little nervous for a while and people might not want to take the risk. And so I look at this and I'm thinking to myself, there's a good chance here that the BNB ether valuation is slightly overvalued. And you can see that potential double top, not that dissimilar from what we saw back with bitcoin USD in 2021 and a lot of altcoins in 2021, where they ended up putting in those double top. So, yeah, I think there's a good chance that Ethereum could outperform BNB for a little while. That doesn't mean that Ethereum is going to go up against the us dollar. It just means, I think there's a high probability that finance coin will underperform Ethereum for a few months."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. It's interesting as we start to assess the altcoin risk. By the way, same chart is the next one, except for bitcoin. This is binance coin bitcoin. So this is BNB BTC. Tell us what we're looking at here and what those sloping lines, trend lines up above the line represent."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So this is something I've talked about a little bit. And basically the idea is, in every single bear market, I generally expect altcoins to bleed against bitcoin, but there's always a few that don't. Right. There's always a few that outperform. BNB has been one of them. Right. It's one of the few altcoins that has put in new all time highs during the bear market. But here's the thing. It did the same thing in 2018. It was putting in new all time highs in 2018 as well. And if you look, actually, just before the dominance of bitcoin went up, it tagged the trendline for the second time. Right. And so I think there's a good chance that we're sort of looking at that sort of that second tap on the trend line where it's probably going to come back down for the next three to six months. I'm not saying it's going to go 99% down or anything like that. I mean, BNB's valuation against bitcoin could drop 50%, and it's still doing pretty well, all things considered, for the bull market or for the, for the bear market. But, yeah. My general expectation is that the b and b bitcoin valuation is going to drop over the next few months. And I think that'll also help support the thesis that the dominance of bitcoin is trending higher."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, it's interesting as you try and sort of tease out the overall trend with the proviso or the caveat that there are specific risks and reward profiles for individual altcoins that map specifically to those projects rather than to the broader ecosystem. Fascinating point, and excellent to tease it out. And good to have two different ways of looking at it, bitcoin versus ethereum, on that BNB ratio. So. Okay, let's go to the next chart. The next chart is the alt season index. This is a busy chart here. What are we looking at? What's the red line? What's the blue line? What are those two y axis represent?"
+    },
+    {
+        "speaker": "A",
+        "text": "One thing I do want to say before talking about this chart with the BNB stuff is that I also probably would have said I would have said the same thing two months ago, and it, and it continued to push higher for a little bit. So just keep, keep that in mind. It's really hard to time exactly when that that trend shift is going to occur."
+    },
+    {
+        "speaker": "C",
+        "text": "An important disclosure, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Like, I probably something I don't really need to say or should say, but I want to be honest. Like, I would have said the same thing two months ago, and it actually pushed a little bit higher. So if you look at the, this is the altcoin season index. So what it's looking at is looking at the 90 day ROI of the top 50 cryptocurrencies, and it's essentially comparing that to bitcoin. So when we're in the upper red region, this is called alt season, right? This is what everyone loves. And alt season is when altcoins as a whole are outperforming bitcoin. The green region at the bottom is bitcoin season, and that's the region where bitcoin is outperforming the altcoin market. So the idea is when we're in the red region, right. When it's in the red region, when you're in alt season, that doesn't mean it's time to go buy altcoins, right. It probably means it's time to convert those back to bitcoin. Right. Because you want to plan for it going in the other direction. And in the same way, once you're in bitcoin season, in the green ban, once you're in that season, that's when everyone wants to go convert their altcoins to bitcoin. But by that time, you're probably better off not doing it because there's a good chance it's just going to go back the other way. You can see this chart. I mean, it ebbs and flows, right? It goes, alt season, bitcoin season, alt season, bitcoin season. Remember, alt season does not always mean that altcoins are going up on their USD pair. Sometimes it just means that bitcoin is going down and the all market isn't going down as much."
+    },
+    {
+        "speaker": "C",
+        "text": "It's a relative performance index. It's the ratio performance that you're looking at."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. And a lot of all seasons are different. I mean, look at, look at the all season that this called for back in 2021. That was a crazy alt season where a lot of all coins were going up a lot. But it also says we had an alt season a few months ago with the ethereum merge. But I mean, this was just putting in lower highs. So not all, not all seasons are equal in terms of what your expectations of them should be. But what it shows right now is the clear trend we're heading towards. Bitcoin season is what this shows. And that sort of is in, you know, in line with the general expectation that these altcoins, a lot of the altcoins still need to go down on their bitcoin pairs. And once I see that. So once, once we go back to bitcoin season, which is the direction we're headed, and we're there, and we see bitcoin reclaim some of that, you know, some of the market cap from the altcoins, once we see that, and then once we see us go back to some of those lower risk levels, going back to the charts we talked about at the beginning of the video, I think we can start contemplating whether the bottom is in or not. But until we see that, it's like the last part of the cycle that has to, you know, that usually plays out. Until we see that, I think it's worthwhile to continue to be cautious. And again, my guess is that we're going to go down, we're going to go into bitcoin season. At that point, a lot of people are going to feel the urge to convert their alts to bitcoin. But again, when you're down there, you want to start planning for it, to go back the other way eventually. So when you're down there, you want to plan for it going back the other direction."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, Ben, to quote Monty Python. And now for something completely different, let's take a look at the treasury yield spreads percentage daily chart. First, let's give a little bit of context here, because obviously we've been talking about crypto native indicators for the last half an hour or so. And now what we're looking at here is clearly something in the capital market space, something in the macroeconomic space. Talk a little bit about this. We've seen, obviously with the lower than expected print on CPI, we saw a bit of a rally, presumably on the perception of what that's going to mean for central bank policy in terms of not tightening as quickly. We had a 50 basis point jump yesterday, a 58 basis point increase at the Federal Reserve federal funds rate after four, I believe, consecutive 75 basis point increases. Tell us what this means, what this chart says, and how you contextualize it in the broader context of bitcoin and digital asset pricing."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure. So there's this treasury yield curve where we can look at various timeframes, and if you want, you can go out and put your money in some of these, in some of these different places and earn a yield, right? And it's called, like. Right, like the risk free rate or something. Um, and, you know, for crypto investors, it often sounds quite boring. And, like, you know, who's gonna, who's gonna get out of bed for a four to 5% annual return right now, not a lot of people, but in a bear market, you know, four to 5% is four or 5%, right. It's better than losing 80 or 90% in the altcoin market. And so the reason, the reason why this chart is important is because it's potentially showing something is coming to that bitcoin has not yet experienced. And that's why there's no such thing as zero risk, right? Like, and this is one of the main reasons we can point to, if you look, there's only a few times in history, well, maybe more than a few, but every once in a while, some of the shorter term yields invert the longer term meaning annualized. Of course, you can see a higher yield on, say, like a three month cd or something, rather than the ten year cd, but it would make."
+    },
+    {
+        "speaker": "C",
+        "text": "First of all, let me just, because there's a lot going on in this chart, I want to explain this to people who don't necessarily have backgrounds of following the US treasury market. So what you're seeing here, when that line represents the spread between ten year yield and three month yield, obviously, that's interesting. First of all, why did you pick that duration? Typically, it's twos tens that are used, but you're using a shorter metric on the, on the short end of the curve."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So I have two on my website, the 310, and then the two, the 210 as well. I think the 210 is also a pretty popular one. I personally find the 310 to be a little, the three month tenure to be a little bit more reliable and a little bit more predictable. The two year and the ten year, it is often a good predictor of recessions, but sometimes it might predict a recession that's like two years away, you know, so it's like, is it worth spending two years calling for a recession if you could have still done some other things during that time?"
+    },
+    {
+        "speaker": "C",
+        "text": "And recession is what those gray bars indicate, by the way, for people who aren't familiar with these charts."
+    },
+    {
+        "speaker": "A",
+        "text": "So the recession is the gray bar. And what you'll notice if you look closely, there's a line at zero. So that zero line is. So when it goes below zero, it means the three month has inverted the ten year. Okay. And the thing with this inversion is that essentially every single time in history, at least on recent history, right, when. When the three month inverts the ten year or the two year inverts the ten year, and you see a long duration of that, and it's not just like a quick wick or something like what happened in 98, but if you see, like long duration of something like that, it's been a really good predictor of a recession. But the reason why the recession is important is because equities tend to bottom during the recession at the earliest. Now, there was one case, if you look at the last hundred years, I think equities have always bottomed during the recession. One case, and you can actually see it on the chart, they bottomed after the recession. And that was actually during the.com crash. But some things happened in 2001, which arguably is what sent us lower. But I remind myself that recessions, that's typically where risk assets bottom, like equities. And if we think about cryptocurrencies as risk assets in the same way, then you could argue that this could make the case for, again, for potentially lower prices. And so that's why I think we have to come back to this. And I mean, look, recessions and earnings, if we see lower than expected earnings next year, that doesn't necessarily affect bitcoin. Right? Like, bitcoin doesn't have earnings and that sort of stuff. But we did get a very brief glimpse of how bitcoin would behave during a recession. If you think back to March of 2020 wasn't the best performance. Right. The Fed printed our way out of it, but that's something that I think we have to keep in the back of our mind."
+    },
+    {
+        "speaker": "C",
+        "text": "Ben, magnificent analysis, and so interesting from an educational perspective as well. Thinking about this holistically, some of the signs of risk, some of the signs of opportunity. Really fascinating. Hey, let me ask you this. Do you actively trade against these indicators or manage your own portfolio from an investment standpoint based on these?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I mean, I look at all the different indicators and that's why essentially this year I've just said cash is king. Right? Like, everything just looks pretty bleak. And I'm expecting most assets to, I was expecting most assets to fall this year. Hopefully, we'll see things turn back around in the coming, in the coming, you know, six to twelve months and then no longer cash will be king. And then I can, I can start to make some, make some risky trades again."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Let's pull in Marco back into the conversation. I know Marco has been diligently taking notes for our key takeaways here. Marco, what do you have for us?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I mean, that was a great conversation. I feel like I could talk about the key takeaways for another ten minutes. Right? You guys talked about the social metric risk. You guys talked about BNB's potential double top relative to bitcoin and ETH, you talked about the Altcoin season index. And that was really interesting to me because about converting altcoin profits during a. You want to cover all coin profits to bitcoin during an all coin season and convert bitcoin to altcoins during bitcoin season, which we're getting close to. But I think what really stood out to me was probably bitcoin dominance."
+    },
+    {
+        "speaker": "A",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "It's a great way to understand where we are in the cycle. No matter what has happened since May of 2021, it's been continually to go, continuing to go slowly higher. Altcoin. Bitcoin pairs are bleeding, and Ben is expecting a move higher by bitcoin dominance before the bear market is over. He also thinks that that could also be because regulation, obviously, with all this stuff with FTX going on, regulation is going to hit altcoins harder than bitcoin. He spoke about the indicator dashboard, and that's keeping him bearish, because where the risk level is at every major cycle, bottom. We went down to the lowest risk band before the bottom was in. So we're sitting at a low risk level now, but it doesn't mean we're going to avoid another leg down. Yes, these are just indicators, so they can't tell us everything, and so they can't account for, like, black swan events. But given that the metric has shown that we can go lower, even with all the negative macro variables, variables present today, like inflation or a hawkish fed, there's still the risk that we can go lower now that we have all these negative variables present. And the last thing that he spoke about was treasury yield spreads. It's really interesting that he uses the three month versus the ten year because he sees it as more reliable and that it more closely predicts when we could see a recession. And recession is important because if equities bottom and we see a kind of recession happen during this, you know, during this period, you could argue that crypto hasn't seen the lows yet. So, anyways, those are my takeaways. What about you, Ben? Did I miss anything?"
+    },
+    {
+        "speaker": "A",
+        "text": "No, I think you basically got what I said."
+    },
+    {
+        "speaker": "B",
+        "text": "Perfect. What about you, Ash?"
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, what can I say? After that. Marko, that was very comprehensive. Except that look at real vision. We're not supposed to have favorites, but when it comes to a chartist perspective on what's happening in digital assets, I always look forward to these conversations with Benjen."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, and I should mention that Ben actually has a free, just started a free account. Right, Ben, for people on your website. So they can actually check out some of these indicators and get signed up with you for sure. Yeah. Well, we have a question here. Before we get to our questions though, please, for our viewers, remember to subscribe to our YouTube channel, hit the notification bell. This question comes from Ralph. It says, why do you think FTT, the FTX token is currently valued at 136 given the bankruptcy case. Let me throw that over to you, Ash first, and then maybe we'll get Ben's thoughts on it."
+    },
+    {
+        "speaker": "C",
+        "text": "No idea. The Sam coins have been mysterious for some time now. I think it's reasonable to say. And look, I wouldn't want to be in the business of speculating about what's going on in FTT. I'm curious to hear if Ben's got any insights though."
+    },
+    {
+        "speaker": "A",
+        "text": "No, not really. I mean, I remember looking at FTT when it was $22 and saying, I think it's about to capitulate and it looks like it's about to essentially go to zero. I don't think it's much of a tradable thing for me. Markets can stay very irrational for a long period of time. There are companies in the past that were basically essentially going bankrupt, but somehow people would still buy them. So I wouldn't look too hard into it. I think eventually a lot of these are probably just going to zero."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think definitely speculation. I was going to say that we even saw before when Luna crashed and all that stuff that, that people, the token pumped from the bottom somewhat, actually. And so I think it's just people speculating like, hey, maybe something will happen."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I'm looking at the chart right now. I mean, it looks like something of a, I mean, it's just at a horizontal line here at the bottom, right? I mean, it's just not moving. The volume picks up dramatically around 9 November, which makes sense. That's when the collapse happens to, you know, look, I personally wouldn't touch this with a ten foot barge pole, but that's not an analysis. That's just my gut reaction."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, totally agreed. Well, that's it for viewer questions. Ben, Ash, thank you so much. It was a pleasure doing the show with you guys."
+    },
+    {
+        "speaker": "A",
+        "text": "Thanks for having me."
+    },
+    {
+        "speaker": "B",
+        "text": "Absolutely. Well, that's it for today, everyone. If you're not a subscriber yet, don't forget to subscribe. Real vision crypto is free for those of you watching on YouTube. Remember to subscribe and hit the notification bell so you can keep up with us every time we go live. Tomorrow we talk macro and crypto with Rob Frasca and Sidney Powell. See you at noon Eastern, 05:00 p.m. london live on real Vision Crypto daily briefing."
+    }
+]

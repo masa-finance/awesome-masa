@@ -1,0 +1,279 @@
+Speaker A: Hi everyone, welcome to Unchained, your no hype resource for all things crypto. I'm your host, Laura Shin, author of the Cryptopians. I started covering crypto eight years ago and as a senior editor at Forbes, was the first mainstream media reporter to cover cryptocurrency full time. This is the May 19, 2023 episode of Unchained.
+Speaker B: Hey unchained listeners. As you know, it's hard keeping up with a fast paced world of crypto, so we've got just the thing for you. Subscribe to our free unchained daily newsletter at unchainedcrypto dot substack.com. youll get the latest crypto news and original articles from our reporters, as well as summaries of other happenings and bullet points.
+Speaker A: Plus our meme of the day, all curated and written by our amazing team.
+Speaker B: Its still your no hype resource for all things crypto, just in newsletter form. Sign up at unchainedcrypto dot substack.com dot. Again, the URL is unchangecrypto dot substack.com dot. Stator Labs is a multi chain, liquid staking platform with 40K Defi partnerships across six chains. Soon they'll be coming to ethereum with their LST eth x. Visit statorlabs.com eth to sign up for their eth x alpha list. Ever wanted to use defi without being tracked? Railgun is a leading defi privacy solution.
+Speaker A: On Ethereum, BSC, Arbitrum and Polygon. Shield your funds and use them privately.
+Speaker B: In your favorite defi apps, while Railgun's cutting edge zero knowledge system encrypts your.
+Speaker A: Data from public view. Yes, that includes Dex trading.
+Speaker B: Visit railgun.org or use the Railway app at railway xYz. With the crypto.com app, you can buy, trade, and spend crypto in one place. Download and get $25 with the code Laura link in the description Today's guest.
+Speaker C: Is Seth for privacy blogger and head of content at foundation devices.
+Speaker A: Welcome Seth for Privacy hey Laura, thank.
+Speaker D: You so much for having me on. I was really excited when I got the invite to chat chat with you. First time we've really gotten across paths.
+Speaker E: And chat through all the craziness of.
+Speaker D: This week, so really looking forward to it.
+Speaker C: Yeah, and nice to connect with you.
+Speaker A: While you're at bitcoin Miami.
+Speaker C: I imagine it'll be an interesting conference as usual, and part of the reason might be because this week Ledger caused.
+Speaker A: Quite a ruckus when it announced its new service.
+Speaker C: Although actually, I guess they announced it.
+Speaker A: Two weeks ago, but for some reason.
+Speaker C: It really made the rounds and caused a lot of consternation on crypto, Twitter.
+Speaker A: The new service is called Ledger recover. But before we dive into all the details around the controversy, let's just explain.
+Speaker C: What it is that Ledger recover does, how it works, and how this is different from Ledger's previous offerings.
+Speaker D: Yeah. So I think we need to also clarify something upfront in that when we talk about how Ledger recover works, we are trusting Ledger 100% that it works.
+Speaker E: The way that they say it works.
+Speaker D: And that comes down to it being closed source in both the server side and the.
+Speaker E: The ledger side part of things.
+Speaker D: So it's tricky to say for sure exactly how it works. But the way that it's described is essentially, it's a service that you can pay $10 a month for to help.
+Speaker E: You to be able to recover funds.
+Speaker D: If you lose your ledger device. That all sounds good and fine. That's not necessarily a terrible concept, but.
+Speaker E: The specifics of it are that you.
+Speaker D: Give over your id. So a passport, driver's license, something like that. You do a special selfie recording with you holding up that.
+Speaker E: That id that you're going to use for the service, you give that over to ledger via a third party called Onfeedo.
+Speaker D: And once you do that, you create an account with Ledger recover. Essentially what happens is that on your ledger device, you'll be prompted, through their ledger live application, you'll be prompted to allow Ledger recover to. Again, theoretically, it's closed source. We don't exactly, but you'll allow your ledger to encrypt the seed that's on.
+Speaker E: Your ledger itself into three separate encrypted shards.
+Speaker D: And then your ledger will send these.
+Speaker E: Three shards, over USB or Bluetooth to your computer or smartphone.
+Speaker D: I think both will be options.
+Speaker E: And then the app that ledger produces will send those shards to three different custodians. One is ledger themselves. One is a company called Coincover Global.
+Speaker D: And then the third one was originally named as Escrow Tech, which is a us based company. But they have since removed any mentions.
+Speaker E: Of them from their website.
+Speaker D: So I'm not sure if that custodian is changing at this point. But essentially, you'll give those shards to.
+Speaker E: The three custodians, and then if you.
+Speaker D: Lose your ledger device, you'll get a new one. You will sign into Ledger recover, you'll do id verification, and then Ledger will.
+Speaker E: Somehow send those shards back to your device. From at least two of the custodians.
+Speaker D: You need two of three and then on your ledger device, those shards will be encrypted, your seed phrase will be.
+Speaker E: Restored, and your funds will be back where they are. So that's the basics of how it's supposed to work.
+Speaker C: What was it that the crypto community was objecting to when it came to this new offering?
+Speaker E: I think the two biggest things are.
+Speaker D: That the general understanding of how hardware wallets work is that you have a.
+Speaker E: Hardware device that has some sort of security focus, whether that's in the actual.
+Speaker D: Security model, that's taken, like being an.
+Speaker E: Air gap device, or if that's in the hardware itself, like using a secure.
+Speaker D: Element like Ledger does, that, that theoretically prevents people from being able to extract.
+Speaker E: Private keys or use malware to steal your funds when you connect to a computer.
+Speaker D: And the idea that most people have.
+Speaker E: Is that hardware wallets have no way to send that seed phrase off of.
+Speaker D: The device, so that you can never.
+Speaker E: Upload your funds somewhere else on accident, you can never make them hot on accident.
+Speaker D: None of that can happen. While in theory that is how things have worked, there's always been the possibility that you could install malicious firmware or something that could send the seed phrase off the device, especially if it's not an air gapped device. Like ledger devices aren't air gapped. You plug it in via USB or use Bluetooth. So it's always been theoretically possible with some sort of malicious firmware. But most people's understanding was if you're running official ledger firmware, that seed where all your funds are stored, never leaves the device. Now, with Ledger recover, we've learned that in the firmware that you can install on Ledger, at least theoretically, it's only in the most recent firmware they've released.
+Speaker E: You can press a few buttons, confirm and Ledger live, and send your seed.
+Speaker D: Phrase off the device, which is, I think, a rightfully terrifying prospect for many people, because they generally do not want.
+Speaker E: The ability to do that, much less.
+Speaker D: For it to be a baked in functionality. The second main complaint really revolves around the transparency of the whole process, because Ledger themselves write closed source code. Ledger, the operating system that runs on your device, and the way that this.
+Speaker E: Actual recovery process functions is 100% closed source.
+Speaker D: And so what that means is no.
+Speaker E: One outside of ledger has any visibility into how it works. No security researchers can just spend some.
+Speaker D: Free time to dig into it. No one can try to ascertain how.
+Speaker E: Exactly this functions, what encryption is used, if it has protections against sending to anyone but the three custodians, that sort.
+Speaker D: Of thing, as opposed to being something.
+Speaker E: That is free and open source in.
+Speaker D: Nature, where anyone can quickly look at the code. Obviously experts, you or I maybe aren't going to be diving into the code.
+Speaker E: And finding security vulnerabilities, but experts in the field could look at that code, could figure out exactly how it works, could verify the claims that Ledger makes.
+Speaker D: But instead they have all of this code, closed source.
+Speaker E: No one else can see it.
+Speaker D: So we were already trusting Ledger with this.
+Speaker E: This isn't new.
+Speaker D: Ledger has always been a company that usually releases closed source software for their tools, and so there's always been trust.
+Speaker E: That ledger wouldn't push firmware that could.
+Speaker D: Do malicious things or that could exfiltrate your private keys off the device or something like that.
+Speaker E: And I think part of that trust has been broken.
+Speaker D: And now that the firmware explicitly has a function to do that, even though in theory it may be secure and may be useful in a recovery sense.
+Speaker C: So since it was always possible that they were either doing something malicious or there was some flaw that maybe people didn't know about because it was closed source. So it's, people are only objecting now to the fact that it is closed source. What, because this new offering does enable you to send your private key elsewhere? Is that what you're saying?
+Speaker D: Yeah, I think so. I mean, this risk has always been there, and many of us who are strong advocates of the free and open source software movement, free and open source hardware as well, have been, I think.
+Speaker E: Kind of ringing this bell for a long time.
+Speaker D: And that if you trust your cryptocurrency.
+Speaker E: Keys to a device that is closed.
+Speaker D: Source to software that's closed source, you.
+Speaker E: Are 100% trusting that entity to not do something malicious.
+Speaker D: You're also trusting that no one else finds a vulnerability that isn't visible because there's no open source code that others are looking at and does some sort of malicious attack against it, that's unknown in the wild. This has always been possible, but I think in reality, for most people, it.
+Speaker E: Doesn'T connect until they see a real.
+Speaker D: World way that this type of approach can be problematic. And so I think this has kind of brought closed source into reality for many people in an understanding.
+Speaker E: They're like, okay, ledger can do this, they actually have done this.
+Speaker D: And I should be concerned now about.
+Speaker E: Using something that's closed source and not verifiable.
+Speaker C: And so is the worry that, like, for instance, if you opt not to sign up for that service, that somebody could get a hold of your physical device and then send your private keys but then you'd have to sign up for the service. So what is the fear about having your keys? And frankly, if they're split up amongst three entities, what is the concern about that?
+Speaker D: Yeah, I think there's a few major fears. I think if you're someone who signs up for the service, the biggest issues are privacy and data security, and that you're giving over all of your identifying.
+Speaker E: Information, selfies, audio, video, and a lot.
+Speaker D: Of device information as well.
+Speaker E: When you sign up for this service, and you're directly linking that to the fact that you own cryptocurrency and that you own enough to want a hardware wallet. So not only have you probably given over a shipping address to ledger when.
+Speaker D: You bought the device, but now you're.
+Speaker E: Giving over all of your id information as well.
+Speaker D: So there's a large risk of them.
+Speaker E: Either eventually being malicious or just law.
+Speaker D: Enforcement or governments that are malicious or.
+Speaker E: Tyrannical, going to them and forcing them to give over information on, on who.
+Speaker D: Has cryptocurrency, seizing funds, something like that.
+Speaker E: Another main concern is that if you.
+Speaker D: Don'T opt into this service, it now is more easy.
+Speaker E: It's simpler for a malicious attacker to trick you or to trick a loved.
+Speaker D: One, family member, spouse, whatever, into approving.
+Speaker E: This service in a malicious way.
+Speaker D: So hopefully the service has been engineered in a way so that on the.
+Speaker E: Device, it can only send these shards to these three legitimate custodians. But it's also possible that there's vulnerability where someone could send you a prompt.
+Speaker D: With, for instance, a malicious version of Ledger live. They could send you a prompt to enable ledger recover.
+Speaker E: Maybe your spouse says, yeah, I'd love.
+Speaker D: To make sure that I don't lose these funds. When you're off on a work trip or something, and she goes through and.
+Speaker E: She signs up for this service, but.
+Speaker D: It'S actually a malicious entity with a malicious version of Ledger live, and you're sending all of these shards to them.
+Speaker E: In an unencrypted state.
+Speaker D: It's not something we can verify again. So that would be definitely worst case, if that's possible. Outside of that, I think for those people who don't sign up for the.
+Speaker E: Service, it doesn't necessarily pose a risk.
+Speaker D: It just opens up that possibility that there's something going on that you don't approve of.
+Speaker E: And there's now code running on your device that's explicitly designed to send the.
+Speaker D: Private keys off, although theoretically in an encrypted fashion.
+Speaker A: Okay, so in a moment, we're going.
+Speaker C: To talk about some of the other concerns about let you recover. But first, a quick word from the sponsors who make this show possible.
+Speaker B: Ever wanted to use DeFi without being tracked? Railgun is the leading DeFi privacy solution on Ethereum. It's available on BSC, arbitrum and Polygon. Two, shield your funds and use them privately in your favorite Defi apps, while Railgun's cutting edge zero knowledge system encrypts your data from public view, all without leaving your preferred chain. Yes, that includes Dex trading. Coming soon soon are integrations with leading yield lending and perp trading platforms on multiple chains. Defi and privacy together at last. Visit railgun.org or use the railway app at railway XYz to find out more. Meet stater Labs, the non custodial multi chain liquid staking platform transforming the liquid staking landscape with over $120 million in assets staked and more than 40k users across six chains, Stator has partnered with 40 top DeFi protocols like Aave, Balancer, etcetera, with a unique multipool architecture and tokenomics. Ethex, their liquid staking token on Ethereum, empowers stakers everywhere to run a node with as little as four ETH and earn 35% more than solo staking. Sign up for their ETH X Alpha list today and be the first to know about $1 million in DeFi rewards.
+Speaker A: Back to my conversation with Sethe. So one other issue is, of course.
+Speaker C: When you give the personally identifying information, such as a government issued id, to these different entities, we live in a.
+Speaker A: World where there's a lot of people.
+Speaker C: Who can use fake material to pretend that they are you. So I saw some tweets about that. So what are the fears around the proliferation of fake ids and how that could interact with this service?
+Speaker D: I understand the reasoning for blocking recovery behind identification, because it is one of the harder things to fake. It's certainly harder than just like username and password. From what it seems, there will be.
+Speaker E: A username and password and id verification.
+Speaker D: But username and password are very easily brute force.
+Speaker E: Most people use very simple passwords, socially engineered.
+Speaker D: There's a lot of very easy ways to get access to someone's account from.
+Speaker E: Just username and password. So the identification angle makes sense from adding complexity. But the downsides are twofold.
+Speaker D: And that one, like we talked about.
+Speaker E: A little bit earlier, now you're trusting.
+Speaker D: A third party and all of their.
+Speaker E: Authorized third parties, which is the language.
+Speaker D: That they use in their privacy policy.
+Speaker E: To retain that information securely. So if on Fido was ever hacked, the id information for every person who.
+Speaker D: Uses ledger, recover could now be available for purchase and id verification. Either fake id verification or legitimate id.
+Speaker E: Verification with stolen credentials has long been.
+Speaker D: A service that's very easy to purchase.
+Speaker E: On darknet markets and other places.
+Speaker D: So it's not like this kind of thing doesn't exist.
+Speaker E: This does exist now, and constantly happens.
+Speaker D: A lot of centralized exchange accounts are actually opened using malicious fake identity verification.
+Speaker E: Or identity that's been stolen from someone and used to sign up for an.
+Speaker D: Account so that they can do whatever they want to do at that point. So the fear now is that all.
+Speaker E: Of your funds are not secured by the hardware wallet that you have in your drawer or on your office desk. But in fact, anyone who has the ability to pass identity verification as you.
+Speaker D: Which is not impossible for sure, could.
+Speaker E: Now recover all of your funds themselves.
+Speaker D: Without needing access to your physical device, which is a huge shift in the security model from what people usually are.
+Speaker E: Used to with a hardware wallet, which.
+Speaker D: Is a big deal. And I think that's sparking a lot of the controversy around it.
+Speaker C: And I feel like some of this criticism, in a way, also came up because of Ledger's own track record on security. It was certainly something that I saw cited in some of the tweets on this. So describe what the issues were there.
+Speaker D: Yeah, so a few years ago, I can't remember exactly what year it was. I think it was 2018, Ledger had a massive data breach where information on people who had purchased ledgers Washington stolen.
+Speaker E: And that information included full personal names.
+Speaker D: Full shipping addresses, information on the credit card they used, things like that. So we already have a track record of ledger having problems securing data.
+Speaker E: And that's not even necessarily as a slam against Ledger.
+Speaker D: This is the hardest problem to solve.
+Speaker E: For large corporations today. Cybersecurity is extremely complex, very hard to.
+Speaker D: Implement, and the larger your company gets, the harder it gets. But they have a track record of having problems with that.
+Speaker E: Now, we're trusting ledger themselves as a custodian in the ledger recover service. So if you use this service, they hold one of the encrypted shards.
+Speaker D: You're also trusting them to not ship malicious software, whether intentionally, which I think is very unlikely, because obviously they have financial incentives to keep their customers happy.
+Speaker E: And ship software that works and does what it's supposed to. But it's possible that someone could hack.
+Speaker D: In and release malicious binaries, malicious installation.
+Speaker E: Packages that you can use to install.
+Speaker D: Ledger live or firmware or something under their accounts.
+Speaker E: That's another possibility of how that could happen.
+Speaker D: But the third main concern, I think, is that while they don't have the.
+Speaker E: Id information themselves, it appears it's a bit unclear exactly how the relationship between.
+Speaker D: Ledger and Unfita works, but they likely.
+Speaker E: Don'T have the identity information themselves. They do have all the information on who uses the service, what ledger devices they have, their IP address, which is.
+Speaker D: Likely their home IP address, full name, that kind of thing, to go along.
+Speaker E: With the fact that they use a ledger that they own cryptocurrency and now.
+Speaker D: That they use the ledger recovery service or not. So it continues to open up more potential attack vectors for people to try and steal your funds from your ledger.
+Speaker E: And it trusts yet another entity.
+Speaker D: And the unfortunate thing with privacy policies and the privacy practices of companies like.
+Speaker E: Ledger and other large companies is that it's very unclear who exactly has access to this data. Ledger uses the term authorize third parties.
+Speaker D: In their own blog post, so it's.
+Speaker E: Unclear who exactly will get access to.
+Speaker D: The information about your identity, about your usage of ledger recover. And Onfeedo does the same thing where.
+Speaker E: They have a long, long, long list of information they collect about you, not just your identity information. And then they also have authorized third parties. We have no idea who that data.
+Speaker D: Is being shared with, who could sell.
+Speaker E: That, who could steal that, who could.
+Speaker D: Get hacked and have that data leaked. And then if your identity information and.
+Speaker E: The fact that you ledger recover is.
+Speaker D: Leaked, all of your funds could be stolen at that point, which is a.
+Speaker E: Huge deal, when your ledger device could be sitting safe at home in a.
+Speaker D: Drawer, untouched, you didn't install malware, you.
+Speaker E: Didn'T do anything wrong, and yet your funds could be stolen.
+Speaker D: And that certainly is worst case scenario.
+Speaker E: But it's a possibility that it gets opened up with this type of approach.
+Speaker D: Approach.
+Speaker C: So one counterfactual thread that I saw was by Haseeb Qureshi of Dragonfly, and he talked about how initially he also agreed that this was a bad offering for them to introduce. But then he realized it was based on certain misperceptions around how Ledger worked. He was saying that he thought initially that it would just hold your keys and the keys would never leave. Now, when he realized, oh, your device can be upgraded, that would introduce the possibility for potentially, like, bad things to happen, like some new thing that takes your private key. But then he realized that actually this isn't how ledgers have worked all along, that they've always been upgradable because they're always adding new blockchains and things like that. And so he actually concluded that this was totally fine. Like you've always trusted Ledger, and you only have to trust them at that one point in time. You never have to do the upgrade. If for whatever reason, you're not comfortable upgrading the software, you could always just toss out your old device and get a new device with the new software. So what is your take on his thread there?
+Speaker D: Yeah, I mean, the core of his argument is sound. As we mentioned a bit today, all.
+Speaker E: Of this has been possible. It's closed source. You've been trusting ledger when you install firmware updates that they're not including code that does this or something else malicious.
+Speaker D: For all we know, the code to.
+Speaker E: Actually handle Ledger recover has been in.
+Speaker D: There for a long time and has just been activated with this latest release. There's no way that we can verify whether or not this type of thing has been possible before or on your device. The main pushback I would have against his argument is that it's not just.
+Speaker E: Fine that this is possible.
+Speaker D: If you understand the risks, and if.
+Speaker E: You understand the trade offs of trusting.
+Speaker D: A third party explicitly with the security.
+Speaker E: Of your funds, and trusting them explicitly.
+Speaker D: To do the right thing forever, and.
+Speaker E: Trusting them explicitly to not have any.
+Speaker D: Sort of malicious firmware pushed or anything like that, then yes, I mean, life just goes on for you. The whole point of these things being.
+Speaker E: Built, the whole point of bitcoin, the whole point of these cryptocurrencies, is that.
+Speaker D: We can remove trusted third parties, that we can remove custodians, we can remove.
+Speaker E: People who have control over our money. And so when we introduce someone like Ledger as a trusted third party, and that they could do anything with your.
+Speaker D: Private key, you have no visibility into that.
+Speaker E: Any firmware update could do literally anything.
+Speaker D: It introduces back a lot of the.
+Speaker E: Problems that we're trying to escape from here.
+Speaker D: So while he's right that this could always have been done, I think that should frighten people even more than put them at ease, because it means that.
+Speaker E: They have always put explicit trust in ledger that maybe they didn't understand.
+Speaker D: And I think one of the big positive points of this whole situation is that it really is shaking people awake to the risks of closed source software and hardware, because it is an explicit trust that you're having to place in them, rather having the ability to verify it, rather than having the ability for third parties to go in and check what's happening. While it is technically true it could have always been done, that doesn't mean it's a good thing.
+Speaker E: That just means nothing has changed explicitly here, except that now we know that.
+Speaker D: There is code running on the device that can do things that many people don't want their hard wallet to be able to do.
+Speaker C: So the ledger CTO Pascal Gautier disputed that this is not what people want. And he said, I think this might have been on a Twitter spaces that they held.
+Speaker A: He said, you're saying this is not what customers want.
+Speaker C: Actually, this is what future customers want. I was curious for your response to that.
+Speaker D: I probably agree with him. If you are purely seeking profit over.
+Speaker E: Principles, I think this move makes sense. Most of the people who don't actually see the need to remove trusted third.
+Speaker D: Parties, who don't really care about the.
+Speaker E: Broader ethos that is behind a lot of the cryptocurrency movement and the free.
+Speaker D: And open source movement, would be happy.
+Speaker E: To have a service that makes sure.
+Speaker D: That they can't lose their funds, whether that implies complete trust in a third party or not.
+Speaker E: There's not a concern for many people because they don't understand the risks that are inherent until something goes wrong.
+Speaker D: So I'm sure that there is plenty.
+Speaker E: Of money to be made.
+Speaker D: Providing a service like this. Whether or not it's a net good for society, I think is a harder.
+Speaker E: Thing and more of a philosophical debate.
+Speaker D: On whether or not helping people to.
+Speaker E: Custody bitcoin with trusted third parties and.
+Speaker D: Closed source code is actually a step forward or backwards from the systems that we have right now. But I'm sure that there is a large percentage of profit that they can gain by implementing a service like this.
+Speaker E: Whether or not it's good, well done, open source, anything like that.
+Speaker D: So I don't disagree that there are definitely people out there who want a service like this. It's just sad to me that the.
+Speaker E: Way that this is being implemented by.
+Speaker D: The largest company in this space is, in my opinion, very dangerous, especially with the aspect of the KYC, the know.
+Speaker E: Your customer id information that's a part of using the service in any way. Not to mention, I think a lot.
+Speaker D: Of the people who have been kind.
+Speaker E: Of hyping up this thing and this need for easier custody solutions are usually.
+Speaker D: Talking about the global south and a lot of the world that doesn't have.
+Speaker E: Access to these types of tools, that doesn't have the easy self custody tools.
+Speaker D: And that we need to improve things there.
+Speaker E: But this actually restricts many of those people from being able to use a service like this. If you have to give over id, that's not an option in much of.
+Speaker D: The global south, whether they have an id or not. Whether they have the ability to upload it. There are a lot of restrictions there, so it further restricts who can gain.
+Speaker E: Self custody in this manner. If you can't even really call this.
+Speaker D: Self custody, it brings so many potential.
+Speaker E: Flaws and dangers that we will see.
+Speaker D: Something bad happen around ledger recover.
+Speaker E: I think it's only a matter of time until something goes wrong and more people will wake up to the risks here when that does happen.
+Speaker D: But one thing that I'm thankful for is a platform like this, my tweet.
+Speaker E: Thread, the ability to help people to.
+Speaker D: See the issues now and make a decision. If they're fine with the trade offs.
+Speaker E: Here and they have no problem with.
+Speaker D: It, at least they knew going in what the trade offs and issues were with it.
+Speaker E: But hopefully it'll also help people to.
+Speaker D: See that there are some major, major risks and issues here, and hopefully people.
+Speaker E: Will opt not to do a service like this.
+Speaker D: But obviously there's always freedom of choice, and I'm not for forcing people to do one thing or another. I just want to make sure that people have the truth going into decisions like this.
+Speaker C: Yeah, I think one thing that's clear is so far there's no one perfect way to store or secure your coins. It feels like every option has some trade offs. And I do agree that there are certain aspects of this service that probably go against the ethos of kind of the more cypherpunk sectors of the crypto community, which is why I think it did cause the uproar that it did. Well, anyway, it has been very fascinating unpacking this whole incident with you. Thank you so much for coming on unchained.
+Speaker E: Yeah, awesome.
+Speaker D: Thank you so much, Laura. It was a great chance to get.
+Speaker E: A chat through this and glad we.
+Speaker D: Were able to finally chat and meet a little bit. So thank you for having me on. Excited to see this shared out.
+Speaker C: Don't forget, next up is the weekly news recap.
+Speaker A: Stick around for this week in crypto.
+Speaker B: After this short break, join over 80 million people using crypto.com comma, one of the easiest places to buy, trade and spend over 250 cryptocurrencies. Spend your crypto anywhere using the crypto.com Visa card. Get up to 5% cash back instantly, plus 100% rebates for your Netflix and Spotify subscriptions and zero annual fees. Download the crypto.com app now and get $25 with the code Lora link in the description.
+Speaker A: Thanks for tuning in to this week's news recap. SPF faces legal backlash over alleged fraudulent acquisitions this week saw the beleaguered crypto empire FTX suing its ex CEO Sam Bankman Friede co founder Gary Wang and former senior executive Nishad Singh over claims of fraudulent activity. The lawsuit alleges that these key figures were aware of the insolvency of Alameda research Banquet Freed's trading shop when they acquired the stock clearing platform embed for $250 million. FTX's current leadership claims that the funds used in this deal were illicitly drawn from FTX customers. Additional suits have been lodged against embeds founder and former CEO Michael Giles and the early investors who sold their stakes, such as propel Venture Partners. Notably, the case argues that FTX's bankruptcy representatives were swindled into a, quote, terrible deal due to the overvaluation of embed, which they say is now virtually worthless. Subsequent attempts to sell embed reportedly received bids far below the acquisition price. The highest bid was from Giles himself for a mere $1 million. In related news, Alameda Research and West Realmshire's two FTX units are suing to recover $6.9 million from embed financial shareholders, alleging misappropriation of funds. Before FTX's bankruptcy, jump trading profited nearly $1 billion from UST. Fresh SEC filings point towards jump trading as the unnamed firm that allegedly bolstered Terrausd or ustinous amid its 2021 deep from the us dollar. This connection emerged from the SEC's lawsuit against Terraform Labs and its co founder, Do Kwon, which accuses them of investor fraud and misrepresentation regarding UST jump trading. A major player in crypto trading has not been directly accused of any wrongdoing in relation to Terra Luna's $60 billion collapse a year ago. However, the SEC filing suggests that the firm profited nearly $1 billion from its arrangement with terraform labs. As part of the deal, JMP was provided the option to purchase Luna tokens at a 99% discount in exchange for making trades to improve UST's liquidity, a claim reinforced by a class action complaint filed by lead plaintiff Taewoo Kim. In a related development, Kwon was granted release from custody in Montenegro. Kwon, along with the company's former CFO Han Chang joon, posted a bail set at €400,000, or $436,000 as stated by the Podgorica Basic court. As part of their bail conditions, both will be under house arrest within the capital. During their hearing, they refuted accusations that their passports from Belgium and Croatia were fake. The duo also vowed to adhere to the terms of their bail, including responding to court summons. Tether moves to strengthen reserves with bitcoin investments tether, the issuer of the dominant stablecoin USDT, announced this week that it will allocate 15% of its net profits to buy bitcoin in a move aimed to diversify and strengthen its reserves. Based on the company's last attestation report, this investment could total about $222 million worth of bitcoin, adding to the $1.5 billion bitcoin stash already in its reserves. Tether CTO Paolo Arduino said the move is rooted in what he called bitcoin's proven resilience growth potential, and it's standing as a favored choice amongst institutional and retail investors. Despite past controversy surrounding the company's reserve management, USDT remains the largest stablecoin, with a circulating supply of more than $82 billion. SEC stands firm no rush on crypto regulation clarification in the ongoing legal tussle between Coinbase and the US securities and Exchange Commission, or SEC, the agency requested that the court reject the crypto exchanges plea to expedite rulemaking on cryptocurrencies. Secing no legal obligation on a timeline for its response, the SEC emphasized the complexities involved in defining cryptocurrency regulations. The request follows Coinbases April legal demand for a prompt response to its rulemaking petition on how securities laws apply to cryptocurrencies. Coinbase's chief legal officer, Paul grewal, expressed concern over the SEC's stance, signaling that the regulatory ambiguity might persist. He warned of continued enforcement actions in place of clear rulemaking. Austin Campbell, a professor at Columbia Business School, echoed the concerns on Twitter. I am starting to worry about the future of the us financial system. If blockchain continues to dominate, mind share and use cases continue to proliferate, the US will be playing from far behind the pack and having destroyed a lot of trust with companies, many of whom may not come back even if things change. Ripple scores legal win as judge denies SEC motion to seal Hinman speech documents in another one of its legal standoffs, the SEC faced a setback this week when a court denied its motion to seal documents linked to a 2018 speech by former Division of corporation finance director Bill Hinman in which he stated that he did not view bitcoin and ether as securities. The SEC previously argued that the documents, which Ripple sought in discovery, were irrelevant to the case and could jeopardize the, quote, openness and candor within the SEC. However, Judge Annalisa Torres of the Southern District of New York held that these were, quote, judicial documents subject to a strong presumption of public access. Torres granted some redactions requested by both parties, primarily for personal and financial information. Ripple CEO Brad Garlinghouse hailed the ruling as, quote, another win for transparency, anticipating the soon to be public Hinman emails. Meanwhile, the SEC may continue to challenge the admissibility of the documents as the trial progresses. SEC says Filecoin is a security this week, Grayscale received a notice challenging the asset manager over its Filecoin trust product. According to the SEC, filecoin, a token used in a blockchain based decentralized storage network, quote, meets the definition of a security. Grayscale, disagreeing with this stance, said it, quote, intends to respond promptly to the SEC staff with an explanation of the legal basis for Grayscale's position. While Grayscale contests the SEC's assertion, the fallout of this regulatory tussle remains uncertain and could result in registering the Filecoin trust under the Investment Company act of 1940 or even seeking its dissolution. Was Satoshi's stance on NFTs revealed a controversy erupted this week after the resurfacing of old bitcoin talk posts that suggested bitcoins mysterious founder Satoshi Nakamoto may have been pro NFTs Udy Wertheimer, associated with bitcoin ordinals project taproot wizards, ignited the speculation by alleging that the first bitcoin transaction ever was not for pizza, but for a JPEG image. Back in January of 2010, Wertheimer discovered a forum post in which a user named Sabineer announced plans to sell a JPEG for 500 BTC. Four months before the infamous 10,000 BTC pizza purchase, Satoshi himself appeared to provide advice on how to execute the transaction. However, critic Mike McDonald countered that the 500 BTC received by Sabineer were donations, not payment for the JPEG. Regardless, Satoshi's involvement in the transaction led some to believe that he would have supported the concept of nfts. As McDonald noted, the most notable thing of all is that Satoshi treated this all like it was the most normal thing in the world. He'd have absolutely been pro ordinals. If you want to learn everything about the BRC 20 mania, don't miss Tuesday's episode of Unchained with Dan Held and Trevor Owens, or tomorrow's episode of the chopping block. Meanwhile, Dogecoin's daily transaction volume hit an all time high, briefly surpassing that of bitcoin and litecoin. After the introduction of DRC Twenties Celsius navigates Lido withdrawals amid asset auction turmoil bankrupt crypto lender Celsius reportedly transferred its 428,000 staked ETH, or Steth, valued at around $780 million, to another wallet just before Lido, the leading Ethereum liquid staking protocol activated with Scholz. Amid some conjectures, Simon Dixon, CEO of investment firm bank to the future, commented, Celsius is likely lining up for staking directly without Lido in the middle. According to on chain data, Celsius accounts for 96.8% of steeth withdrawal requests on Lido. This has sparked concerns about prolonged unstaking times, though Lido reassured that a buffer of 440,000 ETH is expected to accommodate large withdrawals. As Celsius navigates its complicated scenario, a consortium known as Fahrenheit, including venture capital firm Arrington Capital and Minor US Bitcoin Corp. Has emerged as the lead bidder for the lenders $2 billion worth of assets in its bankruptcy auction. Michael Arrington, founder of the eponymous VC firm, explained the bid structure, saying, quote, we are proposing that the assets be placed into a new company and run with the sole goal of growing these assets to make stakeholders whole. Blockfi moves forward with liquidation proceedings in an escalation of its bankruptcy proceedings, BlockFi has emphasized its commercial claims against FTX and Alameda as pivotal, with potential recoveries to creditors exceeding $1 billion. The success of the litigation will heavily influence the return of funds to clients. Additionally, BlockFi is set on liquidating its lending platform, its lawyers stated, given recent regulatory developments, among other things, there may be a lack of meaningful value to be generated from a sale. On the flip side, the bankrupt lender stated that according to its estimates, nearly $300 million is due to be returned to BlockFi custodial wallet users. Additionally, the company confirmed that a hearing on the liquidation plan is scheduled for June 20, though the final course of action will depend upon approval from the bankruptcy court. Voyager Digital receives approval to start payouts bankrupt crypto lending firm Voyager Digital is commencing its liquidation process with customers poised to recover around 35%, or $1.33 billion, of their cryptocurrency deposits. The payout process is expected to commence as early as June 1, with a recovery rate hinging on the results of future litigation. The firm's liquidation plan comes after a failed buyout attempt by Binance us and two unsuccessful sale attempts, including one by now bankrupt FTX Voyager aims to repay customers with the same type of cryptocurrency that they had in their accounts or with the stablecoin USDC for unsupported tokens and the proprietary VGX token. Crypto legislation is passed in Europe. The Council of the European Union, representing 27 member states, unanimously approved the much awaited markets in crypto assets regulation, or MeCA. It requires wallet providers, exchanges and other types of crypto institutions to get license to operate across the block and sets reserve standards for stablecoin issuers. Meanwhile, France has extended a welcome to crypto firms seeking refuge from us regulatory uncertainty. The country already has 74 registered crypto companies, a number that could increase dramatically with the new meca laws. We are proud to be pioneers, expressed Benoit de Jouvigny, a french authority. The EU's regulatory clarity is also driving a surge in venture capital funding for EU based crypto startups. As pointed out by Patrick Hanson, EU policy director at USD Coin, regulatory clarity is attracting capital and entrepreneurs globally. With VC investment in european crypto projects skyrocketing to nearly ten times within the year. Time for fun bits Ginny from Unchained has thoughts about how Sam Altman of OpenAI is returning to crypto and Worldcoin.
+Speaker F: Well, OpenAI founder Sam Altman is now turning his attention towards crypto, which I guess makes sense because AI can kind of manage itself now, like how you get back into gardening after your kids go to college. He's close to raising $100 million, which he clarified, as in Fiat, for Worldcoin's new minimalist wallet. Worldcoin isn't new. It got big last year with a crypto version of a universal basic income, like a crypto token, to be distributed equally to everyone in the world. I think this sounds totally easy. We just need to choose one of the coins whose value is zero, and there are a lot to choose from. There were a lot of issues with WorldCoin's initial rollout last year, but now it's back with a wallet that includes a global identification system. Basically, it scans your irises to prove that you're a human, and I cannot wait to make all of my exes try it. His first round of funding included investments from SBF, but I doubt he'll be part of this round. Unless in lieu of cash, they accept d and D hit points. I don't know what's gonna happen with Worldcoin, but I do think it's smart for Sam Altman to have his hands in both AI and crypto. True diversification the hottest sector in tech right now in crypto.
+Speaker A: Thanks so much for joining us today. To learn more about Seth and the implications of ledger recover, check out the show notes for this episode. Unchained is produced by me, Laura Shin, with help from Kevin Fuchs, Matt Pilchard, Zach Seward, Juana Ranovich, Sam Sriram, Ginny Hogan, Jeff Benson, Leandro Camino, Pamela Jemdar Shashank, and Margaret Coria. Thanks for listening.

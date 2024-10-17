@@ -1,0 +1,490 @@
+[
+    {
+        "speaker": "A",
+        "text": "Hey unchained listeners, as you know, its hard keeping up with the fast paced world of crypto, so weve got just the thing for you. Subscribe to our free unchained daily newsletter at unchainedcrypto dot substack.com. youll get the latest crypto news in original articles from our reporters, as well as summaries of other happenings in bullet points. Plus our meme of the day, all curated and written by our amazing team. Its still your no hype resource for all things crypto, just in newsletter form. Sign up at unchainedcrypto dot substack.com dot. Again, the URL is unchainedcrypto dot substack.com dot, they said."
+    },
+    {
+        "speaker": "B",
+        "text": "In fact, after the three AC episode, not only have we been recapitalized, but we are massively de risking our loan book, he said. We're calling back all sort of, we're reanalyzing all of our borrowers, the people who borrow the bitcoin that we deposit, and we are like changing the risk levels and we are de risking. We are now much more conservative at our risk levels. So if anything, depositing now is a lot less risky than it would have been a year ago because we're calling back a lot of the risky loans and you are now depositing into a loan book that is a lot less risky than it was. In fact, it's safer now because of what happened with three AC for you to deposit now. And it kind of made sense if you believe them, if you believe people are telling you the truth, it kind of made sense what he said, that yes, they would be de risking the loan book. And so, in fact, you are now taking less risk than you did before."
+    },
+    {
+        "speaker": "A",
+        "text": "Hi everyone. Welcome to Unchained, your no hype resource for all things crypto. I'm your host, Laura Shin, author of the Cryptopians. I started covering crypto eight years ago and as the senior editor of Forbes, was the first mainstream media reporter to cover cryptocurrency full time. This is the November 4, 2023 episode of Unchained. Femex, a prominent crypto exchange, is at the forefront of revolutionizing centralized exchanges. Unleash your unique Web 3.0 identity. Discover more@femex.com dot vault craft by popcorn is your no code defi toolkit for building automated non custodial yield strategies. Learn more on Vaultcraft IO about how you can supercharge your crypto portfolio. Arbitrum's leading layer two scaling solution offers you ultra cheap and lightning fast transactions, all with security rooted on Ethereum. Visit arbitrum IO today with the crypto.com app, you can buy, trade and spend crypto in one place. Download and get $25 with the code Laura link in the description today's topic is the alleged fraud by DCG and Genesis. Here to discuss our two genesis creditors, BJ and Brandon. Welcome BJ and Brandon hi Laura."
+    },
+    {
+        "speaker": "C",
+        "text": "Hi Laura. Thanks for having us."
+    },
+    {
+        "speaker": "A",
+        "text": "Heads up everyone. For security reasons, these two will be going by pseudonyms, but I have verified that they are Genesis creditors. I reached out to DCG and Dharar Islam of Genesis for this show. I've included responses from DCG throughout. However, Islam did not respond to multiple requests for comment. New York Attorney General Letitia James has sued Gemini, three Genesis entities, digital currency group, or DCG, its parent company, and Michael Morrow and Barry Silbert, over alleged fraud and misrepresentations to Gemini earned customers who had enrolled in a program to lend out their crypto assets. To earn interest in the lawsuit, James alleges that Geminis own team had deemed investing with Genesis extremely risky, but did not choose another lender or close the program down. She also alleges that DCG and Genesis perpetrated fraud on Gemini by sending them fraudulent financial statements. While her lawsuit focuses on the Gemini earned customers who she says are victims, there are also customers of Genesis who have not been able to withdraw their money. I asked Sam Enser, a former prosecutor in the southern District of New York, why James would have only named Gemini earned customers as victims in her lawsuit and not also Genesis customers. And he said that as long as she had the evidence to show that alleged fraud was perpetrated on Gemini's customers, she wouldn't need to show that there was also fraud on Genesis's customers. In a previous episode, he had said that Stny prosecutors had a slogan, thin to win, that meant they should narrow in on what they are sure they can prove. Referencing that slogan, he wrote to me in an email quote along the lines of thin to win. If you have a ready made, strong case regarding the Gemini earned customers, why bother expanding? To cover other issues and take on the burden of proving those other issues is sort of the way a prosecutor or New York attorney general would think about it. So I did reach out to James's office to see if I get an explanation, which I will include by the time this podcast is released, if I receive one. Regardless, BJ and Brandon, the Genesis customers have decided to tell their story, so let's start with introductions from them. BJ, why don't we start with you? How did you become a Genesis customer and what is your role in the bankruptcy?"
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, I became a Genesis customer relatively late in toward the end of 2021. I had known about Genesis for a long time. I knew that Barry Silbert left second market to create digital currency group in 2012 or 13. And that part of digital currency group was Genesis trading. And that that was a big sort of prime broker in the field and people who wanted to buy and sell bitcoins used it. So the company basically went back a long time. In my mind, it had survived many different sort of bear markets and it was always seen as like a very reliable company to basically deal with. But I never really felt the need to joined Genesis because I didn't really buy or sell bitcoins. I just pretty much bought them and held them. What happened in 2021, actually is Michael Saylor came onto the scene and then some other people like Mark Moss, started talking about the fact that bitcoin had gotten to such a sort of prominent role in the financial system that if you ever needed money, you didn't have to sell bitcoin. You could just borrow against the bitcoin and that involved giving your bitcoins to a company and then they would give you USD in exchange for it. But that, of course, has the risk that you could maybe not get back your bitcoin. So if I. If I were going to do that, I thought, well, the most reliable company that I would want to be involved with in that process would be Genesis. And so that's when I first decided to join Genesis was so that potentially in the future I could use them to borrow USD against bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "Great. Brandon, how about you?"
+    },
+    {
+        "speaker": "C",
+        "text": "A similar story to BJ. Granted, Genesis appeared to be the adults in the room. Obviously, the apps of BlockFi and Celsius were geared a bit more towards the retail clientele due to the amount of capital and crypto that I was investing with. I wanted to work with somebody that was regulated, that had a good reputation. I had a broker dealer license here in the USA, and Genesis fit the bill."
+    },
+    {
+        "speaker": "A",
+        "text": "And just to clarify, so for people who are not aware of the difference between Genesis versus a lender like Blockfi or Celsius, they had minimum requirements where they only worked with select qualified institutional investors and accredited individuals who had assets equal to or greater than $10 million, including any crypto. And they did not count illiquid assets such as real estate. And they also needed you to be able to trade in amounts equivalent to at least 250,000 USD per transaction and for you to lender, borrow at least 100 BTC, 1000 ETH or $2 million. So those were the minimum requirements. So that's why Genesis was sort of in a different category. So now both of you described how it is that you became customers of Genesis, but now you are also involved. Before the bankruptcy, you guys were also involved when it became apparent that Genesis could not support the redemptions that were being called through Gemini. Urn, so can you talk a little bit about what it was that happened at that time on your end?"
+    },
+    {
+        "speaker": "B",
+        "text": "Sure. I mean, I can give you sort of my perspective. We got an email, I think it was the night before, on a Monday or something like that, that said that the CEO of Genesis is going to be calling a meeting the next morning for an important announcement. And I remember thinking to myself, boy, what important announcement could that be? I mean, is he going to say, congratulations, we've been so profitable, we just decided to share profits with our customers? That's not usually why you call a meeting. So I said, boy, at the time we had the whole FTX drama was going on and Genesis had sent several reassuring emails saying that they were not affected and that the customer funds were not affected. And I remember saying to myself, oh my God, this meeting better not be something where they're going to announce that in fact they were affected. And the meeting came and there were no questions allowed. And basically the bottom line announcement was, we're going to be freezing withdrawals. And the reason they gave is that the CEO, Darar Islam, said at the time that Genesis was on a sound financial basis, but that there were too many withdrawal requests from Gemini earned customers that apparently were scared off by what was happening at FTX. So they were running for the exit to withdraw all of their basically bitcoin, eth, whatever, USD from all exchanges. They wanted to take control of it. And he said that normally that would not be a problem, but with such a huge amount, so suddenly Genesis couldn't meet those withdrawal requests. Because of course, Genesis doesn't just sit on the assets that. That we lent to it. They loaned them out. And so what they said is that our customers that borrowed them took longer term loans, six months, one year loans and Gemini earned. People want to withdraw their money now. Well, we will have it for them in six months to one year when we get those assets back. But right now we don't have it. So we have what he called the liquidity mismatch and don't worry about it. Genesis is solvent. We have all the assets for everybody. It's just that we don't have them at this point in time. So we're going to pause withdrawals, give us a week to work on solving this problem and everything should be fine."
+    },
+    {
+        "speaker": "A",
+        "text": "And, Brandon, were you also on that call?"
+    },
+    {
+        "speaker": "C",
+        "text": "I was. And just prior to that, FTX was obviously crumbling. There was a lot of volatility in the space. I had reached out to my representatives at Genesis to try to get an understanding, and they were in a very standoffish and assuring that everything was kosher and good to go and there's nothing to worry about. And then the same thing. I got the email. There's going to be a talk and formal conversation with the CEO of Genesis. And upon dialing in, it was a very short, curt phone call lasting only a couple of minutes, saying, hey, withdrawals are suspended. Same story duration mismatch, blaming it on kind of the earned customers desire to withdraw so quickly. And then that was it."
+    },
+    {
+        "speaker": "A",
+        "text": "Also to go back to when three AC went under, which, just to remind people. So three arrows capital, also known as three AC, was one of the biggest borrowers from Genesis, and they went bankrupt in June of twelve. Well, entered liquidation in June of 2022. And, you know, at that time, what were the communications that you had with Genesis? Was it only their public statements or was there anything else that was."
+    },
+    {
+        "speaker": "B",
+        "text": "I remember that period also, because for me personally, I didn't have any funds at Genesis during that time. From about December or January of 2022, they had massively decreased their interest rates that they would pay you for putting funds in the platform. So I had withdrawn everything. I wasn't going to. I wasn't going to lend them bitcoin for 1% or even 2%. So I said, no, that's not worth it to me. So I withdrew everything. I heard about what happened with three AC, which is that basically, Genesis had been one of the main companies that had been lending bitcoins to three AC and of course, three ac collapse and that whole Luna fiasco. And so the first thing that came to my mind is, boy, what? How could this have been, like, how could Genesis, who, as Brandon said, are supposed to be the professionals in the room, how could they have given two and a half billion dollars to a hedge fund that's run by, like, two young guys out of Singapore? What kind of risk management is there that would have given such huge amounts of money? And how could this have happened? Like, how could a hedge fund like three AC almost take down Genesis? So I called them. I called the rep. I said, is it true that you guys are going bankrupt? And that's when the whole line started that, no, we had some losses. We did take some serious losses, $1.1 billion. But that our parent company, DCG, stepped in for us, they covered the losses. So they. They took on the loss of the three AC onto their balance sheet, and we. We are not affected. And I was very careful to ask them this question. I said, okay, so what happened was that your balance sheet was completely destroyed or had a hole of $1.1 billion in it, and then DCG filled it, or what exactly happened? And he said, no, no, no. We had a strong balance sheet and we never had to touch it. DCG basically made up with their own money the losses of three AC, and they're going to then go after three. They're going to be responsible for going after three ac to collect from them, and it doesn't impact us at all. We are completely sobered. We're back to business, and there's no issues."
+    },
+    {
+        "speaker": "A",
+        "text": "A DCG spokesperson says that DCG entered into the $1.1 billion promissory note, which matures in 2032, to assume Genesis liabilities after three Arrows Capital's default in June 2022. DCG says that it did not receive any cash, cryptocurrency or other form of payment for the promissory note, that the $1.1 billion promissory note is not callable, and that it does not contain any other similar features of a callable bond. Additionally, DCG says that Genesis assigned to DCG its claims against three ac and as part of the transaction, agreed that any recovery received by DCG in respect to the three Arrows Capital liquidation will go directly to paying down the $1.1 billion promissory note."
+    },
+    {
+        "speaker": "B",
+        "text": "And I want to add that a lot of people in our group are in a similar situation, meaning that many people that episode, the publicity around Genesis and three AC scared a lot of customers from Genesis, made them withdraw their funds. But then after they gave all these reassurances for the next several months, many people redeposited again. Now, I didn't have anything at Genesis, but I must say that after that episode, they increased interest rates. And I thought, oh, that's interesting. I mean, let me just wait and see what happened. And I waited, actually, until about August, at first in August and then October to actually feel comfortable enough that the whole episode had. Had passed and that they were indeed solvent before I sort of lent them again."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, wow. Okay. And, Brandon, what kind of communication did you have with them?"
+    },
+    {
+        "speaker": "C",
+        "text": "During that time, almost identical, verbatim, I contacted them in disbelief that such a huge loan could be made to any one counterparty. And then I was kind of curious that obviously, when you're working with Genesis, their business plan was to borrow money from certain lenders and lend that money to certain borrowers, earning the spread between what you can borrow it for and what you can lend it for. And with such a large $1.1 billion loss, all of the loans up into that point were always advertised as a balanced, over collateralized lending book. Meaning if I wanted to borrow $100 worth of bitcoin, I had to put up at least $120 worth of USD or Ethereum or whatever other, you know, currency I wanted to use as collateral, varying percentages, you know, loan to value, depending on how risky the particular currency was. So for them, just as a pure layman, to say, okay, surely there was over collateralization involved. Then there was a liquidation that took place with slippage. Wow. If they recouped all of the position during liquidation and were still left with a $1.1 billion loss to absorb, that loan must have been massive. And I did the same exact thing very carefully, asked what the hell happened with the loss, and was assured and reassured that the parent company stepped up, took all of the liability onto their balance sheet. Genesis balance sheet was virtually untouched, business as usual, and that DCG would step up to the plate and go to battle and deal with the three errors. Capital bankruptcy. I then took as much capital as possible off of Genesis. You do fixed terms, you do open terms. Sometimes a fixed term converts to an open term after maturity, but you're able to leave it there a little longer. And it took me a couple weeks, if not a month or so, to fully get all of my capital out of Genesis off of Genesis completely, 100%. Nothing left there except for a few bitcoin that were not of utmost concern to me. And, yeah, was really caught off guard."
+    },
+    {
+        "speaker": "B",
+        "text": "And we didn't just take a simple phone call. I mean, I remember because I was thinking about relaunching again. And these are not just small amounts. I mean, these were going to be large amounts. I asked him, I said, well, to the rep, I said, who can I talk to there? Can I talk to some finance director or somebody there that's really in charge, like the CFO or something like that? He said, oh, yeah, absolutely. I mean, I'm going to arrange a call with our CFO and he'll talk to you. And I said, okay, great. And when we arranged the call, it was a video call. The person that I saw on the other end looked like he couldn't be more than like, 28, 29 years old. So I said to him, you're the CFO? And he said, no, no, I'm sorry, the CFO is not available. But I've been briefed on basically what happened. And to be honest with you, I mean, he did a good sales show. I just assumed that Janice is a big corporation. It's owned by DCG, ingrained into Wall Street. I mean, why would they, like, deliberately lie about something like this? And he showed me, he showed me actual balance sheet. Now, he didn't hand them to me, and I did ask for them. I said, can I see copies of that? He said, well, right now I can show them to you on the screen because they're not finalized yet. We're still like, closing out our quarter and the final numbers are not there. But he did what Brandon said. He said, look, this is our total assets. These are our liabilities. And you can see here that if the bitcoin that you give to us, if not a single one of the people that borrow it, pay it back, we have enough assets to be able to rebuy bitcoin for you and give it to you because our assets are greater than our liabilities to you guys. And in fact, we have equity. We have leftover. We would have $175 million that would be left over if we were to just. If every single person who borrowed from us, our customers, bitcoin, were not able to pay it back, we could give you all the bitcoin back and still have $175 million left over. So theres no risk at all to us giving them our bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay? And BJ, when was that call?"
+    },
+    {
+        "speaker": "B",
+        "text": "That was. So what I did is I did staggered loans. So the first one, after the whole June fiasco was sometime in August. So it had to be. It was at the end of August. So it had to be past the middle of August."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, and Brandon, so you said that you took most of your bitcoin off Genesis except for a few, and then did you end up redepositing later?"
+    },
+    {
+        "speaker": "C",
+        "text": "I was primarily a USD and USDC stablecoin lender. I got the same raft of shit BJ just described. I got connected to a higher up here and there. I got promised I can talk to whomever I want to talk to. And my frustrations were already high. It doesn't matter who's going to lie to me. You know, one person salesperson passes it off to this supervisor, that supervisor passes it off to the head of this department. They're all toned, the same line. So, you know, I didn't necessarily need to go all the way up to the top to be lied to. I essentially just took my capital off of Genesis for a while. Months. Let's say I did the exact same thing. I staggered back in the, you know, say I had a bucket of 100% that I would allocate to Genesis. You know, I put 5% and I put 10% and 15% and slowly started to ease my way back in. As the rates started to increase, I began to get more comfortable saying that they did weather the storm. In actuality, DCG did step up to the plate. All right, maybe they're not totally full of shit, but I still had some concerns about how they could take such a massive loss in an over collateralized book of business. And that's what kept me from coming back in full steam to what I was prior to that."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, and around what timeframe were you redepositing more USD and USDC?"
+    },
+    {
+        "speaker": "C",
+        "text": "Probably the August timeframe. We got through the summer. I just didn't really want to think about it. Some other. I think at that time, Celsius started to track, started to show. In Celsius, they didn't have any exposure to Celsius. So I was like, okay, maybe they aren't fully exposed to every one of these lending vehicles in this very incestuous crypto landscape, but in fact, they just had the counterparty risk of three arrows, and that is over and done with. So, actually, I didn't make another large loan until November 1, 2022."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "You know, Laura, one interesting thing is that now that brand are reminding me, as I'm thinking back, they actually had a pretty good sales pitch, which was actually half true, they said. In fact, after the three AC episode, not only have we been recapitalized, but we are massively de risking our loan book. He said. We're calling back all sort of. We're reanalyzing all of our borrowers, the people who borrow the bitcoin that we deposit, and we are, like, changing the risk levels, and we are de risking. We are now much more conservative at our risk levels. So if anything, depositing now is a lot less risky than it would have been a year ago, because we're calling back a lot of the risky loans, and you are now depositing into a loan book that is a lot less risky than it was. In fact, it's safer now because of what happened with three AC for you to deposit now. And it kind of made sense if you believe them, if you believe people are telling you the truth, it kind of made sense what he said, that, yes, they would be de risking the loan book. And so, in fact, you are now taking less risk than you did before."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. And so all of this occurred verbally?"
+    },
+    {
+        "speaker": "B",
+        "text": "Verbally, yes, by video call."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. And one other thing I wanted to point out was so for the audience, where possible, I have verified the information that I've gotten from Brandon and BJ. And obviously, there's certain things that it's just going to be as they're relaying their recollection of these calls. So I will, after recording code to TCG and Genesis and see what we can get back. So if there are little insertions of responses, then that's what we'll have. Otherwise, you know, there are just certain things where, like I said, it's just going to come from them."
+    },
+    {
+        "speaker": "C",
+        "text": "In fact, Laura, BJ had a lot of phone conversations. I did too. But 90% of my correspondence was via telegram. And that was because not only was I worked, I worked with the same individuals, but the chat continued to swell to probably 30, 35 different Genesis employees to service my account and my business because I was working with both the Genesis trading side of their business as well as the genesis lending side of their business. However, as the structure revealed, ultimately, Genesis trading and its employees were contracted under an operating agreement to do the business of Genesis lending. So the same people were wearing two different hats. So you didn't quite know exactly who you were talking to relative to Genesis trading or genesis lending, other than what product or service were you discussing? If I was going to write call out options on some of my bitcoin. And clearly I was talking to somebody representing trading, even though it was the same actual person."
+    },
+    {
+        "speaker": "A",
+        "text": "Like the same person would serve two different functions. One, to work with you on getting you to lend, and then also."
+    },
+    {
+        "speaker": "C",
+        "text": "That's exactly right. I had, like, an account manager that managed my account, and if I wanted to lend capital, then they would step up to the plate and start discussing all the current rates. If I wanted to make a trade and buy more bitcoin or sell bitcoin, it was the same individual, though the traders and whom have you were also present in the telegram chat. It was primarily just two or three individuals that were managing everything."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, let me tell you why that's important. Sorry, Laura. Let me tell you why that's important in the bigger context of what's happening now. When we logged into our accounts at Genesis Capital, we would log into Genesis trading. Now, the reason why this distinction or the lack of distinction is important is because Genesis capital is what's in bankruptcy right now. Genesis capital, the lending unit Genesis trading, belonged to DCG and Genesis trading was kept out of the bankruptcy by DCG. And what Brandon is saying is that they were really essentially the same company. There was really no distinction. They had the same office. The employees all shared the same sort of back roll, payroll processing. They were in the same place. We didn't think there was. So somebody like, rather, who dealt with both units didn't think there was any difference. I didn't really ever deal with the trading unit. Like I said, I didn't buy or sell bitcoin from them. But during the bankruptcy, this will become a critical issue because they allowed only Genesis capital to go into bankruptcy and they pulled Genesis trading out and said, that is controlled by DCD. That's a totally separate unit. But it wasn't practically and just."
+    },
+    {
+        "speaker": "A",
+        "text": "So for the purposes of the bankruptcy, how does that affect you?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, it affects us because Genesis trading was a profitable unit and it continued to be, at least for a while. And so that's where basically you can say the profits and the money was. So DCG, right before basically finally cutting the cord on Genesis capital tried to save for itself genesis trading and its business and basically just jettison all the creditors and say, well, you guys are on your own in the bankruptcy. You know, ideally, you would say it's the same company. If one unit was going to go bankrupt, the whole company should go bankrupt. But no, they tried to split off different units. So what Brandon is saying is that there was practically no difference between them. Same people, same employees. That's true. But it became a critical issue during the bankruptcy because DCG tried to say, no, Genesis trading is a completely separate unit. But it wasn't."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. A DCG spokesperson said that the special committee is in charge of Genesis restructuring along with third party advisors law firm Cleary, Gottlieb, Steen and Hamilton financial advisor Alvarez and Marcel and investment banker Moellis and company. She also said that DCG did not have any decision making authority over the decision to file for bankruptcy. Additionally, DCG said that Genesis trading had its own board of directors and didn't have a loan book and therefore didn't have significant liabilities that would make it a candidate for bankruptcy. Then she said, quote, this is more evidence of good corporate separateness. All right, so this is a lot of background but we need to get to the critical moment which is after Genesis paused the withdrawals for Gemini earned customers and they explained to their customers, you guys and the other customers, that there was just liquidity mismatch. Then the genesis customers or some portion of them formed what is now known as the ad hoc group. Explain what this is."
+    },
+    {
+        "speaker": "B",
+        "text": "All right. I mean, I can start. So here is what I believed, the line about the liquidity mismatch. I mean, I really believe that because it made sense. So all of a sudden all these Gemini aren't people want to withdraw 900. So we were trying to get an estimate on the amount, 900 million. So I called my rep, okay. And I had a pretty good relationship with them and I actually liked the people at Genesis. And I said, look, I have some bitcoin loans that are due in February. So like I said, I tended to stagger my loans. Some were three months, some were six, some were a year. And I said, I have some loans that are due in February. If it would help you guys, I'm willing to not get them back to let you basically reload it. If that would help you to basically use whatever money you were going to pay me to pay the armed people. So basically they can be paid off and then Genesis can continue. In addition to that, I said, I'm also willing to give you new loans. I'm willing to give you more bitcoin now, right? So that you guys can use my bitcoin to pay off the Gemini earned people, right. And when they're all paid off, you will just pay me back whenever the bitcoins that they loaned you, when those. When their terms expire. So. So they're saying we couldn't pay the Gemini armed people because we took their bitcoin. We gave them to people who were not going to pay us back for six months or a year. I said, well, fine, I'm willing to give you a new loan. I'll give you a new loans for six months or a year, whatever you guys need to help cover that. And now I couldn't by myself give them 900 million. So what he told me is there's a group of customers that feel the same way as you do. Here's the contact of them. Why don't you contact them and tell them that you want to help? Because they're trying to gather enough people who are able to, among themselves, basically fund a bailout for Genesis. If we among ourselves can collect $900 million of new funds, we could give that to Genesis. Genesis pay off the Arnie users, Genesis can continue and then we get our funds back in six months to a year I contacted them. They had me verify that I was a customer. We joined this group, the ad hoc group. And I remember in the telegram chat for it, I was like number 15 or so. There were already 15 people there. Slowly it began to grow, to grow. And when it got to about, I think in the mid thirties or, yeah, 39 or so, they announced that, hey, we have enough money now that we can actually bail out Genesis. I'm going to stop there and we can continue what happened next, but I'm going to let Brandon sort of tell his story, you know."
+    },
+    {
+        "speaker": "C",
+        "text": "Thanks. Very similar situation with the ad hoc group. I was very early, I think, in the formation of the ad hoc group. One of the fellow genesis creditors in the same sinking boat called and said, we're going to retain an attorney for the sole purpose of exploring how to avoid a Genesis bankruptcy, for better or worse. I know how terrible dealing with any company's bankruptcy is. As a creditor, it is just pure hell on earth every single step of the way and tremendously expensive. So for me, I thought the same thing. If truly this was a duration mismatch, all we need to do is provide enough capital to allow those that want to withdraw to withdraw. And I was in the same boat. I can wait. I can add more capital. I can contact other investors. It sounds like there could be a potential opportunity here to package a loan, restructure a loan, if you will, for a later payback, extend the duration and allow for those individuals that look for immediate liquidity, given the highly volatile landscape of the FTX implosion, the opportunity to take their money, crypto and leave. And that group continued to grow as the word spread. Yes, in fact, Genesis did specifically pass out the information for that group, the contact information for the law firm to get in touch and join them. I personally retained my own counsel, but also thought it was a good idea to be a part of the ad hoc group again, to hopefully avoid it. Now, at that time, there was a lot of frustration because it seemed to be we were the only people showing up to give a damn. And Barry wasn't answering the phone. DCG wasn't answering the phone. And it wasn't until, I believe, Cameron Winklevoss got on Twitter and called him out for his lack of. For him failing to answer the phone and try to work through a solution of sorts to keep the lights on at Genesis, as well as appease those customers that were looking for liquidity, looking to withdraw their crypto and or cash."
+    },
+    {
+        "speaker": "A",
+        "text": "A DCG spokesperson said, quote, this is patently false. She said that DCG was in frequent communication with Genesis and the ad hoc group, which resulted in the agreement in principle that was announced in February 2023. She also said the ad hoc group walked away from this deal."
+    },
+    {
+        "speaker": "B",
+        "text": "So think about this. You have a group of people that got together that called the CEO. Some of the people in our group knew the CEO personally, so they called him. They said, we want to help you. Here's a group of us that want to give you the money that you're missing. So let's get together. Let's see what you're missing. Show us basically your balance sheet. What is it exactly that's missing for the german Iron people? Like, in terms of the exact breakdown of all the cryptocurrencies, show us where these loans are that you, who you gave the loans out to and when they're coming back. Right. And let's solve this. Let's. Let's get this solved. We can do this in a week. And this is where the problem began. They began. They were ignoring the request for data. So you would think that when your own customers come to you with a request like that, your answer is absolutely. Here, let me show you how you can help us. The answer was, well, this is like, private, sensitive data. We cannot show you that. You have to get an attorney. I remember I was there before we got the attorney. They said, no. Genesis said, we have to get an attorney because they can only show the data to an attorney. They cannot show the data to you guys. And that sounded strange. And now, just to cut through the chase, the bottom line is that they were trying to hide the fact that it had nothing to do with the duration mismatch. Genesis had a hole in its balance sheet of 1.1 billion, which was never filled by DCG going back to June. And when these people tried to withdraw, the money just wasn't there. There was no loans out that were going to be coming due in six months to a year. And that's when we first began to get hints that there's a problem. And by the time Cameron released that first sort of public letter in January, I don't know whether Cameron even realized what was going on. We were just frustrated that we were getting no cooperation. But that was the first hint that there's a serious problem."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. And so we're going to talk about what it was that the New York attorney general alleges and what your group alleges, as well as this moment when Genesis finally filed for bankruptcy on January 19, 2023. But first, we'll take a quick word from the sponsors who make this show possible. Are you ready to dive into the future of crypto? Femex, a prominent exchange, is leading a hybrid exchange revolution with its groundbreaking Web 3.0 ecosystem of phymexia. Get ahead of the game and unleash your unique Web 3.0 identity. Head to Femex.com now to seize the benefits of early joiner campaigns and secure your stake in the future. Arbitrum stands at the forefront of innovation as the premier suite of layer two scaling solutions, bringing you lightning fast transactions at a fraction of the cost, all with security rooted on Ethereum. From defi to gaming, Arbitrum one plus Nova is home to over 500 projects, and with the recent launch of Orbitz, Arbitrum welcomes you to build your very own tailor made layer three or an orbit chain. Propel your project and community forward by visiting Arbitrum IO today. Popcorn just made defi way easier with Vaultcraft, your no code defi toolkit for building, deploying and monetizing automated yield strategies in a few clicks. Forget spending months of R and D and capital when you can instantly launch your crypto fund with Vaultcraft on any EVM chain. From wallets and institutional service providers to non DeFi degens, anyone can use Vaultcraft to supercharge their crypto portfolios with custom tailored cross chain yield strategies. Go to Vaultcraft IO and start building back to my conversation with Brandon and BJ. So, as we alluded to earlier, the next thing that happened was that Genesis filed for bankruptcy on January 19. So from your perspective, did you think that you had gathered $900 million in liquidity to offer to Gemini? Well, to Genesis, and therefore to Gemini. And so if that was the case, then why did they file for bankruptcy?"
+    },
+    {
+        "speaker": "B",
+        "text": "Without a doubt, we had. Without a doubt, and Cameron had."
+    },
+    {
+        "speaker": "A",
+        "text": "But had money actually been transferred, or."
+    },
+    {
+        "speaker": "B",
+        "text": "No, no, no, because there was no need to transfer. Once we found out that transferring $900 million to them was not going to make a difference if we transferred $900 million to them and they paid it to the Gemini armed customers, the idea was that Genesis had loans outstanding to somebody out there that then they were going to pay that money back and then we would get that. But there was a big hole. There were never loans out to anybody that was going to be coming back and repaying those loans. So when we found out that, in fact, it wasn't really a liquidity mismatch in the sense that it's not like Genesis had taken the cryptocurrency that the Gemini earned. People deposited, and they had loaned it out to other people that were then going to pay it back. They had used it to probably pay off people who had tried to withdraw. So if we gave them 900 million, yeah, they could have taken that money and given it to Jim and I earn, but we would never be able to get the $900 million back. So once we discovered there's a hole of 1.1 billion, we would be actually filling in the $1.1 billion hole that Barry was supposed to have filled in June of 2022. So the bottom line is that the hole that was created in the balance sheet in June of 2022 by the bankruptcy of three Arabs capital, so that Genesis was left with a hall of $1.1 billion was never filled. Never fill."
+    },
+    {
+        "speaker": "A",
+        "text": "So, okay, and how did you figure that out?"
+    },
+    {
+        "speaker": "B",
+        "text": "We figured that out."
+    },
+    {
+        "speaker": "A",
+        "text": "Cameron's tweet."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, eventually by DCG refusing to. Refusing to share the actual balance sheet, but basically showing. I don't know. I think they may have shown our lawyers the promissory note by that time. They never released it publicly. DCG guarded that until May of 2022."
+    },
+    {
+        "speaker": "A",
+        "text": "Quick correction, BJ misspoke here and meant to say May 2023."
+    },
+    {
+        "speaker": "B",
+        "text": "But rumors began to leak that, in fact, the way that the $1.1 billion hole was filled was that DCG gave them a piece of paper, a promissory note, that said that DCG will pay Genesis $1.1 billion in ten years in a lump sum payment at a rate of 1% interest that's also not due until ten years. So that was basically what filled the hole. And that's why you noticed the tone of Cameron began to get really angry as we began to discover that really, essentially, Genesis wasn't solvent. So there's no point in giving them any new money if we're not going to get it back. So the person that said that they filled the hole, basically, DCG, is now the one responsible for actually doing so. And, of course, they were refusing."
+    },
+    {
+        "speaker": "A",
+        "text": "Did it come as a shock to you when they filed for bankruptcy, or do you feel like you had kind of pieced together what was about to happen before then?"
+    },
+    {
+        "speaker": "B",
+        "text": "We. We knew before then that there was a hole there. And, in fact, what's even worse is that people like Cameron and Gemini and then the. The sort of leadership from our group. So Brandon and I are not in the leadership, but the leadership is called a steering committee. Members of that were actually meeting directly with DCG and Barry. So we kind of knew that there is a real hole there. He acknowledged that there was a hole there, and then we got stuck in terms of how much money should DCG put to fill that hole? Believe it or not, Barry was saying, that hole is worth $200 million. So all we can do, he said, is give you $200 million, and then we just cancel out the promissory note, and we've done our part. You know, and this is where, you know, you. You can begin to sense the anger from people in our group and from Cameron saying, no, you promised 1.1 billion. You promised that you had already given it, okay? Give 1.1 billion, and the problem will be fixed. And Barry was saying, well, technically, we promised 1.1 billion in ten years. That money today is only worth 200 million. We're like, technically, there's no technically about it. You went out and publicly told people. You filled the hall. You. And Laurel, who was the CEO of Genesis, publicly said, genesis balance sheet is strong. It hasn't been affected. You induced us to loan new bitcoin to you based on the fact that you stated that Genesis was. Was solvent because you have provided the $1.1 billion note. So provide it. Just provide the $1.1 billion note, and we'll be back to business again. And he refused."
+    },
+    {
+        "speaker": "A",
+        "text": "A DCG spokesperson says, quote, none of this is accurate. At most, this seems to be an explanation of what advisors have valued is the present value of the note, which is due in ten years."
+    },
+    {
+        "speaker": "C",
+        "text": "He said, if I could add a little color here, too, as well. It was strange that they didn't want to share any of their balance sheet or other information, because they were providing us with lending reports that we were supposed to be relying upon to make our lending decisions to Genesis. And lo and behold, those lending reports showed the stockholders equity at a positive 170 million. And how did it get to be a positive 170 million? And that was because this $1.1 billion promissory note provided by DCG to Genesis was carried at par value as a current asset. Current asset in accounting 101 is an asset that can be converted to cash within one year. And now we're trying to get to the bottom of where this capital is and how the hole can be filled. And that's where Barry is claiming. DCG and Barry are both claiming, quite frankly, look, you got to use the present value of that ten year promissory note and 1% interest rate to try to get some sort of discounted cash flow or present value on it, when it's like, wait a minute, you're using it. On one hand, Genesis is using the par value and current asset valuation, to claim it's worth 1.1 billion today, when that's just simply impossible. So that's where we discovered that the lending reports in the balance sheet were full of fraudulent numbers and none of it could be relied upon."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, some of the sheets that got sent showed that, like, in the calculation, to prove that they had $175 million, even after they were to kind of net all the different assets and liabilities included, this 1.1 billion."
+    },
+    {
+        "speaker": "B",
+        "text": "If in June, Barry had said, look, we're going to help Genesis by giving them 1.1 billion, and this is how we did it. We give them a promissory note that's doing ten years at 1% interest. Nobody. Nobody would have reloaned. I mean, we would have seen basically what happened. But what they did is they kept it secret. They guarded that, you know, DCG did not release publicly that promissory note until the. The final day when they had to put in a claim against Genesis. And that's when they released. That was in May, May of 2023 this year. May of 2023. So the story kept changing around the promissory note. So, on the one hand, Genesis was saying, it's worth 1.1 billion. Here we have it on our balance sheet as 1.1 billion. When we demand the payment from Barry for it, he said, oh, well, you can't expect us to pay 1.1 billion, uh, for that piece of paper. It's only worth 200 million. And we're like, but that's not what you said, you know?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And so, um, just to clarify, so you were saying that the steering committee heard this from Barry and then relate it to you?"
+    },
+    {
+        "speaker": "B",
+        "text": "Barry? Directly? Yes, very directly. The value we were arguing about the two."
+    },
+    {
+        "speaker": "A",
+        "text": "Wait, he. He directly related it to you or to the steering committee?"
+    },
+    {
+        "speaker": "B",
+        "text": "To the steering committee."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "The value that he was placing on it, it's not a secret. You know, this was publicly discussed among our groups, 200 million, 250 million, because we have a private group. So they would discuss with us, basically, what Barry is offering, and we're like, that's insane."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. And so one other piece of news that came out, also with the New York attorney general's lawsuit, was that Genesis actually was not over collateralized. At various times, it was between 60% to 90% collateralized. And, frankly, the higher times of collateralization were at the top of the market in the. Of 2021 and early winter of 2022. So, earlier, when Brandon said that when he was borrowing money, that he had to put up 120% collateral, I think what's interesting is that for customers like you, I guess, their individual investors, that you were required to over collateralize. But then, I guess for the bigger institutions, they could borrow at under collateralized rates."
+    },
+    {
+        "speaker": "C",
+        "text": "That's true. And take it a step further. The only entity that was able to borrow from Genesis posting zero collateral was the parent company, digital currency group. An argument can be made that DCG should have never borrowed from Genesis due to the huge conflict of interest that exists between a parent and a subsidiary. Now, Barry defaulted very publicly on over 500, almost 600, probably now over $600 million worth of loans that he had taken from Genesis back even before or right around the three errors, capital bankruptcy. So when he was about to announce that there was a huge hole in the Genesis balance sheet of 1.1 billion, he went and borrowed a ton of bitcoin and cash from it. Now it was due. He didn't pay it. He got an extension. No collateral posted. Genesis hands are tied. They can't liquidate. Genesis desperately needed the capital and the liquidity. Barry didn't pay. Come November, when this whole debacle is unfolding, FTX is failing. Genesis desperately needs his capital so it can meet the demand of the Gemini earned users withdrawal request. He doesn't pay again now come all the way to May 2023, and he still does not pay a loan denominated in both cash and bitcoin, and over well over half a billion dollars. But again, Genesis has no recourse because it doesn't have any collateral whatsoever. Not even just under collateralization, not a little bit of collateral, none to liquidate."
+    },
+    {
+        "speaker": "B",
+        "text": "And, you know, the executive to give credit to some of the executives at Genesis, if you. If you read the New York attorney general's complaint, it says in there, clearly that some of them pushed back. In other words, in June of 2022 or so, Genesis was in distress because of the collapse of \u20ac3 capital, which left it with a big hole on its balance sheet. So not only did they have to deal with that, but then a request comes from DCG that says, we cannot pay you the loans that we owe you. There were loans that were taken out in January and February of that year, 2022, that were due in six months. So basically in July. And DCG said, we cannot pay it. You have to repaper them and the executive agencies. We can't do that. We need that money. We need you to pay us that money. The order, then the next sort of communication you see is from him. It says that the CEO of DCG basically ordered him to extend those loans. And that was Mark Murphy at the time. So not only did Barry not help Genesis by giving it $1.1 billion to cover the three ac voltage, but Genesis was supposed to get loan payments from BCG that he then extended. He forced them to extend."
+    },
+    {
+        "speaker": "A",
+        "text": "A DCG spokesperson says, quote, certain DCG loans were extended to May 2023 maturity in connection with injecting capital into Genesis in November 2022. As part of a spirited and arms length negotiation, DCG has also extended loans, as well as forgiven loans in favor of Genesis in connection with transactions that occurred in November 2022."
+    },
+    {
+        "speaker": "B",
+        "text": "And then what Brandon is talking about is that they did even a third thing. They said, not only can we not pay you what we owe you, not only are we just going to give you a piece of paper, but we also want to borrow some bitcoin from you. 18,000 bitcoin that they withdrew from Genesis, and a loan that pays 3.8%. So that's the percentage rate that DCG was good. That's the interest rate that DCG was going to pay Genesis. And then a member of our group posted the lending table from that time of what Genesis was paying for people who deposited bitcoin, and it was 4%. So Genesis was paying 4% to customers, and yet lending bitcoin out to DCG at 3.8%, you would think it should be double, right? At least. So they were essentially losing money on those loans."
+    },
+    {
+        "speaker": "A",
+        "text": "A DCG spokesperson says this is false. She said that in June 2022, several prior bitcoin loans borrowed from Genesis by DCGI were consolidated into one master term sheet loan. At the same time, DCGI made a partial repayment to Genesis. She said the terms were not changed and the interest rate charged was the weighted average interest rate of the prior loans, and that this was not a new loan, just an administrative move. The only funds that were moved was DCGI partially repaying Genesis."
+    },
+    {
+        "speaker": "B",
+        "text": "And so those are the three things that DCG did. They extended at will loans that were due to Genesis. They would never be able to do that with any other counterparty. They would never have been able to do that if DCG had collateral. Genesis, because Dennis, Genesis would then liquidate the collateral. They took out new loans. No, they forced Genesis. See, this is the thing that we didn't know. There were people at Genesis who actually fought against these things, and they were overruled. They were just overruled. They were ordered to give them the new loans and to extend the loans that were due."
+    },
+    {
+        "speaker": "A",
+        "text": "A DCG spokesperson said, quote, this is false. All loans to DCG were made at arm's length at market interest rates. All right. Yeah. One other thing that I came across, or not came across, but I reached out to Kyle Davies and asked him a little bit about his relationship with Genesis. Three AC's relationship with Genesis. And he said that Genesis allowed three AC to borrow bitcoin by putting up GBTC as collateral at a one to one ratio. So even though there was a long stretch where GBTC traded at a discount, they were able to obtain one bitcoin for every GBTC they put up. So it was as if they could put up sort of the equivalent in value of 60 BTC and get out 100 BTC."
+    },
+    {
+        "speaker": "C",
+        "text": "That is unbelievable. That is true."
+    },
+    {
+        "speaker": "B",
+        "text": "Unbelievable. But not surprising, though."
+    },
+    {
+        "speaker": "C",
+        "text": "True. Wow."
+    },
+    {
+        "speaker": "B",
+        "text": "Or Luna, which is what destroyed them, you know? But the key thing about this, though, that what I find most interesting is that if you are. If you are Genesis, why would you accept GBTC? GBTC is a security. It doesn't trade on a blockchain. It doesn't trade 24/7 so if something happens to the price of the bitcoin that they borrowed, say, like on a Friday night, as what happened during May, and the price suddenly drops dramatically and continues to drop the next day, Saturday or Sunday, you're stuck. Cannot liquidate it. You cannot liquidate it until, like, the next Monday. So it's not a good collateral to use. Even if it were, you know, over collateralized, it's still not a good collateral to use to borrow bitcoin. I mean, it just absolutely doesn't make any, like, sound business risk analysis sense, you know?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah. I mean, clearly, if Genesis were not a subsidiary of DCD, probably that would not have been acceptable. I mean, we can only speculate, but it seems like a pretty fair assumption to make. So one follow up point is that Genesis did end up suing its parent company, DCG, in September, saying that DCG owes it $500 million, another roughly 4500 bitcoin. So clearly, a lot of what you're talking about has been borne out. Well, see, first of all, actually, we never explained. So in addition to ad hoc group, there's also the. The. Sorry, it's the UCC, but I'm just blanking on what that stands for."
+    },
+    {
+        "speaker": "B",
+        "text": "Unsecured creditors committee."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly right. Unsecured creditors committee. So, first of all, describe the difference between the two groups and then what it is that, you know, has happened with the negotiations with both."
+    },
+    {
+        "speaker": "B",
+        "text": "Sure. I'll do it briefly and then I'll let Brandon. Brandon has a lot more experience in bankruptcy process. So I'll just say that our group was formed before bankruptcy. So we're not an ad hoc group that was created after the bankruptcy to try to sort of advocate for our rights of the people in the group. We were created to try to save Genesis and then we kind of continued on after the bankruptcy. The UCC is something that's established in all bankruptcy cases as a committee to protect the rights of unsecured creditors. People that don't have collateral, basically when they. So when we gave our bitcoins to Genesis, they didn't give us anything back. So we're unsecured creditors because we're left with nothing. And so there's many people like us. And so the UCC actually represents us. So people in the ad hoc group are represented by the UCC and everybody else, like the Gemini Arn people and other customers of Genesis that are not in the ad hoc group are also represented by the UCC."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so Brandon, tell us the update."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, just, just to fill in two blanks, there is an ad hoc group is formed with a collective group of individuals that all share the same goal and mindset and purpose. They're fighting for their efforts and only their efforts, whatever that carved out chunk may be. Of everybody in the group. The UCC has a fiduciary responsibility. The ad hoc group does not. The UCC has a fiduciary responsibility to all unsecured creditors from the guy who has $100 in GUSD in Gemini earned, to the guy with $100 million worth of bitcoin that has it directly with Genesis. They're all under the purview and representation of the unsecured creditors committee with, and they have a fiduciary responsibility. So that is the biggest difference. The UCC is part of any and all bankruptcies. And that was another thing. There was a term sheet that was originally structured and finally released after Genesis declared bankruptcy. And once the bankruptcy process has been filed, once it started, there are certain mechanics that just have to occur, and one of them is the formation of the UCC and retaining counsel for the UCC. So a term sheet that was structured prior to filing for bankruptcy had a lot more optionality and what could be pursued and done to try to keep the company alive. But once you entertain the formal bankruptcy, there's expenses that are unavoidable and there's process and procedures that are unavoidable. So that basically threw that term sheet out the window just on the fact that there was another material change that had to be taken into consideration once Genesis finally filed for bankruptcy."
+    },
+    {
+        "speaker": "A",
+        "text": "And so as of this recording, which is Wednesday, October 25, the judge gave Genesis an extra two weeks to file its master plan. And I believe that your group, the ad hoc group at least, also asked the judge to allow you guys, the creditors, to propose their own plan. So what is the current status at this moment?"
+    },
+    {
+        "speaker": "C",
+        "text": "Like, what do you expect when there's a bankruptcy? The debtor in possession in this case is genesis. They have an exclusivity period, a period of time where they can try to sort out their own problems, which is, you know, an oxymoron, if you ask me. Here's a company that has failed for whatever reason, fraud or bad business decisions, now is given the latitude to try and solve the problem for its. Its creditors. And there's a set, you know, time, I don't know the exact number, escape soon, but I think it's 180 days, six months. They have exclusivity. Only their plan only. They are the only ones that can submit a solution, a plan of restructuring, to the judge for any consideration whatsoever. And once that runs up, once that time runs out, then they have to file a motion to extend that exclusivity so that they are the only ones that can remain in control to file a potential solution and they automatically get the first one. And they've asked again and again as everyone has come up and nothing has been accomplished. Most recently, everyone except the UCC has denied their motion, requested that the judge deny their motion to exclusivity. We want to take our future into our own hands and try to put forward our own solution to solve this, to get the hell out of bankruptcy. And, you know, Genesis is clinging on to that power. With Genesis in control and in the driver's seat, DCG has a, you know, a natural benefit to kind of quasi be in control of the driver's seat. So it's very important for us to get out of that exclusivity period so that we can start to pursue other alternatives and other solutions that the supermajority actually supports."
+    },
+    {
+        "speaker": "A",
+        "text": "DCG's response is that the company has zero control over Genesis. The special committee, Genesis advisors, the bankruptcy process. And Genesis is outside counsel, Cleary Gottlieb, adding that debtors in chapter eleven cases typically attempt to maintain exclusivity to run an efficient process."
+    },
+    {
+        "speaker": "C",
+        "text": "And I'll let BJ take it from there on. The specifics that are coming, what would."
+    },
+    {
+        "speaker": "A",
+        "text": "Be the plan that the majority would support?"
+    },
+    {
+        "speaker": "B",
+        "text": "Look, this is what I would say. So Genesis has been granted an extra two weeks until November 7. And as I told you before, my impression has been that the roadblock to reaching any kind of settlement. And I do believe that if DCG had been more open minded about the situation that it was in. And when I say DCG, it all really comes down to Barry. And from everything that I've heard, it's really Barry. And what I've heard, I mean, from people on this steer call that have been talking to DCG lawyers and accountants and advisors, nothing moved until Barry was involved directly, until they talked to Barry directly. So really, it's a company that is run by one man. And what I want to say is this. In June of 2022, not only Washington, Genesis in existential danger. DCG was also. DCG had loans due to Genesis that they could not pay, so they forced it to extend. Had Genesis gone bankrupt at that time, those loans would have been due. DCG had also taken out loans from a separate debt financing company called Eldridge. And unlike Genesis, Eldridge actually had liens on DCG, on all of DC. So if DCG had not been able to pay those Eldridge loans, Barry would have lost DCG, he would have lost this company, Grayscale, everything they had loans on, liens on everything. So what I would say is this. Look, Barry, you pulled this little trick with the 1.1 billion promissory note. You saved yourself by basically pretending Genesis was solvent and being able to extend those loans and being able to essentially kind of defraud us in the process. We gave you a chance before, during December and January, to negotiate in good faith to put this issue behind us, and he didn't believe it. He kept insisting that he did nothing wrong, that the $1.1 billion note is only worth 200 million. That is being more than fair. We told him that's not right. That's not the way that people are going to see it. This was fraud. He kept insisting that, no, I'm a nice guy. All I've ever done is try to help predators at Genesis. I tried to save Genesis. I think he actually believes that. He believes that. He tried to save. He tried to save himself. So he now has one final chance, one final two weeks to come to the table and make a fair settlement with people so that hopefully he can go now, not just before the judge, but before the New York attorney general, and say, look, we have done our best to reach a fair settlement with all the creditors, everybody. Gemini earned, the Genesis creditors, everybody. They're all in agreement. We've reached the deal. Please take this into consideration, you know, beg the New York attorney general for mercy, and he might have a chance to save his company. But if he continues to believe that he did nothing wrong, he's going to find himself in the same situation that Sam Bankman fried is in, which is he. He believes he did nothing wrong also, and look where he is. And he's probably going to be in a jail cell telling himself that he did nothing wrong."
+    },
+    {
+        "speaker": "A",
+        "text": "And a DCG spokesperson said this is completely false, that each subsidiary has its own independent corporate infrastructure with separate management operations, books and records, and maintaining arms length contractual negotiations. She also noted that DCG repaid Eldridge in 2023. Regarding the quote that Barry Silbert insists he did nothing wrong and may end up like Sam Bankman fried. The response was, quote, this quote doesn't make sense."
+    },
+    {
+        "speaker": "B",
+        "text": "So."
+    },
+    {
+        "speaker": "A",
+        "text": "But, so what is it that you would like to see from them?"
+    },
+    {
+        "speaker": "B",
+        "text": "I would like to see, or you."
+    },
+    {
+        "speaker": "A",
+        "text": "Said 80% or some majority support something. So what is that?"
+    },
+    {
+        "speaker": "B",
+        "text": "What is that? I would say that people want to have the $1.1 billion fraudulent promissory note paid at its face value of 1.1 billion. And people."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I'm assuming that DCG doesn't have that money, which is why they haven't."
+    },
+    {
+        "speaker": "B",
+        "text": "Done that, and we're happy to finance them. This is what we've been in discussion. They don't have to pay it all at once. We are happy to work out a deal where they can pay it over five years. They don't have to pay it all at once. See, this is, if you, if you get in your mind that, look, there was something that was done wrong here to people, I want to try to help you. So if I were Barry and I worked at them and say, look, this is what our company has. This is our income. These are our assets. We want to try to make this work. Here is everything that we have. This is the income that we get. This is what we have. Show us, how can we make a plausible sort of plan that everybody can be happy with. I think that there is a solution there, but it needs a mind frame shift from Barry. I was going to say from TCG, but TCG is Barry. It needs a frame of mind shift that says, I want to try to resolve this. Like, I really want to try to resolve this, because I really did. Now, I can see how maybe I did take advantage of people after reading the New York attorney general's complaint, I could see how people could see that there was fraud there. I didn't mean it, but I can see why? So let me try to resolve this. And if there were a frame of mind shift like that. There is a solution, Laura. There is. We know that he doesn't have the entire amount to pay immediately. We are willing to work out an appropriate sort of compromise, and the bitcoin people want to be paid in bitcoin. This is very critical. I need to emphasize this. If you loaned one bitcoin to Genesis, I want to get back one bitcoin. Why do I say that with such a. Why should that be emphasized? It should be emphasized because when Genesis filed for bankruptcy, the price of bitcoin was 21,000. So what Barry would like to think is to say, okay, I'm gonna pay you back your one bitcoin at the price that it was at when bankruptcy was fired file. So you borrowed, you. You lent us one bitcoin. Fine. Here's your $21,000. Well, if I get $21,000 today, I cannot buy one bitcoin with that $21,000. So we want to be paid in bitcoin. Now, that sounds like a crazy demand, but it isn't, because DCG earns income in bitcoin so they can carry liabilities to us on their balance sheet in bitcoin, and we're willing to be paid slowly. Actually, if he agrees to pay in bitcoin, I can tell you I personally don't mind waiting ten years to be paid, but I want to be paid the bitcoin that I loan, not $21,000 per bitcoin. And many creditors, I believe, bitcoin creditors fill, feel the exact same way. Same for ETH creditors and any other creditors that lend, you know, cryptocurrency. I think that they want to get back the cryptocurrency that they lent, because that's what we were promised in the loan agreement. So now let Brandon."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so, basically, it sounds like what the creditors want is for Barry to promise to pay back the $1.1 billion, just over a shorter timeframe, like five years, and to pay back any bitcoin in actual bitcoin."
+    },
+    {
+        "speaker": "B",
+        "text": "Absolutely."
+    },
+    {
+        "speaker": "A",
+        "text": "Brandon. Is there anything else you could sum it up into?"
+    },
+    {
+        "speaker": "C",
+        "text": "Full repayment in kind. Within five years is a great starting point, especially now that fraud has been added to the equation. Usually that results in a multiple, you know, punitive award from the courts. Quite frankly, I don't. I don't think any creditor is gunning for more than 100 cents on the dollar of what they're owed, but what they're owed is their one bitcoin. Back, not the value of it. What dollar creditors are owed is their dollar amount and in a timeframe that is reasonable, where payments are made quarterly, where if there is another bull market, it should be accelerated. Repayment should be accelerated. DCG Barry shouldn't be able to go out and borrow money and secure it ahead of us on the cap table. You start to get into all these other things, but the buyer bottom line is full repayment in kind within five years is my opinion, and only my opinion of where I think the supermajority would agree. And I don't think it's that much of a stretch to ask for our money back that he single handedly benefit."
+    },
+    {
+        "speaker": "B",
+        "text": "From and borrowed, especially if you take into account the future. I mean, from Barry's point of view, I mean, all roads were set for GBTC to convert to an ETF. Yes, that would reduce the fees, but at the same time it might massively increase the assets under management as more people sort of decide to use that vehicle. Since it's so well known and has been established for so long, he's got a road ahead to take the company into a better place. So why insist on basically dying on this hill that he doesn't feel that he committed any fraud? He's going to destroy DCG. He's going to destroy himself. It makes no sense. I honestly just. I don't understand what is what is behind the man's thinking. But like Brandon said, we just want to go back to basically the situation that we're in when we lent those funds. I don't want any more than what I put in, but I do want the actual bitcoin. And I can speak for ETH creditors. I only lend bitcoin, but the people who lent ETH and other cryptocurrencies feel the same way. So I don't see it as being such a huge ask, especially given the potential future sort of benefits that DCG and Barry personally will weep if he fixes this issue."
+    },
+    {
+        "speaker": "A",
+        "text": "A DCG spokesperson says that the New York AG civil lawsuit is without merit, that DCG and Silbert intend to vigorously defend against all its claims, and that neither DCG nor Barry Silbert committed any fraud. On Wednesday of this week, DCG hired Barry Burke to represent them in the lawsuit. As for whether the bankruptcy will pay people back one to one the bitcoin they are owed, DCG will not comment on how bankruptcy laws treat creditors claims. As for the comments about how payment should be made in five years and accelerated if there is another bull market, and how Berry shouldn't be able to borrow money and secure it ahead of those on the cap table. The spokesperson said, quote, in the deal, creditors just walked away from DCG agreed to pay nearly $1.2 billion over seven years with interest. It also agreed to creditors demands to redenominate the debt from entirely USD to a mix of USD, BTC and ETH. This gives creditors hundreds of millions of dollars of upside in the bull market, since DCG would have to repay a constant number of tokens which would have appreciated in value. To be clear, this was a creditor ask and a very significant DCG concession. BJ and Brandon say that once the New York AG's lawsuit came about, this proposal became moot because it seeks to prohibit DCG from doing business in New York, which means that it wouldn't be clear if the company would exist in seven years time. Okay, and there was also discussion, or I guess you proposed a term sheet or the ad hoc. One of the ad hoc proposed a term sheet to DCG that once a confirmation. Sorry. That you could also do what's called a no deal plan, which would put in place some kind of plan, but then also reserve the right for the creditors to later sue DCG or genesis. Is that still a possibility?"
+    },
+    {
+        "speaker": "C",
+        "text": "Basically, because there's been no progress thus far and the landscape has changed so materially as of late. The quote unquote debtor is claiming, quote unquote, that the reason that they have shifted years now is because of the New York attorney general's allegations result in Barry Morrow, Barry Silbert, Michael Morrow, Genesis, Gemini and DCG said not be able to do business in the state of New York. And if that's the case, Genesis is claiming that because of that, they're switching gears because they wouldn't be able to honor any of the debt covenants or any of the agreements put in place. If they're not allowed to do business in New York. I think that is far more detrimental to Barry Silver and DCG and the other named parties is not being able to do business in New York is far more damaging than just money. I mean, money can always be made and lost, but to tarnish your reputation so heartily that you're not able to do business and the financial capital of the world is extremely painful. So the deal that they put forward last night, they actually filed what is called the no deal plan. I haven't had the opportunity to comb through it. BJ might have had more of an opportunity to go through it, but ultimately it is choosing a path of kind of distributing the assets that are currently available at Genesis, demanding they repay the note that they've already defaulted on the amount is not in dispute. And pursuing litigation as a means to recouping the rest of what they owe. Again, I'll let you know."
+    },
+    {
+        "speaker": "A",
+        "text": "And I'm sorry. You said repaying the note they've defaulted on. You're talking about DCG?"
+    },
+    {
+        "speaker": "C",
+        "text": "DCG defaulted this past May 2023 on a note valued at 630 million. You mentioned it. You alluded to it 4500 or so. Bitcoin. Obviously, that number continues to go up in value as the price of bitcoin continues to go up. There's a dollar value associated with that as well. And as soon as they defaulted, we should have went after collecting that because that's just more recovery for creditors immediately."
+    },
+    {
+        "speaker": "A",
+        "text": "You mean Genesis should have."
+    },
+    {
+        "speaker": "C",
+        "text": "Genesis should have filed what's called a turnover agreement. But for, you know, whatever strategy was pursued, it was not done, and ultimately, it sits with a forbearance right now still. But we need to get that, that number paid back. It's not in an argument. There's no dispute over it. And then, of course, they're holding about 1.71.8, call it $2 billion in value right now in cash and cryptocurrencies. Plus that loan puts us at over a 50 cent recovery. And then the no deal, you go on to pursue other claims to recoup the rest, including fraud."
+    },
+    {
+        "speaker": "B",
+        "text": "So, basically, to summarize, Laura, what you said was accurate as of two days ago, that they were discussing some kind of a deal, no deal plan. As of last night, that's over. There is no deal or no deal. There is a no deal plan that's been filed unless Barry steps in to make a new deal between now and November 7. So otherwise, it's already been decided. Even Genesis now agrees that this is going to litigation. No deal means litigation. So that's the official plan that has been filed, is litigation. That's what's going to happen unless Barry, in these next two weeks, steps in to come up with a settlement that's fair to everybody, and then we can maybe step away from that litigation path. But the litigation path now has now been set as the standard."
+    },
+    {
+        "speaker": "A",
+        "text": "So a DCG spokesperson said they've made their best efforts and that litigation will result in significantly lower recovery for investors and that DCG will vigorously defend itself against litigation. All right. Okay. Well, as you said, clearly this is a moving story. This is obviously a saga that's been going on for quite a long time, and it has not actually really been possible to hear from Genesis creditors in quite a such a full way ever since it all started. So I thank you both so much for coming on unchanged."
+    },
+    {
+        "speaker": "B",
+        "text": "Thank you very much. Allure."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, we thank you as well. And if I could say just one last thing, it is extremely frustrating as a genesis creditor to read the Bloomberg publications and the Reuter publications and the other crypto publications telling the narrative that DCG, or very, excuse me, once told and never seeking out comment from the other side. So I truly commend you for all of the deep dives you've done in the crypto investigative crypto reporting. And, you know, now that I'm a part of one, I greatly appreciate the opportunity to at least share the other side of the story."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. And the standard line had been that this is just a simple accounting mistake that DCG made, it's not a big deal. And that, you know, this could easily be resolved by DCG when in fact, we have been saying there has been massive fraud that occurred and it put DCG itself and Barry personally at risk. And now Gemini has been dragged into this also. So I hope that this action by the New York attorney general will sort of open everybody's eyes and people will take it seriously because they have two weeks, basically, if they want to get out from potentially what could be a catastrophic path for these companies to come to the table and try to reach some kind of a reasonable settlement with all creditors."
+    },
+    {
+        "speaker": "A",
+        "text": "Wait, and I'm sorry, like, when was it that Genesis or DCG said that this was an accounting mistake?"
+    },
+    {
+        "speaker": "B",
+        "text": "The press, around the time, and if you remember, I showed you, there was a bitcoin conference last year, had an investor from DCG on it who gave a speech basically saying that he was an investor in DCG. He's very confident in the balance sheet of DCG and that this is a little minor issue, minor dispute with creditors that will be solved easily."
+    },
+    {
+        "speaker": "A",
+        "text": "And I'm sorry, he was a creditor."
+    },
+    {
+        "speaker": "B",
+        "text": "Of DC, was an investor in DC."
+    },
+    {
+        "speaker": "A",
+        "text": "Investor."
+    },
+    {
+        "speaker": "B",
+        "text": "An investor in DC. So I have a feeling that there are other investors in DCG that were not aware of the full story of what actually happened. And so hopefully by listening to the show, they will at least ask more questions or maybe even just go and directly read the New York attorney general's complaint and see that DCG is an existential risk. And Gemini is too, actually, and very personally and moral personally have been sued. And if they don't take this seriously, I don't know what they're thinking because I have a feeling that if they just ignore this, you're going to be going to Barry's trial at SDNY a year from now or two soon."
+    },
+    {
+        "speaker": "A",
+        "text": "A DCG spokesperson says that DCG properly accounted for the no for which it received advice from bankers, two law firms, Goodwin Proctor, which represented ECG and Sullivan and Cromwell, which represented DCG's board in an independent capacity, and Ernst and young from an accounting and tax perspective. DCG also says that the note was fully approved by DCG's board of directors. All right, well, we will have to see what happens. Thank you both so much for joining Unchained."
+    },
+    {
+        "speaker": "C",
+        "text": "Thank you."
+    },
+    {
+        "speaker": "A",
+        "text": "Thanks so much for joining us today. To learn more about everything that's happening with Genesis and its parent company, DCG, check out the show notes for this episode. Unchained is produced by me, Laura Shin, with help from Kevin Fuchs, Matt Pilchard, Juana Ranovich, Megan Davis Shashank and Margaret Courier. Thanks for listening. Join over 80 million people using crypto.com comma, one of the easiest places to buy, trade and spend over 250 cryptocurrencies. Spend your crypto anywhere using the crypto.com Visa card. Get up to 5% cash back instantly, plus 100% rebates for your Netflix and Spotify subscriptions and zero annual fees. Download the crypto.com app now and get $25 with the code Laura link in."
+    },
+    {
+        "speaker": "D",
+        "text": "The description hello and welcome to this week's crypto roundup. This week we wish a happy birthday to the bitcoin bitcoin white paper with bitcoins continued rally and Blackrock attracting top market makers to its potential ETF. Plus, the UK stepped closer to crypto regulations. Us regulators fought over a potential rule and much more. I'm Michael do Castillo, a Knight Bagehot fellow at Columbia University, and this is your weekly crypto recap. This week marked the 15th anniversary of the publication of Shytoshi Nakamoto's bitcoin white paper, and for fans of bitcoin, there was an extra reason to celebrate. Following on the number of promising developments regarding what is increasingly feeling like the imminent approval of a bitcoin ETF, the Federal Reserve left interest rates unchanged, fueling investors risk appetite. On Thursday, the price of bitcoin jumped 16% over the past ten days, doubling what it was a year ago and reaching a peak of $35,300. In fact, each of the top ten cryptocurrencies by market cap followed bitcoin up. That is, except for Dogecoin, one of the most likely contributing factors to bitcoin's rise is global asset manager BlackRock, widely seen as a leading candidate to receive approval for the first spot bitcoin ETF in the United States, which would make it easier for institutional investors to gain exposure to securities tied directly to the price of bitcoin. To give an idea of what impact such an approval might eventually have, a recent false report suggesting that BlackRock had already secured the permission was enough to trigger a 10% rally in bitcoin's price before it retreated to pre report numbers. Adding to the intrigue was a coindesk report that market making giants Jane street, virtue Financial jump trading and Hudson river trading have engaged in discussions with BlackRock about potentially providing liquidity for the ETF. Though unconfirmed, financial advisor Bernstein predicted that bitcoin could reach $150,000 by 2025 if those reports ended up being true, and if the SEC approved a bitcoin ETF early next year. In the analysts note, Bernstein estimated that as much as 10% of bitcoins circulating supply could shift into the exchange traded funds. But as we all know, crypto analysts have a long history of being hilariously wrong, so we'll hold out our enthusiasm on that for now. On Monday, the uk government unveiled its latest proposals for cryptocurrency regulations, which are expected to be implemented slowly over the next year. Additional controls on stablecoins, backed by more stable assets like the us dollar and euro, are set to be introduced early next year, followed by so called algorithmic stablecoins that maintain their price thanks to automated algorithms that control supply and other factors. According to the government update, these regulations will place such activities under the oversight of the Financial Conduct Authority, or FCA, and align with the government's previously announced goal of making the UK a cryptocurrency hub. Treasury Minister Andrew Griffin described his optimism about the changes on social media emphasize that the regulator aims to position the UK as an attractive destination for crypto assets. This follows on an update from the FCA earlier this month that included guidelines for cryptocurrency advertisers. The now clarified guidelines require firms that promote cryptocurrencies to include risk warnings to customers and provide evidence supporting their claims. In a much needed change, the guidelines require that creators of cryptocurrencies claiming to be backed by commodities must substantiate their backing with disclosures, independent audit and proof of deposit. The FCA also stressed that investors should do their own due diligence on the creators of the assets and the services they offer to protect themselves from fraudsters. The financial watchdog warned. Approved companies not to use their green light status to gain competitive advantages. Already, the newly registered UK subsidiary of payments giant PayPal is facing a number of restrictions. While existing customers can hold or sell previously approved assets, PayPal and others must receive separate permission from the FCA to onboard new clients in the UK or let existing clients transact in new assets. On Halloween, a little known but influential organization within the US Congress, known as the Government Accountability Office, criticized the SEC for mishandling its contentious crypto accounting guidance. Issued in 2022. The so called SAB 121 requires that financial firms holding customers crypto assets record them on their balance sheets as a liability, which requires a balancing asset. Since banks business model largely relies on lending out their users assets, republican politicians and crypto advocates have argued that the rule could prevent SEC regulated banks from offering crypto custody services. The government Accountability office argued that the SEC should have sent the staff accounting bulletin to Congress as an official rule rather than treating it as formal guidance. The GAO's claim didn't immediately change the status of SAB 121, but suggested Congress should take a closer look. There's now a December 31 deadline for lawmakers to decide whether they want to pass a resolution or invalidate the rule. Also on Halloween, the Commodity Futures Trading Commission released a statement saying it had paid out $16 million to whistleblowers this year, most of which implicated cryptocurrency companies. Tether, the issuer of the $84 billion USDT stablecoin, released its third quarter attestation, claiming $3.2 billion in excess reserves, slightly down from the previous quarter's $3.3 billion. To be clear, this is not a full audit. Rather, BDO Italia, an independent subsidiary of BDO, is the latest of a revolving door of firms claiming tether had funds on just one particular day, in this case September 30, 2023. It says nothing about what was there the day before or the day after. The report highlighted what it describes as the highest ever percentage of cash and cash equivalents, primarily consisting of us treasury bills, or t bills, believed to be among the most stable assets and used to help maintain the stablecoins peg to the US dollar. Similar to the so called risk free, long term US treasury bonds that contributed to the collapse of the Silicon Valley bank, T bills mature over a much shorter time, making them more liquid and easier to sell in a pinch. This is crucial if you're looking to get out of sticky situations. The report also indicated that t bills accounted for $72.6 billion of tethers reserves. While the assets may prove more stable than those previously backing the stablecoin. Multiple reports this month have shown concern over US Treasury Department plans to flood the market with $700 billion worth of new bills next year. Separately, the attestation claims that tether has $2 billion in secured loans in its reserves. That's in spite of last year claiming that it would eliminate those loans. This year that got pushed over again, it turns out to next year. So we'll have to wait and see if or when those loans ever go away. Three months ago, a little known self regulatory body called the National Futures association gave Coinbase the right to officially launch crypto futures trading. Of note, the F's in FTX stands for futures, and Binance and BitMex both rose to global power, trading the assets with uncertain or non existent regulatory permission. Coinbase is now also in the same business with regulatory permission. It's much needed good news for the struggling giant, which has lost three quarters of its market cap since going public in 2021 and which is now in a heated legal battle with the SEC, which claims the exchange is operating an unlicensed securities exchange. The futures contracts include options for so called nano sized exposure to bitcoin and ether, representing one 100th of a bitcoin and one 10th of an ether, respectively, which could make the assets more affordable to a wider range of retail investors. As the bear market continues to constrain investors in the crypto industry, Hong Kong based blockchain gaming company Animoca Brands managed to secure a $50 million investment through a partnership with Neom Investment Fund, the investment arm of the region in northwest Saudi Arabia dedicated to technology and innovation. This collaboration will focus on web three initiatives and the development of web three enterprise service capabilities to support technological advancements in Riyadh and the NEom region. NeoM coming from a portmanteau of the greek word for new and the arabic word for future, according to its website. Additionally, Animoca and Neom will establish a hub in the region to foster local web three projects, and that's all. Thanks so much for joining us today. Looking forward to chatting with you next week. Unchained is produced by Laura Shin with help from Kevin Fuchs, Matt Pilchard, Juan Aronovic, Megan Gavis Shawshank and Margaret Curia. This weekly recap was written by Brandi Betts and edited by myself Michael del Castillo. Thanks so much for listening. Have a good weekend."
+    },
+    {
+        "speaker": "A",
+        "text": "Unchained is now a part of the Coindesk podcast network. For the latest in digital assets, check out markets daily seven days a week with new host Noel Acheson follow the Coindesk podcast network for some of the best shows in crypto."
+    }
+]

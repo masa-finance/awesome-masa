@@ -1,0 +1,354 @@
+[
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless everybody get 30. 30 baby get 30 baby get 20. 2020 baby get 2020. Bid to get 15. 1515 just $15 a month, so give."
+    },
+    {
+        "speaker": "A",
+        "text": "It a try at Mint mobile.com switch."
+    },
+    {
+        "speaker": "C",
+        "text": "$45 upfront for three months, plus taxes and fees. Promoting for new customers for limited time unlimited, more than 40gb per month slows full terms at Mint mobile.com dot."
+    },
+    {
+        "speaker": "D",
+        "text": "Hey everyone, if you like this podcast, go behind the paywall to get privileged access to the smartest minds in finance. Join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off our essential membership for the first year. Now to the top analysis of today's crypto markets."
+    },
+    {
+        "speaker": "E",
+        "text": "Coinbase publishes its latest earnings report. A layer two blockchain surpasses Ethereum on transactions and why a massive sale of bored apes is potentially good news for nfts. Welcome to real vision crypto daily briefing. I'm Ash Bennington. I'm joined today by Mikhail Vandepapa. Welcome to the show, Mikhail."
+    },
+    {
+        "speaker": "F",
+        "text": "Thank you for having me, man."
+    },
+    {
+        "speaker": "E",
+        "text": "We're going to do a deep dive into Mikhail's technical analysis, including his working thesis that bitcoin could be the most undervalued it has been in recent years. But first, let's take a look at the market right now. We're seeing a bit of red today. The total market cap is down 2.7% on coin. Market cap bitcoin is down more than 3% on its 24 hours basis, but it's still up nearly 5% for the week. The current price is give or take. Call it to $23,800. Coindesk says bitcoin recently breached a rare golden cross. It's a bullish signal that occurs when the 50 day moving average for an asset crosses above the 200 day moving average. We'll obviously look into bitcoin a lot more with Macau very shortly. Meanwhile, ether is following bitcoin's lead today. It's trading at $1,600, more than 3% lower than at this time yesterday. One of the other tokens we're looking at right now is Tezos. The ticker symbol is XTZ. It's one of the best performers today. It's up despite 5%. Despite the wider downturn in crypto markets. That's after the news of Tezos foundation partnership with Google Block. The block says Google Cloud will become a validator on the Tezos blockchain. The aim is to speed up development of web three apps on Tezos. I guess that's good news for Tezos, but you have to suspect this is exactly the kind of centralization and concentration among Silicon Valley mega cap tech firms that bitcoiners worry about. Okay, viewers, join us in the conversation. Put down your questions in the chat wherever you're watching. We'll ask the best ones on air later in the show. Remember, real vision members take priority, but the good news is the membership is always free. With that said, let's bring in our guest. Mikhail van de Papa is the founder and CEO of trading company eight. Michael, before we get into your charts, let's look at some further crypto news. We've got the latest earnings for what is a bit of a crypto bellwether, a publicly traded crypto exchange. Of course we're talking about Coinbase revealed a loss of nearly $560 million in the final quarter of last year. That's compared to a profit of $840 million in the same period a year earlier. The company has suffered a loss in each quarter since 2022. CEO Brian Armstrong says there's been increased scrutiny from regulators. No surprise there after the fall of FTX. However, Armstrong says that this will benefit Coinbase in the long run after the company has proven to be resilient. Shares of Coinbase have been see sawing today. They're up more than 80% year to date, but remain down 66% for the last twelve months. So I guess that's cold comfort if you bought a year ago from Bloomberg, Coinbase experienced a 75% decline in revenue in Q 420. 22 trading volumes also declined while it was a beat on revenue numbers today relative to analyst estimates Q four, $629 million in revenue, was roughly a quarter. That's only 25% of the revenue generated in Q four of the prior year, which was $2.5 billion. So obviously a significant fall off in revenue. Mikhail, any thoughts on the Coinbase stock as an investment?"
+    },
+    {
+        "speaker": "F",
+        "text": "I think the numbers are nothing new. I mean, crypto has been enduring the worst quarter in the past five to six years, so seeing this loss on the market is nothing new for anything related to crypto. I guess if you wait for two months, you'll probably see profitable numbers again for Coinbase as the volumes are just kicking in due to the rally lately. I think that if you don't want to have crypto specific, but if you want to have allocations or you want to have it in your portfolio, Coinbase and the mining stocks are pretty much the easiest ones to have a relatively regulatory gateway into crypto overall. So I think that Coinbase wasn't too lucky by going live and having the current outlook of the trade off the price itself. But I think that if you want to believe or expect crypto to do well, Coinbase is the easiest option to join us in investment thesis."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, you know, it's interesting. I sometimes see when there's volatility in the market, for example, on some news flow that's moving things that you often see Coinbase stock moving more than bitcoin and ethereum, almost as though folks are using it as a proxy for the underlying coins. Maybe because they have issues with custody issues on the institutional side."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah. I mean, for big parties and some institutions, they can't trade bitcoin directly, so they are waiting for something that has volume, or an ETF, for instance. And then they probably jump onto stocks like micro strategy or Coinbase. These two often are multiplier of the bitcoin movements itself. So for now, we probably have this. And that's why if you don't want to have bitcoin alone and have it on a ledger or any centralized party, because you don't believe in any centralized party within the crypto ecosystem, then Coinbase or microstrategy or the mining stocks are a solution for yourself."
+    },
+    {
+        "speaker": "E",
+        "text": "I mentioned this earlier and alluded to this idea of centralization when we're talking about tezos. What's your take, by the way, if you have one on Google Cloud becoming a validator for tezos, good news or bad news?"
+    },
+    {
+        "speaker": "F",
+        "text": "I mean, it's good news that the big companies, the big tech companies are jumping into crypto. However, if I hear this news, it feels like we are back into the 2017 cycle where every crypto platform was saying, hey, we partnered with Visa, so."
+    },
+    {
+        "speaker": "E",
+        "text": "I was there for that. I remember it well."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah. So I think ultimately it is about what the actual partnership consists of. So it's good that Google is looking into it, but probably it's just these was linking it to Google Cloud instead of Google itself just doing anything. So always be relatively conservative when it comes to these partnerships. But the big tech companies are looking into it, which is fundamentally strong for the markets."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, it certainly seems like it's a bullish signal in terms of adoption and acceptance, particularly for a us corporation that's obviously heavily regulated. They feel comfortable wading into. I guess that's a positive sign. I probably shouldn't be so cynical about centralization."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, well, let's just not go into the discussion of centralization decentralization. I think that we could be having show 4 hours when we do that."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, we got some news flow to get to here. Here's a good story about layer two blockchain solutions. Coindesk reports Arbitran, the layer two scaling network for Ethereum, surpassed Ethereum on the number of daily transactions yesterday. According to data from Arbiscan cited by Coindesk, transactions on arbitrum have jumped by nearly 600% since the start of this year. That compares to just a 50% increase for Ethereum. Coindesk says arbitrum is the fourth largest blockchain in terms of total value locked. TvL measures the total value of all assets locked in the DeFi protocol. Also, the number of unique addresses on the arbitrum network has reached an all time high. One final point. Coindesk speculates that one reason for the increased volume, maybe, maybe the expectation of an arbitrum token drop despite no announcement from the protocol. Obviously, we're going to keep you posted on that front. Any thoughts on this story specifically and the wider layer two space?"
+    },
+    {
+        "speaker": "F",
+        "text": "I think that the layer two space is essential for the crypto markets and blockchain ecosystems. I think that the swap from proof of work to proof of stake for Ethereum is strong. However, Ethereum is a layer one. We always will be needing layer two solutions to make the actual ecosystem work. So that's great. But when we are looking at the current hype around arbitram, I think you should stay away. Everybody is jumping onto the airdrop and expecting it. Hence why we see the entire hype surrounding the project. Whether it's going to be fundamentally great is still unknown. It's relatively new, and therefore I think that it's great that the landscape is getting broader so more parties are joining the entire ecosystem. But I would not be going into arbitrum at this stage."
+    },
+    {
+        "speaker": "E",
+        "text": "Let me just give a little bit more context around this, because I think it's important to put these numbers into some, into some framework for folks to understand. When you talk about the 600% rise relative to a 50% increase in Ethereum in terms of transaction count, this is directly a quote from Coindesk. Quote at press time, ethereum's one day fees stand at 6.7 million, while Arbitram's one day fees sit at roughly 154,000, which is less than 2.3% of Ethereum's network fees for the day according to crypto fees. Dot in Fo. This is obviously an important point here. It's not a surprise. Obviously, the whole point of layer two scaling solutions is transaction volume and cost. So it's not a surprise that it's significantly cheaper to do transactions on the layer two rather than the layer one. That's the whole purpose, after all. However, it is important to point out that the fees here are relatively small, only $154,000.02.3%. So it does give you some sense. It's kind of a low base effect when you see the transaction increase relative to the actual revenue generated by those transactions. Just an important thing, I think, for context for people to understand. Mikhail, did you want to weigh in on that?"
+    },
+    {
+        "speaker": "F",
+        "text": "No, I agree. I mean, if there is a solution bringing speed, but also a reducing the transaction fees, then of course everybody will be using it. However, many blockchains have been trying it in the past years as well. Matic has been trying it. Avalanche has been trying it. Cosmos has been trying it. However, once they get up the hill or up the scope of those transactions, so they get more transactions on the ecosystem or on the platform itself, all the fees will rally up. So everybody will face the exact same problem. Ultimately, there will be a solution, that the fees will be reduced and it's accessible for everyone. Hence why ethereum has been swapping from proof of work to proof of stake. But ultimately it comes down to the speed, which is also an issue for Ethereum, when the fees are going to go up because it takes longer to process if that is going to be stable and the fees are going to be lower. Yeah, I mean, it's going to be productive for everything within the crypto ecosystem."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. So you've got some additional stories here talking about the broader crypto ecosystem. From the world of NFTs decrypt reports, sports betting company Draftkings has signed up a deal with a PGA Tour, excuse me, with a PGA Tour to launch a web, three fantasy golf game players will be able to trade rainmakers PGA digital cards from March, the cards will be minted and sold on the Polygon blockchain. Users will be able to compete for cash prizes worth millions of dollars. Staying with this theme of NFTs, a massive auction is making rounds on crypto, Twitter, OSF and Mando. Two NFT collectors put up more than 70 board, excuse me, board eights on the blur marketplace that we talked about yesterday here on the show. NFT news outlet NFT now says they sold the aids for more than $9 million. Notably, the outlet says the floor price for board Ape Yacht Club has not moved much in the wake of the news. The collectors say they've decided to take advantage of improved liquidity in the NFT market. Any thoughts on nfts? Michael, is a space you look at as a trader."
+    },
+    {
+        "speaker": "F",
+        "text": "I look at it from an investment perspective because I believe that the entire, a vision of the nfts and also the technical background of what an NFT could consist of is going to be massive. It's going to be the next layer when it comes to Defi. It can be big in every market, especially real estate, but also in what we see, sports. So right now you can see those cards in which you can trade with them, but the next level will be that players that are in the amateur state or need sponsorships are going to start an NFT to actually get sponsors for themselves, which can benefit from all the winnings they have. Because if you recall, when you're a golf player, there's a small group of people that is doing really well who are on the PTA too, but there's a big group we need there that struggles to get sponsors. So I think in that stage, many sports players will start to use nfts to actually crowdfund their own sponsorships. So I think that the NFT technology itself is just getting there. And we will be seeing it way more in the coming five to ten years on all aspects, including Defi. And as I said, also real estate."
+    },
+    {
+        "speaker": "E",
+        "text": "Hey, everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back."
+    },
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless everybody get 30? 30, baby, get 30. Bid to get 20. 2020 1515 just $15 a month, so."
+    },
+    {
+        "speaker": "A",
+        "text": "Give it a try@mintmobile.com."
+    },
+    {
+        "speaker": "C",
+        "text": "Switch $45 up front for three months, plus taxes and fees. Promoting for new customers for limited time unlimited. More than 40gb per month slows full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, it's interesting. In 2023, I feel like if you mentioned in conversation at a cocktail party the phrase NFT, what people think about is profile pics. That's the common understanding of what nfts are. But we've talked here on this show and elsewhere on real vision about how nfts really are just beginning to gain purchase, really just beginning to be defined in terms of what their potential functionality is. I think you make some really important points there about what the future of nfts may look like more broadly outside of the simply the profile pic use case."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, I mean, profile pictures are, they have something in there. I mean, it's showing to the entire world what an NFT could be. But most of the PFP pictures or projects are the same as icos in 2017 and 2018. They are garbage. There's no fundamental layer. They are cash grabs for the founders of the actual projects. And then that's the only figure people have been seeing when it comes to nfts, and they will not understand that there are so many other layers they could use when it comes to them. So profile pictures show it to the entire world, and out of that comes a big group of people, especially artists or painters or sports players. Those groups or gamers are the ones that are jumping into it, and they will be producing the next hype which we probably will be seeing within the next few years. And also, I mentioned a few times that real estate is a big one, but it's going to open the gates towards probably everyone investing into real estate, but also making it more accessible to do it abroad. So I think that especially it will be discussed way more. But people only recognize the BFP pictures because they've only seen that. It's the same with a mobile phone. If you asked in 1995, people were understanding what a mobile phone could be. They said, I don't need one. But then ten years later, everybody is using it. So always after the fact, people start to understand why it's important. Yeah."
+    },
+    {
+        "speaker": "E",
+        "text": "By the way, speaking to precisely those points, we want to show a clip from our co founder Raoul pal. Earlier this week, we released a special video on the real Vision website. You can access it@realvision.com. crypto. That's realvision.com crypto. It's Ralph's entire NFt thesis distilled into a single video. Incredibly valuable content, of course, for free on real vision. Here's the snippet."
+    },
+    {
+        "speaker": "G",
+        "text": "You see, NFTs are something that really taken my attention in the last year as I've started to understand the power of what they are and what they can do. We've got the protocol layer, which is the layer ones, the bitcoin, the Ethereums, the Solanas, the polygons and all of these others. And they're amazing. And they facilitate the technology for the transfer of value for the Internet at large and for the new digital age. And it's an incredibly important technology, not only for money, but of all digital value and digital scarcity. You see, in a digital world, you can produce infinite amounts of something, infinite amounts of jpegs, infinite amounts of information. So how do you create scarcity in a digital world? Well, that's what blockchains do. They create the ability to have scarcity in a digital world, and therefore have value. So humans value things based on scarcity. And so you need that if not, nothing in a digital world has any value at all. Okay, so that's what blockchains did. But the big breakthrough was Vitalik's breakthrough with Ethereum, which was the smart contract. And the smart contract is what created nfTs."
+    },
+    {
+        "speaker": "E",
+        "text": "Some really interesting points from Raoul there on this idea of scarcity value. I think in some ways you can think of this as analogous to the fine art world, where you read painting sells for $100 million. And I think a lot of us who aren't in the art business shake our heads or scratch our heads, maybe trying to get our heads around this. Uh, Mikhail, any thoughts on what you've just heard from Raoul there?"
+    },
+    {
+        "speaker": "F",
+        "text": "Well, I can't agree more. I just try to explain something like that as well. But I think people underestimate the power of the NFT technology and what it could do in our entire life, which is not only what he mentioned in scarcity, but it's also essentially you yourself. You are an NFT. And then we get into the Ssid stuff. But I think you are an NFT, and you can use it way more in your life to make yourself valuable, because everything you do is valuable. And if you can put an NFT on it, you can actually swap it towards other things and create value in total. So I think I can't agree more than what he said."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay, so onto the crux of the interview now. We'd like to take a look at your charts, Mikhail, kick us off. Tell us what we're looking at."
+    },
+    {
+        "speaker": "F",
+        "text": "Well, the overall question is right now, whether we are seeing bitcoin being at the bottom, or what value we can give to bitcoin, as everybody is saying, or at least a large group of people is saying currently that we are still into a downtrending market, we are still into a bear market. The question is, are we going to find a new bottom, or are we going to, or are we bottomed out? What we see on the chart is a technical aspect, which means that we are hitting the 200 week ma. This is a moving average, which is often used in stocks as well. We have been moving beneath it for the first time since bitcoin existed. And the reason why we have been dropping beneath it is the fact that we have had intrinsic market shocks. Luna has crashed and collapsed. We have seen three ac collapsing. We've seen celsius collapsing. We've also been seeing FTX collapse. And that's the actual final red candle we see in November 2022, where bitcoin dropped to 15.6k. After that, also a part of DCG went bankrupt. But we started to rally towards the level we've currently seen, which is 25k, which is approximately 60% higher. I think that if we saw all those intrinsic shocks already, and crypto has been going through them, and we are currently up by 60% already, you could argument that we go down again because of the macro thesis, etcetera. But the macro thesis can also just stabilize and just start hitting in five, six months from now if there is going to be a recession out of the interest rate hikes we have been seeing the last year, and in between, we still have a large portion to gap up to what these stocks have been doing. Because if FTX didn't collapse to 15k, we probably would have been trending way higher already if we didn't have those intrinsic market shocks. So what the chart shows is that we are currently rejecting at the 200 week ma, we're stabilizing a little bit. After the chart was produced, we have been dropping a bit more. But ultimately the conclusion can be drawn that either we are into a bottoming process, or most likely we have seen that already, which means that there's a large amount of upside potential in the markets and a relatively low downside risk given what we have been experiencing 2022. However, what you see on social media in terms of sentiment, that is because people have been experiencing the past year, and out of that experience, they expect the exact same as the experience they have been having in the past year. Which means that turning around a sentiment or a mindset always takes some time before people start to jump into the bandwagon of crypto. And usually when that starts to flip, it's a temporary top. But at this point, I think we get into a conclusion that bitcoin is getting into. Great investment thesis again."
+    },
+    {
+        "speaker": "E",
+        "text": "So you mentioned the macro thesis. A big picture. What is the macro thesis, and what's your time horizon there? I know there's been some talk recently about this idea of the terminal rate rising to five and a quarter percent, ten year yields rising right now here in the US. Obviously, there's a sort of a framework here in terms of this thesis around central bank policy, central bank ultra accommodative monetary policy being withdrawn now in the wake of this rising inflationary threat that we see globally. What is the broad macro thesis and what time horizon are you looking at it over?"
+    },
+    {
+        "speaker": "F",
+        "text": "I think we are on the edge of having a relatively substantial recession. I mean, the fact that we have been getting those interest rate hikes the past year have been the fastest and the most heaviest we've seen probably ever. I guess we have been going from 0.25% to 5% almost in not even a year. And the effect of debt policy will take some time to actually get into the markets. If I look at the real estate markets in the Netherlands, housing prices are falling by 15% to 20% within six months. So the actual shock in the real estate markets, which we know of 2008, takes some time to develop, usually between six to twelve months after the policy has been finished, which means that right now we are seeing relatively good numbers and we could be having a soft landing. But if we are going to have a significant recession, it's going to start off in the second quarter of the second half of this year. And therefore it could push the risk on assets, including indices, including bitcoin, down again, because people are just going to be selling off their positions, swapping back towards the dollar as a liquidity opportunity at this point. All right, let's take a look. Go ahead."
+    },
+    {
+        "speaker": "E",
+        "text": "No, please, go ahead. Finish."
+    },
+    {
+        "speaker": "F",
+        "text": "I mean, the second option is that they are delaying. The impact will be delayed, and then it takes probably two to four years more before the impact will take place. And that's where we are standing. And then we can have one more bull cycle. But it seems almost impossible if you have been having these impacts and shocks on the markets when it comes to interest rates."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I think that's very well said. Okay, let's move on to the next chart."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, so the next chart in itself, I need to see it on my screen as well, so then I can comment. What we see here is recently we've had the hype around Hong Kong opening up its doors for retail clients to jump into the crypto markets, which is now getting fueled. And people are saying, hey, we're going to get a run of the crypto markets based on China alone. So the US, the correlation with the US, we can just push it away. It doesn't matter at all. And it's going to be China. I think it's nonsense. And this chart itself has one period of negative correlation, which you can see in the blue colors at the bottom, which was the period where FTX collapsed. And what I just mentioned is that if FTX didn't collapse, we will probably be trending higher as since November we started to rally up when it comes to risk on assets. Right now we are swapping against what's a relatively short period of negative correlation. But that was just due to the fact that the banks were on holiday in the past four days, which means that therefore the markets can just start trending. And after we've opened up yesterday, indices are down, bitcoin is down. So the correlation is still there. So I just wanted to show this chart to say that recently we've got back into hype topics on crypto. We've had. Aih, right. Now we have got the China topic, which is pushing some specific altcoins like CFX or high or NIO, which are the older altcoins in the chinese ecosystem. They are rallying. But the entire thesis of the markets substantially going up on China alone is complete nonsense, and probably we'll be seeing that even more. As you can see on the chart itself, the past year we've had a very high correlation with the us indices."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay, let's take a look at chart three. Walk us through both of these axes here. What we're seeing on the yellow line as well as on the candlestick chart."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, what I'm showing here is two different perspectives, which is the candlesticks itself is the price of bitcoin. The yellow line is the dollar currency index DXY. So what we see here is that when the DXY starts to rally up, when the yields start to rally up, it's usually a risk off period, which means that during 2022, we've had a period of risk of indices dropping. We've also seen crypto falling behind quite heavily. But then when the big red candle took place in November 20 of 2022, there was actually the period where the DXY started to drop, where yields started to drop, there became some sort of fairy tale that the Fed started to fast the hiking process and maybe even pivot. And out of there we started to see the rally of the indices in the US. But what we see on the chart, we saw that crypto started to drop and fall behind. And now we are finally pacing up, which means that there's still some momentum to get back to us, the levels we should be. And therefore it's fueling the thesis that probably bitcoin would have been at 35 to 40k, maybe even if we didn't have those intrinsic shocks in terms of FTX, which was relatively large. One."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. Okay, chart four. What are we looking at here?"
+    },
+    {
+        "speaker": "F",
+        "text": "Chart four. I need to see it first before I can comment. There we go. I think there's another conclusion or discussion we can make, which is, are we focused on bitcoin charts alone or should we be looking at the total market cap? I think that people are too much focused on bitcoin alone because the entire crypto system becomes larger. We just discussed arbitram, we discussed nfts. The ecosystem becomes wider, broader, and therefore the dominance of bitcoin is going to drop substantially. And therefore, you have to look at the total market cap, which is making a beautiful chart when it comes to technicals. Retest of the all time high in 2017 didn't drop beneath. We did lose the 200 week I made, but we didn't drop beneath the all time high of 2017, which ultimately fuels a case of a potential bottom."
+    },
+    {
+        "speaker": "E",
+        "text": "So, just to clarify, Mikhail, what we're looking at here, the red green candlestick chart is total crypto market cap, and the light blue line is the 200 day moving average. Is that right?"
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, that's correct. That's the 200 week ma. And on top you see the RSI, but I'm not much using it, aside from the fact that you can see a technical aspect there, which is a bullish divergence. I'm not jumping into that. But the most important part you can see on the chart is the horizontal black line, which has been retesting on the left, which is the top of the previous bull cycle in 2017. And right now, we have been landing on that actual level and found ourselves a bottom over there, which is only fueling the case that we are actually bottoming out at this point. And I think this chart is more important to focus on and that we are focusing on bitcoin alone. It gives you a broader perspective on the entire markets."
+    },
+    {
+        "speaker": "E",
+        "text": "Hey, everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real Vision crypto daily briefing."
+    },
+    {
+        "speaker": "H",
+        "text": "This podcast is sponsored by Ramp. Are you the decision maker in your company? Consider this. For the first time in decades, there's a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your company's spending and control who spends what. With each vendor, Ramp's software collects and verifies receipts instantly to save your team valuable time. Ramp automates data entry and routine tasks with automated approvals, expense categorization, and bill payments. Time consuming tasks, which means youll stop wasteful spending and close your books in hours instead of days. Businesses that use ramp add up to 5% to their bottom line the first year. If youre a decision maker, adding ramp could be one of the best decisions youve ever made. Get dollar 250 when you join ramp for free. Just go to ramp.com easy, ramp.com easy rmp.com easy cards issued by Sutton bank."
+    },
+    {
+        "speaker": "F",
+        "text": "And celtic bank members have DIC terms and conditions apply."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay, next chart."
+    },
+    {
+        "speaker": "F",
+        "text": "I think it's the overall altcoin perspective. I think this is just a completion or in addition to the previous chart, again, you can see the candlesticks, which is the altcoin market cap. So it's everything excluded bitcoin. The blue line is the 200 week ma. Again, what you see here is that the altcoin market cap didn't drop beneath the all time high of 2017 as well, and therefore it's suiting a case that we are currently bottoming out or have been bottoming out, as usually the previous high becomes support in the next cycle. And therefore we have also been reclaiming the tuna we can made. And if we start to crack through the upper black horizontal line, it seems very reasonable to have a large rally again towards 1 trillion. But at least the most important part is the fact that hitting the previous all time high is usually a confirmation of a bottom. And in this case, we have been testing it multiple times, resulting into a potential bottom."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay, I think the next chart is eth versus bitcoin."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, I mean, ETH against bitcoin in itself is looking like it wants to go down, which means that bitcoin dominance goes up, while other altcoins are doing relatively well at this point. So theres some sort of argument that the bitcoin dominance goes up. So we get the exact same cycles, 2019, where bitcoin rallied alone. The fact that Eid against bitcoin is currently consolidating is due to the fact that weve been getting the swap from proof of work to proof of stake. And therefore, after such a big event, hype takes place, you can see the red line, which is vertical, which was the exact moment that the entire swap to proof of stake took place. Prior to the event, price starts to rally up because people are hyped. Right after the event, the price starts to crack down because the hype goes away and it goes back to its median."
+    },
+    {
+        "speaker": "E",
+        "text": "In this case, Monday the 12 September."
+    },
+    {
+        "speaker": "F",
+        "text": "2022 yeah, that was the actual week off the swap. From proof of work to proof of stake, that was actually also the high during that period."
+    },
+    {
+        "speaker": "E",
+        "text": "And what's the horizontal line represent there?"
+    },
+    {
+        "speaker": "F",
+        "text": "That's potentially a level where we're going to go to if we correct even more, which gets, gives you into a very complex situation that the dominance chart goes up either against bitcoin goes down and other altcoins are starting to rally quite substantially. So then you get into a different thesis of okay, where am I going to put my money in? Or is ethereum just not the right moment to invest in at this point? So bitcoin will outperform Ethereum, which is likely, as Ethereum has been outperforming bitcoin in the past year due to the swap. From proof of work to proof of stake, what you should be doing is you should be looking at the total market cap as we just discussed that chart. And you shouldnt be focused on bitcoin dominance alone because bitcoin dominance is like 50% based from Ethereum, which is the same with DXY and euro USD pair. These two are very correlated with each other and doesnt give the ultimate overview overall."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay, let's take a look at this next chart, which I think may require a little bit of explanation. This is bitcoin relative long term holder realized loss to exchanges. It's an interesting looking chart. Explain to us what we're looking at here visually."
+    },
+    {
+        "speaker": "F",
+        "text": "So what we see here is the black line, which is the price. And what we see with the blue color, I'll just call it that way, is the long term holders realized loss. And what we see here is that during previous periods of accumulation of bear markets, the realized loss goes up substantially, which is of course quite simple, as in during periods that the price starts to fall, the losses are going to be significant. Well, what we can see here is that we're reaching levels which are comparable to the previous one in 2015 and 2018. That doesn't mean that we're currently into a case of, of the actual bottom. I mean, we also see in the previous examples and you can see on the left the 2015 one, we have been testing the low multiple times in 2019. We have also been consolidating between three to 4k, which means that the realized loss has been quite high for a period of time."
+    },
+    {
+        "speaker": "E",
+        "text": "Just so I'm sure I understand this. So what you're looking at here on the right hand axis is the log scale price of bitcoin."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, the black line is the price of bitcoin. You can see the combination between the loss during a certain price level and the price of bitcoin."
+    },
+    {
+        "speaker": "E",
+        "text": "So that semi log y axis, meaning equal changes in distance, represent equal percentage changes in price. And then the blue is the loss. So in a sense, it's kind of flipped sort of times negative one if you're looking at this. In other words, when you see the 40% level, that's a 40% loss. It's actually below the origin, is that."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah. And the next big thing you should be getting out of this is that when this the blue color, so the realized loss starts to exceed quite high numbers, you don't really need to look at anything else except for the fact that it's a great investment opportunity because."
+    },
+    {
+        "speaker": "E",
+        "text": "Theres a very steep drop off in the loss number, meaning it looks like its almost baseline recovery on a long enough time horizon. In fact, relatively quickly after you attain that peak, based on the prior two cycles, you see this really precipitous drop down near to the zero origin, which basically means that its coming back to a breakeven. And I guess what were not showing here is the gain, which is the flip side. When it flips to the opposite side of the origin, it just appears as a flat line here."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, you can also use that one. I mean, if you swap that and you use the realized gain, you probably see exceeding numbers during peak high bull cycle. So the data you can get out of that is that when realized losses reaching numbers not seen before, it's usually a great investment piece. And when realized gain goes up to numbers we have not seen before, it's usually time to not jump into the markets. But apparently retail doesn't understand that concept."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, its a really fascinating chart and conveys some really interesting information. Okay, lets flip over to the next chart. This is old supply, last active six months."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, the old supply, which is, its a little bit of a complex chart, but the black line remains the same, which is the bitcoin price against USD over time. You can see the time on the bottom of the chart as well. And then youve got the blue line, which is supply, or the purple line. Actually, its the supply older than one year. And the blue one is supply older than six months, which is currently reaching a number of an all time high, which is meaning that there's just not much bitcoin active at this point. Usually when we get to a stage where we reach new highs, new all time highs, it is a period of accumulation, which means that people have been buying crypto and it's just not moving at this point as there's no reason to sell at this point. And then second, you can also argument that the long term holders are building up their positions at this point. I think that's something you should use for yourself as well. Plus side, the supply that's being used in the markets and the supply shift that can take place can only become larger and larger and larger. There's such a big portion not being moved at this point and not being used to trade, which means that you can pretty much get a steep reaction to the markets. Hence why we've seen that big reaction in 2021 as well, which was relatively steep as in within four, five months we ran from ten k to 70k or 65."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay, final chart. Link, usdt."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, I was just going to add this one as I think that if you want to invest into the crypto markets, you should be looking at the largest players of a certain segment, which means bitcoin is the largest crypto, ethereum is the largest, layer one. And then within the Oracle and defi section, I think link is the largest one, which in this chart, this is."
+    },
+    {
+        "speaker": "E",
+        "text": "Chain link we're looking at here."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, Chainlink. And the phrase is link, which we use. The blue line is again 200 day ma and the red line is the 300 day ma, 100 day, sorry, day ma. It has been compressing since May 2022. So we are into a period of relatively ten months of siteways action. We have seen a peak high in 2021, April, which means that we are into a period of two years bear markets and now one year accumulation. I think that the metrics you can see is that there is a potential downside of approximately 30% to 40% at this point when it comes to investing into a certain large player in the markets. But the upside is getting relatively big, which means that if you use the DCA strategy, right now is not a bad period to look at certain investment thesis."
+    },
+    {
+        "speaker": "E",
+        "text": "This is dollar cost averaging you're referring to."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, yeah, sorry, I'm just using DCA. The same can be said about bitcoin and ethereum. But for instance, Chainlink is out of all the altcoins, one of the ones that I'm looking at. And next to that, you can see that we are flipping the moving averages for support, which is usually a big trigger for continuation on the trends. So what you can see in the chart, we have been moving beneath those two moving averages, resulting into further drops of the prices. Now we are flipping them for support for the first time since the entire bear market started. Therefore, it can only start pushing the prices up, or it can be an argument for buyers to step in and can fuel the prices up even more."
+    },
+    {
+        "speaker": "E",
+        "text": "Kyle, we have a huge number of viewer questions pouring in for you right now. What do you say? Want to jump in and take a look at those?"
+    },
+    {
+        "speaker": "F",
+        "text": "Sure, sure. Go ahead. It's getting dark here, but go ahead."
+    },
+    {
+        "speaker": "E",
+        "text": "Great. How about this? We'll do it as a speed round because I know we have a lot of questions that we'd like to get answered and we're running out of time, but we'd really love to get you to weigh in as many of these as we possibly can. First one comes to us from Ralph H. On the real vision website. What is the state of crypto and crypto regulation in the Netherlands? That's a question I don't know the answer to. Really interesting."
+    },
+    {
+        "speaker": "F",
+        "text": "I think it's not Netherlands specific. I know that the Netherlands are quite conservative, but it's Europe specific in which we get Mika and Mifid kicked in, I guess, two years from now. So what they are doing is especially the gateway from banks towards crypto is getting harder and harder. So there's more KYC required. But on the other hand, the developments are more fundamental, which means that the regulation, and I think that's all around the world, actually benefits institutions to jump into the crypto market. So in the background, we know that parties are building on ETF's, et cetera, making it more accessible for certain institutionals to jump into it."
+    },
+    {
+        "speaker": "E",
+        "text": "But Mikali, you weren't kidding. It gets dark fast there, man."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, I see the sun going down, so I don't have light. It's load shedding, which is what I told you in the beginning, but I don't have electricity at this point."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay. So let's just go jump in and see if we can get a couple more questions in real quick before we end the show because we don't want to lose you to the darkness. This one comes to us from David S. On the real Vision website. How do you see ordinal nfts affecting bitcoin, if at all? Great question and topic thats very much in the news."
+    },
+    {
+        "speaker": "F",
+        "text": "Probably it will not be affecting bitcoin at all. I think you should separate these two. Very short answer."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. Okay, so before we lose you to the darkness, Mikhail, it sounds so profound. Great conversation. Give us your final thoughts. Key takeaways here for this conversation. I think real vision viewers and listeners really enjoyed this one."
+    },
+    {
+        "speaker": "F",
+        "text": "I think you should be, should be very critical when it comes to being into the crypto markets, the past six weeks, markets have been going up. We've seen a ton of hype topics surrounding the markets which can only lead to mistakes and failures. I hope that the listeners are going to be critical when it comes to all these topics. Be critical with their investments as well, and take the relatively patient and short and slow and disciplined path if it comes to investing. And don't jump on those high bandwagons because they make literally no sense."
+    },
+    {
+        "speaker": "E",
+        "text": "Really great conversation with Kyle. Terrific having you with us. I hope you can come back and do this with us again soon."
+    },
+    {
+        "speaker": "F",
+        "text": "Thank you very much for having me, man."
+    },
+    {
+        "speaker": "E",
+        "text": "Thanks for coming on the show. For those of you watching on YouTube, like subscribe and hit the notification bell. That way you will always stay up to date with the latest crypto news and analysis. If you're not a real Vision crypto subscriber yet, don't forget it's free. Head to real vision.com crypto. That's real vision.com forward slash crypto. That's it for today. We'll be back tomorrow. Bitcoiner Jimmy Song will join us live. I'm looking forward to that one. See you at 09:00 a.m. pacific noon Eastern, 05:00 p.m. london time, live on real vision crypto daily briefing. Have a great afternoon, everybody."
+    }
+]

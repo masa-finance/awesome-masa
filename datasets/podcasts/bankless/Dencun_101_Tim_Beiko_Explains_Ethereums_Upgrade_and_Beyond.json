@@ -1,0 +1,454 @@
+[
+    {
+        "speaker": "A",
+        "text": "The way I've been explaining this is like we are getting stone Age blobs with Dengkun 4844, but then the blobs can evolve into like Sci-Fi blobs independently of any sort of hard fork. And so the blobs are going to be able. Is that true? Welcome to Bankless, where we explore the frontiers of Ethereum. Today on the show, I brought on Tim Baco. It is hard fork day. It's either today or tomorrow, depending on when we release this episode. Dengkun is here. The blobs have arrived. We unpack what is beyond the blobs in this episode with Tim Bakeho. However, because there are other eips after EIP 4844 that are going into Denkun, and then there are all some eips that did not make it into Dengkun that will come in the next hard fork, which is Pectra. And then after Pektra, there are going to be further eips. And so Tim Baco on the episode today walks us through all the eips that are coming now, coming soon and coming later. So if you want to really dive into the 300 level, 400 level, decently technical future of Ethereum, this episode is for you. Emphasis on this being a pretty technical, nerdy episode, really, for the people who are like, you know, listeners of the Daily Gwei Ethereum core devs, you know, people who have been want to explore the bottom depths of the Ethereum rabbit hole. This episode is for you. Banklessation. We're going to get to our conversation with Tim Bakeout right now. But first, a moment to talk about some of these fantastic sponsors that make this show possible. Bankless nation. I'm here with Tim Baker, the coordinator at the Ethereum foundation, leads the all core dev calls. Tim, how you doing?"
+    },
+    {
+        "speaker": "B",
+        "text": "Good. Thanks for having me. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Exciting times in Ethereum. We are the week before the hard fork. We'll actually air this either the day before or the day of the hard fork. So happy hard fork day for everyone listening. Tim, I want to go through Deng kun and the high level eips. We'll just talk about. We'll just run through all of them just to really unpack what's going on in Daekun. And then we'll talk about what didn't make it into Dankun, which means what are the eips still in the Alcor devs mem pool that we know we want eventually included, just didn't make it into this particular hard fork. Sounds good. Yeah, cool. But before we do that, can we actually talk about the whole naming convention thing? Den kun is a weird word. I don't think it's a word. The next one after this is Pektra or Electra maybe. Can we talk about how the naming convention works on these hard forks? What does den kun mean? How did it come to be?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's a good place to start. So on Ethereum before the merge, we had both the proof of stake chain and the proof of work chain sort of updating independently. And both of those sides had a different naming scheme to name upgrades. On the proof of work side, we started, we had frontier, Homestead, Metropolis, and then for a couple of years we just used variations of Istanbul city name. So Byzantium, Constantinople and Istanbul. And then we sort of ran out. So we started using Defcon city names. So then we have the Berlin hard for Berlin hard fork London just following the Defcon city orders. And so now we're up to Cancun, just following Defcon city names. And we had a little actually exception there. We called the merge Paris as a shout out to ECC, which was the first big community hosted conference. So we use those to speak, specify the names for the execution layer upgrades. On the consensus layer, though, they like using stars instead. So they use the name of stars and they go alphabetically. So the first one was called Altair, then it was Bellatrix, and then Capella, and now the NEB. But in practice, if you're just like an Ethereum user, the execution and consensus layer upgrade happens at the same time. There's different code on both sides, so we need different name to refer to the actual changes to the proof of stake side of things, the actual changes to the EVM. So we use like Cancun and Deneb to refer to those sub changes. But because the upgrade all activates at the same time, we decide to mash those names together. So we have Denkun, which is a match of the NEB and Cancun. And then the previous fork, Chappella, was a match of Shanghai and Capella. So yeah, we've been using these. And in the future, if we had a fork that was just one side of the chain, then we'd probably just use a city name or a star name. But when they happen together, yeah, we coupled the names."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so it is actually possible to fork the consensus layer and not the execution layer."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, and in practice the fork basically happen independently. So we tell the consensus layer at this epoch fork, we tell the execution layer at this timestamp, and the timestamp just happens to be the same as the epoch start time, but there's no reason for them to have to fork and lockstep. We want to preserve this because imagine there's just a bug in the EVM that we find tomorrow. We can just ship a hard fork on the EVM, and the consensus layer doesn't need to know about it and vice versa."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, but the people who are running the Cl and the El, the consensus layer and the execution layer are the same people for the most part, yes."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Correct. So, like, if you run a validator, you run a node. Like, you have to run both, but it's just in this hard fork, you need to upgrade both. But there's nothing that forces both to have to be upgraded. So if, say, we had an emergency hard fork on the consensus layer, we could have an update. Just saying, like, look, upgrade your consensus layer node. Your execution layer node is fine."
+    },
+    {
+        "speaker": "A",
+        "text": "Beautiful. Okay. All right, so that gets the naming out of the way. Now, because we have the Cl and the El combined, we have earthly cities and astral stars being portmanteaued into the same word. And so that's how we came up with Den Kun. And then Petra is the next one."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. So Prague and Elektra have been merged into Petra."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, beautiful. All right, so Denkun is known as the blob hard fork. The hard fork that we get, the blobs. EIP 4844. Uh, it's the cool one that gives Ethereum its own enshrined data availability layer. We've talked about blobs on bank list. We've had entire episodes dedicated to blobs. Listen to our episode with, uh, domothy about blobs. If we. If you want. Really want to dive into blobs specifically. Um, I don't think we really need to dive into that one because we've covered it so extensively before. But, uh, Tim, like, since we're so close to the hard fork date, like, what do you want to elevate about blobs? Uh, people are, like, speculating about, like, gas fee reductions on layer twos, but I know we don't really know. Is there anything before we move beyond blobs that you want to talk about?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, we did talk a lot about them. I think the one thing I'll say is, what's neat about this upgrade is it sets the stage for full dank sharding after. So you can think of this upgrade as almost the front end to blobs, where we have all the new infrastructure and scaffolding that the network needs to use them. So we have a new transaction types which l two s can migrate to to use it. Then in the future when we have more scaling capabilities with stuff like full bank sharding, we can just do that in the background. And l two s will not have to upgrade. They'll just be more blob space that they can access on the network. I think that's a really cool thing where all the l two s have to do work to support this now and they've all done it and are in the final stages of testing. But hopefully they never have to do anything again that support blobs. And there just ends up being more blob space coming on. So I think that's something that's not discussed enough where we really set the entire architecture now and we can just keep expanding in the background."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. The way I've been explaining this is like we are getting stone Age blobs with Denkun 4844, but then the blobs can evolve into like Sci-Fi blobs independently of any sort of hard fork. And so the blobs are going to be able. Is that true?"
+    },
+    {
+        "speaker": "B",
+        "text": "Depending how you approach it, you might need a hard fork, but it's more that even if there is a hard fork, the l two s won't have to do anything. For now they post their data in call data, so they have to switch the type of transactions that they make. But in the future, when we have more blob space, the blob transactions of next week will still be valid and will integrate with all that automatically."
+    },
+    {
+        "speaker": "A",
+        "text": "Right? Okay, so the future call data, which we call blobs, is just going to be able to fit more stuff without. And the layer twos won't really care about like how big they are, they will be able to leverage them all the same, correct? Yeah. Okay. All right, so that's blobs. We'll actually talk about peer Das, which didn't make it into Denkun. We'll talk about that towards the end of the show. But this is like one of these like blob evolutions, blob blueutions, Max add Max Epoch, churn limit. That's EIP 7514. That's also coming into Dengkun. What should we know about that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, so right now on the beacon chain, when validators come in, the amount of new validators that can start validating per block is a function of how many validators are already there. So as more and more validators come in, we accept more and more each block. And the reason for that change originally was just, you don't want to overwhelm the validator set with new validators in case of an attack or something. But as you have a bigger and bigger validator set, you can sort of bring more people in quicker."
+    },
+    {
+        "speaker": "A",
+        "text": "That said, just to state that really simply, the size of the rate of change of validators is a function of the total size, total supply of validators."
+    },
+    {
+        "speaker": "B",
+        "text": "Correct? Yeah. Active validators. Yeah. Cool. And this effectively, since the launch of the beacon chain has been up only because there's been more and more validators, and we've like, so there's more and more validators, and we've therefore accelerated the rate at which we add new validators. Recently, I don't know, in the past year or so, there's been a lot of discussion and debate around should there be max amount of validators on the network? And even at the current rates of growth, is the amount of validators going to end up being too much in terms of the amount of messages that they gossip on the network and sort of the requirements that that implies in terms of bandwidth? So the idea with this proposal is that instead of making the number of validators each block a function of how many validators are there, we simply cap it at eight per block. So we have that as a ceiling, and this basically slows the rate of growth. And it, one, lets client teams deal with the increase in validator set size so that they can have a bunch of performance improvements and whatnot to deal with that. And two, it sort of lets the entire community have a discussion around, like, okay, what's the right share of validators that we'd want to have on the network and ideally not end up having that discussion in a world where, like, I don't know, say we decided we never want more than 50% of eat to be staked for whatever reason, but then there's already two thirds of the eat staked. That's kind of an awkward place to be in. So this just gives us a bit more breathing room to figure out the right path forward."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so there is going to be a cap on the rate of change. And when is that cap hit?"
+    },
+    {
+        "speaker": "B",
+        "text": "So we're already. I don't know if we're past it already, but we will be at, like, at the hard fork. The cap will be eight, basically."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. Yeah. Okay, so eight validators per block. Eight times 32, Ethan. Per block is the constraint. And the idea is that just, we just want to. We want to buy us buy ourselves some time before Ethereum discovers its long term equilibrium with estake."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, correct."
+    },
+    {
+        "speaker": "A",
+        "text": "Cool. Okay, awesome. Self destruct, only in the same transaction, EIP 6780. What does this do? Self destruct has always been one of these like weird words that I see every now and then. People have like strong feelings about it. What's self destruct and why? What is this eip doing?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, so self destruct is pretty straightforward. It's how you can delete a contract from Ethereum. So you have to specify this in advance. But if you want your contract to destruct, there's this opcode which will delete it. And the rationale for this opcode was that if we want people to clean up after themselves, it's nice to give them a mechanism to do it. In practice, though, it hasn't been used much for that. It's been used in a bunch of really weird, funky ways, but it's not something that's keeps Ethereum state size smaller than it should be. The value of the opcode is not what we expected in terms of the protocol. And the biggest problem with self destruct is it's the only opcode where when you call it, you don't know how much computation you're going to run. So if you call self destruct on a tiny contract, self destruct gets the address passed in as a parameter, and then it finds this address and deletes everything that's there. So if it's a small contract, that's super quick. But if it's like a huge contract, imagine you called it on some massive NFT contract with millions of balances, then it's like in that same amount of time, you now have to delete all of this. And maybe an analogy is on your computer, when you move a file to the trash, it's instant. But if you delete 1000 pictures, you know, it says like moving them to the trash, and it's like loading. So self destruct has like that behavior. And that's bad for Ethereum because we want like the gas that we charge for opcodes to reflect the cost of computation. And for this one we sort of can't. And now it's kind of bad, but not the end of the world because of how Ethereum is structured. But we have this long term goal to move towards stateless clients, and this requires changing how we store data on Ethereum. And by virtue of how we change that self destruct, that becomes insanely long to run every single time. We just can't afford that. So basically removing it is the first step towards that. What this EIP does is when you call self destruct, it will not destroy the contract anymore, but it'll still send the money back to, like, the address you specify. So this is the other thing that self destruct does. If you delete a contract, you get to say where to send the money. Obviously, we don't want anybody's funds to be trapped. So when you call self destruct after the fork, all it does is it transfers the ETH in that contract, but it doesn't actually destroy the contract. And that said, there are people who use self destruct in a bunch of really weird ways. And one of those edge cases is sometimes people will, like, create a contract and destroy it in the same transaction. Sometimes they do that to burn some ETH. I believe that's how optimism withdrawal bridge works. It'll create a contract with some ETH in it and then self destruct it and send the ETH to zero address zero or something. And that's like their weird trick to make it work. And those cases we can still support because you don't actually have to write this contract to disk because it's all in the same transaction that it's happening. So this is why the EIP has a super long name. It's like, okay, we managed to get the functionality that we want. We, like, deactivate it, but then we get to preserve this edge case, which was relied upon in a lot of critical flows. So no contracts, breaks. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Interesting. Sometimes when I talk to people like you about this, I once again realize how deep some of these technical EIP rabbit holes go."
+    },
+    {
+        "speaker": "B",
+        "text": "And we've been trying to do this for years, so it's nice to actually see a chip and note of like, okay, we found the sort of edge cases that we can handle and not break things."
+    },
+    {
+        "speaker": "A",
+        "text": "And this is the final equilibrium of self destruct. This is the last eip that self destruct will be relevant or."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think so. I mean, it's hard to predict the future, but I think it does everything we want at this point."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, cool, so we're confidently putting it on the shelf. Maybe we pull it off. Hopefully not."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah. Like, yeah, so we always have to preserve this property of, like, sending people's money back, because if imagine you had a contract that you thought you were going to self destruct in a year, and there's a ton of ETH in it. Like, we can never stop you from getting that eth back. So, like, that functionality will always stay there."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so this is minimum viable self destruct as we've discovered ourselves."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, cool. All right, moving on. Perpetually valid, signed, voluntary exits. I'll say that again. Perpetually valid, signed, voluntary exits. EIP 7044. What's this?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. So, on the beacon chain, you can pre sign an exit message. And up to now, I don't know why I wasn't involved in that design, but these messages were only valid for the next two hard forks, I think. And I guess, again, I'm not sure why they made that decision at first, but in practice, it turns out people use these messages today to build trustless staking constructs where. Imagine I'm a staking operator for you, and you want to always be able to withdraw your funds. What I can do is I can sign an exit message with your validator, give it to you, and then if I start doing something badly, you can just go and publish that message, and your validator gets exited. And you don't need me to do that for you. The problem with that, with the current messages is it only lasts two hard forks, so you need to trust that I give you a new one every hard fork or something so it doesn't expire. So this EIP just makes a small change to make those messages valid forever. And it can allow you to have, like, a one time sign message where. Okay, you receive this, you know, you can always exit your validator, even if you're not the one operating it."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. Seems pretty straightforward."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. All right. EIP 7045, increase max attestation inclusion slot. Oh, boy."
+    },
+    {
+        "speaker": "B",
+        "text": "This is like the most technical beacon chain vip. You know, you shot Danny Ryan on the show. He can tell you all about it, but TLDR is it just increases, effectively the max distance that you can include an attestation for in your block. There is some security rationale for this, which, again, proof of stake researchers can get into as a user, as a validator, this all just happened automatically. It just changes, like, how far you go when you're looking at including attestations."
+    },
+    {
+        "speaker": "A",
+        "text": "So if you're an attester, you just have more time, you have more space to attest."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Correct. No, sorry. So if you're collecting attestations, collecting attestations, you can collect them farther. So it means that the first attestation of an epoch basically gets, like, twice as long of a valid period. It can be included for. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. All right. This one's pretty cool. EIP 4788. Beacon block root in the evM. So, beacon block. That means we're talking about the beacon chain, the root of that block is going into the ethereum virtual machine. So this one is spanning the consensus and the execution layer. Correct, correct. What's going on over here?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, so today, ever since the merge, both chains run alongside each other, but there's no ways to make proofs about the state of the beacon chain on the execution layer. So in a smart contract without an external oracle. So if you want to say like this was the state of the beacon chain at slot x, you have to rely on an external oracle, which is not great. What this does is it creates a new contract on Ethereum where every block would just store the latest block hash for the beacon chain blocks and have the header there so that you can trustlessly make proofs against it. So this is really helpful for a bunch of, say, staking pools that want to make proofs about the current state of the beacon chain and whatnot, and not have to rely on an external oracle. So it just makes a bunch, bunch of like, yeah, construction is more trustless. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "So this may, this connects, this is actually, I think, one of the, one of the big, I'm going to make this the second biggest eip inside of this hard fork after 4844, mainly just because like, it connects defi, Ethereum's defi application layer to the Ethereum consensus proof of stake staking layer."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "And so you said like, staking pools like this affects the rocket pool odao node. There's this small dao inside of the rocket pool system that connects basically this information, the state of the Ethereum consensus layer and the ETH and the staking contract to rocket pool. This also is helpful for Eigen layer and avss because they need to know the state of ETH on the beacon chain so that when avss make a slashing event and the slashing event occurs, other avss can know about it."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah. Basically it removes any sort of oracle risks around that information, whereas now all of those projects have to trust some oracle to tell them what's up on the beacon chain."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, Vitalik actually put out a recent tweet about how he was having a change, not like a whole hearted 180 pivot change of mind, but a change of mind about complexity at the layer one, where he's saying, oh, I used to be a layer one complexity minimalist, and now I've become like a little bit more into the idea of complexity inside of the layer one because it reduces complexity at the layer two. And I see this as an example of that. What we are doing, what the ethereum layer one is doing here is enshrining an oracle. It's producing an oracle inside of itself. It's taking on more roles so that less roles can happen at the execution layer."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, 100%. And I think this one is nice because it's not very complex because l one already has this information. It's just like on the wrong side of the chain. And then every block, the beacon chain already passes information to the execution layer. Every time you get a new block, your validator asks your execution engine, is this a valid block? And so they're already talking every block. So it's just like adding one more bit of data and then having the execution layer save a copy and then, yeah, that has a huge impact in terms of creating a more trustless source of information on chain."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, really, I just like the idea of just a stronger bridge between the state of the consensus layer and the state of the execution layer. Yeah, beautiful. Okay. There's three minor ones that we're just going to burn through really, really quickly. 1153 transient storage opcodes 5656 m copy memory copying instruction and then 7516 blob base fee opcode. What's going on here?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, maybe to start from the last one because it's simplest. So blob base fee. We have this opcode on chain to get the base fee for gas. And it's useful if you want to do things like imagine an l two that wants to reimburse people's gas when they submit a fraud proof. They can just say, send them blob base fee times like the gas that they spent. So they can have that all trustless on chain. Now that we have blobs, you want to have an opcode to get the blob base fee. So pretty straightforward to expose that. McOpy is just a memory copy and yop code within the EVM. So if you're very much into like language design or EVM optimization, it gives you a bit more, a bit more options. And then 1153 has two new opcodes, tstore and tload, which are storage opcodes that disappear at the end of a transaction. So right now when you save data on Ethereum or read data from Ethereum, it sort of is there forever and you have to read the disk, which is more expensive. So with transient storage, you just keep those in memory, delete them at the end of the transaction. And so it's cheaper to execute and therefore the gas price is lower."
+    },
+    {
+        "speaker": "A",
+        "text": "Um, all right, well, round of applause for all of our EIP finalists that made it into Dankun. Congratulations for all the eips that made it in there. Uh, there are some eips that did not make it in there, uh, which are the ones that got rejected, which are the ones that didn't make it into the gate. Uh, that are, like, worthy of, of note."
+    },
+    {
+        "speaker": "B",
+        "text": "So there's a lot to be clear. Um, yeah, we have a whole Ethereum magician stretch where people propose them. There's probably, like 2030 proposals. And, you know, we, we can include maybe something like eight."
+    },
+    {
+        "speaker": "A",
+        "text": "This is like the EIP mem pool. And so Dengkun is the block that was formed which is going to be merged into Ethereum. And we have seven or eight or nine EIP transactions that are being merged, but the rest are still in the mempool. And so the next hard fork is going to be Electra. What are the two names for Electra again?"
+    },
+    {
+        "speaker": "B",
+        "text": "Prague. And Electra is the merged name. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Petra has the merge name. Yeah. The portmanteau name. And so, like, still, still kind of like finding its identity. Right. Like, we don't right now, zero eips are formally."
+    },
+    {
+        "speaker": "B",
+        "text": "No, we have a few. We have a few, actually."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, really?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Okay, so. And maybe, yeah, to zoom out a bit. So over the past couple of years, we've sort of moved to this cadence where we have one big fork, one small fork. So we had the merge, which was obviously like a huge fork, and then we had withdrawals right after, which is a bit of a smaller one. And now we have 4844."
+    },
+    {
+        "speaker": "A",
+        "text": "Big one."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, another big one. So for Pektra, we're planning to do a bit of a smaller fork and to start working on the next larger fork in parallel, kind of like we've done with this one. So we've been working on 4.44 for, like, probably two years at this point. And then in parallel, we were able to ship withdrawals as well. So Pektra is going to be a smaller fork, but we already have a decent idea of what the bigger forks after that will be. On the execution layer, we'll be up to Osaka at this point. We have this transition to vertical trees, which we've talked about a lot, which changes all of Ethereum's storage layout for the state. That's the thing that we're going to do two, four from now, and we're starting to work on right now, but because there's, like, so much work on it, there is like. And you can't have everybody just working on the exact same pieces of code. We do have some extra bandwidth to do another fork before. And then similarly on the consensus layer, they're working on effectively like full length sharding, and there's a bunch of proposals around how to get there again. That's going to take some time. So they also have the bandwidth to do like a smaller fork in the meantime. So this is what Petra will be. And it seems like maybe the forex after Petra will actually be separate, because it seems like the big thing we're doing on the execution layer, vertical trees, is pretty independent from the big thing they're doing on the consensus layer. Maybe we'll end up with an eip that we add as well that forces both to be together. But we're moving to this regime where we have these two big initiatives happening in parallel. And then in the meantime we're also trying to, to ship a bunch of smaller but still useful things. So for picture, we actually have four eips included already. So the BLS, twelve through 81 precompile. So this is something people have asked for since I think 2017, 2018, which is just using the same curve as the beacon chain as a precompile on the execution layer, enables a bunch of use cases. So we're going to do that."
+    },
+    {
+        "speaker": "A",
+        "text": "And then that's like, what that means is like the signing curve. So when we send a message. Yeah, and there's, from what I understand, there are particular signing curves inside of the enclave, in your phone, is this."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, no, that's the other one. What BLS is very good for, and the reason we use it on the beacon chain is aggregating a bunch of different signatures. So any use cases where you have a bunch of different signature and you want to make a proof about all of them and verify all of them, BLS is very efficient for that. Then if you want to verify signatures from validators, basically you'll be able to do that."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, this is the Justin Drake innovation that brought the minimum eth stake from 1500 down to 32."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes."
+    },
+    {
+        "speaker": "A",
+        "text": "And so now we're doing. Now we're just taking that innovation down to the execution layer."
+    },
+    {
+        "speaker": "B",
+        "text": "And when it was first proposed in 2018, it was still kind of a new curve. There wasn't great, like, library support for it. So people were a bit reluctant to like, add it to the proof of work chain. But now, you know, the entire beacon chain depends on it. Like if there's a bug in this."
+    },
+    {
+        "speaker": "A",
+        "text": "You know, ethereum already depends on."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So it makes sense to just add it. So that's the first one we've included. Then the other big change that we're going to do is execution layer triggerable exits. So having a smart contract initiate. Having a smart contract effectively initiate a withdrawal on the beacon chain. And again, this is valuable for a ton of staking pools and whatnot. Where you'd want any case where you want like an on chain action to trigger a withdrawal, you can imagine like a DaO voting on it or stuff like that."
+    },
+    {
+        "speaker": "A",
+        "text": "I will just say that I'll categorize that as further strong linkages between the Defi layer and the consensus layer."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, and that's like the theme. So another thing we're doing is basically removing the sort of delay period. So, like right now, when you make a deposit, when you make a deposit to the deposit contract, you still have to wait. I think it's like 2000 blocks for the deposits to be seen by the beacon chain. And this in proof of work, like before the merger, was to avoid any reorgs. So we were pretty confident there wouldn't be like a 2000 block reorg. So the beacon chain, once it saw 2000 blocks in the past that your deposit was in, it would credit you. But today, they're talking every block, so it's kind of useless to have this 2000 block. So we're removing that in Pectra as well. So it'll be just like the next block. And then there's another small proof of stake change that's been included. 7549. I'm actually not too sure what that does. It's around like committee attestations, so that's on the proof of stake side. So we already have these four eips that are all quite small, but pretty useful that are included. Then we have these two big ones that are sort of vertical trees, is pretty much confirmed on the execution error side, I think how to approach dank sharding is still being debated on a consensus error side. And what's the right focus to have there? But we have these two big things set for the fork after that, a couple of small things now and then. There's also a bunch of other proposals which we can get into that we're trying to think through and figure out should it be in the next fork, the fork after, and stuff like that."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so we get to Dankoon, like now, Electra, call it a year, maybe less. Yeah. Actually, timing on electra, nine months, twelve months."
+    },
+    {
+        "speaker": "B",
+        "text": "Look, it's really hard to predict these things."
+    },
+    {
+        "speaker": "A",
+        "text": "Tim, give me a. Yeah, I think."
+    },
+    {
+        "speaker": "B",
+        "text": "People would like to see it before the end of the year."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "It's always nice to fork before Defcon and you come, you feel like you're in your job, right? Yeah. So we'll see. It depends on what we end up including in it. But the idea is to not spend several years on that fork."
+    },
+    {
+        "speaker": "A",
+        "text": "It should be relatively easy, of course."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "And so then once we get past pectra, then all of the eth heads on Twitter are going to be like, the verge is coming. The verge is coming because that's going to be the next version. So we had EIP 1559, the merge. Now we have blobs, which we're getting, and then after that, we're all going to be stoked for the verge. And for those who didn't listen to our episode with Mike Noyder and Domothy, the verge kind of like, increases the scalability of the ethereum layer one by about, like three x, a modest, but, like, modest, but like, you know, healthy increase. But really it brings in statelessness, which makes Ethereum just like, super prolific. I'll call it, like, packets going between more devices relevant to Ethereum all over the Internet. Yeah, cool. But then there's also three eips that I know that are out there that I think are pretty damn meaningful that I want to get into before we wrap up this episode. Tim, inclusionless max effects balance in pure Das. Where are these in the EIP mempool?"
+    },
+    {
+        "speaker": "B",
+        "text": "So again, I'll start from the last. So pure Das is like one of the proposals for how we get the full dank sharding. So this is starting to be prototyped right now. And the idea there is we have these. So these blobs give us, like, temporary storage on Ethereum right now. Right wherever, before the blobs, all the data that's stored on Ethereum has to be stored forever. It costs a lot of money to store data forever. The blobs allow you to store data for only a couple of weeks, but every node still has to keep a copy. So it's cheaper than, like, nodes keeping a copy forever, but it's still every node keeps a copy. And the idea with full denk sharding is we want to have nodes only store part of the data on the network, where you store a bit of the data yourself. And then what you do is you ping the rest of the network, you ask them for proofs of data, and you do this enough times that you have a high probabilistic guarantee that there's no data missing. The same way when we use hash functions, we trust that a private key only maps to a public key only maps to a single private key. And the odds that there could be a double match is one in two to the 256 or something. The idea with full dank sharding is you basically do that as well, where you're saying, I only have a small part of the data. I've asked everybody else in the network and I've gotten this many responses, and I know that given these responses, the odds that any part of data is missing anywhere is a really tiny probability. And if we can do this, then it means you go from node storing all the data today to nodes all the data today forever, to node storing all the data for a few weeks today, to node storing only a part of the data for only a part of time. And this is how you can scale the number of blobs without scaling the validator compute requirements. So pure Das is a first proposal, or maybe not the first, but one of the latest proposals to actually implement this based on the current validator architecture. And so similarly to how people are starting to work on the verge and prototype that we are starting to see people work on teardas, it's a bit earlier in development. So maybe that's nothing, the final thing that we end up shipping, but it's at least like a very promising step. And I will say, if you look on ETH research, Danny Ryan has like five ETH research posts that he's like authored. Every one of them has been like a shift in the entire Ethereum roadmap, sort of the quick merge post. And Vitalik wrote the roll up centric post, but then Danny wrote the how do we actually implement this post? Danny has like a really good hit rate with each research post. So, yeah, I don't know if like, we'll ship pure dust exactly as how it's specked, but it seems. It seems very promising."
+    },
+    {
+        "speaker": "A",
+        "text": "Cool. And of course, peer dust is a part of the story of the evolution of blobs. These are like blobs growing up from little blobs to big blobs."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, exactly. And it's not actually. Sorry, just maybe to clarify this, it's not that the blobs are bigger, it's."
+    },
+    {
+        "speaker": "A",
+        "text": "That, but the total data availability is bigger."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, there's more of them. There's more of them, right. So you think of it as just like more blobs showing up."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. The blobs are actually getting smaller, but there's many of them. But when you aggregate all of those smaller blobs together, it becomes like big blobs."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Many, many tiny, little sharded blobs form big blob. These are technical terms. Max effective balance. Max Eb. What does this do?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. So right now on Ethereum, you can only have a 32 eth validator, which causes a couple problems, I guess. Maybe I'll start. What's simple about that is we can treat all validators the same on the network. When we shuffle validators, we all treat them with a 32 eats weight. You can shuffle amongst one validator equals one validator. Yeah, exactly. But then the downside for that is twofold. One is we have these actors on chain that obviously have more than one validators staking pools. But even a bunch of people have more than one validators, and every validator needs to send a bunch of messages over the Internet. They all have to say, I attested to this or I saw this, and then send all those messages. This creates a ton of bandwidth requirements. Right now, I'd say running a validator, it takes maybe two terabytes of disk space. It takes a relatively recent computer. I could run one on my MacBook easily. But the biggest bottleneck is probably bandwidth. It takes from a couple of terabytes to maybe low tens of terabytes of bandwidth per month. And this is something where in a bunch of places, even if you can buy a MacBook and buy a two terabyte hard drive, you maybe can't get that much bandwidth. So the idea with Max EV is if we can tell people like, oh, you have ten validators, you can put them together and then just sign one message instead of ten, we can really lower the bandwidth requirement, and that makes it easier to run a validator. The other thing that's really nice with Max EV increase is it could potentially allow any amount of eth sized validator. So that right now, the other disadvantage is you can only stake in 32 ETh increments. So say that I have like 50 eth. Well, okay, I can stake 32, but then what do I do with my other 18 eth? And this is the sort of thing that, like, drives people to, like, liquid staking tokens, where it's like, I can get 50 eth worth of rocket pool staking tokens or lido staking tokens, and not have to think about that. So if we could move to a world where, okay, I have an arbitrary number of ETH that I want to stake, and then I can actually stake on a reasonable Internet connection because we've sort of aggregated these validators together. Yeah, that's a really positive thing for Ethereum. So there's a ton of challenges in doing that. And this is why it's not a no brainer to include it in the next work. If it was easy, we probably would have done it already, but it is being considered and we're trying to think about. Okay, are there simplifications we can do in this spec that maybe we get a first version of it out in the next fork and make it more complicated and provide more functionality in the fork after that? So that's a big area of just research and development right now."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. And it also allows solo stickers to compound their reward. So 32 can immediately turn into 32.13."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, actually, yeah, that's a great point. Yeah. If you only have 32. Yeah, it would compile now."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. And, yeah, and so like, rather, so like right now when you have a 32 eth, you get your ETh rewards, but they, they don't earn more rewards, they're not staked."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, that's a good point. Yeah, yeah. Whereas if you use a liquid token, it's immediate, right? Well it's not immediate, but because there's so many users. Right. Like if all the."
+    },
+    {
+        "speaker": "A",
+        "text": "Right, it's amortized."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "It's effectively Internet with scale. Immediate with scale."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. The cool thing about Max, max effective balance, like there's also minimum effective balance. Minimum effective balance staying at 32, maximum effective balance is going up to 2048."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think that's current spec is 2048. Yeah, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Cool. And then last one, inclusion list. This is a big one. Inclusion list. Where is this in the mempool?"
+    },
+    {
+        "speaker": "B",
+        "text": "Again, this is one where it's just about the trade off of like complexity versus the value. So like, again, it's like if we could have, you know, perfectly working inclusion list tomorrow and it was like a one line change, obviously we would have done it. I think the biggest questions here are like, if you do something that's in protocol, can people circumvent it? And what does it, can we just."
+    },
+    {
+        "speaker": "A",
+        "text": "Define, sorry, what inclusion lists are?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, take a step back. So inclusion list is specifying a set of transactions that you as the current proposer believe should be included either in your current block or like the next block. And then there's many flavors of this, but you could imagine the most extreme flavor is something like somebody else specifies an inclusion list for you like the previous proposer, and then your block is invalid if it doesn't contain those transactions. So it's like the previous validators, like forcing you to include those transactions assuming their gas price is high enough. And so the goal with this is just to improve censorship resistance, because you can imagine a validator just seeing transactions that are censored in the mempool and wanting to force those into the network. So there's two problems that inclusion lists can address. One is validator censorship. Do we want, say that you have a non censoring validator a and then afterwards the validator B is censoring. Do we want a to be able to force beat, not the sensor? And this is probably the part that adds the most complexity, like having the validity of a block dependent on an inclusion list. But then the other use case is a validator forcing an external block builder to include some transactions. So right now, the way Mevboost works and the whole PBS infrastructure works is a validator has to choose either to build their block themselves or to delegate 100% of the block's contents to, like, an external builder. And this means that if the builder is censoring, they sort of give up on censorship resistance. They're sort of forced to choose between censorship resistance and like a potentially higher profit. And one thing that mevboost does today to deal with this is they have like this Minbid flag. So if you're a validator, you can say, unless an external builder gives me this much eth, I'm going to build my block locally. So you're sort of saying like, I'll be censorship resistant. Unless there's like a ton of mev right now, then I don't really care as much. Just give me the most paying block, which is still like a valid approach because, you know, most of the time there's not huge spikes of Mev. So it's, you can like get censored transactions in them. But a version of inclusion list that you could imagine is one where we just force the builder to give you a block that includes your transactions on your inclusion list somewhere in the block. So you're saying most of the mevs at the top of the block, like that's fine, build me a super profitable block. But make sure that the last four transactions of this block are these or that somewhere in the block there's these four transactions, and otherwise I'll just pick my block locally. So I think this is the big challenge with inclusionist, is do we want to validator to validator setup where they're each forcing people to do stuff, or do we want a validator to builder setup where it's really about the block? I'm going to propose the validator to builder setup is much simpler to implement. But then the validator to validator setup one gives us full censorship resistance at the validator set. Then it also improves on things like base roll ups. So a lot of like, the pre conformation in base roll ups relies on inclusion lists. So again, this is like a trade off between. We could do like this more complex, more powerful version of it, or maybe just like a small quick fix now and eventually, you know, expand on it. And this is what people are debating."
+    },
+    {
+        "speaker": "A",
+        "text": "Just shooting from my hip here. I do really like the idea of very strong censorship resistance that also enables base roll ups. I do enjoy that, like synergy and serendipity between these two properties. Is this like the hard fork after Pektra kind of timeline, or is that kind of unknown?"
+    },
+    {
+        "speaker": "B",
+        "text": "So the simplest version, you don't even need a hard fork. You could do the simplest version of this, just an mev boost, right, where you just say, and then again, it's like you rely on mev boost for trust here, but we sort of do already for a lot of other stuff. So I also like full validator set censorship, but I also like shipping things. So if I was the dictator, I would probably ship the mev boost change. And then the thing as well, we get out of that is you can get usage data. Maybe this is a terrible idea. There's some flaw in it that we haven't thought about for whatever reason, but if it's only a change in mev boost, it's like, okay, whatever, we can fix it, we can revert it and whatnot. But we didn't enshrine that in the protocol. So yeah, I'm sort of biased. If there's ways we can test things quicker in a more controlled environment, I'm all for that, but I agree that long term, having something that's more robust at the protocol layer is extremely valuable."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure. Those are all my big eips that I want to talk about that I know are in the mempool. Are there any other valuable eips that we haven't brought up that are worth elevating?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, let me check the list real quick. We have this thread on Ethereum magicians called Prague electra network upgrade metathread, which I should upgrade to Pektra now that tracks this. So basically you can find a whole list of everything that's being proposed there. And this is what we're discussing sort of every week on awkward apps at this point. But aside from all the stuff we talked about, maybe one big thing that's also being discussed is EIP. 4444 or 44s, which is about stopping to serve historical data from Ethereum as main peer to peer network for all the pre merge stuff. So the idea is right now all the nodes have to serve data about all the way from Genesis. And we'd like to move this to other data providers so that when you sync in Ethereum node, you can know for sure what's the latest valid chain. And then you could import your historical data from something else. Like imagine you just torrented, for example, and then verify that that history actually matches up to the head of the chain. So this is something people have been working on for a while and yeah, want to keep."
+    },
+    {
+        "speaker": "A",
+        "text": "Is this a snapshot? Where is it snapshotting ethereum, effectively, like."
+    },
+    {
+        "speaker": "B",
+        "text": "You can think of it as like snapshotting history. And the thing that's important is like when you sync the chain and you sync like the current head, you want to make sure that this is secure. And so the nodes like do this already, but then when they backfill the history, they're always checking that, like this history actually ends up at this current head. So it doesn't really matter if you're confident in your current head, it doesn't really matter where you get the history from because you can always verify that it's correct. And so right now we're kind of using ethereum as a weird sort of torrent seeding network for this when it's just not the most efficient thing. Literal torrent networks are more efficient. Or you could imagine like going to Internet archive and just downloading the first million blocks or the first 10 million blocks or something. So we're working on just like having a good format for exporting that data, clients importing that data, having a couple of places that serve this data so that it just again removes the burden in terms of bandwidth on the peer to peer network. And so that's a big piece of work, EOF. So like a ton of upgrades to the EVM people are still considering that's a whole other like bucket of proposals. There's a bunch of proposals around account abstraction and EOA improvements and whatnot. It's another big one. And then the other one, the other bucket, I would say is around just like the format of transactions. So how we want to encode stuff, but now we're getting like really in the weeds of, and aside from that, there's a bunch of other ad hoc eips, but I'd say history expiry, EOF account abstraction, and then sort of a long list of miscellaneous eips is what we're thinking through. And if you scroll to that ETH magicians post, I sort of have a little diagram showing all the different eips proposed, where they fall. Are they like Cl El and mix and we're slowly working our way through that."
+    },
+    {
+        "speaker": "A",
+        "text": "Listen, well, Tim, I feel very informed about the horizons of Ethereum and what's beyond them. So thank you so much for coming on the show and walking us through all these eips."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, thanks for having me. This is great."
+    },
+    {
+        "speaker": "A",
+        "text": "The link that you just mentioned, Tim, I'll get that from you and I will post that into the show notes. And so if you're listening on the podcast or on the YouTube, you just go to the show notes and find that link. Tim, thank you so much, my man."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, thanks for having me."
+    },
+    {
+        "speaker": "A",
+        "text": "Bankless nation, you know the deal. Crypto is risky, Defi is risky. Eips and hard forks, they're also risky. You can lose what you put in. But we are head west. This is a frontier. It's not for everyone. But we are glad you are with us on the bankless journey. Thanks a lot."
+    }
+]

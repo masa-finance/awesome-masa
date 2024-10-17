@@ -1,0 +1,642 @@
+[
+    {
+        "speaker": "A",
+        "text": "If there's enough demand, people will make pooled models. The pooled models become much harder to police. You know, it's like the cat and mouse game keeps going on. So, like, I think that's where it's extremely different than web two. And that's also something where it's like, purely the on chain stuff will dominate the centralized, because the centralized things will look like Uber. And they can shut you down. Right. They could just turn off that market."
+    },
+    {
+        "speaker": "B",
+        "text": "Not a dividend."
+    },
+    {
+        "speaker": "A",
+        "text": "It's a tale of Tukwan now."
+    },
+    {
+        "speaker": "C",
+        "text": "Your losses are on someone else's balance sheet."
+    },
+    {
+        "speaker": "B",
+        "text": "Generally speaking, airdrops are kind of pointless anyways."
+    },
+    {
+        "speaker": "C",
+        "text": "I named trading firms who are very involved."
+    },
+    {
+        "speaker": "A",
+        "text": "I like that."
+    },
+    {
+        "speaker": "C",
+        "text": "ETH is the ultimate defi protocols are the antidote to this problem. Hello, everybody. Welcome to the chopping block. Every couple of weeks, the four of us get together to give the industry insiders perspective on the crypto topics of the day. So quick intros. First, you got Tom, the defi maven and master of memes GM, everyone. Next, we've got Tarun, the Giga Brain, and grand Poobah at Gauntlet."
+    },
+    {
+        "speaker": "A",
+        "text": "Yo."
+    },
+    {
+        "speaker": "C",
+        "text": "Today we've got a special guest, Julian, the architect at Evo, formerly ribbon Finance. Yep."
+    },
+    {
+        "speaker": "D",
+        "text": "I guess I'm Robert stand in today."
+    },
+    {
+        "speaker": "C",
+        "text": "You are. You are our defi. You are a Defi maven today. Or I guess not the crypto connoisseur today. And then I'm Haseeb, the head hype man at Dragonfly. So we're also very sick, though."
+    },
+    {
+        "speaker": "A",
+        "text": "We have a very sick."
+    },
+    {
+        "speaker": "C",
+        "text": "Slightly sick. Slightly sick. Not that sick, but my voice makes it sound sicker than I actually am. I want a caveat that nothing we say here is investment advice, legal advice, or even life advice. Please see chopping block XYZ for more disclosures. So, Julian, welcome to the show. We should caveat that I think everybody here is an investor into you or into ribbon finance. I should say. We wanted to get you on because there's a lot of topics today that are circulating in the crypto world that we thought you'd be the perfect guest to talk about. And we also want to get some time to talk about what you're doing with ribbon finance and Evo, because I think it's at the center of a lot of conversations that people are having right now about where Defi is going and where crypto is going, generally."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, sure."
+    },
+    {
+        "speaker": "C",
+        "text": "The big news this week that you just explained to me that you've been totally on top of is Jupiter. So for those people who don't know, I'll give the very brief background. So Jupiter is a Dex aggregator on Solana. So a Dex aggregator is essentially, you can think of it like a priceline for dexs. So essentially it looks across all different dexs and tries to find the best price, best execution, and it does fancy routing in order to give you the best possible price for whatever you want to buy. So one inch in which we are investors is the equivalent of this on Ethereum. Jupiter is essentially, they didn't take any vc backing. And people have been very excited about Jupiter because they were doing a point system."
+    },
+    {
+        "speaker": "A",
+        "text": "They did technically take vc for one project. Right? One of the coins did raise money. Yes."
+    },
+    {
+        "speaker": "C",
+        "text": "Prior project, you mean?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, it was like, it used to be like curve on Solana, basically last cycle."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, I see. Was it saber?"
+    },
+    {
+        "speaker": "A",
+        "text": "No, no, no. Saber was the twins or the brothers. Sorry."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, the McCallanow brothers. That's right. Okay, got it. So they were doing a separate. Okay. So they did something in the past to raise vc capital. Jupiter had no vc investors, so they had a very highly anticipated airdrop after their point system. And basically we saw the day of their airdrop, huge amounts of activity. I think it crossed over a billion dollars in daily volume several days leading up to the airdrop, which is very anticipated. They actually flipped uniswap v four for volume, and Solana, on certain days, actually superseded ethereum defi generally for volume. The airdrop finally took place on February 1, and we saw huge amounts of capital. Some people, I think it was about, let me see here. They rewarded about 10% of the supply to about a million wallets that were active on the DeX aggregator before November 2. Today the token is circulating about $0.60, which would imply a fully diluted valuation of 6 billion, which would make them worth more than uniswap on a fully diluted basis. However, there's a lot of controversy around exactly how the airdrop took place. Despite the fact that some people got $40,000 worth of Jupiter tokens on the airdrop. There's a lot of controversy about the way in which the team sold some of their tokens or maybe sold some of their tokens during this airdrop. Julia. So I couldn't understand it because there's a lot of people flinging around accusations on Twitter, and it seems a little bit esoteric to me. Julie, can you walk us through, like, what the hell happened here and how do you think about it? Personally?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. So, I mean, this is what they call, like an LBP on Ethereum. Basically. You can think of it as like a uniswap v three position, but it's one sided. So they don't post USDC and Jup tokens, they just post Joop tokens. And the range they had the drupe tokens was between thirty five cents and seventy cents or 69 or something. And basically what this means is once the price crosses 69, the whole LP position would be fully in USDC and it would be about 150 mil of USDC. So I think that was sort of expected. The team sort of mentioned that this gives users or traders the ability to sell back into the pool, is sort of like good for traders and price discovery from their perspective. But I think what caused the uproar is like, a lot of users didn't read the fine print, which was the team's gonna remove the LP position in like three days. So they actually extended that to seven days. But I think that sort of created all the drama where people just actually realized yesterday that, oh, if the price stays above seventy cents, the team's gonna withdraw 150 cash in a week. So I think that was sort of like the main cause for drama."
+    },
+    {
+        "speaker": "C",
+        "text": "And how do you feel about it? Do you feel like that's a fair criticism? Do you feel like, hey, they were transparent. They said this from day one."
+    },
+    {
+        "speaker": "D",
+        "text": "I think they were pretty transparent, to be honest. I think they sort of masked some of the terminology with new words that they came up with, like an open market auction and stuff like that, as people usually do. So maybe some people were somewhat confused, but I mean, I kind of understood it pretty early on, so I felt like they didn't actually like, change anything last minute, which I would consider wrong. In fact, they actually increased how long the LP position would be in the pool for from like three days to seven days. So, I mean, I think, yeah, anyone who actually understands, like Defi and read the fine print would have, would have followed it. I think my main criticism is like, it's actually pretty hard to find this information because the founder just writes these blog posts on Twitter. So it's just like these super long Twitter posts, and if you don't read them, you can't really find the information."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I would say I agree with that description. I think, like, they were actually in some ways, extremely descriptive of this. And I think a lot of people who are complaining, like, yeah, were really just complaining because they were hoping that everything would have been written in the language that they understood immediately. And I feel like they didn't really read the fine print and or they didn't get an airdrop. So they somehow were pissed in some weird way. But I feel like if you've watched, I mean, you have to be a little bit mentally insane to have watched all the content that Mister Meow produced. I mean, that motherfucker was streaming 24/7 for like, the last. You know, it's like watching a live stream for like a week. But, like, you know, I think he did say everything multiple times. He just kind of said it in weird formats and like, yeah, you know, but also, I think one thing that maybe I wouldn't have done, even though I know there was a reason they wanted to do this, was they, like, launched all these meme coins beforehand that confused people even more. So. But I don't want to confuse our listeners with that because that is another very deep rabbit hole that I think you probably just want to watch the live streams for. Or, like, watch them on five x to try to. To get."
+    },
+    {
+        "speaker": "C",
+        "text": "Wait, so literally live streams?"
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, yeah. Meow's live streams are crazy. Like, like, yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay. What does he livestream?"
+    },
+    {
+        "speaker": "D",
+        "text": "So, no, I mean, he, he's not like a streamer, but, like, leading up to the event, he basically just said, like, fuck it, I'm gonna go live and just, like, talk through the whole LBP process. I was one of the few hundred people watching it, so I guess I."
+    },
+    {
+        "speaker": "C",
+        "text": "Understood it pretty well. Yeah, I see."
+    },
+    {
+        "speaker": "D",
+        "text": "But, yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Is he doxxed or."
+    },
+    {
+        "speaker": "D",
+        "text": "No, no, he's a public guy. Yeah, he's completely doxxed. I mean, I think he actually explained it, like, pretty fairly. It's just like, if you didn't really read or watch, watch these, like, hours of content, maybe you would have missed the fact that they were going to withdraw, like, the lp or something."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. All of this suggests that someone needs to train a Solana to Ethan person language model to convert all this Solana content to Eth people language like translator."
+    },
+    {
+        "speaker": "C",
+        "text": "Right. Tom, what's your take on this?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I mean, I don't know. Like, I think there's maybe the component around transparency. But the other point too, is, like, people's got airdropped, you know, tens of millions of dollars, and they're upset that the team is providing liquidity and maybe also taking some liquidity for themselves after not having, raising any money. I feel like no matter what you do with airdrops, people are always going to be upset and they always want more, even though they're always getting free money. And so I think this kind of comes back to the point around, like, you know, you get this great sort of press moment out of it. But to an extent, there's always going to be people who are dissatisfied with some component of it."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I think the dissatisfaction usually comes if there's not, like an immediate price pump on the first day, which a lot of, like, people who may have missed the airdrop, they're probably, like betting that, oh, maybe it'll still go up. They're trying to trade the event. So I think, like, if the event is like a nothing burger or it just goes down suddenly, like, all these people get mad. We've seen this, like, so many times. So I think, you know, like, for Jupiter especially, I feel like a lot of the price discovery actually happened in these, like, pre markets, which maybe we'll speak about later. So the actual day one launch was pretty boring. It was not exciting at all."
+    },
+    {
+        "speaker": "A",
+        "text": "This is a great transition to talk about Evo, actually."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. One of the interesting parts of the story was the price discovery that started taking place before Jupiter actually launched. Because Evo, which is the product that was launched by originally ribbon Finance, Evo, actually listed, I guess, futures for Jupiter before it launched. And I think at the time, the pricing on the futures was pretty in line with where the token originally came out. Talk us through how you think about launching derivatives of assets that don't yet exist. I remember back in the day there were a few exchanges that started, centralized exchanges that started doing this. Very interesting to see this happening in Defi. I'd love to coin flex and strategy."
+    },
+    {
+        "speaker": "A",
+        "text": "You remember coin flex?"
+    },
+    {
+        "speaker": "C",
+        "text": "There were a few others. There's a few others, yeah. There's some chinese exchanges that also used to do that a lot. So I'm curious. Yeah, talk us through it."
+    },
+    {
+        "speaker": "D",
+        "text": "Some of them still do today. I think Kucoin is one of the bigger ones, but, I mean, they kind of rip users off with the fees, like 5% or 2% or something just for one trade. So it's really expensive. There's like physical delivery of coins. It's pretty sort of annoying to use, I think. And, yeah, I think one of the ones that we got inspiration from was like the FTX Coinbase market, which was like, they actually listed a Coinbase perp before Coinbase IPO'd, which is like, really interesting. And I think liquidity was really bad. And I don't think any serious people are trading there, but it was still like an interesting market. It's more akin to, I would say, like a prediction market compared to an actual future. So the type of people who want to trade these things are more of prediction market. Style speculators compared to actual people who want to trade the stock. But, yeah, I mean, we started working on this maybe six months ago. I think the original idea was it came out of this binance launch pool. So binance, maybe six months ago, announced they were going to launch say, which was like a pretty anticipated coin. And within our office, we were all just guessing, oh, do we think say is going to launch at a billion or like 2 billion? And we are just making a market just casually? I think someone just had a crazy idea. What if we just made a market on evo itself for this instead of just betting p two p. What if you could just list some sort of market? So, yeah, we kind of just did that. And I think the core idea was like, what if people could trade this? And when the token actually launches, we actually input, like, an index price, so it'll start converging onto the actual price of the token because of the funding rate. So it kind of is like this future, but it doesn't deliver on the day itself. It kind of, like, gently transitions into, like, a regular perp through the funding rate when the actual token is launched. But before the token launches, there's this whole long period where people are just trading this weird thing. Like, no one actually knows what the price is. It's kind of completely dislocated from anything. So it becomes a very interesting thing to trade as well. So, yeah, Jupiter was, like, obviously one of the most, like, anticipated launches in the last few months. We made a market for it in December, and when we first started this market, it was only trading at a billion. And then over the month, like, Solana and Jupiter got super hyped. The market started trading all the way up to 8 billion. And over the last week, it sort of came down all the way to 4 billion, and then it kind of settled at six. So, yeah, I think, interestingly, a lot of people were trading this market. It was like our biggest prelaunch market by far, quite a few mil of open interest. So I actually do think a lot of price discovery happens on these things, interestingly, and one of the most interesting phenomenon that I've seen is there are all these YouTube videos and tutorials on YouTube of how do I hedge my airdrop on Abo? Because, I mean, if you know that Jupiter is giving you, like, 200 tokens in a month, I can go to Abel and just, like, sell it now and lock in the price. So that has become, like, one of the interesting primary use cases of these markets. All these, like, industrial level airdrop farmers can kind of lock in the price. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "So actually, a very funny thing I've observed recently, and I won't name names, but I've heard some larger fund investors who have literally indexed how they were valuing a private company pre token based on the Evo price. So they were like, here are the comps evo prices of their pre token launch. And so we're going to value this round of this other pre launch earlier than that prelaunch token at some multiple times the Evo price. So like, I feel like that is, if there is a sign of success, it's like private market."
+    },
+    {
+        "speaker": "C",
+        "text": "Makes sense. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Would you rather trust like a million dollars in like, actual secondary, physically delivered saps, or would you rather trust like, you know, 10 million open interest in Avo?"
+    },
+    {
+        "speaker": "A",
+        "text": "I agree. But like, you know, for instance, there's a lot of incentive for the team to go trade the comps and push the comps price up so that their valuation goes up. Right. It's kind of the thing where, I mean, the private market investors have to be kind of a little bit cautious."
+    },
+    {
+        "speaker": "C",
+        "text": "To prediction markets solve this. Prediction markets solve this on their own. Sure. But it's interesting, I love this idea, Julian, that to be clear, yes. Obviously, relative to a team that wants to really push up their market comps, which it's funny to imagine that that's the reason why you're the perps on."
+    },
+    {
+        "speaker": "A",
+        "text": "Your, I will say that this private investor didn't even think about this when I mentioned that. Oh, well, what if the team did this? They're like, wait a minute, I have to go back and look, I mean."
+    },
+    {
+        "speaker": "C",
+        "text": "To be clear, you could also do this on safs, right? Like if you want to go buy."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure. I think it's funny that someone was investing and didn't even like, think that this would be an adverse selection type of thing against."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure, sure. So what's interesting, I really like this idea of airdrop farmers hedging their price risk. We should maybe talk a little bit about what this means. And this ties into one of the next things I want to discuss, which is points and airdrops generally, because it's been a big theme, especially of what's happening in Solana, given how many projects on Solana are courting users with airdrops or point systems. So an airdrop farmer, for those who are not familiar, airdrops are when a protocol basically rewards users of the protocol or people are doing some kind of work for the protocol with tokens. And we've seen these things called airdrop farmers, which are basically people who are more or less gaming the system. They're inorganically pretending to do things that users are supposed to be doing in order to try to make money from the protocol that's giving away these incentives to users. Do you imagine the person who creates multiple uber accounts and refers their own accounts? That's the real world equivalent of what airdrop farmers are doing. But in crypto, nobody can tell you're a dog, as the old joke goes. And so it's not very easy to actually figure out who's a real user and who's kind of a quote unquote airdrop farmer, unless there are certain signatures."
+    },
+    {
+        "speaker": "A",
+        "text": "That, look, look, by the way, you know, the same thing is true for every e commerce platform. There is tons of fake volume generating."
+    },
+    {
+        "speaker": "C",
+        "text": "Of course, but people generally use, like, you know, they use like, phone verification in order to dedupe duplicate people and stuff like that. You'd be surprised."
+    },
+    {
+        "speaker": "A",
+        "text": "Every kind of referral scheme."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, of course, I used to work in anti fraud. So I know very well how many people try to game these systems, especially outside of the US, where the relative incentive to game these referral systems is extremely high. So the interesting thing is that, okay, so there's these industrial airdrop farmers. We can't really call them hedge funds, because I don't think you can do it at the scale of, like, you know, tens of millions of dollars, but probably in single digit millions you can make by doing this kind of industrial airdrop farming, quote, unquote. The interesting thing is that there's another protocol called Pendle, which has also gotten a huge surge in popularity, specifically because people who are farming points on Eigen layer are using it to hedge their eigen layer points. So essentially, Pendle, my understanding is that it allows you to take your future yield, package it up, and sell it to somebody else, which is essentially not just your future yield, but also your future airdrop on Eigen layer. Essentially, it's become like this pre launch market for eigen layer and valuing your Eigen layer points. And so the market is kind of finding all these weird little ways to be able to give financial products and hedging products to these industrial airdrop farmers. And it's becoming quite a big business. So I find this fascinating, the way in which people are finding markets where they otherwise, like Pendle, before Eigen layer took off or not took off, it started getting lots of TVL. Let's say pendle was kind of floundering in terms of product demand, but they've kind of found their one thing that seems to really be working for the protocol. So I'm curious to get the perspective from you guys. So, first up, the rise of points. We talked before about points. I think, Tarun, you mentioned that points was the biggest innovation that you thought you've seen or the best new innovation for this year."
+    },
+    {
+        "speaker": "A",
+        "text": "Let's just say it's the innovation that attracted people back."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure, sure. It's worked incredibly well. And points are connected to airdrops, but they're not the same as airdrops. Let me ask you this. How would you define the difference between airdropping tokens, which was the meta for a very long time? Hayden, the founder of Uniswap, infamous for having done the airdrop heard around the world, one of the biggest airdrops in history, he's been very critical of points. How would you describe the difference between airdrops and points, and how points are different from just pure vanilla airdrops?"
+    },
+    {
+        "speaker": "A",
+        "text": "So one very important difference is that airdrops generally have a fixed criteria that is verifiable on chain for when you can claim. So that basically means, hey, did I use the product for a certain amount of time? I did some set of actions, and then based on those actions, the protocol codifies that in smart contracts, such as a Merkle distributor or different type of distributor, to allow you to claim your tokens. Points, however, are sort of arbitrary insofar as they're realistically at the discretion of the team. They're not actually converted to real tokens. There's like, oh, you do some actions, you get these points and they may convert to tokens later. Right? So the examples of those are Jupiter, Jito, et cetera, that had a lot of these types, of course, eigen layer being the biggest one. Now, I think the beauty of crypto is that there's this inevitable thing where there will be like the Avo for points. There's already like whales market, which lets you do p two p points trading. And like, obviously, once there's enough liquidity in that, people will make a prediction like market, whether it's looks like Avo, where weather is more like a prediction market for bet, for trading these types of things. The difference is that there's still some discretion in how the points turn into tokens on the team. And so that's the place that I think most of the criticism is, is that the teams are holding that. Now. I think there's a way to view this in the dialectic. There's like the positive, right, which is like the point systems allow developers or protocols to see which actions people are doing. And then over time, sort of almost like a, a b test experiment, kind of get users to do actions that are more beneficial to the protocol's long term health than just, just like add liquidity, get tokens, remove liquidity. That was sort of the old game that existed. So it actually allows for, basically, in my mind, the best case scenario is protocol developers get to use their users as QA testers, and points are a way of really flushing that out. That's the best case here. The worst case scenario is that the team just kind of like, rugs the users or changes their criteria, and then the users are like, what the fuck? Like, we committed our capital and we didn't. So I think the key thing is, like, you know, a little bit like what happens in e commerce marketplace optimization. You kind of have to, like, kind of gently do this type of these changes. You can't, like, do them very abruptly because, like, obviously that will lose user trust. But I do think there's sort of like, having the right types of commitments from these teams is quite important. I just generally think, though, the beauty of permissionless finance is that someone will make the prediction market and all of a sudden your points thing won't be this thing that's in the control of the team anymore."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. When we talk about futures and hedging, there's a famous story of how Ray Dalio helped McDonald's hedgehead corn and soy futures to be able to create chicken nuggets. And so I'm kind of like, this feels kind of like the chicken nuggets of, I guess, like crypto futures and that, like, they allow sort of industrial air farming or airdrop farming and, like, points farming to exist and that people can now maybe effectively hedge or calculate the rewards without having to, like, be subject to volatility. But I don't know if that's really kind of the outcome or the good thing that we want. Like, chicken nuggets are great. I don't know if, like, airdrop farming is actually good for users or protocols or the ecosystem in general."
+    },
+    {
+        "speaker": "A",
+        "text": "You could argue both are equally bad for your health. You could, one involves you sitting and clicking all day in front of a computer, and the other one is, well, you know, the McDonald's chicken nugget, which is famously bad."
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, I assume a lot of it is automated if you're doing this at scale. But yes, I'm sure there's also. Sure."
+    },
+    {
+        "speaker": "A",
+        "text": "But, like, you have to actually, you have to keep reprogramming when they change the rules on the points. Right."
+    },
+    {
+        "speaker": "C",
+        "text": "It's not like, sure, yeah, you have to keep watching these live streams, apparently. So, yeah, there's, there's a lot of."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly, exactly."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So, Julian, you guys have intentionally not done a point system in, in Evo. And so you guys originally riven finance, you're launching a new product called Evo, you're rebranding the token. Talk us through. Like, why did you decide to do that point? Seem to be the meta. Why are you guys not doing the meta?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, so I mean, I agree a lot with what Taryn just said. Like, I mean, that's like a positive and negative in terms of, like, the positive. The team gets to iterate on how the rewards are given out. Some ambiguity is sort of left on the table so that the team can still change things. If, I mean, if like, some sort of user behavior is really getting skewed because the criteria is not set up in the right place, team can sort of shift it over time. But I do think in the last few months, maybe the pendulum has swung in the other direction where, you know, teams obviously know that currently airdrops are kind of this hot meta, and anyone who announces an airdrop will sort of attract a bunch of people. And I think the pernicious part about points is they can sort of just dangle this criteria in front of you and decide to just not give you anything because ultimately they control what the conversion of points to tokens are. That's sort of like the weapon that they have. So, yeah, I think currently in the points meta, everyone's trying to do this, calculate. Like, the meta game is really just like, okay, I know how many points I'm going to get, but the second game that they're playing is how many points do we think is going to convert to tokens. So there are really two sides of that game. And I think, like, one phrase that I've been seeing on Twitter recently is like, the farmers are getting farmed. So teams are sort of attracting all this TVL, like all this by dangling some point reward, but eventually they just decide to give the farmers nothing. So I think that sort of creates a very bad taste in people's mouth. I mean, I think it's just very tempting, right? Like if you have the ability to, you already have the TVL, you don't need to give the tokens at that point. So it is very tempting for the team. But yeah, I do think the pendulum is starting to shift away from it. I think people are like, this two level game also creates a lot of mental fatigue in terms of like, you need to think about how I'm actually farming the airdrop, which is how I'm getting points, and you need to try and reason about whether the team's going to give you some amount of tokens. So, yeah, I think we just feel like the classic airdrop liquidity mining style thing actually works pretty well. The criteria is clear upfront on how you're getting these tokens. You're getting x amount tokens, you can value it. And I mean, with the rise of all these like financialization of points, it's kind of the same thing anyway. If you know it's going to be the same thing, why go through all these hoops? So, yeah, I think something simple actually feels better and works better for everyone, so I think you're just going to do that instead."
+    },
+    {
+        "speaker": "A",
+        "text": "On the other hand, I will say one thing is there is an analog of these point systems in normal finance. That's not credit card points or something. That is the pre IPO equity sales, where right before a company ipos, oftentimes what they'll do is they'll sell in advance at a discount or undetermined floating discount, sometimes some fraction of their stock prior to IPO, so that they have some guaranteed liquidity on day one. And usually those people are kind of like holding for a year and they have some kind of discount rights. And if the IPO doesn't happen, then they get paid back in some way, partially. And in some ways these point systems just feel like almost more algorithmic version of the pre IPO to IPO conversion market. And I just think because crypto is crazy, you have all these amazing prediction markets that show up almost instantly for how much eigenvalue point is worth. Actually, the eigenvalue point market is one of the funnier point markets that you can see. Like the spread in people's pricing is insane. It truly is amazing to look at how a market can start with so much uncertainty and then over time kind of converge. It's such a beautiful thing to watch."
+    },
+    {
+        "speaker": "B",
+        "text": "It's funny. The other analog, I guess, to the pre IPO market is that there's also this weird pricing game where you actually don't want to hit the exact market clearing price when you're pricing your company. You want a small pop on IPO day, which is the same as token launch, which actually means you left value on the table, but it makes everybody feel good to see the number go up, even though it means you sold for under market and was probably not the right decision. So airdrop farmers also want to see the token go up, even though maybe they're selling into it or maybe the team is leaving money on the table."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, it's funny. I tend to think that despite the points that you made, Julian, I tend to think that points are, you made the point that they're less transparent. I think that is in some ways, to the benefit of the protocol, because once things are completely transparent, then it is a pure financial calculation. And there's clearly something about people that Jupiter Airdrop, Jupiter team is going to continue to do points, and they're going to continue to basically create more and more incentives and airdrop more tokens over time. But somehow, I think we all know that nobody's ever going to care nearly as much as they will about this initial airdrop, not just because of the scale. Maybe they'll do a one that's even bigger scale, possibly. One can imagine that, but people aren't going to care anywhere near the same extent. The spotlight effect is going to be much less, uh, because of the fact that there's so much uncertainty about what the initial airdrop is going to look like and feel like and what the story is going to be. Um, and, and the same thing is true for almost all of the liquidity mining programs that have been done by. Even if you think of, you know, defi v one protocols that initially did liquidity mining or continuing to experiment with liquidity mining, um, the, the big stories was the first time they did it and what the token came out at and how it floated and blah, blah, blah. And that's when, like, the TVL was, you saw the most craziness. And so there is something about the uncertainty and just like the really, really, the massive volatility that attracts people, creates storylines, gets people's imaginations really going. And then once it say, okay, well, here's how much the comp emissions are, and here's how it changes your da da da. And you just kind of do that. You just do the math on a spreadsheet and you decide how much liquidity to add based on this incentive. It does lose some of that magic that I think points hold onto for quite a bit longer now. Maybe it's just a function of the token floating the first time and the second time you do it, second points program. Nobody cares."
+    },
+    {
+        "speaker": "A",
+        "text": "Are you telling us that you really need to go to an amusement park and go on a roller coaster and just get a thrill again? Because that's what you're saying you want the thrill, thrill back? Yeah. You want the thrill back."
+    },
+    {
+        "speaker": "C",
+        "text": "I'm not an airdrop farmer, so I'm not talking about myself. I'm talking about, it is very clear the level of engagement when you make people not know, I mean, it's like, you know, why do people enjoy, you know, I don't know, like a pretty bad example. I knew a lot of guys when I was a professional poker player who were low stakes grinders, right? And they would play poker, and they would grind out, making like, $10 an hour or $15 an hour. But they would hate working at McDonald's, and McDonald's, I don't know. Like, sometimes McDonald's actually pay more than that. But there's something about the uncertainty and the risk and whatever. It's like, oh, my God, I'm making my money doing this cool thing that really captivates people. But if you make it very clear to them, here's how much money you're making per hour, and it's exactly this, every single hour, and there's no uncertainty and there's no risk. People are like, ah, you know, I don't know. That's not, it's not as fun to do that as to bound myself up with the uncertainty. Even if sometimes I get rugged, people seem to enjoy it more. I think it's just part of human nature."
+    },
+    {
+        "speaker": "D",
+        "text": "What if, uh, like, I told you that, like, the trend of people feeling like they get rugged keeps increasing over time, and I think that, I think that is going to happen, and there's going to be a new disappointment every single month, and I think that will kind of change the matter again. So I I just feel like, um, if at some points, maybe I'm a bit early on this, but if you say you're launching a points program, it's kind of the same thing as, like, saying, yeah, we're just going to, like, screw you over later. So I do agree with, with your point, but I do think that, like, there's going to be, like, a strong trend towards these things, disappointing to the downside for most users, and that would basically kind of kill the airdrop. Maybe that's, like, for the, for the better, actually."
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, I thought this was going to happen years ago, but it hasn't happened like, it. The points are very strange because it should be a gigantic prisoner's dilemma, which is that you let everybody else create this norm that you launch points, and then when the points system is finally done, you get this big, juicy airdrop and you make everyone happy. And you would think that everybody's individual incentive is to defect and basically hype people up and make them think they're going to do this massive airdrop and then do a tiny little nothing airdrop but get all the usage anyway, get all the TVL, get all the trading volume anyway, because you're sort of retroactively rewarding people, which shouldn't work from a game theory perspective, that should not work. That should be just an unsustainable equilibrium. And it's been like years now, and it just, it just keeps working because people are afraid of getting yelled at on Twitter. And like, when, when you see people defect and they don't do the thing, they don't give a juicy enough airdrop. People on Twitter yell at them for about ten minutes and the team immediately folds. They're just immediately like, oh, my God, I'm so sorry. We clearly miscalibrated. We're gonna go back to the drawing board. Our sincere apologies. We didn't realize how much the community has given us. And they go back and they revise the airdrop and they do a bigger one every fucking time. Every fucking time this happens. And it amazes me because, of course, these airdrop farmers are overwhelmingly not their actual users. These are mostly non sticky users who don't really care about their products, and they leave as soon as they get their airdrop."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I was gonna say, like, the people who are disappointed are like the people you don't want. It's like the nutritional web tool. The more incentives and the more affiliates and the more referrals you give out, the less sticky, the less these people spend, the worse these users are. And so it's really hard to replicate organic users who find your product organically or through word of mouth, and they just love it and they're sticky. And so it feels like that was sort of the initial idea of liquidity mining, is it's this small subsidy to get people in the door, and instead it's turned into, like, we're just going to attract all these basically toxic users who are sort of net negative for the product or aren't actually going to retain and pay them, and then they're going to leave as soon as they're not getting paid enough. And it's like these are people you didn't even want in the first place, unless they're contributing some sort of massive value to the ecosystem, which doesn't really seem like they are."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, the counterargument many people make is that, well, airdrops are not really about users or retention or whatever, they're really about distribution of the token. And so you're just finding a way to decentralize the token and whatever. These assholes are good. They're just as good as anyone else."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So I give a talk on sort of airdrop stuff at this Aptos summit recently, and I brought in this research from Jack Hawthorne, I think, who works at variant. One of the interesting bits was, I mean, obviously, analysis of people who received airdrops from Uniswap and one inch and things like that, and what they do by and large, like a year in like 90 95% of them had already sold the token. Not super surprising. The interesting part was people who bought the tokens from those airdrop sellers were more engaged in governance. They held the token longer because they were actually putting their own capital and time into, you know, the token. They were therefore more engaged and more invested in it. And so, yeah, maybe it distributes it to a larger number of addresses, but these are not necessarily the addresses that are going to be your core user base and your core fan base."
+    },
+    {
+        "speaker": "D",
+        "text": "Like, to your point, it also does seem like the icos are making a bit of a comeback. Again, I don't know if you have seen, but there are these new protocols launching. There's one that launched yesterday which got a lot of hype, but basically their whole, like, branding and tagline is about like making icos great again. So I do think there's some like nostalgia or maybe, I don't know, we're just like running back 2017 like concepts again. But yeah, I mean, like maybe this Jupyter thing where, you know, effectively they did do a big public sale of the token through this liquid LBP thing. But yeah, maybe there's like a. Going to be a sort of revenge of the ICO this cycle. I don't know, it seems. It's like, is meow american? He's. No, he's based in Singapore as well."
+    },
+    {
+        "speaker": "C",
+        "text": "Singaporean. I see."
+    },
+    {
+        "speaker": "A",
+        "text": "So actually, I actually am, like I said, I think there's ways to use point systems kind of positively to like stress test things, especially if it's like to stress test how people will use stuff. So I think the Eigen layer point system stuff is actually the most interesting experiment to me, because all of these liquid restaking protocols, which are technically adding a lot of risk in some ways, because a lot of them are levered levia things like pendle, and they're levered in weird ways. So that's right. Now you don't necessarily see that risk because things are trading at par. There's not some kind of deviation. They're not supposed to be pegged assets, but they trade in some range. And so that's why these things seem to be somewhat stable. But I think the interesting thing is this is actually before there's a lot of avss, you're actually stress testing the stuff that people are building on top. And what they're doing is they're adding their own point system. And so now you're getting these like not so great users from a revenue retention or stickiness perspective to basically QA, whether something will blow up for you before you're live. And I actually think that's a very interesting use case of this type of stuff. Now, as I said, you can tell from the points market pricing, like no one agrees on what the value of an eigen layer point is right now. It's like the variance is insane. And so I think that in and of itself means you get more like reps of like, you know, QA ing is the wrong. It's sort of like. It's like somewhere in between stress testing and queueing. And like, I actually think there's some protocols that are new technology where that's actually a huge positive versus finding out when your token's live."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, I guess I don't understand for Eigen layer in particular how it's QA ing and not just making it a bigger honeypot because what is there to QA right now?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I mean, how stable these lrts are. Do they have this huge aggregation effect or will they compete with each other so that it, you know, you relatively."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, I see. But that's like downstream of that."
+    },
+    {
+        "speaker": "A",
+        "text": "Right, but that impacts the security. That impacts the security of the. Yeah, but it impacts the security of that. Right. So it's actually a way of like seeing what happens with things that aren't in your control. Right. Protocols built on top of you are driving volume and like you're able to see like this kind of like interaction effects that you might not have predicted when you were just. You're trying to build your new thing. So I think like I. There's a world in which that type of stuff is. It's like incentivized QA testing. It's like better than. It's like somewhere in between incentivized Testnet and like a live card."
+    },
+    {
+        "speaker": "B",
+        "text": "You're getting baited, but you're getting paid to be baited and so it all works out, you know?"
+    },
+    {
+        "speaker": "A",
+        "text": "You know, I'm sure, I'm sure this is like, you know, getting catfished, but like, then turning out to like, like the person. Have you guys become friends? I don't know. I'm trying to find some analogy, but I don't have."
+    },
+    {
+        "speaker": "C",
+        "text": "That sounds like, that sounds like a great romantic comedy."
+    },
+    {
+        "speaker": "D",
+        "text": "I don't know if you guys have seen for some of these social base points system, like Frontec, there's this whole rise of this three three thing. Have you guys seen that? I think that's one of the most interesting phenomenon."
+    },
+    {
+        "speaker": "C",
+        "text": "What is this?"
+    },
+    {
+        "speaker": "D",
+        "text": "Basically frontech and maybe blast and a few other protocols, they give you extra points if you refer other people. So there's this virality component to it. Like, how many people can you bring in? Gives you some sort of multiplier. So there are these informal groups of people. They're not even doubts. They're just like Twitter people. And basically they just make an upfront commitment saying, if you use my ref link, I'm going to give you back 50% later. I'm gonna give the bonus that I got from the protocol to just like, send it back to your wallet. And there are all these, like, accounts now which are just like zero x CBB or whatever is one of the most famous ones. Basically, he has like an extremely massive, like, blast group of people using his ref link because he has made this commitment to give it all back, to give half of it back. So, yeah, it's like a very interesting coordination between people. I think, you know, maybe at some point someone's gonna, like, codify this into a protocol or some sort of smart contract way of distributing the points. But, yeah, it is very interesting to."
+    },
+    {
+        "speaker": "C",
+        "text": "See how well, but, okay, so this is, this is one of the advantages of points, though, is that points are revocable. Right. It's not a hard commitment in a way that, like, you know, you're talking about how the nice thing about airdrops is that they're totally transparent. The rules are set up in advance. The whole point about points is that it's like, well, the team has a discretion to say, like, wait, hold on, you're right. Like, no, this is not okay. You're gaming this, and this is not in the spirit of competition. And so I don't know the particular person you mentioned, but I can imagine blast when they actually are ready to convert the points into the tokens, they're like, wait, actually looks like this guy and these guys over here, like, what they're doing is bullshit. Uh, and so fuck all of you and fuck all your points. Um, and even, you know, people who are trading on whatever that whale market is, um, uh, doing these. This is whale market. Yeah. So this place where people are trading points, you can imagine that a bunch of point systems just go through whale market. Is it open? Can you, like, see all the people who are trading?"
+    },
+    {
+        "speaker": "A",
+        "text": "You can see all the bids. It's just peer to peer. It's just."
+    },
+    {
+        "speaker": "C",
+        "text": "It's all about. Yeah, if it's peer to peer, you can imagine people just going in there and, like, saying, look, we're going to go back through, like, the history of everyone who's traded on this marketplace and invalidate everyone. All your points go to zero. And all of a sudden, people will feel this real fear that, like, oh, shit, I better not try to financialize my points because if I get caught doing it, they go away, and that becomes a big risk."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. But I feel like this cat and mouse game sounds actually quite entertaining. Right. Between the team and the. It's just like, now it's not. Now it's another level of game theory between them."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, totally, totally. But that's also true for airdrops, right? Like, I mean, back in the day when people were doing just vanilla airdrops, they would spend a lot of energy trying to filter out the airdrop farmers and the inorganic activity and this and that. And so this has always happened, at least with point systems. It's more transparent that that is in the purview of the team to go in and do the work, to figure out who's doing this honestly and who's kind of fucking around at the same time."
+    },
+    {
+        "speaker": "A",
+        "text": "I do kind of agree with Julian. I kind of think there's going to be two market forces that caught, kind of cause these things to change again. One is people being like, I can't. I can't get rid of. Get out of these. And I need liquidity. Fine. But the second is sort of this, uh, aspect of, like, if these financial markets start becoming sufficiently liquid, and then the team is like, hey, we're going to ban you from using it. It could go. There are two ways this could go. This could go like, okay, people are afraid. They won't. They won't sell, or that market will suddenly be more liquid because everyone's like, oh, my. Liquidity is worthless in this protocol anyway. So I'm just going to exit, right? And so, like, there's so many different end states from this. That would be. You mean."
+    },
+    {
+        "speaker": "C",
+        "text": "You mean take your liquidity out of the protocol? Or do you mean exit your points?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, exit your points because you're assuming that your tokens are going to be worthless. And so that kind of causes this, like everyone, no one adding new liquidity. Right. Like it actually will like flatline the point system. So like there's this interaction because it's."
+    },
+    {
+        "speaker": "C",
+        "text": "Less liquid, the points are less valuable in and of themselves."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And also if like the team says, oh, yeah, we're not going to give you an airdrop, then like now the most of the market. No, you might just say no. New entrants join your protocol. So there's like, there is this kind of trade off that happens. And I think that will be this like tit for tat type of thing where like one side does one thing, the other side makes another market. And like, that's the beauty of these permissionless markets, right? Like, you can't really stop anyone from doing that. It's not like trad five where Gary Gensler can like beat you on the head with like a bonk mallet. Well, yeah, well, yeah. I don't know. What point are points security is. I don't know. That one is too hard. Good luck."
+    },
+    {
+        "speaker": "B",
+        "text": "Points are just points."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, points just point."
+    },
+    {
+        "speaker": "B",
+        "text": "You know, I think everyone needs to go back and take like a beanie babies. Uh, everyone needs to go back and take like a web two growth marketing course. Because I feel like all this stuff has been so well trodden. Like even the referral thing that you're mentioning earlier, there's this kind of famous story of in the early days of Uber, um, the software engineer figured out that you get like a lower, uh, I think Uber is giving out like $20 to everybody that you could refer. And so the software engineer figured out that, um, you know, you could run Google search words ads for less than that $20. CAC, he was paying $2 for running Uber referral code or something ads on that search term on Google. And so he's just racking up tens of thousands of dollars in Uber credits by running Google Ads for his own Uber referral link. And eventually Uber found out and they shut down his account or removed its credits or something. But it's like all the humans are humans and they just respond to incentives. A lot of this stuff has been tried many, many times over. And so I think if we maybe learn more from kind of the past attempts at doing this, we'd like, have actually better systems versus kind of reinventing."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, this is why I brought up the marketplace optimization a b testing stuff, right? Like that's how people catch, or at least test do these experiments to catch people, right? And I think that the teams doing points are kind of. It's not like they're not. They know they need to do that. So it's. I think it's just more like the quick financialization changes this in the sense that your A B test can be interacted with in a way that you can't control. So that's a novel thing. That's very true. Crypto only like this. Whales market points market, interacting with how people are using your protocol is like, that's a totally weird thing. Or like Avo interacting with how VC's are pricing deals. That's also a new thing. Right? Do you remember in the early maybe 2013, 2015, there were tons of VC's would just be like, give me your Daus and Maus and retention and, okay, I'm valuing your company from that. This is like that, except it's like people are putting more skin in the game."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes. Truant. Are you arguing that a team should not be actively kind of policing and deleting points, you know, trying to enforce the non transferability of points?"
+    },
+    {
+        "speaker": "A",
+        "text": "I just think, like, it's going to be, you know, I think initially, if they do it, people might get scared, but then people will start finding ways around it. Like, don't underestimate the creativity of people who want liquidity, of course."
+    },
+    {
+        "speaker": "C",
+        "text": "But I mean, look at Tom just brought up the point of, like, okay, Uber and the referral codes, right? Like, okay, if you're Uber, Uber can."
+    },
+    {
+        "speaker": "A",
+        "text": "Actually shut you out."
+    },
+    {
+        "speaker": "C",
+        "text": "It's all in the game. Technically, Uber can shut you out. So can a point system."
+    },
+    {
+        "speaker": "A",
+        "text": "No, I can go sell on whales market whenever, like, there'll be financial product that comes out to let you get out which uber you're locked in, I."
+    },
+    {
+        "speaker": "D",
+        "text": "Think, for whales market."
+    },
+    {
+        "speaker": "C",
+        "text": "Right. But you can collapse the value of the. Of the secondary market."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, no, no, you definitely can collapse it by, like, doing these rules. But I do agree that Turin. But with turns point, it's just like we literally have this, like, permissionless trading of these things and no one can stop it because it's all traded in dollars. It's not traded in the tokens or points. It's literally a completely separate thing and it's enforceable with smart contracts. So it is a very crypto native thing. You know, for sure that this protocol is going to be able to deliver the collateral if the points are worth nothing or something like that. I think is like. Yeah, it's quite. Quite novel, actually."
+    },
+    {
+        "speaker": "C",
+        "text": "Wait, so the points are generally tied to the address, are they not? Or are they tied to something else that's transferable."
+    },
+    {
+        "speaker": "D",
+        "text": "They are tied to the address."
+    },
+    {
+        "speaker": "C",
+        "text": "So you're selling like an address in whales market."
+    },
+    {
+        "speaker": "D",
+        "text": "You're not selling anything. It's really just like a future that we both agree on. So if you are the seller of these points, I just post USDC as well."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, I see. I'm not actually selling."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's like a CFD."
+    },
+    {
+        "speaker": "C",
+        "text": "I see, I see, I see."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I'm saying."
+    },
+    {
+        "speaker": "C",
+        "text": "Got it. So you couldn't necessarily identify where the points that are being speculated on are from."
+    },
+    {
+        "speaker": "D",
+        "text": "You can't really stop it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I see, I see. Well, you can't. You can't ident, like if somebody creates a new account that is not the account that actually has the points they're hedging, then you can't necessarily tell who's. Who's doing what."
+    },
+    {
+        "speaker": "A",
+        "text": "Also, if there's enough demand, if there's enough demand, people will make pooled models. The pooled models become much harder to police. You know, it's like the cat and mouse game keeps going on. So, like, I think that's where it's extremely different than web two. And that's also something where it's like purely the on chain stuff will dominate the centralized. Because the centralized things will look like Uber. And they can shut you down. Right. They can just turn off that market. But clearly you can't really shut off these on chain markets for this stuff. And that's where the fun is. That's like the excitement."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that makes sense. That makes sense. For some reason, I was under the impression they were selling accounts. But if they're just doing derivatives, then. Yeah, there's no way to stop that."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. I mean, you could sell Ford's off chain super analog."
+    },
+    {
+        "speaker": "C",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "The same kind of thing. I think really you need a point system for the point system so people."
+    },
+    {
+        "speaker": "C",
+        "text": "Can hedge their point exposure."
+    },
+    {
+        "speaker": "A",
+        "text": "But I think we're already starting to see that. No, no, there's already people starting doing that. My point is."
+    },
+    {
+        "speaker": "B",
+        "text": "Wait, what?"
+    },
+    {
+        "speaker": "A",
+        "text": "There are already people who are making like a point. Derivatives."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, sure."
+    },
+    {
+        "speaker": "A",
+        "text": "Like you. I just think. I think that the beauty of this space compared to everything else is this. This freedom means people will find a way to be creative because they want liquidity."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that is certainly true. Very interesting. Well, so we're coming up on time, so I wanted to wrap Julian with sharing a little bit about. Because right now you guys are going through a big transition of your own. Originally, as I mentioned, you are ribbon finance. I think the token is still called ribbon finance, but you are alongside Avo, which is this decentralized perpetual swaps protocol. You're also rebranding the token without points as we established. Talk us through why you guys are doing that. There haven't been a lot of rebrands in crypto, certainly not in Defi. Why are you guys rebranding the token and what is that experience like for you guys? Because that sounds, some people have done this thing where they launch a new token and slowly new token supply. You guys are not doing that. You're moving everything over. Why? And actually this is something we were just having a conversation internally because there's another team we're talking to right now that is launching a second token with a new product instead of moving over the original token. Talk us through how you're thinking about that."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I think ultimately teams have the choice to do a new token. I think we also maybe thought about it, but ultimately I think we just."
+    },
+    {
+        "speaker": "A",
+        "text": "Felt like the maybe thought about."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I mean, like the product. We basically were going to collapse like the old product into the new product and it wasn't going to be this separate thing. And I think where it makes the most sense to do a new token is when I, you know, maybe you're doing just like a hard pivot, like you're doing defi now, you're doing nfts and these are like completely separate things. You feel like they have almost no reason to be tied together. On like an economic standpoint, maybe it makes sense, but I think for us it was like pretty close and the products were going to get collapsed. I think one main issue with doing a new token is sort of like the old token basically becomes worthless or becomes worth very little because it's now sort of governing a very small part of what you're doing. Probably the team has probably abandoned the first product. So, yeah, I think we didn't want to have that mental sort of decision of like, should I buy this or that if I want to get exposure to what I'm working on. So we just decided like, we quite like this single token model. But, you know, like, I think I, as like someone who's been in this space for a few years, I think I know, like, new tokens are always like a new sort of story. I think people can build new, new hype around it. I think there are all these advantages to launching new token. So I think, yeah, we kind of did both at the same time. So it's more just like a rebrand, but there's a bunch of like, rules to how the token swap is going to happen. And, yeah, I think, like, interestingly, almost all our users now, like, don't even know what ribbon is. Like, all these people in discord, like, I've never heard of ribbon. Why are people saying it's related to this? Like, no one even knows anything about the old product, which I think is, like, really healthy. So I think for those users, like, they perceive this as a new project. They're excited about it. But we also get sort of the old community who, you know, they've been like, hardcore defi option traders since, like, three years ago, and they're still sort of along for the ride and still within the community. So, yeah, I think that's sort of like our thought process. We just get all these new people, all this new attention, but we also sort of retain the old group. I actually do think we're going to see a lot more rebrands this year. Like, Matic did one recently, beam merit circle did one recently. So, yeah, maybe there's going to be this, like, bullish rebrand like trend that may happen, but we'll see."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, there's also bit dao de mantle. It does seem like it's been actually, it's been rebrand season, I guess, just in time for a new bullet."
+    },
+    {
+        "speaker": "B",
+        "text": "You can't forget the OG Eflenda Ave."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, that was the most successful one. That was the most successful."
+    },
+    {
+        "speaker": "C",
+        "text": "That's right. By far. Definitely, definitely true. Definitely true."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, but they changed. They changed the supply, though, right? They changed which. That part is the part where I actually feel like it's kind of interesting because even in normal stocks, people do that for, like, meme reasons or to make it more retail friendly, like the Tesla stock split. Do you remember where they, like, changed it? Like, yeah, did that polka dot. I don't remember. When was that?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, Polkadot did that. They had, like, the unit price is very high and they, like, did it, I don't know, like 100 for one or thousand for one token split."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, the rebrand's a good time to do that, is what I mean. Like when."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, totally, totally agreed."
+    },
+    {
+        "speaker": "A",
+        "text": "But you chose not to do that, Julian, right?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I think we."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, you decided to go one for one."
+    },
+    {
+        "speaker": "D",
+        "text": "One for one. Like, the denomination was small enough. We didn't need to add a few more zeros."
+    },
+    {
+        "speaker": "C",
+        "text": "I do think it can be helpful to markets just to people who are thinking this thing trades from here to here and you do some weird conversion divided by 3.7 and then it's like, okay, you can't really do the math anymore. It's like, who knows what this thing is worth? That does seem to work, at least to some extent. But I want to ask you this before we close out, because we're up on time. Um, you know, you're Julian at this point. You are one of the Defi ogs. You've been doing this for quite a while. Um, who do you look up to as kind of your personal heroes within crypto or Defi or, like, who, who do you think has done it best or you want to emulate?"
+    },
+    {
+        "speaker": "D",
+        "text": "Maybe this is going to be an unpopular opinion, but, like, I actually really like the way that Jupiter founder did what they've been doing for the last few years. I mean, like, it's really impressive."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay. I mean, Jupiter."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, like, I mean, I know the guy pretty well. Like, he's great. And, like, they really stuck it out. I think, like, we spoke, like, almost two years ago at, like, the absolute bottom of Solana. And they were also, we were just, like, brainstorming ideas on, you know, rebranding. They effectively did a rebrand as well from, like, their previous swap protocol to this. So we have had a lot of back and forth around, like, yeah, how to do this. And, I mean, I think I really respect how they kind of stuck through the Solana plan the whole time, like, zero plans to do. They didn't get carried away by, like, the cross chain narrative or Laetu narrative. They were just, like, day one."
+    },
+    {
+        "speaker": "A",
+        "text": "They didn't move to a move chain."
+    },
+    {
+        "speaker": "D",
+        "text": "Exactly. I mean, all these Solana protocols, like, moved to soy and whatever, right? But these guys really stuck it out. And, like, throughout the bear market, he was telling me that they had, you know, there are days where they had, like, zero users, like, basically almost zero activity, but their products, like, they had so much time to just iterate on the product. I think if you, if you guys have tried it, I actually think it's, like, a really good product as well. They've just told me, like, they've done."
+    },
+    {
+        "speaker": "A",
+        "text": "Everything from arguably best product, best consumer product in crypto."
+    },
+    {
+        "speaker": "D",
+        "text": "I feel like, exactly like they, they just care about small stuff. Like, how quickly does the page load, like, how quickly does your token list, like, auto populate and as well as some, like, other sort of unique DCA features and stuff like that. So I actually think they did really well for themselves and, like, the Solana community. So, yeah, I feel like, I really respect that. They really stuck to the mission. They never, like, pivoted or cared about whatever thought. I guess that's just, like, in their personality as well as he's, he's a bit eccentric, I guess, doing all this, like, crazy meme coin stuff, but he just doesn't care. So I actually really respect that, which may not be, like, a popular thing, but, yeah, he's great."
+    },
+    {
+        "speaker": "C",
+        "text": "No, that's a great answer. And clearly he's been, he's been very handsomely rewarded for that. So. Well, well done to meow. All right. Well, we're up on time. Thanks, Julian, for coming, joining us and sharing your insights. And we'll be back next week. And hopefully, hopefully my throat will be better. Thank you, everybody."
+    }
+]

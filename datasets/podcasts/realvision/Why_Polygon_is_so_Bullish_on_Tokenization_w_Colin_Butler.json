@@ -1,0 +1,206 @@
+[
+    {
+        "speaker": "A",
+        "text": "Remember when everyone thought Ethereum would dump after the Shanghai upgrade? The price of Ethereum actually went up nearly 5% after withdrawals opened. But Ethereum might not be the token you should be looking at right now. Ethereum staking had its highest inflows of deposits in the week of April 24. The amount of ether staked is now above 19 million coins, or nearly $38 billion. Origin ether lets ETH holders earn elevated yield on their ethereum directly to their crypto wallets. You can deposit ether for o EtH or deposit liquid staking derivatives like Steth and Reth to boost your ether yield. So get started today and start stacking eth faster. Mint oeth with your ether and watch your balance start to grow daily. Head to realvision.com oeth now to learn more."
+    },
+    {
+        "speaker": "B",
+        "text": "Colin Butler, global head of institutional capital at Polygon. Welcome to real vision crypto daily briefing."
+    },
+    {
+        "speaker": "C",
+        "text": "Thank you, Ash. It's a pleasure to be here."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, it's great to have you. So much to talk about. Obviously, lots of news flow at your shop. But first, before we do that, let's take a look at today's prices. Bitcoin trading on my screen, well, it's below 27,020 6797. It's off a little under 1% on a trailing 24 hours basis. Trailing seven days, down nearly 5%. 4.88%. On my screen, down right now, trailing seven days. Ethereum on my screen, trading at 1797, trailing 24 hours. It's off about, oh, about one and a third percent. Trailing seven days, off 4%. Let's talk about polygon Matic while we've got Colin here. Polygon, of course, is the name of the project, Matic, the symbol. It trades under the price. Right now on my screen, trading at around $0.85. It's up on a trailing 24 hours basis, about one and a quarter percent, I'm sorry, call it one and a half percent. Jumping on the screen right now, and in keeping with the broader trend, it's off about 3% on a trailing seven day basis. Colin, lots to talk about here in terms of the broader framework for what you guys do at Polygon. The name says it right on the tin. Global head of institutional capital at Polygon to talk a little bit about what your role is. And for people who may not already know, we've talked about Polygon on this show before, but talk about what you."
+    },
+    {
+        "speaker": "C",
+        "text": "Guys do, I am more than happy to, Ash. Thank you so much. So let me start, I think, with, for the help of the viewers, what Polygon really is. What the mission is, what the focus is. So Polygon was really created by the founders as a way to enable cheaper and faster Ethereum. There was this idea that eventually Ethereum could become a global settlement layer whereby it has by far the highest level of security in decentralization. Think of the idea that they have over 500,000 validators globally. It's probably more like 600,000 or something like that at this point. And then they have the highest amount of decentralization. Those are two core tenants for the really crypto native ecosystem, and a focus for a lot of the people in this community. And so the idea is that if ethereum only creates a block every twelve to 13 seconds, that's a little long for a lot of use cases, and the gas fees tend to spike when usage becomes heavy on the network. So how do you get around these problems? So really Polygon founders come along and say, okay, we're going to really focus on scaling Ethereum, like allowing it to be the bedrock for the next, call it billion users, because everybody that works on this side of the industry has such a great believe in the technology that we believe ultimately it provides a lot of value for all 8 billion people in the world. And so we're going to distill that. We're going to get a little bit more focused on that. My aspect in terms of institutional capital would be how does this technology enable, call it like the large asset managers, how does it enable the banks, how does it enable the exchanges to have a more efficient cost of capital, increase their revenue, or de risk their institutions? And for these folks, this is an existential question, because at the Goldman Sachs JP Morgan, you can think of all the largest asset managers in the world. It is a very competitive landscape in terms of customer acquisition and cost to service customers, as well as the idea behind how do you garner additional revenue expansion in an industry that has evolved over the course of decades?"
+    },
+    {
+        "speaker": "B",
+        "text": "Let me jump in there. Go ahead, please. You said so much, and I want to make sure that everyone's following along. So this essentially is a scaling solution. There are other scaling solutions out there, Polygon being one of the most popular, and it's all about cost, congestion and speed. These are the challenges that people find on the Ethereum network. This is a solution for that, as you mentioned, institutional adoption. And it's interesting because in the last, oh, I don't know, six to twelve months. I've got a list here of all the folks who have announced Polygon projects. I mean, it's Deutsche Bank, KKR, JP Morgan HSBC. This is really when we talk about the big banks, Tradfi, this really is kind of a who's who there. Let's talk about it. I know some of these are smaller pilot projects, but let's talk about the broad, big picture of what these folks see at these big banks, at these large financial institutions, what they see in Polygon, and what the expectation they have in terms of the functionality that they're going to gain from a partnership."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, actually that was a perfect segue. So I tend to think about adoption in three verticals along three lines. So those would be increased revenue, increased cost savings, and de risking. If you look at Hamilton Lane, almost a trillion dollar private equity entity, and the idea that they tokenize their flagship equity fund, direct equity fund, on Polygon. The reason why a Hamilton lane would do something like that is because it shifts the mix of who can actually invest in their fund, and it ultimately broadens their distribution pipeline."
+    },
+    {
+        "speaker": "B",
+        "text": "Before we talk about some of the sort of the technical advantages of this, let's explain exactly what it is that they do in terms of the functionality of the projects, what's the actual mechanics of what Polygon role is in their financial services that they're offering."
+    },
+    {
+        "speaker": "C",
+        "text": "So I'm going to say, if I understand your question correctly, Polygon would be the infrastructure layer that would represent a piece of their fund in a tokenized form that can trade twenty four seven and ultimately allow the customer or the buyer to borrow against an otherwise potentially illiquid holding."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, no, I think that says it perfectly, because I think people, when they hear things like, well, cost savings, don't understand what the actual goal is and what the project is actually doing."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, 100%. From our perspective, if you think of Polygon's mission as to really serve communities, initially it really started by focusing, having a laser focus on the developer community. How do we enable developers to get access to cheap and fast Ethereum? We now evolve into, okay, how do we serve customers of Hamilton Lane to allow them access to products for which they previously didn't have access? So think of the idea of a mid teens yielding investment instrument, investing in private equity, where prior to tokenization, the only people with access would be qualified purchasers of, call it like $5 million or more in investable assets through tokenization, the mix shifts, and we like to think of it as in terms of democratization of assets to individuals that could potentially be accredited investors. And the minimum goes down to a floor of $10,000. So it broadens the access to these previously inaccessible vehicles so think of you. You have to be a fairly wealthy person prior to tokenization in order to even have access to some of the best minds, investing minds in the world, the best funds with the highest returns. And now you and I, well, I don't know your situation, but now I can actually afford to participate in this. And think of it as it's a flywheel, right? Like, how do we wealthier people expand their well being? They have access to these vehicles. And so, from Polygon's perspective, we're very happy to be able to enable this process by which now normal folks, so to speak, or accredited investors, can get access to these vehicles that are very high return vehicles. What does this do for Hamilton Lane? Why would adoption occur on the institutional end? Because at the end of the day, this only happens if the institutions really want to adopt. So if you think about it, this is a way for Hamilton Lane and their peers to access, call it the mass affluent people with 1 million to $3 million in investable assets to gain access to this new asset class for which they really didn't have any prior exposure. If you want to put it in, jump in here."
+    },
+    {
+        "speaker": "B",
+        "text": "Go ahead, please walk through this. Particularly for people who have engineering backgrounds who don't have backgrounds thinking about private equity. So what we're talking about here is effectively being able to lower the ceiling or the floor that brings people into these assets classes. Private equity. Obviously, generally, to invest, you had to have a lot of money. I know youre saying one to 3 million. That probably sounds like a lot of money to folks, and it is. But compared to the type of individuals who were investing in this large family offices, pension funds, and very high net worth individuals, essentially what youre saying is youre attempting to bring down those costs by essentially tokenizing, digitizing these types of assets so that the transaction fees are lower. And, of course, some of the ancillary benefits you mentioned there earlier, uh, trading, uh, in basically the ability to fractionalize these assets at a much greater ratio, uh, and also, uh, lower transaction costs. And 365 24/7 trading, obviously, these are tremendous, tremendous differences from a relatively illiquid asset class where we are today. At least that's the case for private equity, as I understand it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. And, and I love that you touch, you touched on multiple points that I could do a deep dive into, probably, like indefinitely, like literally forever. And thank you so much for, for stopping me, because these are important to unpack so some of these products. And if you think of the ability to borrow against something that is an illiquid asset or previously illiquid asset. That is a solution for which there was no prior solution. And youre doing this all, by the way, on chain, without going into a bank, without speaking with somebody live. This is an order of magnitude greater value proposition for people than has ever existed. And then blockchain is really bringing those ideas to life. And it's all happening, really, starting now, with ideas like those that we're talking to. So, yes, and just to clarify, if you're modeling the growth in ultra high net worth individuals, you think of mass affluent as like one to 3 million. But the real definition of an accredited investor is actually much lower than that. It's like you have a salary of $250,000 a year, or you have a million dollars in investable assets outside of your home. So it's actually not, you know, the minimum is not one to 3 million."
+    },
+    {
+        "speaker": "B",
+        "text": "These are the criteria, we should say, for the United States. And obviously, it differs by different jurisdictions."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, that's absolutely correct. That's a great clarification. So the idea, broadly speaking, is to bring these products to a much broader cross section of the population than previously had access. And the advantage to the fund issuer or the entity, like, call it the Hamilton lanes of the world, is that now they have access to this new group, which essentially has a 0% allocation to their products, and they can get to a place where maybe they have a more, call it like, pension fund style allocation, where it's like 25% of a diversified portfolio. So it really broadens the reach of the institutions in terms of access to potential clients in a significant way. And that's why you're going to see adoption, Trey."
+    },
+    {
+        "speaker": "B",
+        "text": "So let's talk about some of the other folks that we mentioned here. Some of the other large financial institutions that we've mentioned here looks like, let's see, KKR obviously is tokenized to fund BNY, Mellon, Fidelity. I mean, these are very large financial institutions. Talk about some of the use cases there."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, so I will speak largely to the use cases that have gone on Polygon, because I don't want to speak for other folks. You could definitely have them on your show, but you could think of the idea that KKR was newly early mover. They tokenized via securitize on Avalanche, and it was a great signal to the market that now is the time for the tier one brands to adopt the new technology. And so for us, the first private equity chain that came on in, or first private equity fund that came on in size for us was Hamilton Lane that was a couple of months ago. But you could think of the idea that Franklin Templeton announced recently that they had tokenized their money market fund on Polygon. Right. They actually had a big announcement at consensus, spoke on CNBC. There was a lot of, there was a lot of awareness built around it. What this does for them is it allows them to save significantly on the cost side. So for instance, even in terms of the potential to save just within the transfer agent infrastructure, it's significant."
+    },
+    {
+        "speaker": "B",
+        "text": "I have to explain that to folks who don't have backgrounds in that."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes. And at some point we'll get too technical and for a broader audience, I probably shouldn't, shouldn't get into that. We should probably take that offline."
+    },
+    {
+        "speaker": "B",
+        "text": "But broadly speaking, these are the actual mechanics of how the back office gets done in terms of transfer, in terms of a whole series of different, uh, functions that have to be done. Digitization simplifies it. That's the short answer."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes. And, and you could think of the idea, if you want to think in terms of very concrete terms, multiple individuals actually manually moving things around on spreadsheets. And that still happens to a large degree in the global financial infrastructure. Blockchain is a solution to a lot of aspects of very clunky infrastructure that has been built up over decades. And to some degree, a lot of it can be replaced with a much simpler solution. More like one stop, one click solution."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, and some of those spreadsheet solutions were cobbled together with a combination of backend, COBOL, moving physical certificates, which happened within my lifetime. I certainly remember working at BB and T and having people move physical certificates back and forth. This is some of the legacy, not necessarily the infrastructure that's not still happening at a great level today. But some of the kludgy solutions, the process flows around this, still have that legacy infrastructure backing them and driving some of those processes."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, and absolutely. So I dont think from what you said, it takes a great leap to understand that there is a significant cost savings potential for bringing things on chain. I think that those are actually good examples."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Lets talk about some of the other advantages here. We mentioned earlier, uh, 24 by 7365, trading fractionalization, the capacity to create essentially synthetic securities. I mean, there's just a whole lot of opportunity here, some risk as well, which we'll talk about in just a second, but also a lot of opportunity."
+    },
+    {
+        "speaker": "C",
+        "text": "A lot of opportunity. That, that's the grand vision for this stuff. Right. So if I were to try to paint a picture succinctly of the vision for the future, it would look like all assets in one menu. So say we have four assets, right? We have the Hamilton Lane private equity fund. We have Franklin Templeton money Market fund. We have a fractional ownership of my house, and we have, call it stocks and bonds. And that's all in one place. It can all be potentially borrowed against. In DeFi, it all trades twenty four seven at a lower cost than these vehicles would be presented to investors previously. That I would call it. For me, that's a holy grail solution. And relative to what's happening currently, I think it's an order of magnitude better solution than really what we have now. I think it offers a lot of choice to investors for which they really didn't have prior choice. And I should also include, by the way, commercial real estate assets and things like that. I think that's something interesting that's coming down the pipe. Think about the idea that if you held commercial real estate assets in its current form, it's highly illiquid in the future. You hold it on chain, you can fractionalize it and ultimately borrow against it in a DeFi market. That, to me, is something that's very, very, very cool. That's probably not in the too far future for all of us."
+    },
+    {
+        "speaker": "B",
+        "text": "Colin, let's talk about some of the risks. I'm sure that your clients and some future potential partnerships have these questions about risk. Obviously, we've reported on them a great deal on this show and elsewhere on real vision crypto, talking here about security flaws, leverage pegs breaking, I mean, all kinds of stuff has gone wrong in the DeFi space and in crypto more generally. What are some of the safeguards that you guys take? How do you think about it, and what do you think the current status of risk is in the polygon matic ecosystem?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that's a great question for us, because polygon is security first. Like, that is the bottom line for us. When you think of institutional adoption, one of the major reasons why you haven't seen it to a significant degree as of yet are the challenges around security. And for us, ZK technology or zero knowledge technology actually solves for that, really for the first time."
+    },
+    {
+        "speaker": "B",
+        "text": "Let's explain that to people who may not know what it is, I should say. I've had Silvio McCalli on the show who was the creator of zero knowledge proofs, I mean, the actual pen and paper zero knowledge proofs back in the 1980s, and it's something that I find fascinating. Talk a little bit about ZK and the role it plays in polygon."
+    },
+    {
+        "speaker": "C",
+        "text": "It's fascinating because for the first time, what it allows you to do is prove that you know something without actually having to walk through the steps. And so really what you're doing is submitting a proof. So if you think about our zero, zero knowledge technology, ZKVM, or zero knowledge ethereum virtual machine, what you're really doing is submitting proofs back to the, to the Ethereum main chain. And so you get that beautiful, very secure settlement and decentralization, the security of Ethereum and the decentralization without the risk traditionally associated with a bridge hack. In terms of risks, that's what I would primarily focus on. There is a lot of risks. I mean, we could enumerate those risks all day."
+    },
+    {
+        "speaker": "B",
+        "text": "I think that for people who may not know bridge hacks are, these bridges are technologies essentially that bridge between different chains, and they've been notorious for their security vulnerabilities. We've talked about a number of them here on this show. And the idea behind Polygon and other scaling technologies is to attempt to eliminate the bridge hack as a possible vector by eliminating bridges."
+    },
+    {
+        "speaker": "C",
+        "text": "Essentially, yes. And ash, just to keep in mind for everybody else, this is cutting edge technology that was literally deployed in the past couple of months. The world really thought this would be happening five to ten years from now. I think it's been very, very shocking that it has come out as soon as it has. Polygon actually spent a billion dollars in order to bring this technology in house to create that best of breed solution. So for us, when we discuss bridge risk, if youre thinking about sending billions of dollars or trillions of dollars annually over blockchain rails, it needs to be incredibly, incredibly secure. And prior to zero knowledge technology, I would argue it just didnt have the level of security needed. So what this technology does, I think, for us, really for the first time, is it eliminates that risk of a bridge hack, which to me is the most significant risk in terms of adoption. That's what all of our partners or users on the institutional side, I think would be most focused on. Finally, we're extremely, extremely excited to provide a solution that I think if you asked Vitalik Buterin what would be the holy grail of scaling ethereum, he would say zero knowledge proofs. In fact, I loosely paraphrased a quote from, from Vitalik, hopefully not incorrectly."
+    },
+    {
+        "speaker": "B",
+        "text": "So let's talk a little bit about the tokenization of securities. This is something that a lot of people in this space are talking about. We're talking about here, stocks, bonds, derivatives, other registered securities. The challenges there are not just technical, not just economic, but also legal, regulatory and compliance. Let's talk a little bit about that. I imagine that one of the things that you face when you walk into large banks or large financial institutions is folks, there go this makes me a little nervous. I hear about all of these lawsuits, ripple and sec, for example, and people are concerned about that. Obviously, it's a risk averse culture in financial services for the most part, particularly in the back office component of it. But let's talk a little bit about where you think we are right now. Current state of play with regard to legal, regulatory and compliance aspect of tokenization of securities."
+    },
+    {
+        "speaker": "C",
+        "text": "Fascinating question. Is very, very tough to say because a lot of the outcome for regulation will take place behind closed doors in Washington, DC. I could speak to current regulation globally. So there's areas of the world that are more, I would say, forward leaning into the technology. They want to attract builders and developers and crypto or blockchain ecosystems to their geography. And so they're really framing their focus is a very loose focus in terms of regulation, or they're framing it in terms of how do we provide guide rails to this burgeoning industry and therefore attract this talent and these builders in the US, it's a little bit different. There is heated conjecture and it's become a political issue that I should not or will not get into. But it's important to understand that I think what's happening now is fully compliant and falls well within the framework of the existing regulations. If you think of the idea that a Franklin Templeton tokenizes a money market fund, they do not do that without speaking to the regulators on a very, very frequent basis because they cannot jeopardize the balance of their business to be too blockchain forward. If you think of the idea that securitize, the company that tokenized the Hamilton Lane fund on Polygon recently, securitize spent years getting the licenses in place for them to do what they do, which is a highly compliant and regulator friendly solution. So whats happening now? And the things call it, the announcements that youll see in the next three to six months, those are very compliant solutions under the current regulatory framework. What happens beyond that? It's a little bit tougher for me to see or even speak to. Maybe Rebecca Reddick, our chief policy officer, would be a better one for that."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, we'd love to have her on. Also securitize, I believe, also did the KKR fund. That was just, again, not a polygon on avalanche. That's great. So much to talk about here. Unfortunately, you talk about this idea of other geographies attempting to attract this type of business. Unfortunately, the United States does not seem to be one of them at the moment. For those of us living here, we appear to be a bit of a laggard. One of the points that we should talk about here is Mika or Mica, depending on how you pronounce it. Markets and crypto assets act has moved forward in Europe. What are your thoughts about the european space right now, and what are you guys doing to tap that?"
+    },
+    {
+        "speaker": "C",
+        "text": "So polygon is a global organization. I'm personally in favor of things that set very clear, well known, and understand frameworks and rules, and I think Nika is one of those. So that, to me, is a step in the right direction. I think that there's a handful of different geographies that will be coming out with similar profiles. But as long as you can get to the idea that, okay, here's what you can do and here's what you can't do, I think that allows the industry as a whole to move forward, because then I. Everybody is playing by the same set of rules, and the rules are known."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's such a good point. I've heard this time and time again by folks in this space who say, we want to be good actors, give us the guardrails, tell us what we can do. Tell us what we can do. We'd love to abide by the rules. There just aren't clear rules in place today here in the United States."
+    },
+    {
+        "speaker": "C",
+        "text": "It's tough because Coinbase really built their business on being extraordinarily compliant and friendly towards regulation. And quite frankly, I think they're being punished for it right now. And I think it's super unfortunate. Anchorage, in terms of a custodian kind of had the same approach, and in my mind that actually it really backfired in terms of what really should be happening, because I think what you want, if you are a regulator, is to encourage people to come to you and have that open dialogue and work within your frameworks. Trey?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. I should ask you this question, state of play more broadly in the industry right now. What are your thoughts? How do you think the industry is doing? How do we think of doing in the United States and elsewhere? What's your overall sort of health check on the industry?"
+    },
+    {
+        "speaker": "C",
+        "text": "You know, I said it's not been."
+    },
+    {
+        "speaker": "B",
+        "text": "The easiest time, obviously, we should say for those who are not following closely."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I come from the view, from my perspective, my seed as the head of institutional capital, I hate to say it, but it's almost like things have never been better because adoption is happening. It's happening at 1000 miles an hour in the background. The challenge that you see, if you think about the idea that again, Franklin Templeton announced two weeks ago and probably most people, 99.9% of people in the US, had no idea that this was about to occur. These are highly regulated organizations. They can't share their roadmap, how they're thinking about things until they're really ready, until they're fully compliant. I'll tell you from my seat, there's a lot happening in the background and you're going to be able to see that in a public format in the coming months. There's going to be, I say it too frequently, but announcement after announcement after announcement, that's going to let everybody know, okay, this is happening. The reason why it's happening is because if you really think about the technology as an infrastructure, it's just so much better in so many ways for these large, large players. There's billions and billions of dollars on the line. So thats why youre going to continue to see adoption."
+    },
+    {
+        "speaker": "B",
+        "text": "Preston, its so interesting because thats generally not reflected in the overall price action of bitcoin and ethereum. Whats happening in the background is this just sort of a temporal disconnect? How do you think about that?"
+    },
+    {
+        "speaker": "C",
+        "text": "At some point there will be convergence. At some point there will be enough on chain usage to validate certain. How do I want to put it? If you think about the idea that validators of the polygon network receive tokens as compensation for securing our network, at some point the on chain usage and the revenues paid to the network because of that usage become very compelling. And so that naturally, just by virtue of the math behind that, will create convergence as usage increases, everything else will follow organically."
+    },
+    {
+        "speaker": "B",
+        "text": "Talk a little bit about the tokenomics of the token, how it works, how the payments get made, and a little bit about how volume impacts that."
+    },
+    {
+        "speaker": "C",
+        "text": "Just like with Ethereum, every time a transaction occurs on the network, a gas fee is paid to those that are validating and securing the network. That's part of the whole concept. As to why the blockchain is so powerful, all the people that contribute to a network are rewarded in the tokens of the network and therefore the first time you really have full alignment. And I would love to get even deeper. I mean it goes back to the idea of like if you have a social network, it's no longer one side acting at the expense of another side. If I contribute my like or my social post, and I'm actually rewarded in tokens of that, of that social network. We're now all of a sudden on the same playing field, as opposed to kind of one side reaping the vast majority of the wards for the network at the expense of the people that are users of the network."
+    },
+    {
+        "speaker": "B",
+        "text": "Colin, I know we could talk here for another 2 hours if we had the time, but I wanted to get your final thoughts, key takeaways for our viewers and listeners from this conversation."
+    },
+    {
+        "speaker": "C",
+        "text": "Final thoughts at the institutional level, adoption is happening really quickly, and that goes back to the idea that this is an infrastructure, it's a technology platform that is an order of magnitude greater solution than the prior solution. And therefore there is deep, deep incentives through all of finance, in fact all of the global financial infrastructure to adopt the blockchain technology. So from my seat, I almost hate to say it, ash, but times have never been better. I am incredibly optimistic on the space and with deep apologies to people that have kind of been hurt by recent events and speculation that's happened and occurred and will continue to occur. But as a technology, this is truly a groundbreaking technology that I think is going to have tremendous impact on just about every aspect of our lives in the coming months and years."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, it's exciting to have you on, Colin, because you are so optimistic about the infrastructure notwithstanding short term price duration or even longer term price gyration. I think this is very important technology, and it's great to have you on to talk about that and talk about the bridges between the decentralized architecture that we're working toward and the sort of generic financial infrastructure that's existed in the background for many decades. Colin, thank you so much for joining us. Really enjoyed this conversation."
+    },
+    {
+        "speaker": "C",
+        "text": "Thanks so much for having me on the show, Ash. It's been a pleasure."
+    },
+    {
+        "speaker": "B",
+        "text": "That's it for today. Remember to sign up for real vision crypto. It's free. Go to realvision.com crypto. That's real vision.com forward slash crypto. We'll be back again tomorrow with Ken Arad from Solidus Labs. Make sure to join us live, then see at 09:00 a.m. pacific noon eastern time, 05:00 p.m. in London. Thanks for watching, everybody. Have a great afternoon."
+    },
+    {
+        "speaker": "A",
+        "text": "Today's episode of the real vision Crypto Daily briefing is sponsored by Origin Ethereum. Earn elevated yield on your ethereum directly into your crypto wallet. Deposit ether for oeth or deposit liquid staking derivatives to boost your ethereum yields. Now head to realvision.com oeth now to learn more."
+    }
+]

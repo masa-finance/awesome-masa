@@ -1,0 +1,286 @@
+[
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless everybody get 30. 30 baby get 30 baby get 20. 2020 baby get 2020. Bid to get 15. 1515 just $15 a month, so give."
+    },
+    {
+        "speaker": "A",
+        "text": "It a try at mint mobile.com switch."
+    },
+    {
+        "speaker": "C",
+        "text": "$45 upfront for three months, plus taxes and fees. Promoting for new customers for limited time Unlimited more than 40gb per month slows full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "D",
+        "text": "Hey everyone, if you like this podcast, go behind the paywall to get privileged access to the smartest minds in finance, join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off our essential membership for the first year. Now to the top analysis of today's crypto markets."
+    },
+    {
+        "speaker": "E",
+        "text": "Crypto and taxation. We discuss how to simplify the process. France says we to crypto regulations, and another FTX insider pleads guilty. Welcome to real vision Crypto Daily briefing. I'm Ash Bennington. I'm joined today by Shane Brunette from crypto tax calculator. Welcome to the show, Shane."
+    },
+    {
+        "speaker": "F",
+        "text": "Thanks for having me, Ash. Appreciate it."
+    },
+    {
+        "speaker": "E",
+        "text": "We're going to talk about crypto taxes in just one moment. But first, let's take a look at the latest price analysis. The total crypto market cap is slightly higher today on coin market cap, bitcoin is up 1% over the past 24 hours. It's virtually unchanged over the past week, currently trading at $23,700. There might soon be an interesting new option for bitcoin traders. Darabit, the world's largest crypto options exchange by volume, will soon offer bitcoin volatility futures. Meanwhile, ether is trading pretty much in line with bitcoin today, also up around 1% from this time yesterday. Ether has had a better week, though, up 2.5% on a trailing seven day basis. The current price of one ETH is $1,660.01. Final token we're looking at today is maker. It's the governance token of the Defi platform maker Dow, which is behind the stable coin. Dai, the token, whose symbol is MKR, is the best performer today. Bankless Times says the jump in price comes after members of the Dow rejected a loan of $100 million to cogent bank. Before I speak to Shane, a word about our sponsorship. This episode of Crypto Daily Briefing is sponsored by the Crypto app. The crypto app delivers everything you need to stay on top of the world of crypto and your own crypto holdings. It includes a market leading price tracker, portfolio manager, analytics suite, and newsfeed, as well as a wide array of customizable alerts and widgets. Crypto moves fast, so don't get left behind. With over 4 million downloads, the crypto app is the market leading app for all things crypto. With that said, let's bring in our guest. Shane Brunette is the CEO of crypto tax calculator. Shane, welcome back."
+    },
+    {
+        "speaker": "F",
+        "text": "Thanks. Thanks for hiccing us, Shane."
+    },
+    {
+        "speaker": "E",
+        "text": "Let's get started with your background. Tell us how you started in crypto and how it led to you founding the crypto tax calculator."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, so started back in 2016. Actually got some exposure during another startup and then moved from there into a crypto tax when initially we were building out a decentralized exchange, and it was just way too early to actually be working on that project. This was back in 2017. There were some issues around securities. We're trying to create a secondary market with some crowdfunding legislation that came out in the time, but from that experience, was left with serious tax implications myself, and just felt like the entire problem is just really much more difficult than it needed to be. From my perspective, the blockchain itself is really the source of truth for all these transactions. And when you're actually transacting on chain, everything is recorded on the blockchain. And doing attacks should be as simple as adding in your public wallet address and it pulls up all your transaction history and correctly categorizes everything. And then you can generate reports. But at the time, it was just a total nightmare, much more difficult than I thought it needed to be. And yeah, I thought it would be like a weekend project, but actually four and a half years later, still trying to solve that problem and get to the vision there of just adding in your public wallet address and everything's done, but we're definitely heading in the right direction."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay, Shane, so give us a bit of an overview of where we stand today with taxation and crypto. I believe you are from Australia. Tell us where we are around the world, but especially, obviously here in the United States, where many of our viewers are. Give us that 50,000 foot overview on taxation."
+    },
+    {
+        "speaker": "F",
+        "text": "Yes, I mean, the key takeaways is if you're making money in crypto, there's a very good chance it's going to be taxable. Even if you're losing money, there's an obligation for you to declare it like this is just the reality for most countries. Depending on your jurisdiction, they can have different rules. A lot of different countries have the concept of capital gains, which is essentially, if you buy crypto and then sell it, the difference is a capital gain or loss, and that can have specific tax treatments. In a lot of other countries as well, you can receive crypto and that gets treated as income. So you've really got two concepts when it comes to taxes and crypto, which is the capital gains tax as well as the income tax. Things like airdrop, staking rewards, actually getting paid in crypto for doing work, anything like that, that's going to fall into the income tax bracket, generally speaking. Whereas any kind of gains from selling, buying and selling, flipping, nfts, anything like this is, generally speaking, going, going to be falling into capital gains. Or if the country doesn't have a concept of capital gains, then it usually just goes maps back into income tax, essentially. But pretty much any money you make in crypto is going to be taxable, probably."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay, so this is one of the areas, I think, of confusion about crypto. One of the topics, for example, airdrops, you get unrealized gains. There's all this complexity underneath the surface. I think everybody realizes when they make a lot of money, they have to pay taxes on it. But one of the things I think about crypto that is so confusing to people are all of the types of transactions that could occur without making money. For example, you get an airdrop token, someone gifts you an NFT, you swap in and out of several tokens without transferring the money back into us dollars. If you're a us resident, give us your overview on how you think about all that and what needs to be done to stay compliant with a letter and the spirit of the law."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, there's actually a really easy shortcut to getting a conceptual understanding of crypto that is fairly applicable, I'd say. And that's between every single transaction. From a tax perspective, there's basically a fiat, denominated, made up transaction. So let me just explain that. For example, with airdrops, if you receive $10,000 of Uniswap airdrop tokens, from the tax authorities perspective, most of the time, the way they think about it is that you received 10,000, say, us dollars if you're a us citizen, and then you went out and bought these tokens. So they think of like an intermediary transaction of fiat dollars between every single transaction that you do. So whenever you buy and sell, say, bitcoin for Ethan, they think about you. Even if you made a direct trade from bitcoin to ETH, they'll think, okay, you traded bitcoin to USD and then USD to ETH. So you could just take away the, what they call the barter transaction, which is, say, directly trading bitcoin to ETH or directly receiving a uniswap, and create a fictional transaction which represents the fiat denominated value in your local currency. And generally speaking, that's a pretty shortcut method to try to understand conceptually how these taxes work. And importantly, if you start thinking like that, you start to realize very quickly some gotchas and why tax planning is very important. For example, if you receive $100,000 of pancake swap tokens, for example, and then it crashes like it was a bit of a pump and a dump, and now it's gone down to $1,000 worth of Pancakeswap tokens. From the tax perspective, it's more like you went out and you received $100,000 of your local currency, and then you went and bought these pancakeswap tokens, and then it collapsed down to $1,000. And if you think about it that way, and if you received $100,000 in fiat currency, you'd think, okay, well, if I got paid just 100 grand, I'd put some money aside for taxes. I wouldn't just fomo all in on this token. And so that's just this tax planning concept that catches a lot of people off guard."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, very much."
+    },
+    {
+        "speaker": "F",
+        "text": "So."
+    },
+    {
+        "speaker": "E",
+        "text": "What you're saying is if you get an airdrop, the tokens have a very high value at the time that you receive them, then the tokens crash in value. Essentially, you're saying it's like you've picked up that taxable gain at the time you received the tokens, and then is it then offset by the loss? Meaning, does it get marked to market? From a tax perspective, this gets very tricky very quickly."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah. I mean, the easiest way to think about in this example is that it's like you got paid $100,000 in cash, and then you went and bought out, bought that token, and the token collapsed in value. And so if you got paid $100,000 in cash, generally speaking, you'd put a some of that money aside for taxes because it's all taxable at that point. Right? And so, and then if you. If the currency collapses in value, depending on your jurisdiction, you can't actually, and a lot of times offset the capital loss against the income that you derived when receiving that initial airdrop, for example."
+    },
+    {
+        "speaker": "E",
+        "text": "Explain what you mean by that. Go ahead."
+    },
+    {
+        "speaker": "F",
+        "text": "Well, for example, in Australia, you've got this concept of capital gains, which is separated from income, and you can only offset a capital loss against future capital gains. You can't offset it against your income. It depends on your jurisdiction. But there's actually some different rules, and they keep out. They keep."
+    },
+    {
+        "speaker": "E",
+        "text": "So let me jump in and just see if I understand this correctly, because I know many people in our audience have tech backgrounds. They don't necessarily have backgrounds in accounting. So what you're saying is essentially, capital gains losses can only be offset against other capital gains losses, not income. So it's not just one pool of money that essentially all of these losses and gains are offset again. So, for example, if you earn, I don't know, $100,000 and you have $50,000 of capital gains tax losses, those $50,000 in capital gains tax losses don't offset any of your wages. They have to be offset against other capital gains earn. You know, basically, when you generate money from capital gains, capital gains, you know, creation of value."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah. So this can be the case depending on your individual circumstances as well as your jurisdiction, which is why it's super important to try to get an understanding about your tax obligations, because you can get off guard. And we have a lot of users who come through the door not appreciating how many, how much tax they actually owe. And in some circumstances, they actually have a debt that is greater than their current net worth because of the way that they've structured these transactions. And they could have done something very differently at the time, which would have made a really big difference?"
+    },
+    {
+        "speaker": "E",
+        "text": "Well, that sort of begs the question then, what are some of those things that people can do to essentially create greater tax efficiency at the time of the outset so that they don't wind up, for example, as you say, with this terrible circumstance where their obligations are actually higher than their net worth."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah. Very first thing you could do is start actually recording all your transactions. That's the first part of accounting is having accurate records. If you don't have records, it's very hard to do anything, essentially. Obviously, you can use a software product like crypto tax calculator to, to do that. Beyond that, try to get an understanding of your local jurisdiction's tax rules, understand the concept of capital gains versus income, and whether your jurisdiction has a separation of these two concepts or not, because this is a really big gotcha. If there is a separation of these concepts within your jurisdiction, do you really?"
+    },
+    {
+        "speaker": "E",
+        "text": "For example, here in the United States, do you know if that's true? Is there that distinction that you're making?"
+    },
+    {
+        "speaker": "F",
+        "text": "It depends on your individual circumstances as well. If you're trading more actively, then it could be offset specifically for the US. I can't remember off the top of my head, but, yeah."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, Shane, let's talk a little bit about this. We should say your background is not in accounting. You're not a certified public accountant. You're a software developer. You've got a background in software development. So let's talk a little bit about what the app does, what inspired you to create it, and how you believe it can help in this process for people to use in consultation with, for example, their tax preparer."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah. So what you should be doing is keeping accurate records. If you go to a tax preparation service like a CPA and just try to explain to them all the things you might have been doing in web three, you know, late night staking, airdrops, mango swap, all these types of things, the accountant's probably going to stare at you and wonder, this is awfully complex, and it's going to cost you a lot of money, essentially. So you can use a service like crypto tax calculator to get all your wallets and everything aggregated into one system that's structured with appropriate records that you can easily export and provide to your CPA. Or alternatively, you can export it into something like turbotax and just upload this into turbotax and allow, essentially, the experts to try to work out what the actual tax implications are of those transactions. But the hard thing with the crypto tax isn't working out. You know, is this capital gains or is it income tax? And how do we treat income tax? Like, these are all very well known properties for the accounting industry to deal with. The really difficult part about crypto tax is actually just getting the records in the first place. It's being able to say to your account, it's being able to say to your accountant, look, I made $50,000 in airdrops last year, and I made $122,000 in buying and selling crypto. And $32,000 of these gains were held for over twelve months. So perhaps there's some sort of long term holding. And once you've got these reports, you could basically give them to your accountant or give them to something like turbotax, and then that system can work out very easily what your tax obligations are, because crypto tax is only one part of your entire individual circumstances. And what I mean by that. For example, if you're trading equities as well as crypto, then that can actually have an impact, because that might change the nature of your investment intentions. And depending on your jurisdictions, there's quite often, like a differentiation between being considered an investor or a trader for tax purposes or being considered a business. And, you know, the intention, whether it's profit making or whether it's, you know, more like income, like it's actually an active activity that you're doing versus passive. So there's all these kind of considerations that come in to which is a combination of jurisdiction plus individual circumstances. So nobody on the Internet is going to be able to tell you exactly, manage all this, get it into an appropriate format so that you can actually have conversations with your accountants that are meaningful rather than them, you know, you paying them 200, $5300 an hour just to do the bookkeeping, and that could take you 40 hours. And it's essentially just an administrative task."
+    },
+    {
+        "speaker": "E",
+        "text": "Hey, everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back."
+    },
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium Wireless 30, 30, baby. Get 30, baby. Get 20 2020 get 20 $2020 1515 just $15 month."
+    },
+    {
+        "speaker": "A",
+        "text": "So give it a try at mint mobile.com switch."
+    },
+    {
+        "speaker": "C",
+        "text": "$45 upfront for three months, plus taxes and fees. Promoting for new customers for a limited time unlimited more than 40gb per month slows full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay, I'm starting to get the idea now. So basically, crypto tax calculator is kind of a translation engine, really, between the records that are stored on the blockchain and these reports that you need, essentially, to give to your tax preparer or to the software that you use to do your taxes in order to essentially get them speaking the same language so that you can take those records that are all on the blockchain, obviously, but in a format that a tax preparer, someone who has experience in this, can understand, and therefore file it into the appropriate categories in terms of the actual filing that you need to do with IR's or whatever the taxation authority is in your jurisdiction. Is that roughly right?"
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, exactly."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay, Shane, let me ask you this. Tell me a little bit about the software. For example, can I still secure my own private keys? Is there a way to export this so that it's not a security risk to the tokens or to the crypto that I hold in my own private wallets."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah. So you absolutely should never share your private keys with any software, including crypto tax calculator. We only hold public wallethood addresses. That's all we ask for. So you just share your public wallet address when it comes to exchange activity. For example, if you're trading on coinbase or binance, then you can log in with read only API keys and we'll provide steps to be able to plug that into our software. And so that doesn't enable any trading or withdrawals or anything like that. It's purely just read only functionality. Very similar."
+    },
+    {
+        "speaker": "E",
+        "text": "You said binance. And what was the other one?"
+    },
+    {
+        "speaker": "F",
+        "text": "Coinbase. We actually support over 600 different integrations. There's a lot of different exchanges, even a lot that have gone debunked over the years, because also you need a complete trading history. From the beginning of time, you need to be able to show your transaction history. So the first time you got into crypto, whether that was over the counter or an initial trade on Coinbase or whatever you did, and then you need to be able to show your, your flow of funds all the way through to your current inventory, which is essentially, what's your current portfolio and how did you get there? When you actually talk to the tax authorities, what they will do if you get audited is have a look at your records and try to work out if there's any gaps in the data. And it's actually incredibly easy to do that. It's essentially forensic accounting. We've actually had a, one of our initial advisors was a tax advisor who was, you know, working for these tax authorities as an auditor. And essentially, there's these checks and balances they run to try to make sure that the records are complete and accurate. And so what we do with the software is we also run similar checks and balances, and then we can help you pinpoint if there is any discrepancies, if there's any gaps in the data. This can occur because you forgot about a particular wallet that you might have been trading on. It can occur because maybe you've got an FTX account and you can't get access to those records anymore. Some of these exchanges, they can only keep records for 30 days. So we'll help you try to work through and pinpoint that and how to basically cover for this. But all of these things are very important, these checks and balances, which you can do over your records to make sure that everything's complete okay."
+    },
+    {
+        "speaker": "E",
+        "text": "So Coinbase, you said, and also binance, you have these read only API keys where you can extract the data, but you don't get access to the actual underlying coins. How about something like Metamask?"
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, so metamask, trust, wallet, phantom, any, any wallet. Essentially what we asked for is the public wallet address. And then we will actually read that directly from the blockchain. So all this data is actually recorded on the blockchain. It's not anonymous or anything like this. It's actually fully readable. It's just in a computerized format, I suppose, like it's being designed for computers."
+    },
+    {
+        "speaker": "E",
+        "text": "Right."
+    },
+    {
+        "speaker": "F",
+        "text": "What we do is translate that. There's a lot of internal transactions and noisy transactions, which we'll endure, and then we pull in the transactions that are relevant from a tax perspective and we'll plug that into the software. And then you have a unified overview of all your transaction history across both your exchanges and your wallets."
+    },
+    {
+        "speaker": "E",
+        "text": "Really interesting stuff. Shane, I want you to jump in and do some news here on the day because there's some interesting stories that we're looking at right now. So let's take a look at some of our crypto news stories. France has passed new crypto regulation. According to the block, it requires crypto firms to apply for a license to operate in the country, and the criteria are stricter than before. France is getting ahead of the upcoming EU wide legislation known as mika. That's the markets in crypto assets regulation. Although the new french rules are in line with the EU's, the legislation is also less harsh than previously floated following the FTX collapse. Shane, we've seen an intensified push for crypto regulation here in the US and in many other parts of the world. What are your thoughts on this?"
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, it's definitely happening. I think even more so in the bear market. For some reason that seems to get the regulators quite excited, by the looks of it. I think from at least a tax perspective, regulation has been coming for a long time in the US. They've got the 1099 das coming out. It's actually meant to be this year. It got pushed off, I think, until next year. But that's going to require a lot of these centralized exchanges to report more directly to the government. So there's a lot more, really, visibility coming so that governments can start to conduct audits, etcetera. From a tax perspective, there's really like a playbook for new regulation with taxes. And really you could consider crypto tax to be a new form of tax in a lot of ways. And so initially these tax authorities, they'll go through a process of educating the market and also forming a view on how to tax this, which is what they've been in for the last few years. And then once they've gone through that initial playbook, they'll move on to the enforcement side. So that's where they bring out the stick and start to conduct audits, etcetera. And that actually hasn't really happened yet. We've seen audits happening on the criminal side, but not so much on the civil side with the IR's. I. But we are expecting this to start to happen over the next year or so. And so that means that if you haven't been audited yet, that doesn't really mean that you got away with it. It just means that they haven't really started the process, but they certainly can start the process. Something that a lot of people might think is that how are they going to be able to work this out? It's all anonymous. I didn't do KYC with my wallet, et cetera, et cetera. The thing to consider is that everything's actually traceable. On the blockchain, they use the same type of software as what they use for KYC, AML, so anti terrorism, and it's all actually public, immutable records that anyone can access. It's even easier for the tax authorities to do this because they don't need a subpoena or they just need the right software. So just keep that in mind."
+    },
+    {
+        "speaker": "E",
+        "text": "Incredibly important points, and that's the transparency of the blockchain that we're talking about here. It's one of its sort of core, fundamental features. Listen, I wanted to jump in and talk about some other stories that we're seeing here today. Another FTX insider has pleaded guilty to six us criminal charges. Nishad Singh was the chief engineer at FTX. He has agreed to cooperate with the investigation into former FTX CEO Sam Bankman Fried. Singh says he knew by mid 2022 that Alameda researched the trading arm of SBF's crypto empire was borrowing FTX user funds without their consent. Singh has apologized for his role in the scheme. Bankman Fried pleaded not guilty, of course, to eight criminal charges in December. He now awaits trial on those eight charges, as well as four more that have recently been added. Also moving on, we reported yesterday a story by Reuters who sources said Visa and Mastercard are taking a step back from crypto. Now the head of Visa's crypto team is pushing back against that reporting. He says the Reuters report is, quote, inaccurate. He said, quote, despite the challenges and uncertainty in the crypto ecosystem, our view has not changed that fiat backed digital currencies running on public blockchains have the potential to play an important role in the payments ecosystem. Close quote. So a strong statement there coming out of Visa's crypto team head. And finally, Bloomberg reports that us investment bank Goldman Sachs is looking to hire more people for its digital assets unit. Teams chief says the bank remains, quote, highly supportive, excuse me, hugely supportive of the blockchain technology. Goldman's tokenization platform, GS DAP, was recently used by Hong Kong to sell digital green bonds. Shane, any thoughts on these stories?"
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, definitely. Share the view there with visa around payment rails and fiat denominated stable coins, et cetera, on crypto, like on a blockchain. I think if you take the economic incentives away from blockchain, what's left is actually a really strong innovation in the accounting space where everything is recorded on this ledger and there's a lot of efficiencies that are derived from that, as well as accountability. You can easily do audits, etcetera, which is, you know, would prevent things like FTX from happening. So I think that's actually a massive innovation in the blockchain space is accounting. If you map back to accounting and triple double entry accounting and the type of unlock that had on the economy, you can really see the blockchain space being triple entry accounting. As unsexy as accounting might seem. It can actually create a lot of value, I'd say. And just think about the amount of energy spent I reconciling transactions between different businesses or auditing, getting third party auditors, like how much economic activity you spent doing all of this, that could be completely programmed away by the blockchain."
+    },
+    {
+        "speaker": "E",
+        "text": "It's interesting, there have been some accounts written about the italian renaissance that say that much of what drove the Italian Renaissance was the innovation of double entry accounting. That's one historical thesis that's out there at least. So these sort of underlying mechanics, the engine room of capitalism, accounting is absolutely critical. We've got a lot of questions that are building up right now from our viewers. Lots of interest in things around taxation. But first, I want to show our viewers a quick clip from today's technical trading with Ben Cowan. This is part of the pro crypto membership on the real Vision website. Sign up at real vision.com forward Slash procrypto. That's real vision.com forward Slash pro crypto. To access additional institutional grade content, here's a snippet from it, you know, does."
+    },
+    {
+        "speaker": "G",
+        "text": "It make sense to be more overweight bitcoin or underweight altcoins or overweight altcoins? Underweight bitcoin? And it really all depends, I think, on where we are within the bitcoin dominant cycle. The major alt seasons that we've all come to love and enjoy, of course, occurred when the bitcoin dominance was much higher and then ultimately fell off a cliff. So these are the things that we ultimately look for in terms of a sustained alt season where you see those, you know, significant moves, um, to the upside. And, and so that's what, you know, that's what I'll continue to look for here on the dominance. So what I'm generally expecting is, is for this to sort of slowly make its way higher, um, maybe to get some type of a pullback at some point and then continue on, and then, and then later on, uh, come back down into another all season that everyone, you know, spends years looking forward to after experiencing one, uh, one or two of those. So that was sort of a brief update on the bitcoin dominance. But I have talked, talked about it quite a bit before and, and the argument is that no matter which way bitcoin goes here, whether it's down, uh, up or sideways, the general expectation is that the dominance of bitcoin will slowly head higher."
+    },
+    {
+        "speaker": "E",
+        "text": "You can sign up for real Vision Crypto pro@realvision.com procrypto that's realvision.com Pro crypto for real Vision Pro content hey everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing."
+    },
+    {
+        "speaker": "H",
+        "text": "This podcast is sponsored by ramp. Are you the decision maker in your company? Consider this. For the first time in decades, theres a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your companys spending and control who spends what. With each vendor, Ramp software collects and verifies receipts instantly to save your team valuable time. Ramp automates data entry and routine tasks with automated approvals, expense categorization and bill payments. Time consuming tasks which means you'll stop wasteful spending and close your books in hours instead of days. Businesses that use Ramp add up to 5% to their bottom line the first year. If you're a decision maker, adding Ramp could be one of the best decisions you've ever made. Get $250 when you join Ramp for free. Just go to ramp.com easy. Ramp.com easy. Ramp.com easy."
+    },
+    {
+        "speaker": "C",
+        "text": "Cards issued by Sutton bank and celtic bank members have DIC."
+    },
+    {
+        "speaker": "H",
+        "text": "Terms and conditions apply."
+    },
+    {
+        "speaker": "E",
+        "text": "Shane, let's jump in and do some of these questions. We got a lot of them coming in. This one comes to us from Ralph on the real vision website in the US. Why wouldn't Airdrop be treated like a gift subject to the gift exemption? Good question. Any ideas on this one?"
+    },
+    {
+        "speaker": "F",
+        "text": "That is a good question. It's a bit of gray area, to be honest. I think the IR's has indicated that to a large extent it's probably going to be treated like income, particularly if you've done anything to earn. I put. You probably can't see my hands, but you know, the quote in brackets if you've earned the airdrop. And really the question comes back to, you know, what is the definition of earning that airdrop? So if it was randomly sent to you, maybe there's a stronger argument that this is a gift of. But if you had to do something to get that airdrop, such as, you know, like make a. I was actually, one of our colleagues was having to wrap eth on a test network last night to try to get claim this airdrop is airdrop farming. You know, he's late at night trying to do it. It took him half an hour. It's going to help their devs. Like, it's kind of like a bit of effort involved. Maybe this is actually income. So that's actually a conversation which is best to have with your cpas. You know, what's the circumstances around the airdrop and then whether that's going to be treated as income or a gift for tax purposes. And it's also extremely dependent on your jurisdiction. So individual circumstances, jurisdictions. Talk to your tax professional. It's definitely something to be aware of that it might certainly isn't necessarily going to be defaulted as a gift."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, a lot of variables here obviously for people to understand. This one comes from Vincent on the real Vision website. Wonder how the Ir's would value an NFt. They look it up on opensea. So that's a question."
+    },
+    {
+        "speaker": "F",
+        "text": "I mean, look, NFTs aren't the first time that there's been difficulty in valuing a collectible artwork has the exact same problem, and they've been dealing with that for a very long time. Typically if it's a high value asset, you might have to get an independent valuation, which sounds expensive. And it probably."
+    },
+    {
+        "speaker": "E",
+        "text": "What does a high value asset mean? Is that millions of dollars, tens of millions of dollars, tens of thousands of dollars."
+    },
+    {
+        "speaker": "F",
+        "text": "I think it's relative to yourself. I'd probably say, you know, if you've got a bored ape or something like this, that might be something that you want to be valuing, like in the hundreds of thousands or tens of thousands at least considering how did you get to that valuation? You could look at the floor price or the characteristics. A lot of times you might just look at the original cost basis and just carry over that cost basis. So again, for something like that, worth talking to your I accountant, getting some professional advice, particularly if it's substantial, you know, if it's a couple of bucks, like if it's $10 or something. Well, I'm not sure the IR's will care, to be honest, but otherwise just have a, have a, talk to a tax professional about this. But yeah, there's different ways of valuing this. But importantly, you need to have some method of valuation. You need to kind of be consistent in that method as well. So you can't use cost basis for one NFT and floor price for another because you know, the floor price was actually would, would lead to a capital loss in this one case. But it's, you know, you can't just structure in a way that's beneficial for yourself. You have to be consistent as well. That's another point."
+    },
+    {
+        "speaker": "E",
+        "text": "Here's a great question from Ruth on the real vision website. My crypto is in a bitcoin IRA. I did an IRA to roth conversion five BTC when the price of bitcoin was at 60,000, which resulted in an enormous tax bill. I'm toying with the idea of converting additional BC now that the price is significantly lower. Thoughts? I don't know if she means BTC. I think she might mean BTC there."
+    },
+    {
+        "speaker": "F",
+        "text": "I mean, you could absolutely maybe explore that. That's probably getting into financial and tax advice type of category. Certainly worth having that conversation with your tax professional. I'm just going to default to that one for this."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, that's fair. Here, uh, let me see if I can ask some questions that don't, uh, have the request for what sounds like financial advice, just uh, on the surface. Okay. Here's an interesting question, uh, from Paul on the real vision website question. Any thoughts on Coinbase is taking a first step in transitioning its business from centralized to decentralized finance?"
+    },
+    {
+        "speaker": "F",
+        "text": "I mean, absolutely a great step. I think the future is decentralized finance. And what I mean by that is just an open ledger that's easily accessible, that's fair, and you can actually see the rules. Like, I don't see why that's not a goal that every company should have. So, yeah, super exciting. I think from an auditing perspective, we'll make it a lot easier to understand what are the risks of this business? Are my funds being managed correctly, et cetera, et cetera. Obviously, it'll also make it a lot easier for the tax authorities to try to work out your taxes as well. That's probably one downside, if you want to look at it that way."
+    },
+    {
+        "speaker": "E",
+        "text": "But yeah, here's an interesting question that comes to us from YouTube. This is a general question. Thoughts on privacy networks like Monero."
+    },
+    {
+        "speaker": "F",
+        "text": "When it comes to tax, Monero and those types of networks are pretty interesting, I suppose. Like, obviously they're trying to obfuscate the transaction history, and you could use this in a negative way to try to hide your obligations. So the IR's and other tax authorities have a lot of experience with this type of strategy, you know, dealing with shell companies after shell companies through throughout the Cayman Islands and all that type of stuff. Basically, the burden of proof is back on you to try to keep accurate records and be able to prove out what your transaction history is. And it's actually up to you to show that there's no gaps and that it's verifiable and you've got appropriate evidence. If they start to see transactions with Monero, tornado cash, or anything like that, you're probably going to get immediately red flagged. So your chances of getting audited in the first place is going to be a lot higher because they'll just see you as obviously an easy target for probably good reasons. And then it's really up to you to try to prove that the transaction history that you have is complete. I know with systems like tornado cash, you can actually get some sort of like, secret key. I haven't used it myself, but some sort of secret key to be able to pull out those transactions. And I think maybe Monero, that might also be the case. So if you have used this, maybe worth exploring to just make sure that you don't have any gaps in your system. Personally, I avoid this like the plague. It's like a really quick way of getting audited, and I'd prefer not to get audited. It's an expensive process. And why make it hard for myself?"
+    },
+    {
+        "speaker": "E",
+        "text": "Well, Shane, this has been a great conversation. I wanted you to give us an opportunity to tell us your final thoughts, key takeaways that you'd like to leave our viewers and listeners with today."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, I think a key takeaway is that what you really care about is your net profit, not your gross profit. An important part of that maximizing your net profit is understanding your tax obligations and working out strategies to minimize those tax obligations. You can only have those types of conversations once you have clear and accurate records. If you're in a state of inertia and you haven't got complete records yet, it's not too late. Just get started using a platform like crypto tax calculator. It's not going to be as hard as you imagine. The most important thing is to just get started."
+    },
+    {
+        "speaker": "E",
+        "text": "Hey Shane, thanks for coming on the show. Really appreciate you joining us."
+    },
+    {
+        "speaker": "F",
+        "text": "Thanks so much for listening. It's appreciated."
+    },
+    {
+        "speaker": "E",
+        "text": "Thanks again. This episode of Crypto Daily Briefing is sponsored by the Crypto app. The crypto app is your place for all things crypto. Download the crypto app today on Google Play or the iOS app store. That's it for today. We'll be back tomorrow with securities attorney Aaron Kaplan, who will join us live. See you at 09:00 a.m. pacific noon Eastern, 05:00 p.m. london time, live on real vision crypto daily briefing. Have a great afternoon, everybody."
+    }
+]

@@ -1,0 +1,490 @@
+[
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless everybody get 30."
+    },
+    {
+        "speaker": "C",
+        "text": "30 baby get 30 baby get 20. 2020, baby get 2020. Bid to get 15. 1515 just $15 a month, so give."
+    },
+    {
+        "speaker": "A",
+        "text": "It a try at Mint mobile.com switch."
+    },
+    {
+        "speaker": "D",
+        "text": "$45 upfront for three months, plus taxes and fees."
+    },
+    {
+        "speaker": "A",
+        "text": "Promoting for new customers for limited time."
+    },
+    {
+        "speaker": "B",
+        "text": "Unlimited, more than 40gb per month slows."
+    },
+    {
+        "speaker": "D",
+        "text": "Full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey everyone, if you like this podcast, go behind the paywall to get privileged access to the smartest minds in finance. Join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off our essential membership for the first year. Now to the top analysis of today's crypto markets."
+    },
+    {
+        "speaker": "B",
+        "text": "Is the operation choke .2.0 thesis in effect? As a client exodus from Silvergate picks up, we ask, what can crypto do in the space right now? Welcome to real Vision Crypto daily briefing. I'm Ash Bennington. I'm a little sick this morning. Apologies for my voice, but there was no way I was missing this show. It's a big news day, a big show with a big guest. I'm joined by Nick Carter from Castle Island Ventures. Welcome to the show, Nick."
+    },
+    {
+        "speaker": "E",
+        "text": "Thanks, Ash. Great to be back here once again with you."
+    },
+    {
+        "speaker": "B",
+        "text": "It's fantastic to have you back on real vision on today of all days. Plenty to discuss. But before we do that, let's take a quick look at the latest price analysis, which frames up, frankly, what we're seeing in the space right now. Crypto is taking an absolute beating. The total crypto market cap is down 3.3% today. On crypto market cap, bitcoin has fallen to $22,300. That's the lowest price since the mid February rally. Bitcoin is down nearly 5% on a trailing seven day basis, with the majority of those losses happening over the past 24 hours. You can see it in the chart. According to data from glass node cited by Coindesk, bitcoin long liquidations hit the highest level since August. Some $62 million worth of bullish bitcoin futures were liquidated in the asian trading hours earlier today. The situation looks only slightly better for ether. Ether has fallen below 1600 us dollars. It's down around two and a half percent over the last seven days. Bloomberg reports investors are fleeing into stable coins, tether, USDT and circles. USDC show an uptick in activity earlier today. The market cap of tether increased by $22 million and the market cap of US DC went up nearly $600 million. 590 million on my screen. Uh, now, before I speak to Nick, a quick word from our sponsor about the show. This episode of Real Vision Crypto Daily griefing is sponsored by the Crypto app. The crypto app delivers everything you need to stay on top of the world of crypto and your crypto holdings. Includes a market leading price tracker, portfolio manager, analytics suite, and Newsfeed, as well as a wide array of customizable alerts and widgets. Crypto moves fast, so don't be left behind. With over 4 million downloads, the Crypto app is the market's leading app for all things crypto. With that said, let's bring in our guest. Nick Carter is a partner at Castle Island Ventures and one of the most prominent voices in the crypto space, especially today. Nick, let's jump in and get right to the news. I want to talk about our top story here, which plays into your thesis. Us crypto friendly Silvergate bank may be fighting for survival amid an exodus of high profile clients. That's after the bank said its ability to survive is, quote, a going concern. Close quote, companies. The company delayed its annual earnings report. I know we need to be careful with the language here. I want to read this quote for precision. This is directly from an official Silvergate filing with their regulator. Quote in addition, the company is evaluating the impact that these subsequent events have on its ability as a going concern. For the twelve months following the issuance of its financial statements, the company is currently in the process of re evaluating its business and strategies in light of the business and regulatory changes it current challenges, excuse me, it currently faces. It says its capital continues to shrink and it expects potential investigations by us banking regulators, Congress, and the Department of Justice. Coindesk lists Paxos, Galaxy and Coinbase among the companies who announced they've cut ties with Silvergate just here in the last 24 hours. Nick, this situation appears to be playing out as described in your recently published thesis, saying Operation Choke .2.0 is in effect. I want to read this quote as well. This is from your Twitter feed, I believe. February 7 quote, I don't want to alarm, but since the turn of the year, a new operation, Choke point type operation began targeting the crypto space in the US. It is a well coordinated effort to marginalize the industry and cut off its connectivity to the banking system, and it's working. Nick, let's tee this up for you. Please explain what Operation Choke .2.0 is, in your view, and what makes the situation from Silvergate part of that thesis."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I mean, I'm not going to take credit for making a call on Silvergate specifically because they were already significantly impaired. When I wrote that tweet and the blog post that came out a couple days later, they had already suffered, I believe, 70% drawdown in their deposits and were already facing investigation regarding their relationship with FTX Alameda. Subsequent events, of course, really made things much more challenging for them. But it was known at the time that Silvergate was in dire straits. Now, of course, really, really difficult situation for them. So choke .2.0 has branded it is a resumption of efforts that it's obviously a callback to Choke 1.0, which was an attempt to ring fence certain politically disfavored industries in the 2013 through 17 era."
+    },
+    {
+        "speaker": "B",
+        "text": "That was during the Obama administration."
+    },
+    {
+        "speaker": "E",
+        "text": "That's right. And that was done basically through informal pressure applied by the DOJ and FDIC against banks and payment processors, asking them to basically cut off connectivity banking support for certain industries that were considered scammy or just insalubrious for some reason. So payday loans were actually one of the main targets. But it really broadened once the administration realized they had these tools into going after adult entertainment businesses, gun manufacturers, ammo manufacturers, all sorts of stuff, and then that basically ended in 2017. So the reason I said that were experiencing choke .2.0 is it does seem similar whats happening now, especially since the turn of the year, where bank regulators are applying coordinated pressure against banks that service the crypto industry. And theyre not directly illegalizing or criminalizing bank support for crypto businesses, but theyre making it very difficult. Its not an outright ban, but effectively, the messaging is, if youre a bank and youre servicing crypto clients, were going to make your life really difficult, were going to bury you in mountains of paperwork, well potentially investigate you. And the consequence of all that is that banks are limiting their crypto practice. Theyre limiting their ability of their clients to, to engage in their normal business activity. They're passing through a lot of these disclosure requests to the clients, making their lives difficult. And certain banks are turning away from crypto entirely. So there isn't a major bank that touches crypto in this country that hasn't been affected by this. Silvergate, as sort of the marquee dedicated pro crypto bank is by far the most affected, but most of these other banks have curtailed their crypto practice as well. The consequence of all that is that for startups, it's going to be harder to get banked, not impossible, but much harder. It ratifies the position of the incumbents that have easy access to banking and represent valued clients to these banks. But it makes life much more difficult for any newer firms, especially firms that are exchanges or that are processing user deposits withdrawals, firms that touch crypto directly. So it's really a troubling development, and we're seeing it play out in real time here."
+    },
+    {
+        "speaker": "B",
+        "text": "Talking of playing out in real time, I just want to quote you directly from this pirate wires post that you wrote on February 8, by the way, which shows the prescience of what you were thinking about and how you've been framing this mentally in terms of your model. Quote this is quote one, guys, if you want to put this up on the screen, what began as a trickle is now a flood. The us government is using the banking sector to organize a sophisticated, widespread crackdown against the crypto industry, and the administration's efforts are no secret. They're expressed, expressed plainly in memos, regulatory guidance, and blog posts. However, the breadth of this plant plan, spanning virtually every financial regulator as well as its highly coordinated nature, has even the most steely eyed crypto veterans nervous that crypto business might end up being completely unbanked. Stable coins may be stranded and unable to manage flows in and out of crypto, and exchanges might be shut off from the banking system entirely. That's from the very beginning. That's the thesis. I want to show one other tweet on screen, and I want to read this as well, because here you make kind of the laundry list of the mechanisms, the actual mechanisms by which government, in your view, has begun this crackdown. Quote uh, this is, quote, two in sum. Banks taking deposits from crypto clients, including stable coins, engaging in crypto custody, or seeking to hold crypto as a principle, have faced nothing short of an onslaught from regulators in recent weeks. Time and again using the expression, quote, safety and soundness, close quote, they've made it clear that for a bank, touching public blockchains in any way is considered unacceptably risky. While neither the Fed, FDIC, OCC, that's the office of Comptroller of the Currency, nor the NEC National Economic Council, is a statement a few weeks later explicitly banning banks from servicing crypto clients. The writing is on the wall. And the investigations into Silvergate, again, this is on February 8, are a strong deterrent to any bank considering aligning itself with crypto. What is clear now is that issuing stable coins or transacting on public public blockchains where they could circulate freely like cash, is highly discouraged or effectively prohibited. It is equally evident that a bank issued fiat token would only be acceptable to regulators if it were domiciled on a surveilled private blockchain. No, quote, unhosted wallet allowed. Close quote. And perhaps more damagingly, the Fed's devastating denial of Wyoming SPDI bank custodia, as well as their policy statement, effectively ends any hopes that a state chartered crypto bank might get access to the Federal Reserve system without submitting to FDIC oversight. Nick, that really is the sort of laundry list of all the things that you see happening in the space. Again, quite pressing, written on February 8, before this latest round of hardship that we've seen from Silvergate. Explain to us the significance of that."
+    },
+    {
+        "speaker": "E",
+        "text": "Charge sheet of yeah, I mean, it's really broad. And this is why I expressed my opinion that it's coordinated. In fact, since I wrote that, a few folks that were ex financial regulators reached out to me and said, yes, we believe this is coordinated as well. It's not happenstance. It's not happening on a spontaneous basis by all these regulators because it spans the whole administration, spans the White House, National Economic Council, the numerous bank regulators, FDIC, OCC, and the DOJ, and frankly, the SEC. So that was the point I was trying to make, is this isnt just a normal course of business. This is a dedicated, coordinated attempt to ring fence the crypto industry. The premise, the charitable interpretation, is that crypto is too risky to have this connectivity to the fiat banking system and that it would introduce systemic risks. So thats the justification. I dont think thats necessarily true. Right. Crypto underwent a massive collapse in 2022. The entire crypto credit ecosystem blew up, and the contagion to the actual banking sector was very minimal. It looks like the worst of it is the Silvergate potentially failing as a bank that doesn't have any systemic effects on the sort of quote unquote real economy. So I don't believe the stated justifications from the administration. It really appears that it's a coordinated attempt to marginalize crypto without legislation."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "E",
+        "text": "And so that's another point I make in the piece, is Congress is not going to be able to do much here. They're pretty hamstrung for the next two years because it's divided."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "E",
+        "text": "The House is republican, the Senate's democratic. So given that the administration now realizes that their best tool to do something about crypto and generally they don't have positive views on the industry, is to deputize the banks as the primary instrument of policy making here. And they do that through the bank regulators. And since I wrote this piece, a few other things have happened. So Silvergates face has worsened. Protego, which is one of the holders of the OCC Trust charter, they appear to be in trouble and theres really not a lot of firms that have that OCC federal charter and Paxos has faced serious investigations. And of course the binance Busd stablecoin has basically been brought to a halt. More things have happened since I wrote that laundry list of the red flags. It's overall the environment for crypto in the US is just getting cloudier by the day."
+    },
+    {
+        "speaker": "B",
+        "text": "And by the way, I want to go and encourage people to read that directly on pirate wires. You actually have a greater level of detail. You break down literally on a date by date basis, all of these actions that you see as part of the thesis. So you really do dig in here and give the granular account of precisely why you see this. By the way, let me ask, there's so many questions I want to get into here, but first let's talk about Silvergate. While we've got that framed up, let me just reread that statement from their official filing with the SEC."
+    },
+    {
+        "speaker": "E",
+        "text": "Quote."
+    },
+    {
+        "speaker": "B",
+        "text": "In addition, the company is evaluating the impact that these subsequent events have on its ability to continue as a going concern for the twelve months following the issuance of the financial statements. Explain the significance of that statement. Essentially in an official filing, this bank questioning its capacity to continue as a, quote, going concern for the twelve months following the issuance of its financial statements. Close quote."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, I have no particular insight into Silvergate beyond what's publicly known, but my understanding is that of course, there's always a bit of a maturity issue with bank portfolios and they've really drawn on everything they could in order to honor withdrawals. And of course, you, you have longer dated assets in your portfolio and then if your clients are trying to make those withdrawals on a short term basis, thats where that mismatch emerges. And I think its really laudable that they were able to honor all of these client withdrawals as the carnage from 2022 played out. But the problem is now theres the additional reputational risk layered on top of everything where they are now facing certain investigations regarding in particular their relationship with Alameda and FTX and whether they did sufficient due diligence with those firms, and that has also caused a lot of their clients to depart. So it's really throwing fuel on the fire here. Their ability to be liquid and solvent gets much more challenging as their major clients desert them. So I'm hoping that they're able to find a way through the maelstrom here. I was more optimistic about a month ago, but, yeah, the events of the last few days look really difficult to survive. Not to mention the fact that, of course, anyone that does business with them, they'll be asked to pass through significant amounts of paperwork. And Kyc Amla really stepped up level of scrutiny. At this point, I don't see why a crypto firm would want to onboard with Silvergate and subject themselves to that. So, unfortunately, I think it's really difficult for them to make their way through this, which is a huge shame, because they are the dedicated bank that specifically branded themselves as servicing crypto clients, and there really aren't many alternatives. Metropolitan Bank, I think, curtailed their crypto practice signature, cut theirs in half. I think they announced their intent to curtail their crypto practice by half. There are other adjacent banks, but none that engage with the industry as actively as Silvergate did. So it really is a bad development for the crypto space."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, we're showing there, right there on the screen a few moments ago, the chart for Silvergate, I think, trailing twelve months, obviously, off about 95%. You make this very, I think, bleak case. You have clients that are deserting them quite publicly. You talk about the potential for liquidity mismatch in terms of basically the borrowing versus the demands for funds holding longer term assets. This is the way that banks have functioned for at least 200 years here in the United States. And these challenges are very well known in terms of the trajectory of what happens when these mismatches go awry and you have folks fleeing the bank. How do you think about the probability of Silvergate success? Is there a scenario here where Silvergate finds a way to turn this around? Because frankly, just listening to your comments, you sound quite grim on this."
+    },
+    {
+        "speaker": "E",
+        "text": "I mean, I'm a supporter of Silvergate. I really respect what Alan Lane's done historically. And of course, I think what they're doing is good."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "E",
+        "text": "The crypto industry has been underserved from a banking perspective, and Silvergates entry into the market was a really positive thing back when they made that move a couple of years ago. So I don't think it's completely unsolvable, actually. It would require, most likely, a committed capital partner to make a large injection and shore up their balance sheet."
+    },
+    {
+        "speaker": "B",
+        "text": "Do you see one of those potentially on the horizon?"
+    },
+    {
+        "speaker": "E",
+        "text": "I do think it's possible, yeah. I obviously don't have any knowledge of that. But they have built up a great vintage, great name, and if they make the pitch to a sufficiently well heeled partner that they'll be able to right the ship, get through these investigations, they come out on the other side if they're able to in a fairly strong position, believe it or not, relatively speaking, because all their competition has just been basically rendered illegal. In a certain sense, custodia was touted as one of the the entities that would get this state charter and then get access to the Fed and then be able to bank crypto companies. Right. The OCC has now. So custodials application was resoundingly denied. So it doesnt look like thats going to go through the SPDI trajectory."
+    },
+    {
+        "speaker": "B",
+        "text": "The pathway special purpose depository institution. This is a Wyoming state statute that allows banks that dont have OCC charters to be banked to be chartered within the state itself."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. So a state pathway to a charter, in theory giving the bank access to a Fed master account. That pathway appears closed. So the remaining banks that are still in business, that are servicing crypto clients, post that decision, they would look to be in a strong position. Of course, there's plenty of crypto firms in the US that need to be banked, so someone's going to have to do that. So if Silvergate survives this, and not to mention the, the OCC federal charter, that's also, it's looking very unlikely that anyone new is going to get that. I think Anchorage has one. Haxos and Portego. Their applications were pending, been pending for a long time. That channel looks semi closed as well. So anyone that was already in business servicing crypto clients, I believe they stand to do well. But that all presumes that Silvergate is able to survive their current woese."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back."
+    },
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here for Mint mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile, unlimited premium wireless."
+    },
+    {
+        "speaker": "F",
+        "text": "How about to get 30?"
+    },
+    {
+        "speaker": "B",
+        "text": "30 baby get 30 baby get 20."
+    },
+    {
+        "speaker": "C",
+        "text": "2020, baby get 2020."
+    },
+    {
+        "speaker": "D",
+        "text": "1515."
+    },
+    {
+        "speaker": "F",
+        "text": "Just $15 a month."
+    },
+    {
+        "speaker": "A",
+        "text": "So give it a try@mintmobile.com."
+    },
+    {
+        "speaker": "D",
+        "text": "Switch $45 up front for three months."
+    },
+    {
+        "speaker": "E",
+        "text": "Plus taxes and fees."
+    },
+    {
+        "speaker": "A",
+        "text": "Promoting for new customers for limited time."
+    },
+    {
+        "speaker": "B",
+        "text": "Unlimited, more than 40gb per month slows."
+    },
+    {
+        "speaker": "D",
+        "text": "Full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "B",
+        "text": "Well you mentioned Paxos because I want to move on to our next story. But actually before we do that, let me ask you this question to call back to a point that you made just a second ago, which is this potential partnership that Silvergate may be seeking for an infusion of capital. I know that you dont have any inside knowledge of whats happening there, but what type of entity might this be? This is a pretty large injection of capital Nick."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah ITd have to be a private equity firm or someone extremely well capitalized. I think it would have to be on the order of well over 100 million. So pretty short list of firms that could do that but its not out of the question and I think Silvergate has a great track record, track record of executing and they built some really interesting technology including the Silvergate exchange network. So it have to be really sort of four sided partner totally bought in, beliefs in crypto. I do believe those firms exist, but relatively short list."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. It sounds like you think that Alan Lane may be on the phone right now trying to raise that money from private equity."
+    },
+    {
+        "speaker": "E",
+        "text": "I bet he is."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Listen, talking of Paxos, another example potentially of Operation Choke .2.0 could stress could be Paxos. The us financial services company recently announced it would no longer issue new BU USD stablecoins as it expects a lawsuit from regulators. The binance branded stablecoin Busd saw an outflow of $6 billion in February. That's just the latest difficulty for Binance. Now the company is fending off questions from us senators after a damning report from Forbes. The outlook posted. Excuse me. The outlet posted an article earlier this week titled Binance's asset shuffling, eerily similar to maneuvers by FTX. Close quote. To be clear, that's a direct quote from the Forbes article, which obviously may send a chill down the spines of folks who've been watching this space for a long time. It's a very detailed investigation whose conclusion is that Binance transferred $1.8 billion in stablecoin collateral to hedge funds including Alameda and Cumberland DRW, which Forbes says left other investors exposed. Coindesk points out that Finance's defense was muddled and kept changing. In the days following the Forbes report, Finance's CEO Changpen south CZ of course, blasted Forbes on Twitter. Three us senators, two Democrats and a Republican have written to Finance's CEO as well as the excuse me. As well as the CEO of Binance, us raising questions about the practices at the two companies. Binance spokesperson pushed back against the senator's claims in a statement to Bloomberg. Nick, this is a big story here. You took a close look at Binance and other exchanges, proof of reserves back in December, and you didn't like what you saw. What's your current thinking about binance right now?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, extremely challenging topic and one of the biggest gray swans in the industry alongside tether, in terms of the level of fear from investors about potential issues with these institutions versus the level of transparency that we're getting in the market, which is de minimis, frankly, both at tether and Binance, from the paCs."
+    },
+    {
+        "speaker": "B",
+        "text": "Can you explain what happened at Binance? I think there was a lot of confusion about this because of the structure of these wrapped coins, how the collateral was backed, how that collateral was then posted on their disclosures. Could you just talk a little bit about what it was that actually happened behind the scenes in terms of the operational mechanics that brought this to light?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. So binance basically was transporting BUSD stablecoins onto their own proprietary blockchain finance chain, because of course, those stablecoins were not initially issued there. And so they were themselves undertaking this kind of wrapping procedure where they would hold some collateral and reserve and then issue these liabilities on their other blockchain, busD or, sorry, binance smart chain, so that you could use stable coins on that blockchain. And the Forbes account, which I read and found quite persuasive, alleged they basically dipped into that collateral illegitimately against their own sort of self disclosed rules, and used it for other purposes, basically used it to honor withdrawals to market makers and things like that. And this is all because the various transactions are visible on chain. So it's kind of a forensic account from Forbes. So frankly, this is a kind of pattern of activity that we see from binance. A fair amount, unfortunately, is kind of bending the rules here and there. A lot of the things that they do are visible on chain, but its very, very hard and opaque. Its very hard to see who these wallets really belong to. Ultimately, it appears that they have a known internal accounting that kind of differs from what we see on chain, and the two do not match them entirely. So the truth is, we cant know the reality unless we got to look at binances internal books and records, and nobody has access to that. So the whole thing is a profound black box."
+    },
+    {
+        "speaker": "B",
+        "text": "Nick, I know there's a lot of opacity here. The actual mechanics of this get a bit confusing. So let me just ask you this very directly, Nick. Do you see this as a potential existential threat to binance? Is this issue that severe?"
+    },
+    {
+        "speaker": "E",
+        "text": "Existential? I don't think so. I mean, they're already being scrutinized by the various relevant agencies, and they are known as the largest entity in crypto period worldwide."
+    },
+    {
+        "speaker": "B",
+        "text": "And by a large margin, by at least an order of magnitude, I believe."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I would say around 60% of global spot volume goes through binance. They've historically been large enough to weather these kinds of missteps as they've occurred. And they get a lot of tolerance that from their. For that, from their clients. Right. So people don't expect perfection from them. They don't expect audited financials or anything like that. Same with their proof of reserve. It was, frankly very questionable, at least the first draft of their proof reserve. And a lot of it has to do with collateral. Who are they pledging this collateral to? Is this collateral siloed off for the benefit of whomever client is entitled to it, or is it being multiply pledged? And without a strong externalization of their internal accounting, we can't know that. But ultimately, binance is a behemoth. They have around 100 million clients worldwide. These issues I don't see as showstoppers, even if they might be, if they are a regulated public company in the US. In that case, they might be because of their structure, because they're generally offshore, relatively hard to penetrate by regulators. Not a showstopper, but certainly it's contributing to the issues around Paxos and BUSD, which is not doing them any favors."
+    },
+    {
+        "speaker": "B",
+        "text": "Nick, you mentioned two potential gray swans in the space. Binance was one of them. The other was tethered. Talk about tether. What you see there as a grace one. And also, if there's any potential interaction between tether and binance stories, I mean."
+    },
+    {
+        "speaker": "E",
+        "text": "Tether has just been the major issue that crypto skeptics have had for five plus years at this point. And justifiably so, their level of transparency has been extremely poor. They just have a weak track record there."
+    },
+    {
+        "speaker": "B",
+        "text": "So when we talk about transparency, let's talk and explain that to folks who don't have traditional finance backgrounds in terms of the quality of collateral, et cetera."
+    },
+    {
+        "speaker": "E",
+        "text": "We fundamentally don't know where the assets that they're holding are, which is on purpose. That's a feature, not a bug. I can explain more about that, please, because really, the purpose of tether is to allow people to hold dollars, dollar like tokens, and transact on blockchains in a way that's remote from the regulated us banking system. So that is the purpose. It's very different from the purpose of USDC, for instance, where you are explicitly accountable in some way to oversight within the US. The point of tether is to hold dollars in a way where it's much harder for us regulators to interfere with it. So those ultimate assets are not held within the US, even though they do have us based service providers for them. But tether will not disclose the precise nature and composition of those underlying assets because they don't want to invite that level of scrutiny to those custodians and those firms that are holding it for them. Now, if you compare that with actually Paxos or USDC, we know the actual cusips of the US Treasuries that are."
+    },
+    {
+        "speaker": "B",
+        "text": "Backing QCIPs are the identifying numbers that we use here in the United States for securities, especially fixed income, because the universe of potential securities out there is so immense, you can't just identify them by a symbol, as you could a stock."
+    },
+    {
+        "speaker": "E",
+        "text": "So we know, literally down to the granularity of each three month treasury, what is backing each unit of USDC, for instance, with tether, we dont know that at all, and we dont know where the assets are. There are certain folks that have relatively good guesses, but its not common knowledge, and we just have to take it on faith, really. And they do provide periodic attestations. We have to take it on faith that those assets exist, even though I do believe that they actually do have the assets. Theres no way to really prove that."
+    },
+    {
+        "speaker": "B",
+        "text": "But does the quality of the assets here matter? I mean, weve heard speculation about, for example, international commercial paper being one of the constituents of that asset pool. Again, lack of transparency here, so very hard to say definitively, but do the quality of the assets matter as well?"
+    },
+    {
+        "speaker": "E",
+        "text": "To a certain degree, it appears that they have tried to reduce the duration of their asset portfolio over the last year and move more into short, short dated treasuries, which is a good move. And they can do that now because rates are so high, so there's not that much of an opportunity cost. Ultimately, the composition of tethers holder base is such that these are people that not, they're not seeking to redeem the tethers for dollars. In many cases, I don't believe they actually could take delivery of those dollars."
+    },
+    {
+        "speaker": "B",
+        "text": "That's a very serious charge, Nick."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, I'm talking about, for instance, let's say, chinese nationals that are holding tether. They may not be able to take delivery of billions of dollars, for instance."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, you're saying that they couldn't be the recipients of those cash equivalents in US denominated dollars because of their, because of their national status, for example."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. So because maybe they're encumbered by capital controls, maybe it's politically not tractable to do that. So I believe that tethers holder base is a lot of offshore folks. It's not necessarily onshore. If you look at the transactional characteristics of Tether that seems to align to, and these are people that actually prefer to hold their assets on chain. And so weirdly there's less churn, there's less redemption and creation of tether relative to something like USDC. And so this actually works in tethers favor because they know that the threat of enormous redemptions is much less because their holders are types of folks that actually prefer to keep those tethers in the on chain format."
+    },
+    {
+        "speaker": "B",
+        "text": "Let's move on here to another story and another important development in the crypto space, somewhat different from what we've been discussing here so far. The highly anticipated Shanghai upgrade for the Ethereum network has been delayed. Decrypt says it was previously expected this month, but now that won't happen until the first two weeks of April. The decision was made by the network's core developers on a call on Thursday. Shanghai will allow people to remove their staked eTh. Flying under the radar was a somewhat notable feature for Ethereum that was developed, also discussed this week. This is the idea of the feature known as account abstraction, which should make it easier for people to recover their crypto if they lost their private key. That's probably a bit of a superficial description. Account abstraction is about essentially being able to program this money, things like multisig wallets and a whole series of other features that are potentially very interesting, the ability to recover lost private keys being just one of the features. Nick, on a normal day this would probably be our top story, but these are not normal days in crypto. What are your thoughts on these developments and on Ethereum and their roadmap? More generally?"
+    },
+    {
+        "speaker": "E",
+        "text": "The pushing back of the staking unlock upgrade is an interesting one because in some sense you might think that's positive, because it means that this liquidity, which is locked in staking, where presumably some people are looking to unstake having staked ETH for a long period of time, it's a longer period of time until that unlock occurs. So you might consider that positive, right? Because there's more induced demand, there's less coins getting liquid on the open market."
+    },
+    {
+        "speaker": "B",
+        "text": "I guess, until the market takes it out on the spot."
+    },
+    {
+        "speaker": "E",
+        "text": "Right, right, exactly. So it's kind of like the Gox unlocks where people are looking towards the future and seeing, okay, well, one of these going to get unlocked. The thing is, I think a lot of those stakers are actually just going to keep holding even though they might have the potential to. The other thing is, once this becomes possible, staking and then unstaking, I think a new type of participant becomes willing to engage in staking because you think of it like a carry trade. If you perceive that the interest rate, so to speak, is high on ETH, maybe youre borrowing dollar terms, converting to ETH, staking, earning your yield on staking, basically closing the loop. I think a more sophisticated, more institutional type of participant is willing to start and engage in that trade once you're able to close the second leg of the trade, which you can't do right now. So this development, I think, is critical to making staking into a genuine asset class and to attracting a more institutional participant. So the delay is somewhat negative in that context, just because it's development delay and that reflects on the cadence of development in ETH. But I don't think it's particularly material and it's clearly the hottest priority for Ethereum leadership right now. So it seems like they'll get there regardless. It just might be about one quarter's worth of delay."
+    },
+    {
+        "speaker": "B",
+        "text": "Nick, talk a little bit about the yield, the so called potential carry trade here. It looks to me like the Ethereum staking adjusted rewards are trading at about 4.2% right now. US treasury one year yield at 5%. So obviously it's a negative yield against US Treasuries right now."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, it's quite funny that crypto native yields are generally lower than their tradfi alternatives, which explains why so many people are trying to tokenize treasuries and bring them on chain, things like that. But I don't expect that to necessarily be the case forever. Some people don't like the characterization of staking as a yield, but from my perspective, for something to be considered yield, it has to be derived from real economic activity. If you think about where the ETh yield drives from, partly it's protection from dilution, but also you're harvesting fees from actual usage of the protocol, which is real economic activity, and you're harvesting mev."
+    },
+    {
+        "speaker": "B",
+        "text": "So minor extractable value."
+    },
+    {
+        "speaker": "E",
+        "text": "So if so, those are genuine extractions from economic activity. So I think it is actually fair game to call it a yield ultimately, we could see fees rise. Clearly, we're in a bear market. Block space isn't particularly congested right now. So I don't think it's going to be the case forever that crypto native yields are less than tradfi yields. Also, I think just from the perspective of the us government solvency, if, if rates stay this high for a long time, especially as we went through a recession, there's going to be genuine questions around solvency. So I don't necessarily expect the rates stay this high at infinitum."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, it's interesting we can geek out on the economic distinctions between what's happening on the Ethereum blockchain and treasury yields, but the bottom line is pools that are chasing return are fungible. And if the yield on one year treasuries, basically similar duration, looks higher than the yield that you would see on ETH, and we have to remit our taxes not on ETH, but ultimately in USD. It's really hard to sort of make the case for why folks who are just searching for a kind of platform agnostic yield play here would want to go into the ETH space. Even if you're passionate about it, even if you think smart contracts are the coolest thing you've ever seen, it's really hard to justify that just on a strictly rational economic decision making basis."
+    },
+    {
+        "speaker": "E",
+        "text": "I agree. But there's also the convenience yield of holding crypto. When people talk about convenience yield, they talk about it in the context of cash. It's the paradox of why you would hold cash, physical cash, when you could be holding those dollars in a bank account earning return. Crypto has the same thing. The answer, of course, is that cash is convenient to use. I think the explanation for this apparent paradox, why does anyone hold anything in stablecoins or in eth when tradfi yields are so high, is that theres things you can do on blockchains which you cant do if those dollars are in treasuries or in the bank. And so you want to retain that optionality to transact on chain. You want to have your crypto native liquidity ready to go in case theres interesting economic opportunities for you on chain. So even though yields are negative in a real sense right now on crypto, I think people's willingness to stay in crypto terms reflects the expectation that there will be interesting economic games to play on that block space in the future, if that makes sense."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing. This sounds like a neo keynesian ISLm, liquidity preference conversation."
+    },
+    {
+        "speaker": "E",
+        "text": "That's above my pay grade. I think that's why I failed economics in school."
+    },
+    {
+        "speaker": "B",
+        "text": "It's way above my pay grade as well. I can assure you of that. Listen, I wanted to touch on one other story here. This final story will be brutal to anyone with funds at FTX. The Wall Street Journal says bankrupt crypto exchange FTX identified $8.9 billion, billion dollars in missing funds. This is the first time we're hearing the exact figure. The company says much of the shortfall can be traced, probably not a surprise here to Alameda Research, the trading arm of FTX co founder Sam Bankman. Freeze crypto empire. The new FTX management says Alameda borrowed a total of $9.3 billion from customer accounts before the FTX filing for bankruptcy. FTX says it found $2.7 billion in customer funds against $11.6 billion in outstanding balances. That gives us the shortfall of $8.9 billion. The valuations are based on crypto prices on the day of the company's bankruptcy filing in November. The customer funds that FTX does have also include some $1.5 billion in illiquid assets. These are probably the venture portfolio and other types of assets there. Nick, these are staggering numbers. What do you make of the FTX debacle?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I mean, people ask, well, how could you lose this amount of money? Like, where did the money go? And partly its in the drawdown of the asset values in the illiquid side. So the venture investments they made, which, if you mark those to market, its clearly less than the roughly 5 billion they deployed in there. Partly its just the expropriation fraud. So just siphoning funds out of the exchange for property purchases or political donations. And then the thing that I think people dont realize is also Alameda Washington clearly just remitting funds to other traders on the exchange by virtue of Alameda being a bad trader, by virtue of them making poor trading decisions. So it's kind of like a subsidy to the entities that they were trading against. It's kind of like if you sit down at the poker table with a huge stack that the house gives you, you can lose those chips in two ways. One, you can put them in your pocket, so you can go spend it on drinks at the bar. That's one thing they did. Or you can just play terribly so that the chips end up dispersed among everybody else at the table. So I think that's the best explanation for where the remainder of this hole comes from, which is staggeringly large."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, we've got a lot of viewer questions filing in right now. We're going to take a look at those in just a moment. But first, before we do that, I want to show a clip to our viewers from our latest Raoul pals adventures in finance, which we released today on the real Vision website. You can sign up for free@realvision.com. forward slash crypto Raoul spoke with Alexander DReyfuS, the founder of Chiliz and Socios. Here's a snippet from it where they talk about the volatility of fan tokens. Let's take a look."
+    },
+    {
+        "speaker": "F",
+        "text": "Price volatility. Some elements of price volatility are fine. Is the ecosystem vibrant. But the problem is this is also grabbing the volatility of the crypto space when it's not necessarily part of the fan engagement. Have you thought about whether these should be openly tradable or whether they should be closed economies for the clubs using the same architecture? You've got all the architecture there."
+    },
+    {
+        "speaker": "D",
+        "text": "But you mean that they would be paid a one for one? I mean, one fixed Price or something like that?"
+    },
+    {
+        "speaker": "F",
+        "text": "Well, Reddit, for example, they're non fungible with money. So what they've got is this loyalty reward system that allows them to get the rewards and things within, whether it's tickets or experiences. But it doesn't have to be fungible. That is, you can't sell it again. So you're creating an ecosystem that's less volatile. It should be volatile because it's the vibrancy of the club and the community around it. So that needs to reflect that."
+    },
+    {
+        "speaker": "D",
+        "text": "But not as much as people will hate me saying that. I'm kind of okay with the. Actually, no, I don't like the volatility, but I like the trading component of it, and I'm a believer. And it's true with tickets, it's true with sneakers, it's true with collectibles. In general, volatility matters because it actually gives value to what you have. Actually not volatility, trading component. The fact that you have a secondary market gives value to what you own. And I believe that's the problem we are facing in a way, is we don't have enough casual fans or casual users in general, like any cycle of innovation, the first generation of users that's going to come in what we do, or by definition, early adopters. And if they are early adopters, in our case, that is a significant part that are crypto enthusiasts."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, once again, you can sign up@realvision.com crypto to watch that video in full. Realvision.com forward slash crypto. Okay, Nick, let's get to some viewer questions. And there are a lot of them coming in today. Probably not a surprise. The first one comes to us from Sarah on the real Vision website. What is the benefit of the US stymieing the development of crypto domestically, while other countries slash regions, eg, UK, Europe and the Middle east are adopting a much more proactive approach to finding ways to work with the industry? What do you think, Nick?"
+    },
+    {
+        "speaker": "E",
+        "text": "Well, there's certainly no benefit to the US, and it does benefit the UAE, London, Singapore, Hong Kong. I don't see any upside to trying to force the crypto space offshore. Actually, we're seeing in the data now the number of american developers as a percentage is declining year over year over year, around 30%. Last numbers I saw, I'm seeing actively, our portfolio companies are looking to diversify. I'm seeing startups looking to redomicile, looking towards Switzerland, Luxembourg, Hong Kong, UAE, which is getting very aggressive, even saudi. The US is the global center of finance and I believe has 40% of all public equity by market cap is listed in the US, even though we're only 25% of global GDP. So it would really make no sense that we'd want to marginalize this new sort of capital market sector which is emerging. The only thing is just a political win, given that there is some political will to crack down on crypto in the US now. But even that, I think is extremely short sighted."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I mean, realistically speaking, you talk about the politics of this, you talk about the optics of this. Lots of folks, retail investors, lost money here with the FTX implosion. Sam Bankman Fried was on the COVID of the New York Post here in New York City. Everyone I knew was talking about it. People were asking me who Sam Bankman Fried Washington, who had no idea that sand Bankman freed even existed two weeks before. There are political implications for this, and obviously global competitiveness is a long term game and elections are short term."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I do perceive that given the events of 2022, there is some political will to marginalize crypto and crack down on the industry. But I wish that the Biden administration looked a little more long term and realized that there's actual real value here and this is the global center of that, that startup ecosystem. And it would be a real shame if we squandered that lead."
+    },
+    {
+        "speaker": "B",
+        "text": "Is there anyone in government making that argument to the administration today, I would."
+    },
+    {
+        "speaker": "E",
+        "text": "Look at the Republicans in the House. The Republicans in leadership positions in the House are certainly advancing that. There's certainly a few key senators that are doing that as well. But for the most part, the administration is pretty firmly positioned against crypto."
+    },
+    {
+        "speaker": "B",
+        "text": "And does the current era that we're in, in terms of just the political framework of 2023, make that kind of dialogue on something that should be bipartisan or something that should be constructive, somewhat challenging?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. Of course, it's highly polarized right now, and Congress is stymied. I mean, there's not going to be a lot of legislation coming out of there. It's pretty dysfunctional. I'm not sure we'll get any crypto legislation this session. So, yeah, not a lot of cross aisle collaboration at the moment, unfortunately."
+    },
+    {
+        "speaker": "B",
+        "text": "Here's a question from Ralph from the real Vision website. What are the odds that a crypto consortium is formed to help shore up Silvergate? Ralph?"
+    },
+    {
+        "speaker": "E",
+        "text": "Oh, it's a hard one to benchmark. I not seeing a lot of goodwill in the crypto space among the firms that could do that. Unfortunately, they seem more interested in cutting off Silvergate. It's actually very reminiscent of the Luna debacle. Three arrows. Everybody's putting out press releases saying they have no exposure to Silvergate. So I think the expedient short term thing is to basically distance themselves from Silvergate as much as possible. So I do think it will have to be kind of a lone entity here that comes in to shore them up."
+    },
+    {
+        "speaker": "B",
+        "text": "Speaking of loan entity, here's a follow up from Ralph. Has BNY Mellon been very active in the crypto space, in Nick's view? And could they fill part of that Silvergate role that Silvergate is playing now? I mean, certainly they could. It's the world's largest custodial bank, I believe, still to date. But do they really want to stick their head above the parapet politically to do that?"
+    },
+    {
+        "speaker": "E",
+        "text": "Well, they have done so already. Full disclosure, I'm on the board of coinmetrics, and they led the series c into coin metrics. So they are very active in crypto building products. That is a data company, in that case, but they have a custody product. They're the world's largest custodian of financial assets. I think they'll be extremely well positioned here. Ultimately, the bank regulators don't want to kill crypto. They want it to be managed by a smaller number of firms that they can get their grips around, basically. And so BNY Mellon, I think, stands to do very well here as smaller financial institutions turn away."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, Nick, that's very interesting, particularly because I'm sure you're having those conversations with them, which you probably can neither confirm nor deny."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, just their publicly released set of activities, the things that they've acknowledged that they're doing, it's just a very serious show of intent. It's interesting to see, despite the bear market, firms like BNY, Mellon, Fidelity, Goldman continue to be active and build in crypto. So I think that's a positive. Those decisions get made over longer timelines, and once they're underway, they're hard to stop. So that is one of the forces pushing the market forward, pushing the institutionalization of the market, which I think is ultimately a positive."
+    },
+    {
+        "speaker": "B",
+        "text": "Here's a question that comes to us from YouTube, from Bandit 8899. Are you concerned about the future of bitcoin monitors as security budgets shrink, as years go by? Do you think that they will eventually have to increase bitcoin, hard captain, to incentivize miners to keep mining? Boy, thats a politically loaded question."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I dont see the hard cap budging. I think its going to be impossible. To me, the hard cap is an inherent part of bitcoin. Its part of the bitcoin constitution, so to speak. And I dont think it can be changed. I am more optimistic these days about the emergence of a fee market on bitcoin, especially as weve seen activity with ordinals and a NFT market emerging in bitcoin, and potentially the creation of other l two s and roll ups for bitcoin. So that makes me much more optimistic about the long term security budget, which there will have to be the growth of fees to compensate for that loss in terms of the subsidy. So, yeah, some kind of green shoots there."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, Nick, what are your thoughts about ordinals? Obviously a very controversial thing in the bitcoin space right now. Where do you land?"
+    },
+    {
+        "speaker": "E",
+        "text": "Well, I'm very positive on them. I don't think they're contrary to Satoshi's vision or anything like that. I think we've had arbitrary data insertion in bitcoin from the earliest days. There's a great report from Galaxy Digital, by the way."
+    },
+    {
+        "speaker": "B",
+        "text": "Let's just explain what that means. The idea here is that putting data insertions into the bitcoin blockchain proper will increase the size of the blockchain, make it more unwieldy, create the requirements for larger processing power locally, and reduce the ability of individuals to run nodes. That's the argument you're making. The countercase, why is that so?"
+    },
+    {
+        "speaker": "E",
+        "text": "Well, nothing that's happening in ordinals is going outside the written rules of bitcoin. So nobody's making blocks that are more than four megabytes. The theoretical limit or the practical limit is still intact. No one's changing the rules. It's just that the blocks have more so called witness data which means that you can get larger blocks, you can get closer to that four megabyte limit. So everything that's happening is still within the rules of the protocol. It's just that average block size is creeping up. But the bitcoin blockchain is pretty small. It's pretty compact relative to virtually every other blockchain. So I don't see it becoming impossible for people to run nodes. And there's also one ways to basically prune data and ignore the data you don't want to look at. So that part I'm not too concerned about. I do see it as very positive for reestablishing bitcoin as a medium of exchange, bringing an NFT market to bitcoin, reigniting interest in bitcoin overall. So these things are great for bitcoin. And the small trade off is the blocks on average are a bit bigger. But that doesnt concern me too much."
+    },
+    {
+        "speaker": "B",
+        "text": "Preston, heres an interesting question. Its related to the prior one about security budgets. Wrong again on YouTube asks once the issuance gets low enough, will the POW model security model hold up? They're talking about the decline in block rewards versus transaction fees. Nick, what are your thoughts?"
+    },
+    {
+        "speaker": "E",
+        "text": "I don't see bitcoin ever embracing a proof of stake model. I could see more congruence between large custodians and miners. I could see exchanges acquiring miners in case they want to really ensure that their user transactions go through or if they want access to mev on bitcoin as it emerges. So I could see a backdoor proof of stake model emerging where the large holders of bitcoin begin to mine. And maybe they're not even mining economically, they're mining in order to retain their protocol proximity and ensure that the protocol retains liveness. That's some people might describe it as a failure mode, but that's one possible outcome here if the rewards become very low is that the largest stakeholders in bitcoin themselves start to mine. And you could describe that as a proof of hybrid, proof of stake, proof of work model."
+    },
+    {
+        "speaker": "B",
+        "text": "Interesting. I want to get to one more question here from YouTube. This one comes to us from Razza trading. Let me just read the second part of this question. It looks like the Middle east is adopting vastly and cautiously. Your take talking about crypto, do you see this geopolitical move from the west to the Middle east in terms of crypto development?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I think the timing is extremely good. Abu Dhabi is moving quickly to build a crypto framework to give licenses to local crypto institutions. Dubai has attracted a lot of crypto entrepreneurs, crypto wealthy elites, and even Saudi is starting to look carefully at this. I think they understand the time is right. They of course, have to diversify away from the hydrocarbon based economy. And crypto is one of those really interesting phenomena which theyre all over right now. So im hearing it as well from our startups and entrepreneurs is folks are looking towards the Middle east right now as a potential domicile for their startups. So they seem to be really seizing the moment."
+    },
+    {
+        "speaker": "B",
+        "text": "Trey, Nick, great conversation with you, as always, when you join us here on real vision. Final thoughts, key takeaways that youd like to leave our audience and our viewers with here today. Obviously, this is a, a big day, kind of an inflection point in terms of some of the stories we've seen here in the past few weeks. What are your thoughts? Big picture?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. A lot of people are attributing the move in bitcoin overnight to Silvergate. I would say it's actually probably more of a rates issue. It's more reflecting additional tightening here. Certain statements by members of the Federal Reserve talking about structurally high inflation. So I wouldn't over index on the Silvergate news, which was priced in. We sort of knew Silvergate was in trouble overall. I would look towards macro factors. I look towards sustained inflation, potentially driving narratives for crypto sovereign debt crisis as it emerges. And regarding the bank crackdown that were seeing, its not apocalyptic, I cant stress that enough. It doesnt mean that its game over for the crypto industry. It means its going to be much harder for newer crypto firms to compete. So there is an anti competitive element there. Theres a chilling effect and there will be redomiciling to other jurisdictions abroad. But it doesnt mean that its game over. It means that things will get more difficult for entrepreneurs. So hopefully the US reverses course on that. It might be a matter of waiting until the next administration, but some people have come to me and asked, well, is crypto over now that bank access is harder, other banks will emerge to fill the gap too. Im hearing from other banks now saying, well were looking to onboard crypto clients, probably not another Silvergate in terms of a super aligned bank, but there will be newer banks that start to fill that cap. So not game over, but things will be more challenging for the next two years at least."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. By the way, speaking about priced in, I'm just looking right here at Silvergate ticker si, New York stock Exchange up looks like about 3.5%. Boy, it's swinging the last couple of minutes up pretty dramatically. But yeah. Look, Nick, let me ask you a follow up on that, because you make some really good points. Obviously, when you see these negative news stories, when you see negative news flow, it's easy to get excessively pessimistic about what's happening in the space. Let's talk a little bit about the one, three, five year case that you have for crypto. How some of these short term news stories are perhaps even stories that have impact in the intermediate term do or don't have the broader impact on the space in terms of going forward. The longer term thesis, is it still intact?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I mean, look at the trends that are propelling people to be interested in crypto. An alternative financial system which is less intermediated and has a flatter topology which is more global in nature, distributing dollars to places with significant inflation or weak property rights, giving people an alternative monetary regime relative to the somewhat less credible monetary regimes we're seeing in the west. All these trends are intact. The challenge I would pose to the industry is can we make the service providers, the exchanges, the custodians, more credible? Can we embrace proof reserves properly? Can the crypto lending space reemerge without the issues of multiply pledged collateral rehypothecation, poor underwriting? Can it reemerge in a hybrid, more on chain manner? Can defi continue to thrive? Those are the existential questions. But I think overall the core premise of crypto is unchained unchanged. It remains a rebellion against the monetary status quo and against the creeping surveillance we see in the financial system. And those are the reasons that people are attracted to crypto and they havent changed."
+    },
+    {
+        "speaker": "B",
+        "text": "Nick, very well explained, elegantly said. Spectacular conversation as always. I hope to come back and join us soon here again at real vision."
+    },
+    {
+        "speaker": "E",
+        "text": "I certainly will. Thanks for having me."
+    },
+    {
+        "speaker": "B",
+        "text": "Thanks again for joining us. This episode of Crypto Daily briefing is sponsored by the Crypto app. The crypto app is your place for all things crypto. Download the crypto app today at Google Play or on the iOS app store. That's it for today. We'll be back same time next week. Georgia Quinn from Anchorage, Leah Wald from Valkyrie Investments and Hugo Filion from Flare will be among our live guests. Also, lots happening on the macro side of real vision. Starting Monday, we launched an important two part series called how to unfuck your future. In the first week, we'll be exploring all the ways in which the world is effed up. In week two, we thankfully move on to solutions with a lineup of true experts. We have Raoul pal kicking it all off on Monday. See you at 09:00 a.m. pacific time, noon Eastern, 05:00 p.m. london time, live on real vision. Crypto, daily breathing. Have a great afternoon, everybody."
+    },
+    {
+        "speaker": "F",
+        "text": "If we want to change the outcomes for this really screwed up world, where our wages don't go up, where we're being replaced by technology, where governments are massively in debt and we foot the bill via taxes, where we see debasement of assets so we can't afford as many assets as we like, so the rich get richer, the poor get poorer. If we don't like to see the rise of populism based on this broken society because the promises of the future have been broken, let's make our promises to our future selves come right, and that's by unf your future. Some of this is going to really f your future in 20 or 30 years time, but we've got time to figure that out because it's unstoppable."
+    }
+]

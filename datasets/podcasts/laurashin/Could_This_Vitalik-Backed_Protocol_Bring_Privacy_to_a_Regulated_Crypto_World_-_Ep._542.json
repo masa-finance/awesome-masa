@@ -1,0 +1,538 @@
+[
+    {
+        "speaker": "A",
+        "text": "My opinion is that everybody should have a right to use the blockchain in the way that they want. And if somebody wants to participate and get privacy where they don't mind providing some kind of association set with their withdrawals because it enables them to spend their coins maybe more freely, I think that's going to be something that's going to lead to greater adoption of blockchain. And that's my ultimate goal is wider adoption."
+    },
+    {
+        "speaker": "B",
+        "text": "Hi everyone. Welcome to Unchained, your no hype resource for all things crypto. I'm your host, Laura Shin, author of the Crypto Beans."
+    },
+    {
+        "speaker": "C",
+        "text": "I started covering crypto eight years ago."
+    },
+    {
+        "speaker": "B",
+        "text": "And as a senior editor of Forbes, was the first mainstream media reporter to cover cryptocurrency full time. This is the September 8, 2023 episode of Unchained."
+    },
+    {
+        "speaker": "D",
+        "text": "Arbitrum's leading layer two scaling solution offers you ultra cheap and lightning fast transactions, all with security rooted on Ethereum. Visit Arbitrum IO today Toku makes implementing global token compensation and incentive awards make it simple with Toku, you get unmatched legal and tax tech support to grant and administer your global team's tokens. Make it simple today with Toku. With the crypto.com app, you can buy, trade and spend crypto in one place. Download and get dollar 25 with the code Lora link in the description today's episode is brought to you by Overtime Markets, your premier web three sportsbook. The innovative protocol is changing the game one match at a time. Powered by Thales. Explore more@overtimemarkets.com dot xyz hey unchained listeners. As you know, its hard keeping up with the fast paced world of crypto, so weve got just the thing for you. Subscribe to our free unchained daily newsletter at unchainedcrypto dot substack.com dot. Youll get the latest crypto news and original articles from our reporters, as well as summaries of other happenings and bullet points. Plus our meme of the day, all curated and written by our amazing team. Its still your no hype resource for all things crypto, just in newsletter form. Sign up at unchainedcrypto dot substack.com. again, the URL is unchainedcrypto dot substack.com dot."
+    },
+    {
+        "speaker": "B",
+        "text": "Today's guest is Jakob Ilim, chief scientist at Chainalysis."
+    },
+    {
+        "speaker": "A",
+        "text": "Welcome Jakub hi Laura, thanks for having me."
+    },
+    {
+        "speaker": "B",
+        "text": "This week you along with co authors."
+    },
+    {
+        "speaker": "C",
+        "text": "Including Ethereum creator Vitalik Buterin, academics Fabian Shar and Matt Nadler, and Ethereum developer."
+    },
+    {
+        "speaker": "B",
+        "text": "Amin Soleimani published a new paper on a smart contract protocol you are calling privacy pools. Before we dive into all the details."
+    },
+    {
+        "speaker": "C",
+        "text": "On what the paper details and how."
+    },
+    {
+        "speaker": "B",
+        "text": "It works and, you know, just all those technical matters, explain to us how it came about what's been happening with crypto privacy tools that motivated you all to come up with this protocol and publish this paper."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So there's been, you know, a lot going on talking about privacy and blockchain. Right. Most of the blockchains out there, particularly the EVM chains, are highly transparent in the way everything is displayed. And that leads to the conversation around, like, financial privacy. We all want that to a certain degree. But like, how is that going to be established on chain has always been a question. And there's the regulatory pieces of different jurisdictions looking at blockchain in different ways. And we thought that it would be interesting to actually take people from different aspects of the field and come together and try to talk about this problem and try to come up with some technical solutions that may help in that conversation. And that's really what this was. That's how we found each other and decided to write a paper about it."
+    },
+    {
+        "speaker": "B",
+        "text": "And I believe one other aspect that."
+    },
+    {
+        "speaker": "C",
+        "text": "Probably."
+    },
+    {
+        "speaker": "B",
+        "text": "Lent some urgency to this is."
+    },
+    {
+        "speaker": "C",
+        "text": "That there was a time when North Korea used tornado cash to launder stolen funds. And about a year ago, the us government's Office of Foreign Assets Control sanctioned."
+    },
+    {
+        "speaker": "B",
+        "text": "The tornado cash smart contracts, which effectively made it impossible for any us citizen to use tornado cash."
+    },
+    {
+        "speaker": "C",
+        "text": "And then more recently, the government charged co founders roman storm and Roman Semenov and also arrested storm for facilitating money."
+    },
+    {
+        "speaker": "B",
+        "text": "Laundering using tornado cash."
+    },
+    {
+        "speaker": "C",
+        "text": "So although crypto advocates said last year that they thought the us government had gotten it wrong on tornado cash and had overreached, it appears now that the."
+    },
+    {
+        "speaker": "B",
+        "text": "Us government is doubling down on this approach. And I saw that tornado cash and."
+    },
+    {
+        "speaker": "C",
+        "text": "What happened with that was referenced in the paper. So if people choose to read it, then you can see how it relates to what is being proposed here. The paper, even though it gives that as a backdrop, it really sidesteps this."
+    },
+    {
+        "speaker": "B",
+        "text": "Legal debate and just proposes a technological."
+    },
+    {
+        "speaker": "C",
+        "text": "Solution, and that is privacy pools. So can you explain what those are?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So just to go back on the tornado cash side of it, right. What happened is that there was a lot of people that got entangled all of a sudden with North Korea using tornado cash and the sanctions designation of tornado cash. So a lot of people that were using tornado cash for legitimate purposes got tied up in that. And so for that reason and what was kind of the premise for this paper is that there must be ways where you can dissociate from the activity that you don't want to be part of. Right. People that were using tornado cash, I'm sure a lot of people did not want to be associated with North Korea. And so that's the, at least with the funds that were flowing through, allegedly. So the idea in the privacy pool concept is that you can actually selectively choose to say, I am participating in this pool, and the funds that I am withdrawing from this pool is coming from this very selective subset. It's not part of this subset, but it's part of this. So you can actually pick and choose, if you understand the funds that have flown into the pool, what you want to be associated with and what you want to be to disassociate with. And that would give people that option to say, well, if everybody agrees that these are funds that are flowing into the pool from some kind of hack or some kind of money laundering process, you can dissociate from that as your withdrawing fund, and you can provably argue that those are not the funds that you are withdrawing on the other side. So that's the base premise of the technology."
+    },
+    {
+        "speaker": "B",
+        "text": "And there's certain core technologies that are."
+    },
+    {
+        "speaker": "C",
+        "text": "Used to make this possible."
+    },
+    {
+        "speaker": "B",
+        "text": "So what are those?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so this is all built around zero knowledge proofs. And zero knowledge proofs means that you can basically argue that you have the information to make some argument true without actually supplying all the information. So in this case right here, you can say you can prove in a way that everybody can validate to say, my deposit was one of these and not one of those, and supply that proof. And anybody can validate that. That's true without you ever actually providing the information of which deposit was yours. So basically, you provided there's zero knowledge about the information that you hold private, which is your exact deposit. So that's where the zero knowledge aspect comes into it."
+    },
+    {
+        "speaker": "B",
+        "text": "And so in a way, it's almost like it allows good actors to prove."
+    },
+    {
+        "speaker": "C",
+        "text": "That they are a good actor, but then bad actors will never be able."
+    },
+    {
+        "speaker": "B",
+        "text": "To without also thereby kind of revealing."
+    },
+    {
+        "speaker": "C",
+        "text": "That they are one of these bad actors. Is that the basic premise?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, that's exactly it. Right."
+    },
+    {
+        "speaker": "C",
+        "text": "So now let's talk about how this works in practice, kind of like on a practical level."
+    },
+    {
+        "speaker": "B",
+        "text": "One key piece of this that I."
+    },
+    {
+        "speaker": "C",
+        "text": "Noticed is that it relies on intermediaries."
+    },
+    {
+        "speaker": "B",
+        "text": "Called association set providers."
+    },
+    {
+        "speaker": "C",
+        "text": "What are those and how do those work?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so association set providers is the concept of people that can assign some kind of properties to these deposits that are flowing into the pool. If you are a regular user, you don't know who else might be using this privacy pool. You don't know where all the other deposits are coming from. So how do you pick and choose what you want to be part of and what you don't want to be part of? That's not going to be something an average user can do. You need some kind of blockchain forensics or blockchain analytics kind of background and capability to be able to do that. And so what we propose in the paper is that somebody that has that kind of capability could actually provide that insight. So they could, for instance, look at the blockchain, look at the deposits that are coming in and saying, hey, these deposits here appear to be coming from very legitimate sources, and we are providing a set around those. So now everybody can use that set. That has been somehow like, if you trust the provider, whoever is providing it, you know, you can rely on their judgment that this might be a set of deposits that you want to be associated with, and so you can pick that, provide your proof to the protocol and withdraw funds on the other side. And now that would be the set of deposits that you would be associated with. And so somebody needs to be either the entity or the company or the organization that provides these association sets. And there could be multiple different entities that have an interest in providing such sets to the public."
+    },
+    {
+        "speaker": "B",
+        "text": "And what types of organizations do you envision for those?"
+    },
+    {
+        "speaker": "C",
+        "text": "Is it like industry groups coming together."
+    },
+    {
+        "speaker": "B",
+        "text": "Or existing financial institutions?"
+    },
+    {
+        "speaker": "C",
+        "text": "Or is it like daos or like, how are you?"
+    },
+    {
+        "speaker": "A",
+        "text": "I think there's a number of different options here. It depends on what you want to achieve. Actually, I don't think there's just one type. I think there's actually many, because the users of these privacy pools could have multiple interests on the other side. It could be some organizations want to make sure that all the withdrawals are, say, coming from a small group of financial institutions, while you can provide association sets around them, and maybe that could be provided by those institutions themselves. I'm also thinking that companies such as chainalysis, that has a lot of blockchain forensics expertise could help provide such associations that could help vet these deposits as they're flowing into the pool. I think it's also, I could imagine that there would be other kinds of organizations that have an interest in terms of, let's say, that understands maybe the regulatory environment of a particular group, people that understand which deposits may qualify for one thing or another. Whoever has that kind of knowledge, whether it's an organization or whether it's a company, they would be able to provide these sets. I think who exactly they end up being is something that would evolve over time."
+    },
+    {
+        "speaker": "C",
+        "text": "So in a moment, we're going to look at some of the pros and."
+    },
+    {
+        "speaker": "B",
+        "text": "Cons of this setup. But first, a quick word from the."
+    },
+    {
+        "speaker": "C",
+        "text": "Sponsors who make this show possible."
+    },
+    {
+        "speaker": "D",
+        "text": "Toku makes managing global token compensation and incentive awards simple. Are you designing your token compensation plan and grant templates with multiple law firms? Are you managing cliffs, vesting and taxable events in a spreadsheet? Are you distributing tokens to your team manually? With Toku, you get unmatched legal and tax tech support to grant and administer your global team's tokens. Easy to use token grant award templates vesting tracking via online dashboard, tax withholding integration with payroll automated distributions great employee experience. Make it simple with Toku. Learn more@toku.com Unchained Arbitrum stands at the forefront of innovation as the premier suite of layer two scaling solutions, bringing you lightning fast transactions at a fraction of the cost, all with security rooted on Ethereum. From Defi to gaming, Arbitrum one plus Nova is home to over 500 projects, and with the recent launch of orbit, Arbitrum welcomes you to build your very own tailor made layer three, or an orbit chain. Propel your project and community forward by visiting Arbitrum IO today, Overtime Markets is your premier web three sportsbook. Overtime is an industry leading web three protocol where users can immerse themselves in the thrilling world of sports, leveraging the benefits of decentralization and blockchain technology, Overtime leads the charge in innovation, all the while offering fans juicy token rewards for sports events. Overtime supports over 40 leagues and utilizes advanced smart contracts to ensure a seamless user experience. Discover the future of sports trading at."
+    },
+    {
+        "speaker": "C",
+        "text": "Overtimemarkets XYZ back to my conversation with Jakub."
+    },
+    {
+        "speaker": "B",
+        "text": "One thing that I was wondering is, with these pools, you kind of need some time to elapse because there could."
+    },
+    {
+        "speaker": "C",
+        "text": "Be somebody who cashes out using the."
+    },
+    {
+        "speaker": "B",
+        "text": "Pool and they get their little stamp."
+    },
+    {
+        "speaker": "C",
+        "text": "Of approval saying that they were in."
+    },
+    {
+        "speaker": "B",
+        "text": "The good set, and then three months."
+    },
+    {
+        "speaker": "C",
+        "text": "Later, suddenly it's found out that one of those was the bad address."
+    },
+    {
+        "speaker": "B",
+        "text": "So what do you do in those situations? Or how do you account for that?"
+    },
+    {
+        "speaker": "C",
+        "text": "Because it's often not very fast that."
+    },
+    {
+        "speaker": "B",
+        "text": "You can figure out even that something's happened."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, and there are two answers to that in different situations. Initially, we recognize that this is a problem, and for that reason we believe that there needs to be some kind of a minimum time delay before any deposit can be included in such a set to allow the public to get or information to become public about. Wait, maybe these funds were stolen. Maybe they came from a hack or some time to actually figure out where the funds originating from. And are they potentially problematic? And so for that reason, we propose that to be an initial delay allowing for that amount of time."
+    },
+    {
+        "speaker": "B",
+        "text": "Do you have a proposed length?"
+    },
+    {
+        "speaker": "A",
+        "text": "We're proposing around a week would probably be a reasonable amount of time. I could imagine that changes over time as blockchain forensics maybe becomes more widespread. And so maybe some of these things could be done faster. Maybe we need more time, but a week seems like a reasonable time. But that doesn't prevent that. Maybe further down the road, that information just hadn't become available by the time frame of that one week. And then later you find out that now you've done a withdrawal and you're associated with a deposit that you actually did not want to be. And so what the technology also allows is that you can go back later and submit a new proof so you can actually go back and reproof and say, hey, I withdrew funds being associated with this group, but now I'm reproving that I dissociate from those particular deposits inside of the original set that I was associated with. And so you can always go back and reproof. That does put some burden on the person that is withdrawing the funds, but is certainly better than having your funds locked up and not be able to spend them."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes."
+    },
+    {
+        "speaker": "B",
+        "text": "Which is obviously what happened to huge swaths of users back when tornado cash was sanctioned."
+    },
+    {
+        "speaker": "C",
+        "text": "One other thing that I was wondering."
+    },
+    {
+        "speaker": "B",
+        "text": "Is that associating yourself with a pool."
+    },
+    {
+        "speaker": "C",
+        "text": "Still seems like it could potentially reveal more about you and leak privacy. Or at least, yeah, provide some kind of lower standard for your own privacy."
+    },
+    {
+        "speaker": "B",
+        "text": "So what are some features of association."
+    },
+    {
+        "speaker": "C",
+        "text": "Sets that you think would protect user privacy?"
+    },
+    {
+        "speaker": "A",
+        "text": "So it's, first of all, very important that there's a substantial size to the set of private, the privacy or association sets that you are affiliating yourself with, because the smaller those sets are, the higher the chance is that more information is going to come to light that might limit your privacy altogether. If these sets are too small, you might find some adversaries that are actually maybe participating too much in those association sets and therefore having way too much information about you. But the larger those sets are, which automatically should come from more users starting to use the technology. So you will be able to create sufficiently large sets to get an, an adequate amount of privacy that's at least the idea."
+    },
+    {
+        "speaker": "C",
+        "text": "And are you proposing this specifically to."
+    },
+    {
+        "speaker": "B",
+        "text": "Use with tornado cash? Because since it's already been sanctioned, I'm."
+    },
+    {
+        "speaker": "C",
+        "text": "Not sure exactly how you would attach that onto this."
+    },
+    {
+        "speaker": "B",
+        "text": "Are you just saying this is a completely different technology?"
+    },
+    {
+        "speaker": "A",
+        "text": "It's a different technology. This is a different protocol that should be developed on the blockchain to have these kinds of features."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, I see. Okay. So tornado cash would still remain kind."
+    },
+    {
+        "speaker": "C",
+        "text": "Of not defunct, but sort of just."
+    },
+    {
+        "speaker": "B",
+        "text": "Impossible to use without causing yourself some."
+    },
+    {
+        "speaker": "C",
+        "text": "Hassle down the road, whereas this would sort of replace it altogether, and it would have this added aspect of these."
+    },
+    {
+        "speaker": "B",
+        "text": "Intermediaries creating these privacy pools. Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, that's exactly it."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so one thing is at the."
+    },
+    {
+        "speaker": "C",
+        "text": "End of the paper, you propose that."
+    },
+    {
+        "speaker": "B",
+        "text": "Law enforcement, credit score agencies, and, you."
+    },
+    {
+        "speaker": "C",
+        "text": "Know, similar types of institutions would get special viewing privileges. You know, why did you decide to suggest that and how do you imagine it would be implemented?"
+    },
+    {
+        "speaker": "A",
+        "text": "So the idea of special viewing privileges here is that what you can do is that because these association sets can be any size and you can provide any number of proofs that you want to any institution that you choose, you can always provide a proof directly to another counterpart to say, hey, this is my deposit. If you really need to say very specifically what source of funds are yours, you can always privately reveal that information in terms of a proof to another entity without making that public. When you're doing your withdrawal out of the pool, everybody needs to be able to see what associations that you have provided as a proof when you're withdrawing your funds. And so that would be the public part of your proof. But then you can provide special privileges to anybody who needs it. Right? That may not be everybody, but you might find yourself in a situation where you're required to provide an actual proof of where your funds may be coming from, and you have that capability to provide that in private to the institution that needs it."
+    },
+    {
+        "speaker": "B",
+        "text": "And is that something that would then."
+    },
+    {
+        "speaker": "C",
+        "text": "Be associated with your identity? Or is it simply like, I can."
+    },
+    {
+        "speaker": "B",
+        "text": "Prove I have ownership of this set of private keys?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yes, you can prove that I, who withdrew these funds also were the one that made this deposit on the other side. The funds that were deposited here is exactly the funds that are coming out here on the other side."
+    },
+    {
+        "speaker": "D",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "But it wouldn't necessarily be affiliated with."
+    },
+    {
+        "speaker": "C",
+        "text": "Your personal identifying information."
+    },
+    {
+        "speaker": "A",
+        "text": "No, not unless you had already supplied that information to the institution in the first place, and then they would obviously have that."
+    },
+    {
+        "speaker": "B",
+        "text": "Got it."
+    },
+    {
+        "speaker": "A",
+        "text": "But there's nothing on the on chain capability of this that would have anything to do with your identity."
+    },
+    {
+        "speaker": "B",
+        "text": "And so I know you just published."
+    },
+    {
+        "speaker": "C",
+        "text": "The paper, but has there been any reaction where people have said, hey, I'd."
+    },
+    {
+        "speaker": "B",
+        "text": "Like to form one of these association."
+    },
+    {
+        "speaker": "C",
+        "text": "Set providers or anything like that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Like are people thinking about, you know."
+    },
+    {
+        "speaker": "C",
+        "text": "Next steps for building this?"
+    },
+    {
+        "speaker": "A",
+        "text": "There's certainly been reactions. People are discussing it, and that's the main point of the paper, to start a conversation of what kind of technology is out there. I know Amin is working on, one of the co authors here is working on actually implementing this on the blockchain, and it's playing around with that. I haven't heard of anybody who have reached out saying that they want to be an association set provider. I think it might be a little early stage for that, given that it was just published on Tuesday. But I think this is probably going to be in the works. This is going to be one of those discussion points that are of going to be taking into consideration on, like, how do you achieve privacy on blockchain, but not with some level of transparency still?"
+    },
+    {
+        "speaker": "B",
+        "text": "So I'm sure you saw some of these tweets. Matt Corralo, a bitcoin and lightning developer."
+    },
+    {
+        "speaker": "C",
+        "text": "At Spiral, tweeted, quote, this is absolutely awful. Anyone working on this should seriously reconsider."
+    },
+    {
+        "speaker": "B",
+        "text": "Why they're working on cryptocurrency at all. Enabling more effective global automated blocking of."
+    },
+    {
+        "speaker": "C",
+        "text": "Coins based on things like chain analysis."
+    },
+    {
+        "speaker": "B",
+        "text": "Is breaking the biggest reasons why cryptocurrency exists. And crypto lawyer Preston Byrne tweeted, Vitalik et al discovered permissioned chains with KYC. What's your response to these criticisms?"
+    },
+    {
+        "speaker": "A",
+        "text": "I think everybody has an opinion about what the blockchain is and how the blockchain should be used. My opinion is that everybody should have a right to use the blockchain in the way that they want. And if somebody wants to participate and get privacy where they don't mind providing some kind of association set with their withdrawals because it enables them to spend their coins maybe more freely. I think that's going to be something that's going to lead to greater adoption of blockchain, and that's my ultimate goal, is wider adoption. And I think the more clarity there is on how can I use my funds and what does it mean? I think that's going to lead to exactly that outcome. That's what I'm supporting. People have different opinions about that, but that's mine."
+    },
+    {
+        "speaker": "B",
+        "text": "And what's your response to the criticism."
+    },
+    {
+        "speaker": "C",
+        "text": "That this is basically making it sort."
+    },
+    {
+        "speaker": "B",
+        "text": "Of like a permissioned chain?"
+    },
+    {
+        "speaker": "A",
+        "text": "There are certainly some permission based aspects in it, but it's not necessarily saying that it's solving all privacy concerns that everybody would have. What it is providing is that it's giving people some. It's a technology that can give some people some level of privacy, but maybe in a way that more places might accept the funds that they are using. And yeah, maybe not a solution for everybody, but it's certainly a solution for, I think, a large number of people."
+    },
+    {
+        "speaker": "C",
+        "text": "So while this does seem like a novel idea, it also seems like a big workaround."
+    },
+    {
+        "speaker": "B",
+        "text": "And there are other chains that are just inherently private by default."
+    },
+    {
+        "speaker": "C",
+        "text": "What do you think of those? Why not try to promote usage on."
+    },
+    {
+        "speaker": "B",
+        "text": "One of these default private blockchains?"
+    },
+    {
+        "speaker": "A",
+        "text": "I think the transparency of blockchain is actually one of its biggest strengths. It means that you can always, when you send a transaction, anybody can go and validate that there were no. That the funds that were going in match the funds that were coming out. There's no secret recreating of funds. There's no unauthorized, like, minting of new coins. That's one of the main benefits, I think, of these public changes that anybody can see what is actually going on, and I think that's worth maintaining. And so I support how to do more work in that space and still give people some level of financial privacy."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm sure, you know, critics of chainalysis view the company as being anti privacy or enabling surveillance."
+    },
+    {
+        "speaker": "C",
+        "text": "Why did chain analysis choose to participate in this paper?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, first of all, financial privacy is important. I would not send my bank details and all my communication with my bank on the Internet. I rely on HTTPs all the time. The same thing goes for blockchain. You need to have some level of privacy. The main point is how do you enable that in a safe way that enables more people to safely interact with blockchain? This is a proposal towards more safe interaction on blockchain for more people. And that's why I participated in this paper."
+    },
+    {
+        "speaker": "C",
+        "text": "All right, well, thank you so much."
+    },
+    {
+        "speaker": "B",
+        "text": "For coming on unchained."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, you're very welcome. And thanks for having me."
+    },
+    {
+        "speaker": "B",
+        "text": "Don't forget."
+    },
+    {
+        "speaker": "C",
+        "text": "Next up is the weekly news recap."
+    },
+    {
+        "speaker": "B",
+        "text": "Today, presented by veteran crypto reporter and."
+    },
+    {
+        "speaker": "C",
+        "text": "Columbia University night batchet fellow Michael del Castillo."
+    },
+    {
+        "speaker": "B",
+        "text": "Stick around for this week in crypto after this short break."
+    },
+    {
+        "speaker": "D",
+        "text": "Join over 80 million people using crypto.com. dot one of the easiest places to buy, trade, and spend over 250 cryptocurrencies. Spend your crypto anywhere using the crypto.com visa card. Get up to 5% cash back instantly, plus 100% rebates for your Netflix and Spotify subscriptions and zero annual fees. Download the Crypto.com app now and get dollar 25 with the code Lora link in the description."
+    },
+    {
+        "speaker": "E",
+        "text": "Hello, and thanks for tuning in to listen to this week's unchained weekly news cap. I'm Michael del Castillo, a knight Bagehot fellow at Columbia University. In a recent development in the FTX case, the exchange's former co CEO Ryan Salome, has pleaded guilty to federal charges, including conspiracy to make unlawful political contributions and defraud the Federal Election Commission, as well as operating an unlicensed money transmitting business. This comes confirmed to us by us attorney Damian Williams. The plea, recorded in the Southern District of New York, comes with an obligation for Salome to forfeit a whopping $1.5 billion, with the hearing scheduled for next March 6. Salome, who managed political donations at FTX, is the latest former executive at the exchange to admit to criminal conduct, joining Nishad Singh, Caroline Ellison and Gary Wang, who are all expected to testify. These are developments part of a larger case involving FTX's founder, Sam Bangman Freed, who is facing multiple charges but has pleaded not guilty. As the legal pressures mount on Sam Bankman Freed, the spotlight this week is on his lawyers increasingly fervent requests for him to be temporarily released from jail as they argue to be able to adequately prepare for his eminent October trial despite their client having already been granted access to an air gapped laptop for extended hours at the Metropolitan Detention Center. Bankman Fried's defense team contends that the current setup falls short of allowing a meaningful opportunity to build a robust defense, citing unreliable Internet and insufficient battery life on the laptop provided. Simultaneously, the courtroom is buzzing with debates over the admissibility of evidence concerning FTX's bankruptcy and a controversial ad featuring Seinfeld Crater and perennial Luddite Larry David. The prosecution insists that the evidence is vital to portraying the complete narrative of Bankman Freed's alleged crimes, including the alleged misappropriation of customer funds. In a related development, the US District Court for the Southern District of New York sanctioned a rare repurchase agreement on October 28, allowing regulated securities trading at Robinhood to buy back some of its own stock worth an estimated $605 million from Bankman Freed. That's according to an SEC filing from last month reported by Coindesk late last week as FTX's bankruptcy hearing nears. Recent Solana wallet activities have ignited fears of a potential token dumped, and with around $10 million in tokens associated with an FTX wallet already moved through the Wormhole bridge. Meanwhile, filings show what many might consider extravagant corporate expenditures, including a $2.5 million yacht for former Coco Samuel Trabuco, among other internal cash transfers to executives. The US Department of Justice has intensified its case against former Celsius CEO Alex Mashinsky, with a federal judge approving a restraining order that freezes his bank accounts and real estate assets, including a residential home in Texas. This move comes as part of an ongoing criminal case where Mashinsky is facing charges of alleged fraud and market manipulation, to which he has pleaded not guilty. Us attorney Damian Williams emphasized the necessity of the asset freeze to prevent what he's concerned might be interference from third parties before the relevant institutions can be notified. The order includes accounts at several financial institutions, including Goldman Sachs, Merrill lynch and Sofi bank, mandating the immediate cessation of all transfers from the affected accounts. Also this week, lawyers representing the Celsius cryptocurrency exchange filed a complaint against private lending platform equities first seeking to recover assets amounting to approximately $439 million in cash and bitcoin bitcoin they claim they've been owed since July 2022. The filing, which also names Equity's first CEO, Alexander Christie as a defendant, stems from unreturned collateral from loans initiated in 2019. Bankrupt crypto lender Genesis is suing its parent company, Digital currency group, and its affiliate, DCG International investments, seeking repayment of loans amounting to $600 million. The lawsuit alleges that DCIG failed to fully repay a loan converted to a fixed term due in May 2023 with an outstanding balance of around $116 million. Additionally, Genesis claims DCG attempted to convert four loans worth about $500 million into open loans that dont typically have an end date, a move Genesis rejected. And related note Genesis Global Trading is set to voluntarily wind down its us based spot crypto trading operations later this month, citing business reasons. In a statement sent to Unchained, the New York subsidiary holding a bitlicense and registered with the SEC and FINRA plans to halt its over the counter trading services by September 18, with all open accounts to be closed by the end of the month. This move follows the trend of other market makers like GSR, Wintermute and jump crypto reducing their trading activities on us platforms amidst increased regulatory scrutiny. Despite the closure, the company's international subsidiary, GGC International Limited, will continue its spot and derivatives trading services. In related news, federal officials, including FBI agents and SEC staff, met with Gemini co founder Cameron Winklevoss to discuss his fraud allegations against digital currency group CEO Barry Silbert, according to a Bloomberg report. Despite Silbert's denials and ongoing review into DCG and its subsidiary Genesis Global Capital's financials is being conducted. Silbert has not been charged with any wrongdoing, as per a DCG spokesperson, Makerdao co founder Runa Christensen has proposed the creation of a new standalone blockchain, dubbed new chain, as part of the Makerdao network, utilizing a fork of the Solana blockchain as its foundation. Christensen highlighted Solanas technical quality resilience demonstrated during the FTX collapse and the functionality of its existing forks as the primary reasons for considering it as the most promising codebase for new chain. Despite the seemingly substantial task of building and maintaining a new chain, Christensen believes the limited work of copying an existing open source project is worth the added speed. The proposal has received mixed reactions from the crypto community, with some questioning the move away from an ethereum virtual machine based rollup, while others, unsurprisingly, including Solana founder Anatoly Yakovenko welcoming the initiative. The latest in part of a fervid push to establish a spot bitcoin ETF cryptocurrency asset manager Grayscale is urging the SEC to reconsider its stance on the Grayscale bitcoin trust, currently valued at about $13.5 billion. Following a recent court victory where a judge overturned the SEC's rejection of Grayscale's bitcoin ETF application, the firm appears keen to discuss the potential conversion of GBTC into a spot bitcoin etfeminal, asserting there is no valid reason to differentiate GBTC from other products investing in bitcoin futures contracts. The development comes as the SEC postponed decisions on six other spot bitcoin ETF applications, setting a new deadline for October. Even as this happened, though, the SEC found itself embroiled in another legal tussle, this time with Ripple Labs, its CEO Brad Garlinghouse and chairman and co founder Chris Larsen. The commission is seeking approval to appeal a ruling that found Ripple's XRP sales did not breach securities law. Ripple contends that an appeal would, quote, neither expediate nor terminate, end quote, the cases resolution, and that the SEC lacks sufficient grounds to appeal a federal judge's ruling in favor of Ripple's XRP sales. Global asset manager ARK invest and crypto exchange traded product specialist 21 shares have filed an application with the SEC to launch a spot ether ETF named the ARk 21 Shares Ethereum ETF, aiming to offer investors direct exposure to ether through cbos equities exchange. The move is part of ongoing industry efforts to secure the first spot crypto fund approval from the SEC. The proposed ETF promises a convenient and supposedly cost effective way for institutions that are prevented from owning Ethereum to gain exposure through a security tied directly to the price. Also, ArK's former director of research, Bret Wynton, who last year was given the ambiguous title chief futurist, criticized the us government's approach to bitcoin in a social media post, arguing that efforts to undermine the cryptocurrency could potentially harm the country's long term strategic interests. Coinbase's Ethereum layer two network base experienced its first significant outage since its launch, halting blocked production for approximately 45 minutes on Tuesday. The disruption was attributed to a necessary update to the internal infrastructure, but raised concerns about the reliability of layer two networks, generally speaking, pointing to what appears to be some hypocrisy in the way users and the media talk about certain aspects of crypto, the head of strategy at Solana Foundation, Austin Federer, said in a social media post, quote, it's only an outage if it comes from the Solana region of San Diego county. Otherwise it's just sparkling stall and block production. In other words, when Solana goes down, people freak out. When a Coinbase product does, it's just because it's an Ethereum layer two solution. The Coinbase team has implemented a fix and is closely monitoring the network to prevent future issues, ensuring users that no funds were jeopardized during the outage. Of course, either way you look at it, the idea that any organization is responsible for either of these platforms makes it a little more difficult to talk about them being decentralized at all. On Tuesday, payment giant Visa added Solana to the blockchains that can be used to mint us decoys, aiming to enhance the speed and efficiency of cross border settlements, according to a statement. In spite of USDC losing market share to stablecoin tethere, visa is positioning the development as a significant step in bridging traditional finance with web three via relationships Visa has with merchant payment processors Worldpay and Nuvay. This opens the door to exploring future enhancements such as 24 7365, settlement availability and real time or multiple daily settlements, all of which can help to accelerate cross border commerce, said Nabil Manji, worldpace head of crypto and web three. In a statement, Circle CEO Jeremy Lehrer echoed this sentiment, highlighting the potential of USDC to facilitate secure, reliable payments. In related news, Circle extended USDC deployment to layer two networks, Op mainnet and base, potentially reducing fees compared to those on the Ethereum mainnet in a significant security breach. The crypto betting platform stake.com was targeted in a hack that saw over $40 million siphoned off from its ETH and binance smart chain hot wallets. Within hours of the breach, the Cypress based gambling platform responded, attempting to reassure users their funds were safe and resuming services. Blockchain security firms and on chain analysts estimated the total loss hovering at around 41.3% $3 million. Notably, the FBI has already attributed the $41 million theft to the north korean linked Lazarus group, noting their involvement in other significant international crypto heists. And thats all for this week. Thanks so much for joining us today. Unchained knows its very hard to keep up with the latest news in the crypto ecosystem. Thats why they have a daily and weekly newsletter to keep you covered. Sign up for free and receive the latest updates right in your inbox Monday through Friday. Check out the show notes and subscribe below to see the sub stack. Unchained is produced by Laura Shin with help from Kevin Fuchs, Matt Pilchard, Juan Aronovich, Megan Gavis, Jenny Hogan Shashank, and Margaret Courier. Thanks so much for listening."
+    },
+    {
+        "speaker": "D",
+        "text": "Unchained is now a part of the coindesk world podcast Network. We've joined forces with Coindesk's other great shows like markets Daily, where you can hear about the latest in digital assets seven days a week and much more. Subscribe and follow the Coindesk podcast Network today."
+    }
+]

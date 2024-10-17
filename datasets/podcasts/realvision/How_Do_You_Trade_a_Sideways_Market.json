@@ -1,0 +1,318 @@
+[
+    {
+        "speaker": "A",
+        "text": "This episode is brought to you by La Quinta by Wyndham. Your work can take you all over the place, like Texas you've never been, but it's going to be great because you're staying at La Quinta by Wyndham. Their free bright side breakfast will give you energy for the day ahead. And after, you can unwind using their free high speed wifi. Tonight, La Quinta. Tomorrow you shine. Book your stay today@lq.com."
+    },
+    {
+        "speaker": "B",
+        "text": "Dot our story begins in 2014, after the largest financial crisis the world had ever experienced since the crash of 1929. Since then, weve made it our mission to democratize the very best financial intelligence. We broke the story of bitcoin in 2014 before the general public even knew what it was. Weve made award winning documentaries and series about some of the most important economic and geopolitical events of our time that have amassed millions of views across platforms. And weve spoken with investing legends about trends years before they played out here at real vision. We don't follow the news, we make the news this week on social media. We'll be showcasing some of the most important pieces in our history, unlocking some of them for you to watch for free, and sharing important takeaways from them that will be useful for you in today's markets. So be sure to tune in. We also have a very special offer just for you guys. To learn more, simply click on the link in the description or scan the QR code."
+    },
+    {
+        "speaker": "C",
+        "text": "What's up, guys? It's Ash Bennington. Welcome to Real Vision Crypto Daily briefing. Before I bring in our guests, I want to talk about an exciting initiative here at Real Vision. The mint for season two of the real Vision collective is happening right now. The aim of the RV collective is to bring all your favorite NFT communities together while giving you the knowledge you need to navigate web three. Season two is the next step in this journey to create this collective. We've pulled artwork from nine of the most significant CCO projects out there and transformed them into three unique mashups. If you want to help us keep building the super community of NFTs, head over to realvision.com forward slash collective. That's realvision.com collective to learn more and mint your own season two nfts. With that said, let's bring in today's guest. Joining me today is Michael Safai, co founder of Dexterity Capital. Michael, welcome to the show."
+    },
+    {
+        "speaker": "D",
+        "text": "Hey, thanks so much. Great to be here, Michael, it's a."
+    },
+    {
+        "speaker": "C",
+        "text": "Pleasure to have you. You and I were geeking out a little bit about traditional finance capital markets before the show started. You have a really interesting background. Tell us a little bit about your background and how you got into the crypto space."
+    },
+    {
+        "speaker": "D",
+        "text": "Oh, gosh. You know, I'm from the west coast. I'm from San Francisco. And years ago, I used to be a lawyer, but before that, I studied kind of physical sciences at university. So I had kind of a mixed kind of, I had a legal mind to it, but I could also do some math, which is unusual for that profession, as it were."
+    },
+    {
+        "speaker": "C",
+        "text": "Extremely unusual, as many of my lawyer."
+    },
+    {
+        "speaker": "D",
+        "text": "Friends tell me, they always get the billables right, though, which is weird. I, but beyond that, not much math."
+    },
+    {
+        "speaker": "C",
+        "text": "But great for doing math in six minute increments."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, exactly. They always know exactly what a 10th of an hour is. But, yeah, since then, I've done a number of things. I practiced law for a while. Then being in San Francisco, I ended up working at startups and really learned how to build a business, how to build technology and teams in a really effective but lightweight way. When I left the last company I was at, I had some time off. We did well, chilling, and one of my former colleagues said, hey, let's do something. And this is late 2017. And I said, great. Pitch me five ideas. And the stupidest one was in crypto. I said, let's do that one, because if that wins, that will win big. And if it's stupid, well, I do lots of stupid things, so that's fine. It turned out to work really well. So that's kind of how we got here."
+    },
+    {
+        "speaker": "C",
+        "text": "So tell us, what was that so called stupid idea?"
+    },
+    {
+        "speaker": "D",
+        "text": "Oh, God. The original idea was doing a decentralized version of Moody's or s to rate icos because, you know, you really didn't think there was enough fundamentals in there and good analysis. It was all frothy. And so we thought we could create a fair game where you couldn't kind of game the system in terms of what your rating was in ICO. And it was a crazy idea, and it was never going to work. But lots of things that never were going to work were very successful back then. And as we did the research, we started looking at numbers on these decentralized exchanges. Like, back then, there was ether Delta or Bancor or Kyber, some of which are still around. And we looked at the markets and were like, wow, these are broken. The order books are crossing. Theres no automatic matching. Theres fat fingers every 10 seconds. Theres free money here. And so we started building these contracts that could do atomic swaps. On these exchanges in a very fast and very intelligent way. And that was a fun game for us, and that worked really well. So that's where we started. But come about 2018, when the ICO boom was cooling down, we thought need a more sophisticated way of trading. So we hired guys from places like jump and tower and built a more traditional HFT style shop. And that's what dexterity primarily is today."
+    },
+    {
+        "speaker": "C",
+        "text": "Like any good Silicon Valley idea, it morphed and moved to where the market was and where the product market fit was. Talk a little bit about what you're doing at dexterity right now."
+    },
+    {
+        "speaker": "D",
+        "text": "So our bread and butter is proprietary trading. We do low latency, high frequency trading of cryptocurrency assets, and our trades are market neutral. So we're indifferent to price. We're not riding waves up and down. We're looking for volatility, we're looking for volume, and that's what we're really good at. And so over the past maybe two or three years, we've traded a little over $2 trillion in crypto assets."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, these are huge numbers. So folks who have backgrounds in traditional capital markets, HFT, understand this model very well. But for folks who are coming to us native from the crypto space, who maybe have backgrounds in engineering or something related in the technology space, who don't understand the HFT model, talk a little bit about this and how it works."
+    },
+    {
+        "speaker": "D",
+        "text": "Sure. I think crypto, unlike tradfi, is a bit unique. There's tons of venues trading the same assets, like every exchange has bitcoin, and theres lots of different pairs. You might get bitcoin margined in tether or USDC or formerly busD or other things like that, or in ether. You might even have a quanto situation where youre using some other cryptocurrency to margin your trades. What that means is that while youd like to think all the prices are the same across all venues, across all products at the same time, they just arent. And theres lots of nuances built into that. So what we look for is price dislocations and inefficiencies that that don't make sense, that are wrong, and then go so those prices up. And we have to do it very fast because these price differentials are very small. So you can't just do ten trades a day and make your p and l. You have to do 100,000 trades a day and just do that. You have to build some software that's very fast and very smart and plugs into all the exchanges in the optimal way so that you can capture those little price differences in your 100,000 trades to make a good p and l for the day. So that's the short of it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. And to talk to folks on the opposite side of the spectrum, folks who've come to us from the traditional finance capital markets space, there's something, of course, that you're familiar with called Reg, NMS, NBBO, national best bid, best offer. Nothing like that exists in the crypto space. So you do get these dislocations. Let's talk a little bit about that framework, Michael. The dislocations, as you put it, the price deltas have narrowed pretty considerably over the last decade or so in crypto, but are still very high by traditional capital market standards. Talk a little bit about how great those price differentials are and also about the role that derivatives play versus the underlying in this game that you guys are playing."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I mean, the market's pretty sophisticated now, so the price differentials are quite tight, as you said. If we're talking about back in 2018, you could see really some irrational price differentials, especially along the kind of long tail coins. So it's small and it gets smaller every year, I think. But that's kind of been our sweet spot in terms of figuring out how to work that. And the other unique thing about crypto, as you said, we've got weird derivatives products. We have a perpetual swap, which doesn't exist anywhere else, which is a future, or a swap that just does not settle. Instead, every 8 hours, somebody gets charged or paid a funding rate for being on one side of the swap price versus the perpetual swaps price. This is a hard thing to model because you have to guess how much you're going to get paid in 8 hours, depending on where you are now. And as that funding rate fluctuates over the 8 hours, you have to adjust your positions on both sides, because, like us, we're fully hedged, more market neutral. So this unique product has created a lot of interesting opportunities for people who like to nerd out on the maths behind all this stuff."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So how do you guys go about. How do you guys go about that in terms of the team construction, in terms of the trading strategies, just in terms of the operational aspect of it? Because as you point out, it's a product that just does not exist in traditional capital markets."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. And happily, we tackled this back in 2018. And so we spent a lot of time and collected a lot of data trying to figure out how to model this perpetual swap, and we got quite good at it. And the backgrounds of people are what you'd expect. There are people from big tradfi trading shops who had done lots of different things. Some people did FX, some did oil and gas, some did commodities. But they have that kind of instinct for game theory. That's what they love. They love figuring out how the game works and cutting through it. So Kryptos is just a giant game theory experiment with a bunch of retail dj's thrown in. So it makes for a really exciting game to analyze because it's not always rational. But yeah, I think that's it. You need to find people who love solving really hard problems, who can't help but solve hard problems if you put one in front of them. If you ever heard the term nerd sniping, it's kind of, you know, you want to distract somebody, give them a question that's just hypothetical and useless, but really interesting mathematically, and they'll totally forget what they're doing to solve it. Those are the kind of people who win at this game."
+    },
+    {
+        "speaker": "C",
+        "text": "So what's the landscape look like? Who are your competitors? Who are the counterparties? How does that work?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, so in terms of competitors, there's two major categories. There's the trad five guys who have come in primarily around 2019, 2020, and I of whom are now departed. And then youve got the crypto natives who are like us, who have built just for crypto because its kind of easier to get into crypto than tradfi building HfT and tradfi is a $10 million outlay just to get started in crypto. Its nothing. Its pretty much free because you dont need a lot of hardware. But back to your question. In terms of the competitors in tradfi, we saw the influx of guys like jump and Tower and Jane Street, Hudson river. These guys came in hard in the past few years and did really well. I think it was kind of interesting. So it was additive for us. They didn't eat our lunch, they made it so there was more lunch for everybody to eat. So it was a really good time having them in there. But as you've seen a lot of pullback over the past few months and that's been kind of a bummer all around. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "And how many of them have jumped out?"
+    },
+    {
+        "speaker": "D",
+        "text": "You know, I think in size, almost all of them, there might be one or two that are still lingering, but I think one shop I spoke to put it really well where they said, look, crypto is single digits of our revenue. In terms of percentages as a single digit percentage, but its 95% of my pr problem. And if youre a prop shop, you dont want a big pr department. You want to lay low and hang out and make money and have nobody know how. So these guys, they couldve kept doing it indefinitely. There was no reason for them to stop other than the bad pr did not outweigh kind of what was going on and how much revenue they were making from this business."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back. Yeah, that makes perfect sense. I guess second best is to have nobody know how you make money. First best is to have nobody know you exist if you're a prop shop."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, yeah, exactly right. I mean, we deal in secrets. There's maybe on the order of thousands of people who know well and understand what shops like ours do. It's a small club and it's a bunch of weird people, too. So we don't like the limelight necessarily."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So let's talk about the broader crypto landscape right now in terms of price action, in terms of what you guys are seeing. What's the overall 50,000 foot overview of how you would describe this market right now?"
+    },
+    {
+        "speaker": "D",
+        "text": "Volumes have created. This is like, this is like, it's like Christmas when nobody's trading because everyone's on holiday or something all the time. It's Christmas every day in a bad way."
+    },
+    {
+        "speaker": "C",
+        "text": "So, Chris, Christmas every day in a bad way. I love that."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, yeah. You got to find a way to, you know, be negative about Christmas. I suppose. So. Anyways, it's, it's very, very quiet retail. They pulled out because they got burned very badly last year. Big shops, they kind of trad five big shops. That is, they've kind of pulled out because of all the regulatory stuff and all the bad press. And then you've got very high interest rates, which make it just less attractive to be in a high risk environment. So it's just very quiet. It's the best way to describe it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. And what about the regulatory headwinds? How does that affect what you do."
+    },
+    {
+        "speaker": "D",
+        "text": "As a prop shop? We're kind of, we don't have a super heavy duty regulatory burden. We're not trading other people's money. We're not hurting anybody. We're a fairly easier business to run in that way. And that's part of the reason we aren't a hedge fund. But we are keeping eyes on what's happening because it affects our counterparties and it affects the venues we're trading and what kind of assets we can trade. And it's interesting we've seen, I'm an ex lawyer, as I said, so I have a little bit of background in this. We've been watching the SEC fight in the courts, and it's just, it's not going the way they planned, I think. So I'm really uncertain how Congress is going to approach this over the next year. That ripple ruling maybe a month or two ago, that effectively said Ripple wasn't a security or didn't pass the Howie test when it was sold to retail on exchanges, because a blind order book, that was not something I've ever seen before or thought was plausible, and it's kind of turned the whole situation on its head. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "I think that ruling was especially confounding to us non lawyers because it seemed to suggest that institutional, institutional sales were problematic, whereas retail sales were not, which tends to be the exact sort of mirror image opposite of what you expect in terms of investor protections. But I guess Judge Annalisa Torres decision essentially was about the manner of sale rather than the underlying properties of the asset itself being a security or not being a security, which I think was kind of a curveball. As you said, no one expected it."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. And I think if that ruling stands, it leads to absurd outcomes where you can issue tokens willy nilly, so long as you don't sell them to institutions, and you only sell them kind of blindly on exchanges and via airdrops, which are free. So they're not sales and therefore don't meet the first prong of the Howey test. Well, you can make any token and say it's not security. So I think the SEC has to fight this and they have to get it overturned. Otherwise the world is stop security."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, let me ask you this, as a former lawyer, I dont know how closely youre following the story, but one of the things that was very confusing to me in terms of just trying to understand the big picture was the actual appellate process for this phrase interlocutory appeal. The idea that you had essentially a limited window to file a special type of appeal, or the other aspects of the case that are still pending, which are the suits against Mister Garlinghouse and Mister Larson, would essentially delay the final disposition of the case. I don't know if I've done that any justice, but how do you think about that? How do you understand what's happening there?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, and forgive me, it's been a long time since I've litigated but I think you're fundamentally right here. Do you let the rest of the case that isn't affected by this particular section of the ruling go on while the appellate process occurs independently, or do you pause everything?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. By the way, and the reason for people who are wondering why I'm asking this question, the reason why this is important is because if you have to wait until the final disposition of all the other aspects of the case, what it means is you almost have a kind of de facto precedence set in the southern District of New York for this sort of general framework of interpreting how things could not be a security. I know it gets confusing, but that's sort of how I think about it, at least."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I think that's right. But I do think I'm forgetting the name of it. There was another case recently where, and it was in the Southern District of New York where a different judge specifically cited her opinion on that matter and disputed it. So I think, actually, it's quite hard now to say there's any precedence even in the meantime, while this appellate process unwinds. But, yeah, I'm not sure what the strategy is there. I think it's a function of how urgent you think this is and how crucial it is to your case. If there's not much case left for you, then why bother going on with that rest of that case? I think they got something good here with that summary judgment on the institutional bit, but they really need to sew up that retail bit to get what they want as the SEC, William, it."
+    },
+    {
+        "speaker": "C",
+        "text": "Just sort of makes you realize, as we talk about this, talk about the, the framework for trading, we talk about the legal, regulatory and compliance framework, just how early it is in the space. You know, you and I were talking, I was telling you this story right before I logged on to do the show. I saw two headlines about the Coinbase tender offer, one of which said that bonds were being bought at a discount, the other one that said they were being bought at a premium. It's just like folks in this space not criticizing journalists particularly. But, you know, it makes sense if you're someone who comes to us with a, you know, with a background in programming and engineering and you read these articles, it's, you read the press release in this case from Coinbase. It's really hard and confusing to understand what's going on. By the way, bonds are trading at 65. It's definitely at a discount with an early tender premium. But the point of the matter is it's challenging to build up almost this intellectual infrastructure in the space, people who understand, for example, the very complex technical issues, the very complex legal, regulatory, and compliance issues, and the very complex, frankly, financial issues that we've learned in what people outside the space call trad five, what we would call capital market space versus the crypto. I mean, it's just an incredibly complex space, and it causes, to a certain extent, I guess you could say, the kind of price dislocations that you guys trade on."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I think there's a certain cache to crypto where it's so bloody complex that you just have to be really deep in the weeds to get a handle on it. But so many of the big exchanges did a big job of bringing in casual investors and retail traders who didn't really know what they were doing. And that made for kind of a toxic mix in a lot of ways. Not that that doesn't happen in traditional markets, too. It certainly does, but it was kind of next level. And the thing I always point to in Defi, which I would love to be successful, but I'm a little pessimistic about, is we're still using metamask, which really hasn't changed a whole lot in the five or six years I've been using it, and it still is just so difficult to get through if you're a neophyte at this kind of stuff."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "So it is kind of the purview of a bunch of small group of nerds, kind of what it is stuff."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing."
+    },
+    {
+        "speaker": "E",
+        "text": "This podcast is sponsored by Ramp. Are you the decision maker in your company? Consider this. For the first time in decades, there's a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your company's spending and control who spends what. With each vendor, ramp software collects and verifies receipts instantly to save your team valuable time. Ramp automates data entry and routine tasks with automated approvals, expense categorization, and bill payments, time consuming tasks, which means you'll stop wasteful spending and close your books in hours instead of days. Businesses that use ramp add up to 5% to their bottom line the first year. If you're a decision maker, adding ramp could be one of the best decisions you've ever made. Get $250 when you join ramp for free. Just go to ramp.com easy ramp.com easy ramp.com easy cards issued by Sutton bank and celtic bank members of the IC. Terms and conditions apply."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I always say that my mother does not have a metamask account and it is."
+    },
+    {
+        "speaker": "D",
+        "text": "It speaks to this point for that."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, mom, don't get one."
+    },
+    {
+        "speaker": "D",
+        "text": "There goes your inheritance."
+    },
+    {
+        "speaker": "C",
+        "text": "But it is funny though, this idea of UI and UX in the space. The reality is there's just a significant barrier to entry for a lot of people because the user experience, the user interface, is just very complex. I guess the interesting side about it is it does create this cool, interesting place where dgens like to play. And it's fun and it's interesting, and we've got a lot of smart people who are doing things. But it is also interesting to think about what happens when those UI UX issues get solved and we are able to cross the chasm into a broader, wider represented space in terms of people from the general public getting involved. Because the underlying technology and the potential, the promise for this technology is just really cool. And it's very obvious when you start to sort of wind yourself into it, the importance and the opportunities that come with the kind of true decentralization that this space can represent at its best."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, it's absolutely amazing technology. I think there's a few ways it goes. I mean, blockchain technology already is amazing. It replaces buildings, it replaces banks. It takes 10,000 employees and puts it down to a handful. But you don't actually need crypto assets to have blockchain technology, do you? You can have a distributed ledger anywhere and you don't need bitcoin for that. You just need the technology. And you want it to probably be interchangeable across different players in the spaces. You don't want Goldman to have their blockchain and JP to have their blockchain. You want one blockchain. Everybody uses defi itself. We're still struggling to find the right applications. There's some headway in gaming, there's some headway where it's kind of interesting apps that people will actually use. But a lot of it remains stuff we speculate on because it's fun. I did watch the hamster races a few weeks ago. They were great, but they were not a life changing technology in Defi. But hey, people like to gamble on weird stuff."
+    },
+    {
+        "speaker": "C",
+        "text": "It is so interesting when you mentioned this decoupling of decentralization blockchain technology from some of the coins that we see today, obviously, this is a very controversial statement. One of the things that decentralization has allowed is this decoupling of the nation state from the money supply in a way that was just simply not possible before, I guess, sort of absent some sort of a gold standard. And that's something that excites a lot of people in the space and that many people are very passionate about, particularly in the bitcoin community. But as you point out, whatever the sort of merits or attributes of that, it isn't necessarily intrinsic to the way that decentralization works. And I guess one of the major questions that I have, at least as I look across the space, is what happens when we do start getting CBDC, central bank digital currencies, or a treasury coin, in other words, something that's issued by either a nation state or a central bank. How does that impact the state that is, for me at least, probably the biggest single wildcard as we look out across this space today?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I think the concept of them is really exciting. CBDCs and digital treasury treasuries and to a certain degree, real world asset tokens, those are all exciting things. But to the extent you have a centrally controlled CBDC, you can get coins blocked, you can get blacklists, and this is not something that kind of decentralized crypto purists like. So I do worry it's kind of the powers that be co opting our little revolution here of what money is and how it's managed. So while it'll be cool to have cash that's not physical, I don't think it's great for crypto. I think it's probably a net negative."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think that's very well said and very well framed. Let's shift gears here from the strategic to the more tactical. What's your outlook on the space for h 223, the second half of 2023?"
+    },
+    {
+        "speaker": "D",
+        "text": "I don't think there's a reason for things to get loud again. I think things will remain quiet. What I'm hoping for, though, is that things remain quiet in a good way. We had all these blow ups last year with Luna and FTX, and we had the bank seizures earlier this year. We just want things to be quiet because cryptos reputation has been battered. There's no arguing that. And the best thing forward is for the surviving and remaining actors in the space to remain good actors. And the longer they can avoid these kind of minefields that we've been seeing in the past, the more legitimacy the space regains just by being quiet. And that's what I'm hoping for. I'm hoping tether stands up just fine. And finance doesn't get destroyed."
+    },
+    {
+        "speaker": "C",
+        "text": "Right?"
+    },
+    {
+        "speaker": "D",
+        "text": "Because Coinbase gets through this whole situation. That's the best case scenario for the rest of the year. Quiet, Trey."
+    },
+    {
+        "speaker": "C",
+        "text": "So the best case scenario for the rest of the year is that Armageddon."
+    },
+    {
+        "speaker": "D",
+        "text": "Doesn'T come exactly right."
+    },
+    {
+        "speaker": "C",
+        "text": "So based on that outlook, what's the strategy? How are you guys positioning yourselves?"
+    },
+    {
+        "speaker": "D",
+        "text": "We're doing a lot of what we used to do. Still, I won't lie, 2021 was such an amazing bull run. Things were frothy and crazy. We were not always as smart as we needed to be, or could have been, because we didn't need to be. Rather, we could not be capital efficient. And it was fine. We could choose kind of venues that we hadn't done full due diligence on. And it was fine because everything was going up. And so this time it's all been about, okay, markets are quiet, there's fewer venues than ever that we trust, you know, how do we navigate this? And we've gotten much smarter. So we're still running the trades we always have run and they're still working. There's less volume to trade them against, but we figured out how to squeeze more revenue out of less volume. And we've seen some interesting opportunistic trades we wouldn't run otherwise because of the things that have been happening the past few months."
+    },
+    {
+        "speaker": "C",
+        "text": "Wanted to ask a question from one of our viewers. This comes to us from Ralph on the real Vision website. It's a really interesting one. And the question is, aside from BTC and ETh, the obvious, what coins do you guys see as most liquidity?"
+    },
+    {
+        "speaker": "D",
+        "text": "You know, this is the thing about high frequency trading. It's numbers in, numbers out. We collect data on all the coins that are being traded. We run analyses on this data, and then we decide what to trade. So whatever is the most liquid is literally whatever is the most liquid numerically. You can go to Coingecko or coinmarketcap and see what that is. It changes every week. Peppy got big. It became very liquid. We were on there, and probably within the first 48 hours we were trading FePI. After its launch, things tapered off. We don't trade it anymore. That's how we approach it, with just all numbers and numbers out."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, totally agnostic. You just don't care. Yep."
+    },
+    {
+        "speaker": "D",
+        "text": "As sad as that is to say, we don't care."
+    },
+    {
+        "speaker": "C",
+        "text": "Michael, what have I missed? What else is on your mind?"
+    },
+    {
+        "speaker": "D",
+        "text": "Oh, gosh. I think, you know, we talked a little about CBDCs. I think stable coins is an important part of that. And we've seen some new ones emerge. And what's happening with that is really interesting and really worrisome. It often puzzles me why we can't just have a reliable stablecoin with transparency. So I don't know how you guys view stable coins at real vision. What do you guys think about it?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, real vision officially doesn't have a view about things where you just come and present ideas. In terms of my own view, as I said earlier, I think the single biggest question outstanding right now just for stable coins, is what happens when CBDCs, if and when CBDCs come into the market and come in at scale. Because if they do, the most obvious place that that's going to get impacted, if it becomes a truly centralized solution is the stablecoin market. I think that that gets disrupted pretty dramatically by it. And then there are obviously all the questions about regulatory aspects of it, whether or not they represent investment contracts and the quality of the collateral. I think that's at least the constellation of things that I think about when I think about stable coins. But I would say the biggest one, the one that has the most potential to be massively disruptive to the space is CBDCs and treasury type coins coming into the market. And again, that's just an open question. There's just nothing that you can do to think about that because it's a public policy question. So there's traditional analysis, unless it's electoral, doesn't really have an impact, I guess, on that space, as I see it, at least. Yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "And I do wonder, because the natural impulse is this will be very bad for stablecoins because CBDCs will take over. I'm not so sure. And when I say that, I mean it in terms of dollars, because the fact is there's lots of stablecoins out there held by people who otherwise cannot hold dollars. They can hold them on binance or they can hold them in a wallet, but they can't get dollars into their bank where they are for whatever reason."
+    },
+    {
+        "speaker": "C",
+        "text": "But would you trade them? Would you trade those, would you want to buy those at par against a us dollar denominated central bank issued asset? I mean, that's an interesting question."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, I mean, if you can't buy CBDC coin, well, yeah, you might buy it at a premium even. You might even pay more than what's a dollar in whatever currency you're using to get your hands on it because you want that stability, because someone has stashed a bunch of treasuries and cash offshore for you fundamentally to hold."
+    },
+    {
+        "speaker": "C",
+        "text": "Right."
+    },
+    {
+        "speaker": "D",
+        "text": "So it's interesting at least."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. It becomes almost, as you frame it, a jurisdictional arbitrage play very much."
+    },
+    {
+        "speaker": "D",
+        "text": "And that's what a lot of crypto has been. I think it gave people access to things they otherwise would not have access to in the states because of regulation in the east, because of currency controls. Lots of reasons. Right."
+    },
+    {
+        "speaker": "C",
+        "text": "Michael, super interesting conversation. Final thoughts, key takeaways that you'd like to leave our viewers and our listeners with?"
+    },
+    {
+        "speaker": "D",
+        "text": "I think be safe out there. Crypto is still a dangerous landscape and things happen every day. That's an outlier event. But also be optimistic. This is important technology. This is stuff that really will matter and will be around for decades, almost inevitably. So be safe, be smart. But this isn't going away. William?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Thanks so much for joining us. Great conversation. Hope you'll come back and do this again with us sometime soon."
+    },
+    {
+        "speaker": "D",
+        "text": "Thanks so much."
+    },
+    {
+        "speaker": "C",
+        "text": "Edge five. Thanks for joining us. That's it for today. Make sure to check out our crypto website, realvision.com forward slash crypto. That's real vision.com forward slash crypto. It's free to sign up for our crypto content. Join us again tomorrow. Elaine will sit down with the CEO of plastic. See you at 09:00 a.m. pacific noon Eastern, 05:00 p.m. london time. Thanks for watching and for listening. Have a great day, everybody. What's up, revolutionaries? Thanks for tuning in. For more content like this, head over to realvision.com and get unfiltered access to the very best, brightest and biggest names in finance."
+    }
+]

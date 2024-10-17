@@ -1,0 +1,634 @@
+[
+    {
+        "speaker": "A",
+        "text": "Solana on Ethereum. That is the question we explore on today's episode with a new product release as well. This is an opportunity to pick into a topic we haven't yet touched on, on Ethereum, which is a virtual machine that Solana has called the SVM. That's the Solana virtual machine. So proponents have said for a long time that is much better than the Ethereum. EVM has multi threaded execution, lots of bells and whistles that Ethereum doesn't have. And now on today's episode, we are finding out that it is coming to Ethereum in the form of a layer two. The eclipse mainnet is what it's called. That is the layer two that is launching today with the SVM embedded. And eclipse is not only a new layer two on the scene, but it's an entire framework, kind of similar to the optimism super chain network as well. So this poses a lot of interesting questions, as you might imagine, that we are going to dig into today, including who wins? Is this a, is this a w for Ethereum? Is this an l for Solana? Or maybe the reverse. What does this mean for the future of our industry? A lot to unpack on today's episode."
+    },
+    {
+        "speaker": "B",
+        "text": "I would even say that a lot of Ethereum people will say that, yeah, the SVM, the fantastic piece of technology, and it is better than the EVM, especially when it comes to the things that virtual machines do, which is execution. There are some massive questions that this brings to the table, and I'm about to ask them. But first, I want to talk about our friends and sponsors over at, there's."
+    },
+    {
+        "speaker": "A",
+        "text": "Some big questions on today's episodes. And so we have the, uh, the founder of the eclipse layer two. His name is Neil Simani. Uh, and he's going to be jumping on the podcast in, in a minute here. But David, we're going to be unpacking four different protocols. So it's not just Ethereum and Solana. There are a few others as well that are woven into this layer, too. So what are listeners for? What are the big questions to prepare us?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, the question doesn't stop at is this Ethereum versus Solana? Ethereum or Solana, Celestia and risk zero are also relevant here. And I think one of the questions is like the big question, if we are investors in this space trying to invest in the future, we want to ask the question, who wins? What are these components doing together? And does some of these components win more than others? What does it mean to win? Or am I just using this lens of winning versus losing, because that's my lens for all blockchain system. Is that even the right lens? So the first question I think we're going to get at is, does the Solana VM as an Ethereum layer too? Is that a bigger win for Ethereum than it is for Sol? The Solana fanboys in my mentions are convinced that this is the Ethereum protocol moving closer to Solana. But the layer two centric take is that all good execution tech will eventually settle on Ethereum liquidity and security. But then what the hell does Celestia have to do with this equation? And what's risk zero doing there? So this is not just a question about like the tug of war between these two cooperating competing protocols, but what does this mean for the modular thesis at large? So some very big questions, and I think I listened to Neil Simoni over at the modular summit back in ECC and some of his talks around the space, and I think he's got some of the answers. So we're going to ask all of these questions to Neil here in a second, but first, a moment to talk about some of these fantastic sponsors that make the show possible, especially bankless nation. I would love to introduce you to Neil Samani, the founder of Eclipse, a project working to bring the Solana virtual machine, the SVM, to Ethereum. Today, Eclipse has announced their SVM main net, the first eclipse layer two on Ethereum that uses the SVM as its execution engine. But Ethereum for settlement and liquidity, is that a curveball? Well, it doesn't stop there, because Eclipse is also using Celestia for data availability and risk zero for fraud proofs. So Solana's execution environment, settling on Ethereum with ETH as its gas, using celestia for data availability, and then security offered by risk zero fraud proofs. My first big question to you, Neil. I what the hell is that? What is this? Who even allowed you to play?"
+    },
+    {
+        "speaker": "A",
+        "text": "What did you create?"
+    },
+    {
+        "speaker": "B",
+        "text": "What did you create? What is this?"
+    },
+    {
+        "speaker": "C",
+        "text": "I love this image. This is amazing. When I was listeners out there, this."
+    },
+    {
+        "speaker": "B",
+        "text": "Is the, what the hell is this family guy meme for the people listening on the podcast."
+    },
+    {
+        "speaker": "A",
+        "text": "It's like Noah on the ark and there's some kind of hybrid animal, like a giraffe elephant. I don't know what that tail that is, but some kind of hybrid animal that's been created, like the platypus."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "That is awesome. David Ryan, thank you for having me."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So, Neil, where did this idea to put four different networks together come about? And maybe talk about some of the motivations here."
+    },
+    {
+        "speaker": "C",
+        "text": "So the original idea was just to put Solana on Ethereum, and that was the motivation behind eclipse. And what we ran into was just a ton of constraints and things that you'd expect to be true for a virtual machine, because that's how is in the Ethereum world. So an example is like chain id. When you switch your metamask wallet to another ethereum chain or another EVM chain, then they actually have like a well defined mechanism for doing that. Another example is there's no global merkle tree for Solana. So the lack of these primitives means that that initial idea was not so easy to implement. So we basically implement, we had to add in celestia risk zero out of necessity in order to make this possible."
+    },
+    {
+        "speaker": "A",
+        "text": "Wait, so you had to add celestia in risk zero? Like, it wasn't an option to just do a layer two, just pure at the."
+    },
+    {
+        "speaker": "C",
+        "text": "I think so it depends on the amount of transaction volume that we end up running. But at our projected amount of transactions, Ethereum DA would just prove to be very expensive. And it would also lack a lot of the benefits of the Solana VM, which is that you're going for scale, meaning that you want the transactions to be really cheap. So right now, it's like the base cost for writing 200 bytes to Ethereum is about $0.15. So that would be much more expensive transactions. And that opens us up to a dunk from the Solana community, which is like, oh, we're much cheaper than you. By doing it this way, then we can actually be competitive on price, too."
+    },
+    {
+        "speaker": "A",
+        "text": "I want to get back to why Solana? Because that's the big question, why the SVM? But before we do, just really quick. Yes, data availability is very expensive in today's world. However, there is some hope. We just did released an episode earlier this week with Dom from ETH Research on Blobspace and EIP 4844, where the cost of data availability for rollups is going to drop quite significantly. Or maybe, let me just rephrase that and say the availability of data availability is going to be increased massively in the form of these blobs. Does that change the calculus at all for you, or is it kind of the same? It's still more expensive than something like Celestia."
+    },
+    {
+        "speaker": "C",
+        "text": "It definitely changes the calculus. Given that it's a fee market, we have to see where that fee ends up landing. So I want it to be live. But yeah, there's great research going on in the Ethereum community for scaling DA. We're watching it closely, and we have ambitions to eventually just be fully on Ethereum and just use that for DA as well."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, well, let's talk about the big thing here. So, the Solana virtual machine, the SVM. We've not done an episode comparing the SVM versus the EVM. We've been thinking about doing one. This maybe gives us a little taste of that. Can you tell us what is so great about the SVM? Why do people, some people sing its praises and seem to prefer it for certain things?"
+    },
+    {
+        "speaker": "C",
+        "text": "The way to think about it is by starting with the EVM and just understanding the failures of the EVM so far in scaling Ethereum. I think that if you ask a lot of the researchers in the Ethereum community, scale is pretty much the biggest issue. But it feels kind of redundant for me to be saying that, because everyone's talking about it yet the way that they've tried to bring scale to Ethereum is just by taking the EVM and turn it into a roll up, effectively. But what's nice about a roll up is that once you've decoupled execution, consensus settlement, and DA is that you can make that execution layer whatever you want. So the issue with the EVM is that it's single threaded as it exists right now, meaning that all the transactions get in a single file line, they're executed one at a time. And that means that if there's a big NFT drop, for example, then that's going to really spam the network, and there's no way to get your defi transaction in unless you're competing with all those other transactions that are in line. But what's nice about a parallelized virtual machine is that you can execute those transactions concurrently, given that they're not touching the same piece of state. That's what the Solana virtual machine primarily brings. It's the most battle tested VM in the sense that Solana has been around, as opposed to move, or some other parallelized virtual machines which are much newer. That means that you also get the benefits of the existing Solana code base, any existing libraries that are written for the SVM, and we can take all those and immediately port it to eclipse. So that's the main reason to use SVM, which is just scale. And scale is inherently maximalist take for a roll up to claim, because we're basically saying that if you have one SPM, you don't need all these other single threaded vms around it."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, so one of the reasonings I've heard around the EVM is that while the EVM does execute, because that's what virtual machines do, it was not built for execution. It was built for the Ethereum layer one, and that has prioritized other properties. While the EVM has had a ton of just network effects, the open source network effects around the EVM are super, super strong. I think in this day and age, in the year 2023, one of the things we're seeing is that the network effects around the SVM are growing sufficient tailwinds that. Neil, I think what you're saying is that, well, I can feel safe that there is sufficient momentum in the network effects of the SVM codebase that is going to be an alive code base moving forward into the future. And so it is going to be the execution virtual machine that we can deploy to Ethereum, because if we have a roll up centric roadmap, we aren't beholden to the EVM on layer two s. This is my interpretation. Is this about right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that's right. And what's cool is that it actually goes beyond just the existence of the SVM per se. It's a bit of a misnomer because the SVM is actually the Berkeley packet filter virtual machine, and that's been in the Linux kernel for like decades. So this is a very old virtual machine and it has raw support. Ross can compile to the bytecode, and there's a few surrounding extensions that are pretty battle tested as well. So we're taking all this existing wealth of open source code and just repurposing it as an ethereum ML two."
+    },
+    {
+        "speaker": "A",
+        "text": "How much better is it, Neil, how can you quantify?"
+    },
+    {
+        "speaker": "C",
+        "text": "I would argue it's like orders of magnitude, like 100 times or some ridiculous magnitude or faster. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so like if, if we take a roll up with the exact same stack you're talking about, but um, rather than the SVM, we have the EVM versus what you're doing with the SVM. How much better is yours? You're saying an order of magnitude like."
+    },
+    {
+        "speaker": "C",
+        "text": "Ten x. Yeah, it's always tough to talk about throughput because the reality is it depends on what are the state access patterns. Like if everything, let's say every transaction, the SVM was accessing the same piece of state that then you actually can't beat sequential because that, that's just like a fact about databases, right? You'd have to impose, if it was sequential writes, let's say. So then you have to walk the lock, that piece of state to execute the transaction, then do the next one. So you're not saving anything in the sequential case, but assuming they're all touching different pieces of state, which, if the crypto thesis is right, we're going to have all kinds of applications doing all sorts of different things. And that's effectively what these EVM roll ups are mimicking. If you look at Opstack, the reason why people are deploying these is a lot of time. They cite dedicated block space, but that's exactly what the SVM already solves for. So our thinking is, why fragment liquidity, fragment the user experience, make them switch networks? It's looking like a mess already, but you can prevent all that by just keeping it all in the same chain."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so one of the, I guess the bull case for the EVM is basically, I don't think anyone really prefers it for its execution prowess and capabilities. They all prefer it because of the network effect. It's because we started with the EVM, a whole bunch of apps were built, and now we could just very easily port those apps to roll ups. That's kind of why, and I guess with SVM it is, you're making the case that it is much better for just kind of the execution layer type thing, and you're still taking advantage of some of the network effect that Solana has, has built as well. I want to ask a question here, because I'm not sure I fully understand this, but about like kind of different fee markets and resourcing, how does that work? So is it the case inside of your roll up that if there is a big NFT drop or some sort of app that is consuming a, a large quantity of the block space inside of eclipse, is that somehow isolated or segmented, or is there some kind of bifurcation of resources between another layer?"
+    },
+    {
+        "speaker": "B",
+        "text": "Localized fee market is."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, this is a term that I've not fully understood, but I know our friends on the Solana side really purport this as one of main virtue of. Actually Solana is like these localized fee markets. Tell us about that."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, it's critical. And if you've looked at arbitrum lately, fees still spike substantially on roll ups if they're single threaded, and that's because of that exact reason that you're mentioning the global fee market. If GMX gets a bunch of activity, then everyone suffers as a result. But economically, that's not actually really the way that it should be, because there's this negative externality to GMX being imposed on all the other apps, but really it should be constrained to that one app. So it's as if you took all these global fees and you just concentrated it on the one app that's actually causing on the hotspot or state hotspot, as some of the folks in the Solana side will describe it as. And you just, everyone else can just keep like merrily happily walking along and they can execute on other cores. So it's really a property of the scheduler within the validator, because in every validator you have to somehow decide what order am I going to process transactions? And they're saying everything that's accessing this piece of state is going to all go on a single core and everyone else can use the other cores and there's no contention on this."
+    },
+    {
+        "speaker": "B",
+        "text": "So Neil, this is really just a statement. The design philosophy of eclipse is just a statement that its a bullish statement on the growth of the SVM network effects. So maybe in this day and age, if you are optimism or arbitrum, youre going for this thing called Ethereum equivalence and they are making a statement that hey, we are bullish on the growth of the EVM network effects. Network effects of different virtual machines can grow independently. Its not an either orlando, but the philosophy of eclipse is saying, hey, the SVM network effects are going to grow. They're going to grow a lot. We want to take that and couple into whatever the value is of being a part of the Ethereum ecosystem. That's my synopsis of this."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I'd even argue that EVM network effects have proven to be not so important. And I think it made a lot of sense initially a few years ago when you had Polygon and BSc launching. But if you look at the types of apps that were deployed there, you get like Sushiswap, which is effectively a fork of uniswap. And now I recognize they deployed even to like Ethereum. But those are the types of apps you often get, and it's rare that those apps are actually net new, whereas by bringing the SVM to Ethereum, I think we're actually going to see net new applications in the Ethereum ecosystem. Just given that there's a lot of apps that just couldn't exist without parallelism, central limit order bugs being a great example. We've seen a lot of decentralized physical infrastructure networks on Solana, so we can bring those to Ethereum as well. Apps like that, I think are going to be more interesting to me, rather than porting apps that already exist, certainly."
+    },
+    {
+        "speaker": "B",
+        "text": "So that was the execution environment of the eclipse project. And remember, when we live in the modular world that there are different modules. So there's a few others that we're going to go to. I want to go to the Ethereum module next. Ethereum is directly enshrined in the eclipse tech stack. The Ethereum bridge enforces the correct ordering for eclipse transactions. Can you talk about the significance of this? What is Ethereum providing to eclipse? What is the Ethereum module doing here?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, so what this means concretely is that an eclipse full node includes an ethereum full node. So an eclipse phone is also watching Ethereum. It's looking at that bridge, and that bridge has significance in how the protocol operates, meaning if the bridge gets rolled back, the bridge gets reordered. This all influences the eclipse phone out, and it will also get reordered or will also get rolled back. So that's what it means. And there's a second more subtle aspect, which is that we use ethereum for gas or we use ether for gas, and that's an important fact because that increases the money ness of eTh. And we could have, we had the option to deploy our own token and use that for gas instead. But we recognize that everyone in the ethereum ecosystem already uses ETH, and there's a ton of it, and people are looking for things to do with that. So we wanted to keep that intact and use it for gas for our chain, too."
+    },
+    {
+        "speaker": "A",
+        "text": "So how similar is this is what makes eclipsa layer two? How similar is it to other layer twos that, that we know today versus kind of different? So one, categorization, is it an optimistic layer two or is it sort of a ZK layer two? That might be one way to look at it, but there are probably others. Can you classify it with respect to the existing players that people know about?"
+    },
+    {
+        "speaker": "C",
+        "text": "What's weird is because this Solana VM settlement is so different from EVM layer twos, the terminology might have to change a little bit, and I have some thoughts on that later, but. But in general, I would describe this as this is an optimistic roll up that uses some zero knowledge technology or uses some zero knowledge proof in the optimistic settlement. So that's what the roll up is as it exists today. And moving forward, there's a route where we can actually become a full zero."
+    },
+    {
+        "speaker": "A",
+        "text": "Knowledge roll up, an optimistic roll up, because there's some sort of fraud proof window and you're not using ZK to do sort of all of that side of things."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, we don't prove every single transaction."
+    },
+    {
+        "speaker": "A",
+        "text": "Got it. Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so we have, this is a layer two, an eclipse node, and contains an ethereum node, which is the bridge. Ethereum enforces correct ordering for eclipse by proxy of all of this. This means that the assets on ethereum, the liquidity on Ethereum, have a direct and open pipe into the eclipse ecosystem. Does this mean that eclipse gets ethereum for security, or is that the fraud proofs element of this?"
+    },
+    {
+        "speaker": "C",
+        "text": "So security can be thought of as safety and liveness. So the fault proofs are basically providing execution safety. So if something gets executed incorrectly, then the fraud proof will prevent that from being settled to the bridge. And users should really look to that bridge if they're figuring out what's the last correct state of this chain. That's the truth and that's the canonical chain, whereas the full note."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, there is like this trustless bridge type concept, then yes, that's the critical."
+    },
+    {
+        "speaker": "C",
+        "text": "Part of the protocol. Yep. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And of course, like the main pole for being on ethereum in the first place is, I'm assuming, just it's the most secure, decentralized chain with all of the liquidity and all of the assets. Like that's the simple cases or anything else to add to this."
+    },
+    {
+        "speaker": "C",
+        "text": "I think that's exactly what you want for settlement."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, beautiful. Okay. I feel like that checks the Ethereum box relatively quickly. Unless you have anything to add, Ryan?"
+    },
+    {
+        "speaker": "A",
+        "text": "No, it's fascinating to me, this decision. I'll just make a comment to use Eth for gas rather than a native token. We might come back to that. But of course, I'd imagine eclipse has to pay taxes denominated in ether. You guys are at the end of the day buying some block space from Ethereum. That element certainly makes sense. I'll just comment. That's an interesting design decision, and certainly one that is commendable, I think, in many ways."
+    },
+    {
+        "speaker": "B",
+        "text": "So I think this part in the conversation, I think, is relatively easy for people to wrap their heads around. Take the Solana virtual machine, put it inside of a layer, two settle on Ethereum, but we got some extra curveballs. Celestia for data availability. Now we're bringing in the cosmos ecosystem. Why not Ethereum for data availability? Why not now and then? Also, why not Ethereum for data availability? Even considering post 4844 proto dank sharding, what's the thought process behind Celestia for data availability?"
+    },
+    {
+        "speaker": "C",
+        "text": "Celestia, when it goes mainnet, will be the most advanced, scalable block space that exists right now for making transactions available. And the reason for that is one, if you just look at the amount of bandwidth available on Ethereum, you could pretty much upper bound the amount of transactions that can be posted by like a few hundred transactions right now. And then, of course, the thing that I don't want to ever like, bet against research. So that's why I don't want to write off saying like, oh, we could never use Ethereum for DA, because research happens in like this exponential way, but as it exists, it's just a little bit too constrained. And that's exactly what Celestia has been solving for. And Mustafa actually wrote the original data availability sampling white paper, and he co authored that with Vitalik. And what they're basically doing is as a user, you can verify yourself whether a block is being withheld. And the more users are doing that, the more block space Celestia can provide. So that's their path to winning, which is that there's this critical network effect around the more people that are using Celestia, the more secure it becomes and the more scalable it becomes. And for that reason, Celestia might just always be ahead of whoever's the next best in Daevdeh."
+    },
+    {
+        "speaker": "B",
+        "text": "So even with Proto Deng Sharding 4844, and then even with full Deng sharding, given the fact that Celestia achieves some sort of critical mass of adoption, there's a world where Celestia can even outpace full dank sharding because full Deng Sharding has a lot of scale. But what you're saying is, like, where jury is still out as to the race between Celestia versus full dank sharding as who can provide the best bandwidth."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. Like one of Celestia's biggest advantages right now is that they're about to be live and no one else is there right now."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, is there a trade off in your mind, Neil, on kind of security here? So in this entire episode, we've called what eclipse is doing a layer two notably, rather than a roll up. And this is because there's some recognition, I think, in kind of the Ethereum community in general that, hey, in order to be called an Ethereum roll up, you actually have to do not only your settlement consensus on Ethereum, but also the data availability layer, the DA on Ethereum as well. And so that's like Dankrad posted this, and I think it certainly this idea has some merit. And the idea there is, in order to be given the title of an Ethereum roll up, then you got to be doing all of both of those layers on Ethereum. And so the notion that this comes with increased security is certainly present there. Do you see that as a trade off? Or is that not something that you are worried about for eclipse? Or is eclipse just optimizing somewhere else on the tradeoff landscape?"
+    },
+    {
+        "speaker": "C",
+        "text": "So it is technically a trade off. I will say that we're doing everything we can on Ethereum just to start, but the trade off is back to those properties of safety and liveness. So in order to create a fault proof, you of course need to have access to those transactions. You need to run them all yourself. You need to identify which one was invalid. In order to do that, you have to look at whatever layer one those transactions were posted to. So if they were posted to Ethereum, then you haven't really added any additional trust assumptions that Ethereum is behaving correctly. But if you post to Celestia, theoretically the celestial validators could collude, they could sign off and say, yeah, we got the block, but then they just don't give it to. So to me that threat is unrealistic in practice. We could have theoretically made this into a validity or something like that, where we post the blocks to some centralized Daeinh or some DAC or something. And that, I would say is a very different point in the security spectrum because the DAC really could collude. That's not that many entities that would be required to say we're going to withhold the block, whereas a full al one blockchain with slashing, that's a little bit harder to imagine."
+    },
+    {
+        "speaker": "A",
+        "text": "Let's talk about the other side of this equation. So the benefit of this and how you've laid this out is how cheap are transactions going to be on eclipse?"
+    },
+    {
+        "speaker": "C",
+        "text": "So it's hard to say for sure because DA is always a female market. So because Celestia is not live, we need to see where that fee market lands. But based on our projections, it's going to be comparable to Solana."
+    },
+    {
+        "speaker": "A",
+        "text": "Comparable. Okay, and how, what are Solana transactions going for these days? Guys?"
+    },
+    {
+        "speaker": "C",
+        "text": "It's like zeros."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "So I want to talk about the economics that are created as a result of this choice. So settlement and liquidity come from Ethereum? Ether as gas. There are economic tailwinds behind ether there, celestia for data availability instead of using Ethereum for data availability. So Celestia is capturing some of Ethereum's value capture, if you will. How can we think about who is splitting the pie here between Ethereum and Celestia when you choose to use celestia for data availability?"
+    },
+    {
+        "speaker": "C",
+        "text": "So I think it's the difference between moneyness and quote unquote value flow. So if you look at the cost of a transaction, the majority of it typically does go to Daevdeh in the case of no congestion. If there's congestion, then a lot of it will go to the execution layer similar. That's what causes the fee spice that I was referring to on arbitram with their global fee markets. So that value, of course, goes to slash. Ja. Of course, the cost of operating slash is much higher. So as far as what's the validated profit? It might end up being even close to zero after you've accounted for all the costs of their bandwidth. But given that ether is used for gas, then we're all transacting things in ether. We're denominating our nfts in Ethereum. I think that's probably the bigger piece of value accrual for a token, in my opinion. So that's how I think about it. And then, of course, there's the critical dependence on Ethereum for security. So just given the fact that we're just posting to Ethereum periodically with the state route. Well, it's not really a state route, but with commitments, that's one source of value flow onto Ethereum."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so you're posting data to Ethereum. It's not a blob in four eight four. It's just kind of. Is it call data? It's in the call data field."
+    },
+    {
+        "speaker": "C",
+        "text": "So the data that we posted, ethereum, is that state route is actually written to a smart contract. Okay, yeah, I keep saying state route because that's what it is for an Ethereum roll for an EVM roll up. But because there is no global merkle tree for a roll up, it's not quite that. Instead, it's like a commitment to what the output of the transactions are."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so previously, when we think about these things in what we will call normal roll up land, like optimistic roll ups, optimism, arbitrum. They. We talk. We. The way the meme that Ryan and I say is that layer two, buy Ethereum block space. Um, but that's less true with eclipse because you're buying celestia block space for data availability. Um, but you're still buying some block space because you're doing something. You're updating the state of, uh, a smart contract, the, the eclipse smart contract on the Ethereum layer one. Like, I know, like, rough numbers are always hard to ask for, but how do you, like, how much gas is that? Basically, how much are you paying Ethereum is the question I'm trying to get at."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, well, one other critical place for paying gas is for all the bridging. Anytime someone puts money into eclipse or takes it out, it's like a hash timelock contract, the way it's written right now. So that costs money anytime. I mean, that's true for any asset if you want to do forced inclusion. So it's hard to, I mean, that depends on what's the gas price for Ethereum and what's the price of getting up a lock space. So it's hard to estimate that."
+    },
+    {
+        "speaker": "A",
+        "text": "But compared to like an optimistic roll up today, that's, you know, I don't know. Last I looked at this, all of the roll ups in general were like consuming 200 to 500 eth per day or something like this for DA. So there's going to be a fraction of that. Yeah, mostly."
+    },
+    {
+        "speaker": "C",
+        "text": "So if you look at like optimism, like op stack, I think it's worth separating the DA cost and the settlement cost. And the DA cost is the vast majority of that, that 200 eth you were mentioning. And then settlement is. Yeah, maybe like one 10th of that, if even it's settlements, actually a small fraction of it in terms of just raw cost. But I don't know if that's even what's valuable for. I don't want to ever say like price of anything, but I think the reason why ether is so valuable is because we use it to pay for so many things and that's the fundamental benefit of it. It's going to play a critical role in our ecosystem."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. One of the models that we say for the layer two for 4844, for proto Denk charting and full denk sharding is that ether is making. Ethereum is making a trade off with its own layer twos where it is extracting less rent from them by producing extremely cheap data availability for these layer twos so it doesn't have to consume that much gas to post blobs. And the trade off is that while it doesn't charge much to be a roll up, post 4844, it gets to be money in all of these networks. And so I guess extending that logic, Celestia gets to capture the value flows is what you're saying is why you said flows. I'm assuming it Celestiate gets to capture the value flows, the bulk of the buying of the block space. But ethereum, ether still gets to be retained as like the money of eclipse. Am I on track here?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think that's the right way to think about it, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "What's fascinating about this conversation is because I feel like we've been trying to describe the animal that Noah has just brought on the ark over the last 1520 minutes and how long we've been talking. What's so fascinating about this, and I love it, by the way, is because I think this is going to break crypto, Twitter's brains, because do you know how we're always so divided in terms of tribes? Right? And here's Neil saying, I've got this. This layer two, called eclipse. And by the way, eth is money. Solana has the best virtual machine. Celestia is the best data availability layer. And by the way, it's not an optimistic roll up or a Zk roll up. It's something in the middle. Right? You're just good. Like, I don't know if everyone's going to love you or you're just going to piss everyone off, but I know you're going to confuse a lot of people with this approach and it makes me so happy, honestly."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I'm pretty excited about it, too. And it's going to force people to also think a little bit more about what are the security assumptions? What do they actually like about each blockchain? I think that's a really good reevaluation, especially in the roll up landscape. There just hasn't been enough innovation. In my view, all the EVM roll ups kind of look the same, and I'm glad to push the frontier on that."
+    },
+    {
+        "speaker": "A",
+        "text": "Can we ask this last piece? So risk zero is being used for fraud proofs, I believe. And our first exposure to risk Zero was just a couple of weeks ago, and this may be an indication of how fast the space is moving. So I only just learned about your project yesterday, Neil, and that's how much is going on at the moment, which is a very exciting time for building in crypto. But what is risk zero doing for eclipse? How is it helping you?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, so just take a step back. Risk Zero is a very ambitious ZKVM, and in general, ZK vms have been very constrained. It's like they just want to prove some bespoke program. They want to approve a virtual machine that's restricted to crypto, like the EVM. But RISC Zero took a ordinary virtual machine, which is RISC five, and they're ZK proving any risk five program. And what's cool about that is that RISC five has been around before blockchains, but there's also that there's so much stuff written for Ris five, so you could just take these existing rust programs or whatever you want, compile it to RISC five, which almost everything does, and run it there. So what's weird is that the Solana virtual machine doesn't use RiSC fly bytecode. But what we've effectively done is we take a BPF byte code, which is a Solana Vm bytecode, we output RISC V bytecode, we prove that compilation, and then we execute it within risk zero. And this way we can prove that the execution of a transaction was done correctly. And we can say, these are the outputs. And here's a little small piece of proof to show that it was actually correct. And that's what we use risk zero for. So the reason why it's relevant for fault proofs is that if you want to say that something is fraudulent, rather than re executing that transaction on Ethereum, which should be very difficult given that the SVM uses precompiles and stuff that doesn't exist in Ethereum, instead we just generate the ZK proof and we just pass it to Ethereum. We just say, here's all the proof you need, that it was executed incorrectly."
+    },
+    {
+        "speaker": "B",
+        "text": "And notably one of the most. The popular optimistic roll ups on Ethereum, arbitram just got their fraud proofs. Optimism still TBD, which means base still TBD. And then in comes eclipse with like, oh yeah, we've got like this super ambitious ZK fraud proofs. Here we go. We're already ready for them. And yeah, it's live. It's kind of nuts."
+    },
+    {
+        "speaker": "A",
+        "text": "Surprising."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And I think maybe like Ryan talked about, all these different tribes that are now confused here, I think that if there's one thing that is definitely the absolute winner here, if assuming that eclipse achieves its division, that it wants to achieve, is the modular thesis, which actually isn't any one tribe. There are many, a handful of tribes that are all modular. Like Ethereum is a modular network. Celestia is a part of the cosmos modular ecosystem, and it's providing a module of data availability. So no one tribe works. But the idea of modularity, I think, is unlike categorically taking the dub here. Would you agree with that, Neil?"
+    },
+    {
+        "speaker": "C",
+        "text": "Definitely, yeah. This is a very modular maxi type, if that sentence even makes sense, given the modularism isn't really like a maximalist, it's almost oxymoronic."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I actually, I recently read Anatoly of Solana being described as a single shard maximalist, which is the first time I've heard this. So maybe there's a counter to the modular maximalist."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, they just wanted from monolithic."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, calling it integrated. Now they have the no sharding podcast. Actually, someone on my team wrote a really good response, Sydney, against the whole integrated blockchains piece. And there's all sorts of things that you can basically only achieve in the roll up world. So that was the premise of it."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Sovereignty being the big one. Yeah, that was a great piece. I didn't know she was on your team. There are a few more things that we want to talk about. This is not just a layer two. This is not just a single network. But Eclipse also is coming with its framework. Just like the op stack or arbitrum orbit or the ZK stack, eclipse has a framework that is bringing to the table, which means there can be multiple eclipse chains. But a question that comes to mind is if we're using the Solana virtual machine, I thought we just needed one execution environment. I want to ask you about that then. Also, there's a roll up as a service component of eclipse, the company. And so that is another vertical that I want to talk about, and then I want to get to. Ultimately, Neil, the big question of who wins here, who wins? We have four different projects in various loose competition, cooperation with each other. I think everyone kind of wants to know. The punchline is like, all right, who, even though we are definitely growing the pie, somebody's taking a larger piece. And so I want to unpack that conversation as well. But first, I want to talk about some of these fantastic sponsors that make the show possible. And we're back. And now we're going to open up the topic of the eclipse super chain. Should I call it super chain, Neil, or is there a different word that you have for this?"
+    },
+    {
+        "speaker": "C",
+        "text": "I almost feel like it's an anti super chain because super chains imply many chains that are all being connected, whereas I feel like it should all be on this one chain."
+    },
+    {
+        "speaker": "B",
+        "text": "So, okay, so the eclipse main net that launched today is the chain that you're saying, well, we don't need more of these things, just use this one."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. There are cases where it makes sense to have your own chain, and it comes down to the things like ownership if you want to be able to fork and upgrade it at your free will. But in general, most applications, I feel, pretty much belong on a shared chain. And that just arose from the fact that we've deployed a lot of app specific chains. We actually got to see those unit economics firsthand. We were the ones paying the cost. We were just like, this doesn't seem to make sense given the value of the transactions that are being run on the chain."
+    },
+    {
+        "speaker": "A",
+        "text": "So I'm confused here. So is eclipse going to be just one chain or like a, so it's a framework."
+    },
+    {
+        "speaker": "C",
+        "text": "The eclipse team is only going to own this one chain as of now."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay."
+    },
+    {
+        "speaker": "C",
+        "text": "But we do have a roll up framework that anyone can deploy. You could deploy your own instance of it and it's built in such a way that it's easy to do that and even swap out the modules. And we've actually dog fooded it with a few folks as well."
+    },
+    {
+        "speaker": "A",
+        "text": "Why would you build a framework then?"
+    },
+    {
+        "speaker": "C",
+        "text": "If it's because we didn't anticipate that it would be so scalable. We thought that it was going to be like 100 chains or something initially, or thousands of chains. And honestly, just through our experience we realized that it wasn't needed and it also just wasn't practical."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so the idea here is that the eclipse maxi take maybe that we're going to get some eclipse tribes now, is that there will be like 95 plus of economic activity on the eclipse networks on this one dominant main net chain and then there will be a splattering of app specific eclipse chains that just want to have their own home base. Not unlike the um, uh, Makerdao Roon conversation that got started not too long ago about Makerdao forking Solana to have its own app specific chain. Things like they could just use this."
+    },
+    {
+        "speaker": "A",
+        "text": "Rune, could just use this framework."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I think Roon and, and I think they wanted to make their own layer one specifically. But for people that don't want to go that far and still want to have some tie to ethereum yet still use a Solana code base, they could use eclipse. Is this right, Neil?"
+    },
+    {
+        "speaker": "C",
+        "text": "So we are chatting with Maker. To be fair, there's a way to get that, but we don't have any ruin, I'm sure already has a pretty thought through vision of what he wants to do. But yeah, I think that's the right way of thinking about it. And in my opinion, it's just that there aren't that many whales that could justify their own chain. I think base is a great example of a chain that makes sense. They absolutely should have a chain. And we can see the results of that. They've generated millions in revenue already. They haven't even been live for that long. But how many coinbases really exist in the world? Right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Right. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so you think there'll be a small number of layer twos then, not hundreds of thousands of roll ups out there and layer twos out there."
+    },
+    {
+        "speaker": "C",
+        "text": "I think we need more scalable roll ups. And if we have scalable roll ups, then we don't need thousands. Or at one time I saw someone say, we're gonna have millions of roll ups. I was like, this is getting truly out of hand."
+    },
+    {
+        "speaker": "B",
+        "text": "That might have been me. I might have said that."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, one reason why I don't like it is just a static reasons. I just think it looks very ugly to have a bunch of these like tiny little chains. And then you have to have shared sequencers and you have to like prove the bridging. The liquidity is everywhere. You have dots on every chain. Someone posted a tweet of their metamask wallet and it was like 40 chains and they're like, can metamask please have a way for me to search chains? This just shouldn't be an issue. It seems like an anti pattern."
+    },
+    {
+        "speaker": "A",
+        "text": "And just to be clear on what's shipped today, so what shipped today on Mainnet, because you mentioned Celestia isn't even on Mainnet. So obviously you're not doing the DA with Celestia right now. So what's shipped today on eclipse and what can people go do?"
+    },
+    {
+        "speaker": "C",
+        "text": "So right now, what's live is actually the Testnet and the mainnet architecture is announced. So that's going to be shipping later. This. Yeah, exactly."
+    },
+    {
+        "speaker": "A",
+        "text": "Got it. So testnet now and then when is when Mainnet. When Mainnet."
+    },
+    {
+        "speaker": "C",
+        "text": "I don't want to say it publicly yet, so it's. But you can. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Weeks, not months kind of."
+    },
+    {
+        "speaker": "C",
+        "text": "It's on the order of. Yeah, it's on the order of weeks. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so we flubbed up the intro. Sorry. For bankless listeners that feel wrecked by that. Almost a hold your breath amount of time. Okay, so, Neil, I want to get to the who really wins here conversation. Four different protocols all have components of their protocols being used, but no one protocol has all of the protocol being used. So how do you think about the winner and losers of these systems?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think the most obvious benefit is to Ethereum, given that ether is being used to denominate everything and it's being used for critical security properties. I think value flow to Celestia is a pretty big win, especially given they're about to be mainnet. So having a big roll up on there and having some value flowing in is going to be really valuable for them. Solana is the one that's really tricky because there are indirect benefits to broader vm adoption. That's true. There's also risks that are incurred because of course projects can move from Solana to the roll up. You might have folks that maybe they would have been forced to use Solana before. Now they can bridge to this via this trust, minimize bridge and stay on Ethereum and get a lot of the benefits. So that's definitely a question mark. They have that, you know, that like there's like BCG growth share matrix is there's like a question mark where it's like we don't know how this is going to turn out. I think that's where I'd probably put my answer for this kind of thing."
+    },
+    {
+        "speaker": "B",
+        "text": "One difference between eclipse and Solana is that Solana is further down on the decentralization scale. And layer twos famously don't have to be decentralized in order to actually fulfill some of their vision. That's one of the reasons why layer twos are layer twos is because of fraud proofs or trustless bridging, et cetera. You actually can have the operators of a chain be centralized because you are checked by Ethereum. How does this dynamic between eclipse and Solana change the game here? Because I would imagine eclipse, in terms of hardware nodes running the system, there's much, much fewer of them than with Solana. How does that change the numbers and economics in game here?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that's right. There's thousands of validators for the Solana network. And so while I don't want to commit to specific numbers in terms of what's the resulting dollar amount, it is correct. The fixed cost of eclipse is 4000 times cheaper than Solana as an l one because there's only one. You don't need 4000 validators. So that's true. And I also hate when people talk about roll ups and decentralizing their sequencer because that sounds like a bad thing. It's not an important conversation because what they should be talking about is what are the security properties today? And that's much more important. And if you get all the same security properties, it doesn't matter if there's a component that's centralized."
+    },
+    {
+        "speaker": "B",
+        "text": "I will say that like three sequencers, like a handful of sequencers can make a ton of sense. But when people say decentralizing the sequencer, they're talking about like, yo, spread that all around the globe, like smear that ice cream all over that or cream cheese all over that, that bread. That's the weirdest metaphor I've ever used. But yeah, you only need like a small number of sequencers to preserve uptime and liveness and still retain like the vast majority of execution and costs. Right, and latency."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, exactly. And really the only impact is to liveness because the risk is, what if the sequencer just refuses to include your transaction? But what's good about rollups is that's exactly what the canonical bridge prevents, which is you can submit the transaction there directly, doesn't matter if someone wants to censor you. So. And the downside there is that, of course, if you submit to Ethereum directly, it's going to be much more expensive. So there's like a cost imposed on short term liveness."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so I want to make a statement here, and the Solana tribe might sort of hate this, but. So I'm just absorbing this right now, and I kind of feel like this is good for the SVM as a technology. So the points there."
+    },
+    {
+        "speaker": "B",
+        "text": "Huge dub."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, this is a win for the SVM. And again, we're contingent on eclipse being successful and all of these things. Right. We know you're going to be doing major things, and this is going to be a very successful layer, too. That's the contingency. A win for the SVM, but a loss for Solana."
+    },
+    {
+        "speaker": "B",
+        "text": "So everything that's for Sol, where Solana is for me, kind of like Sol."
+    },
+    {
+        "speaker": "A",
+        "text": "Plus the SVM, that's not what Solana Sol token holders care about, dude, they care about the same thing that eth token holders do, which is like they want to propagate. They want their investment, they want Sol number to go up. So sure, Solana as a concept has won just in the same way that, you know, modular has won. But can I invest in modular coin? I do you know what I mean? It seems to be a, because what you guys were just talking about, which is this decentralization that Solana has versus eclipse, and they do have a much wider validator set, and they're much more decentralized than eclipse. And of course, that's because Eclipse has outsourced its decentralization settlement consensus layer to Ethereum, and it doesn't have to pay those costs. So what one group is holding up as this is an attribute, we're a bit more decentralized. That's like a millstone, because that's a massive cost of running the infrastructure. Right. And this is why maybe your statement, Neil, of a modular, centric, maximalist is kind of coming true. This is what the modular bulls have sort of predicted, is that the economics of running an execution layer as a layer two on top of something like Ethereum, far outstrip and far outpace what you can do independently as an alternative kind of layer one execution layer. So it's really, I do very much see all of the different roll ups and all of the different layer twos and clips included. It's execution layer against execution layer. That's really where the competition is in that world. And so my conclusion is that this is actually a win for the SVM, but potentially a loss for Sol tokens and for Solana. And I know the Solana community may not like hearing that, but, wow, I don't know how else you interpret this. Can someone give me the counter to that? Or maybe not on this call. Maybe that's a follow up episode."
+    },
+    {
+        "speaker": "B",
+        "text": "There's no question there."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Okay, cool. I'm just making sure I was going to get. I wasn't sure if I should give commentary on that on the record."
+    },
+    {
+        "speaker": "A",
+        "text": "Do you want to give commentary on that? Have I said anything about it?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think that, well, I don't try to predict token price. That's the thing. In general, I don't even look at prices. I have, like, a ton of crypto."
+    },
+    {
+        "speaker": "B",
+        "text": "It's not about price, it's about value capture."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So, I mean, of course, like, there isn't really any activity from this chain that translates to the Solana alone. Right. It's like, if you run a transaction on eclipse, nothing happens on Solana as a result. So that. That part, I think, goes without saying, but, yeah, it depends on whatever. Whether it's good or bad is the same as whether Makerdao's proposal is good or bad for Solana, I think. Meaning that makerdao is also proposing a separate chain, and the Solana community seemed to like that. So I think, however they received, that should probably be how they treat eclipse, is what I think."
+    },
+    {
+        "speaker": "A",
+        "text": "Do you think that's gonna happen? You think they're gonna receive you with open arms here?"
+    },
+    {
+        "speaker": "B",
+        "text": "The crypto tribes would love to reinterpret any news as positive for them. That's part of the game. That's part of the arena of crypto, Twitter."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. To be fair, Tolly is an angel investor in eclipse, so he's very, like, grow the pie, I think, in his thinking."
+    },
+    {
+        "speaker": "B",
+        "text": "Neil, is there a BD person at Eclipse, or are you guys all engineers?"
+    },
+    {
+        "speaker": "C",
+        "text": "Right now we have our chief business officer, Vijay, who is head of BD at Uniswap. He was head of BD at Dydx. He has some great plans for bringing liquidity to eclipse, and we're going to be supporting DeFi protocols in a pretty big way. So that's going to be a big emphasis for this chain."
+    },
+    {
+        "speaker": "B",
+        "text": "So isn't one of, like, the biggest ways that Eclipse wins is to convince Solana apps and apps and consumers to migrate to eclipse."
+    },
+    {
+        "speaker": "C",
+        "text": "I think there's a lot of reason for them to try out eclipse similar to that point about EVM compatibility, like that go to market tactic. I think it's a little bit, I think it's a good initial tailwind, but in the long run, I really want to see new apps on Eclipse, just like true innovation on the Ethereum side, especially in decentralized physical infrastructure networks. I used to be a quantitative citadel in the commodities group, so I do a ton of physical stuff. And in particular, all these energy related projects I think are really interesting. So I talk with those guys all the time."
+    },
+    {
+        "speaker": "A",
+        "text": "What's fascinating to me about this project, too, is a lot of people have said, oh, this Solana should just become a layer two on Ethereum, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "This is that."
+    },
+    {
+        "speaker": "A",
+        "text": "But it's been very clear that Solana is not going down that path, or at least not right now. Not entertaining it. I mean, that seems pretty clear. And so they're not doing that, therefore someone else is. The white space will be filled by a market competitor. This is very darwinistic evolutionary type social pressures where the space and the gap will be filled. And you're doing that exact play now. You have to start with a blank slate where you have no network state, no apps, and you're building from the ground up. But it's basically that play. You're executing Solana as a layer two on top of Ethereum, and you're watching that experiment play out. And that's kind of interesting."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think that's true with markets in a really weird way, especially in crypto, where Eigen layer is another good example of that, where people are like, I want to do more stuff with my eth that isn't necessarily enforceable on chain, and I don't want to change the Ethereum core code. So then Eigen layer pops up, like, you can restake your ETH and we can have additional slashing conditions. I think that kind of like void filling happens in the Ethereum landscape more than anywhere else."
+    },
+    {
+        "speaker": "A",
+        "text": "So no token planned or like whatever, using ETh for gas. What's the story here?"
+    },
+    {
+        "speaker": "C",
+        "text": "As of now, the eclipse mainnet has no token."
+    },
+    {
+        "speaker": "A",
+        "text": "Doing this all without a token. And of course, I guess costs are low, right? You don't have validators to pay in the form of token issuance because you're just paying a little bit for celestia block space and ethereum block space, then."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that's what's cool. It's like a small business in the sense that, like, it's a small, like, maybe I phrased that weirdly, but in the sense that it's just, like, profitable from day one, every transaction pays for itself, unlike a layer one, where they typically have to inflate the hell out of their token. That's just not how roll ups work. So it's a big advantage."
+    },
+    {
+        "speaker": "A",
+        "text": "I feel like now we're at a different, um, stage of the cycle than we were in 2021 and 2022, which is now we have real cheap, uh, block space, and it is plentiful. We have, this is our high bandwidth moment. And so maybe, uh, you know, a question for you of like, all right, so who's going to buy all this block space that we've now produced? I mean, where are the apps? What are they going to be? Is there anything that you see there? Or is this going to take some months and years to really play out, to build out these ecosystems?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think definitely on the order of months. I think on day one it'll be stuff that we've already seen in crypto. Just given that new apps need that, it's like a chicken egg problem, where until that highly scalable infrastructure existed, I don't think there was any way for someone to build truly game changing apps in the EVM world. Up until now, I think frantic has been highly constrained by the fact that the fees are actually getting quite high. Now. There's a lot of reasons why even the fact that it's. And I mean, I can talk about, like, more details on it, but I think even, like, the AMM construction, for example, is kind of an artifact of a load throughput blockchain, because if you truly had things your way, you'd probably start by trying to build an order bug. And people did try on Ethereum. It just never worked. So. So, yeah, I think that this is going to enable a lot of new stuff that people can, can start experimenting with."
+    },
+    {
+        "speaker": "A",
+        "text": "Neil, you said earlier, and maybe we'll come full circle. This eclipse, in your mind, isn't quite a layer two, isn't quite a roll up. You had some ideas on the best term or the best way to describe this. So how would you describe it? What kind of term should we use for this new platypus type of creature that has just emerged?"
+    },
+    {
+        "speaker": "C",
+        "text": "So basically, I want to rename terms where I think if the world roll up, maybe it should even be eliminated. But I know that's too confusing and people have been using it for a while, but it's because it's too broad of a category. People call everything a roll up and l two should maybe even be reserved in line with what dawn crowd was saying to something that is maximally using ethereum for everything it can. So ideally it's using ethereum for DA has a bridge there, eth for gas. That's an ethel too. And then everything else. For example, if you put your DA off chain and you're using ZK proof for the entire transaction chain, then that's a validity. If you're using off chain DA for like, basically, I want to like, give new terms to each specific construction, but, but that might just be overly confusing for your average layperson. So I haven't come up with a term for what eclipse should be called, per se, but, but I do have, like, some issues with existing terminology, and I feel like it's so much easier to be a critic. So that's why I have issues with existing technology, but I don't want to commit."
+    },
+    {
+        "speaker": "A",
+        "text": "I would call you guys an ethereum layer two validium with the SVM as its execution."
+    },
+    {
+        "speaker": "C",
+        "text": "That seems reasonable. I think that that's like, it's, it's like it captures all the important properties. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "It's also a mouthful."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah, that's not a, you know, that's not memeable."
+    },
+    {
+        "speaker": "B",
+        "text": "We'll call it eclipse for now."
+    },
+    {
+        "speaker": "C",
+        "text": "All right, that's cool."
+    },
+    {
+        "speaker": "B",
+        "text": "Neil, I have learned a lot. This is very, very exciting. Oh, can you give us like kind of the short term roadmap? I know, Mainnet launch date, weeks or months, maybe something like this, but also what else is on the horizon that people might be excited about?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So mainland, on the order of weeks this upcoming quarter, we're going to bring. So this is early next year, we're bringing IBC compatibility. So this is actually something that Solana foundation gave us a grant for. So we're just like wrapping up and productionizing that work. And what that'll mean is that all these cosmos chains who historically wanted to get access to the Solana ecosystem, actually, what's, what's weird about eclipse, and maybe this is just like a fact about rollups in general, is the bridging is the most important part. So historically, Solana just hasn't had very good bridges such as layer zero. They announced their testnet deployment on Solana, but the main net deployment has been repeatedly delayed. And that's because the execution model of Solana has all these small little details. But basically what I'm saying is that we're going to be interoperable with all, with more chains. That's something that's coming up on the horizon."
+    },
+    {
+        "speaker": "A",
+        "text": "And the Solana foundation gave you a grant to do this?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. For the IBC work? Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, interesting. Full credit to Anatoly, who's maybe an investor here, and also the Solana foundation for funding a grant, because this really has the potential to maybe cannibalize some of what they're doing, and it looks like they're forging into that. So I certainly have to respect that. As stated, Anatoly and others have always said, hey, we're just trying to propagate SVM in this open source technology. Some points there for Solana, maybe at the end, if we still have any Solana listeners left at the end of this conversation. Neil, last question for you, at least for me, and maybe David's got something, too. We didn't open with this, and we usually do, but I feel compelled to ask it at the end. How did you get into crypto? This project just magically appeared on my radar this week, and I don't know very much about, um, you know, now I know a lot more after doing this episode, but I don't know anything about you, so. So tell us about yourself."
+    },
+    {
+        "speaker": "C",
+        "text": "It's a bunch of facts that I try to hide, but I was working in trad five, so I was working at Citadel. And then around the time, I think, march of last year, I left. I was briefly building an EVM for Cosmos. That was actually my first thing that I was building in crypto. And then Terra famously de pegged, and all the tbl just, like, float out of cosmos. And then I was like, wow. That seemed to be the thing that was holding propping cosmos up to some degree at that time. So I had to re evaluate that project. I ended up scrapping it, and then I just spent a lot of time thinking about the economics of l one s versus roll ups. And the celestia team reached out and they got me completely roll up pill. I was chatting with some researchers in the Ethereum world, and, yeah, then that initial idea was just now I want to make Solana into an Ethereum roll up, and just ran into all the issues that I think most people probably wouldn't anticipate from first principles, but that's effectively what happened."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, thanks, Neil."
+    },
+    {
+        "speaker": "B",
+        "text": "What a story."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, that's a great story. I guess we'll close it at that. We appreciate your time, looking forward to what you're building here, and thank you for introducing us to the eclipse platypus today. It's an exciting new world of new chains that we can construct here. I like what you're doing here."
+    },
+    {
+        "speaker": "C",
+        "text": "Thank you so much for having me."
+    },
+    {
+        "speaker": "A",
+        "text": "Got to end with some disclosures. Of course. We are long term investors, not journalists. We don't do paid content. There's a link to all bankless disclosures in the show notes. Neither David nor myself are invest in this project. Of course, we are bullish, generally on layer twos and ether. The asset. Got to let you know, crypto is risky. You could lose what you put in. But we are headed west. This is the frontier. It's not for everyone. But we're glad you're with us on the bankless journey. Thanks a lot."
+    }
+]

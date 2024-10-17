@@ -1,0 +1,422 @@
+[
+    {
+        "speaker": "A",
+        "text": "Hey unchained listeners. As you know its hard keeping up with the fast paced world of crypto, so weve got just the thing for you. Subscribe to our free unchained daily newsletter at unchainedcrypto dot substack.com. youll get the latest crypto news in original articles from our reporters, as well as summaries of other happenings in bullet points. Plus our meme of the day, all curated and written by our amazing team. Its still your no hype resource for all things crypto, just in newsletter form. Sign up at unchainedcrypto dot substack.com dot. Again, the URL is unchainedcrypto dot substack.com dot."
+    },
+    {
+        "speaker": "B",
+        "text": "Not a dividend, its a tale of tuqwan."
+    },
+    {
+        "speaker": "C",
+        "text": "Now your losses are on someone elses balance sheet."
+    },
+    {
+        "speaker": "D",
+        "text": "Generally speaking, airdrops are kind of pointless anyways."
+    },
+    {
+        "speaker": "C",
+        "text": "I named trading firms who are very involved."
+    },
+    {
+        "speaker": "B",
+        "text": "Pollock Eth is the ultimate defi protocols."
+    },
+    {
+        "speaker": "E",
+        "text": "Are the antidote to this problem."
+    },
+    {
+        "speaker": "C",
+        "text": "Hello everybody. Welcome to the chopping block. Every couple of weeks, the four of us get together and give the industry insiders perspective on the crypto topics of the day. So let's kick it off with intros. First, we've got Tom, the defi maven and master of memes. Next up, we've got Robert, the crypto connoisseur and captain of compound. Then we've got Tarun the gigabrain and grand poo bah at Gauntlet. And finally, you've got myself. I'm Haseeb, the head hype man at Dragonfly. The four of us are early stage investors in crypto, but I want to caveat that nothing we say here is investment advice, legal advice, or even life advice. Please see Choppingblock XYZ for more disclosures. So we have all decided, we've made a New Year's resolution that after the last couple of shows, we are going to do a moratorium on bankruptcy Talk, FTX talk. We've covered a lot of that stuff this year and looking forward to 2023. We want to talk about something other than that crap for at least a while. Do you want to hear about bankruptcies? I don't know. There's other shows that are going to talk to you about bankruptcies, but crypto is just so. There's so much stuff going on in crypto. I was telling these guys that. So the Fed just ended up hiking interest rates 25 basis points, which got markets excited. But everybody told me they don't want to talk about that because that's going to be a little bit too boring for our chase. Is that right, guys?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, if you want to be a macro trader Larper, you can go listen to all in, but this is the crypto podest."
+    },
+    {
+        "speaker": "C",
+        "text": "All right. All right, that's fine. Well, there's been. There's been a good slate of crypto news this week, some of it more spicy than others. Maybe the place we can start is that one of the pieces of news that's been going on this week is that there's some drama in crypto Twitter about bitcoin nfts. So I did not know that bitcoin nfts were a thing. Apparently they're not super. They're kind of a thing. So it comes down to this project called ordinals, which was launched by Casey Rod Armour. And the TLDR is that there are these nfts on bitcoin that basically they are being. So you have like a satoshi, which is the smallest unit possible on bitcoin that you can transfer. So you take this one satoshi, and this one satoshi. When you transfer it, it has some metadata that you shove into the witness that is like, okay, here's what the NFT is. Here's what it does. Here's the color, the size, whatever metadata you put with the NFT. And so all the stuff is not sort of depending on how you. How you qualify the, um, the witness, which is, you know, it's, uh. The witnesses can now be larger in bitcoin thanks to taproot. They don't necessarily have to be persistent on chain, but a lot of people do persist, these witnesses. So that's where this meta, uh, this NFT metadata is going. And it is making people in bitcoin land mad. They are mad that there are some people who are shoving this NFT data into bitcoin witnesses because it's, quote unquote, clogging up the chain. So now these ordinals, in absolute terms, they're not super popular. There's not a ton of volume right now, I think, going through these bitcoin nfts, but there's a lot of argument about it looks like a dancing baby one. These are beautiful. Amazing. Absolutely beautiful. Wow. What are you guys thoughts on the ordinals drama and bitcoin people getting mad about nfts?"
+    },
+    {
+        "speaker": "E",
+        "text": "I just don't understand why any bitcoin supporter would be mad that people are using the bitcoin blockchain."
+    },
+    {
+        "speaker": "B",
+        "text": "I think one of the most hilarious thing is, actually. So there's a meme about hitting the witness size limit, which is like a little around four megs. And we actually just did it an hour ago before this recording. So like Wednesday, February 1, around five ish, between five and 06:00 p.m. like in the last hour ish was the first block and it cost 0.01 btC. It was like basically nothing for filling the whole block. So who don't like big blocks? They're just kind of. They're just kind of mad people about everything. It's like, it's like the Luke Dash Junior, the Adam Bach, et cetera, cabal. But you know, I think like this brings up a very interesting point about blockchain upgrades. You know, people in hard forks, like, you know, what Ethereum has and you know, Solana seems to have unintentionally every few, few weeks is like you make quite drastic changes, including to the block size, like how many transactions you're allowed to have per block. But you do it in a way that people expect. People sort of expect those changes. Ethereum wallets expected EIP 1559 Ethereum users expected changes to transaction fees when hard fork to add such a change took place in bitcoin. Historically, people have been quite resistant to it. But one interesting thing I would say I observed about the NFT move of 2021 is that bitcoin maximalists loved nfts. They may have been like Defi, it's just finance again, but they seem to really love nfts. And I had observed a lot of bitcoin maximalists, or self proclaimed bitcoin maximalists, really going wild on buying nfts and making NFT anons and stuff like that. And so I think this just is a testament to like, hey, if the community really wants this and you made a mistake with not being very careful about block size, then you might never really control your block size in some way. There's a social element to that that I think is rearing its head here."
+    },
+    {
+        "speaker": "C",
+        "text": "It's honestly bizarre to me one that this is such a. I mean, in a way, the story here is not really that bitcoin nfts are taking off, right? That's not actually what's happening. It's more that it's like the story is the story about the story that people are mad that this is happening, which very much does speak to the psychology of bitcoin maximalists. But it's also, I mean, as look as venture capitalists like, you know, all of us are investors and we've all seen a kajillion pitches for, oh, this thing happening on ethereum, we're going to put it on bitcoin where people are more virtuous and just. And that's where it should really happen. Right. So, like, oh, you should get a roll up and somehow get that into bitcoin, or you should get a game and somehow launch on bitcoin or Defi. Of course, there was a whole generation of Defi on bitcoin that certain investors were just, you know, there were certain funds that just loved funding DeFi and bitcoin. And now we've got nfts on bitcoin, but it's always kind of half hearted and it's always followed by this trail of people who are just mad that it's happening and then people who are like, oh, great, now that it's here, you don't need any other blockchains. Thank God we have nfts on bitcoin because we finally invalidated the need for every other blockchain. It just seems so angry, right? I guess that's the one word that I feel like not bitcoin itself, but the bitcoin sort of community or the bitcoin maxi community. It's just they always have something to be angry about and it seems like this is the thing du jour to be angry about."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I think there's. I forget who the quote was from, but one of these articles talking about a bitcoin contributor being incensed that people would, like, use the blockchain for anything then transferring bitcoin. But, you know, it's like, if anything, bitcoin is in such dire need of more transaction fees and more volume, obviously, to offset the reduction in emissions. I think, unfortunately, this is not really picked up yet. But if anything, they should be applauding this. Right? Like, you should want people to use your blockchain and be willing to pay for it to, like, you know, maintain its security. And yet, like, that isn't. Hasn't really happened yet."
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, I just. I just can't see this kind of thing working long term. I mean, like, bitcoin. Like, all these auxiliary uses of bitcoin or auxiliary uses of bitcoin block space, I should say. They just don't make sense. Right? Like, bitcoin was not designed for this. Yeah, you can do it, but why would you do it? You know, like, I like, the community just isn't there. The infrastructure isn't there, the discovery isn't there, that, you know, the community is not there. The community hates this. Like, look at all these bitcoin Maxis just like yelling at people to get off their lawn, like, of course this is not going to happen."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, it reminds me a little bit of, what was it? People restoring weather data on BSV."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "I, I mean, but that's, I feel like that's emblematic of the, the way in which bitcoin has just scared off any application level innovation. You know, like when, when people tried to use bitcoin block space and they were using bitcoin cash or using bitcoin Sv, it just becomes the butt of a joke, you know, and Ethereum, I mean, that's the one thing I will give credit to Ethereum and its brethren is that nobody ever really complains when people do dumb stuff on Ethereum. I mean, they kind of do a little bit if it's particularly noisy. I remember back when Fcoin, which was this big trade mining exchange, was taking place in Ethereum, people got mad about that. Fomo 3D, people got mad about FomO three d, I remember. But for the most part, in Ethereum land, you just kind of take your luck. He's like, yeah, there's crazy things happening on chain. It is what it is. There's bonk on Solana. People were getting mad about that for a little while, but then they were like, oh yeah, I guess it's good for us that people are doing some stupid, some other stupid meme coin. And I feel like thats the right attitude. If you dont have that attitude, you just cant really engender this kind of innovation. I mean, innovation is a strong word for it, but ultimately it is innovation if you dont let an NFT marketplace pop up."
+    },
+    {
+        "speaker": "B",
+        "text": "Preston, its actually very innovative to have in bitcoin land. They had this thing called opereturn, which effectively lets you write a piece of data to the bitcoin blockchain. But you as a node operator can decide not to store things held by opereturn. So you can parse the entire blockchain, but you can kind of prune or throw away such data. And there was always this huge fight over whether to make it bigger or not. Jeremy Rubin, who just actually retired as a bitcoin developer whos been around bitcoin development for a very long time, he was trying to get a sort of complicated extension that would have sort of allowed some type of smart contract like covenants to be added. And some of it relied on opereturn. And that was like voted down after years of lobbying. That was years of lobbying. And I think it's very creative that someone figured out that, hey, taproot actually accidentally allowed you to do things that you thought you would do that way. It's just, I think at some level, this might actually spur a lot of innovation per se, that will maybe not keep the Maxis happy. But I do get the feeling that there's a large contingent of people who are really excited about this. Larger than I thought."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think innovation, it's more like catch up growth, almost. Right? Where it's like, you import innovations from other chains and you try them out and see if they take off in your country. And so far, the answer is that, well, the people in this country seem to hate it. They seem to hate everything."
+    },
+    {
+        "speaker": "B",
+        "text": "But I don't think people seem to hate. I don't think."
+    },
+    {
+        "speaker": "C",
+        "text": "I just think they're not going to."
+    },
+    {
+        "speaker": "B",
+        "text": "Be loving the meme of spamming the blockchain right now."
+    },
+    {
+        "speaker": "C",
+        "text": "Fair enough. Well, I think the. The village elders hate it. Maybe it's a better way to put it, the politicians."
+    },
+    {
+        "speaker": "B",
+        "text": "But the interesting thing about the bitcoin politicians is, like, I actually do feel like one. One virtue of bitcoin is that the polit. Their thoughts don't matter as much anymore. Or, like, it doesn't seem like their thoughts have mattered for seriously, for a very long time. Outside of these kind of like, core dev type of issues. And, like, the thought leader, people aren't. Haven't even really committed much to development in some sense. They may have a long time ago, but."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that's true. Robert, what is your view on bitcoin startups? People who are trying to launch stuff on bitcoin?"
+    },
+    {
+        "speaker": "E",
+        "text": "I mean, there's a lot of stuff on bitcoin. Right. Every exchange that supports bitcoin is something on bitcoin. Right. Coinbase is on bitcoin. Right. Anything that uses bitcoin is on bitcoin. Like, there's a million startups that use bitcoin in some way as an asset, which I consider in some degree a bitcoin startup."
+    },
+    {
+        "speaker": "C",
+        "text": "Right, okay. Okay. You know what I mean, though. You know what I mean? Like Defi on bitcoin, nfts on bitcoin. What do you think of that?"
+    },
+    {
+        "speaker": "E",
+        "text": "Well, I don't think it's a fertile ground for Defi. Yes. Any bitcoin maxi listening can find some possible way that it could be used to build anything. Just like, theoretically, almost any low level language, like assembly. At a certain point, you can make a Turing complete system with it and therefore build anything, but it's not the right tool for the job if you're going to build Defi or something complicated. Bitcoin is not the blockchain to build it on, in my opinion. I think it's great for the one use case it has, which is transferring value between parties. And that's the value proposition, that's the narrative, that's the value of it. Right. I don't think it's going to be using this as the foundation for complex systems beyond just transferring value."
+    },
+    {
+        "speaker": "C",
+        "text": "So fair enough."
+    },
+    {
+        "speaker": "E",
+        "text": "I would think any startup that's like, oh, we're going to use this in this crazy way, it's like, well, why would that be your choice as opposed to all the other choices available?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah. I think theres a lot of, I saw this a lot in 2017, 2018, and then again a little bit in 2020. And I think it kind of fell off after that. I think this idea that a lot of very earnest founders who are, okay, theyre like, okay, im going to learn about crypto. And of course, the first place you start is you learn about bitcoin. Because bitcoin, its a granddaddy, its the biggest blockchain in terms of market cap. And you see that all the people who invented bitcoin and are talking about bitcoin and developing bitcoin, they say all this other stuff is bad and you need to genuflect and come pray at the altar of bitcoin, which means that you should do what the bitcoin maxis tell you to do, which is don't unnecessarily depend on other blockchains. The trap that I think that they set is that although they sort of tell you there's almost like this purity ritual of like only use bitcoin, only settle to bitcoin, do all this stuff just for bitcoin. There are no users who will go along with it, right. So people will tell you, oh, if you do this, then everyone will be happy with you and you'll be in the good graces of the bitcoin high priests, but then people will not actually use your product for that, right. So all these things I see, especially of like really smart PhD guys who are like, I should do what the advisors tell me to do. Its almost like they see the bitcoin maxis, their PhD advisors, and theyre like, okay, this is a blockchain that settles back to bitcoin or that gains its, theres some root of trust in bitcoin or theres some other thing in bitcoin. And normal users just dont give a shit. They dont care. They wont use your blockchain because it does XYZ with bitcoin. And so you need to have something actually unique or interesting from a user experience perspective to get people to actually use it. Otherwise, the main thing youre going to get is just arguments. Like, that's most of what you get if you do something in a way that just totally appeases the bitcoin community, is that people, bitcoin maxes will argue about it on Twitter, and then if it's a big enough argument, we'll talk about it on the show. That's pretty much it."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, I think you also get a lot of fake roll ups and, like, or fake roll up, like, things on bitcoin versus, like, maybe have bip 300 pass. Oh, wait, actually, you know, developers never, you know, the bitcoin core devs don't, don't want to add it. And instead you get all these, like, half assed, sort of like, bridge, like, constructs to other chains that, like, to self proclaim themselves as bitcoin enabled. And then, like, okay, fine, they're just running the Ethereum virtual machine, or they're running some other virtual machine and. But they might as well just be their own chain. They're just like, there's some dogma of like, yeah, brand affinity association, affinity marketing. And I mean that not necessarily in a positive context towards such things that gets them off the ground, but then never gets them real users."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. Exactly. Well, okay, so speaking of, speaking of DeFi, one of the big stories this week has been the surge in activity and price around Kanto. Let's talk about Canto. What is Kanto? So Kanto is a layer one blockchain that was built by these sort of not totally anon, but like, kind of very vaguely anon. It's supposed to be a fair launch. The term Fairlaunch, I think, has evolved. We were just talking about that before the show started that I thought Fairlaunch meant that there was no pre mine, but now fair launch essentially means that there's no vc's, there's a 13% pre mine, and then whatever standard token l one launch Kanto, it's a Cosmos SDK, basically a fork of Evmos. It's an EVM based chain on the Cosmos SDK. And the real innovation behind Kanto is particularly around governance. What Canto does is it has these DeFi primitives that are built into the chain that are special. Theyre special because they are built directly into the chain and theyre subsidized by the protocol, rewards themselves so that they never need to turn on fees, quote unquote. Right. So uniswap on Ethereum has a fee switch. Eventually the fees will get turned on and the protocol has some token thats going to capture excess fees over and above what its paying out to LP's. Same with compound aave, these other primitives that are makerdao, these other primitives that are on the chain. The idea in canto is that like, well, we already know that every blockchain needs a lending protocol, every blockchain needs a Dex. Every blockchain needs some kind of stable coin. So we're going to build these directly into the protocol and we're going to subsidize them and not let them take fees. So these are going to be quote unquote fee list. Now you still pay gas for interacting with these contracts, but there's no token. There's no fees for the Dex, for the lending protocol, and for the stablecoin. That's the first innovation. The second innovation is around this thing called contract secured revenue, which is basically this idea that if you launch a contract when people pay fees interacting with your contract, a percentage of those fees go directly to the contract employer into this NFT. And then you can sell the NFT. They can do whatever they want, but basically they get royalties for launching a contract that people want to interact with. And the idea is, well, some people are creating public goods by deploying these contracts or libraries or whatever it is. And Canto enforces that some percentage of the fees paid to these contracts goes to the contract deployer in whatever way they choose to use it. Canto got a bunch of excitement over the last couple of weeks. The prices rallied like 300 plus percent. The variant announced that they were purchasing a bunch of Kanto and then people have gotten excited. There's been a lot of activity around NFTs on Kanto that are getting some attention. So I am not actually a fan of Kanto. I don't agree with a lot of the innovations that they've made. I think we've actually seen some of these innovations in other forms on other blockchains. But before I start shitting on Kanto, curious what your guys thoughts are seeing what's been going on in the Kanto ecosystem."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, I'll be forced to be the Kanto defender in this conversation. If you know the rest of the group is anti Kanto, I'll have a can do attitude instead."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. That was like, that was the worst dad joke I've heard on this show, period."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, yeah, I'm trying to break new ground here. I think fundamentally, it's interesting from the two differentiators that you pointed out, and I think at scale, I think potentially the latter one is actually the most interesting, which is royalties for contract deployers. I think on Ethereum, everyone is forced into this launch, a token mindset for everything that gets built. At some point it has to have a token, even though certain things get used constantly, recycled, adapted, whatever, like a great example is, there's a lot of effort that's gone into weth, just like a simple wrapper around ether. Over the years. There's nine versions of weth in existence historically, because we're on weth nine, right? There's other people making their own versions of it, and the hard work that has gone into it has not been rewarded. Would there be more innovation in simple generic contracts like wetheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheh if you got paid for it? Yes, there'd probably be. For these basic things that wind up being super hyper composable, fierce competition to build the best version of it possible. There might be significant strides made there. And so I kind of squint and say, well, what would exist that doesn't exist in that framework? And it's like, yeah, there might be going back to what made defi on ethereum originally specialist like this composability. And if there was more things that were just built for free and put out there and you got paid based on their usage without having to go through any token process, I think there'd be just a lot more creative ideation, development and building. So I think that one's actually super positive. I think there's three DeFi primitives that all run off of one token is pretty crazy. I don't think that will actually work long term way, but I do like."
+    },
+    {
+        "speaker": "C",
+        "text": "That the contract secured revenue. Yeah. Okay, so here's my counter to that. Okay, so actually there was a blockchain that did that before, which is nier. So Nier actually does this contract secured revenue thing, and I was actually quite firmly against it. I love Nier, but this particular concept, I don't like the reason why I don't like it. There's sort of broad economic reasons why I don't think this is, to be."
+    },
+    {
+        "speaker": "B",
+        "text": "Fair, haseeb, you have previously not, you have defended against creator royalties. So I'm imagining there's some correlation in these arguments."
+    },
+    {
+        "speaker": "C",
+        "text": "It's quite different. I think it's quite different than creator royalties. Royalties are more about a bunch of marketplaces forcibly, basically coercing a certain type of market structure together. I think the reason why I don't like creator royalties are different. In the case of these contract royalties, really what's happening here is that the, uh, the blockchain is enforcing subsidies. It's basically saying like, you know, it's kind of like farmer subsidies, right? It's like saying, hey, these people who are doing this, this work are not being sufficiently rewarded by the market. And I can tell because I am the government, right. I am the layer one blockchain. I can tell that contract employers aren't getting paid enough normally in a free market. What we assume is that people who are generating value are getting paid for it in one way or another, right. And so here there's this conviction that, well, people who deploy contracts aren't getting paid enough. So we are going to force people to pay. The folks take money away from the miners, right. So miners normally would be getting this money or validators. We're taking money away from the validators and saying, no, no, no. Instead, we are going to pay this extra money to the contract deployers and we can tell how much they should get paid. Right. So the protocol sets a split between the validators and I, the contract deployers. Now, what should that split be and how do you know what that split should be? Right. So right now, I think it's on like 20%. I think it's like 80 20. But obviously it's configurable by the protocol. And so it's like, okay, how do you know that it's supposed to be 80 20 and it wasn't supposed to be 2080? How do you know it was be 50 50? How do you know? Maybe 100% of it should have gone to the contract employers and none of it should go to the validators. Now, the validators, at the end of the day, right, the validators, they will charge because validators are commodified like block space is commodified on blockchains. So validators, especially when blocks are not full, they are going to charge whatever their opportunity cost is. So if their opportunity cost is, lets say, a penny, they will charge each transaction a penny and they dont care. If youre also paying for the contract deployer. If youre paying a penny, sorry, if the validators charging you a penny and youre like, well, 20% of it has to go to the contract deployer, then the validator will say, okay, well, your fees are 1.2 pennies because I dont give a shit where else youre sending money. So really what youre doing is youre taxing the user in order to say, oh, well, the contract employer needs to also get $0.20. Okay, now youre right, okay, this allows people who deploy public goods to get paid in a world where they otherwise werent getting paid. What does that do, though? I mean, to my mind theres always competition. Competition never goes away because you introduce a subsidy. But the competition now occurs at a different level. What is the competition going to be now? Now the competition is, okay, we know, for example, that there are a lot of people who use shared libraries, something like Safemath, right? I mean, we dont need safe math anymore. But imagine Safemath, Safemath at one point was one of the most used libraries on Ethereum. A lot of people now are competing to be Safemath and theres no innovation in Safemath, right. Its a very, very simple library that, like you said, almost everybody uses. But to be the person who deploys the safe math, there's a lot of competition because that person is going to make a lot of fees. And so now you're going to have people campaigning, hey, use my safe math, don't use this other person's safe math. If you use my safe math, I'm going to kick you back 5% of the fees that I make because my safe math is better than theirs. Or you get people fighting to have their safe math included in the most attractive developer libraries. Basically, you get a lot of competition around, basically rent seeking, right? This is not useful for anyone to have people competing over this. And second, now you have interests or you have incentives to politic over the fee split, because the fee split is pure subsidy, right? So in the same way as you have farmers fighting over, hey, there should be a farmer subsidy, you're going to have more and more developers fighting over the CSR subsidy increasing so they can capture more revenue. And the point is like, what, what problem was this solving? Why is this good for overall economic efficiency in a blockchain for people to be fighting over this stuff? Right? At the end of the day, I think we should have a very strong reason to overcome the assumption that a free market doesn't solve these public goods incentives. In reality, we see public goods totally being provisioned on Ethereum. I've never heard anyone say the problem with Ethereum is that people aren't writing enough smart contract libraries. That doesn't seem to be a problem that needs solving. And so I think you should have a very strong burden of proof to overcome to say, hey, this problem is not being solved by the free market. We need to introduce subsidies, and we have good information about how those subsidies should be structured. And I think that's just not the case, which is why I don't like this CSR concept."
+    },
+    {
+        "speaker": "B",
+        "text": "I guess my maybe simpler version of that is just more it's very hard to design incentives for any of these programs without just encouraging wash trading effectively. Where you're like, oh, imagine you gave developers some fraction of the transaction fees of function calls. Then people are incentivized to make many nested function calls uselessly and drive volume to that, similar to what you're saying in terms of politicking. But to be fair, the politicking thing happens already, even without blockchains in open source software. If you look at a lot of big companies libraries that they make, there's effectively a politicking that goes on within package managers and within developer tools to get theirs featured or get theirs put up front. So that stuff is almost the same as what you see. I'm more worried about these raw fee distribution things that end up just incentivizing really bad or parasitic contracts in some ways, and no one's ever come up with the incentive compatible version of that. A very funny note is there's a famous paper by Susan Athy and Glenn Ellison, who's the father of Caroline Ellison, even though I know this is a banned topic of Alameda, watch where you go. Which is about how open source software revenue splitting should end as an equilibrium. So it's actually kind of ironic that."
+    },
+    {
+        "speaker": "C",
+        "text": "Her dad sort of oh, interesting. What is the claim of the paper?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think the claim is just more this type of thing you're talking about, which is unlike closed source software, you have this extra cost for having to figure out which library is best, and the market has to figure out how to converge to these particular libraries are really good, these ones aren't good. And that extra cost gets passed on as an inefficiency cost, but it reaches a fairer outcome. So it's sort of like a blockchain, right, where it's like you are paying a lot more to operate the system, but you get, and that's just the cost of sort of decentralization or having many participants, but you get this extra benefit in terms of fairness. And then there's kind of this trade off between like how much are you willing to pay per unit? Civil resistance or fairness? Like in their case, I have some notion of that. The reason I bring this up is even in their paper from 2013, they're like, it's very hard to make these things incentive compatible. And none of the programs I've seen have even heard that. People have tried to study this a lot before, which makes me even more negative because there are some lessons to learn. There have been, some companies have sponsored different types of grants in open source, especially Google, and a lot of them didn't work very well because they were gamed for the incentive. And so yeah, Google Summer of code, I think in particular was one that was pointed out in this paper as having some like the years that they gave some financial incentives were sort of gamed. But the main point being like, I don't, I think like if we, even if you had such a mechanism, I think it would be hard. The thing I find a little more annoying is that there's this like ethos that's portrayed, and I think I drunkenly ranted at one of the cabal founders of Kanto in person a few months ago about this, where their whole ethos is like, hey, we have no extractive fee tokens in our chain. And initially they were actually like, oh, we're going to have no fees at all, which that part made no sense. And it lasted about all of one day because they were getting ddosed on day one and two."
+    },
+    {
+        "speaker": "C",
+        "text": "There were literally no fees, as in."
+    },
+    {
+        "speaker": "B",
+        "text": "Like no gas fees, no, no, no uniswap fees. There was this vision of this idea of liquidity providers would come because they're Kanto stakers and canto stakers are already earning canto fees, so they would add liquidity for free because they would be earning more in fees. So basically saying, hey, we want to just only reward Mev and not application users at all, which didn't. Yeah, so you can go look at the early days of the block explorer and see who the liquidity providers are. It was only the stakers, but yeah, they moved away from that. But this no extractive token thing I find to be a bit of a farce because in some ways all they're doing is putting all the extraction back into the Kanto token again via this minor extractable value instead of in the application. Then you get into this incentive loop where now the developers of applications are basically getting nothing unless they're also canto validators and the canto validators are taking 99% of that always. And so I find this kind of ethos weird. I also am just like, okay, so you're saying you don't need another extractive token, but your network is living on an extractive token because all of its revenue is coming from like MeV because you're not allowing the applications to really take much more. To me, it's always been this, like, contradiction where the people who are sponsoring it, I think they have a very kumbaya, happy go lucky ethos about it. But if you squint a little bit, it's very much not that. And I don't, you know, I don't know what to say other than that."
+    },
+    {
+        "speaker": "D",
+        "text": "Your comment on the open source thing kind of reminded me of, have you ever seen like the NPM tipping functionality? Do you know what I'm talking about? Yeah, yeah, we need a start that. But for crypto, you know, it's like you do a uniswap trade and, you know, you give a little, throw a little tip in and, you know, send it over to the protocol and they can do whatever they want with just a way to say thanks for using this great piece of open source software."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, you know, there's not even open source things that do that. So, like public.com is like a Robin Hood competitor. They make their money by saying like, after every trade they're like, do you want to donate money to us?"
+    },
+    {
+        "speaker": "D",
+        "text": "Really?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yes."
+    },
+    {
+        "speaker": "E",
+        "text": "After every single trade they're like, we gave you that trade for free. Like, you have to uncheck a little box, like donate as a thank you. And it's like it winds up being like way more than you would ever pay on any other brokerage, if you like."
+    },
+    {
+        "speaker": "C",
+        "text": "That's fascinating."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So I think two things about the tipping functionality. Sorry. So what Tom was talking about is NPM is this package manager for JavaScript. Wherever, if you're going to use someone else's open source code, it kind of handles standardizing and what version you're using and making sure you're using the one you're saying you're using kind of a lot of like administrative details and they have this function that allows you to tip. And I think there's also some lightning specific version of this that allows you to send lightning tips because lightning has decided that tipping is its number one use case. But an interesting thing is that in ethereum at some point, I actually think there is a sort of somewhat valid way of designing one of these systems in that Ethereum is going to have fee structures that are going to get much more complicated in the sense that they're going to have many dimensions. So right now, gas prices are, there is a base fee, which is like the minimum fee you pay, and then there's a tip. So you can just accelerate your transaction. You can pay a tip, but you're doing that uniformly across all usage. So you're paying the same base fee and tip for storage, compute whatever. It sort of gets homogenized into one number as gas. But I think a lot of the designs are actually moving to separating the cost for storage, the cost for compute, the cost for other resources, like generating certain types of proofs, certain types of aggregations. In that world, you could imagine having different rates of tipping for the different components, and that would end up flowing through to the applications that are the most efficient at using the blockchain. If you want to disincentivize storage, you basically make tipping much higher, go up higher for storage the amount you need. I think there is a weird way in which we are moving towards this reality, but the accelerationism, without thinking, using your brain seems a little bit too much right now."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I just feel like, yeah, it sort of comes back to this, like, you know, price versus value kind of, kind of idea. And it's like charging or incentivizing people based on, like, gas usage for Kanto effectively is like, just almost totally orthogonal to, like, value creation and, like, how much of that should be captured. And so, you know, it's like you look at the top gas burners on, like, ethereum. Like, I would not necessarily say those are always, like, the best applications or like, things that should be incentivized, but that is kind of where you renew it out. But the thing that I feel we sort of skipped over when we started talking about Canto is actually kind of the loser in the story, which is Evmos, which has been in development, you know, since like 2017. 2018. And then I'm trying to remember, like, they, like, fucked up their airdrop or something, or there was some. There's some drama around, like, the distribution."
+    },
+    {
+        "speaker": "B",
+        "text": "Their airdrop caused their consensus to fail, and then they had to, like, shut down the network."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. And now I'm looking, and Kanto is actually approaching edmos FTV. So it's kind of a sad story that this fork with some beats basically is like, kind of coasting off of a lot of hard work to get evmos working."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Ironically, the public good that actually needs to be rewarded is outside the blockchain. So unfortunately, it was just like, Evmos did most of the development work and innovation. I mean, look, I do respect having some governance level innovation. I think that's something that has been underexplored. But I just think all these ideas are not where it's at. I don't want to go on too much of a rant about the last piece, which is, as you were mentioning, the tokens all being under Kanto as opposed to having their own native applications. But to me it's just the blockchain playing favorites and deciding that these applications are enshrined in the blockchain. They're sort of nationalized, quote unquote. It's kind of like this blockchain level industrial policy, which implies that it's like, okay, we're done, we're done with DeXs. We found the right one. It's this. And nobody better try out innovating us because we're going to support this at the protocol level. Same thing with lending protocols, right? If anybody comes up with any more innovation around lending protocols, fuck you. We already figured it out. We know this is the one that we want. And you know what else is there to do? We already have the end result."
+    },
+    {
+        "speaker": "E",
+        "text": "And by the way, it's a compound v two for which."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly, which is exactly the problem, right? Because now there's zero incentive to go launch a new lending protocol or any improvement on a lending protocol because the fricking government already decided no, this is the one that's won. And there's a reason why economists are like, hey, industrial policy is a very scary term. You should be very careful to engage in industrial policy unless you're very sophisticated about it."
+    },
+    {
+        "speaker": "B",
+        "text": "Canto is really like the USSR plus the cultural revolution."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, I think that's a very stark way to analogize it. I don't know it's quite that bad. But I think it's not ideal because ultimately, look, blockchains are not that old. There's so much more innovation that's going to take place at the base layer. Why would you decide that? Hey, we figured it out. We know what the entrepreneurs go away. There's nothing. No, if you want to build lending protocol, go somewhere else."
+    },
+    {
+        "speaker": "B",
+        "text": "I think the analogy again to how the economics in some of these blockchains is changing at the base layer is that governments can streamline policy by doing things like, let's say the Chips act and incentivizing people who are improving semiconductors, they get a lower gas cost, right? But they still, anyone can try to join that race. But the governments decide they get a lower gas cost. And in some ways I think that's the only incentive thing you can do is adjust how much you're allowing certain parts of the blockchain to be cheaper and certain parts to be more expensive. And governance infrequently updates those without making any judgment on exactly the thing you're doing with those changes in cost versus the heavy handed Deng Xiaoping trying to walk the tightrope between capitalism and communism."
+    },
+    {
+        "speaker": "C",
+        "text": "That's a good way to put it. Yeah. That is what I feel like Canto is it's this tightrope between capitalism and redistribution. And I think one should be very, very careful, especially this early and especially in that level where you're directly interceding into core protocol primitives and saying we know what should happen. It's very central planning. And I just think that's, it's fraud, right? Like as you mentioned, Tarun, initially they were like, oh no, no, fees on the whole are bad. We should just remove all fees and turns out like oh wait, that totally breaks the economy. Nevermind, nevermind, nevermind. We're going to walk that back and kind of introduce some fees, but not quite this one. And you're just going to very clumsily end up, you know, kind of breaking things at the margin without, without being able to tell."
+    },
+    {
+        "speaker": "D",
+        "text": "To be fair, like I do like the idea of experimenting more with like baking more stuff in at the base layer. Like I think Ethereum has been very conservative with this with respect to like what is a sort of enshrined primitive. Like west being a great example. Like it is so fucking annoying that like you can't, you know, transfer ether. Like you have to like wrap ether and then you obviously can't do multiple like transactions or I, multiple calls within a single transaction. So you use a proxy and like, and they use to set the proof. Like so many things break because we don't have this concept of like approvals and transfers on eth natively. And granted there are trade offs to that. I'm not saying it's absolutely should have been made or like liquid staking being another example of this where like every other blockchain that has proof of stake has liquid staking built in pretty much at the base layer. Not everyone but most and NEET has not, which great, this whole sort of liquid staking market. But like, you know, there's, it's, it's not sort of either or like there's, there is more room in the spectrum, I think."
+    },
+    {
+        "speaker": "B",
+        "text": "So you're saying the liquid staking market is, is analogous, analogous to the US, doesn't necessarily provide healthcare. So now there's a healthcare market but it doesn't necessarily mean that its outcome is better."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, yeah, I mean it's like, you know, I don't know where like what heuristic you want to use to think about you, what should be in a layer one and what shouldn't, but it feels like there's probably room for more exploration there. I don't think they can't do it."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so the equivalent on Ethereum of this kind of industrial policy is precompiles, right? So precompiles are basically when. So normally when you have some application code, it runs in the EVM. The EVM is slow and clunky and whatever. Sometimes Ethereum decides, hey, this piece of code is so important that we are going to write a special version of this code that actually doesn't normally run on the EVM. We give it a fast path so that it runs faster in native code without having to actually execute on the EVM as it normally would. And that allows certain things to become much cheaper than they would otherwise be if they were implemented in the EVM. There's a lot of arguments and politicking in Ethereum about what should be precompiles and what should not be. It is a little bit fraught in some sense. It is a subsidy on certain kinds of code over others. Right? But that feels to me like the right level of saying, hey, this thing is really important. We should make it faster or make it better, but we should not enshrine these things directly into the protocol. So I remember there was this big debate on the ETH research forum, like this was a few years ago, maybe a couple of years ago, where Justin Drake was proposing putting oracles directly into the beacon chain. Do you guys remember this? And there was this big argument between Vitalik and Justin Drake. But this idea that the protocol itself should not enshrine any particular application, because for precisely the reason that I just stated, which is that if it does, it's impossible for private actors to innovate. If you put oracles directly into the beacon chain, so that all the validators are reporting the price of gold, the price of the us dollar, the price of ether, blah, blah, blah, then there's no chain link. There's no way you can have a chain link. There's no way you can have any other private actors getting better oracles than what is built into the base layer and the principle of Ethereum from the beginning. And maybe this is, I think I can take the argument that maybe, okay, Ethereum shouldn't do this, but maybe other chains should do this. But in Ethereum's case, the philosophy has always been that Ethereum should be neutral. It should be as neutral as possible among applications and let the best application win. It makes sense that there's some application specific chains that don't do that. Obviously, if you're building a makerdao chain, okay, well that's going to have makerdao built into the base layer, or if you have a roll up that's dedicated to some application, okay, that's going to have its own customized vm. But if you're building a generalized blockchain, like what Canto presumably is trying to be, then it should be generalized. It should not enshrine certain applications directly into the base layer."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I agree. I think the application level is probably too deep. I think you talked about precompiles, but I think, frankly, opcode gas costs are another one that feels kind of random, frankly, in terms of how these get priced, and yet those are also effectively sort of subsidies or encourage certain terms of activity."
+    },
+    {
+        "speaker": "B",
+        "text": "That's exactly what I'm saying. I think the fiscal policy of a blockchain is choosing those, adjusting those, optimizing those, making them more flexible. And that's clearly the easiest way of incentivizing certain behaviors. I think EIP 4844 for adding blobs is a great example of this. It's incentivizing a particular type of use case that doesn't cause certain types of externalities on validators who are validating. Canto, on the other hand, feels like it wants to internalize all of those. And I don't really see how that is a very good long term decision. But it's crypto, people will try anything."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. If you look, if you're doing fiscal policy, you want to define long term goals, which is that we want to move toward rollups. That's what EIP 4844 ultimately does, is it makes roll ups cheaper. And it's with the understanding of that broad kind of policy goal that ethereum sort of does these small nudges at. Okay, let's reprice this opcode. Let's add this particular change. What if you does not do, which would be something that I can imagine other blockchain doing, is saying, look, one of the most used contracts on Ethereum is uniswap. Let's just make uniswap a pre compile. Right? And so that uniswap, so effectively nobody can compete with Uniswap because the gas fees for Uniswap will be so much lower than anybody who innovates on it, which basically is the equivalent of what Kanto is doing, is building into the fucking base layer, or c port. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "Seaport. They've nationalized all industry."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. Exactly. That's exactly what they're doing. And look, when you do that, you pick winners and you distort incentives to innovate. And Ethereum has been very wise, I think, in not doing that. And of course if you did it, it would be more efficient. Right now, at this moment it would be more efficient. But two years from now, three years from now, when the next Uniswap, the next c port, the next big idea in blockchains, when that new idea comes along and theres no precompile for that, all of a sudden these things are not competing on a level playing field and the best idea doesnt win. And that, I think is what you should be afraid of when youre engaging in this kind of industrial policy in an area like blockchain thats moving so fast and innovating so quickly."
+    },
+    {
+        "speaker": "B",
+        "text": "Preston, to get back to the bitcoin NFT thing, the idea of these user chosen soft forks, I think Ethereum will probably end up in this world where like staking derivatives, they're in some ways a user chosen soft fork. And so something like Eigen layer. And in general, if validators want to opt into participating in, to enshrining certain applications that pay them, it makes sense, but it should never kind of be forced. And I think at least that's my personal view. If you're doing that, then why do you need a blockchain? You might as well just go back to postgres."
+    },
+    {
+        "speaker": "C",
+        "text": "There you go, just do it all in excel sheets. Okay, well, speaking of opting in, another one of the controversies this week was around our good old pal layer zero. Layer zero, for those of you who are unaware, layer zero is an interoperability protocol. It was backed very famously by sequoia and by the now defunct FTX. But layer zero, there was an exploit that was, exploit maybe is a wrong word, but whatever. There was a controversy around this exploit that was revealed by James Prestwich, who was previously at, or I think currently still at Nomad. And James pointed out. So it's well known that the security model of layer zero is that layer zero separates out these concepts between an oracle and a relayer. And the oracle is somebody who, in cross chain interactions, the oracle needs to tell you what is the state of what's going on inside the blockchain. And the relayer sends the actual message and says, okay, here's sending the message from a to b, from ethereum to avalanche or whatever it is. And these two people, as long as the two of them are not colluding with each other, the security model of layer zero is supposed to be that, okay, you're protected. As long as one of the two, the relayer or the oracle, are being honest, then you are good. What? Press switch revealed there is another element of layer zero that is trusted, which is this library known as the proof library. This proof library, basically what it does, it decodes messages. This proof library, effectively, you can think of it as a pointer to a proof library that is configurable by anybody who's integrating layer zero. When you integrate layer zero, there are actually three important parameters. There's a bunch of other ones, three important ones. One is which relayer you're using. Second is which oracle you're using. And the third is which proof library you're using. And there's only one proof library that anybody uses, which is designated by the layer zero team and has its own. They have admin keys that can control it, and they have swapped this proof library in place multiple times to basically edit messages on the fly in order to basically do a protocol upgrade, change the way that certain things work or something like that. My understanding of roughly what he revealed here, and so the bombshell supposedly is that layer zero was doing this without notifying anybody of it. I mean, nobody really was able to look that deeply into what layer zero was doing in terms of the individual libraries and their protocol, because, of course, they're the ones working on it. Nobody else is. And the claim is that this was not disclosed. This was not in their security model, this was not stated anywhere. But layer zero has been using this underneath the hood in order to basically do protocol upgrades on the fly. Now, layer zero's defense is that, well, this was known. This is actually one of the things that's in the config. If you want to change it, you can. You can use your own proof library or you can, like, hard code, a proof library at a certain version if you want to, but this is just the default because most people want us to handle their security and not themselves handle their security. So the story from the layer zero side is that this is not a problem. This is a totally standard usage of the protocol. And, and this is totally, this is very explicitly what a security model has been. You guys are just stirring up shit because you're a competitor. So I was trying to read up to understand the details around this because it's a little bit opaque if you're not in layer zero land. But there was a great tweet thread by this guy Bartech where he basically did a little bit of on chain data analytics to see how many people are using layer zero and what are they doing for their defaults. And according to him, there are, I believe, 185 applications that are using layer zero. And of them, like, only five of them have changed any of the defaults, meaning that basically they're using the default relayer and the default Oracle, I believe, both of which are run by layer zero labs. Sorry. There are ten apps out of 185 that have changed the defaults in any way. Four of them are Boba network. A few of them are basically like tests. They're sort of test applications that are not actually running in production, which basically means that pretty much everything that's in production is using the defaults, which effectively implies that this is the layer zero security model. Anyway. It's a little bit inside baseball, I think, this whole back and forth. I'm not totally clear how much of a bombshell this actually is. It also sounds like what almost every application is doing, which is that they have these defaults. And if people really looked underneath the hood, they realize that putting quite a lot of trust in the admin keys. But I don't know what is. Your guys take Ben on this layer zero kerfuffle."
+    },
+    {
+        "speaker": "E",
+        "text": "I did not vote on the Uniswap poll because I thought there was a lot of things happening on both sides that I thought."
+    },
+    {
+        "speaker": "C",
+        "text": "Robert, do you want to give some background in this Uniswap poll?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yes. Well, this is directly related to layer zero, so the Uniswap poll is that just closed. There was this deathmatch, so to speak, between wormhole and layer zero, both trying to be selected to provide the bridging services for Uniswap to be able to launch on binance chain, because binance chain is a new zone for Uniswap to operate in. Pancakeswap and other Dexs are the de jour trading venues on binance chain. Uniswap has never had a presence there, and they have to bridge their governance process over to binance chain because there is no native uni token on there that you can vote with. They're going to have to vote on ethereum, where the unitoken lives, using their governance contracts, and have that process passed over to binance chain. Who does that? Bridging has been this fierce debate, and layer zero and wormhole and a couple others, including seller, have been violently competing to be selected. And they've all been basically saying the same thing. We're the best, we're the safest, and our solution will work. And it's basically ready and the community has been having to sort through those statements to then select which technology should be selected to provide that service. And layer zero, for a little while, looked like it was going to win that poll before it failed towards the end of it, with wormhole pulling ahead."
+    },
+    {
+        "speaker": "B",
+        "text": "Preston."
+    },
+    {
+        "speaker": "C",
+        "text": "And part of the drama behind that story was that the VC's were getting in there, kind of socking away at each other. So I think jump was backing wormhole and then ASIcs and Z was backing layer zero. And so the part of the drama, of course, is the big brands kind of getting into this."
+    },
+    {
+        "speaker": "E",
+        "text": "And, you know, a day before voting ended is when a lot of these disclosures around layer zero came out."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. What's your take on these disclosures? Do you think they're bullshit? Do you think this is like a real problem?"
+    },
+    {
+        "speaker": "E",
+        "text": "You know, I actually, and this is why I have a hard time voting on something like this and why anyone should to sort through this is a technical matter that requires both time and expertise and can't really be evaluated, like, in an instant with the lack of information. Like, these are very hard critiques and analyses that have to occur in that the community has enough people who are brilliant and capable of sorting this out and truthful win out of, you know, at some point. But I think it takes a while to sort through what's right, what's wrong, what's accurate, what's inaccurate, and just like, allow the whole world to understand what's actually happening, where and why. So I definitely think that there was, you know, some vaguely suspicious timing with a lot of this most likely directly related to an extremely contentious vote that was happening. So we'll see."
+    },
+    {
+        "speaker": "C",
+        "text": "Tarun, do you have a take on this layer zero drama?"
+    },
+    {
+        "speaker": "B",
+        "text": "Bridges are hard."
+    },
+    {
+        "speaker": "C",
+        "text": "Bridges are. That's yours."
+    },
+    {
+        "speaker": "B",
+        "text": "Everyone has secrets. Everyone has secrets in their code base. You know, I think in general, these votes probably, I don't. I probably need a lot more process and structure around them. I talked to a lot of people involved in voting in. One of the reasons for abstention on the part of a lot of people was the process was kind of rushed and then there was this news and then people had to react to it. And I think in general, it's sort of worth thinking about this. I do find it also weird that the DAO has to vote and try in a particular bridge. In some ways, it always seemed to me like you could support multiple. And I agree the UX is worse, but it did seem a little bit odd to me that there was that aspect of the. In this vote. But yeah, there's too much involved and I don't really. Yeah, there's not too much."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, one of the proposals on the forums, which was actually really interesting to me, was to actually make a meta bridge, which was like, hey, why are we selecting wormhole or layer zero? Why don't we have a contract that listens? And if both of them transmit the same thing, it's valid? Why not just support them both, huh?"
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, well, this is pure message passing. This is not like asset bridging."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, yeah. This is not asset bridging. It's just pure message passing for the use case that there was this bake sale in uniswap of which was like, who's going to pass governance messages from ethereum to binance?"
+    },
+    {
+        "speaker": "C",
+        "text": "Wait, if it's just governance messages, why are they competing so much like this? I thought they were going to bridge a bunch of assets."
+    },
+    {
+        "speaker": "E",
+        "text": "No, this is just bridging."
+    },
+    {
+        "speaker": "B",
+        "text": "I think you end up in the UX in all the ways in these things. You end up directly in the DAP front."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. And the one that uniswap picks, other people are going to probably adopt, too."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure. Okay. Yeah, yeah. It's a great brand to affiliate yourself with, by the way."
+    },
+    {
+        "speaker": "E",
+        "text": "Uniswap uses compound governance contracts and a lot of other teams do as well. Once there's a format and a standard by which compound governance contracts on Ethereum broadcast messages to other chains, it's going to be open source, reusable components. You may as well just copy, click, deploy the same thing yourself."
+    },
+    {
+        "speaker": "D",
+        "text": "Are you salty? You're not getting a cut of all those compound governance gas fees?"
+    },
+    {
+        "speaker": "E",
+        "text": "Well, this goes back to, you know, our earlier conversation, you know, which is."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, I'm a little salty."
+    },
+    {
+        "speaker": "E",
+        "text": "That, like, a lot of the compound governance contracts and systems and, like, time locks and voting tools and, like, all of these things are like, extremely widely used."
+    },
+    {
+        "speaker": "D",
+        "text": "I'll tip you next time. I'll tip you next time."
+    },
+    {
+        "speaker": "C",
+        "text": "Doesn't it bring you some warm fuzzies to your heart? Can't you just take, like, all the good you've built for the world and, you know, take that home and, you know, eat it with your kids?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, but if you could actually get paid to develop things that were public goods, I bet, like, other people would have spent more time improving those contracts as opposed to, like, we had to write them all, you know, years ago. And, like, everyone just, no one's really improving them. Like, if everyone else got paid to improve them as well, you know, they might have advanced even further, even faster."
+    },
+    {
+        "speaker": "C",
+        "text": "So that is fair. That is very fair. All right, well, I think we are, at the end of time, a bit of a strange note to end on. I think next week we're going to try to do another deep dive because we got some great feedback on the Mev episode. So we're going to find some topics. So if you have ideas of particular things you're excited to learn more about, hit us up, send us ideas. We're looking for more ideas for new shows that are not related to bankruptcies or to, uh, you know, interest rates. So we'll we'll try to keep this show more crypto native going forward, at least for a little while until, uh, the next big exchange blows up, which hopefully doesn't happen anytime soon. So never."
+    },
+    {
+        "speaker": "E",
+        "text": "Hopefully never."
+    },
+    {
+        "speaker": "C",
+        "text": "That's it. Hopefully never. Obviously never. I mean, this industry is so legit, it's not gonna happen again. Uh, all right, thanks, everybody. See you all next week."
+    },
+    {
+        "speaker": "B",
+        "text": "See ya."
+    }
+]

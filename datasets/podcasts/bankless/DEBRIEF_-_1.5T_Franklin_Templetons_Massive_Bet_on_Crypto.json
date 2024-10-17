@@ -1,0 +1,382 @@
+[
+    {
+        "speaker": "A",
+        "text": "Hey, guys. Welcome to Debrief after our episode with Sandy call from Franklin Templeton. So Franklin Templeton has entered the chat backstory on this episode. So I did a pre call with Sandy. I think you were on a plane somewhere, David."
+    },
+    {
+        "speaker": "B",
+        "text": "I was coming home. Sorry."
+    },
+    {
+        "speaker": "A",
+        "text": "You never know. We're in touch with a lot of the traditional finance folks because crypto is kind of an emerging story. So we're talking to them all."
+    },
+    {
+        "speaker": "B",
+        "text": "This will not be the last of these types of episodes to come from. Insert your tradfi institution here."
+    },
+    {
+        "speaker": "A",
+        "text": "And so the way you approach a tradfi company is different."
+    },
+    {
+        "speaker": "B",
+        "text": "They got to suss you out first. They got to make sure you're okay."
+    },
+    {
+        "speaker": "A",
+        "text": "You're like, hey, want to come on the bank list and explain? Like, tell us what you're doing with crypto? And you have to go through layers of people. Right? There's the comms person you have to talk to, and they have to get legal's blessing and all of these things. Anyway, did a pre call with Sandy, did not know what to expect. Um, actually had not run across Sandy, although she's written a lot of things. It's just been, like, sort of outside of my, um, my focus. And I was pleasantly surprised. In fact, I was, like, very, very surprised that, uh, she could speak so coherently about crypto."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "To the valuation level."
+    },
+    {
+        "speaker": "B",
+        "text": "She's fluent."
+    },
+    {
+        "speaker": "A",
+        "text": "She's fluent. Um, like, she said she'd been here since 2017, but I actually think she's been here since 2017."
+    },
+    {
+        "speaker": "B",
+        "text": "Do you know how that can mean very many different things?"
+    },
+    {
+        "speaker": "A",
+        "text": "Sometimes that means, I read an article about ethereum in 2017, and I thought that was cool. No, I think she's been here, and you could tell it. There's a base of knowledge. So I don't know, but what did you think? I was excited about the content for this episode because of the person that we had. Like, she's a senior executive at Franklin Templeton, right. She's like, right, right up there setting the direction and strategy. But what. What did you think of Sandy?"
+    },
+    {
+        "speaker": "B",
+        "text": "She articulated things that I've heard articulated 10,000 times before in a very new, novel way. One was, um, we're entering the world from, like, we are making platform based investments. Like, Wall street loves these platforms. Amazon, Facebook, these are the big ones, and now we're making network based investments. Uh, it's an evolution. It's an easy metaphor to carry. Try to find people to. That was new to me, even though it's explaining crypto in the same way that everyone tries to explain crypto. But like, in this novel new way that I think is very effective. And then a token where she has, like, the discrepancy between the asset and the contract. One is a piece of paper. One is, I don't even know what an asset is in tradfi, actually. How do you even. I don't even know how to think about that. Like, what is a rapid, also a piece of paper."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, sure, if you think about it."
+    },
+    {
+        "speaker": "B",
+        "text": "And then what was the word that she used? Like, the settlement between these two things, the discrepancy between these two things. I have to go back and listen."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, basically we can program it, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Like, now they're the same. And I've thought about, I've, like, always known this, like, tokens. Like, tokens have the contracts imbued in them. But like, in tradfi terms, you really emphasize, like, the gap, the, the billions of dollars gap between these two things that have created entire, like, verticals and industries of inefficiency. Like, it's just returning back to base principles, which I think, like, you know, doing this podcast for four years, we are so far down the rabbit hole that, like, we don't touch these things nearly as much as we do, frequently do. But now we are with these stratified people because they are explaining crypto in this 2024 101 way towards another billion set of people and trillions of dollars."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. I'm so proud of them with respect to their valuation models and their narratives that they're spinning up. I guess they're making narratives. I know they are. I think that tokens as a chameleon is the first time I've heard them put that way. And what she meant was, sometimes it looks like a stock, sometimes it looks like a bond, sometimes it looks like a commodity. Right. And so just explaining that in tradfied terms, I think is immensely helpful. Also, talking about valuation, the way that we talk about valuation is somewhat vindicating, at least for me, which is just very much like, how do investors, seasoned investors, think about this asset class? And I, uh. Yeah, she's doing that. I, I think that, um, you know, I asked the answer very lightly about Aml KyC and, like, hinted that there could be some conflict. I mean, for, for bankless listeners, of course, or you guys, for you guys listening. This is, this has, um, been a reoccurring theme of. Part of, I feel like, my trepidation with letting our. Trepidation with letting the banks in here, which is basically like that, they co opt and they start sponsoring legislation to. They need AML KYC for their use case, and I'm fine with that. For your pool of capital, I get it. You need that. You are a regulated institution in a geography known as the United States. And if you don't do that, you're going to go to jail. Cool. Do that, implement it. That's fine. Do not push that. Do not go hand in hand."
+    },
+    {
+        "speaker": "B",
+        "text": "Keep that on your side of the fence."
+    },
+    {
+        "speaker": "A",
+        "text": "We don't want that in the base protocol. Okay. It can't get to the point where validators are all AML KYC sponsored, like."
+    },
+    {
+        "speaker": "B",
+        "text": "And it's legislation even higher than that. I don't want DeFi apps to have that."
+    },
+    {
+        "speaker": "A",
+        "text": "Five front ends should not have that."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, front ends. Yeah, front ends. Get that out of my front end."
+    },
+    {
+        "speaker": "A",
+        "text": "But you can see how it could become that. Like, there's sort of an incentive trap here where they could do the SPF thing, which is basically, like, Unisov's kind of eating our lunch here, you know, Aave, they're kind of. They're kind of destroying us. So let's."
+    },
+    {
+        "speaker": "B",
+        "text": "By the SBF thing, you mean the legislation that SBF was trying to slip in, into Congress unilaterally without any, like, support of the crypto industry? That's what he was doing. Not the SBF thing of, like, rugging, you know, all crypto. No, no, exactly."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Thanks for clarifying. Yes. What he was doing before we found out that he was actually rugging. Everyone is."
+    },
+    {
+        "speaker": "B",
+        "text": "Which is. Which is the new SPF thing, by the way."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. First he started rugging our values in Congress. Like, he literally."
+    },
+    {
+        "speaker": "B",
+        "text": "And that's our assets. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Literally. Sponsoring legislation and paying lobbyists and paying politicians to propagate a set of legislation that would effectively make DeFi front ends be Aml KYC. Why is that good for FTX? It's great for SPF. It's good if you're a bank. It's good if you. Because you don't have to compete with these. You're already doing Aml Kyc. You don't have to compete with Defi anymore. So it's a way of, like, pulling up the ladder. It's a way of, like, regular. It's regulatory capture. I mean, you see this everywhere. So what I'm worried about is not necessarily Sandy, but the machine of the tradfi banking industry."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Like I said in the intro, like, when I see Larry Fink and Sandy, like, we're two for two now, like, promoting identity. Like, oof."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm fine with them having identity. Go have your AMl Kyc identity. Go have it."
+    },
+    {
+        "speaker": "B",
+        "text": "But that's where it would start."
+    },
+    {
+        "speaker": "A",
+        "text": "Right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Which is what you're saying."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I didn't hear a, like, it's not her job. I get it. They're a company. They're a machine. They're just kind of like, they're maximizing the value of shareholder profit. They don't have it in their DNA necessarily, except the individuals. But the company itself, the structure itself, the machine of a bank corporation, does not have the ability to fight for civil liberties. Right. They're not going to, like, put their foot down and be like, encryption is important for everyday citizens. We have to preserve that in some other way anyway."
+    },
+    {
+        "speaker": "B",
+        "text": "And we've done plenty of episodes on bakeless about how amazing identity will be for crypto, and I still believe that. Like, it's not. I haven't changed my tune on that. But there's, like, bottom up, decentralized, self sovereign, censorship resistant identity, and then there's, like, the, whatever the hell is going to be built by Wall street, which is going to be something completely different and subservient to the nation state, compliant with the nation state, and also gives me the heebie g reason I don't want it."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So we'll see how that plays out. Right now, though, they are good bedfellows in that they are pushing people like Gary Gensler to free your capital markets. You can't control this. We have some shared interests, and so I think that will continue to be true. I just. The one shared interest we don't have is, and we do have a shared interest around privacy. We just, we don't have a shared interest in, like, privacy outside of the state apparatus, if that makes sense. Like."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "That. That's probably where some interests diverge, and that's a worry."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. Anyway, because identity is also a state apparatus in the first place. If you want to bring it. I was about to say, if you want me to bring that, you've never read and I've never finished."
+    },
+    {
+        "speaker": "A",
+        "text": "The nation state wants to make everything a number. They want to serialize everything."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. And why do they want to serialize everything? Because that's how they get their taxes."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. They have to."
+    },
+    {
+        "speaker": "B",
+        "text": "We are the yield farm of nation states."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. That's why you have a, you know."
+    },
+    {
+        "speaker": "B",
+        "text": "A tax id number."
+    },
+    {
+        "speaker": "A",
+        "text": "A identity number. Yeah. Like, so you pay your tax."
+    },
+    {
+        "speaker": "B",
+        "text": "So your Social Security number, your tax id number, those are the same. Your identity is the number that the nation state extracts taxes out of."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, so what does the, what does the nation state actually want out of blockchain. They want all of those public keys."
+    },
+    {
+        "speaker": "B",
+        "text": "They want. Yeah. Right."
+    },
+    {
+        "speaker": "A",
+        "text": "They want their own, like, number associated with them. And they want to know the entity they can tax that."
+    },
+    {
+        "speaker": "B",
+        "text": "They want to submit an EIP to ethereum that subverts 30% of all gas fees to the IR's."
+    },
+    {
+        "speaker": "A",
+        "text": "I. Yeah. Or at least they want to know all of the citizens and like, all of the events that occur so that they can send a bill to their citizens. Wouldn't that be nice? And. Yeah, yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, your public address. Oh, that's David Hoffman at like 1234 north, like North Smith street. Whatever. Sweet."
+    },
+    {
+        "speaker": "A",
+        "text": "It's battles for."
+    },
+    {
+        "speaker": "B",
+        "text": "At least I wouldn't have to do my taxes anymore. That'd be nice."
+    },
+    {
+        "speaker": "A",
+        "text": "It's battles in the future that we'll have to fight. Right. And I just, like, for people are like, that's reasonable. We all should be tax. Neither David nor myself are saying we don't believe in taxes. Like, we believe in taxes. Like, there are public goods, there are roads to fund. There are."
+    },
+    {
+        "speaker": "B",
+        "text": "I believe in the philosophy of tax."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. Right. But, like, there's a difference, you know, between that and like, a right that we have previously had, which is like a transaction. Right? Like, I have the ability to give you $100 in cash without the, like, the government knowing about that transaction."
+    },
+    {
+        "speaker": "B",
+        "text": "And, like, it's about just the order of operations. Right? Like, everyone pay their taxes on all transactions that are taxable. But primarily sovereignty and privacy and the individual rights of a human comes first."
+    },
+    {
+        "speaker": "A",
+        "text": "That's right. There's got to be some sort of tension."
+    },
+    {
+        "speaker": "B",
+        "text": "You can't, because if they don't come first, then we live in an authoritarian state. It's just a matter of, like, what's the flavor of the country that we live in?"
+    },
+    {
+        "speaker": "A",
+        "text": "We're all numbers anyway. That aside, we didn't get into all that with Sandy because out of scope, I think."
+    },
+    {
+        "speaker": "B",
+        "text": "But Sandy, how do you feel about the authoritarian relationship with a sovereign individual inside of the western liberals democracy?"
+    },
+    {
+        "speaker": "A",
+        "text": "The thing is, with Sandy, you know, I brought up Gary Gensler at some point in the episode. I always say it's got to be hard. Like, no one in tradfi can talk smack about Gary Gensler. Why? Because they need his daddy anytime."
+    },
+    {
+        "speaker": "B",
+        "text": "Did you, like, watch your face anytime? We talked about Gary Gensler at this sec. She wasn't. She was. Her facial expressions were just slightly less warm. She was like, oh, I can't say anything about that."
+    },
+    {
+        "speaker": "A",
+        "text": "Switch to no comment mode. Right. And, like, no comment on it, no encouragement of it. Right. I totally get her position. They need this man for favors, and I need them to get those favors with the ETF, with the SEC. That's all great, but, yeah, that's who's kind of making the rules here. Anyway. What else, anything else from this episode?"
+    },
+    {
+        "speaker": "B",
+        "text": "Um, interesting that she called the staking part of ETh, like something that investors would have to get over, because I always thought that that was a big carrot on a stick."
+    },
+    {
+        "speaker": "A",
+        "text": "She presented format regulators."
+    },
+    {
+        "speaker": "B",
+        "text": "Are you sure? I don't think. I think it was more about the understanding about the investment."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, a conversation we had afterward, though, about, like, the Libor rate, where an entire episode about this."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, yeah. Should we give the listeners a little peek behind the scene about, like, what she brought up afterwards? You wanna go for it? You want me to."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, well, you understand library better than I do."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so we just chatted with Sandy after the fact about the future plans for everyone involved. Invited her to permissionless, et cetera. And then she also brought up a podcast idea. She said, hey, before we go, I have a podcast idea. And she brought up this thing that Coinfund and Coindesk are collaborating on that they have already collaborated on. This is like, in the past called this thing called Caesar. CESR. It is the benchmark for the stake rate of ETH staking index. It's an index. It's basically a primitive. It's an oracle primitive. These are crypto words. An oracle primitive for Tradfi to make financial instruments around the ETH stake rate so that it can unlock a bunch of potential financial vehicles, financial assets to be traded in tradfi."
+    },
+    {
+        "speaker": "A",
+        "text": "Like, if you guys have heard about liborous, right, and how important that index is, and it's gone through some reformations. There was some corruption, types of oracle attacks."
+    },
+    {
+        "speaker": "B",
+        "text": "There's some oracle attacks. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So as important as that is for the hedge hedging, risk derivatives swaps market and tradfi, this could become that for crypto, I think for Ethereum first, but then maybe for. It's kind of a cost of capital score plus pricing for everything. Anyway, all that to say, we're going to do an entire episode on this."
+    },
+    {
+        "speaker": "B",
+        "text": "Composite ether staking rate. Finally figured it out."
+    },
+    {
+        "speaker": "A",
+        "text": "There you go. We're going to explain what Libor is and why it's significant, but, um, this is pretty bullish, I think, for, um. Yeah, ethereum in general, but also."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, uh, Cesr Caesar is a daily benchmark rate that represents the mean annualized staking yield of the ethereum validator population. And so it's just an oracle for tradfi to leverage the ETH stake rate as a benchmark for assets to be. It's a money Lego, especially when the ETH ETF exists as a money Lego for expressing more financial instruments in tradfi. I bet all of crypto is like, I don't get it. What the fuck? I kind of understand, but like, what? Uh, we were going to do an episode on this and we're going to talk about like, why this is so big."
+    },
+    {
+        "speaker": "A",
+        "text": "Anyway, the reason I brought that up is because I think she actually is bullish on the yield. So I'm not sure entirely."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, I see. I think she is bullish on the yield. I think she was just talking about like, yo, investors will have to figure out, like, have to get over that hump. And I'm like, what do you mean get over the hump? It's not a hump. It is the opposite of a hump. It's like it goes downhill, not uphill."
+    },
+    {
+        "speaker": "A",
+        "text": "I think Gary Gensler is going to have to get over that."
+    },
+    {
+        "speaker": "B",
+        "text": "That's going to be a hump. That's going to be a hump."
+    },
+    {
+        "speaker": "A",
+        "text": "It's going to be a big hump. Yeah. She thinks CDBCs are overrated."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, well, she's very, that's, I mean, that's in her financial interests. Right. Well, she wants, she wants private market products, not, not public markets."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. I mean, the whole problem of CBDCs as well, for all of Tradfi's kind of eliminate. What's the purpose of a bank? You kind of eliminate the funds. Oh, we don't have jobs. I mean, it's worse than crypto for them, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's a really good point, actually."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. I don't know how that's going to work."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, they don't want that."
+    },
+    {
+        "speaker": "A",
+        "text": "Anyway, good conversation. Good. Thank you for hanging with the debrief. See you guys later. Peace."
+    }
+]

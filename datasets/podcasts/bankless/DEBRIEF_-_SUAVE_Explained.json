@@ -1,0 +1,366 @@
+[
+    {
+        "speaker": "A",
+        "text": "Hey, guys, welcome to Debrief after our episode on Suave with Phil and Andrew. So Andrew is new. Phil is hard to get ahold of. He is one of the most interesting people, I think, in crypto rockstar. Yeah. I really enjoy Phil because he's here for a particular set of values and reasons, and he's stuck with this problem set for a very long time. He's almost, you know, like an archangel of Vitalik. I mean, that sounds weird, but, like, I love it. I just mean, like, he is. He's that kind of a figure to me in, like, the, you know, the sainthood of crypto developers. Right. He's like one of the apostles. Yeah. And he's developing and innovating on a corner that the rest of crypto really isn't. Really isn't too much. It's not like, oh, here's the, like, you know, the 25th alternative layer, one that's better than, you know, this ethereum in all of these different ways. He's actually solving one of the most pernicious and difficult problems in crypto that if left unsolved. I don't really think we have a system at the end of this that we can call decentralized if the MEV problems aren't solved and he's stuck with it. But anyway, all that to say, you called him a rock star. It's because he's got kind of like a. I don't know. If you were listening to this podcast, you couldn't see Phil, but he's. I don't know what's going on in the background. He's just in this, like, he clearly is very focused. He's like a mad scientist, I would say. And he's clearly very focused on."
+    },
+    {
+        "speaker": "B",
+        "text": "Except not mad at all. Yeah, he's got long hair. You're just talking about his long hair."
+    },
+    {
+        "speaker": "A",
+        "text": "That's what I'm talking about. So, yeah, and he's a lot of fun to talk to, and I actually think he believes. He believes in this shit. He believes in decentralization, and he's here to see it through. So, yeah. Anyway, what are your reflections on this?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think I want more context about Phil and Mev. The last time, second to last time I saw Phil was at Mev Day at Devconnect in April of 2022 in Amsterdam. And Mev Day, such a good event. It was themed in this black and white, dark versus light, good versus evil, moral versus immoral approach to crypto. And it was. There was just, like, a lot of emphasis on, like. Like, so you're talking about, like, an archangel of italic. Well, it was also put into very. Just like, not. Not religious, but like."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Deeply moral considerations about the things that we are doing here. And Phil's, like, opening keynote talk was very much posed, like, put into, like, what? Why are we here? Do we want. What. What is the. Our systems good for? We could have the good side of crypto, the light, where we harness and protect Mev. Or we can have the bad side of crypto, where jump capital becomes enshrined into all future versions of reality because they just made all the money, which. What do we want here? What are our values? And I just really appreciate, and this was also during a moment, by the way, during 2022, where you and I were getting teased by alternative layer ones for being just like these nuns that would wrap people's knuckles if they didn't believe in, like, ethereum alignment or whatever, before we had terms with the."
+    },
+    {
+        "speaker": "A",
+        "text": "Are you aligned? How aligned are you?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, exactly. It's just like that. That's because, like, you know, bankless kind of has, like, religious y tones to it, because, like, we put terms, things into."
+    },
+    {
+        "speaker": "A",
+        "text": "And I've been called a puritan. Have you been puritan? Puritan, David?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah. The. The wrapping of nuns or the wrapping. The non wrapping people's knuckles that came at me when I went on upon. Only to talk about this, actually."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, really?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah. I think that was oodie. Exactly who you would expect to do that. Anyways, I just was really appreciative of just like, thank you, Phil, for putting it into these terms, because this is how I see it as well. It's like we can either not give a shit about Mev and we can have, like, the jump capital version in the future, or we can give a shit about Mev and we can have an equitable foundation, and also we can give that off to our kids, I think."
+    },
+    {
+        "speaker": "A",
+        "text": "Can you paint a picture, though, of, like, the light versus the darkness here? Because it's not a particular set of humans. It's not a particular set of entities. That is like, we are the good guys. We are like tribe x, and those are the bad guys. Tribe, tribe y. It's not like crypto versus Wall street. And, like, jump capital is evil. The light is. No, it's. I don't think the idea here is, like, evil things. Coordination failures."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. They are allowed to do evil things."
+    },
+    {
+        "speaker": "A",
+        "text": "If it wasn't jump capital, it would be like, skip capital. It would be like, whatever. Some fail insert mev extractor here, like, Acme Corp is going to do it instead of jump. Right. And it's not like the jump for."
+    },
+    {
+        "speaker": "B",
+        "text": "Sandwich attacking and front running and doing on chain theft."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm not. Because if they didn't, then someone else would. It's like nature. It's like, that's most helpful to me in, like, having a moloch that we look to. And it's like, this is the enemy. And what is the enemy? It's not a person, it's not a particular tribe, not a particular group. It's an incentive problem. Right. And that is the problem. Anyway, paint the picture. What is the dark here and versus the light as Phil was talking."
+    },
+    {
+        "speaker": "B",
+        "text": "Right? So remember when Phil, what line did he say? Where, like, at some point, like, what is or is not Mev is like, semantics and, like, up for interpretation."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Remember that line in the podcast? I can't remember the specific context in that which, like, came out, but, like. And what is Mev is like, on a spectrum."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And so you have, like, good Mev, which is very efficient liquidation of an Aave position. And we want that position to be liquidated as quickly and as efficiently as possible because that's helped stabilize defi. That's what I would call good Mev. And there's also, like, rebalancing between uniswap and sushi swap pools. Good Mev. Then there's sandwich attacks, and that's, like, not, that's toxic mev. That's not good. That's where, like, people's executions are actually worse, you know? Is that theft? All right, that's up to definitions. That's up to semantics. And then there's actual theft. Then there's actual theft, which is like, these are my assets. But I coded up this transaction wrong, and I didn't intend for this to happen. But you found a loophole inside of the system, and then you took all of my money. Then there's theft, and that is toxic MeV of the worst kind."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. And so the question, the good and the light is like, how do we define design systems that draw this line, which is totally arbitrary and, like, qualitative, and how do we, like, figure out how to, like, allow for good Mev to happen without allowing for bad Mev to happen?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, we're trying to. We're trying to maximize better, more fair outcomes for everybody. Right? So, like, the reason he said, it depends on where you draw the line for Mev is because once you see it, you see it everywhere. Because Mev is just corruption, isn't it. It's just like corruption as a result of centralization."
+    },
+    {
+        "speaker": "B",
+        "text": "Toxic MeV is corruption."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, toxic mev is. But, like, so you look at, I don't know, political lobby groups, right? And how different is that versus a bribe? Like, we're kind of paying money. We're whining and dining the politicians. We're donating their political campaigns, and they are bending the people's governance process to our will. What is that? Well, that is Mev. That's a Moloch problem. That is like. Like corruption or even like, the Taylor Swift concert tickets. Right. Ticketmaster isn't doing anything illegal. Like, it's well within the bounds of coordination problem. Yeah, but it's a coordination problem, and it results in bad outcomes for everyone who is not Ticketmaster. Right. And so we don't want that because."
+    },
+    {
+        "speaker": "B",
+        "text": "Ticketmaster won the game. And so the problem that we're trying to instill is, like, if we allow for toxic mev and these, these one, these few players extract more toxic mev, then they get richer faster, and their ability to extract more toxic mev becomes easier and easier and easier, and all of a sudden, they're entrenched."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I mean, we talked about the, in the very early days of bankless, the cantillon effect, or some people call it the cantillion effect, which is like, if you are close, if you are in a central bank type regime, money printer regime, the closer you are to the money printer, the more benefit you get. So if you're kind of a banker, it's very good. If you have assets, it's very good. The closer you are, the more able you are to extract from the system and receive the gains in front, run everyone else. That is pernicious problem of all of these centralized systems. Once you see that as Mev, you kind of see it everywhere. That's why there's the light and the darkness. And that adds almost a spiritual dimension to crypto, in a way. And that is, I think, worth designing systems to protect against. And I guess the net is, it's the difference between, are we going to end up with a system with exact same flaws as tradfi and our existing banking system? Are we actually going to create something new? And the delta between those is to what extent we're able to solve these coordination problems? To what extent are we able to keep this decentralized? Right. And the thing I really like about people like Phil is they bring a different set of solutions to the problem, because in the rest of the world, in analog meat space, the nun that wraps the knuckles is like the legal system. It's the regulator. Hey, mom, dad. Government, come help me. Ticketmaster is stealing our tickets. So Congress passes a law, and the problem with that is it tends to entrench and enshrine existing incumbents through regulatory capture. It leaks a whole bunch of economic value. It doesn't actually produce the best outcomes for everybody. There's tons of problem with that."
+    },
+    {
+        "speaker": "B",
+        "text": "The ultimate MEV extractors in the Trad system are elected officials, 100%, who capture all the corruption. The value of all corruption."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Elected officials and the corporate powers that are cemented through something like visa. Right? It's like they have this, like, or bank. The banks themselves, they have this elevated state where they are enshrined. Anyway, um, what I love about Phil and Vitalik and the other protocol mechanism designers is they have a different set of tools that is not like nation state. They, they have, like, mechanism design, they have crypto economic games to help solve these problems that."
+    },
+    {
+        "speaker": "B",
+        "text": "Why do you think SGX was a employed important part of this verifiable computation?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah, exactly. So anyway, that's the light versus codeness."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, code, not kings."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so we're really excited about this. Are you excited about suave at the end of this episode? Like, so do you know what it is now?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Suave's an idea. It's first and foremost an idea. I think it's like something that, like, first the flashbots, like, aspired to, and now they feel like they have the tools in the year 2024 to, like, actually start to build, like they said, components that actually embody some of that idea. And I think once they get enough components, they're out there, like, yeah, that's suave. It's an interesting way to build a product where, like, actually, they never really had a spec. They just have these systems that embody these certain, like, ideals and outcomes and properties and certain ways of getting there. And then they put all their modules together and be like, oh, whatever this is is what swap is."
+    },
+    {
+        "speaker": "A",
+        "text": "To me, it feels a little bit like Ethereum in 2015 2016, where you're at like, the white paper stage, and you're like, we want a programmable blockchain. Why? Because bitcoin is limited in all of these ways, and there's all of these use cases that could be expressed if you have a programmable blockchain. And then I remember in 2016, there were all of these different avenues that Ethereum could pursue. There was this meme of Ethereum as a world computer that was honestly, because it was trying to do a lot more than what it's doing right now. I was trying to have, what was it called? Whisper sync. Like, it was trying to have, like, a communication type layer."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, it was trying to unbundle and reconstruct the Internet."
+    },
+    {
+        "speaker": "A",
+        "text": "It was, yeah, that's pretty wide in scope. Yeah. And at some level, like, the idea of Ethereum had to, like, be boiled down to the essence of, you know, something smaller in scope. I feel like that's where suave is. It's. There's. There's something concrete. Concrete about it. But also, I think the flashbots team is throwing this out and saying, we want to solve mev problems. We want to create, like, a decentralized block building marketplace and do all of these other things. And I think they're seeing what will happen. Like, they're just pushing that out to the community and giving a first run at it. And then, I don't know, maybe it'll. Maybe it'll narrow in scope or maybe this is how it gets executed, kind of out in the open. But it reminds me of Ethereum in its early days."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, there's probably. There's a ton of unanswered questions about swap. Like, they want it to be a blockchain. So token, because how decentralized blockchain without token. Like, you need token to decentralize. And so, like, that's. But, like, a token. A token is just like a sub is like a place to inject corruption into. Like, if you want to control suave, you would just buy all the tokens. So that doesn't seem right. So, like, suave, but no token. But how, how suave, but no token. And it's like, okay, so, like, maybe. Maybe it's like a standard and maybe just like, computers are running, maybe let's say it's this weird. I don't know. There's like a how to construct suave. I don't know."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I don't know either. I mean, we didn't get into, like, how do you, if it's a chain, how do you, like, what's the economic protection of the chain?"
+    },
+    {
+        "speaker": "B",
+        "text": "It's proof of stake."
+    },
+    {
+        "speaker": "A",
+        "text": "But maybe that doesn't matter so much."
+    },
+    {
+        "speaker": "B",
+        "text": "Maybe. Yeah, because they don't care about long term security."
+    },
+    {
+        "speaker": "A",
+        "text": "No, it's more transient. So maybe that's not a factor in the way that it is, you know, a typical blockchain."
+    },
+    {
+        "speaker": "B",
+        "text": "Maybe it's like swift, where governance over suave is rebalanced on a rolling basis based off of who's put economic activity into the system."
+    },
+    {
+        "speaker": "A",
+        "text": "But I mean that's like, do you."
+    },
+    {
+        "speaker": "B",
+        "text": "Need governance over suave? I don't even know."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. Could it be like uniswap? So Uniswap doesn't really need a governance token. So maybe that's the model. But they're also VC funded, so that's another counter force."
+    },
+    {
+        "speaker": "B",
+        "text": "What is VC funding other than instantiated corruption?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I mean, they want their exit, right? So how do they get that exit? How does it. It's a for profit business. It's not just open source code. It's not like Linux or something like this."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, well, I mean, so we're paradigm is, are the main funders of flashbots. But like there's, I mean, I don't know, but let's like having flashbots and access to Phil, Diane, in your portfolio is probably immensely valuable. They're like, this is just for the talent and the knowledge. Maybe."
+    },
+    {
+        "speaker": "A",
+        "text": "Well maybe, you know, maybe. And what, what they are building, I think is definitely a public good, at least in our sense of the word, where it's going to make all of the rest of paradigms investments better. Right. It's going to make all of crypto better because more centralized, more censorship resistant. I mean that is kind of the promise. What do you think of that side quest? So I think a lot of alternative layer ones are completely naive with respect to Mev."
+    },
+    {
+        "speaker": "B",
+        "text": "This is one of the big gripes I have with Solana where I don't even know if they're naive to it. They just don't give a fuck."
+    },
+    {
+        "speaker": "A",
+        "text": "They just don't. That's how we monetize. I'm actually, I think that that is the best driver of economic value for solva token is you're selling the ordering of block space. There's gonna be no fees for the."
+    },
+    {
+        "speaker": "B",
+        "text": "User, but in order, they're not mitigating mev at all. In fact, more mev the better. Because then there's more reasons to buy the Sol token because the validators can extract from the user base for more."
+    },
+    {
+        "speaker": "A",
+        "text": "The biggest mev extractor in the space."
+    },
+    {
+        "speaker": "B",
+        "text": "Jump capital is building the client."
+    },
+    {
+        "speaker": "A",
+        "text": "Building a client. Why are you doing that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Icky, icky, gross, gross, gross, gross, gross, gross. I didn't touch that thing."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, I just, I think it's, it's not, it's. So you're saying it's not naive, you're just saying it's part of the business model."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, they just, yeah, they're like, sandwich me, daddy, sandwich me. Make the blockchain go faster."
+    },
+    {
+        "speaker": "A",
+        "text": "Have you not heard, like, I just, I don't know. I want to be fair to the Solana community. There was a time when Ethereum didn't talk about this either, didn't acknowledge it as a problem, because we know it."
+    },
+    {
+        "speaker": "B",
+        "text": "Was a problem, because it hadn't been identified, it hadn't been discovered."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so now it's discovered. Do you think that the Solana community is putting their heads in the sand? I just don't know enough. Like, is there anyone talking about Mev on Solana?"
+    },
+    {
+        "speaker": "B",
+        "text": "Not mitigation? No."
+    },
+    {
+        "speaker": "A",
+        "text": "But if they're not, they will, David. They have to."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't think that's in their value set, because, like, what is Solana for? It's like trading at the speed of light. Like, why did Anatoly make Solana? It's like, oh, because he was trading, but somebody, he was just getting front run all the time."
+    },
+    {
+        "speaker": "A",
+        "text": "But they will get economically pressured to do that because it's all on chain."
+    },
+    {
+        "speaker": "B",
+        "text": "Not as jump is the biggest Solana validator and has better than access to Solana than you do because they built the damn clock."
+    },
+    {
+        "speaker": "A",
+        "text": "They can hide it only if they can hide it. If not, they will get absolutely, like, be basically like, the people that built."
+    },
+    {
+        "speaker": "B",
+        "text": "The fire dancer client are going to be able to build systems around that client better than anyone else."
+    },
+    {
+        "speaker": "A",
+        "text": "We'll have to see how this all turns out. It just seems like it's, it's a vector that those outside of the Ethereum community are not considering. Like, bitcoin really doesn't have to consider it very much until they started doing things with, like, nfts and selling their block space. And now suddenly, I don't even know if that's true."
+    },
+    {
+        "speaker": "B",
+        "text": "Actually, I don't even know if there's that much. Yeah, because nfts aren't very Mev able."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, but bitcoin has a much lower surface area for MeV, but, like, Solana has a massive."
+    },
+    {
+        "speaker": "B",
+        "text": "Any programmable blockchain with DeFi applications is Mev. Defi is mevaneously with Mev."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. All right, what else from this I learned about suave flashbots is good. Some people. Do you know why some people don't like flashbots? Like, why do they get attacked from time to time?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, some people don't like Banglas."
+    },
+    {
+        "speaker": "A",
+        "text": "Was it like, there was like a flashbots, a censoring kind of incident?"
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, yeah. They had a censoring relay or something."
+    },
+    {
+        "speaker": "A",
+        "text": "But then they open, they open sourced it and like."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I don't know why. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Phil, Diane in jail wouldn't help us very much."
+    },
+    {
+        "speaker": "B",
+        "text": "Would it be a bad thing?"
+    },
+    {
+        "speaker": "A",
+        "text": "And that's where he would go if."
+    },
+    {
+        "speaker": "B",
+        "text": "He will process tornado cash transactions."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, because we see other tornado cash developers going to jail."
+    },
+    {
+        "speaker": "B",
+        "text": "So I don't know. I don't know why some people are, like, anti flashbacks. I don't even know if they are all right. There's like an internal drama at flashbots. I don't know."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm not one of those people. I think what they're doing is great, and I'm glad you're here."
+    },
+    {
+        "speaker": "B",
+        "text": "Keep doing it."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, guys, this has been the debrief thanks to."
+    }
+]

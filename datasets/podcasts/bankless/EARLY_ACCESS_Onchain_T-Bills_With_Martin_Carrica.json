@@ -1,0 +1,726 @@
+[
+    {
+        "speaker": "A",
+        "text": "If you look at, like, last seven days, ethereum versus run rate for circle, it's the same amount of money is equivalent to circle. Exactly. Exactly. Holy shit. Printing money every time you pay gas, like that amount of gas, that's the same amount of money that circle is making. Tether is three times that. Tether alone is making more money than the whole rest of the crypto ecosystem outside centralized exchanges."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, that's your margin. That's your margin is my opportunity."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "Is that what you're saying, Martin?"
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "C",
+        "text": "Welcome to bankless, where we explore the frontier of Internet money and Internet finance. This is how to get started, how to get better, and how to front run the opportunity. This is Ryan, Sean Adams, and I'm here with David Hoffman. And we're here to help you become more bankless. This is certainly a money opportunity to front run on chain t bills is the topic today. The overnight fed funds rate is 5.3% right now, and that's some pretty good yield. But how much are you getting in your bank account? Probably not very much of that. How much are you getting from your stablecoin is maybe a better question for crypto natives. And if it's an instrument like USDC in your Ethereum address, the answer is probably nothing. You're not getting any of that yield. But what if we could tokenize treasuries instead of just dollars? What if we could create a USDT and the t is for treasury, and that tokenized treasury yielded 5% just for holding a new ETH address? That is the promise of tokenized t bills, and it's gearing up to be a major theme over the next twelve months. And I think another force for democratization worldwide. We have Martin Karika here. He's the founder of a tokenized t bill company, and he's here to get us up to speed. A few takeaways for you on the episode today. Number one, why don't we already have tokenized treasuries? Why doesn't that product already exist? Number two, we talk about why on chain treasuries are a force for democratization worldwide, especially in emerging countries. Number three, we talk about why the us government actually wants this, even though they may not admit it. Number four, in this weird paradox, we talk about why us citizens will probably have a hard time getting tokenized t bills as well. David, you're laughing right now because, man, it is hard being a us citizen in crypto these days, isn't it?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Really. The irony of us citizens being the people that are going to be the hardest population people to access the yield from their own government money printing. And in fact, no, we're going to just export it straight to the foreign countries of the world. Bankless listeners, you'll just have to listen to the episode to understand. Understand the punchline there. But Martin, the guests on the show does a really good job laying it out for us. I think Ryan presented this as the promise of tokenized t bills. Tokenized treasuries on chain t bills, whatever you want to call these things. I'll also, I'll add that there's an economic weight here. It's kind of destiny. Maybe we don't get there for some reason that I can't understand, but incentives will produce this outcome. Eventually, stablecoins will be replaced by tokenized treasuries. It's kind of in the same. If you accept that eventually all vanilla ETH will be replaced by some liquid staking token alternative. Eventually. Like, why? Why would you just hold vanilla eth and aave when you, when you can do our Eth and aave instead? If you accept that, then it's kind of the same thing. Eventually, all vanilla stable coins will just be replaced by tokenized treasuries, and you will get the yield natively."
+    },
+    {
+        "speaker": "C",
+        "text": "There's a gravitational pull, right? It's like water goes downhill and liquidity finds a way. And it'll find it. Yield will find its way in a tokenized form on chain."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So there's been just growing demand, growing an interest about this topic of on chain treasuries and real world assets. So, bank listeners, you can consider this the first of a few steps into the world of real world assets on chain that we want to explore here on bankless, starting with tokenized treasuries."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I'm looking forward to discussing this with you. A lot of interesting implications here, and David and I are going to discuss that in the debrief. Of course, if you're a bankless citizen, you already have access to that on the bankless premium feed. So go check that out. Ad free."
+    },
+    {
+        "speaker": "B",
+        "text": "Bankless premium feed."
+    },
+    {
+        "speaker": "C",
+        "text": "Ad free. It's a beautiful thing, but before we get into this episode, first we disclose. And the disclosures are. There's nothing really to disclose here. Of course, we hold crypto."
+    },
+    {
+        "speaker": "B",
+        "text": "Didn't even talk about eth."
+    },
+    {
+        "speaker": "C",
+        "text": "No, we didn't. Crypto assets that we do hold stand to benefit from tokenized t bill transactions. But of course you know that. And we are long term investors. We're not journalists. We don't do paid content. There's always a link to all bankless disclosures in the show notes. You can access that@bankless.com. disclosures all right, we're going to get right to the conversation with Martin on tokenized t bills, but before we do, we want to thank the sponsors that made this episode possible."
+    },
+    {
+        "speaker": "B",
+        "text": "Bankless nation, I would love to introduce you to Martin Karika, the founder of Mountain Protocol Protocol, a native yield bearing stablecoin project. And Martin himself is alleged to be extremely knowledgeable about stables, especially from a regulatory perspective. At least that's how he was introduced to us by our friend Nick Carter, who is also extremely knowledgeable about stablecoins. Lately in the crypto world, the conversation around real world assets and on chain t bills has been growing in interest. So we're hoping Martin here can help us, help guide us in our understanding about what is next in this new evolution of stablecoins from on chain dollars to on chain t bills. Martin, welcome to Bankless."
+    },
+    {
+        "speaker": "A",
+        "text": "Thank you, guys. Thank you for having me."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, Martin, this is your first time on Banklist. Tell us a little bit about yourself, your background, and why this story of stablecoins is so important to you."
+    },
+    {
+        "speaker": "A",
+        "text": "Awesome. So I'm originally from Argentina. Lived through high inflation for a long time, started in crypto, got my first salary like a traffic company, oil pipe company, purchased bitcoin, going to a miner in a McDonald's and exchanging cash for bitcoin and having to wait for the two blocks. So we had lunch together."
+    },
+    {
+        "speaker": "C",
+        "text": "A miner in a McDonald's. That's how you got your first bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "Correct."
+    },
+    {
+        "speaker": "C",
+        "text": "That is cool. How did you find this person?"
+    },
+    {
+        "speaker": "A",
+        "text": "There were groups. I don't remember exactly what app it was, because this was early on. This was before Mount Cox. We would pull all of my friends money, and, like, someone would go and we would rotate who it was."
+    },
+    {
+        "speaker": "B",
+        "text": "Wow."
+    },
+    {
+        "speaker": "C",
+        "text": "It was, like, a little bit true. P. Two p I think. Very cool. All right, continue. So, yeah, I mean, I hope you enjoyed the meal at McDonald's as well."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it was, like, two blocks. So it was enough to, like, do everything you needed to do. You had time to count the money, and then it was, like, super cheap. We would, like, distribute the bitcoin afterwards, just to give you a sense. That was, like, our internship salary, like, $150 each. Right? Like, it was, like, minor purchases. So that got me interested in bitcoin. Initially, I thought bitcoin was an emerging market thing in Argentina. Makes sense. In China. Makes sense. In Turkey, it might make sense. I studied engineering. I got into traditional banking work I did a lot of work with failed banks, launching new products for banks. I did a high yield checking account with banks, and that is relevant to this story. When stablecoins came in, I was like, okay, this is exciting. Now you have a product that my mom uses. She actually uses stablecoin today. And in Argentina, if you go now, people will purchase a stablecoin when they get their salary, use our stablecoin, and then they will swap it out, two pesos to pay for their last week or two weeks of expenses, and they will hedge against inflation doing stuff like that. The applications of this in Argentina are massive. Basically back to the high yield checking account side. I did that the prior cycle after Goldman Sachs did Marcus. And when Luna exploded, and appetite for leverage and therefore interest in Defi went to zero. I was like, how is it possible that the risk free rate is higher than what we're getting in defi? Someone has to have built a product that bridges these two things, and that allows everyone in the world to access dollars. And now with the native yield of the dollar, turns out it was hard. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "When you say risk free rate, can you just define that for people?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So if you lend money to the us government, the us government can print money, and they do that every day. So therefore, it is assumed that the us government is not going to default. If default were to happen, usually they will print more money. So you're going to see it via inflation rather than an actual default. So that means if you lend money to the government, you're guaranteed to get that money back. And then that time value of money is the risk free rate by the."
+    },
+    {
+        "speaker": "B",
+        "text": "Full faith, power and credit of the money printer is because there's a money printer, there's no risk. We'll just print the answer."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "C",
+        "text": "This is basically the fed rate that we talk about so often. The whole economy is like, what, five point something percent right now?"
+    },
+    {
+        "speaker": "A",
+        "text": "5.5.25. .3% it varies a little bit every day. Usually you take the secured overnight funding rate. So a bank will leave a treasury bill, they will take cash in exchange, and then they will do a repurchase agreement on the other side the next day. So that's usually what's considered the risk free rate. You still have risk free rates in other currencies. So for ETH, that is the liquid staking yield. That would be the risk free rate for ETH, because you know you're not going to get defaulted on that ETH in Argentina. You also have the risk free rate in the Argentina peso. That's 100%. You know, the government is going to pay you, but they're going to pay you in pesos, right? So each currency has their own risk free rate. I would say most assets have their own risk free rate. Bitcoin doesn't. Bitcoin doesn't have any native source of yield, but most of these assets do have some kind of risk free rate, and it's independent prices."
+    },
+    {
+        "speaker": "C",
+        "text": "So. I'm sorry, I interrupted you, Martin. You're talking about the risk free rate. You saw that creeping up, and you were talking about the fed risk free rate. You saw that creeping up, and then what happened?"
+    },
+    {
+        "speaker": "A",
+        "text": "So it was about 1.5%. I was presenting to a bank. They wanted to learn about crypto, and I was like, if I were a bank, what would I do? And I was like, this is an amazing deposit strategy. And I calculated the revenue of a couple other stablecoin providers, and the number was massive. I presented it to them and they were like, yes, but it's very, very hard for us to do. There is no framework for us to issue this and so on."
+    },
+    {
+        "speaker": "B",
+        "text": "Is it borrowing stablecoins in defi? Because you said they were at a lower yield than the risk free rate. So what you're saying, it's hard for us to do it. It is borrowing stable coins in defi at the very low post terra, post FTX rates of 0.3%. I think, if I remember correctly, while you're saying the risk free rate was 1.5%, so you're saying, hey, there's this free arbitrage, people are leaving money on the table, and banks were saying to you, sure, we see that free arbitrage, but it's hard, so we won't. That's what you're saying? Correct?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So the arbitrage that I was proposing then is go acquire deposits in this market. So if you go and acquire deposits in traffic markets, you open a branch and people start depositing, and you give them an IOU in stablecoins. That IOU is the stablecoin. So you can issue a bank stablecoin. Imagine a Wells Fargo stablecoin, and you could start acquiring assets basically at a very, very low rate, and you wouldn't have to pay much. And then you can lend that on the other side to the us government, and there's an infinite amount that you can lend to the us government in the order of trillions."
+    },
+    {
+        "speaker": "B",
+        "text": "Take us further in this story. You see Defi yields at zero, while the risk free rate is 1.5%. What do you do about that, I."
+    },
+    {
+        "speaker": "A",
+        "text": "Started looking like someone has to have built something that solves this problem and no one had. The big challenge here is how do you bridge these two worlds, giving clarity on the real world asset side. So someone has to hold a treasury, a treasury bill, and that person who's buying those treasury bills at small scale, you can buy. But if you're starting to buy anything at meaningful scale, you have to show where the money came from and that where the money came from. The compliance AML KYC component was hard to do. So we said, okay, if we want to offer this, you have to be regulated to do this at scale. If you are not regulated, you're never going to have a framework to bring this pipe and have it be wide enough to bring money and show where the money is coming from and still have sustainable banking brokerage custody relationships in the traffic world. And that is the biggest challenge that everyone in this industry faces. It's how do you answer that regulatory or legal structuring question?"
+    },
+    {
+        "speaker": "B",
+        "text": "It sounds like what you're trying to build is the largest pipe possible between the government, United States government, risk free rate and defi. And right now you're saying that this pipe is actually constrained by our current stablecoin paradigm or the current meta stable coins, because you go through it vanilla dollars first, when really you can just go more, get right to the punchline of this whole thing, which is like, let's take the yield of the risk free rate and get it into Defi."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. Exactly what you're buying today. When you buy a stable coin on the backend, it's cash and cash equivalents. That's accounting term to say treasuries, repos, and some cash in banks. So if you look at the disclosures of all major stablecoin holders, most of it is treasuries already. So we are already doing this. The thing that is not like flowing through is the yield component. So you're getting a 0% yield on your stable bins today."
+    },
+    {
+        "speaker": "B",
+        "text": "So, Martin, this is. We actually don't usually ask people about their background and their story about how they came to build what they are building in crypto. But in this particular moment especially, we just did the weekly roll up last week, recorded it went out yesterday. And we talked about how increasing inflation in Turkey has led to 12% of population of the turkish population adopting crypto in the last year and a half. And you come from Argentina. Argentina is very familiar with inflation. We've had plenty of Argentines. Previously on the show, Mariano Conti. Just talk about the role that inflation played in their lives and just the happenstance of Argentina also being a very Internet connected country, you mixed and inflation and Internet connectivity, and all of a sudden, you have an entire country that is pushing forward crypto adoption. And this is the story I see playing out with you, right? Like, born in the world of inflation, tech enabled. Now you live in the United States and want to build in the world of crypto, because that is your genesis, that is your upbringing. I wanted to take this moment to tell this story of showing how inflation leads to people, builders, building stuff in crypto to help progress forward this new financial revolution. And so I just wanted to do the thing we don't usually do, which is have people explain their background, because that is how you've gotten to be where you are today. Any comments or reflections on that I."
+    },
+    {
+        "speaker": "A",
+        "text": "Would add to that. Capital controls, that's the other big thing that has made Argentina so strong in crypto. I couldn't buy a dollar even if I wanted to. Right? So the experience of buying a crypto asset, like my mom, she's 60 years old. She buys stable coins because she cannot access them through the traditional financial system. Her alternative is to have someone bring her, like, we call it the blue market. It's called the black market in practice. Someone comes on a scooter, brings pesos or brings dollars, and you exchange everything in a very informal way. That's the alternative today."
+    },
+    {
+        "speaker": "C",
+        "text": "I want to put this through the lens of something you were saying when we were going through your background. You said that at first you discovered bitcoin and that McDonald's transaction, and then later you discovered stablecoins. And you said you were very excited about stablecoins. And I think a lot of our listeners today, and people in crypto, maybe in the west, they look at stablecoins and they don't get very excited. You know what I mean? Like, they're more excited about the speculation, they're more excited about the gambling. But you see in stable coins, probably as a result of kind of growing up in Argentina in a high inflation environment, and you see a killer app in a killer use case. And you wrote this fantastic article I really liked back in December of last year called stablecoins are crypto's hidden money printers. And you talk about how great USDC is, the stablecoin, how that is the definition of product market fit. And you brought the receipts into this post where you saw the charts. And, hey, this is crypto's killer app. It's called stablecoins. I want to get to more of that story. But before we do, let's talk about this t bill thing. I have a simple, maybe crypto native type question for you that we've sort of gotten to the edges around, but it's like, more directly. I tweeted this out, USDC and tokenized dollars are fine, but with rates over 5%, I want tokenized treasuries. Where's our USDT? I'm not talking about tether here. I'm talking about the t, as in t for t bills. Okay, so the simple idea, and it feels like we should be able to do this, I think you were kind of like, you know, hinting about this is rather than have an ERC 20 fungible, um, you know, stable coin that is just one to one backed by a dollar, why not have an ERc 20, a tokenized form of a T bill, call it USDT. I guess we've tried that one USD treasury. Right? And, like, make that the same thing. Except it gets me that 5% yield, or wherever the fed rates goes next. Maybe it's down to 4%, maybe it's up to 6%. Maybe it's up to 8%. Who knows? Wherever. Wherever it ends up, I still get that yield. To me, that would be, like, the perfect instrument and completely ripe for crypto. So let me ask the really dumb, simple question. It's like, why don't we have that already? I mean, kibbutz, it's not just the three of us making this connection. I'm sure the people at Coinbase, we're not geniuses here. Yeah, this is a pretty simple instrument. Why don't we have it yet?"
+    },
+    {
+        "speaker": "A",
+        "text": "The answer is, the regulation is not easy to. There's no regulation where you can plug this in and it's ready to go. There's various. We're not the only company doing this. There's at least ten that I know of, and most of them have gone through the path of. Let's literally tokenize the treasury bill. The treasury bill is a security, and then the claim that you have is a share, like it's the t bill or a share of a fund or something like that. The issue with that path is you run through securities laws and it kills the compulsability. I cannot transfer it to you unless you also whitelist, unless you are also an accredited investor. How do you whitelist uniswap or a curve pool? So you start getting into those issues down the securities path just to re."
+    },
+    {
+        "speaker": "B",
+        "text": "Articulate why that's such a big issue. So you're saying, like, the token, the ERC 20 token on Ethereum would come with a whitelist. And so by default, every other address on Ethereum is not allowed to touch that contract address until their specific ethereum address is approved on the whitelist. Which is like, what's the effing point at that point? Right. Like one by one by one, automatic. Yeah. There, there is no composability there. There's no permissionlessness there. There's plenty of risk there. Yes, that, that's a huge barrier."
+    },
+    {
+        "speaker": "A",
+        "text": "So, so that's the. Ryan, you have a. Yeah, yeah, I."
+    },
+    {
+        "speaker": "C",
+        "text": "Just want to back up. So is what you're saying that the dollar, right. A dollar is in an account, and so therefore, USDC, that is not a security, despite what Gary Gensler might want it to be. Right. That's not a security. As of now, it's just like a currency. It's something different. Okay. But a treasury, our treasurys securities, then in all of their forms and flavors, like I'm talking in the tradfi market, they're all securities. And so they come attached with securities laws. What are those securities laws? Is that. I, I mean, I'm more familiar with kind of securities laws as they pertain to, like, stocks. But what is there specifically for, like, treasuries?"
+    },
+    {
+        "speaker": "A",
+        "text": "So treasuries are considered debt, right? They're us government debt. And by that, they are a security. The thing that you're going to is USDC is a wrapper on those securities today. So USDC is a wrapper on a bunch of t bills. You can, they have a fund in Blackrock, I forgot the ticker, but you can go and check and it has a bunch of securities and repos and so on. So you're already wrapping that and creating a non security, a payment token. So there is a gap that the US still needs to address for this law. This is a gap that Bermuda, where we've gone, Switzerland, Singapore, is soon to address the UK. Every other jurisdiction is starting to address this gap. So this question that you have is very us centric in that that model doesn't work. There are other models, which is one that we went down with, but we'll get to that in a second. Let's finish this."
+    },
+    {
+        "speaker": "C",
+        "text": "So what you're saying is right now, USDC is sort of effectively a middleman, kind of a go between all the dollars that back USDC, it's not actually dollars. We use that in short form. We say there's $1 here, there's $1 in the bank. These are actually treasuries. And that is why you can go to Coinbase and you can press a button, or I don't even know if you have to press a button anymore, but there's some sort of setting inside of Coinbase where you park your USDC there and you get, I think it's like 4.75% yield. The reason they're able to give you that yield when the USDC is sitting in Coinbase is because there's actually treasuries behind this. And so I think, am I right here? Where does the yield come from? Martin?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So Coinbase and circle are different entities where the yield for Coinbase specifically comes from. I don't think it's disclosed. They own a portion of circle. They might have a commercial agreement. Some centralized exchanges that don't have direct commercial agreements with stablecoin issuers will also pay you so that you have money for swaps and they make money in the swap. So it could also be a marketing expense. So Coinbase, I think, is probably not the best example in this yield because it could be a marketing component rather than them passing through the yield."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay. But regardless of the tiVo, the US sort of inserts this middle middleman type function. I suppose that's kind of in between the treasury and the retail market. And you're saying other jurisdictions do not."
+    },
+    {
+        "speaker": "A",
+        "text": "Have this other jurisdiction. So we talked about the traditional securities law model, where you build a fund and the tokenist bill is a share of the fund, and that is today the market cap of treasury, tokenized treasury is 600 million. Most of that follows that path. There's a second path, which is the Suez DLT law path, where the Suez DLT has said a stock. Before we had electronic systems, stocks were bare assets. I could change a piece of paper with you and you would be the owner of that stock. So why don't we do that with securities again? So there's a company out of Switzerland that did a prospectus and they have a tokenized security, but that's permissionless. So essential is very similar to like an ETF, like a gold ETF. They put a bar of gold in a safe, they give you a piece of paper. That piece of paper moves around, and if you want to claim it back, you have to do KYC and you take the bar of gold. This is the same, but for that treasury bill or that fund. And they were the first ones to be able to do permissionless treasuries."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, I was going to ask a question about whether the US actually wants this. So one thing that's notable about a treasury is that it's a kind of a product of the us government. Right. And so is the system that you're describing in kind of Switzerland. And our scheme here to like, you just create a tokenized version of treasuries and call it USDT or something and get the 5% yield. Is that contrary to what actually, like us monetary policy and kind of treasury department the feds actually want? Is there a reason that that product doesn't exist? And so what I'm wondering is like, whether these regulatory kind of arbitrage opportunities in, say, Switzerland or elsewhere, whether they might be closed at some point in time, because like maybe this is counter to what us monetary and financial policy actually wants, and so they'll try to put the kibosh on it in another way. Do you have any insight into that?"
+    },
+    {
+        "speaker": "A",
+        "text": "I have to. I think if I were the us government, I would do a 180 on this. If I could have all Argentinians transacting us dollars, it means I have four buyers of my treasuries. That means I could sell my treasuries at a lower rate, I lower my interest expense, so therefore my budget closes nicely. And if you dealt with Argentina and Turkey and all other emerging markets, you can export dollars globally. And those dollars are going to be stable coins that are holding treasuries. That is like forced buyers. They cannot take more risk. So when you're doing those auctions, the interest rates that you're going to have to pay are going to be lower. So I think it's against us interest to stop this market."
+    },
+    {
+        "speaker": "B",
+        "text": "Against us interest to stop this market. One of the things that we say on bankless is like DeFi is just exporting the power and the brand of the United States dollar. And I think that's what you're saying in agreement, too, right? Actually, we are just, again, we're just connecting bigger, shorter pipes between aave and the United States treasury. And so aave is just a reseller of United States treasuries. And that is like the United. If you're the dollar, that makes you happy."
+    },
+    {
+        "speaker": "A",
+        "text": "Correct, correct, correct. And I think going a step further, going on top of treasuries, if you can bring any stock that's trading in the US and put it in crypto, now, you have you expanded Nasdaq or the New York Stock Exchange globally, you should have an interest to do that too, and have Robinhood be in 180 countries. So I think there's an interest to export the US financial system. If your objective is capital market capital formation."
+    },
+    {
+        "speaker": "C",
+        "text": "So your argument here is to answer the question of, but won't the US try to kill this? Your answer as well. If they're rational and they actually want to export the dollar, what better way to do that than to have a tokenized version of a dollar plus yield plus risk free rate and have that be kind of the ultimate dollar stablecoin. And the ultimate form of that is clearly a treasury rather than just the dollar because you get the yield embedded in that. In a world where, let's imagine this world might be closed too, the US runs out of countries or banks or pension funds, buyers in general of its treasuries. It's going to need to find new markets for this. And you're saying, hey, emerging markets like Argentina, like Turkey, maybe as we're alluding to global emerging markets, for them, the dollar is still a pretty strong product and you'll have net demand from these markets in these countries. And hey, isn't that in the us interest? That's what you're saying."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. Exactly. And if you think about it today, that demand exists. It's called the eurodollar complex. So without the US promoting it, this euro dollar complex formed and it continues to expand despite it being outside of the purview of the us government. We now have swap lines and so on, so it's starting to connect. But this euro dollar, if you add stable coins on top, you can grow it a lot more."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, we call them stable coins, but really we should call them crypto dollars. Like you have euro dollars, you have now you have crypto dollars. But we're stuck in the stable coin terminology. Martin, one thing I want to ask is, like, intuitively, yeah, like, we get we dollars produce yield. Let's get the yield into defi. But like, kind of, don't we already have the value of yield from the United States treasury markets in Defi? Not in a direct way, but in a roundabout way, just like, because overall, like slowly over time, the efficient market hypothesis does play out. And then all of a sudden, whatever yield that is being offered by the United States treasury is through the market being offered by AAVE, and then AavE turns dai into a dai or USDC into a USDC. And then the power of the yield of the treasury market does actually become expressed in an ERC 20 token, albeit in a roundabout way. But eventually for the end user, they don't care what happens in the background so long as they get their yield. So don't we already have on chain treasuries at least implicitly. And how does actual on chain treasuries differ as a product?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so there's a couple of things there. The first one is it requires not only holding a stable coin, but also participating in a DeFi protocol. If you look at the percentage of stable coins that participate in these protocols, it's always about 20%. Even in the bull market, most stable coins sit in the sidelines. And the reason for that is it's either experience, because getting into these protocols can be risky, it's complex, it requires management, it could be technical risk, and adding counterparty risk to your holding it."
+    },
+    {
+        "speaker": "B",
+        "text": "Really kind of neuters the whole risk free rate thing, doesn't it?"
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly, exactly. We saw curve get hacked recently, so even blue chip protocols are not totally risk free. So you're adding additional layers of risk that you're taking. It might be worth it if you, if they're paying you an interesting, an additional interest on top of the risk free rate, but for the risk free rate, you wouldn't want to add counterparty risk."
+    },
+    {
+        "speaker": "C",
+        "text": "So taking another example of this, in Defi, Martin is maker MKR token. So they have DAi, of course, David was just talking about the stablecoin, and they have this function in their contract called the DSRDH. And that is if you park your die inside of the DSR, then you get yield effectively. And I'm not sure what the yield rates are lately, but I recall recently they were like 8%, for instance, that was above the risk free rate, and then kind of governance changes them. They go up or down. I guess my point about that particular product is there's not really the certainty of like, you don't know whether it's going to be above the treasury risk free rate or if it's going to be below. It's kind of dependent on governance. It would be nice, I think, for a product that just very clearly tracks whatever Jerome Powell's doing. Kind of like the one to one, instantly, if the rates change, then you get that kind of inside of the token. So I feel like that's another plus one need. It also seems kind of cleaner. Right? Because again, with something like the DSR, or Aave, as David was talking about, you still have this middleman market that doesn't quite track one to one with what the treasury is, so it's a less clean instrument. Are these valid points as well?"
+    },
+    {
+        "speaker": "A",
+        "text": "Super valid point. And in fact, the DSR today is the same as the risk free rate. So they're both at 5%."
+    },
+    {
+        "speaker": "B",
+        "text": "The DSR today is 5%."
+    },
+    {
+        "speaker": "A",
+        "text": "5%, correct. And the risk free rate is at five point something. But if you take out the expenses that would be allocated to actually bring it on chain, it's going to be 5%. So it's five to five. The difference is, on one hand, you have maker, which has DAi, which is integrated everywhere. So it has a bunch of advantages, right. It's also decentralized for some people and some daos companies. That's very important. On the other hand, maker is, it has its own governance. It's a centralized. You don't know what maker holders are going to vote for. You have smart contract risk that is more complex than an ERC 20. So those are the trade offs that some of our clients are doing. And anyone thinking about buying a tokenized treasury versus putting money into DSR should think, and there's pros and cons to each of those."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Right. Let's be clear. Any tokenized treasury instrument would be very centralized. Like completely centralized. Right? We're talking about just like USDC kind of instrument."
+    },
+    {
+        "speaker": "A",
+        "text": "And in the back end, you can know, like you're holding reserves. Those reserves are physical assets that can be seized. Right? They see it at the Fed. So even there are some protocols that have said, we're going to go with t bill collateral without any centralization. In the end, the centralization happens elsewhere in the chain. Right. If you cannot blacklist Ofac, you're going to have the treasury come and knock your door. Right? And in the end, the reserves are going to be the point of centralization."
+    },
+    {
+        "speaker": "B",
+        "text": "So to understand on chain treasuries, like you said, I asked the question, why is an a dai out of Aave? Just kind of the same thing in a more roundabout way, your answer was, well, there's also smart contract risk, and so that's a difference. And then on the flip side of things, and the tradfi side of the equation, circle and USDC, even though that could in theory become yield bearing, it's not as directly connected to being a treasury as an actual treasury. And so you have like the metaphorical middleman of Makerdao or Ave on the defi side, and then you have the unknown black box that is the yield in circle, USDC on the tradfi side of things. And so I think what you're saying is, like, with this on chain t bill, it's the most direct pipe possible on the tradfi side. And then on the defi side, there's no smart contract risk. And so it's like, it's not like a race to the bottom, but it's like a race to the logical conclusion of the shortest, fattest pipe between defi and treasuries with zero counterparty smart contract risk on the defi side. And that's probably why there's, like you said, like there's over like, ten companies on in a race. It reminds me of the stablecoin wars of 2017 that have been ongoing to this day. But now there's like, the on chain t bills race, the race to be the liquid t bill. So this kind of feels like an evolution of stable coins, right? We have us, we have tethered to the Wild west, unregulated stablecoin. Then you have the teacher's pet stablecoin, which is USDC. And now we have this next evolution in the war of stablecoins, which is on chain t bills, which is where we are in crypto history today. Is that right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. Exactly. I would say in terms of counterparty risk that you're taking with any t bo issuer, you don't have the Lindy that USDC has, so you're taking a bet on how the specific issuer is set up, their legal structure, and so on. But essentially, the layers that you have in the middle are the same. You have the Fed, you have DTCC, you have your custodian, you have your broker, your bank that you have to go through your on ramp and off ramp, and your issuer, and that's kind of the cleanest chain that you can do anything less than that. You cannot move money in and out. And that's the same for USDT, USDC, and any other TPU issuer."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm inspired by this. Not inspired, but I'm reminded of the conversation around the staked ether space in Defi where Lido and kind of everyone, I think, has accepted that all vanilla ether as collateral in DeFi, all vanilla ether and maker vanilla ether and aave, any collateral that accepts ether will eventually become steak ether. And this is more or less playing out, like, slowly but surely everything, all collateral and defi is being replaced by staked ether in Defi. Because why wouldn't you, like, why wouldn't you trade your non yield bearing ether for yield bearing ether? Is this. Is this the same, is this the same conversation with on chain T bills? Like, well, why would you hold vanilla stables crypto dollars in DeFi when you could just hold on chain T bills in Defi? Let's just get. Let's just cut to the chase here and get to the. To the logical conclusion of this thing. This is the same fight that's going on."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. So for degens or crypto natives, we explain tokenized treasuries as like stake deed for dollars. So you have the bitcoin chain is the US treasury, right. That's the source of yield and where the ultimate asset sits. Then you have a wrapper on top of that that makes it liquid. And that wrapper is an ERC 20. That is yield bearing. In our case, rebasing some other will do price appreciating, like rocket pool and stake teeth. Right. You have those two flavors, and that is an ERC 20 that you can move anywhere. So it's very much the same system."
+    },
+    {
+        "speaker": "B",
+        "text": "How big is this fight? You said there's over ten companies trying to produce the same outcome. How much value is there to be gathered? How big is this pie? What's the value of this pie?"
+    },
+    {
+        "speaker": "A",
+        "text": "So if we dream big, there's $20 trillion, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "I love dreaming biggest."
+    },
+    {
+        "speaker": "A",
+        "text": "The market is massive, just like the stablecoin market cap is 120 something billion. It was 200 billion. And a lot of that has died because there's a huge opportunity cost. By being on chain, you're taking more risk because you're taking Ethereum risk, which is not negligible. You're taking your ERC 20 risk from your issuer, wherever your caster risk, and you're getting paid zero, whereas you could go to a treasury and get 5%. Why would you do that? So we saw this decline from 200 billion to 125. I think by adding yield again, now, you have a very compelling argument to tell my mom, hey, take those dollars that you have under your mattress, turn them into a yield bearing stablecoin, and you're earning 5% of your money, whereas you were earning zero. You can go to a small and medium business and say, you know this high yield check, you have dollars, right? Or you're interested in paying dollars when you're holding those dollars instead of holding them at your local bank, which, by the way, is not FDIC insured because it's offshore, hold them in USDM, you're taking Bermuda structural risk, or sue structural risk, or Singapore structural risk, all major jurisdictions, instead of argentinian structural risk, and you're earning the 5%. So it becomes a way more compelling argument to bring new money on chain. I'm going to throw a number here. I think we're going to get to a trillion in stable coins in the next two years. There's so much money that is sitting in the side."
+    },
+    {
+        "speaker": "C",
+        "text": "How long, Martin?"
+    },
+    {
+        "speaker": "A",
+        "text": "I'm going to say three years for 1 trillion."
+    },
+    {
+        "speaker": "C",
+        "text": "A trillion in stablecoins. When you say stable coins, you mean the token ISD bills that we're talking about slash."
+    },
+    {
+        "speaker": "A",
+        "text": "Correct."
+    },
+    {
+        "speaker": "C",
+        "text": "Both that."
+    },
+    {
+        "speaker": "A",
+        "text": "Anything that follows the value of $1 or some like tokenized us treasury studies. USDC. USDT. That could be us. It could be an ETF, TB, ETF, anything that follows the core, like us government debt."
+    },
+    {
+        "speaker": "C",
+        "text": "I can totally see the market demand for something like this. I want it. There's nothing available like it in tradfi. And yet I'm still kind of wondering if we're missing something here, like an alignment perspective, what you said earlier, Washington. Yeah. Why wouldn't the us government want to export its dollars? Of course it would want to do that. And export its treasuries more specifically. Export its debt more specifically. But I'm wondering if we're missing an actually important stakeholder. I put important in air quotes called the banks. This is bankless. We are no friend of the banks, but it seems like they could be cut out of the mix here."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, wait a second."
+    },
+    {
+        "speaker": "C",
+        "text": "In some way, Martin, let me just ask you how this works. I go to my bank account and. Yes, full confession, bankless, listeners. I have a bank account, all right, because I need to pay taxes. And, you know, it's literally Wells Fargo. And my bank account pays me a whopping 0.15% in my savings account. Or actually, maybe that's a checking account rate, okay. There's some arbitrage there because that's a lot lower. Then what I see is the risk free rate. Okay?"
+    },
+    {
+        "speaker": "A",
+        "text": "Correct."
+    },
+    {
+        "speaker": "C",
+        "text": "So that tells me somebody's making some money, and I think it's the bank. And Wells Fargo is making that money on the account. And so there's this kind of arbitrage here. And of course I could, if I wasn't, if I was more motivated, I could take that money out of Wells Fargo and I could go find a place to park it and good old tradfi and get that, you know, those sweet t bills. I'd rather actually just move it into crypto and buy the tokenized t bills that you have. That would be great. But it strikes me that if I did that, there would be this sucking sound from the us banking system, the kind of sucking sound that may have been the downfall of Silicon Valley bank, only maybe not quickly, but just slow sucking train crash where kind of liquidity leaves the banking system. And I'm just thinking, Martin, the banks might have something to say about that. And the banks have some influence, not just the banks? Yeah. Not just the banks. Right. So is this a piece we haven't covered yet? Tell me how this conspiracy theory fits in here."
+    },
+    {
+        "speaker": "A",
+        "text": "So, if you talk to people at Congress, and you bring lots of people to the show, they will tell you there's out of 20 trillion, there's 5 trillion that are sitting in money markets. So one in $4 are making that decision that you just said. Right."
+    },
+    {
+        "speaker": "C",
+        "text": "And a money market is effectively what we just said, only it's in traffic, is that right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Correct. Correct. So you will buy."
+    },
+    {
+        "speaker": "B",
+        "text": "For defi enthusiasts, that's compound or aave. But in their tradfi forms, we gotta interpret."
+    },
+    {
+        "speaker": "A",
+        "text": "Technically, ave and compound are margin loan automation, smart contracts. So you put it. You put an asset and you take a marginal. Money market funds is more similar to USDC would be a money market fund or USDM, or a tokenized tivo would be more of a money market fund. But going back to the banks, the banks are actually. You have the top banks in the United States, the GCIPs, those are paying you 0.15%. Like you said, they are actually growing. They're not going down. The people who are paying that price are the small banks, all the regional banks, your sbvs of life, which are the ones that people are going out of. They're going either to money market funds or they're going to G sips, because that's where they are flying to safety, or trying to get closer to the Fed. What are the banks telling the government? And why this is getting stopped is if the banks don't have 0% deposits that they can acquire, then they cannot give you a mortgage at 3%. If they have to go and finance at the risk free rate, which is 5%, call it, then your mortgage has to be seven, 8%, and your SME loan has to be 10%. And that's what people like, people in the us government are nervous about, is what happens to the economy once the rational actor decides to go to a money market fund. And what happens to all those loans that were issued for mortgages, for SME's and so on. And that's the tension that's happening, in my opinion, that stopping this, this is like water, right? Like, you can put dams on it. It will inevitably happen, because rational actors, people think they are the best at managing their own money, and self interested people will go where things are best. But that's the tension. Why? It's not that obvious."
+    },
+    {
+        "speaker": "B",
+        "text": "So just to enjoy this image that keeps on popping up in my brain, which is like you have the United States treasury on one side, the archetypal bank with columns to allow for bankless listeners imaginations to go. So then you have a pipe from the big bank with the columns, the United States treasury going into crossing the dimension between Tradfi and Defi. And that is where these on chain t bill companies, like your company, Martin, and the many other competitors out there, your company spans between these two planes. And so it goes into your company, and then it goes out into the world of Defi, into the world of makerdao aave, wherever. Again, we have the shortest possible pipe between the treasury and crypto, mediated by some sort of centralized company, because that's part of the deal. That's how it goes. And then it's into Defi. We are cutting out the entire commercial banking layer between the Federal Reserve and Defi. And so, like, while, like in bankless philosophy, we would actually call your company, Martin, a bank. But I like it because it cuts out hundreds of other banks before it spits out its product into DeFi."
+    },
+    {
+        "speaker": "C",
+        "text": "It does, except there is one banking party, if I'm understanding this correctly, Martin, which is like some bank, let's say, or I don't know if you call it a bank, but in Switzerland, for example. So it's not a us domestic bank. It's somebody with kind of in a more, I guess, treasury tokenized, Treasury friendly jurisdiction that is set up there. So that would be the bank that would be involved, is that right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Correct. So that would be the custodian. So there would be holding that security."
+    },
+    {
+        "speaker": "B",
+        "text": "And then we call custodians banks. We call a lot of things banks."
+    },
+    {
+        "speaker": "A",
+        "text": "Perfect. And then we would fall under the typical denomination of a narrow bank. Right. So narrow banks issue deposits. Right. Like a stable coin is a deposit. And we turn around and instead of issuing mortgages, car loans, credit cards, we just lend to the us government. And because you're learning."
+    },
+    {
+        "speaker": "B",
+        "text": "I like narrow banks."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. So narrow banks is very, very hard for you to fail. Like, if you have access to the Fed, it's literally impossible if you have very short duration treasuries, which is what every player out there does. Like, the us government needs to default for you to fail. That's the level of certainty that you have. So we would be a narrow bank, essentially."
+    },
+    {
+        "speaker": "C",
+        "text": "So, Martin, that is a product that you are rolling out, the product that we just described. Tell us what you're building in that product. And then I'm really curious about how big can you actually grow this thing? USDC is under 100 billion right now."
+    },
+    {
+        "speaker": "A",
+        "text": "I believe, like 25 billion? Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, okay. It's 25."
+    },
+    {
+        "speaker": "A",
+        "text": "It went down dramatically."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, it's gone down a lot. What are you building? Who can access it? How big can this thing actually get? And this, again, this is like a tokenized ERC 20 treasury that does not have all of the handcuffs of past tokenized treasury instruments. Right. This is what I'm understanding. Just tell us about what you're building and how big you can kind of get."
+    },
+    {
+        "speaker": "A",
+        "text": "Correct. So, first, a disclaimer. So, USDM and our products are not available for us consumers and restricted countries. For more information, go to mountainprotocol.com terms and conditions. And you can read everything there."
+    },
+    {
+        "speaker": "B",
+        "text": "Is that, Gary?"
+    },
+    {
+        "speaker": "A",
+        "text": "It's the SEC's securities laws were reading long before Gary. So we use an exception called Reg S, which basically means if you're an I foreign issuer, you don't have to register with the SEC, but you have to not sell into us consumers."
+    },
+    {
+        "speaker": "C",
+        "text": "That means you can't sell directly into us consumers. What does this mean? So I live in the US. I don't know if you could even answer this question. I want to buy it on uniswap, but do I have the ability to go to the Uniswap protocol and actually buy some of this new tokenized t bill thing, or. I can't because I'm a us citizen or something. What stops me from doing that?"
+    },
+    {
+        "speaker": "A",
+        "text": "So, Ryan, I understand why you and many people listening to this podcast might be excited about this product. Everyone listening to this podcast is highly innovative and like, trying new stuff, which this product is. However, I think you'd agree that most people in the US don't understand why we need stable coins, why we need tokenized treasuries. All of these products are kind of like, odd, and they don't really understand what purpose they feel in the market. And the reason is clear, you don't have an access problem in the United States. For most consumers in this podcast that are in the US, you can easily open a high yield checking FDIC insured account. You can use a money market fund that you can access through your brokerage on your phone. So it's very easy to actually access this product. So what that means is there's no us substantial market interest, which is a core component of the law on why we cannot offer into the US. The test that law gives you is substantial market interest. The second thing I would say is, for the people who are listening to this podcast that are really excited about this product, please don't use it. Every company engaged in this industry has to do best business efforts. There's several ways in which you can identify us consumers, and if you are identified as such as a us person, there will be, each company will have different approaches, but there will be disruptions to your service. So you're not going to experience the full power of what you got to offer and it's going to be a subpar experience versus what you can get in the traditional markets. For context, circle, which is like super Eucentric, has 30% of their assets, their USDC, circulating in the US. So it's a very high. Most of this is for non us persons."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm confused. So hey, I didn't know that about circle. I want to try and get into the same conversation through a different injection point. The contract address for this on chain Tbil ERC 20 token. Yours is USDM. Again, there's many other competitors out there. Yours is USDM. Does the and tether and circle both have blacklist functionality, but it's open by default. So by default, all Ethereum addresses are enabled to receive this table coin. And then if we find out that this one particular address is North Korea, then we add them to the blacklist. That seems totally fine with me. That's aligned with nation state regulations. That's just the dance that we have to play. That's great. That's fine. Is there anything different about a on chain t bill smart contract address that is different from that status quo?"
+    },
+    {
+        "speaker": "A",
+        "text": "So the function is the same. The thing that we are adding on top of that USDC or USDT, typical OFAC restriction is, let's say Kraken. Us started trading this coin. We would first message Kraken and tell them to stop because they might not know that they are not allowed to do that by terms and conditions. But if they insist, we're going to block that address so that that doesn't happen."
+    },
+    {
+        "speaker": "B",
+        "text": "So who would be in violation? Is Kraken in this example, breaking the law or are you breaking the law?"
+    },
+    {
+        "speaker": "A",
+        "text": "Cracking is breaking the terms and conditions and we are lying. Correct. So the terms and conditions of using the mountain protocol, each asset that you hold that centralized has some sort of terms and conditions. USDT has this exact same terms and conditions. So USDT has been applying Reg s since I think 2018. And that's why it's hard to buy USDT locally in centralized exchanges and so on."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, okay. But still, like USDC is 80 80% overseas and how do they 70% overseas as in not held by us people. How do they know that?"
+    },
+    {
+        "speaker": "A",
+        "text": "That's a good question. So I took that quote from Jeremy itself. I don't know exactly, but you don't know exactly which address is from where. But there are providers that tell you these transactions are coming from ips that are coming from these countries. And you can monitor this in a pretty. You don't have 100% certainty, but you have pretty good certainty about who's using your tokens."
+    },
+    {
+        "speaker": "C",
+        "text": "And the reason you have to monitor it is because if it gets over 20% then you're outside of the bounds of the stage of Regas. Of the reg s correct. But you can't measure it precisely because we don't."
+    },
+    {
+        "speaker": "B",
+        "text": "The burden of proof is just on circle and on you. You have the burden of proof to say that, hey, you were not violating the law."
+    },
+    {
+        "speaker": "A",
+        "text": "So for context, I'm not a lawyer, but how I think this is going to play out, I think there's going to be two outcomes. On one hand, you're going to have unregistered, unregulated entities probably doing some fake decentralization. What the SEC can go and point and say this is a scheme to evade. You still have the question around substantial us market interest, but it's easier, the bar is lower. To actually go after these cases. Where I think it's going to be harder is on regulated entities by respected countries financial regulators. Where there's a regulated product, there's best business efforts to avoid us consumers accessing it. And where you still have the no substantial us market interest, which is pretty strong. And finally, these guys like us, we're spending a lot of money on lawyers. So lawyers are pretty happy trying to protect us, I bet."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's how the ultimate crypto are, the lawyers. Exactly. I'm confused how I didn't know that about circle USCC. So they need to make sure that the weight, the gravitational pull of USCC is offshore."
+    },
+    {
+        "speaker": "C",
+        "text": "No, no, they don't need to do that. USDC."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, USDT needs to do that."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, USD is fine. That's just a fun fact that, correct 70% is offshore. And I think, Martin, you were making the point that there's a lot of demand for dollars offshore. Just look at USDC, a us product, and yet 70% of the ownership according to Jeremy Lair maybe is offshore. So you're making the point that basically for this new treasury tokenized treasury product, hey, a lot of the demand will actually be offshore anyway. And there's no restrictions. If it's somebody outside of the US."
+    },
+    {
+        "speaker": "A",
+        "text": "Owning this thing and the average Joe in the US, they have high yield checking accounts. Those are FDIC insured, they're paying 5%. You have your Robinhood app, your public.com app, you can go and buy treasuries at 5%. So there's no reason for the average us consumer to go and buy USDM, right? So this is not banked. Yeah, exactly right. Like there's no access problem. The banking system, with all its things, it kind of works. You can trust it. It's insured. So this is not a product aimed for us persons."
+    },
+    {
+        "speaker": "C",
+        "text": "I get it. At the same time, the US dumb sucks. It sucks. Martin. I would so much rather have all of my dollars into USDC and stable coins. In fact, that's more the direction I'm going in. But I take your point. I guess outside of the US though, this is pretty free, unencumbered, works just like USDA. USDC would, only has the yield attached to it. And this looks like an ERC 20 token. So it'd be available anywhere that a DeFi application is available. Is that correct?"
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly, exactly. We're doing work to make it available in as many places as possible, so that the utility of having USDM is not just having USDM, you can put it as collateral, you can swap it and access other liquidity pools. So that's the work that we're going to do after we launched on Monday, just to finish. Kind of like how the token works. If you think about USDC, it's an ERC 20 in the front. It's actually cash equivalents, which is literally t balls in the back. This is the exact same thing. But this ERC 20 rebases on a daily basis. So you get airdropped more tokens every day. Similar to staked it."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, yeah. I was wondering how. So there's, in addition to the. I know. Inside of the LST ecosystem, the liquid staking token ecosystem, there are many different ways of the value of your token going up. There's a number of different mechanisms. And so this is probably, there's different design decisions as to how you actually receive the yield. The actual value of the ERC 20 token could go up increment up over time. You could get air dropped more, you could rebase downwards. That's probably, of all the different landscapes of on chain tbil competitors, is probably a vector of competition to have the most optimized market desired one."
+    },
+    {
+        "speaker": "A",
+        "text": "And the biggest advantage that we have is we've become regulated. So we spent a full year getting licensed out of Bermuda. So the Bermuda Monetary Authority gave us a license to actually do this in a permissionless way. So we are a token, a utility token that is used for payments. So in the US, payment token would be the closest thing which is redeemable one to one. And that allows us to be permissionless. Most products out there, they are permissioned and they're adding a lending protocol in the middle as a dao to kind of convert permissioned collateral into permissionless yield via supply on the protocol. So those are kind of like the two models that you're seeing out there."
+    },
+    {
+        "speaker": "C",
+        "text": "So this is a bit cleaner then. How big can you grow this?"
+    },
+    {
+        "speaker": "A",
+        "text": "Martin it's a great question. I think it's going to be trillions, right? I think this category, regardless of whether it's USDM or other players, if you look at it in a couple of years, it's going to be multiple trillion dollar industry. I think the demand for yield bearing dollars is going to eat out of the dollar. Bank deposits globally is going to eat out a bunch of other alternative stores of value globally. And it's stable, it's programmable money. So you can have SME's creating an account and holding dollars and paying their suppliers, and that money is yielding all the time. I think it's going to change massively."
+    },
+    {
+        "speaker": "B",
+        "text": "So Nick Carter is the one who introduced us. So I'm going to put on my Nick Carter hat here. You said there's like ten or something competitors out there who are all trying to do the same business model, understanding crypto. We don't necessarily have the best track record of all of our startups and companies fulfilling their original obligations. How do we know that of these? When we are provided with a slew of companies with on chain t bills, how do we know which one is a ruggeden? I would assume proof of reserves gets incepted here, or maybe other mechanisms. How will bankless listeners, myself included, identify the rug UST on chain USC bills from the non rug ones?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, because we know some of them are going to be rugs, right? And we don't know any rug. What is tether? We don't fully know."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So disclaimer Nick is an investor in mountain protocol, so he has a vested interest here. The to differentiate a rock from a non rock, you have like your total scam tokens. You can identify those because they are not licensed, they don't have a regulatory framework that you can go and look at. They're not, you don't know who the team is, they're anonymous, you don't have proof of reserves. So all your basic kind of like cleanups in a centralized product which this is. If you don't see that, that's a very good tell, that this is a rug, then you go to the design questions, and who is designed properly to be this narrow bank that you can kind of trust that goes a lot into bankruptcy? Remoteness is the asset recognized in the country where it's registered. You get into more kind of legal questions. I think lots of this is going to come out soon. Maker just issued a declaration of intent for rfps, for tokenized treasuries. So you're going to see makers assessment of a bunch of products in the next. There's no timeline, but I think it's going to be in the next couple months, so that is going to be pretty cool. Steakhouse financial. So Sebastian and Adrian and other friends of the pod are going to be like, did that proposal? And if maker passes that, there's going to be an independent assessment of a bunch of products out there."
+    },
+    {
+        "speaker": "C",
+        "text": "Martin, why doesn't Circle go do this? Is it because they can't be a narrow bank?"
+    },
+    {
+        "speaker": "A",
+        "text": "There's many reasons. I think the first one is regulatory. If Circle wanted to do this, they would have to give up their us market, that's 30% of their issuance. But they would also have to stop trading in Coinbase, they would have to stop doing conferences in the US. So there's a lot of things that they would have to stop doing."
+    },
+    {
+        "speaker": "C",
+        "text": "Why couldn't they create an international subsidiary, something like that, different product, that kind of thing? You're saying that would be quite the pivot, though."
+    },
+    {
+        "speaker": "A",
+        "text": "I think it's not only a big pivot, Reg, is you have to be a foreign issuer. It's not enough for you to be a us company selling outside. If you're a us company selling outside, there's a class two asset where you have to wait for 40 days after you buy it, before you actually can move it. So technically they could, but the experience would be pretty bad. So that's the first reason it's regulation. I think the second reason is the same reason why Wells Fargo pays you zero today, which is why would they? And doing that math is I'm going to cut essentially from making a hundred, taking 100% commission on the yield. Right. If you think this as staked ETH versus CbEth, right, it's 10% commission, 25% commission circles. Commission today is 100% right. And going from 100% to 10%, which is what basically all of the T bill issuers are getting. That's a 90% reduction on your revenue. It's probably not worth it."
+    },
+    {
+        "speaker": "C",
+        "text": "And they're making a lot of money right now. Right? Hundreds of millions of dollars."
+    },
+    {
+        "speaker": "A",
+        "text": "So the question is, who makes more money? USDC or Ethereum?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Well, that's a. Well, what is the answer? Yeah, I feeling. You're smiling. So, you know."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, no, the answer is it's the same. I just checked and if you look at like last seven days, ethereum versus run rate for circle, it's the same amount of money tether is making."
+    },
+    {
+        "speaker": "B",
+        "text": "Sorry, when you say ethereum making money, you're using the way that we often describe it on bank list, which is like the protocol fees that are exactly. Ether that is burned on a yearly basis. Like the protocol revenue."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "Huh. Is the equivalent to circle."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. Exactly. Holy shit. Every time you printed money, every time you pay gas, like that amount of gas, that's the same amount of money that circle is making. And."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh my God. Wow."
+    },
+    {
+        "speaker": "A",
+        "text": "Tether is three times that. So tether alone is making more money than their whole other, like the whole rest of the crypto ecosystem outside centralized exchanges. This is insane."
+    },
+    {
+        "speaker": "C",
+        "text": "So they shouldn't be. Right. So this should be passed on to the customers. This should be passed on to the users. In an ideal."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, that's your margin. Your margin is my opportunity."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "Is that what you're saying, Martin?"
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. Exactly. So that's why. And it's so much money. I think you guys did in the roll up, there's like 4 million crypto users, something like that. If you divide the tether revenues by crypto user, that's a user per year."
+    },
+    {
+        "speaker": "C",
+        "text": "We'Re paying this in. Don't know. It's not like cost. That's the thing is it's opportunity cost, which is equivalent to cost. It really is. People don't view it like irrational."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah. So."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh my God. Wow. That's way over ten companies trying to do this."
+    },
+    {
+        "speaker": "A",
+        "text": "That's why I think trillion dollars is not a wild guess. I think lots of people are going to be okay, this is free money. How can I get it? And the traditional system is not going to give it to them. If you're in Argentina, if you're in Brazil, if you're in Turkey, if you're in Europe even, you're not going to get this risk free yield passed on to you unless you're in the US. It's very, very hard to get it."
+    },
+    {
+        "speaker": "C",
+        "text": "Here's the thing though. When you guys start up, and when these ten companies doing tokenized treasuries start up, I expect these regulations will sort of hold. It'll kind of make sense as you scale up, you're talking about numbers like trillion. Okay? So you get to 1 billion. All right. You get to 10 billion. Okay. You get to 100 billion. Guess what? The IMF starts raising its eyebrows and starts saying things like financial stability. And anytime they use the term financial stability, what they actually mean is control because they don't care so much. Sorry, I'm editorializing. I feel like a lot of times when the IMF talks about financial stability, they actually just want control. And if you start creeping up towards like half a trillion dollars or a trillion dollars, all right, then that word will start to be used a lot more and this whole kind of reg s thing might seem like it's like you'll get more attention. All right. And I'm wondering if they will try to put a stop to. This is kind of a question. And also I love the test here. I love that we are just pushing this to the limit because how else do we approve improve our banking system? How else do we get rid of the inefficiency and the incumbents? But I wonder if as you scale up, the eye will start to turn towards tokenized treasuries and the kind of the regulatory climate might start to clamp down a little bit. What are you thinking about that Martin."
+    },
+    {
+        "speaker": "A",
+        "text": "Tether announced, I think it was two weeks ago, that they are one of, I think like if they were a country, they would be in the top 20 in terms of like treasury holdings. So tether is a very relevant player. They have 83 billion issuance. Most of that is collateralized by treasuries. So this is already a thing. What I see at least is the government kind of likes the fact that people are buying us treasuries and the path that at least we've taken is we want to be compliant. So if these clamp downs come, which they may come, we're going to be prepared. And we're not going to be two people in a garage. We're a licensed entity by a top regulator in financial markets. So it's going to be at least harder. If they try to shut us down, I think there's no incentive to do so. But if it were, we want to be as prepared as we can."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, you're going to have to speed run it. You're going to have to get big real quick to the point where they don't mind so much. I love that as an acid test, the other acid test, which I don't know how it's going to work out. It's ironic that we're doing this entire episode, and both David and I are incredibly excited about these types of products, a tokenized version of a treasury. And yet, because we live in the United States, which I don't know, feels like a financial prison, we actually can't buy it, right? Or at least we can't officially buy it. And I don't know what's going to happen with respect to that. So if somebody accidentally dusts my account with some USDM, is Gary Gensler going to show up at my house and try to arrest me? How does it work when there are some. This is probably not something that you can answer or even talk about. But it just strikes me that the more people who see people outside of the US, the more Americans who see people outside of the US owning these products, and the more american citizens realize that they are like on a list on a website with Iran and North Korea and America that can't access these products, hopefully, the more we react and change the laws that we have. And so I'm excited about that test too, because there is nothing, of course, at the protocol level, that would prohibit an ETH address, no matter where it is, from actually having USDM inside of its account. So it's going to be an interesting test from that perspective, too. And I'm sure you can't comment on how all of this will unfold, but I'm excited about that."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think we're going to test on the reg s. The test that you're referring to is substantial us market interest. We're going to test a substantial portion and that's where it's going to fall down. And our work is to make sure the substantial is still in check."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I'm assuming the model would be grow as fast as possible, get as much TVL aum as possible, and then start lobbying. Just lobby, get the regulation. I remember I had history. Yeah, exactly. There's so many laws out there that are just asynchronous with how crypto works, that eventually, in the fullness of time, will have to be walked back. But whether it's two years or 20 years is really the big difference."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I don't think it's going to be us loving. I think the US is going to look at the rest of the world and say we are the exception. Switzerland was first, Bermuda, Japan, Korea, Singapore, now the UK. Everyone is passing laws making this product something that you can actually do. And all of those regulators are uncomfortable around the compliance perspective, around the soundness of the product. So I think the US will wake up. I don't know if it's some challenge in China doing it and a threat coming to the US or if it's something different, but I think that will change because the US is the one that's the odd get out."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, no, I agree. I think that is the big force for change. One last thing we haven't touched here, Martin. I think we'll maybe close with this question. We haven't talked about central bank digital currency yet, which is interesting. One maybe if this puts the US regulatory apparatus in check and shows how outdated its laws are. Okay. One counter to that that the US might take is actually to deploy some sort of central bank digital currency that has what you're talking about. It has kind of the narrow bank type function where actual citizens can create an account at the Fed and they get access to this yield bearing instrument. Right. And it's kind of in its tokenized form. I don't know the full manifestation of a national tokenized ERC 20, except it may not be an ERC 20. I don't know if it'll be on a private blockchain or what. But this is the idea of a central bank digital currency. And you could see from, I guess, a country's monetary policy perspective, it might be kind of nice to have the dials of this. And directly you could even get to, I've seen monetary policy papers talking about negative interest rates in some different economic climates where you're actually, like, taking from citizens digital dollars. Right. So you have this."
+    },
+    {
+        "speaker": "A",
+        "text": "It happened in Europe."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, right. It happened in Europe, but indirectly. But this could. You could just cut out the banks entirely, I guess, and the biggest bank in the world could do that, the central bank. How do you think this all plays out? Do you think that some countries, the US or other countries, might decide to leapfrog what crypto is attempting to do with a tokenized t bill and roll out its own central bank digital currency that also has a yield instrument and a T bill attached to it."
+    },
+    {
+        "speaker": "A",
+        "text": "This is already happening in Brazil. Brazil is designing an EVM deployed token, which is going to be their central bank digital currency. So we see this already happening in other parts of the world. The challenge is, if you do this, you're doing a death blow to your whole banking system. Who's going to bank at the regional bank? If you have the risk of that falling, they're paying you 0% and the Fed is zero risk and they're paying you the same risk free rate. So I think getting from where we are to that in the US is going to be very, very, very challenging. I don't see it happening, at least with the way the world works today. What do you do with all the banks? What do you do with loans? Who gives loans? There are so many open questions that I don't think that could go through Congress and actually pass through."
+    },
+    {
+        "speaker": "C",
+        "text": "So this would be the equivalent of like cannibalizing the entire US banking system. And they're not ready to take that step. But you think that tokenized T bills as kind of stablecoin instruments in crypto can work because the US actually is incented to find net new buyers of treasuries. While they might not like aspects of it, cannibalizing the US banking industry, so long as it's outside of the US primarily, they may kind of turn a blind eye to it because they actually like this property of new treasury demand. And that's how we sort of thread this needle with the sleeping giant here."
+    },
+    {
+        "speaker": "A",
+        "text": "It's the best of both worlds. You don't have to kill your banking system. You work as it is today and you're finding net new buyers of treasuries and you're exporting the us dollar offshore. I think that the current equilibrium is pretty good for the establishment."
+    },
+    {
+        "speaker": "C",
+        "text": "Wow. Well, this is going to be an exciting time. And so all of these projects, including yours, are launching imminently, it seems like."
+    },
+    {
+        "speaker": "A",
+        "text": "So there's a couple that have launched, we're launching imminently. There's others in the pipeline. So it's going to be lsd five, I think was the narrative on the first half of the year. I think this is becoming the big narrative for the second half of the year. And I think this will bring, hopefully the next bull run because all this new demand in crypto will start in stable coins. But then who knows where that money."
+    },
+    {
+        "speaker": "B",
+        "text": "Goes next is a take that I think Jim Bianco gave us. And I think both Ryan and I just readily accepted it, which is that crypto prices bitcoin ether, pick your favorite blue chip asset. Will, cannot and will not go up until on chain liquidity goes up stable coins. And if this brings liquidity into uniswap, into our layer twos, into all the splattering of layer ones, that is bullish. That's bullish."
+    },
+    {
+        "speaker": "A",
+        "text": "And you're about to bring a lot new buyers. So."
+    },
+    {
+        "speaker": "C",
+        "text": "It makes sense. Last, last bull cycle, I think our, the risk free rate, the t bill rate was something like, I don't know, 1%, you know, 2%. Right. And this time it's fine."
+    },
+    {
+        "speaker": "A",
+        "text": "It was point 25%."
+    },
+    {
+        "speaker": "C",
+        "text": "So it was technically 0.25%."
+    },
+    {
+        "speaker": "A",
+        "text": "It was that long. The risk for rate in Europe was negative. So this is the first time since cryptos was born that we're actually seeing non zero rates, except for a very short period right before the pandemic. So it is the first time we see this. And rates are probably going to stay high for a good time, so this is going to play out nicely."
+    },
+    {
+        "speaker": "B",
+        "text": "Rates are going to stay high because the time of fiat is drawing to a close. And I actually think that the business model for on chain treasuries is also an indication of the the long term close of the fiat era, because you have to charge interest rates to induce demand, blah, blah, blah, blah. Is that an acceptable take, martin?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I don't know if the fiat cycle is to an end long term, multiple decades, very long term, I think governments are going to issue their own stable coins on chain. So Argentina is going to issue Argentum on chain. Right now, there's conversations about dollar rising in Argentina. So taking out the central bank, because we clearly don't know how to handle a currency and using the dollar, I think it's insane. But inflation in Argentina is over 100%, so it is super tough. Now, instead of going to the dollar, can you go to your own ERC 20 with a cap supply or with a fixed emission and automate that central bank, and some countries where the central bank is not credible, I think that's where it's going to start."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, very cool, Martin. Thanks for explaining this to us. I'm sure we'll do much more on the tokenized t bill narrative as projects get built out and your specific instrument, mountain protocol, is what you're calling it, and USDM. And of course, if you are a us resident and listener, you live in a financial prison, so you cannot purchase this asset anywhere. Apparently, you can go to high yield."
+    },
+    {
+        "speaker": "A",
+        "text": "Checking accounts."
+    },
+    {
+        "speaker": "C",
+        "text": "Stuck in that 0.15% yield account in your wells fargo. Sorry, guys, but very cool. Martin, this has been a lot of fun. Thanks for taking us on the tour today."
+    },
+    {
+        "speaker": "A",
+        "text": "Thank you, guys."
+    },
+    {
+        "speaker": "C",
+        "text": "Bankless nation will include a link to the show notes. We referenced it. An article that Martin wrote called staple coins are crypto's hidden money printers. Goes through the business model of USDC. It's a great read. Gotta remind you, of course, none of this has been financial advice. Crypto is risky. You could lose what you put in. But we are headed west. This is frontier. It's not for everyone, but we're glad you're with us on the bankless journey. Thanks a lot."
+    }
+]

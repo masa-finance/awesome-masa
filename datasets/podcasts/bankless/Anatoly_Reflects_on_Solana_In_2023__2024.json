@@ -1,0 +1,886 @@
+[
+    {
+        "speaker": "A",
+        "text": "Bankless nation. Welcome to a conversation with Anatoly Yakovenko. Recently, Solana seems to have turned a page in its evolution with the Jito airdrop. Putting $200 million in the hands of over 10,000 different addresses seems to have really reawakened a part of Solana as new addresses and new TVL have come online and new conversations are being had in Solana, mainly conversations around Solana governance and Solana economics. And so this has captured the attention of many across the crypto industry and including my own. And so I decided just to throw Anatoly a riverside link where we record podcasts here at bankless and ask them to come on and just chat about things. This was a pretty unscripted conversation. Usually we have pretty thorough, robust agendas for 95% of all bankless podcasts, but this is not one of them. This is just David and Nanatoli vibing on podcasts together, talking about Solana, talking about ethereum, talking about tribal stuff, but not with a tribal tone. So I hope you enjoy that. Into the conversation with Anatoly Yakovnko. First, a moment to talk about some of these fantastic sponsors. What's up, Anatoly? How's it going?"
+    },
+    {
+        "speaker": "B",
+        "text": "It's. It's good, man. Good to be here."
+    },
+    {
+        "speaker": "A",
+        "text": "So, Solana seems to be going well."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, knock on wood. It's as surprising to me as to anyone else. Like, looking back over the year. Well, like, looking back over the year, I was like, oh, man, okay, this is what it's gonna look like to fail. I was psychologically preparing myself at the start of this year that things were not gonna work out. But why is that? I mean, the FTX crash kind of. The sentiment was really, really negatively turned, and there was a lot of risk."
+    },
+    {
+        "speaker": "A",
+        "text": "I kind of forgot that that was how this year started."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah. Know, it was like, kind of like one. No one, like, left in terms of, like, internally. All the core engineers were like, okay, whatever, I'm coding, the problems are still, like, I still have to finish this at my job. So that was good. And for the vast majority of the companies in the ecosystem, they got that fight or flight response, and most of them chose fight and just built better products. But that takes a while to go from shock to, okay, people are actually building stuff. Yeah, it was like, yeah, knock on wood, man. I don't know. I don't know how this happened."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, we are, like, 13 months past the actual FTX incident. Call us, like, twelve months past. Being able to actually process what that meant for the crypto industry. And especially for Solana, because Solana had to especially process what that would mean for Solana. And we could go through the gamut of the last twelve months and be like, okay, well, then there was this phase, and then there was that phase, and then there was this phase, but maybe we could just compress it all into just what is now the net effect of all of that upon the Solana ecosystem. Because, like you said, you had some people who just double down. Some people did leave, some people doubled down. So, like, if rather than just, like, going through the whole, like, speedrunning of the 2023 history of Solana, just like."
+    },
+    {
+        "speaker": "B",
+        "text": "What'S the net effect of it, the doubling down? Like, it causes, like, the people with less conviction to leave and people with more conviction to double down. And that is the best thing that could happen to an ecosystem if you can survive it. What had happened? The result was that you had a really core, super connected, strong group of people that had really deep convictions that just built the whole year. They just saw it as an opportunity. Now I have more space, right? Like, there's fewer noise, fewer competitors in my product category. Like, it actually is, like, turned out to be, like, a huge win. Like, I don't think Armani would have, like, did mad lads and built the exchange. I don't think the tensor guys would have been like, oh, we can beat magic Eden. Even though they have 90% of market share, right? Like, some people just, like, go hardcore when they see this biggest competitor is now spread across five different ecosystems. There's no way they can keep focused. That's a once in a lifetime opportunity for some folks that have that kind of energy. And seeing them rewarded for the work that they put in, I think is the best thing that could happen in the ecosystem, because it's really, really rewarding the people that put in the work. Like, that's. That's, like, the beauty of bitcoin and proof of work, right, is that somehow, through game theory, it anonymously does that, and it's magic. And that, like, doesn't always work out, you know?"
+    },
+    {
+        "speaker": "A",
+        "text": "What would you say was the reason why? Maybe this answer isn't so, like, the same for everyone, but why did people stay? What made people stick around Solana versus, I mean, there's, like, other high throughput chains that they could have gone to, like, so what about Solano kept in there?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think the tech is pretty weird. It's very different from everyone else, and it has some unique properties. It obviously is riskier. You do a bunch of weird optimizations that people think, look at you crazy. When you do them. It takes years for them to mature and prove themselves out. And the folks that are deep in the tech, that get why we made those choices, and they appreciated them. And literally, the mango guys said, okay, we'd have to create our own chain, like Dydx. That's their alternative. Or we use Solana. And they felt that being part of an ecosystem is better than running your own l one. So a lot of people made the choice, I think, for that reason, for the tech reason. And I think when you have a good group of those, you kind of have a lot of people around them that want to build, simply because I don't know if it's validation or I want to build where a bunch of other smart people build. I think largely one of the best things about Ethereum is you talk to Dunkrat and you're like, wow, actually, this guy is super smart. How do I work with him? It's the best selling point of Ethereum, but we're starting seeing that happen in Solana. And it's not the researchers that I think are the cornerstone of Ethereum. It's more the low level devs that can grind really cool implementations and stuff. So I think there's something to be said about that."
+    },
+    {
+        "speaker": "A",
+        "text": "One of my favorite questions to ask bitcoiners is, and one of the reasons why is because the answer is always the same, mostly the same, depending on which bitcoin you ask. They always kind of more or less say the same answer. But if you ask the bitcoiners, the question, like, what's the most important element of bitcoin that really powers the whole system? And the answer is so incredibly uniform, they're like, well, bitcoin is really a semblance of many different components and technologies, and it's really about how they all come together to produce bitcoin. But really, the answer is the difficulty adjustment. Like, they love the difficulty adjustment. And it's like this keystone thing that puts bitcoin together in a way that the other components are more ancillary. So if I ask you the question, like, what is that for Solana? Is that a fair question, or is it just apples to oranges? Because bitcoin is so different."
+    },
+    {
+        "speaker": "B",
+        "text": "That was a really good question, but it's a really hard one, because I don't know. I don't know if we have a linchpin, super clever thing. I think maybe the parallelism that we were able to figure out through failure and experimentation, that we were able to get it working all the way up to the economics. I think that was a really cool innovation, but okay, let's go back then."
+    },
+    {
+        "speaker": "A",
+        "text": "Why is that so important? And why was it so hard?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, it's really not obvious. And we basically see all these systems now that are getting inscriptions on them. Like the fees blow up, because like the inscription locus. Yeah. And what happened with Solana was effectively similar. Attack, not attack, but people using the, the chain is that instead of seeing inscryption locus, we saw everything gets saturated to the point of you cannot land a transaction. It was effectively liveness failures for users. Defi wouldn't operate when there's an NFT mint at the same time. That was really obvious in retrospect, because it's like if you worked at a big web company and you have a database, you get these hotspots when everyone wants to order some weird thing all at the same time, but then all your other payments can't go through because there's this massive queue for some random viral thing. It happens in every database system with any traction. But it took me seeing it on chain to unpack it and recognize it, that this is a problem that has a similar computer science issue in the real world, and tying it to the economics, to deal with the economics around making sure that you can isolate only that lock, literally. We got lucky with SVM having this idea of access lists that are required with every transaction. We did that for performance reasons, because that's the fastest way to build the runtime. But having that information is what allows us to do it now in every part of the stack, and the economics of it itself. So it was not planned. I was like, what's the fastest possible virtual machine? I copied the designs that I knew worked in dsps and GPU's, is that the developer does this very painful process of telling the system, this is exactly what memory I'm going to touch. It wasn't magic, it was not as. I mean, I had the benefit of having that experience or worked in tech for like a decade to know that that's the fastest thing. But I didn't know that this is like the most critical piece for crypto. And then when we saw those failures, we had to solve them. Or I think the idea of a single global public chain that with many shared applications, all using the same state, was kind of dead on arrival. If global fees spike, parallelism doesn't matter. You have one use case that saturates the whole thing. No one cares how many TPS it can do, it's just irrelevant. Luckily, we did the right steps, failed the right way, and the solution was obvious. I think that's maybe what makes Solana unique through a very long path. We found, I think, the right answer of how to build a shared permissionless system."
+    },
+    {
+        "speaker": "A",
+        "text": "And that answer, what is the technical name for this? So I use the right name."
+    },
+    {
+        "speaker": "B",
+        "text": "We call them local fee markets."
+    },
+    {
+        "speaker": "A",
+        "text": "Local fee markets. And that's where, if I'm coding up, I'll put this into. I actually just did this episode with Lucas from Jito. And so I was putting it into Ethereum terms, just because that's how I think. And that's probably what the listeners are familiar with. For example, if we had local femarcus on the Ethereum player one, and you made some ARB transaction to balance uniswap and sushiswap, you would like. What you're saying is the developers of wherever that transaction is originating from would say, okay, I need to specify to the Solana ecosystem, to the Solana SVM. I am going to go touch the Uniswap contract, or specifically the USDC ether pool of Uniswap. And then I would also be touching the ether USCC pool contract address of Sushiswap. And that's the only thing that I'm touching and anything else I don't care about. And that's how we get parallelism, right? As in like other things can specify their things over there, and since they're not overlapping, we get parallelism. So it's local fee markets, it produces parallelism, is that right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. What I believe the technical term for this in database land is isolation, because you have transaction isolation. So one transaction, another one are isolated from each other. When you have isolation, you can execute them in parallel and have the exact same result regardless what order they're executed in. But what's cool is once you specify that in a transaction, that information is available in the mempool. So then your block producer is going to be like, okay, I'm going to fill up the block with the highest priority fees. And if the runtime, then the virtual machine says, okay, you've saturated all the USDC uni transactions that could hit this specific market. You cannot add any more to the block, but you still have block space for other stuff. Then the block producers can skip all the high priority fees and defer them to the next block, but then take all the lower priority ones that dont touch that saturated pool. And thats what creates this isolation and localization of fees. Because you have this hotspot, everyone takes everyone still is greedy. They fill up the hottest market, but then they're like, well, I still have space, so why don't I take all this other stuff that is noise or whatever? So that's what we figured out had to be done for us to be able to support payments, nfts, and deFi, the big three use cases."
+    },
+    {
+        "speaker": "A",
+        "text": "And so, yeah, as stretching the metaphor, even though this is apples to oranges, this is what you're saying is if the difficulty adjustment is to bitcoin, isolationism, parallelism, local fee markets, is to Solana, maybe, I hope."
+    },
+    {
+        "speaker": "B",
+        "text": "But I feel like smart people, engineers, I think everyone is probably looking at what works for Solana and is like, okay, this is how I can apply it to my technology. So we're going to start seeing, I think, that gap narrow. But crypto, man shipping software and crypto sucks. What you think you can do is, like, six weeks, takes six months, no matter what."
+    },
+    {
+        "speaker": "A",
+        "text": "So I think Solana's been, I think, entering this new phase for itself, specifically with, like, the judo airdrop. There's like this before and after moment in the judo airdrop, where you kind of had, like, the Solana diehards, the Solana chew glassers throughout the bear market, who stuck around. And now that the judo airdrop happened, now it's attracted people who weren't previously attracted to Solana for the economics reasons, for the incentive reasons, for people understanding that this is kind of where the meta is. And that's one way I would describe the chapter or the phase shift for Solana. But another one is happening just with some of the fundamentals here, which is fire dancer is now a second client. Jitto itself is a second client. Maybe there's another clients coming online as well. And so this is now, once you have multiple clients, you now have the governance conversation. And so there seems to be a lot of couple turnings of pages all kind of happening at the same time, making it seem like there's kind of a before after moment for Solana as it relates to the last six weeks or so."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's pretty cool to see. So, Firedancer is a complete rewrite, cheetos and other distribution of the Solana labs client. But it does all the human bus factor kind of problems. You have now multiple points of failure, and that creates the governance problems. How do we make sure that changes that Jito makes don't break? Main changes that labs make don't break, don't delay. Fire dancer. Everyone's got to talk. This is why I'm writing more docs. Alignment is now a thing? How do I get all of these engineers that are experts in the deep part of the stack, that they're in way deeper than me at this point? Don't all spread in different directions and make sure that there is one horizon roadmap that we're working towards. That's definitely a new problem, but it's a good problem to have. It means that means you have a lot of people trying to move the ship."
+    },
+    {
+        "speaker": "A",
+        "text": "So coming from Ethereum land, there's all of this infrastructure set up around Ethereum governance. You have the bi weekly all core devs call. Now it's split into two calls, the El call and the CL call. There's like the Ethereum magicians forums. What does this coordination infrastructure look like? Solana, or is that still getting built?"
+    },
+    {
+        "speaker": "B",
+        "text": "There's a call Jacob Crete runs. There's a validator call to more like DevOps system stuff. There's a specific core developer call between all the teams. There's a discord with all the different channels for different teams, and there's now a SIMD process. Solana improvement documents you post on GitHub, everyone reviews them. All that stuff is getting. That was there before, but now people, it was good that we had set these things up, but people are now using them because there's a necessity to use them. Setting this stuff up is easy. It just takes one person to run them, but none of it matters. Until you have a critical mass of people that don't know what the hell is going on, then they're forced to talk. There's usually smart people. Therefore they go and they're like, well, who do I talk to? Where do I find? Who do I talk to? And you kind of start seeing that happening."
+    },
+    {
+        "speaker": "A",
+        "text": "I think the interesting thing that I'm seeing is Solana. The archetype of Solana is super strong. It's these low level systems engineers, these database designers like yourself. And now with this whole phase change of Solana, the evolution of Solana into something greater is now needing a new archetype, which is the governance archetype. And the Solana engineering archetype, I'm not sure has a lot of just governance muscle, because I don't think most people have governance muscles by default. I think Ethereum has attracted the governance nerd snipes because that's what it is. But I don't know if the engineers have a lot of governance muscle about them."
+    },
+    {
+        "speaker": "B",
+        "text": "I think, I don't know if this happened in Ethereum, but I think out of necessity, you kind of start building a constitution or a motto. I think for Ethereum, it was cheapest possible hardware. How do we make this verifiability as accessible as possible? And everyone that's building. Always thinking about that. And for me, I'm trying to drill into everyone. How do you make it faster when you have 50 different options and you got to pick one or the other, which one is more scalable, faster scales on more cores, and that's forcing all the discussions to pick out of the set of permutations of every configuration. Okay, we should go down this path. And this is a way. I think, that it's like a religious mantra."
+    },
+    {
+        "speaker": "A",
+        "text": "It's the Solana North Star. It's Solana alignment."
+    },
+    {
+        "speaker": "B",
+        "text": "Right, right, exactly. And this is not to knock on Ethereum in any way. I think once you get to a certain size of the ecosystem, I think you kind of have to pick that. Like, what's the core Pareto efficient spot that we're sticking out and have everyone aligned towards that. And I think bitcoin picked its own spot. Right. And it's worked out for them. Despite of all the criticism that everyone throws at the bitcoin core and the community, it's still, like, pretty successful. Right? I wouldn't. I wouldn't believe it. If Solana got there. It would be, like, crazy in my mind."
+    },
+    {
+        "speaker": "A",
+        "text": "Wait, what would you say is bitcoin's north star? Because I have my answer. I just want to hear yours."
+    },
+    {
+        "speaker": "B",
+        "text": "I think it's the fossilization of the supply cap that. It's like, the immutability of the cap. Yeah, it's just like, the whole idea of, like, you get a piece of something that no one can change and you can hide in your bunker, count."
+    },
+    {
+        "speaker": "A",
+        "text": "Uber property bits in your ledger."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. Like, in your air gaps, whatever cold storage you can. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "When it comes to, like, tribal. Tribal wars in the crypto space, I think, like. And honestly, even some bitcoiners will point at this and be like, yo, that doesn't work in the fullness of time. Right? Like, I think Nick Carter and Hasu were famous bitcoiners, and Nick Carter Carter. Still a big corner, you know, but they'll point at the supply cap and be like, yeah, eventually you just drive off the cliff with that. And so some north stars actually explode, if you will, before they actually get there. Right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Not if you have inscriptions. And I guess, get it up, man."
+    },
+    {
+        "speaker": "A",
+        "text": "Inscriptions break and solve everything. Okay, so what are some of the more important conversations going on in Solanaland these days? Because there's the governance conversation, but what else is there?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think the trade offs with fixing bugs and improvements versus fire dancer shipping faster. Those are real hard questions, because I think we have some obvious flaws that are nothing that haven't caused a catastrophic failure yet, but stuff like the storage fees are hard coded, and as the price of soul goes up, it becomes more expensive and then impacts developers. And at some point, the easy solution is, okay, there's a governance effectively hard fork process to lower the hard code number until the actual solution is shipped. After fired answer, it's just like, engineers don't like that because it's a, we know the bug, we want to fix it. So there's this need to fix the wrinkles and stuff, but you also have to coordinate. So I think tons of discussions like that are basically all swirling around. Like, I know what the problem is, how do we solve it? But how do we also make sure that fire dancer ships? Because having to me, in my mind that reducing the single points of failure of the code base is the most important thing right now to really, how."
+    },
+    {
+        "speaker": "A",
+        "text": "Would that thing actually, like, how is that a single point of failure? The storage costs."
+    },
+    {
+        "speaker": "B",
+        "text": "No, like, the not having, like, the single Solana code base is a single point of failure. Having fire dancer is the highest priority. Right. So, like. But fixing problems in the runtime requires both teams to solve them. And, like, us, you know, like, even though we know what the problem is, if we're like, okay, there's a solution, it'll only take six weeks to implement, but then fired answer is going to be six weeks later."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And then the worry is that we prompt that, that six weeks of time is a six weeks longer amount of time in which there's a single Solana client with a potential, like, service area for a catastrophic bug. Understood."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "So my view is that, like, we do the alignment conversations now, we have the design, the North Star. This is how everything should work. But ship fire dancer as fast as possible and then start doing the work. And that's okay. I think, for everything that crypto needs this year, I believe Solana is scaled to meet the demand. So my view is that we can delay the improvements until fire dancers out. But it's really good to have the design discussions now poke all the holes in them and, like, that would actually be awesome if we had did all the work that we were supposed to do three years ago, but we can do it now and have a really good design that everyone agrees on."
+    },
+    {
+        "speaker": "A",
+        "text": "Wouldn't it be good if you have some of these updates that call it low hanging fruit that everyone has an agreement on. Wouldn't it be good to ship fire dancer and then be like, okay, we have this agreement on this direction for this smaller code change, but now we have two systems that we need to update. It can be testnet for governance across multiple clients."
+    },
+    {
+        "speaker": "B",
+        "text": "Yep, that's basically the process that's happening. And the far dancer folks are awesome. They're developing some of these optimizations on their own because they kind of see where we only went halfway, and they're like, why didn't you guys do that? And we're like, well, we had to ship. We wouldn't be talking to you. And then they're like, okay, so we'll do the R and D and figure out how fast the difference is. So it's cool to see them do all this work."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so let's. There's, there'll be a handful of these throughout this conversation, I think. So I'll pull out. Here's an ethereum perspective on firedancer that maybe you can debunk or provide the alternative opinion or perspective on. When I see jump crypto making a fired from making a Solana client, and the Solana community is like, oh, fire dancer is the best thing since sliced bread. And jump crypto, who is famously extractive, totally, probably the right people for the job, because you want the high frequency traders to make the high frequency client. That makes total sense. But then from the alternative side of things is like, I don't want these people who are masters at extraction to build the extraction client. That gives me the heebie jeebies. What would you say to this?"
+    },
+    {
+        "speaker": "B",
+        "text": "First of all, in the world of finance, the exchanges are the extractors. Somebody like jump pays an arm and a leg to operate at an exchange, and they put their capital at risk. And with their brainpower, they try to minimize latency of all the world's information, all the noise, find all the right signals, and as quickly as possible, get them to the exchange. And the exchange has just been there because somebody's uncle traded pork 1000 years ago, or whatever. They're not doing shit. In my view, there is value creation happening at the jump level. And I think what these systems that we're building, the permissionless open marketplaces do is they equalize the access. Now, me, as a hobbyist, I can compete with JAMF without having to pay the exchange in arm and alert, so that, I think is cool and will actually both jump, I think, wants this because they're competitive. And two, I think it'll actually compress the fees all across finance, because there's more competition. The other side of it, I think, is that it's all open source code. Literally, it is a bunch of Apache 2.0 code. You can go look at it. There is no magic if jump do this, and then everyone has access to it across the ecosystem and across a crypto. So all the optimizations they do can actually, if they're interesting, apply them to Ethereum. So from my perspective, I think it's kind of silly. It's just the silliest arguments. It's just code. It doesn't matter who wrote the code. I think the a more interesting one, is there a direction that jump can influence Solana to where it creates an environment where there can somehow be more extractive?"
+    },
+    {
+        "speaker": "A",
+        "text": "Is that a governance?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, direction of the protocol. I think governance is not going to be stake weighted, but I think core engineers have a lot of influence. Linus has a lot of influence on Linux, even. No, he's just one dude. He gets to make a lot of big design decisions. Is there a directional place where jump could push Solana to where it somehow gives an advantage to incumbents? Jump and citadel and displace his hobbyists or whatever? That's a more interesting question. And what is that technology choice? What would that even look like? Right. So I think this is where I think the community should be serious about what are we building? Does it actually improve access and stuff like that? I think it's pretty unlikely just talking to the jump folks. They're hardcore engineers. I don't think you can even convince Kevin Bowers to. Okay, guide the architecture towards this place where we will extract more value. Wasting my time."
+    },
+    {
+        "speaker": "A",
+        "text": "They're not like puppet masters."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think that's, like, very far fetched, but I think it could accidentally get there. And that's a more interesting discussion. And we should be constantly thinking about it. Is the technology that we're building, does it allow me? When I graduated college, I was trading on all of these dinky exchanges, but my connectivity sucked. I didn't have access to data. Everything was terrible. I don't want that to happen to the next anatolia. Right? Like, maybe that guy figures out and, like, does a better job than jump. Cause, like, this is where innovation comes from, is people that don't know that they're competing against the best. Right? They just. Yeah. So, like."
+    },
+    {
+        "speaker": "A",
+        "text": "So I do get. I get. I do get the argument that, like, uh, with the appropriate tech platform, the middle ground, the. The arena, if the arena is appropriately, like, engineered and architected in a way, that, like junk capital only has so much more of an edge over, like the average Joe schmo, that's great. However, they will have economies of scale. They employ people to do good work, to do good jobs, to succeed at their jobs. And so it's great that we are taking down the silos of exchanges and we are making those decentralized and open. And so that centralization force, that power capture, extraction venue, is eliminated and now distributed through a more decentralized ecosystem. That's great. But then it just creates a new kingdom maker, right? Which is whoever can play those markets the best. So now that the markets, what, the walls around the markets are down, but the players are now the new leaders, if you will. And so it's kind of like."
+    },
+    {
+        "speaker": "B",
+        "text": "But if they're doing real work, right? If they're like, looking at all of the world's information, synthesizing it as fast as possible, and like, picking the highest priority things and pricing it correctly, and like, if, if they're doing the work, why shouldn't they earn some of the return? Like me, as a hobbyist, I can do that work too, right? And I can find, because the world is so big and is massive, and it's a very long curve of events that happen. There's no way jump or anyone else can capture all of it. It's just too big. I always believe that I could always find an edge if I work hard enough, I could compete with them on one particular segment of the market, beat them, and then grow my own business. Right? And then eventually get to their level to where I don't spend time on the little edge cases and worry only about the big markets that I care about. I think that's just normal competition. As long as the access is free and open to everyone globally, I think that's fine. At least I don't see a fundamental problem with it. Or one that one that defeats the purpose of open permissionless networks."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I guess the concern is a point taken for sure. I guess the concern is just increasing the scale of capital, begetting capital. How fast does the best trader on Solana accrue more rewards faster than the medium trader on Solana. If that gap is large, then we're concerned. But if that gap isn't that large, and then to what you're saying, just like, well, at some point they are doing real work, they are shifting the state of Solana to map the state of the real world. And that is valuable."
+    },
+    {
+        "speaker": "B",
+        "text": "We'll see. Right. I think folks that are trying to think about how do they capture? I mean, this is like the problem. How do we capture maven the protocol? Right. People trying to find solutions to this. I think it's unsolvable. So you're going to have, I think, the Ethereum approach, which is through crypto economics and auctions and a slow chain that can run this. And I think you're going to see the Solana approach is like physics. How do we make the chain so fast that it's physically impossible for information to travel around the world? And then you have localization and the physical forces basically force a certain fairness. I can submit my transaction to the block producer that's closest to me, and that means that the amount of information that that thing can evaluate is only local to me and it doesn't have full control of the global state, no matter what happens. So can we cut the latencies that low? And if we can, then it'll be cool to see which one's better. Maybe Solana is worse. Maybe Ethereum captures more value for Ethereum, but the prices to the users are worse. Who knows? I don't know. We'll see what happens."
+    },
+    {
+        "speaker": "A",
+        "text": "I think that is a pretty solid way to differentiate the strategies between Ethereum and Solana, where Ethereum is trying to maximize in protocol value capture. Whereas Solana. Maybe this will be my description. Correct me if I'm wrong, but Solana is trying to outrace Mev. It's just trying to go faster than it. The first thing you learn about Mev is that there's actually no eliminating it. You can only just transfer it elsewhere. And Ethereum is like, well, we're going to go be slow and expensive and we're going to capture all of that value and it's going to be placed into ether. And ether is desired to be this highly decentralized, distributed asset that everyone has access to. One of the easiest things you can do in crypto is buy ether. And all of a sudden you have exposure to Ethereum fees. And Ethereum, Mev and Solana on the other side of things is like, well, we're just going to have block times that are so incredibly fast that someone captures it. By the time that that information permeates to the other side of the other side of the world, which does, one thing I did learn is small blocks, fast block times is actually a mechanism to lower total mev, but then it just kind of displaces it into latency games. But I think the Solana theory or Solana strategy is that, well, those latency games will happen in a local part of the globe. And those games won't be global games, they'll be local games."
+    },
+    {
+        "speaker": "B",
+        "text": "And those people didn't work. They're racing. Right. And then if the message bus that they're all synchronizing on is the fastest one there, then it's creating value for the whole world. Because then if I'm on the other side of the world, I get this reference point that's most trusted. And in theory, if the way that this message bus is really valuable, the token that, you know, prevent spam and this message bus should accrue some of the value. But again, I don't know. We'll see. This is like, I think the hardest part is, like, figuring out what happens when these systems scale and, like, really take over real finance. Like, right now, what do we have, like, dog coins and nfts and inscriptions? And it's almost like, honestly, it's the perfect amount of risk. It's, like, risky, but we're not risking the global economy. There's enough skin in the game that everyone's taking it seriously and trying to do their best job, but it's still humans writing software. It's not going to. Doesn't matter if dog money fails or."
+    },
+    {
+        "speaker": "A",
+        "text": "Not, it is real capital, but at least inside of it, it's in a doggy container."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, exactly."
+    },
+    {
+        "speaker": "A",
+        "text": "Not a pension container."
+    },
+    {
+        "speaker": "B",
+        "text": "Yep. Yep."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so the, what does. So the incoming bull market, which I think everyone has assumed that we're getting Solana activity reaching new heights. I think pretty close. Yeah. Does the future influx of a bunch of new users scare you?"
+    },
+    {
+        "speaker": "B",
+        "text": "So we had 2 million active accounts with Stepn during its peak. And what I learned is that these kind of hyper economically incentivized users have a steep onboarding and then a steep drop off if the activity they're doing is not creating daily value or something like that. And these economic kind of bursts of. You'll have. What's cool is that I think these users are basically already crypto users. They all have seed phrases. And you can see that once somebody figures out how to deal with any wallet, they can switch relatively easily. Their mental model is already set up for this. And this is what I believe is the key part of the growth in crypto industry is how many people figure out a seed phrase is the total number of addressable users. After that, it's just, I think the switching costs of somebody installing an extension, one or the other, are pretty minimal. So I think you can see that all the pieces are there. And if the only thing that we figured out are speculative, economically incentivized games. I don't think it'll last. But if we figure out some real world use cases that create value for those users, they'll be stickier and they'll stick around. And I think the latter is still unproven. And I hope that this bull cycle is the one where real world applications get some traction, like a payments thing or something. Helium I feel like is infra that. I feel like the users that are using it are not going to be crypto users. They're helium network users. I think the idea that you can get tokens for creating a quality of the, of the map is at least enough to onboard them to a wallet and get a seed phrase. But I want a venmo. Why can't we have a crypto venmo that's global, everyone's sending each other real currencies, euros, dollars, and it works something like that, where it's useful. This is my biggest story. I look at the numbers, I'm glad it's happening. I'm glad that the network's not falling over while it's happening, even more that the fees are not spiking. That's pat myself on good engineering, but we need to see real world use cases that I feel are sticky to the point that users aren't going to leave."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I would say that's the identity crisis that I'm seeing unfold for the entire industry in slow motion, is everyone is realizing that it was really fun to build insular apps for almost a decade now. And also, so we've gotten every single person nerd sniped about crypto who would ever be nerd sniped about that. And now if we're ever going to, like, you know, get further reaches, it has to take a new kind of app. Um, but that's not even like a Solana Ethereum, you know, Polkadot Cosmos conversation. That's just like, yo, what can we really do with crypto conversations? And there's different perspectives as to, like, how far crypto can go, uh, in terms of its utility."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "Have you. Are you a reader of Polenius blogs at all? You know, plenty. They're more ethereum aligned."
+    },
+    {
+        "speaker": "B",
+        "text": "I've read his blogs. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "So they think that the case for crypto use cases is actually like much smaller than what everyone in cryptoland is giving credit for, because they're like, okay, look at the utilities. It's bitcoin and ether store values, it's stablecoins for payments, and that's about it. And everything else."
+    },
+    {
+        "speaker": "B",
+        "text": "But isn't he arguing for a million l two s as well?"
+    },
+    {
+        "speaker": "A",
+        "text": "In the same breath that I don't, I can't remember a specific blog writing about that, but I wouldn't be surprised."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "I think he might be more in the one fewer number of larger l two s. Like one, like a power law of layer two sdhe. But I think he is, I think they are definitely like an app chain thesis person, but more for like, I think gaming chains. I'm starting to put words in their mouth. So like, games get their own chains, for example. But beyond that, I think it's like power law distribution for layer twos. Anyways, the conversation I was bringing up is just like, I think crypto is kind of, and it swings between pendulums of like, optimism and pessimism. Right? Like on the optimistic side of things we have like, oh, we can tokenize everything. We can tokenize blockchains and supply chains and we can map the world. And there's going to be token, everything's going to be a token, token economy. Token economy. And then on the other side of things, it's like bitcoin maximalism, extreme conservatism is like, no, there's only one blockchain. It does one thing, which is produce bitcoin. And bitcoin is money. And all other utility is just like a complete farce. And I think depending on where you fall in this spectrum, you kind of find yourself in different ecosystems of crypto. And I would definitely place Solana on the more optimistic version of the crypto utility."
+    },
+    {
+        "speaker": "B",
+        "text": "Hyper optimistic. Yeah. I feel like if the western world doesn't accept crypto as an industry, Solana's worth, it's useless. No one's going to care. The only reason to have a high throughput, low cost chain is if it is adapted at the consumer level to normal voting citizens use it on a daily basis. Otherwise, what's the point? I feel like, yeah, I'm hyper optimistic, I would say. I feel like legally, it'll be basically enshrined and we'll have some way to operate and launch decentralized systems and all this stuff will happen. Every bank is going to have a stable coin and yada, yada, yada. But like, yeah, I think, I don't know. I think, like, if I also think in that world, something like bitcoin or the ultrasound money like narrative where you have like, the cockroach chain is really important because it kind of forces the question, like, if you, if it's, if, if the, the cost to shut down bitcoin in the western world is orwellian. It requires massive surveillance and interruption of normal people's lives. It's too far politically difficult. And that forces the question for people to be like, okay, fine, here's your box. Go do it."
+    },
+    {
+        "speaker": "A",
+        "text": "Are you saying that people are realizing that they'll never be able to shut down bitcoin, and so therefore, well, if we're not going to shut down bitcoin, we might as well just, like, keep ethereum, and then we'll keep Solana and we'll just keep all the less hardened ones, too."
+    },
+    {
+        "speaker": "B",
+        "text": "I think they can shut it down. But if it requires so much political capital, right, such a huge invasion of privacy and individual liberty that it's not politically viable, that means that it's not going to be shut down because we still, I believe, live in, like, a fairly representative world. And that forces the conversation to be like, okay, if, like, it's not practical to shut down bitcoin, then what are the green lines, right. For all this stuff? So, like, that's kind of like, I don't know, Solana's cheating, right? We're like, okay, bitcoin survives. Survives. Here's a really fast blockchain that gives you trust minimization, but requires data centers and all that."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it's like, Solana is like the third kid that the two older kids like, are watching their parents just treat way nicer than they were ever treated. Bitcoin and Ethereum. And they're both like, why aren't you, why aren't you bullying the third kid as hard?"
+    },
+    {
+        "speaker": "B",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "A",
+        "text": "One, like phase change in Ethereum land or like development milestone of Ethereum. I always kind of like, look at these systems as like literal kids, children sometimes like bitcoin older brother bitcoin. Bitcoin's like, probably in college, maybe about to graduate from college. Ethereum is like entering college. Solana still middle school, high school somewhere. But Ethereum went through this one development milestone when it had its whole tornado cash ofac moment, where that was a big growing up moment for Ethereum. It was no longer dog tokens and ponzi games. It was like, you are infiltrating the space of the most powerful office in the land, which is the Department of Defense, Department of Treasury, threatening the dollar, threatening global security of the United States. And then all of a sudden you saw the OFAC ruling go out about tornado cash is now, you can't touch that. And then we saw like 85% censored blocks on Ethereum inside of a span of a few short months. And all the bitcoiners are like, oh, told you Ethereum was totally, like, not ready to fight nation states. And then the percentage of OFAC censored blocks on Ethereum has now been down only ever since that moment, down to 33%. And now I would call it that. That's an Ethereum's review mirror, successfully, like, past that milestone. And, you know, watching Solana enter its economics and governance phase of its development, which is the part that, like, really interests me. Eventually, I'm like, well, if. If all of this Solana community wants Solana to have the successes that they want it to have, it will one day enter that very big conversation and conversation of, like, threatening nation state powers. How close do you think we are? And what do you think the Solana system ecosystem is ready for this? Like, what do you think about this?"
+    },
+    {
+        "speaker": "B",
+        "text": "I'm not ready for it because I'm just an engineer. I have no clue how to deal with this. I will be like, man, that's the stuff that, like, really churns my stomach that I'm terrified of. Cause I don't know what to do. I would, like, reach out to coin center and be like, what do we do? Help. I think, like, at the same time, I have very, very strong believes that, like, the west where we live, it's a place of freedom. Like, my parents fled the fucking Soviet Union, and, like, I want to protect it, right. Against bad actors. I will do everything I can to stop bad actors from preventing me to pursue happiness in the United States. It's like, a beautiful thing to be able to work on whatever I want and do learn whatever I want and say whatever I want in the US, man. Yeah, I don't know. These are the really hard questions. I hope it's that those decisions come as far into the future as possible."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, if the trajectory maps on Solana is one cycle behind ethereum, Ethereum is one cycle behind bitcoin. If the trajectory continues, it would generally, if enough stable coins find themselves on Solana and there's enough apps with holes in them that have high TVL, and it's going to attract the dubious actors such as the Lazarus group, which is going to. Wouldn't that happen at the tail end of this bull market?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I hope not. This is terrifying."
+    },
+    {
+        "speaker": "A",
+        "text": "We can brush that one under the rug and recircle back around that in, like, two years."
+    },
+    {
+        "speaker": "B",
+        "text": "Yep."
+    },
+    {
+        "speaker": "A",
+        "text": "One thing that I've noticed going on is the bonk token. Actually, let's start with bonk. What the hell is bonk."
+    },
+    {
+        "speaker": "B",
+        "text": "This was a project launched by Nam and a bunch of random ecosystem devs and participants. Right? When the whole narrative storm was happening last year, like, literally one year ago, d gods left Solana. Magikina announced they're going multi chain. Fandom announced they're going multi chain. All, like, in one week, right? Everything was in the dumpster and these kids launched bonked, and, like, it was a hit. Like, it's a dog coin. I don't. I mean, like, the only purpose is to, like, send somebody 669 420 bonk and laugh about it. Like, what else? It has no other purpose beyond that, right? So, like, but for whatever reason, I think maybe because it was launched at that worst possible moment and people had nothing else to do, it just was kind of like, okay, I guess we'll do bonk. And that became a hit."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't know, in response to people leaving the ecosystem, it was like, hey, the people sticking around, I don't know."
+    },
+    {
+        "speaker": "B",
+        "text": "I honestly don't know the motivation. But it felt like, it also felt like the bear market was already well underway, right? So people were kind of itching, looking for an excuse. And the events like the FTX collapse and everything, it was just such a bottom that maybe, like, I don't know, maybe that was the motivating trigger. I don't know. I don't fully comprehend how these things work, how dog coins work."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so, but why did bonk become bonk? So they made bonk, but, like, why did it become what it is?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I think everyone was experiencing very shared trauma all at the same time. And everyone was plugged in online looking for the next terrible news to drop. Right. And nobody else had anything else to do. You just had this dog coin. So I guess we're doing. I don't know. It's bizarre how these things catch virality. What makes something viral, I think, is like, I don't know. I'm an engineer. If I knew, I'd be doing something else."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so how, how did bonk permeate throughout Solana? Why do so many Solana people have bonk?"
+    },
+    {
+        "speaker": "B",
+        "text": "They did a big airdrop across all the NFT communities, and Solana users are pretty NFT heavy. Even I have bought nfts and stuff. So they did a really good job filtering for Sybils and looking at active people with nfTs, incredible communities and stuff. Did this whole distribution process, and for whatever reason, it just didn't go to zero. I don't know why. But that gave people this influx of, oh, this thing is worth something, and it's kind of happening, and it caught fire. I don't know why or how, but it got a little virality a year ago, and then everything else, everything was contracting rapidly after that. I think we kind of survived that moment. Like Vitalik saved Solana with that tweet or something like that. It was like Vitalik and Bonk at the same time happened and kind of breathed some life into us long enough for devs to go start shipping more products. And they just continued building integrations into every defi marketplace, every NFT project, and kept talking about it, and the community just wouldn't die. And I think as mad lads happen and backpack launch and all the announcements around breakpoint, you just saw that the ecosystem was alive. I don't know if that's the reason why Solana got back in the news or in the positive cycle, but that's the only explanation that makes sense to me, is the devs shipped a bunch of products. They attracted users, and that starts the ball rolling."
+    },
+    {
+        "speaker": "A",
+        "text": "So, yeah, the meme was just memey enough with the right amount of fundamental, because it seems like bonk has a lot more of the spirit of Solana in it than Shibu Inu has anything about Ethereum. The Shibu Inu community and the Ethereum community are like. Those Venn diagrams don't overlap, but the bonk and Solana ecosystems, those are pretty strongly overlapping."
+    },
+    {
+        "speaker": "B",
+        "text": "I think it's because the devs are plugged into the NFT developers. And a lot of the developers in Solana, there's two groups, the Jerry's ellipsis people that are the super Defi nerds and Mev nerds like Cheeto. And then there's the NFT people that are metaplex and all these other monkey business and d gods even. But they're all building web tools and a bunch of stuff that are fun for people to use. And there's some intersection between them, but there's clearly two different kind of devs. And I think the bonk folks were really plugged into both, and they were able to just kind of connect both of these."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't know, the campfire between the two parties."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, exactly."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. But there's a bunch of bonk on all the Solana phones. How did that happen?"
+    },
+    {
+        "speaker": "B",
+        "text": "That was one of the theories that we had, is that we basically get NFT products. Everyone gets this phone. It's a pain in the ass to ship apps to the big app stores. But if the phones have NFT drops and stuff like that, then the people that get the phone will self select to be the people that care about those things. That means then developers can ship apps to a target rich environment, even though it's small, but a target rich one of NFT consumers and folks like that. So we talked to every NFT project and klanos and we talked to the devs from bonk. Can you guys do a small airdrop? It was like $10 or something at the time."
+    },
+    {
+        "speaker": "A",
+        "text": "Just as a perk to have the phone."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, there was not like, there's no, like, master plan there to like, oh, the price of bonk is gonna pass the price of the phone."
+    },
+    {
+        "speaker": "A",
+        "text": "And so has that happened because, okay, so, like, during the bear market."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, during the bear market, nobody cared."
+    },
+    {
+        "speaker": "A",
+        "text": "Nobody cared about."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, bunks worth nothing. We were selling like 20. It was weird. We're selling like 20 to 30 phones a day, kind of trickling them out of. And it's like, weirdly, because it's like, okay, there's traction. Most DeFi protocols are not gaining 20 to 30 users every day, but you need to sell 20,000. That's going to take years to get there."
+    },
+    {
+        "speaker": "A",
+        "text": "So didn't this Solana phone project sunset formally and then the bonk token price jumped?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, we had, like, the team, we didn't sunset it. The team is there. We kind of went into cockroach mode. How do we figure out what to do with it and get people excited about it, but spend the least amount to extend Runway for that team? What happened, I think is right after breakpoint, sales doubled or tripled. So we were selling 50 to 75, which is great, but it was still pretty slow. And then Bonk took off. And then I, for people realize, oh, man, the bunk airdrop is now worth half the phone. I think that's like, okay, the phone is effectively half price. Or if you have some bonk, you could literally sell it by the phone and get the phone to equalize. So you still had to go spend money to get this phone. So even if it's worth 1020 bucks, it's going to take ten days to deliver. Rationally, I don't think any person would be like, I'm going to get 10% more bonk in ten days."
+    },
+    {
+        "speaker": "A",
+        "text": "It's not about the Arb of bonk."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it never went off twice as much or ten x as much as the price of the phone to where the Arb makes sense. It was maybe ten to 20% more. So enough people got it or got excited about it to sell out. So in one day, we sold 15,000 units, which is bizarro."
+    },
+    {
+        "speaker": "A",
+        "text": "What was like the next highest day that you had prior to that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, like maybe 50 or 75 or something. No, like, I think we sold, like, at the start. We sold like a couple hundred on the first day. What was funny is that, like, literally, I was on Laura Shin's podcast earlier was like, yeah, we only sold 2500. I don't know what we're gonna do next. We're trying to figure out. So, like. And then there were, like, all these articles, Solana phone is a flop. And literally three days later we sell 15,000 of them. But now I don't know what to do either. I think this is the big question. People are treating it as an NFT, kind of like a club, and there's now devs shipping apps. The interest in terms of shipping apps is ten x. The amount of airdrops that folks are receiving is really picked up. So that thesis is working. To compete with Apple or Google in any meaningful way, you need to sell a million phones. Is this enough of a signal to go try to. The next stage would be 100 to 200,000. Is this enough of a signal to try to do the next stage? Honestly, prior to this, percent chance of us getting to that level was 0.1. Now it's like 5%."
+    },
+    {
+        "speaker": "A",
+        "text": "Pretty good."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, massive improvement. So it's probably worth it for us to continue, but we still have to figure out what that looks like, how long it's going to take, costs. What's the form factor? Shipping hardware is awesome. When you work for a year and you optimize and you build this very complex device and you can hold it in your hands like a real product and you think it's awesome and you get it out and there's some reviewers, like, it's mediocre."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. The mhkbu, that youtuber. Yeah. Solana phone. It's bad. I remember that."
+    },
+    {
+        "speaker": "B",
+        "text": "So it's great because it's so much work and it's so intricate and it's like all of human civilization is built on all these technologies for you to, like, ship this phone. So it's really, really cool. But, like, you'll always just like, in one review, I'll be like."
+    },
+    {
+        "speaker": "A",
+        "text": "If the Solana phone does take off as a result of this bonk airdrop that's associated with every single phone and it also meaningfully disrupts Apple or Google, it will be the greatest, most, like, facetious crypto story I could ever have written. You couldn't have written that."
+    },
+    {
+        "speaker": "B",
+        "text": "Yep. Yeah. It would be bizarre. We live in a simulation, then I think that's definitive proof."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so wait, so how does the airdrop per phone work? Because the airdrop of bonk supply eventually runs out. So, like, some phones won't have bonk in the future? Or what's the details?"
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, like, if we ship another phone, it'd be another device. Like, you would have a different Genesis token, be, like, a different product. There's the 20,000 sagas that get made. That's it. That manufacturing line has been shut down. We can't even ship anymore. Okay. So we'd have to build another product and then figure out how that thing's going to work. But the goal, I think all the."
+    },
+    {
+        "speaker": "A",
+        "text": "Solana Genesis funds are sold out."
+    },
+    {
+        "speaker": "B",
+        "text": "Yep."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, because you said you sold, like, 50,000 in one day, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, 15."
+    },
+    {
+        "speaker": "A",
+        "text": "15,000. Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "And so. Oh, so the D gens just bought them up to the limit."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's all sold out."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, amazing. All right, well, congrats. Congrats for selling out the Solana phone."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Bizarre. Bizarre. Yeah. Solana phone is sold out. It was not a flop. But now, like, I think, yeah, now we have to figure out what to do next."
+    },
+    {
+        "speaker": "A",
+        "text": "Right? Because, like, I think if you're going to make another phone, you have to ask, like, can you get lightning to strike twice? Because, like, you sold the phone because of the bunk airdrop, not because of the phone. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "But the question is, like, if you have an app store enough, devs will ship to where the probability of lightning is 100%. Right. Like, that's kind of like the theory. And having an app store that's crypto first is like, we own our own destiny, right? We're not beholden to the apples and googles. You can do whatever. It's awesome. This is the biggest unlock I think we could possibly have. So if it's possible, if you can get the users to actually get the phone, use it for crypto stuff, and it'd be really, really cool."
+    },
+    {
+        "speaker": "A",
+        "text": "I think one of the conversations that I've seen happen in a number of different places, I think the first time I heard this was just getting dinner with John Charbonneau, and he just kind of gave me the thought experiment of, like, imagine if friend tech was built on Solana, not bass, and imagine what that would have done to the Solana narrative when friend tech took off. And this was, like, two months ago, so this was a while ago. And listening to that thought experiment, I'm like, oh, yeah, imagine how loud the Solana community would be on Twitter. If it was friend tech on bass, not on Solana, the entire narrative of Solana would have just pivoted in an absolute heartbeat. And that was like three months ago, two months ago when Friendech was a thing. And then I was also having a conversation with Chris Berniske, who's somewhere along those line, same lines. And this was after sole price goes from 20 to 70 something dollars. And the narrative shifts, the meta shifts towards Solana. Where he goes, yeah, yeah. Solana just is a pretty strong bet for where a breakout consumer crypto app actually lands in this next wave of adoption. Like if it's, if it's going to be one space where that consumer app is built, the Solana is the best, like risk toward to place your bets. Uh, and so it would be great, Anatoly, if we had a breakout consumer app, because we haven't really had one. We kind of had one with Friendtech and now it's kind of like died. Uh, what are your odds that the crypto industry, Solana or not the crypto industry, produces a breakout consumer app and like say the next like two years?"
+    },
+    {
+        "speaker": "B",
+        "text": "I'm an optimist. I'm going to say like 90%, 95%. Okay. I think these next two years are going to be pivotal and I think you should see a consumer application that's legitimate."
+    },
+    {
+        "speaker": "A",
+        "text": "Does step in count as a legitimate consumer application?"
+    },
+    {
+        "speaker": "B",
+        "text": "If it stuck around? I had this theory that maybe people are like, basically if Im paying my trainer $50 an hour that I would rather use the incentives that Im getting from the dopamine hook to the kickers and trading and stuff for me to run. If those are basically equivalent to what I get out of a trainer, then some segment of the population would just continuously use step in. But I dont know, it feels like that probably didnt fully land. But there was a theory. The value that I'm getting out of it is the exercise and the motivation that I'm getting out of it is the crypto games that I get to play with the NFTs and the tokens and stuff, because that's pretty engaging for the brain. If I wake up and look at the prices and the competitiveness, I spent countless hours on this, on ultima online, trading random resources that nobody cares about. If you could get those same hooks into somebody and force them to work out, it's a value add for the world. But I don't know if that play didn't seem like that played out. So I don't know if that's the play to earn, learn to earn kind of things are the right meta. We'll see. Who knows?"
+    },
+    {
+        "speaker": "A",
+        "text": "Token inspired consumer apps always seems like it seems backwards where you can't inspire human behavior based off of token incentives because then it becomes gamed. So it has to be something else. It has to be something a little bit more sustainable, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Random, boring, cross border payments. Euro, USDC, I don't know, that would be great. Venmo, that's international. That works well. That would be cool."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, I want to turn to Solana economics because we've actually seen some Solana fees pick up and actually be pretty sustainable. Where do you find Solana in ethereum? When I got into ethereum, the monetary policy was we issue five ether per block and then it got changed to three, and then it got changed to two. And then EIP 1559 was introduced and then proof of stake was introduced. And that's the last update that there's been. If you had to map Solana's arc in terms of its economic sustainability, where are we on that arc and what's ahead of us?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think what's different is that a bunch of validators compete on commission for users at stake. They pick the lowest commission validator and they basically experience no dilution. But there is some dilution because a bunch of the tokens are unstaked. So those are the folks that are effectively paying this transfer wealth from everyone that's staking to unstaking. And validators take a little cut of that in between. It's hard to tell how much users are impacted because the cool down and warm up period in Solana is really fast. So it's like two days, Juan Epoch, basically. So even if you're like a big fund and you're trading, you would probably keep 80% of your soul staked and whatever you're using for trading unstaked, right? So then you're kind of experiencing minimum dilution or effectively, like, it's, for whatever reason, 69% of the tokens are staked. Right? Now, if everyone staked exactly 69% of the tokens, you'd be no delusion because you effectively, like, right? Like, it's all moving from one bucket to the same to every person. So, like, I think that pain is actually, like, managed by people pretty effectively because the warm up and cool down period is so fast on Solana. So, like. But, like, when I argue with you online, whether that, like on Twitter, the posts are like, there's not enough room to, like, explain the nuance of that, but, like, you're not wrong that inflation is a thing and it is deluding some people. But how much? I think theres a lot of nuance to figure out. How much of that is what I know is that a clear cost to the network is the hardware, every validator, every RPC note, all of those have to be paid with real money, just like you pay for electricity to mine blocks. But the difference between bitcoin, the cost of hash power, and the cost to run the Solana computers, a million x. But I think for the network to be sustainable, the fees that you get from running it have to cover the total cost of the hardware. And I think the fees right now are maybe 50 million a year. And the cost of the hardware, depending on the provider and all that stuff is maybe between ten to 20. So I think the fees have passed the cost of the hardware so that you can say that it's sustainable."
+    },
+    {
+        "speaker": "A",
+        "text": "Global cost of maintaining the Solana network is ten to $20 million."
+    },
+    {
+        "speaker": "B",
+        "text": "It depends how you count it. But if you took the cheapest possible, if you took the cheapest possible node 350 a month and you multiplied it by 3000 nodes, it actually comes out to around ten. But people are not going to take. There's lots of different other infra costs and people will pay for the more expensive ones. Maybe it's twice as much. It's also a bunch of nuance there. RPC nodes that magic Eaton uses don't need to be paid for by the network because they have a business that makes money off the state and they will pay for those machines and count it as an expense. But it is providing some security to the state to have those replicas. How you count all this stuff is complicated. How you attribute the earnings from Mav that Jitto has is also complicated because effectively any value that a block producer gets from the network incentivizes them to acquire more stake."
+    },
+    {
+        "speaker": "A",
+        "text": "Right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Right. So that could be all those incentives combined are like the positive stuff going into the network. All the costs are the negatives. I think right now the positives outweigh the negatives. But again, there's a bunch of nuance there. But I think ultimately these networks have to capture a lot more value to be competitive to profit per market cap with a tech company. If we have to actually compare those two things, unless you believe there's some other reason to value these things higher. I don't. I think ultimately there's got to be value created for the world. Sometimes risk free asset price at the treasury is equals total value of the system. I think that fundamental function works for everything. And where that value capture occurs in the future, I think, is if the network can handle many different hotspots, like thousands of them, concurrently, and then the economic costs of those hotspots go up. And the fees that you're seeing now in the network, if you go to Solana compass, you see that priority fees on the chart are now the biggest thing. Base fees you can't even see and vote fees are barely visible. They're still visible, but much, much smaller, smaller portion. So in a world where Solana is sustainable and is valued, and capturing value at a higher rate is a world where there is lots of hotspots and the network can handle many concurrent hotspots at the same time. And those economics are captured by the protocol."
+    },
+    {
+        "speaker": "A",
+        "text": "And by captured by the protocol, do you mean payment to validators or burn, Sol burn?"
+    },
+    {
+        "speaker": "B",
+        "text": "This is the big question is I don't know if that matters. I don't know. And I know a lot of folks in Ethereum want to do the burn, and there's good reasons for that. I don't know if it matters over the long term. This is the big unknown."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't know if it matters."
+    },
+    {
+        "speaker": "A",
+        "text": "I will say that all of the Ethereum people will say, hey, do this, do this, do this. And it will be very much in line with what Ethereum is. Why should you do the burn? Because Ethereum does the burn. And we have ultrasound and we like to look at that website. But the thing is, if you keep on listening to the Ethereum people, they're just going to tell you to become Ethereum at the end of the day. And at some point, that's not helpful, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "So the argument that the burn doesn't matter is that within the black box of the whole network, right, you have the negative externalities you have to pay for to run the computers, all that stuff. And then you have the positive externalities where I earn my paycheck from driving an Uber and then I used it to pay for the fees on the network. Yeah, but it doesn't matter if that fee is burnt or is distributed to everyone in the box or like what happens in the box, how those numbers move around do not change the weight of that box. It's like accounting in the computer. Who cares if you burn it or not or whatever? I don't think it matters at the end of the day."
+    },
+    {
+        "speaker": "A",
+        "text": "I think it doesn't matter at the end of the day to make the box function, whether you give it to validators or you burn it, the box can function in both strategies. But what you choose to do does change the output of the system. The whole Ethereum perspective is you burn it because ETH is money. The Solana perspective is like, you want to minimize that because Solana is like an applications platform and it's all about."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't care about the burn of the token. What I care about is that the fees don't spike without reason. So what breaks Solana is that because we don't have a layer two. Layer twos are not on the roadmap. You can build layer twos in Solana, but the whole point of a single unified state machine is that you don't need them. And if you have a single, if you have like Defi arbs, increase the cost to access the network to the. To have to outbid the cost of the Defi Arbs. It means that payments have to have a separate app chain, right? It means like. And I'm like, okay, well then just make them all celestial roll ups or whatever. I don't care, then it doesn't matter. I think if you can't solve the economics, the isolation at the economics level, then the premise of Solana doesn't work. But I think you need some burn to prevent weird spam attacks where validators spam themselves for free and can price out users. A bunch of stuff with 1559 is actually really clever ways to prevent that. But I dont know if you need the burn for capturing value because the burn is very, very different from apple getting dollars and hoarding those dollars that they can spend later at any given time to build more products. Ethereum doesnt have that dollar budget. When you burn the eth, cannot spend it in the future. Its gone."
+    },
+    {
+        "speaker": "A",
+        "text": "Thats not how I would describe it."
+    },
+    {
+        "speaker": "B",
+        "text": "If you save the ethnic, it's pointless to save it or burn it. If you converted to dollars, that would be interesting and different."
+    },
+    {
+        "speaker": "A",
+        "text": "The idea of the burn is that you burn the ether and then you give yourself tolerance to issue that ether again later."
+    },
+    {
+        "speaker": "B",
+        "text": "At a later date. You're in a totally different environment. And if shit hits the fan and everything is tanking versus a dollar, you're not actually hedged to be able to issue more. You're in a death spiral. And if you issue more, you die. The question on Ethereum shouldn't be do we burn the eth or do we give it to some validator or a public goods thing? It should be do we convert it to dollars and keep this other asset that is completely decoupled from Ethereum in case shit hits the fan."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, but you can't have that because these are trustless economic systems. That's like, well, that's what, like, the Terra foundation, the Luna foundation guard was like, yeah, we're gonna have, like, bitcoin, and whenever we need to defend the peg, we're gonna deploy the peg."
+    },
+    {
+        "speaker": "B",
+        "text": "The goal isn't to defend the peg. The goal is to pay engineers to, like, make it better later."
+    },
+    {
+        "speaker": "A",
+        "text": "You know Kevin Auki?"
+    },
+    {
+        "speaker": "B",
+        "text": "Huh?"
+    },
+    {
+        "speaker": "A",
+        "text": "Do you know Kevin Auocki?"
+    },
+    {
+        "speaker": "B",
+        "text": "Don't remember him."
+    },
+    {
+        "speaker": "A",
+        "text": "He's the founder of Gitcoin in the Ethereum ecosystem, and he made this, like, eIp proposal, like, awesome. Like, really awesome. Ethereum lore. He made this, like, ethereum eIP proposal to, like, have 10% of block rewards go to fund, like, public goods. And, like, how could you argue with that? Like, we, we can. We all love public goods and Ethereum. Uh, but it actually, like, created, like, a pretty big, not, not like civil war, because, like, one side very, won very, very quickly. But it was all about, like, the credible neutrality of, like, where we send the ether that's captured. And the idea is, if we send it to Gitcoin, well, then Gitcoin today wants to fund public goods. But what happens when Gitcoin just becomes, like, a vector for control?"
+    },
+    {
+        "speaker": "B",
+        "text": "Change it."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, but then you're changing too much, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, we have cryptography, which is the tool that the rest of the world, 10 billion people, are going to use to coordinate decisions. Much more difficult than where I, where the burn goes. This is like the magic."
+    },
+    {
+        "speaker": "A",
+        "text": "It's like a shelling pensteming, right? No, it's like, this is like the whole, like, cockroach chain file of Gadriel is the metaphor that Vitalik uses, which is like, yo, you don't mess with that because as soon as, like, you just solve that by changing it again in the future, all of a sudden you have, like, a political and governance system."
+    },
+    {
+        "speaker": "B",
+        "text": "But the whole point of, like, cryptography, right, what we're building is fundamentally is to connect 10 billion people, right? So they can all coordinate decisions instantly, globally, and, like, do much more, like, powerful things than, like, funding open source software."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think maybe an opportunity for some governance, though. So, like, there is like, yeah, we can all, we can find systems that are totally resonant with every single human. But, like, what's that one line is, like, democracy is the worst form of governance except for all the other ones. Like, one of the best forms of governance is, like, not having any government governance."
+    },
+    {
+        "speaker": "B",
+        "text": "Yep."
+    },
+    {
+        "speaker": "A",
+        "text": "And so that's the Ethereum perspective, is like, you don't mess with the block rewards, because that becomes a vector for political capture."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't disagree, and I would not recommend anyone try this on Salami because I think it's way too complicated too. But I think it's a missed opportunity, I think."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so I think this is, like one of the big dichotomies between the Ethereum perspective and the Solana perspective. And I would actually like camp, and."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't speak for all of Solana. This is just my opinion course."
+    },
+    {
+        "speaker": "A",
+        "text": "I actually think on this part of the spectrum, Ethereum and bitcoin are actually closer together than Ethereum is to Solana, where money is an app, and it's honestly one of the most important apps. This is part of the bankless thesis that we've been pounding around for a while, where we in crypto are here to make new monies. And so the Solana idea of. Do you have nonsense?"
+    },
+    {
+        "speaker": "B",
+        "text": "Disagree. I think Solana folks very much in the same camp, there was this, like, again, people started talking about, like, forking off the FTX estate, and it was, like, quickly squashed by everyone. There was, like, a instant immune response that, like, property rights are sacred. Whatever happens, happens, like, the state the sacred sanct, and we do whatever we can to preserve it. And that wasn't. It didn't come from me. I like, it literally came from the ecosystem. I don't think it would be possible for Solana to do this either. And I feel like it's a missed opportunity for somebody to think bigger and be like, the world is very complex. What we're building is actually to empower people to do very, very complex governance stuff. We can do it. It's just going to be hard and we can figure it out."
+    },
+    {
+        "speaker": "A",
+        "text": "Believes in property rights, because that's like a core tenet of crypto. If you don't have property rights in your block space, then what is your blockchain even for? But I don't see the same area of emphasis from the Solana community as being interested in money and the concept of money and its role in the world."
+    },
+    {
+        "speaker": "B",
+        "text": "That, I think is maybe a very nuanced way to look at it, but I think that. But the idea of collecting the fees and then spending them, at least to me, rubs against my idea of property rights. It feels like I'm being taxed, and then somebody else benefits collecting the fees."
+    },
+    {
+        "speaker": "A",
+        "text": "And then spending them, spending them on."
+    },
+    {
+        "speaker": "B",
+        "text": "Arbitrary governance decided things. Doesn't feel true to being a fully crazy property rights libertarian, which we all have to wait."
+    },
+    {
+        "speaker": "A",
+        "text": "So I would agree with that. So ethereum, ether collecting fees and then burning it, rather than deciding that this public institution is better than that public institution feels good in terms of no one's rights are being violated because everyone's being treated equally."
+    },
+    {
+        "speaker": "B",
+        "text": "Correct. And I feel like most of the Solana community would agree with that sentiment. Like, we all like to LARP as libertarians, right? But I think, like, reality is that, like, there's far more complex things in the world and, like, you want to solve them. And, like, I think cryptography offers, like, a way to, like, really transform governance and do all these things that we all dream about in the post crypto world. And, like, if we are too afraid to do them ourselves, there's no way the world is going to do it. It. So, like, at the same time, like, while I, like, agree, hey, text, don't do this, but, like, I wish somebody would do it. Do you really cosmos, people will do it? I don't know."
+    },
+    {
+        "speaker": "A",
+        "text": "Are you, like, advocating this as, like, a thought experiment, as, like, this is worth thinking about, or do you actually think, like, we could make a system of money that has governance as a component of it?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think if we did, it would be far more powerful than one without it."
+    },
+    {
+        "speaker": "A",
+        "text": "That's very keynesian of you."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think human intelligence. I am very optimistic in human intelligence. Human goodness, their ability to, given enough communication, come to the right decision. I'm very optimistic on that. I think it's a very hard problem to solve, and I wish somebody was solving it."
+    },
+    {
+        "speaker": "A",
+        "text": "It would be a first, I would say, for humanity to solve that problem."
+    },
+    {
+        "speaker": "B",
+        "text": "No, I think we've done it."
+    },
+    {
+        "speaker": "A",
+        "text": "Human governance over money. And governance is the meta problem of the human species."
+    },
+    {
+        "speaker": "B",
+        "text": "Us is not too terrible. Most of the places that we choose to live have pretty decent governance. There's definitely places that don't. But a lot of trial and error. People have figured out most of the best practices."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so this is what I was going to bring up with the whole, like, I think the Ethereum, again, you don't speak for Solana. You are one member of the Solana, perhaps a very important one, but a member nonetheless. This is where, like, if that, if that is like, a perspective to apply to, like, and I do see this in, like, broader solanas. Like, they're, they don't emphasize the role and importance of money in the same way that bitcoin exclusively does. And a large part of Ethereum definitely does. And because, like, the last time we had you on bank list, like we asked you, like, is sol money and you're like, soul's not money. And to us, I'm like, that's. That's the thing. We start there and we expand outwards, but without your base chain becoming money, then you don't have. You can't expand outwards from that."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So that I agree with you. I don't think it matters to Solana devs or community. If, like, if all the volume that was happening on there was going against rapt Eth pair, everyone would be just as happy. Like, holy shit, we got it to work. Everything's, like, working."
+    },
+    {
+        "speaker": "A",
+        "text": "Really?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "If ETH was the unit of account in Solana, you think Solana, you're like, nice, cool, great."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Cause, like, the message bus works. It's coordinating state. Everyone is, like, paying very low, cheap fees, and everything's working."
+    },
+    {
+        "speaker": "A",
+        "text": "Look, as an EtH maxi, I would love Eth to be the unit of account inside of Solana."
+    },
+    {
+        "speaker": "B",
+        "text": "That would be awesome. Whatever. Like, who cares? Like, it's like, no different than USDC. It's not like I'm, like, competing with Jeremy Allaire and money adoption. I want to help them."
+    },
+    {
+        "speaker": "A",
+        "text": "Is that, is this a minority or majority? What did you say of the Solana community?"
+    },
+    {
+        "speaker": "B",
+        "text": "Ooh, that's a good question. I don't know. This is a good question. I think people become token Maxis because a lot of the faith and all these things and what this technology can accomplish in the future are all wrapped into this one thing, and then it becomes, I think it's harder to build an NFT marketplace for whatever quacks that trade against USDC versus one with Seoul because you're trying to attract the Super Solana Maxis that are all, like, you have that. And this is where I think the money meme starts to roll, is that once you start building other functions on top and your initial customer base is, like, all the maxis of that particular l one, they're all going to use that token. But I don't fundamentally believe that there's anything I can do as an engineer or programmer to make that happen. It's a meme. I honestly think that if ETH was the biggest trading pair, the whole idea of Solana's blockchain and Nasdaq speed, that would be the narrative of meme. Nobody's going to talk about solas money and nobody does. I don't think you see that sentiment on crypto, Twitter, or solas money. I don't think much would change in the community if that was, was the result, which is cool."
+    },
+    {
+        "speaker": "A",
+        "text": "I think if there was more if ETH was the unit of account inside Solana. And when I went to tensor to go buy another mad lad and it was denominated in ETH, that would be the greatest Ethereum Solana handshake moment of all time."
+    },
+    {
+        "speaker": "B",
+        "text": "They could literally do that and do the trade exchange through Jupiter for zero fees."
+    },
+    {
+        "speaker": "A",
+        "text": "What's the fastest way to get Ethan Solana these days? Is it wormhole?"
+    },
+    {
+        "speaker": "B",
+        "text": "It's probably. Mayan bridge is like a wrapper in tupperworm hole that has nice ux, or like, I think Jupiter probably has kind of a bridge wrapper, too."
+    },
+    {
+        "speaker": "A",
+        "text": "Cool. All right. As soon as I see a marketplace with ETH, denomination boy is going to go shopping."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. Yeah, somebody should, like. Oh, man. I'll ask the tensor guys if they can detect if you have metamask installed."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, they can redenominate the ETH."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, redenominate an e. Check how much metamask you have, like how much heath you have, and past a certain threshold, you redominate."
+    },
+    {
+        "speaker": "A",
+        "text": "Right, right."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "We do have the tensor guys on in January, in three weeks. So maybe I'll just ask them then. Anatoly, when we hang up this phone and it's 02:00 p.m. on Tuesday, December 19, and what are you going to go do inside of Solana? What are you going to go work on first?"
+    },
+    {
+        "speaker": "B",
+        "text": "I'm writing docs, alignment docs."
+    },
+    {
+        "speaker": "A",
+        "text": "That sounds awful, to be honest."
+    },
+    {
+        "speaker": "B",
+        "text": "That's actually great."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm writing, writing alignment docs actually kind of makes it seem like you're doing some of the stuff that Vitalik does when he writes on Vitalik ca, which is just like broad vision, broad vibes, everyone else go implement it kind of strategy."
+    },
+    {
+        "speaker": "B",
+        "text": "It's more specific than that. I'm like, this is the final state of these specific implementation components, and this is how they should look like. And I think this is the effect it'll have. And it's not to say that that's the final state, but at least I'm giving people a north Star and a reasoning behind it. And they're super smart engineers. What's great is that they will hear me out. They will not listen to me just simply because I said something. So that forces that discussion and people will comment. These are what does Solana, the final state looks like kind of stuff. And you can go and read all this on Sol linked, which is this one. Dev built me a little web platform where I can charge people USDC. I use USDC as money to access my email and my blog. Oh, gosh, should I have it. I'll ask him to add eth. I will."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. It's not very cypherpunk of you to have USDC. I'm sorry, it's just this is the."
+    },
+    {
+        "speaker": "B",
+        "text": "Way that it is. Yeah, I will have access to my block and wormhole wrapped eth on Solana."
+    },
+    {
+        "speaker": "A",
+        "text": "Anatoly, this has been great. One last question for you. Lets see, if theres one thing about Solana that you would find is misrepresented the most by dumb Ethereum podcasters, what would it be?"
+    },
+    {
+        "speaker": "B",
+        "text": "Actually, things have gotten a lot better I think."
+    },
+    {
+        "speaker": "A",
+        "text": "Wait, about misrepresentation or dumb Ethereum podcast?"
+    },
+    {
+        "speaker": "B",
+        "text": "Both. I mean first of all, I think most folks in the space are actually not as dumb. There's really awesome people in the space, right? And I think what's gotten better, and this is the Ethereum immune response, is that people will initially reject everything just like bitcoin people. But then they're smart and curious. And then you stick around long enough and you kind of tell your story and everyone's like, oh, you got something interesting there. And then you start getting this exchange of ideas going and I think the criticisms have gotten way better in the sense that they're like, yeah, we need to fix this stuff and there's a plan to fix it."
+    },
+    {
+        "speaker": "A",
+        "text": "Cool. Well Antonio, thanks for coming on bankless today. I appreciate it my man."
+    },
+    {
+        "speaker": "B",
+        "text": "For sure. Thank you."
+    },
+    {
+        "speaker": "A",
+        "text": "Bankless nation. You know the deal. Crypto is risky, ethereum is risky, Solana is risky. Tech, stacks of this nature, they're all risky. You can lose what you put in. We are headed west. This is a frontier. It's not for everyone. But we are glad you are with us on the bankless journey. Thanks a lot."
+    }
+]

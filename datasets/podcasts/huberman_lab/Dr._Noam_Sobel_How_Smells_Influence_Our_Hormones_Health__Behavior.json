@@ -1,0 +1,1286 @@
+[
+    {
+        "speaker": "A",
+        "text": "Welcome to the Huberman Lab podcast, where we discuss science and science based tools for everyday life. I'm Andrew Huberman, and I'm a professor of neurobiology and ophthalmology at Stanford School of Medicine. Today, my guest is Doctor Noam Sobel. Doctor Noam Sobel is a professor of neurobiology in the department of Brain Sciences at the Weizmann Institute of Science. His laboratory studies olfaction and chemosensation. Olfaction is, of course, our sense of smell. Chemosensation is our ability to respond to chemicals in our environment. Today, you are going to learn some absolutely incredible facts about how you interact with the world and other people around you. For instance, you will learn that humans can smell things around them as well as dogs can. In fact, humans are incredibly good at sensing the chemical world around them. You also learn, for instance, that every time you meet somebody, you are taking chemicals from that person, either from the chemical cloud that surrounds them or directly from the surface of their body, and you are actually applying it to your own body, and you are processing information about that person's chemicals to determine many things about them, including how stressed they are, their hormone levels, things that operate at a subconscious level on your brain and nervous system, and that impact your emotions, your decision making, and who you choose to relate to or not to relate to. You will also learn that tears, yes, the tears of others, are impacting your hormone levels in powerful ways. You will also learn that every so often, actually on a regular schedule, there is an alternation of ease through which you can breathe through one nostril or the other. And that alternation reflects an underlying dynamic of your nervous system and has a lot to do with how alert or sleepy you happen to be. The list of things that Doctor Noam Sobel's laboratory has discovered that relate to everyday life and that are going to make you say, wow, I can't believe that happens. But then go out into the real world and actually observe that that happens in ways that are incredibly interesting. Just goes on and on. In fact, his laboratory discovered that we are always sensing our own odors. That's right. Even though you might not notice your own smell, you are always sensing your own odor cloud. And throughout the day, you periodically smell yourself deliberately, even though you might not realize it, in order to change your cognition and behavior. I first learned of Doctor Sobel's laboratory through a rather odd observance. That observance took place when I was a graduate student many years ago at UC Berkeley. At the time, Noam Sobel was a professor at UC Berkeley. As I mentioned before, he has since moved to the Weissman. Well, I was walking through the Berkeley campus and I saw people on their hands and knees, but with their head very close to the ground, and their eyes were covered, their hands were covered, their mouths were covered, and only their nose was exposed. And what I was observing was an experiment being conducted by the Sobel laboratory in which humans were following a scent trail. That scent trail was actually buried some depth underneath the earth, and yet they could follow that scent trail with a high degree of fidelity. It was from that experiment and other experiments done in Doctor Sobel's laboratory at Berkeley and at the Weisman, involving neuroimaging and a number of other tools and techniques that revealed the incredible power of human olfaction and humans ability to follow scent trails if they need to. And that, of course, led to many other important discoveries, some of which I alluded to a few moments ago. But you are going to learn about many, many other important discoveries in the realm of olfaction and chemosensation that have been carried out by Doctor Soberl's laboratory through the course of today's episode. And by the end of today's episode, I assure you that you will never look at or smell the world around you the same way again. Before we begin, I'd like to emphasize that this podcast is separate from my teaching and research roles at Stanford. It is, however, part of my desire and effort to bring zero cost to consumer information about science and science related tools to the general public. In keeping with that theme, I'd like to thank the sponsors of today's podcast. Our first sponsor is element. Element is an electrolyte drink with everything you need and nothing you don't. That means plenty of salt, magnesium, and potassium, the so called electrolytes, and no sugar. Now, salt, magnesium, and potassium are critical to the function of all the cells in your body, in particular to the function of your nerve cells, also called neurons. In fact, in order for your neurons to function properly, all three electrolytes need to be present in the proper ratios. And we now know that even slight reductions in electrolyte concentrations or dehydration of the body can lead to deficits in cognitive and physical performance. Element contains a science backed electrolyte ratio of 1000 milligrams. That's 1 gram of sodium, 200 milligrams of potassium, and 60 milligrams of magnesium. I typically drink element first thing in the morning when I wake up in order to hydrate my body and make sure I have enough electrolytes. And while I do any kind of physical training and after physical training as well, especially if I've been sweating a lot. If you'd like to try element, you can go to drinkelement. That's lmnt.com huberman to claim a free element sample pack with your purchase. Again, that's drinklmentlmnt.com hubermandhe. Today's episode is also brought to us by waking up. Waking up is a meditation app that includes hundreds of meditation programs, mindfulness trainings, yoga Nidra sessions, and NSDR non sleep deep rest protocols. I started using the waking up app a few years ago because even though I've been doing regular meditation since my teens and I started doing yoga Nidra about a decade ago, my dad mentioned to me that he had found an app turned out to be the waking up app, which could teach you meditations of different durations and that had a lot of different types of meditations to place the brain and body into different states and that he liked it very much. So I gave the waking up app a try, and I too found it to be extremely useful because sometimes I only have a few minutes to meditate, other times I have longer to meditate. And indeed, I love the fact that I can explore different types of meditation to bring about different levels of understanding about consciousness, but also to place my brain and body into lots of different kinds of states, depending on which meditation I do. I also love that the waking up app has lots of different types of yoga Nidra sessions. For those of you who don't know, yoga Nidra is a process of lying very still but keeping an active mind. It's very different than most meditations. And there's excellent scientific data to show that yoga Nidra and something similar to it called non sleep deep rest, or NSDR, can greatly restore levels of cognitive and physical energy, even with just a short ten minute session. If you'd like to try the waking up app, you can go to wakingup.com huberman and access a free 30 day trial. Again, that's wakingup.com huberman to access a free 30 day trial. And now for my discussion with Doctor Noam Sobel. Doctor Sobel Noam, welcome."
+    },
+    {
+        "speaker": "B",
+        "text": "Thank you."
+    },
+    {
+        "speaker": "A",
+        "text": "Must say, I am extremely excited for this conversation. I've been a huge fan of your work for more than a decade or two. Yes."
+    },
+    {
+        "speaker": "B",
+        "text": "Kind of frightening."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. We overlapped at UC Berkeley some time ago, although we did not meet, although."
+    },
+    {
+        "speaker": "B",
+        "text": "We lived in the same apartment."
+    },
+    {
+        "speaker": "A",
+        "text": "And we just learned that the amazing apartment that you moved out of was the apartment that my girlfriend and I at the time moved into in 2006, I believe. So we've shared quite a few things, and today love for you to share with us all about the amazing landscape of chemo sensation. In particular, olfaction, our sense of smell, and some related perceptual abilities or subconscious abilities, including pheromones, et cetera. To get everybody on the same page, I'd like to just start off by asking what are the major components of our ability to smell? Obviously, or I like to think it involves the nose at some level."
+    },
+    {
+        "speaker": "B",
+        "text": "It does."
+    },
+    {
+        "speaker": "A",
+        "text": "To what extent is that mixed in with other senses like taste? And perhaps more importantly, what about the chemicals that we are sensing through this thing? And for those of you listening and not watching, I'm tapping my nose. That we are not aware of, you know, that the chemicals that are, that we're inhaling and making sense of without our awareness. If you could just give us the top contour, or even deep contour, if you like, of the parts list and the various roles they play."
+    },
+    {
+        "speaker": "B",
+        "text": "So you've asked a lot of questions at once. I'll start with a little comment on the way you said smelling through our nose, which we indeed do, but we also smell through our mouth. Actually, there's a process referred to as retronasal olfaction, where odorants come up through our. The back of our throat and out of our nose the reverse way, and we smell things that way as well. And in fact, a big part of the contribution of olfaction to food and taste comes from that, from retronasal olfaction. But primary olfaction is referred to as orthonasal olfaction, that is, through our nose. We sniff, and sniffing is a big thing. Well, I have a sense we might talk about that a lot today in all sorts of contexts. So we sniff in through our nose. And to answer your general question of the organization of the system, so molecules, airborne molecules, travel up our nose a distance in the human of about six or 7, about here, where they interact with, I will use the word sheet of receptors, but sheet is a bit misleading here. It's not a sheet, it's very convoluted. We have about 7 million such receptors lining a structure known as the olfactory epithelium. This is the sensory surface of the olfactory system, the olfactory epithelium, again, about. Probably about six or 7 million receptors in the human. In the human probably of about 350 different kinds. So that's amazing. That means a meaningful percentage of your genome is devoted just to this, just to the kinds of olfactory receptor subtypes you have in your nose. By the way, I can share an amusing story. I would imagine amusing stories are good for podcasts. So that number of six or 7 million receptors is probably not very well grounded. It's hard to count, but it's reasonably grounded. And there was this thing roaming around in the literature about bloodhounds having a billion receptors in their nose, which is why they're so amazing. And this number was, you know, it sort of propagated through the literature. And our lab has written over the years, a few review chapters, and we were repeatedly writing the olfaction chapter for a very large one of these large textbooks, the Gazanaga Handbook of cognitive neuroscience, I think it's called. And we had that in there as well, somewhere. And one time when we were renewing the chapter for a new version of the book, I told the graduate student who was leading that at the time, Araya Sharoon. She's now a professor at Tel Aviv University. I told her, check that. Check that reference out. Where in the world did that come from? And we started going back and back and back. And it turns out it comes from a textbook, an australian textbook. And we found the author of the textbook and we wrote her. And I said, look, there's this thing in the literature of a billion receptors in the bloodhound. Where did that come from? And surprisingly, she answered me, and I was hoping to get a reference, but it was a reference. And this is where it really becomes funny for us, because she said, I was once at a lecture of an all faction geneticists, geneticist by the name of Daron Lancet. And he said that in the lecture. Now, this is really funny because she's in Australia, this is all over the world, this number. And I'm writing her from Israel. And Doron Lancet is in the building next to me. Okay? He's in Weizmann Institute genetics. I mean, he used to be. He's retired now, and he had meaningful contributions in the history of wolf action. So I picked up the internal phone and I said, hey, Daron, you know, did you say that there's a billion receptors in the bloodhound nose? And he said, what's a bloodhound? So this is totally made up, right? It totally made up and it propagated. I mean, you can probably go into Google and type like a billion receptors in the bloodhound and you'll get a lot of hits. But there was absolutely no evidence for that amazing."
+    },
+    {
+        "speaker": "A",
+        "text": "And not just amazing in light of what it tells us about olfaction in bloodhounds or otherwise, but amazing because it sheds light on just how much of what is in textbooks, scientific and medical, is absolutely wrong."
+    },
+    {
+        "speaker": "B",
+        "text": "Things propagate. And, you know, you cite yourself and. Right. So we fix that in that version of the. And so to finish the line. So that. So odorants interact with these receptors here in our epithelium, where they undergo what is referred to as transduction. That is, the odorants are dock at a receptor and turn into a neural signal or force the receptor to respond in a neural signal. This neural signal, in fact, action potentials, not gradient potentials of any kind, propagates via the olfactory nerve. Now, this is a nerve that goes from our epithelium right here behind the forehead. No. Well, yeah, here through the thinnest part of our skull, an area referred to as the cribriform plate, which is perforated. It has a lot of holes. The nerve goes through those holes and synapses at the first target in the brain, which is the olfactory bulb. In humans, that forms an interesting point of sensitivity because a lot of people lose their sense of smell due to trauma because of that structure."
+    },
+    {
+        "speaker": "A",
+        "text": "A head hit type trauma."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, yes, although you denoted hitting on the front of the head, which is where all this real estate is. But actually, the more common cause for losing your sense of smell for trauma is the back of the head, because of what's referred to as a contrecoup injury. So, as your listeners probably know, our brain is floating in liquid, in csF, in cerebrospinal fluid inside our skull. And when we get hit in the back of the head of the brain has this forward and backward movement in the liquid in the skull, it sort of crashes. It can crash against the front of the skull, which is why you also have, in a contritive injury, you also often have frontal damage. But what happens is that this generates a shearing motion on the crib form plate, and the olfactory nerve is severed. And if it's completely severed, it's lost forever."
+    },
+    {
+        "speaker": "A",
+        "text": "Because my understanding is that the olfactory sensory neurons are among the few central nervous system neurons in adult humans that can regenerate or replenish themselves."
+    },
+    {
+        "speaker": "B",
+        "text": "Right? Again, there are a few questions."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, that's okay. So, first of all, we will spin many plates simultaneously if it's completely severed."
+    },
+    {
+        "speaker": "B",
+        "text": "Completely, then, yes, you're lost forever. Yeah, if it's completely severed. Because even if you'll have regeneration at the basal cell level at the epithelium, they won't manage to find their way back to the bulb. If you have partial or something left or something shows up in a short while after the injury, then you have a good chance of recovery because they."
+    },
+    {
+        "speaker": "A",
+        "text": "Grow along the trajectory of the other axons or pioneering the way for them, assumingly."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Interesting. And basically the timeframe. And it's funny, I get a lot of emails on this, although I'm not a medical doctor, but I get a lot of emails from people who have lost their sense of smell because it's very distressing. And now more people know this because of COVID that it's very distressing. And basically the rule of thumb is that if you don't get it back within a year to a year and a half, you'll never get it back."
+    },
+    {
+        "speaker": "A",
+        "text": "My understanding of the statistics on olfactory loss and Covid and other viral type infections is that, first of all, I experienced that when I got Covid, including."
+    },
+    {
+        "speaker": "B",
+        "text": "Total anosmia for one day."
+    },
+    {
+        "speaker": "A",
+        "text": "And not total, it was just, there was a remnant of an ability to smell or perceive the smell of a lemon and I was huffing as hard as I possibly could. I actually, there's an over the counter remedy, and this is not pseudoscience, because there's a number of papers published about this on Pubmed, that alpha lipoic acid can accelerate the recovery of smell."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "And so that's something that it worked successfully for me. I'm not saying that that's the only route."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't know if it worked successfully for you or if you would have recovered anyway. I mean, you didn't do a control."
+    },
+    {
+        "speaker": "A",
+        "text": "I was not willing to do the control experiment. Exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "Let me say two things on this front. First, the DNA on the alpha lipoic acid is."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. It's not overwhelming, but losing your sense of smell is overwhelming."
+    },
+    {
+        "speaker": "B",
+        "text": "No, no, I know."
+    },
+    {
+        "speaker": "A",
+        "text": "So I think people will feel desperate."
+    },
+    {
+        "speaker": "B",
+        "text": "One word about smelling the lemon and this is. I'll take that opportunity to share more information. When we smell things, it's the result of more sensory subsystems than the olfactory system alone. So you have several chemosensory sensitive nerves in your nose. A primary one beyond the olfactory nerve is the trigeminal nerve, the fifth cranial nerve. So the trigeminal nerve has sensory endings in your nose and your throat and in your eye. It has three branches. That's why an onion has smell and burns your eyes and burns in your throat. Is that why it's trigeminal? Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "The tearing of cutting an onion is trigeminal."
+    },
+    {
+        "speaker": "B",
+        "text": "It's a trigeminal reflex."
+    },
+    {
+        "speaker": "A",
+        "text": "Amazing. We talked about trigeminal in the context of headache."
+    },
+    {
+        "speaker": "B",
+        "text": "During a headache episode, it's a trigeminal reflex. So the lemon you were smelling may have been a trigeminal sensation."
+    },
+    {
+        "speaker": "A",
+        "text": "So smelling the lemon with my eyes is what you're saying?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, no, with your nose, but with your trigeminal receptors and not your olfactory receptors. So within olfaction researcher jargon, there's what we refer to as pure olfactants. These are odors that will stimulate your olfactory nerve alone. They won't influence your trigeminal nerve at all. And an example, just to get a sense of what that might be, would be the coffee right here is a pyrrolfactant. Vanilla is a known pure olfactant. These things have no trigeminal activation."
+    },
+    {
+        "speaker": "A",
+        "text": "As long as we're on this topic and we'll weave back and forth. But I'm glad we are on this topic because a tremendous number of people wrote to me during the pandemic and continue to about olfactory loss. I've heard of this olfactory training whereby if you have a partial or even complete loss of primary olfaction, that one is encouraged to smell a number of different smells. I grew up studying activity dependent wiring of the nervous system. It makes total sense to me why keeping neurons active keeps them alive. So this is not fire together, wire together type thing, by the way, that's a quote from Carla Schatz, not Donald head folks or me. But this is about keeping neurons electrically active, in this case olfactory neurons, in order to maintain their connections, because otherwise they will die."
+    },
+    {
+        "speaker": "B",
+        "text": "Olfaction is a definite use it or lose it system. And so that makes total sense. And indeed, there's very strong evidence for success of the training programs, more than the alpha lipoic acid, right? And so that's a real thing. And what's cool about that is that you don't need to go out and buy expensive things, although you can. Of course, there are people who are capitalizing on this commercially already, but you can just take things from your refrigerator or your makeup cabinet or whatever and smell them attentionally and constantly and sniff them, and that exposure will help you recover. There is good data on that by now. You made that point in passing about regeneration in the olfactory system. Indeed, one of the cool things in olfaction, you can study many things through olfaction. Indeed, one of them is neuroregeneration. Because the olfactory neurons are really the only neurons that do that systematically in the adult mammalian brain. And whether the human olfactory system shows the same level of regeneration as it does in other mammals is and was somewhat questionable. And I'm just bringing that up to share a really cool study that was published in neuron, I think, somewhere around 2014. Where to address this question. I just really like the idea of doing that. What the authors did was look at, in postmortem, they looked at levels of c 14 in adults who were exposed to atomic bomb experiments. So you can actually look at these neurons and time them based on exposure to radiation. And that paper suggested that there's not as much turnover in the human olfactory bulb as there is in other mammals. Other lines of data suggest otherwise. So this is kind of a debated question as to what extent of neurodegeneration you have in the human olfactory system as opposed to other mammals. But that was just a really cool paper, I think, of doing that."
+    },
+    {
+        "speaker": "A",
+        "text": "Fascinating."
+    },
+    {
+        "speaker": "B",
+        "text": "Should I finish the path just so we have."
+    },
+    {
+        "speaker": "A",
+        "text": "Please."
+    },
+    {
+        "speaker": "B",
+        "text": "So we said. So, information, then, synapses at the olfactory bulb from the olfactory epithelium. And the pattern of that synapsing follows what's referred to as the most extreme case of convergence in the mammalian nervous system. More specifically, what happens is that all the receptors of a given subtype, and remember, in humans we said we have about 350, in the mouse we have about 1200, probably. So all the receptors of one subtype converge to one location in the bulb. And this location is referred to as a glomerulus, or in pleuroglomeruli. That may be a slight oversimplification. It's in fact two glomeruli. There's a mirror, sort of a mirror cut line, and so all the receptors of one subtype will converge to two mirror glomeruli on the olfactory bulb. So you end up having two glomeruli that reflect that one receptor subtype. And this is, as far as I'm giving you now, the textbook view of how the system works. But then I'll happily share with you things that pose a problem for the textbook view of how things work. But the textbook view of how things work is that every such receptor subtype is responsive to a small subset of different molecular shapes, what's sometimes referred to as ototopes, the molecular aspects of the odorant. So each receptor is responsive to a different subset of ototopes, let's say ten, and each ototope will activate a different subset of receptors so potentially you have this insane combinatorics of this potentially 350 dimensional space in the human. Potentially. But then, because of this convergence, you end up having on the bulb, in a way, a map reflecting receptor identity. Let's say this coffee activates receptors of type one, three and seven. The glomeruli of receptors one, three and seven will light up, quote unquote, when I smell the coffee. And if you could take a snapshot of that, theoretically you would have the map of coffee and so on and so forth. This is sort of the textbook view of how the system works. And then information goes from the bulb to several targets in the brain. I mean, what is referred to as primary olfactory cortex is piriform cortex and enthorhinal cortex. This is on the ventral surface of the brain, the lower portion of our temporal lobe. And information goes there directly, but it also goes directly to the amygdala. It probably goes directly to the hypothalamus, it may go directly to the cerebellum. It goes all over the brain. So information projects widely from there. And as far as people understand, the map that may exist on the bulb doesn't exist in the rest of the brain. And the understanding of how coding occurs in the rest of the brain is murky."
+    },
+    {
+        "speaker": "A",
+        "text": "Commonly, one hears that the memories that we have of odors are somehow more robust than the memories of other perceptual events in our life. I don't know if this is true or not, but people will say, for instance, I can still remember the smell of my grandmother's hands or the smell of cookies in her kitchen. At a minimum, it points to the fact that smell and memory are closely linked. And you just mentioned a direct multi station, but nonetheless somewhat direct path from the nostrils to the hippocampus, one of the primary encoding centers of two synapses away. Yeah, which is a remarkably short pathway, considering that, for instance, just by example, because some of our listeners won't be familiar with this, but some will, that sound waves that are transduced into neural signals at the level of the inner ear go through many stations before they arrive at the location in the brain where we make sense of those sound waves as voices or music, et cetera, whereas olfaction is more of a direct route to the memory centers. Is there any just so story or real objective truth to the idea that olfactory memories are formed more easily or maintained longer or more robustly than other sorts of memories?"
+    },
+    {
+        "speaker": "B",
+        "text": "So, yes, but first, I should. I should say that I'm not an authority on olfactory memory. Olfactory memory is a huge field of research, and somehow our lab has never really gone much into that. Although again, the same student I happened to talk about before, Yaira Esharun, who's again now a faculty at Tel Aviv, ran a study, a paper I think we published in current Biology, called the privileged representation of early olfactory associations. Basically, there's something about the first time you experience a smell that generates a particularly robust representation more than other sensory stimuli. And that's what chain fact compared. So there's something about the first exposure to a smell in terms of the brain encoding that etches it into our being. And this is an effect that has echoes, of course, in literature. I mean, the biggest cliche in this is to bring up the Proust effect, right? So the Proust effect is when he ate the madeleine and it immediately, the taste and smell immediately reminded him of an event in his childhood where the same madeline appeared. So that's something very real. There's a lot of research on it not coming from our work. So I'm not an authority, but it."
+    },
+    {
+        "speaker": "A",
+        "text": "Does sound like there's something special about olfaction. And that doesn't mean that there isn't something special about vision or audition. Each one has its own unique."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm the last to argue that there's something special about olfaction. My students make fun of me because they say, and there's some truth to that, that I try to explain everything through the olfactory system. I mean, for me everything is olfactory."
+    },
+    {
+        "speaker": "A",
+        "text": "So yes, through the lens of the nose. I'd like to take a quick break and acknowledge one of our sponsors, athletic greens. Athletic greens, now called ag one, is a vitamin mineral probiotic drink that covers all of your foundational nutritional needs. I've been taking athletic greens since 2012, so I'm delighted that they're sponsoring the podcast. The reason I started taking athletic greens, and the reason I still take athletic greens once or usually twice a day, is that it gets me the probiotics that I need for gut health. Our gut is very important. It's populated by gut microbiota that communicate with the brain, the immune system, and basically all the biological systems of our body to strongly impact our immediate and long term health. And those probiotics and athletic greens are optimal and vital for microbiotic health. In addition, athletic greens contains a number of adaptogens, vitamins and minerals that make sure that all of my foundational nutritional needs are met and it tastes great. If you'd like to try athletic greens, you can go to athleticgreens.com huberman and they'll give you five free travel packs that make it really easy to mix up athletic greens while you're on the road, in the car, on the plane, etcetera. And they'll give you a year's supply of vitamin D. Three, k, two. Again, that's athleticgreens.com huberman to get the five free travel packs and the year's supply of vitamin D. Three, k, two. When I was at Berkeley, um, I was walking across campus one day and I saw, I think, students, but I saw people on their hands and knees with goggles on, gloves on, and, um, I think their mouths were covered, too. Everything was covered, was covered. And they were walking. Well, they were crawling along the ground. Um, and I thought this was peculiar. But then again, uh, it's UC Berkeley. And the joke is, if it to get noticed on the UC Berkeley campus, you have to be naked and on fire, right? One or the other would not be sufficient. Please don't run this experiment, anybody, that kind of place. But nonetheless, a paper came out a few years later describing the results of what turned out to be your experiment that your laboratory was running, which was having people follow an odor trail with their nose. And my understanding is that people can improve their ability to track sense quite robustly, especially if we deprive them of vision and some out of sensation, that is, touch and some other sensations. Maybe you could just tell us a little bit about that study. And I think in our audience, I'm suspecting that many people have a keen, keen sense of smell. I have a family member who just could detect any negative, putrid odor in the environment, but also good odors, exquisitely well. And I have other family members whose sense of smell is quite poor. I'd love for all of those people to learn a bit about what is possible in terms of training up or improving our ability to smell, and perhaps in the context of that study, if you will."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So first, before even talking about improving, just off the bat, humans have a remarkable sense of smell. And this is something, again, in our lab, we already said, yeah, we know this, this is all news. But to people who come from different worlds, we have to reiterate this. Sometimes when I give public lectures to non olfaction audiences, I reiterate this. Humans have an utterly remarkable sense of smell. To put that a bit into sort of, you know, things that you could, that are tangible. So, for example, mercaptans, which are added to cooking gas so that we smell it, because otherwise it wouldn't have a smell so that the smell of gas is not the smell of gas, of propane, it's an additive, mercaptan. Yeah, it's mercaptan, the sulfur like smell. So our detection threshold, that is the level at which we can detect it, is 0.2 parts per billion. Okay. There's no machine that can really do that, that effectively, no gas chromatograph, nothing. Now, to give you another sense of making this, again, really tangible, we're working with an odorant in our lab called estratetraenol that our participants can detect when we have it mixed at ten to the negative, twelve molar in the liquid phase. To give you a real sense of that, we did the math. If you would take two Olympic sized swimming pools and you would pipet 1 drop into one pool versus the other, you could smell the difference between the pools."
+    },
+    {
+        "speaker": "A",
+        "text": "Incredible."
+    },
+    {
+        "speaker": "B",
+        "text": "That's the detection threshold that you have with your nose. People have an utterly amazing nose. Okay? So that's just in terms of its detection abilities, which are just remarkable, really, up there in the mammalian world, a bad mammal at all faction. And beyond that, we can improve the example you're talking about actually started off as a lab. Bet we were having a lab picnic. So I guess I should here fill in, because I'm your guest from the Weizmann Institute of Science in Israel. But before going back to my home in Israel, I was a faculty at UC Berkeley in the Helen Wills Neuroscience Institute. And this study was done during that time. And we were on a lab picnic, and we were having, indeed, one of these sort of lab discussions, arguments on what humans can and can't do with their sense of smell. And I said that humans could truly even track odor like a dog. And people there said, no way. And we ran this quick experiment, which I have video of, but I don't think we'll show it here. But I actually have original. The picnic video. We have it. And a graduate student by the name of Christina Zelano, a brilliant graduate student at that time, who's now. She's now a professor at Northwestern, and she's really leading the field of all faction imaging today. But she was the volunteer, and we dragged a chocolate bar across the grass and blindfolded her and checked if she could track the track we made with the chocolate, which she did very effectively. Right. And as far as place her at."
+    },
+    {
+        "speaker": "A",
+        "text": "The starting point of the line, I think we did."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't exactly remember what we did on that sort of picnic tryout, but, you know, I assume she never practiced that in her life before. Right. And yet, you know, she did it really, really well. And then this went on as a lab bed in a way that I said to my students, okay, we have to make this into an experiment, put it in an experimental setting, and quantify what's going on. And they all said that it would be uninteresting. That was the bet. And I told them it would be in nature, which is a bet I won in this case."
+    },
+    {
+        "speaker": "A",
+        "text": "Nature, of course, being one of the three apex journals."
+    },
+    {
+        "speaker": "B",
+        "text": "It was nature neuroscience, to be fair. So then we turned it into an experiment. And what the experiment was is that we brought in participants, naive participants, not graduate students from our lab, completely deprived them of any other sensory input. So we blocked their eyes, we blocked their ears, we blocked everything. They were wearing heavy gloves. You know, they couldn't sense anything. And we generated a consistent odor path in the grass, which is what you saw. We did that by burying twine under the grass, and odor impregnated twine so that way we could generate a consistent odor trail every time. Was it at the base of the."
+    },
+    {
+        "speaker": "A",
+        "text": "Grass or in the dirt?"
+    },
+    {
+        "speaker": "B",
+        "text": "It was buried. It was buried under the grass."
+    },
+    {
+        "speaker": "A",
+        "text": "Really?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Yeah. Wow. I did not know that it was buried under the grass. And we conducted aerial photography, and participants also had this sensor pack that they were wearing, where we measured nasal airflow in each nostril in real time. And we also used something called RTK gps, which is a way to lay radio frequency grid over the gps grid so that you have millimeter resolution in space. Basically, it's used by surveyors, mostly, so that we could track behavior. And we found a few things doing this. One is that people could just do this right off the bat. The second thing we found that is, when we train them up, then, within average of four days, the rate limiting factor became the speed at which they could crawl. So as fast as you could crawl, you could send track. Of course, you can't crawl as fast as a dog can run, but as fast as you can crawl, you can send track. Then, to add what made it really interesting from a systems neuroscience perspective, is that we asked whether having two nostrils contributes to this. So we built. We constructed a nasal prosthesis, if you will, that had two versions. One is that it combined both nostrils into one big nostril centered, and the other is that it maintained two separated nostrils. And we compared performance under these two conditions, and people performed better with two nostrils over one centralized nostril, although the flow remain the same. So you're taking advantage of the information that comes from your two separate, totally separate nostrils. By the way, the system I described before, of your epithelium and bulb and connection to cortex, you have two of those, right? It's completely unilateral. Well, almost completely unilateral system. There are some very small exceptions to that."
+    },
+    {
+        "speaker": "A",
+        "text": "So a representation on both sides of the brain much in the same way. We have two eyes. We're not a cyclops. We can gain depth perception information. We can perceive motion better as a consequence, and a number of depth, especially stereopsis."
+    },
+    {
+        "speaker": "B",
+        "text": "And we can locate sound because of the difference between our ears and how the head blocks them between."
+    },
+    {
+        "speaker": "A",
+        "text": "Another question about the mechanics and strategies that you observed, because I think there's information about the system, the brain, as a consequence. Were you in a position to measure sniffing frequency? And the specific question I have is, were people doing something along the lines of a quick sniffing or a, like a long draw in inhale?"
+    },
+    {
+        "speaker": "B",
+        "text": "We didn't. So, yes, we were measuring, sniffing and recording it, and we have all the data. There was nothing very remarkable in that data in that study, although it may reflect that we didn't analyze it carefully enough as well. I mean, it wasn't a major component of our analysis, although we did look at it to some extent. Again, you're asking me about a paper from quite a few years ago, so I may be forgetting parts of it as well."
+    },
+    {
+        "speaker": "A",
+        "text": "But I'm sure if it was a major component of it, it would have risen to the."
+    },
+    {
+        "speaker": "B",
+        "text": "No, it definitely wasn't a major finding of the sniffing behavior in the paper, although, again, sniffing behavior is a huge portion of our life in lab, and it's taking us to places, and it's reemerging now, in our work, we're doing tons of sniffing work. I can share with you something that I think will interest your listeners and viewers as well, and we think is really one of the most overlooked things in neuroscience. Please do. I invite you to do the following experiments. Occlude one nostril by pressing on it from the side and sniff in, and then occlude the other and sniff in. Do you sense a difference in flow? Yes. Okay. Do you know why that is?"
+    },
+    {
+        "speaker": "A",
+        "text": "No, and it was the next question on my list."
+    },
+    {
+        "speaker": "B",
+        "text": "Don't feel badly about not knowing why that is. Most people don't, but that is a reflection of something referred to as the nasal cycle. So, in fact, if you were to do that repeatedly, you would find that your high flow nostril and low flow nostril alternate every two and a half."
+    },
+    {
+        "speaker": "A",
+        "text": "Hours on average in an absolute way, or is it kind of like a sine wave, like gradual shift to the one and then gradual shift back?"
+    },
+    {
+        "speaker": "B",
+        "text": "It can vary. It can vary. And we don't yet know the rules, all the rules, but you have this constant shift from side to side. The shift becomes incredibly pronounced in sleep, so we can measure the power of the difference. And in sleep, you have this phase shift of power. You have a huge, like, one closes and one opens totally. And it turns out that this is LinkedIn to balance in the autonomic nervous system. So, as you and your listeners know, we have an autonomic nervous system that has a sympathetic and parasympathetic component to it, and they're in balance or imbalance in many diseases, for example. And this interplay between the. Between the sympathetic and parasympathetic nervous system drives the switch from left to right nostril."
+    },
+    {
+        "speaker": "A",
+        "text": "Just to remind people, sympathetic nervous system has nothing to do with sympathy, has everything to do with generating patterns of alertness. It's sometimes called the fight or flight system, but any pattern of arousal, positive or negative, and then it's balanced in a coordinated way, or at least in parallel with the parasympathetic nervous system, which is sometimes called the rest and digest system, but is associated with all sorts of things, the sexual arousal response and a number of other aspects of our physiology. So think of it like a seesaw of alertness and calm."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, perfect. So now imagine, right? Imagine. Imagine you would walk around living your life, right, half of the time with one eye closed like this, and the other half with one eye closed like this, and you had this eye cycle, right? And that was linked to autonomic arousal. I assure you. You would go to pubmed, there would be 5 million papers on the I cycle, right? And the eye cycle, and every disease you can name and what it denotes and what it tells us and what we can do with it, you have exactly this marker. You're walking around with a marker on balance in your autonomic nervous system, and we do nothing with it. So we're, in fact, now doing a lot with it. Okay? So we built a wearable device that is pasted to your body and measures airflow in each nostril separately and logs it for 24 hours. And we're collecting these 24 hours recordings. We're calling it the nasal halter. So we measure with the nasal halter, and we're finding it as a disease marker. I can give you a nasal halter measurement as an adult, and I can say this is work by team Nasaroka graduates in our lab now we can tell the difference between ADHD and non ADHD adults. And we can tell just from the recording, we can tell if the adults are in Ritalin or nothing. So I can measure your nasal airflow and say if you are or are not with ADHD and if you are or are not on Ritalin."
+    },
+    {
+        "speaker": "A",
+        "text": "Incredible. I have a couple of questions about this. Is it the case that airflow through one nostril is reflective of a sympathetic nervous system dominance versus parasympathetic? Or is it simply the case that this alternating left right nostril periodicity, which you said, I think is on the order of about every 2 hours?"
+    },
+    {
+        "speaker": "B",
+        "text": "Two and a half."
+    },
+    {
+        "speaker": "A",
+        "text": "Two and a half. It switches to maximal on one side versus the other. Is that simply reflective of an overall balancing? Maybe. Is it the hinge in the seesaw or is it the tilt of the seesaw?"
+    },
+    {
+        "speaker": "B",
+        "text": "So I don't have a good answer. I don't have a good answer. I could give you sort of a. I could say that to some extent, right nostril more open is more sympathetic, and left nostril more open is more parasympathetic. But that wouldn't be very correct. I mean, you know, I'm sure that."
+    },
+    {
+        "speaker": "A",
+        "text": "You know, the yogis are going to be all over this because I get this. My lab does do some stuff on, on breathing and the yogis are always saying, okay, you know, because there's this thing. I don't do yoga anymore, not for any particular, but where they'll have you breathe through one nostril or the other. And I've probably been asked this question on social media 10,000 times."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, wait, I'm gonna become public enemy number one of the yogis right now."
+    },
+    {
+        "speaker": "A",
+        "text": "So listen, they'll come at you with yoga mats, which are not very dangerous."
+    },
+    {
+        "speaker": "B",
+        "text": "We really. So since we're so interested in this mechanism, one of the things we'd really like to know how to do is to gain control of it somehow. And there's this world out there of yoga who claims to have control over this. So we said, okay, let's bring really serious yoga practitioners and see if they can shift their nasal cycle from left to right by will alone. Right? Not by manipulating themselves somehow. And if, yes, we'll learn from them how they do this. And then we might use this to cure ADHD or whatnot, right? So we posted on all lists of the yoga teachers and had this parade of yoga teachers walking into our lab. This was one of the strangest things."
+    },
+    {
+        "speaker": "A",
+        "text": "Lot of sandalwood odors and bare feet."
+    },
+    {
+        "speaker": "B",
+        "text": "White clothing and so on. And so we studied. I actually, we studied 14 yoga teachers, all 14 by the conditions of enlistment, for this came in saying that they can control shifting from left to right."
+    },
+    {
+        "speaker": "A",
+        "text": "Nostril without plugging a nostril."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. By the power of thought alone. And, you know, how many of 14 succeeded? Zero, including one. You know, there was extreme. One was, we had this guy who, you know, and we're recording, and we know how to record this really well. Right. And he's sitting there saying, yeah, I'm switching now. And it's switching. And, you know, you're looking at the monitor and, no, it's not switching. And so no yoga teacher that we found could willfully switch between left and right nostril flow."
+    },
+    {
+        "speaker": "A",
+        "text": "And yet they are convinced that they are. And I have to imagine they're not trying to. There's no incentive for them to lie, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. No, even the opposite. I mean, this puts them in an awkward position once. Yeah. I don't know what the deal is, but none of them can do it."
+    },
+    {
+        "speaker": "A",
+        "text": "Given that the alternating flow through one or the other nostril is reflective of. The autonomic nervous system has this two and a half hour periodicity. If I suddenly enter a bout of stress, for instance, does it switch because that's reflective of the autonomic nervous system? And the reason I'm asking this question is not because I think that's necessarily important as it relates to stress, but I'm trying to understand the direction of causality. In other words, is the unilateral smelling through or unilateral nostril smelling periodicity there? When we named it something, I named it the wrong thing, I'm sure. Is that driving the shift in the autonomic nervous system, or is it merely reflective of the shift?"
+    },
+    {
+        "speaker": "B",
+        "text": "So you've very concisely now worded aim two of a grant that was probably just rejected. But basically, we're trying to answer exactly that question, and we're currently running experiments on that line. So we have one experiment where we're looking. So we're exposing participants to pain. We're using cold water hand exposure. It's a really cool paradigm because there's huge individual differences. We just started this. We built the setup just now. And you have a lot of meat to work with there because there's a lot of individual differences. It's capped at three minutes for safety reasons because you have participants putting their hand in two degrees celsius water. But there'll be participants who will pull it out at, like, 10 seconds, 9 seconds, and then you'll have three minutes as well. So there's lots of. Lots of. And already. So now I'm sharing pilot data with you. So, you know, this might, you know, when it. When this ends up being published, it might be the opposite. But so far, it seems that the exposure to cold generates a shift in the nasal flow, in nasal balance."
+    },
+    {
+        "speaker": "A",
+        "text": "So autonomic arousal can drive the shift, potentially. Earlier, you were describing the architecture of these smelling systems, and you mentioned these glomeruli, where the olfactory receptors converge in the bulb. And then later you mentioned that the system is unilateral but with a mirror representation on both sides of the brain. So for those who don't think in terms of neuroanatomy, what noam was describing is the fact that, of course, there are two nostrils and then a bunch of receptors, they converge in these glomeruli. But you have a mirror representation of that on both sides of the brain, and that most of that information is kept on one side of the brain or the other. There isn't a lot of extensive intermixing at the first order of processing. So the question I have is whether or not you believe. I'm not asking for data first. I just want to know what you believe that this alternating nostril airflow phenomenon has anything to do with preferential processing of olfactory information in terms of right brain, left brain, with the caveat that anytime we hear right brain, left brain, we've covered this in a previous episode. Most of what people hear out there about right brain, left brain, emotionality, logical stuff, is completely wrong. Completely wrong, doesn't exist, is a total fabrication. And we'd like to abolish that myth. But with that aside, or set aside, rather, what are your thoughts on why the information would switch from one side of the brain to the other at all?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I don't think that the nasal cycle is an olfaction story. So I don't think that this was shaped by the olfactory system, nor do I think this has major impact on olfaction. I think the nasal cycle story is a different story about brain function. So we have this sort of pet theory where calling now the sniffing brain approach, where basically we think that nasal inhalation is timing and driving a lot of aspects and patterns of neural activity and cognitive processing. And this theory is olfaction inspired in its beginning, that is. I mean, if you think of the mammalian brain, right, which evolved from olfaction, it's sitting there and in all faction, because olfaction depends on sniffing. You have this situation where you have a sniff, you have information, and then flat, nothing, right? And then you have information and then nothing. So information processing is one to one linked to nasal inhalation. And we think that this property evolved to be meaningful in brain processing in general, not only of olfactory information, but of any type of information, because the brain evolved in this way that it processes information on inhalation onset. A study led by Ophir Perel from our lab two, three years ago, we looked at something completely non olfactory. We looked at visuospatial processing, and we compared visuospatial processing on inhalation versus exhalation. And the brain does this completely different on inhalation versus exhalation. In that particular task, people performed significantly better on inhalation versus exhalation."
+    },
+    {
+        "speaker": "A",
+        "text": "What was the task? Was it an olfactory task?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, no, it's a visuospatial task task. So this is where the specifics of the task were that you see a shape and you have to determine if it's a shape that can or cannot exist in the real world. So some of them are these, like usher shapes, like, you know, where one facet doesn't reach the other facet."
+    },
+    {
+        "speaker": "A",
+        "text": "The impossible figure."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, but structural shapes, not a pure visualization spatial task. We intentionally went for a task that is not considered a ventral temporal task, an olfactory cortex task in any way. And people performed much better on inhalation versus exhalation at doing this task."
+    },
+    {
+        "speaker": "A",
+        "text": "Was there a both nostrils occluded version where people were forced to mouth breathe?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. And in this particular task, they also did better on mouth inhalation versus mouth exhalation. But the difference wasn't as pronounced as it was with nasal inhalation versus exhalation."
+    },
+    {
+        "speaker": "A",
+        "text": "So I'm a big proponent of nasal not mouth breathing whenever possible, for many health related reasons. I'm a big fan of the book jaw is a hidden epidemic, written by colleagues of mine at Stanford."
+    },
+    {
+        "speaker": "B",
+        "text": "You're familiar with it?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And this idea that people who mouth breathe experience more colds, more infections of various kinds, it's not good aesthetically or for the dentiture. I never know. The teeth, the gums and stuff. Sorry, my dentist is going to come after me. Need to go to the dentist anyway. Nose breathing is great for your health relative to mouth, so I think it's."
+    },
+    {
+        "speaker": "B",
+        "text": "Also good for your cognition, not only for your dental health. I think that nose breathing shapes cognition, and there are other labs who are finding the same again. Christina Zelano is doing work on this line. She had major contributions here. And Johan Lundstrom is doing work on this line. There's lots of studies suggesting that nasal inhalation is timing cognitive processing and modulating it."
+    },
+    {
+        "speaker": "A",
+        "text": "Incredible. Perhaps not surprising, given what you've taught us about the olfactory system. I mean, these two holes in the front of our face, these nostrils, I mean, are a pathway to the brain, right? I love to tell people, because I work on the visual system in my lab, that your eyes are two pieces of brain extruded from the cranial vault, which they are the retinas, anyhow. And then you never look at anyone the same way again. Okay. But the olfactory sensory neurons are right there at the tops of those caverns that we call nostrils, and they are brain."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, definitely. It's the only place where your brain meets the outside world, because in your retina, they're protected by a lens, and here you have neurons in contact with the world. This actually has been the source for some theories on a potential route for neurodegenerative mechanisms. So, as you may know, loss of the sense of smell is one of the, if not the earliest sign of neurodegenerative disease. So, for example, in Parkinson's disease, there's loss in the sense of smell probably ten years before any other symptom. But people have failed to make this a diagnostic tool because it's nonspecific. So it's not as if you could come to your doctor and say, I'm losing my sense of smell, and they'll say, oh, early sign of Parkinson's, because you can have many reasons to lose your sense of smell, and so on. But olfactory loss, again, is an early sign of neurodegeneration. And there's at least one theory, particularly about Alzheimer's disease, suggesting that Alzheimer's may be the result of a pathogen that enters the brain through the olfactory system."
+    },
+    {
+        "speaker": "A",
+        "text": "Interesting."
+    },
+    {
+        "speaker": "B",
+        "text": "It's not, of course, a mainstream or widely accepted theory of any type, but it just highlights this notion that the nose is a path to our brain."
+    },
+    {
+        "speaker": "A",
+        "text": "I think these non invasive readouts of potential neurodegeneration, such as visual tests, because of the fact that the retinas are part of the brain. And loss of neurons in the retina is often associated with other forms of central degeneration, Alzheimer's, Parkinson's, et cetera. It's a little more invasive than what you're describing. I'm beginning to wonder why we don't have a olfactory task every time we go to the doctor. That would allow tracking over time, because, of course, as you mentioned, someone can lose their sense of smell. Does that mean they're getting Alzheimer's? Not necessarily. But if their sense of smell was terrific the year before and it's 50%."
+    },
+    {
+        "speaker": "B",
+        "text": "Worse the next year, that's a really bad sign."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, that's a bad sign. And so what we're talking about something completely non invasive and could be relatively pleasant to innocuous, depending on the odors used."
+    },
+    {
+        "speaker": "B",
+        "text": "So. Yeah. So first I can answer that. Right. And the reason that's not happened, and that may be changing right now, but the reason that has not happened is because olfaction has not been effectively digitized. Right. So if you need to generate really precise visual information, you can buy a monitor for $100. That is at the resolution of the visual system, basically. And if you want to generate auditory stimuli really precisely, then you can buy an amplifier for maybe a bit more than $100, but not that much more, and you'll be at the resolution of the auditory system. In our lab, we build devices that generate odors. We call them olfactometers, which is a misnomer because they don't measure anything. But that's what they've always been called. So we call them olfactometers as well. And we've already built at least one olfactometer that cost a quarter of a million euro. And it's pathetic. Right? So it's pathetic. It's slow, it's contaminated, it's nowhere near the resolution of your system. So one of the reasons that's not happened is just the utterly poor control of the stimulus. Mind you, to some extent it has happened in that there are standard clinical tests of olfaction, basically two that sort of control the world in this respect. The older one is a test called the Upsit, which stands for the University of Pennsylvania smell identification test. It was developed by Richard Doty in Penn. And it's a test where you scratch and sniff, and it's a four alternative forced choice test with 40 odorants. So you have these 40 pages that you page through and you sniff and smell, and it's been normed on gazillions of tests. I'm always amused by it because. So Richard Doty made a ton of money on the upsit, but he needed it because he has a habit. He has a NASCAR. So this, every time we buy upsits in live, I say there's another gallon of gas into Richard Dodger. He races NASCAR not like NASCar, but like one lower than that. Like, I don't know, like some sort of formula A or Formula Ford or some. He races a car and so that's where all the upcyts went. So I always feel good about buying up sits because I know they're going to that good cause, but keeping him."
+    },
+    {
+        "speaker": "A",
+        "text": "In the fast lane."
+    },
+    {
+        "speaker": "B",
+        "text": "So that's one test that's out there and indeed has been shown. There's reduced upsit in Alzheimer's and Parkinson's and in a host of other diseases. And there's a european version called sniffing sticks that Thomas Hummel has developed. And it's basically the same sort of concept of that. One isn't scratch and sniff. It's like these pens that you open up and sniff, but those exist, but they're not as convenient as delivering stimuli and vision and audition. And that's why you don't have what you've just suggested. You know, another place where you don't have it, which I think is even more, would have been even more meaningful, is you don't. Olfaction is not tested in newborns, where vision and audition is. There's this thing called congenital anosmia, which is being without the sense of smell from birth, supposedly congenital, which is half a percent of the population."
+    },
+    {
+        "speaker": "A",
+        "text": "It's not a trivial number."
+    },
+    {
+        "speaker": "B",
+        "text": "Not totally. Yeah. But nobody knows if that really is true, because here's an amazing factoid. Guess the average age at which congenital anosmia is diagnosed. And this is a horrible statistic for me, for the way I see the world, but what do you think the average age of diagnosis is for congenital anosmia? Five years of age? 14."
+    },
+    {
+        "speaker": "A",
+        "text": "Incredible."
+    },
+    {
+        "speaker": "B",
+        "text": "14."
+    },
+    {
+        "speaker": "A",
+        "text": "So most people who are one half of 1% of the human population, presumably."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Is without the sense of smell and doesn't realize that until they're 14 years old."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I don't know when they realized it first, but it's formally diagnosed at 14 on average, which means some of them even later. Right."
+    },
+    {
+        "speaker": "A",
+        "text": "And it's a distribution. What do they suffer?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. So first of all, they suffer socially, and there's a host of deleterious life events associated with congenital anosmia. They die younger. So this is work out of Ilona Croy in Germany. And amongst the various things that are predicted by anosmia is shorter lifespan. But things like reduced social contacts, reduced romantic social contacts, it's not a good thing."
+    },
+    {
+        "speaker": "A",
+        "text": "And do they lack olfactory bulbs? I'm presuming they have noses and nostrils. There is a condition I'm aware of where children are born without noses or nostrils."
+    },
+    {
+        "speaker": "B",
+        "text": "Very rare."
+    },
+    {
+        "speaker": "A",
+        "text": "Very rare. We don't focus on that because it's exceedingly rare."
+    },
+    {
+        "speaker": "B",
+        "text": "But they're born with noses and nostrils. And here's the thing. We don't know if they're born with olfactory bulbs. Most of them, although not all of them, but most of them don't have olfactory bulbs in adulthood. Or, I should rephrase that, have remnants, olfactory bulbs, really shriveled olfactory bulbs. But nobody can say the cause and effect here."
+    },
+    {
+        "speaker": "A",
+        "text": "Before we talk about the role of the requirement for olfactory bulbs for olfaction, a very interesting topic in its own right. I'm curious as to whether or not their endocrine system is altered, because, as we'll soon talk about, there's a lot of signaling through the nose from. Between individuals that triggers things, everything from the onset of puberty to feelings of romantic attraction, attachment, these sorts of things. Is it known whether or not, and I should say, excuse me for interrupting myself, but as long as I'm interrupting you every five minutes, I might as well interrupt myself, too. That we are well aware of the proximity of the olfactory system to some of the hypothalamic systems that regulate the release of gonadotropins, which control testosterone and estrogen production, etcetera. So are they hormonally normal?"
+    },
+    {
+        "speaker": "B",
+        "text": "So some are and some aren't. And I'll be specific. So there's a condition known as Kalman's syndrome, which is hypogonadic development in men, and in Kalman syndrome, they're practically all anosmic. So. So to answer your question, yes, there's a direct link, and it materializes in Kalman syndrome. That said, not all congenitally anosmic individuals have Kalman syndrome, and not all, but almost all people who have Kalman syndrome are anosmic. So Kalman syndrome goes with anosmia? I think so there's a female equivalent of Kalmans, or I don't remember its name."
+    },
+    {
+        "speaker": "A",
+        "text": "It's not in the Turner syndrome family."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm not sure, and I think it's also associated with anosmia, but I'm not confident of that. But Kalman's is associated with anosmia, so the answer is yes. And we can. Maybe olfaction and reproduction are tightly linked, and they're tightly linked in all mammals, and we are big terrestrial mammals, and olfaction, reproduction are linked in humans as well."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, we will definitely get into that. I have a story slash question that I'd like to tell you. Ask you as a segue to that, noting, of course, that we'll get back to the requirement for olfactory bulbs. Yes or no for olfaction. And this relates to when I was growing up. I grew up at the end of a street with a lot of boys of my age. Who, just by coincidence, had a lot of older sisters that were my sister, my older sister's age. It was fortunate. So I had a lot of kids to play with. We would hang out at each other's houses, bike, build jumps, and do all those things, like kid stuff, fort stuff, get into trouble or whatnot. And oftentimes we would end up leaving our articles of clothing at each other's houses all the time, like t shirts and jackets. And so my mom was constantly coming in and saying, there's all. There's this clothes. Like, someone left this here. I don't know who it was. We were all more or less the same size. And from as far back as I could remember, six, seven years old and onward, I could pick up a shirt or a jacket, smell it, and say, oh, well, that's Eric Eisenhart's shirt. A friend of mine there, I just gave his name. Or, oh, that's Scott Madsen shirt. I could just smell the shirt and in a conscious way, know who it belonged to. Having never, I promise. Not that I would pretend if I had. Pretend I hadn't, if I had. But having never actually done the exercise of going and taking and smelling my friend intentionally."
+    },
+    {
+        "speaker": "B",
+        "text": "Right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. In fact, if anything, I had all the reasons in the world to avoid smelling the other young boys in my neighborhood. Okay? So that raises the question of whether or not we are consciously and or subconsciously coding identification of people that we interact with frequently or infrequently in terms of their smell or some other aspect of their chemistry."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So, yes, we're doing that all the time, in my view. And a lot of this processing, almost all of it, is subconscious, and I don't know why. Already put that out there. Right? I have no idea why human nature has or nature or culture or whatnot has pushed this into the realm of subconscious and something we're unaware of. But we do it all the time. And our lab has lots of studies on this front. One of them you may be familiar with that had gained some notoriety because it's amusing. So we look at human behavior a lot. We try to look at it through our nose in the way we look at what people are doing. We try to think, if I was a dog, what would I think? Of this. And if you look at dogs, when they interact, they visibly sniff each other. It's very obvious. They walk up to each other and they sniff each other. And yet humans don't typically walk up to a stranger and carefully sniff them. We're sort of obliged to sniff our babies. That's considered almost something you're supposed to do, not culturally taboo to sniff our loved ones. It sort of doesn't seem like an odd thing to do. But we don't sniff strangers, right? Well, or do we? So we're finding more and more mechanisms where we do this. And the one I'm referring to now, for one example, is we started looking at handshaking. Handshaking is this really odd behavior. And it's not only in the west, by the way, as some people think. It's only a western thing. It's nothing. It's almost everywhere. And there's really poor understanding of how this behavior evolved. Like, where did this thing come from? So if you look for the Wikipedia version, then they'll tell you that it's to show that you're not holding a weapon in your hand. But there's really no good evidence for that. It's a bit like the trillion bloodhound receptor story, right? I mean, we tried to find it. Why do people say that? And they just do. And we started looking at people handshaking, and we noticed, or it seemed to us that we're noticing, that people will shake hands and then go like this and like this."
+    },
+    {
+        "speaker": "A",
+        "text": "For those of you listening, not watching. No. Is taking his hand and wiping it on his face, grabbing his nose or."
+    },
+    {
+        "speaker": "B",
+        "text": "Touching my side of his. Yeah. These things that we do all the."
+    },
+    {
+        "speaker": "A",
+        "text": "Time after a handshake."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, so first of all, we do them all the time. Just period. Right. The baseline here is really high, and we'll get to that in a second. But these behaviors that you could easily not notice. We asked whether that's a real thing. And this was a study led by Dan fruming in our lab at the time. What we did first, and if you want, we can link. This, was published in elife. And one of the nice things about elife is that it has a very effective way to embed a videos in the publication. So if you want, we can link this to your system later on in the show."
+    },
+    {
+        "speaker": "A",
+        "text": "Note captions as a link on YouTube and the other four platforms Spotify Apple."
+    },
+    {
+        "speaker": "B",
+        "text": "So what we did is we brought in participants to our lab and we sat them in the room, experiment room, and told them the experiment would start soon. And they should wait for us there. They didn't know what they were coming from. Unbeknownst to them, they were already being videoed. Of course, later on, they had the opportunity to not agree to us saving the video, in which case we would delete it immediately, or letting us use it for science, or some letting us use it for more than science. For the video that's now on elife, we would walk into the room and say, okay, just wait here. We'll be right back with you to set up our experiment. And they would sit there for three minutes. And during those three minutes, we could later quantify how much, indeed, just by baseline, how much they touch their nose or their forehead or their chin, or how many times their hand reaches their face. And by the way, that baseline is not low. And then three minutes later, an experimenter would walk into the room and would share a consistent text that would be, we're still setting up our equipment in the other room, and so just wait here, and we'll be right back with you, but in the meantime, just wait here. And the experimenter went through this 22nd fixed text, and in half of the cases, it included a handshake. This was a new experimenter, not the one who put them in the room. So that's the first time they met. So it would be a low I'm so. And so they would put out their hand and shake their hand or not. Okay. And we did all possible interactions in terms of gender. So we matched male participants with male and female experimenters and female participants with female and male experimenters. And so you had handshake and no handshake conditions, and then you can quantify that behavior of the hand going to the nose after handshake. And there was a remarkable increase in the hand going to the nose after handshake. And this is one of the nice cases. The paper includes statistics, but you don't need statistics here. Just look at the video. It's unreal. The video is unreal."
+    },
+    {
+        "speaker": "A",
+        "text": "So interesting."
+    },
+    {
+        "speaker": "B",
+        "text": "So the hand goes to the nose. Now, we did a few controls here to verify that this is an olfactory behavior. One is, unbeknownst to participants, we measured nasal airflow, and people not only bring their hand to their nose, they sniff it. So, and this is perfectly timed. They go like this. Okay, so they're sniffing their hand. And in an additional control study, we manipulated it. So we built this little James Bond thing of a watch on the experimenter's hand that could emit an odor. And the experimenter didn't know what odor they were emitting, and they could emit either a pleasant or an unpleasant odor, and we could drive the self sampling afterwards up or down. So this was an olfactory behavior, no doubt about it. I mean, we're quite confident."
+    },
+    {
+        "speaker": "A",
+        "text": "So people, in that case, people must have been sensing the odor on their own hand because they shook the hand of the experimenter, pleasant odor. And they're more frequently bringing that hand to their nose, versus unpleasant odor that had been introduced to their own hand by the experimenter, correct?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, but no, I think they were sensing the ambient odor that came in with the hand shook, and then that either drove them to sniff their hands."
+    },
+    {
+        "speaker": "A",
+        "text": "More or less the odor cloud of the experiment."
+    },
+    {
+        "speaker": "B",
+        "text": "And there's an interesting thing going on here, too, because people didn't only smell the hand that shook, they also smelled the other hand. And we think that there's something going on here comparing self to other. And we think a lot of self sampling might. Might reflect that there's on the same line. And again, to link to your childhood story of identifying your friends by Smell, a study we published just last year by inbal Rav Rebbe in our lab, where in Bal came with this basic interest in this phenomenon that's loosely referred to as click friendships. So people you meet and you click right away, you immediately become close friends. And this is a phenomenon that is poorly described or is poorly described in literature as an entity, and yet anybody will tell you they know what you're talking about. I mean, if you tell somebody you click with right away, you become intimate within five minutes. Everybody experienced this in their life to some extent. And the question is, what was there? What was it? Was it because you looked the same? Could it be? Was it because you had the same sports team that you liked? Or is there something deeper here? And in Baal's theory was that a similarity in body order may contribute to this, that people who smell the same will click in some way. And so to address that, she actually recruited clique friends from all over Israel. She posted all over social media to identify pairs of friends. So these are our same sex, non romantic dyads. So these are friends, men and women whose friendship started as a clique, where here, this becomes sensitive because it has to be a mutual click, right. Later on, we discovered there could be one sided cliques. So somebody's. Sure they clicked with somebody else, but the other person."
+    },
+    {
+        "speaker": "A",
+        "text": "There's a name for that in neurology that our common friend, the late Ben Barris, taught me, which is, there's a phrase that neurologists use called sticky. These are people that come up to you and start asking you questions and then won't leave you alone. They're so called sticky people. And if you ask these sticky people, sticky in air quotes. Cause they're not physically sticky. They may be what they could be. What do you think of this person? They'll say, oh, they're great. We're really good friends. And so they've made a unilateral click friendship. And yes, neurologists are talking about, if you're one of these people, neurologists are talking about you. There's an informal diagnostic code, sticky."
+    },
+    {
+        "speaker": "B",
+        "text": "So she recruited click friends, and then she sampled their body odor. And we have a protocol for this. They're given odorless shampoo and soap to use for three weeks or something, and then they sleep two nights in this t shirt, where they have to sleep alone. And then we extract the body odor from the t shirt. And so we have a way to extract a method to extract body odor. And then she first asked whether, indeed, click friends are more similar in their body order than you would expect by chance. And she first tested this with a device, a machine we call an electronic nose. So an electronic nose is sort of very poor effort to mimic what the mammalian nose does. Basically, it's a bunch of sensors that respond to airborne molecules, in this case, sensors referred to as moxers, as metal oxide covered sensors. And so she used an electronic nose to sample these body orders, and she found that click friends are indeed more similar to each other than you would expect by chance, by random dyads. And this was a significant difference. And after she found that a device could do this, she had other participants do this. So she had people smelling the click friends versus non click friends, and they judged them as being more similar to each other than not. Now, again, you might wonder, is this causal or not? Right? Because maybe click friends go to the same restaurant together or all the time or whatever, live in the same neighborhood, and that's why they. They smell the same. So to address causality, she recruited total strangers and first smell them with the electronic nose and then engage them in a social interaction, something called the mirror game. So, in the mirror game, one person moves their hands, and the other person is really close to them, like right here, so they can smell each other and has to move their hands with the other person. And one prediction there panned out, but another didn't, the one that didn't. So she predicted that people would smell more similar to each other, would be better at the mirror game, that is, they would follow each other better. That did not pan out. However, she then also had. The interaction was completely nonverbal. They were not allowed to speak with each other, and she did an entire round robin, so everybody played with everybody else. This was an insane experiment to run. And she then, at the end of the experiment, each person rated each other person as to how much they think they would want to be their friends, and also on a bunch of ratings, how nice they think they are, how affectionate they think. A bunch of ratings. Okay, all of this was predicted by the electronic nose. So people who smell more similar to each other think that the other person is more likely to be their friend, is more likely to be a nice person, et cetera, et cetera. So we could actually predict friendship using the electronic nose. So this is not a result of friendship. It plays into the causal elements of building friendship. So this is to relate to your childhood story. There's something going on here. We're constantly smelling ourselves. Constantly this, constantly. I mean, if you want to. The reason I'm smiling, I mean, and your viewers or listeners will understand why I'm smiling. I'll send you a video to link into your podcast here. The fact that people constantly sniff themselves. We thought of calling this the low effect. So in America, this won't pass that effectively, but in the rest of the normal world. Joachim Low is the national soccer coach of the german soccer team. I mean, I don't know who would be a very famous coach here, but Steve Kerr, I mean, this is the. This is a super, super famous name all around the world, where soccer is the primary sport that people watch. And once people will see this video, they'll understand why we thought of calling this the low effect. It's very graphic, but people are constantly smelling themselves. They're smelling themselves with their hands. They're smelling themselves. Explicitly. People are constantly smelling themselves. Constantly smelling others."
+    },
+    {
+        "speaker": "A",
+        "text": "I find this topic so interesting. And first of all, confession. I definitely smell myself multiple times per."
+    },
+    {
+        "speaker": "B",
+        "text": "Day, and everybody does."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, good. And I would do it anyway. I think I like most people. I either find my own smell to be neutral, to pleasant. Occasionally I'll be like, whoa, I need to take a shower. As long as we're talking about smelling oneself and friendship, kinship and its relationship to smell, we have to talk about the relationship between smell and romantic attraction and bond. So my understanding is that if, for instance, a mouse is given the option to mate with any number of other different mice, they will bias their choice toward the mouse that has the immune composition, the so called MHC major histocompatibility complex, which reflects immune diversity, the immune system that is most distant from theirs. The evolutionary argument being that were they to produce offspring, that the array of immune genes would be much broader than if they were to select an animal very close to them. And in addition to that, that one of the most strongly selected against behaviors, not just culturally, but at the level of eliciting a sense of disgust, maybe even from the activity of the hypothalamus, is mating with very close kin, aka incest, because that can potentially, we know, produces a higher rate of mutations. In other words, whereas you describe the relationship between smell and choice of friends as you choose people who smell more like you, my understanding is that in the context of choosing romantic partners or sexual partners or both, that you choose the person whose odor, and therefore immune composition, is most different."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. So the way you describe the animal literature is correct, and there's evidence to similar mechanisms in humans. Our lab has not worked directly on this issue of romantic selection based on odor. There's a bunch of papers, Wedkind et al. And the Wedkin lab, and also porter, I'll email these to you later on, that have done a lot of this work, and find, exactly as you say, that romantic odor preferences in humans are influenced by body order, and that this is linked to MHC histocompatibility complex makeup of the portion of our genome that shapes our immune system to some extent. So this effect has been studied and reported on again extensively in mice and also in humans. Not work that we've done. The one sort of tangent work we've done, and I'd like to maybe tell you about it, relates to an effect that is one of the most remarkable effects in mammalian social chemo signaling and also related to. So it's not related to romanticism in any way, or. But. But it's related to reproduction. And indeed, in our lab, we've not looked at romanticism. We have looked at, or are looking at reproduction. They're not always the same, certainly, but they can. Animal, mammalian or terrestrial? Mammalian reproductive behavior is dominated by the sense of smell in mammals. And here, remember, initially, when we started off, I noted that there are several subsystems in our nose that transduce odorants, and so primarily the main olfactory system, which is cranial nerve number one, and the trigeminal nerve, which is cranial number five. Most terrestrial mammals have another subsystem, referred to as the secondary olfactory system, that has a separate sense organ in the nose. This organ is known as the vomeronasal organization. It's a small pit in the nasal passage of most terrestrial mammals. Sometimes it's described as a communicating pit because sometimes it connects the nasal passage to the roof of the mouth. Sometimes it connects both. There's the sense organ with its specific receptor subtypes, vnrs, vomorneazole receptors. And this is linked to a sort of separate portion of the olfactory bulb, not really the main olfactory bulb, referred to as the accessory olfactory bulb. And from there directly to the limbic system, to the portions of the brain that control reproductive behavior and aggressive behavior. And in most terrestrial mammals, this subsystem processes odorants that are sometimes referred to as pheromones, although that's in many ways a problematic term. But odorants that are referred to as pheromones, namely odorants that are emitted by another member of the species to influence that member of the species and alter behavior or hormonal state. And some of these pheromonal effects are utterly remarkable. And in my view, the most remarkable of all is an effect known as the Bruce effect. This was an effect discovered by Margaret Bruce in 1959. She was a british scientist. And in the Bruce effect, when you expose a pregnant mouse at an early critical stage of the pregnancy, I think up to about day three, if you expose the pregnant mouse to the odor of what is referred to in technical terms as the non stud male, that is, a male who did not father the pregnancy, she will miscarry the pregnancy, she will abort it. Now that's an insane decision made by the female here, right? Because she's invested quite a lot in this, right, in biological terms, in forming this pregnancy and maintaining it. And yet she drops it on the basis of an odor. And this effect is remarkably robust. And what do I mean by remarkably robust? So this will occur, occur on about 80% of exposures. Now, as you know, 80% is 100% in biology, right? I mean, there's nothing that happens at more than 80%. So it's a remarkably robust effect, this dropping of the pregnancy."
+    },
+    {
+        "speaker": "A",
+        "text": "And we know it's mediated by chemosensation."
+    },
+    {
+        "speaker": "B",
+        "text": "Through the nose for sure. And we know in the following way. So first, it's enough to just bring the odor of the non stud male. You don't have to bring the male himself, so you just can bring bedding from a non sudden male. And that will induce the Bruce effect. But of course, the most telling set of experiments is that if in the female mouse, you ablate the Vomeron nasal organ, you just burn this tiny structure in the nose, then the effect disappears. So the effect is completely dependent on the vomeronasal organ. And I find this out earlier, a remarkable effect, right? I mean, because, again, because of the. The extent of cost that the female takes on here based on this information and smell. Now, humans, the sort of the going notion in olfaction is that humans don't have a functional, vulnerable nasal organ. So we don't have that functional organ in our nose. Now, I'll point out, we actually do have the pit. So the structure or the outlining structure is there, but the pit that we have is considered vestigial and non functional."
+    },
+    {
+        "speaker": "A",
+        "text": "And what about this thing I learned about at Berkeley in integrative biology class that we have something called Jacobson's organ?"
+    },
+    {
+        "speaker": "B",
+        "text": "This is the same organ. So Jacobson organ is the former nasal organization. It's also called Jacobson because I think Jacobson was a military physician in like the 18 hundreds in Holland or something, and he found it in a soldier he was operating on or something like that. The story comes from something like that. But Jacobson organ is another name for the former noisel organ. These are one in the same, the sensory organ of the accessory olfactory system. And again, the going notion is that the human Jacobson organ, or Vermones organ, is vestigial. It's non functional."
+    },
+    {
+        "speaker": "A",
+        "text": "Does that necessarily mean that we don't have these pheromone effects?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, it does not. So, first of all, we know that lots of what are considered pheromonal effects, namely social chemosynaling and rodents, are mediated by the main olfactory system. We know that for sure. There are several examples for this in mice and rats and rabbits and so on and so forth. So a, these can be mediated by the main olfactory system, and I'll come back to that in a second. But first to finish the Bruce effect. And second, and I'm going out on a limb here, but I'm willing to take that risk. For me, the jury is still out on human vulnerabilities. Organization. The decision, or the notion that it's nonfunctional, relies on about one and a half papers postmortem, looking for the nerve that connects this thing to the brain and failing to find it using staining and so on and so forth. But staining postmortem studies in humans are notoriously complicated, basically for many reasons. One of them is that the material has just always gone through. It's not ideally set as it is when you sacrifice an animal and study its tissue. So based on really a paucity of studies that fail to find this nerve, the notion is that the structure is vestigial in humans. I don't have any evidence that it's functional, mind you, but I'm just not sure that it's not. But what we do have a suspicion is that humans may experience something similar to a Bruce effect. First of all, humans have an enormous number or ratio of spontaneous miscarriage."
+    },
+    {
+        "speaker": "A",
+        "text": "Are they occurring more often in the first trimester? Because you mentioned that in the Bruce effect in the mice is in the first three days or so following pregnancy, which in the mouse gestation, as I recall, is about 21 days in the mouse. So you're talking about one 7th of total gestation. So I'm not quick enough to, nor is it important to translate, but this would be first trimester in humans, which."
+    },
+    {
+        "speaker": "B",
+        "text": "Is indeed early first trimester when most miscarriage occurs. Humans have, again, a huge number of miscarriages. And the numbers, I'll soon share them with you. They sound odd. And the reason they sound odd is because if you have what's sometimes simply referred to as failed implantation, this can occur in days one, two. Nobody ever knows. Some papers talk about 90% of all human pregnancies end in miscarriage. This is counting a failed implantation in day one, two, et cetera. More conservative studies talk about 50%. Nobody will argue 30%. Okay, so a huge number. A huge number of human pregnancies end in miscarriage. Now, out of these, there's a portion that are unexplained, right? So nobody knows why. I mean, there are a portion that are explained by all sorts of genetic factors, developmental factors and so on and so forth. But there's also a proportion that are unexplained. And so all I'm saying is that there's a statistical backdrop, or setting, if you will, for something like a remnant Bruce effect in humans. Now, with that in mind, we approached a group. We enlisted a group of. They're not really patients and participants in a study of people who couples who are experiencing what is referred to as unexplained repeated pregnancy loss. Formally, if you have two consecutive unexplained miscarriages, then that is sufficient for the diagnosis of unexplained repeated pregnancy loss. However, in our cohort of 30, we had couples who experienced twelve consecutive unexplained repeated pregnancy losses. So the two is just the formal. All of our cohort was like twelve five. So this is an emotional, difficult place to be. And these are couples who are losing their pregnancy for no apparent reason. So they've gone through all the tests that you can imagine of genetic incompatibilities and all sorts of issues, clotting all the known suspects for pregnancy loss. And the medical establishment remains totally at a loss as to why these pregnancies aren't holding. And so we hypothesized that perhaps here there's something akin to a Bruce type effect. Obviously, it's not going to be the same as in mice, but something like a Bruce effect. Now, of course, at that stage, we could not do anything causal to test this, right? But what we could do is to see, to seek circumstantial evidence to see if where there's fire, maybe there's smoke. And what we did was we tested olfaction and more specifically, the response to male body odor in the couples experiencing repeated pregnancy loss. And we found a few things. First of all, if you think of the mechanisms behind the Bruce effect, the Bruce effect implies that the female has to have a very clear memory of the fathering male, because if she's going to miscarry in response to the non father, she has to know father. Non father. I mean, that means that there's a pronounced olfactory memory at the moment of mating. And in mice, this has been very well characterized and attributed to the anterior olfactory nucleus structure in the brain. But you'd have to have this memory in order to make that decision now. So to address that, and here you're going to see that you and your childhood story from before for stand out a bit as skillful is that the first thing we did was just behaviorally test whether these women and control women could identify the smell of their spouse. And you might be disappointed, or we would all are probably a bit disappointed to learn that control women are very poor at this. So you would think that women would be good at identifying the body odor of their spouse. They're not. They're not far from chance. However, the women who experience repeated pregnancy loss are more than. They're double at their performance level. So this is not a nuance effect. Women who experience repeated pregnancy loss can identify their husbands or their spouses by."
+    },
+    {
+        "speaker": "A",
+        "text": "Their body order with much greater acuity than the typical person."
+    },
+    {
+        "speaker": "B",
+        "text": "Double. A bit more than double and way above chance."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, no, sorry, I posed it as a question, but I meant yes, with much greater acuity. And double is a significant improvement. Are they much better at detecting any odor?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, they're not. We did the controls and they're not. And then we also measured using fMRI. We measured their brain response to stranger male body order. And this was quite remarkable because we approached. So this was a full brain analysis without a region of interest analysis. So it's nothing is, if you're tweaking your statistics to look at one part of the brain, you're just looking at the entire brain in the response to male body order and asking de novo, is there a difference between these two groups of participants? And there was one huge difference, and it was in the hypothalamus. And so there was a difference in response to stranger male body order between the two groups. So olfaction is altered, repeated spontaneous pregnancy loss. We don't know this is causal. Right. But that was enough for us to approach the ethics committee to run a causal experiment. And we're at the beginning of that now."
+    },
+    {
+        "speaker": "A",
+        "text": "Incredible. I can't wait to hear the results of that."
+    },
+    {
+        "speaker": "B",
+        "text": "It's gonna take. It'll probably take years, a few, because these are slow experiments to run. Recruitment is complicated, but basically we're blocking smell in couples who are trying to maintain a pregnancy."
+    },
+    {
+        "speaker": "A",
+        "text": "I want to touch on some other so called pheromone effects. And one thing I heard you say during a talk, which I think really captures this whole issue of are there pheromone effects in humans? Very nicely, as you said, whether or not it's a classic pheromone effect, or whether or not it's olfaction or something else, this is chemosensory signaling between individuals. The reason this is important to me is a few years ago I did a social media post about pheromone effects in animals and some potential pheromone effects in humans and a couple of the human olfactionistas. More from the they actually, who work on animal models, really came after me with intense sniffing, saying there is no evidence for human pheromone affects human pheromone organs. And I think today you've beautifully illustrated how, regardless of the answer to that, humans contain and are emitting chemical signals that influence each other's physiology and behavior."
+    },
+    {
+        "speaker": "B",
+        "text": "For sure. For sure. And the term pheromone is a problematic term in any case, the term was put forth to describe insect behavior, right? So if you were given a hard time by the mouse people, you could have given them an equally hard time if you were an insect person, right? Because really, the place the term is accurate is. So the first pheromone that was discovered was bambicol, which is the pheromone that has the male moth follow the scent trail of the female moth bambicol is a pheromone, insect pheromone. People will argue that this stuff that people talk about in mice and rats is not pheromones."
+    },
+    {
+        "speaker": "A",
+        "text": "I see."
+    },
+    {
+        "speaker": "B",
+        "text": "And it all becomes semantics."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, sort of like nerdy inside ball."
+    },
+    {
+        "speaker": "B",
+        "text": "It's all semantics. So in our publications, we don't use the term pheromone because it would not help me and it would probably only hurt us. And so we talk about chemo signals, and humans definitely emit chemo signals from their body. And these chemo signals influence other humans and influence their behavior. There are several examples of this. One of them I'll point out first, which is the most widely studied and not mostly from our lab, actually, the flavor of the month for the past ten years in this field is what's referred to as the smell of fear. Right. So this is probably true of many mammals and humans. It's true of we emit a specific body odor when we're in a state of fear. This was first discovered in humans by Denise Chen out of, I think, brown. I'm not sure."
+    },
+    {
+        "speaker": "A",
+        "text": "I think that's right."
+    },
+    {
+        "speaker": "B",
+        "text": "Yep. Humans emit a particular body order when they're in a state of fear. And this body order influences other humans, in effect, increasing their autonomic arousal, their sympathetic state. So, in effect, you could say that fear is contagious a bit. So the smell of fear is contagious. By the way, culturally, we know for ages that dogs can smell fear in humans. But actually that was only really shown about a year and a half ago in a study. So it was always said, but it wasn't really shown effectively. It was shown about a year and a half ago in a study that dogs indeed can smell human fear and humans can smell human fear. So several labs, starting from Denise Chen and Haviland Jones and then in our lab and in other labs, if you collect body odor from people in a state of fear and collect body odor from the same people when they're not in a state of fear, other people can determine which is the state of fear or not, and this influences their behavior."
+    },
+    {
+        "speaker": "A",
+        "text": "What about the smell of safety? Or is that simply the absence of the odor corresponding to fear? And the reason I ask this is somewhat woven into our prior discussion about mate choice. Again, I'll ask the question in a form of brief anecdotes. I'll use the. I had a friend who approach here, but. Well, one phenomenon that has nothing to do with me in particular, I think this is a common phenomenon, is romantic partners leaving articles of clothing at each other's homes. Now, this could have other purposes to mark territory, but visually marking territory, but also scent marking territory, is very common in the animal kingdom. It's not uncommon for romantic partners when one is traveling or away, for the other partner to smell their article of clothing in order to bring about positive connotations of the other partner. Very common behavior. If you're doing this, folks, other people are doing this too. It raises questions, for instance, about whether or not the mourning period post breakup, whether by decision, by death, or by some other phenomenon that's forced the breakup, whether or not that mourning period has something to do with an olfactory unlearning of and made slash and on and on and on."
+    },
+    {
+        "speaker": "B",
+        "text": "With all these insights I would offer you to be a postdoc."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I was gonna say, listen, I have a sabbatical finish, so I would love to do a sabbatical."
+    },
+    {
+        "speaker": "B",
+        "text": "It's gonna kill me."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. You don't want me to work for you. We talked about this. There's a story there."
+    },
+    {
+        "speaker": "B",
+        "text": "What?"
+    },
+    {
+        "speaker": "A",
+        "text": "No miss referring to. I'll just tell people inside jokes on a podcast don't really work. Earlier, I was just. I was referring the fact that I've had three incredible scientific mentors, undergraduate, graduate, and postdoc. But for reasons that are unclear to me, the first one died of suicide, the second one, cancer at 50, and the third one pancreatic cancer in his early sixties, and the last one before he died, who was an MD and a common friend of gnomes. And I turned to me and said, andrew, you're the common denominator. So the Joker joke to my business is you don't want me to work for you. So nonetheless, I would love to do a sabbatical in your life."
+    },
+    {
+        "speaker": "B",
+        "text": "So what I was trying to say in that roundabout way is that those are all really keen observations and good ideas for sure. And they just highlight again that we're incredibly olfactory animals. And you're even talking about the nuance. We're very olfactory, even not in the nuance. I mean, I have this when people tell me that we don't use our sense of smell and we don't need it and all that. And I have to deal with the. A lot, right? I have to deal a lot. You study vision. Nobody will tell you that vision is unimportant, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Visually dependent. I don't need a dog to take over my olfactory system if I lose olfaction. But I'll tell you, from having lost my sense of smell for one day, I was in intense fear, I bit into blueberries. I love blueberries. I'm like a drive by blueberry eater. If they're there, I just kind of pick them up like a grizzly bear and cram them in my mouth. So keep them away from me if you don't want them eaten. But I can't. I almost can't help myself. I bit into a blueberry or a handful of blueberries, and they just. It was the sensation of little bags of water, and I immediately felt like tremendous, tremendous grief."
+    },
+    {
+        "speaker": "B",
+        "text": "I'll tell you a sort of throw a line that I use in this when I talk with people. You know, I mean, you know, take the two most basic behaviors that sustain us, right? Let's say I give you a choice between a beautiful looking layer cake with strawberries and blueberries and whipped cream, but that smells of sewage versus some gray brown mix that smells of cinnamon. Which do you eat?"
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, simple. The latter."
+    },
+    {
+        "speaker": "B",
+        "text": "You eat the latter. Now, imagine I offer you a mate. Choose the gender of your liking, right. It looks like a greek God or goddess, right? But smells of sewage, or an ordinary looking individual that smells of sin itself. Who do you choose?"
+    },
+    {
+        "speaker": "A",
+        "text": "The latter. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "So in the two most basic behaviors we have, we follow our nose, not our eyes, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Definitely not always in predictable ways, because you offered an extreme example, which is the best example. But I, for instance, for reasons I don't know, I've never liked the smell of perfume, ever. In fact, I find it aversive. But I do. I confess, I do like the smell of certain body odors very much. And I'm very particular about that. And I know within an instant. And so this is a problem for any romantic partner who likes perfume for me. But I know many people like perfumes and colognes and things that I like. And in fairness, I've also been told that by someone that they couldn't spend time with me because they do not like my smell. In fact, they dislike it. And fortunately for me, there's at least one person on the planet who said the opposite. So I completely agree with what you're saying. I can also say that I imprinted on the smell of. I had a bulldog mastiff that I raised from the time he was a puppy, and I imprinted on his smell immediately. And even though to other people, he was a bulldog mastiff, after all, his smell was rather aversive to me. He smelled delicious, right? And it made me feel. It smelled like home. And he was my best animal friend for a long time. And on and on and on. Right. The smell of children, as you said, the backs. We had a guest on this podcast who I'm sure you're familiar with. Charles Zucker, a professor at Columbia, has done incredible work in vision and olfaction and thirst, sensing it. And he and I talked a little bit about this, that there's something in the breath of romantic partners that's hopefully appetitive, not aversive. As well as in children. He was talking about the smell of his grandchild, the nape of their. The back of their neck, and how he misses that smell, because when he thinks about missing his grandchild or children, it's that smell that's associated with that feeling."
+    },
+    {
+        "speaker": "B",
+        "text": "Hexadecanal."
+    },
+    {
+        "speaker": "A",
+        "text": "Hexadecanal, yes. Is Charles Zuckerberg. Your grandchildren smell like hexadecanal? Yes. He's going to come after me now."
+    },
+    {
+        "speaker": "B",
+        "text": "They do. This is a study ran by Eva Michor, who was a graduate student in our lab. And Eva was interested in aggression. She was really into aggression. And actually, when she started off, we said, okay, let's do chemo signaling of aggression. She actually was going to, like, MMA clubs and collecting body odors. And we had all sorts of ideas going. And she worked on that for quite a bit. It never went anywhere, really. And then at the same time, we had a colleague of ours from Germany. I mean, when I say colleague, primarily a friend or acquaintance I met at conferences, Heinz Breer, and he was studying in his lab a molecule, hexadecanal. That was a chemo signal in mice, where in mice, it was described as a chemo signal that promotes social buffering, where social buffering, as far as I understand, it's not my field, but as far as I understand, it's basically a feel good together thing. So when lots of mice are together, they feel good about being in a group, and that's social buffering. And it's promoted by hexadecanal, which they emit in their feces mice. And in his work on hexadecanal. So Breer and his colleague Stortzmann, they discovered the receptor for this, and then they went and discovered that the receptor is very highly conserved throughout mammalian evolution. And therefore, they hypothesized that maybe this is a universal mammalian signal, which is unusual, because in chemo signaling, typically, you tend to think of things as being very species specific. But here they hypothesized that maybe hexadecanal, which promotes social buffering in mice, may do something in all mammals, again, because this receptor is very highly conserved, or 37 b I think so he approached us and said, look, you got to study this stuff in humans, because he knows us as the human people. We go to these olfaction conferences where lots of people study mice and zebrafish and whatnot, and we're the human group. And eventually he just fedexed us hexadecanal. And so we had this thing sitting around, and Eva was not going anywhere with her aggression studies with sweat from human participants, and yet she built the entire paradigm to study human aggression. So there are standard paradigms. This is a paradigm known as the tap, the Tyler aggression paradigm. I'll soon describe it. And so we said, okay, we have this hexadecanal stuff here, and it promotes social buffering. Social buffering sounds like it would make you less aggressive. Why don't you run your tap experiment using hexadecanal? What's the tap experiment? So, basically, what you do is you bring in a participant to lab, and you have them thinking that they're going to be playing against another person in this game, and you can do something like have another person walk into the other room, playing online, connected, so you can fool them into being quite convinced that this is what's happening. And they go into their own room. And in the initial game they play, on each round, they're provided with a sum of money, and this is real money that they'll receive at the end of the experiment. And by turn, each one of them decides how to divide the money up between the two. So they're playing against another person, they think, but that's actually a computer algorithm that they're playing against. And the computer algorithm is programmed to be, in scientific terminology, a jerk. Let's say they have to divvy up 100 Chekel, which is the israeli currency. The other player would say, I'll keep 96, and you get four, and then you can either accept it or not accept it, and then neither of you get anything, right. So basically, you're being shafted by the other side all the time, and this is called the provocation phase. You're really getting angry at this person because they're really not nice. They're shafting you on every trial, almost, and you play this game, and it goes to its end, and then you play a second game, as far as you know, against the same participant. And the second game is a reaction time game, so a target shows up, and the first to press it wins. And on every trial where you win, if you want, you can blast the other participant with a loud noise, and it's a really loud noise. So you're also wearing earphones. It's 90 decibels, and it's a screeching, horrible sound. It's the most punishment that an IRB committee will let you endure on a participant in an experiment. Unless you're in Stanford 70 years ago, or whatever that was."
+    },
+    {
+        "speaker": "A",
+        "text": "No, it's referring to the classic prisoner experiment, which took place in the building next door to where I work."
+    },
+    {
+        "speaker": "B",
+        "text": "So you can blast the other participant with varying levels of sound, and you have a selection box from something very low to something very high. And what's nice about this is that it then allows you to quantify aggression, because the more volume you're blasting the opponent, the more aggressive you are towards your opponent. And so you have a measure of aggression. Again, the Tyler aggression paradigm, obviously invented by Tyler, very well validated, studied all over, a very standard protocol. So we brought in participants and had them play the Tyler or the tap, either under exposure to hexadecanal or control. Now, hexadecanal doesn't. It's incredibly difficult to even detect hexadecanal, but just in case, because it's not very. It's considered a semi volatile. It doesn't have a strong smell. But we buried both the control and the hexadecanalyn in a control order that hid them in a mask. And she ran lots and lots and lots and lots of participants, men and women. And I'll first tell you the result with men, which is that hexadecanal consistently reduced aggression. People were less aggressive under hexadecanal, the effect size was quite meaningful. And later on we learned, because I'm no specialist in the world of aggression, but compared to effects seen in the aggression world in research, really, really strong effects. So unusually strong hexadecanal lowered aggression in men. And we were like, cool. This is sort of what we were hoping to see. Consistent with the hypothesis and consistent with it seems to do in mice. But then we looked at data from women, and hexadecanal increased aggression equally significantly."
+    },
+    {
+        "speaker": "A",
+        "text": "Is this thought to be something related to maternal protectiveness?"
+    },
+    {
+        "speaker": "B",
+        "text": "We're getting there. So you got there really fast. It took me a year, and Eva got to it. Really? I'll tell you, because remember, we're reaching the back of the head of your, whose was it? Grandchildren."
+    },
+    {
+        "speaker": "A",
+        "text": "Charles Zuckerberg."
+    },
+    {
+        "speaker": "B",
+        "text": "Charles the girl."
+    },
+    {
+        "speaker": "A",
+        "text": "The Charles Zucker, one of the kingpins of the New York neuroscience mafia."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. So this was really odd to me at that time. So I didn't have the intuition. You just had and I was like, there is some bug here. I mean, it makes no sense to me. Why would something increase aggression in women and decrease aggression in men? This is really, really strange. And I said, okay, I want to see this happen again. Before we go ahead with this, she went and did the entire experiment again. And this time, she did it within the fMRI magnet so that we can also track brain activity while this was happening. First of all, it replicated again. Once again, hexadecanaly made men less aggressive and women more aggressive, and the extent of more than the effect alone. The dissociation was remarkable. It's almost like a chromosomal test. I mean, you look at the data on the unit slope line, and all the men are below and all the women are above. There's this figure in the paper. Then she also looked at the brain data, and this is. Although our lab does a ton of fMRI, it's one of the major tools we use to measure brain activity. I'm quite cognizant of the limitations of fMRI, and this is, I think, sadly, I think, the only study in my career, at least, where I actually managed to also get a mechanism out of fMRI, not only an area that's involved in activity. Here's what we saw. That hexadecanal alone increased activity quite pronouncedly in an area of the brain known as the left angular gyrus. Now, this is an area involved in what's referred to as social appraisal. So that was kind of cool in that a social order activated the social brain, not the olfactory system, per se, and very pronounced. So, on one hand, that was cool, but then what was uncool was that it did the same in men and women. And this was in contrast to behavior, which you don't like seeing, right? I mean, because you would expect brain activity to reflect behavior. And it increased activity in the left angular logyrus in both, both men and women. But then she did a follow up analysis, which was look at what's referred to as functional connectivity. That is, how does this region of the brain talk with the entire brain, as it were, under hexadecanal versus control? And here, the dissociation reemerged powerfully, whereby the connectivity from the angular gyrus was mostly to the classic neural substrates of aggression. So the amygdala and the temporal pole and the connectivity went in opposite directions in men and women. So hexadecanal increased functional connectivity in men and decreased it in women. So, in a way, this is almost saying that the default brain reaction is aggression, right? The default is to aggressive. And in men, hexadecanal increases the control that the left angular gyrus is holding over your aggression and keeping you back. And in women, it let it roam free, and they became more aggressive. But I was still puzzled, so I was convinced this happened twice. The MRO data provided not only a pattern, but a mechanism which is unusual. And yet, I was telling Eva, you know, but, you know, this makes no sense to me. And then. And then her insight, which, of course, afterwards is like, duh, is no, there's a place where this makes perfect sense, and that is if you're a mammalian offspring, because paternal aggression is often directed at you. There's infanticide all over, and sadly, there's male aggression towards human children as well. And maternal aggression is often protective. So if you're an offspring, if you have a molecule that will make your mother more aggressive and your daddy less aggressive, both of those are good for you. So you're winning. So we remembered a recently published paper from a group in Japan that looked at the odors emanating from baby heads. We now come full circle to Sucre's grandchildren. They used a method known as GCMS, gas chromatography mass spectrometry, to measure the volatiles from baby heads, because baby head odor is a cultural thing across cultures, even in Japan. We quickly went to that paper to see if one of the molecules that report is hexadecanal. And we were very disappointed that it wasn't one of the molecules they reported in the paper. We wrote to the authors, who are since then, our co authors, and we said, look, we're studying this molecule, hexadecanal, and we don't see in your results. And we were wondering, maybe you had some results that you didn't publish or some supplementary materials or whatever. And this lab, which is a hardcore GC lab, said, no, no, hexadecanol is a semi volatile, which we knew, and our previous paper was not directed to the semi volatile range, but we can now do use what's called GCx, double GC, that is directed at semi volatiles. And we can do this again. We just studied eleven babies and we can see if this is an issue. So he said, yeah, please do. The bottom line of all this is that hexadecanol is the most abundant semi volatile in baby heads. It's tons of it coming out of baby heads. So, babies, again, speaking about if humans do or don't chemo signal, babies are conducting chemical warfare. Right. They're reducing aggression in their fathers or males around them and increasing aggression in their mothers or females around them. And both of those things are good for them."
+    },
+    {
+        "speaker": "A",
+        "text": "Incredible. This is somewhat different than what we're talking about, and yet similar in other ways because it's built off of anecdotal evidence. But it's anecdotal evidence that you hear all the time. And yet, when you look in the scientific literature, at least by my read, the data are not clear, maybe even contradictory. And that relates to the coordination of menstrual cycles among co housed women or women who are friends. Many women listening to this, and maybe some men who are aware of this effect will say, oh, yeah, absolutely. When I spend time with my friends or go away camping or even spend a day with them, our menstrual cycles become coordinated. However, my understanding is that the early literature. Barbara McClintock. Correct, discovered this phenomenon, published a paper in science as an undergraduate, 1971. Nature, amazing nature paper, again, one of the three apex journals. And as an undergrad, fantastic. So discover this, describe this, and probably women all over the world who became aware of this one way or another probably said, yes, absolutely. This gives validation to what we've observed over and over again. And yet, as subsequent papers have been published, this result has been called into question. Is there any final word on whether or not menstrual cycles become coordinated among women who spend time together? And if so, is there any role of olfaction in this or chemo sensing through the nostrils and or mouth to support this idea?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So I'll start off. Indeed, to echo the background is that this study was conducted by Martha McClintock when she was an undergraduate at Wesleyan College. And she noticed that she thought her menstrual cycle and her co inhabitants in her dorm room were coordinated in time. And I should say that this comes on the basis of similar or related type effects in rodents. Now, rodents don't have a menstrual cycle like humans do, but there's an effect in runes referred to as the Witten effect, which resembles this type of effect. And she published, indeed that paper as an undergraduate in nature in 1971. And to answer your question, she published a follow up in 1998, also in Nature, with then her graduates student at Chicago, Stern. So this is Stern and McClintock, 1998. And here's what they did. They collected sweat from donor women and deposited it on the upper lip of recipient women. So this would be a fun experiment for you, at least, because you said you like body odors. But for many others, perhaps it would be daunting."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I like certain body odors from certain individuals. Yeah, I don't. I don't think I uniformly like all body odors, although I do seem to uniformly not like the smell of perfume, although I should just to clarify, because I put this out there, and I learned the hard way in the comments section on YouTube, some of those perfumes I find downright aversive."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Like, it's a. I think the great Marcus Meister, who great neurobiologist, once said, there's basically three responses. It's either yum, yuck or meh. So some, I are truly."
+    },
+    {
+        "speaker": "B",
+        "text": "I've never heard that one right."
+    },
+    {
+        "speaker": "A",
+        "text": "In terms of animal behavior, human behavior, we're either a move forward or pause. So some are truly a yuck. Some, many are meh. Zero to date are yum for me. Now, body odors, the distribution is shifted. It could be any one of those three. Yum, yuck or meh. So just to be clear. But the Yum category is definitely included. Thank you for allowing me to do that."
+    },
+    {
+        "speaker": "B",
+        "text": "So she did this study because in the original McClintock study, you might suspect other drivers of the effect. Let's say you accept the effect, but still there might be other social drivers of the effect that are not body odor. There might be some dominant woman who's dominant in some other way, and this might be driving the coordination. So here, there was no direct link between these women other than body odor. So if the effect reemerged, it would definitely be an olfactory effect. And what she found is that if she took sweat from the follicular or the ovulatory phase of the donors, one extended the cycle in recipients and one shortened the cycle in recipients. I don't remember which was which, but basically definitely denoting a cure chemo signaling effect with opposing effects on duration, based on the time it was collected from, again, published in Nature in 1998. That's it. There's a quotation. I think this is from. I'm not sure. But if something is published in Nature or Science, that doesn't necessarily mean it's nothing true. So, with that in mind, the findings were since called into question quite widely. One reason is just statistics of cyclic events are surprisingly complicated. So it's tricky. Once you have a cyclic event, statistics become tricky. And so Martha took a lot of heat on the statistics of claiming an effect, and I think there was at least one effort of replication that didn't really work out. If you ask me, I'm on the fence, but I may be in a minority in my field. I think a majority in the field is currently negative. I'm not. And we've said in lab that we should do a planned replication. We will. It's just, again, it's a horrible study to run. It's tons of work, and you have to run it for a really long time. So it's just completely non trivial. But we have a graduate student now in lab interested in these exact things, root weisgross, and she's doing similar stuff. And I hope we'll do that. I hope we'll try to replicate this very interesting result."
+    },
+    {
+        "speaker": "A",
+        "text": "And I think interesting because of its real world meaning outside the laboratory, of course, our experiment analog, but also because pheromone effects and olfactory effects in humans seem unique among neurobiological endocrine phenomena. Because there seems to be so many stories that we all have of the smell of our grandmother's hands, or the recognizing the scent of somebody, or I knew from the moment that I smelled their breath, or, you know, or I just liked their smell kind of thing. These kind of things that inform the deep potential for a real biological phenomenon, as opposed to the kind of thing like, oh, you just throw something out there. Oxytocin is bonding. And all of a sudden, the general public, to no fault of their own, comes to think that every aspect of bonding is oxytocin, and every defect in bonding is lack of oxytocin. The general public provides a sort of a rich. It's fodder for exploring all these things, and a lot of times they turn out to be true in the context of olfactory."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's a very primal system. So it's linked to the most limbic, primal mechanisms in our brain, and it drives primal behavior."
+    },
+    {
+        "speaker": "A",
+        "text": "It's an incredible system. I have a question about a particular study, but I'm just going to cue it up and you'll know immediately what I'm queuing up. And that is what is the relationship between odors and hormones, and in particular, crying."
+    },
+    {
+        "speaker": "B",
+        "text": "As I pointed out previously, the sort of flavor of the month in human social chemo signaling research is the smell of fear. And the media of the month is sweat. Right? So the few, maybe tens of labs in the world that study human social chemo signaling all collect sweat, and that's the media they look at."
+    },
+    {
+        "speaker": "A",
+        "text": "Is it always from the armpit? Or are there meaningful differences in terms of the sweat emitted from different locations on the body? I already know the answer to that as I ask it, but let's just stay above the waistline and."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, no, no."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, or below the waistline. I mean, we're biologists after all."
+    },
+    {
+        "speaker": "B",
+        "text": "We just. Yeah, so it's funny, we're working on a paper on that right now on the smell of fear. So we have a nice paradigm for generating fear. We throw people out of airplanes. It's a very effective way to generate fear."
+    },
+    {
+        "speaker": "A",
+        "text": "To come to your lab. It sounds like the greatest lab in the world."
+    },
+    {
+        "speaker": "B",
+        "text": "We didn't invent that, by the way. The first to do that was, and I hope I'm pronouncing her name correctly, I think it's Mujika Perudi. But that's our paradigm for generating fear, and we started that on our own. But we've since entered into collaboration with the israeli paratroopers brigade and we now collect body odor from every first time jumper. So we went that path because we, like everybody else in this field, the holy grail there is finding the molecules, right? I mean, if you'll have the fear molecules, that's a bonanza, right? Because, I mean, you could think of many reasons why it would be a bonanza, but for me, if you find the molecules, you can then try and find the receptors. And when you find the cognate receptors, you can then develop blockers and you can imagine. What's the term I'm looking for? I'm switching into Hebrew. It's about midnight now, right? I'm sorry."
+    },
+    {
+        "speaker": "A",
+        "text": "It's three in the morning. You're doing incredibly well. Considering the inversion of the two in the morning. We would never know. No one traveled in today from Israel. So he's a circadian inverted, as we say, anxiety."
+    },
+    {
+        "speaker": "B",
+        "text": "So you can imagine developing like a nasal spray against anxiety, right, where you would quell those receptors and kill the fear response, right? Which rather than going the current path, which is through neurotransmitters that then have effect all over the place, you would be getting fear at its source. So that would be why I would want that. And we figured out that doing that, collecting fear from three, four or five people in an experiment, you'll never be able to do analytical chemistry on that. So we have a setting we call fearbank, which now has more than 1000 samples in it. So we're trying to do analytics on that. But in doing that, we've joined the crowd. Everybody's doing fear and everybody's doing sweat. And in one of our discussions in the lab, we were saying, well, there's gotta be, or there potentially definitely could be additional bodily media that are playing into social chemo. Signaling. Now, many of these you can't really study just to throw it. Right? Most terrestrial mammals communicate social information through urine. But starting doing experiments with humans, with smelling urine, it would be difficult both in IRB and in agreement. And then this is a rare case where we actually hypothesized what we sought to do and did only claim, in retrospect that it was hypothesis, is tears. We started thinking about tears and looking into tears because tears are a bodily liquid, emotional tears that we emit in emotional situations where these are situations where nonverbal communication is critical and key, and tears are a liquid that is puzzling beyond ocular maintenance. And so the most influential text, I think, till this day in emotion research is Darwin's book. The showing of the emotions in men and animals, I think, is the full name of the book. And an entire chapter, chapter six is devoted to tears. An entire chapter of this book. Why? I with no conclusion why? Because the book revolves around describing the functional antecedents of emotional expressions. So, for example, showing of the teeth as a sign of aggression, right? So animals first bit with their teeth. And Darwin argued that through evolution, just showing the teeth alone became an aggressive sign because it started from biting. Or what I find is a beautiful example, and this is work partly done by Adam Anderson, now at Cornell, is the emotional expression of disgust. So disgust, which comes from the latin disgusia distaste, is spitting something out of your mouth. Now, what Adam showed is that the musculature patterns of activation and the temporal sequence of activation when you experience moral disgust are the same as when you spit a bitter taste out of your mouth, right? So again, so there's a functional antecedent spitting something out. And through evolution, the argument was that it became an expression of emotion and you express disgust just as if you're spitting something out of your mouth, even though in the case of moral disgust, there's nothing you're spitting out of your mouth. So, darn systematically went through the expressions of emotions and for each one went to their functional antecedent and explained everything very nicely. And then he got stuck with tears, right? Because tears are an obviously emotional expression and he could not find a functional antecedent. So he ended up saying, this is an epic phenomenon, basically, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "I don't know what all scientists do when they don't have a good explanation. Blame it on nature, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Right. But he bothered to write this entire chapter on the ocular sort of maintenance function of tears and so on and so forth, but nothing emotional. So we thought, well, maybe the function is a chemical signal. And so, with that in mind, we harvested emotional tears, which was also an amusing event on its own. Right. Because we posted messages on all sorts of boards that were seeking experiment participants who cry with ease. Now, this generated an unfortunate gender bias in our study, right. Because we received about 100 women volunteers and about one man. And, you know, I think this is not a problem. Only in macho Israel, right. Probably anywhere in the west. I mean, definitely in America would be the same. I think."
+    },
+    {
+        "speaker": "A",
+        "text": "My guess is that there are probably men out there who cry easily. Emotional tears easily."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, I'm sure."
+    },
+    {
+        "speaker": "A",
+        "text": "But they're not gonna show up."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah. That's what I'm saying. It's a cultural thing. It's not, you know, you're not gonna come to a lab and say, you know, I cry all the time. It's just not gonna happen. And then what we did is, for each one of these participants, you know, we would ask them, is there a particular film event that you know of that, you know, a scene that makes you cry? And interestingly, in these effective criers, there's always. Oh, yes. You know, the scene in so and so, I always cry profusely from that. You know, they have."
+    },
+    {
+        "speaker": "A",
+        "text": "Can you give me an example of one of the more commonly scenes?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. With ease. The movie the Champ. The champ dies. He's a boxer, and he dies. And literally in the hands of his. About eight year old son. And his son is standing next to his bed and, you know, saying, champ. And he dies. Right? It's a winner. Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "Waterfalls."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, got it. So, you know, we're probably the neurobiology lab with most sad movie films on the shelf in the world, right? We have a whole huge collection."
+    },
+    {
+        "speaker": "A",
+        "text": "There is such a thing as tears of joyous, by the way."
+    },
+    {
+        "speaker": "B",
+        "text": "So."
+    },
+    {
+        "speaker": "A",
+        "text": "No, no."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, we're going ahead of ourselves. But I just said we tried to collect them and failed. Even people who think they shed tears of joy and laughter, their eyes water a bit, but it's not the same thing in the effective criers we end up screening. So we collect a full ML of tears. A full ML of tears in about 15 minutes. Wow. So that's pouring, right? And that doesn't happen from laughter or. We've never seen that. We've never seen that happen from laughter. We tried. So we have all these sad films. And by the way, one of the amusing things is when we ultimately published this paper in science, we were forced, in retrospect, to go out and actually buy the films. Right. I mean, you know, originally we like, downloaded them. You're there, but you can't because you're be violating, you know, copyright laws. Right. So we had to buy, like, purchase all these films that the participants and why. So we actually have these in lab, like dvd's, you know, that we actually purchased. But."
+    },
+    {
+        "speaker": "A",
+        "text": "So nice coverage of potential legal fallout there. No, no, we did."
+    },
+    {
+        "speaker": "B",
+        "text": "I believe it was that. So. Yeah. And, well, we can touch on that later. But. So most of these volunteers who come saying they can cry with ease actually don't meet the bill. And so out of the about hundred at least more women that we screened, we ended up with about six who could really come to lab week after week and pour tears."
+    },
+    {
+        "speaker": "A",
+        "text": "There's a name for this in psychiatry. They call it narrative distancing. Some people, when they watch a film where someone's getting hit, they flinch quite a lot. It's almost as if they're experiencing it, but it works in the opposite direction, too. I know someone like this, where if they watch a film that someone's experiencing something even mildly positive, their mood elevates so they can quickly bridge. And it's not always adaptive, as you can imagine. So there's lack of narrative distancing."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. Yeah. One issue you can bring up with this entire line of studies in our lab is, I don't know if there's something very unique about the donors. Right. I mean, we're assuming these are tiers."
+    },
+    {
+        "speaker": "A",
+        "text": "And this is pretty common. I think that the numbers I saw out there, about five to 8%, that's."
+    },
+    {
+        "speaker": "B",
+        "text": "Exactly what we got. About. Right. About 600. So we collected tears, and we exposed participants to these tears, and we found a few things. First of all, the tears are completely odorless. You cannot detect them at all. Completely odorless. And yet when you sniff them, you have a pronounced reduction in testosterone within about 20 minutes, half an hour."
+    },
+    {
+        "speaker": "A",
+        "text": "This is men and women smelling women's tears. Men smelling women's tears, but not perceiving any odor."
+    },
+    {
+        "speaker": "B",
+        "text": "Nothing, just sniffing them. And you have about 14% drop in free testosterone. Free."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so this is testosterone that's already been liberated from the testes. Free testosterone, or that we've done a few hormone that's either bound or unbound is unbound, excuse me, from sex hormone binding globulin, et cetera. And it's the active form, so it's subject to very short time scale changes."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And this is people who study testosterone, which is not me, but they tell me this is a really strong effect. It's hard to even pharmacologically get an effect like that. That fasten, I mean. No, in pharmacology, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Years ago, I spent time studying endocrine effects of this sort, and that's a tremendously sized effect."
+    },
+    {
+        "speaker": "B",
+        "text": "So and so here I'll point out in passing that one of the concerns we had because of the effort to run this study is that nobody would ever try to replicate it. And to our joy, about two years later, an independent group from South Korea owet Al, who I don't know at all, replicated the testosterone effect to a t. I mean, like, same numbers. So it lowers testosterone. And we then also looked, using mister, at the effect on brain activity and saw pronounced effect on activity, a dampening, a lowering of activity under an arousing state, a lowering of activity both in the hypothalamus and in the fusiform gyrus, for whatever reason."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't know."
+    },
+    {
+        "speaker": "B",
+        "text": "Amongst other things. Yes, and we don't know why, but pronounced and currently, Shania Gron in our lab is replicating this again, and this time with a stronger behavioral component. And I can share with you unpublished data now under review. That's as you would expect, given the effect on testosterone, perhaps sniffing tears lowers aggression in men. Using, again, the tap, the same experiment used by Eva in the hexadecanalysis experiment."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm going to think of that as the sadist, the titration, the sadist titration."
+    },
+    {
+        "speaker": "B",
+        "text": "Tyler aggression paradigm, not unlike the Milgram."
+    },
+    {
+        "speaker": "A",
+        "text": "Experiments of the 1950s, which post this was looking at sort of post Holocaust behavior. People basically in american laboratories thinking they were torturing other people simply because they were told to. And a lot of people did that, even though most people would report that they would never torture someone. Yeah. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "No, humans are not a wonderful species."
+    },
+    {
+        "speaker": "A",
+        "text": "Or as we could say, I think it was the great Carl Jung that said, we have all things inside of us, but the goal is not to experience them all. Certainly, it's an incredible study, and it points again to the power of these chemo sensory systems and pathways. And obviously, there's so much here."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't know if you want me to tell about this or not, and I guess you can edit it out, at least. But this is just sharing stories about the politics of science. Whereas the effect on testosterone was replicated by an independent group in the original study in science, where it had three components, one was the effect on testosterone, which was robust, the second, which was brain activity, which was robust. And there was a significant but weaker effect on behavior. And I don't think we studied the right behavior in retrospect, what we looked at then was ratings of arousal associated with pictures. And there was an effect. It was significant, but it was not what carried the story. Now, there's a lab in Holland of a guy by the name of. I'm probably mispronouncing this, but I think."
+    },
+    {
+        "speaker": "A",
+        "text": "It'S vingerhoetz for the non Dutch. Yeah, dutch names are always a little bit of a challenge."
+    },
+    {
+        "speaker": "B",
+        "text": "But, and I shouldn't say that, being an israeli, I shouldn't go too much on that line, but that lab really didn't like our original tears story. And the reason they didn't like it is because they've built a career on this notion, including a book with this title that emotional tears are uniquely human. Now, here I should. Well, I should share. So one of the things we really liked about the tier result is that partially before we did our work, but more afterwards. And we like that because usually things. So usually in our chemo signaling work, like what I told you before about the Bruce effect, we look at what happens in rodents and we see if the same thing is happening in humans. This was a rare case where after we did this work, more or less identical effects were discovered in rodents. So a paper published in Nature two years later found that mouse pup tears lower aggression in male adult mice towards."
+    },
+    {
+        "speaker": "A",
+        "text": "Them in a smell dependent way."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah. And they also actually found the actual component in tears. So the tear pheromone that lowers aggression. Right. So this has us thinking of tears as. You can think of tears as like a chemical blanket in a way that you're covering yourself up again with to protect against aggression. Right. And so our finding, which to me, I mean, this is consistent with how I think about behavior in general. I don't think beyond language, there are very few things, definitely sensory things, that are uniquely human. I'd be hard pressed. But. So our finding went against their story. Right? Because here we're saying no, tears are this chemo signaling mechanism, like all animals. And by the way, just after this entire debate, about six months ago, there was a paper in current biology that dogs emit emotional tears, and it was the dogs emit emotional tears when they reunite with their owners. And you were talking before about oxytocin. So I think what they showed there is that not only that, but that the view of seeing the tears in the dog influences oxytocin in the humans. I hope I'm getting this right."
+    },
+    {
+        "speaker": "A",
+        "text": "I absolutely believe this. I mean, from the time I brought Costello home at eight weeks old, Costello's your dog. He's my dog, unfortunately passed away, but haven't a long time. Actually, the only time I can recall crying. Listen, I've certainly cried before, many times in my life, many, many times. The only time I ever recall crying to the point where I wasn't sure that I could keep producing two years. But somehow it is when I had to put him down. Right. It's just like, you know, and if I talk about too long now, I'll start trying to, you know, it's one of those things. And I think it's a healthy emotional state for sure. But I recall when he was a puppy thinking, this oxytocin thing must be real because I can recall being in faculty meetings, which, you know, fairly stated, are not always that interesting, but they could be pretty interesting. And someone presenting data in my mind thinking, I hope Costello is okay. What's he doing down in my office? This is when he was very little and also not needing to eat, not being able to focus on anything else except my attachment to him for about the first two or three weeks that I had him. Then it was easy, then I could focus off on other things. And I think. I think that dogs, perhaps through oxytocin, hijack the circuitry that's intended for child rear. I really do. Otherwise, why would people be so ridiculously attached to their dogs? I mean, hence all the posts of everyone thinks their dog is the cutest dog, the same way everyone thinks their children are the cutest children, by the way, was a very handsome bulldog."
+    },
+    {
+        "speaker": "B",
+        "text": "To put another nail in that story of tears are uniquely human, so they're not. Dogs shed emotional tears. And so that group really didn't like this, and they went ahead and tried to replicate, and to your listeners, I'm showing double quotations on the replicate, only the behavioral part, the ratings of arousal in women, of women, and fail to replicate that. I see now this was just sharing on how science works and doesn't work in my notion, in this case. So at the time, after they got this accepted in some journal, not a field journal, in the Journal of Memory of something, they contacted me for a response and I wrote to the authors and I said, look, this is very odd to me. Why don't you come, why don't we replicate this again together and see if it doesn't work? If it doesn't work, I'll publish it with you, that it doesn't work. And so I said, why don't you send over a graduate student or the lead author, and we'll do it here, we'll show them how it's done, because they did it very wrongly in the paper. And so they replied that, no, they don't have money to send over a graduate student to do it. So I replied, saying, okay, I'll fund the graduate student coming over, and I'll fund the entire study and their stay and so on and so forth, and let's do this together. And they replied, no, they're not willing to do that, which I don't think is the way things should work. And they published this sort of failed behavioral effect in that paper. So I'm just sharing this. You know, that it's not only there was that successful replication with the effect on testosterone, but there was supposedly this failed replication on the effect in behavior. And then I published a rebuttal on that, which I don't know if I should have done, but I did."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I think it's interesting. I mean, I think provided studies are done correctly, I mean, the positive result almost always trumps the negative result. And yet I think replication is key. The problem, as you pointed out, is that replication is rarely pure replication of the study."
+    },
+    {
+        "speaker": "B",
+        "text": "This one is not even remotely. But I published a detailed. So actually they hid something in their data that did partially rip. So I asked for their data, and I reanalyzed it, and that's what I published in the rebuttal. But this is just sharing on how science works. I took advice. It's not that I'm friends with him, but at that time, I was communicating a bit, because we were on some board with Daniel Kahneman, who's Nobel laureate."
+    },
+    {
+        "speaker": "A",
+        "text": "Drinking fast and slow."
+    },
+    {
+        "speaker": "B",
+        "text": "So I asked him, how should I deal with this? Give me some advice here. I was really, it was emotionally not fun to be in that position. And he said, don't never publish a rebuttal. Don't do anything. And I was, you know, how can I? You know, I have to do something. He said, no, don't. Because once you do that, then, you know, people don't go into the details. They won't read the details of your rebuttal. They'll be like, well, there's a group that says this, and there's a group that says that. So it's unclear."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, and, yeah, I mean, I appreciate that you're bringing it up today, and I do appreciate that you published the rebuttal and that you offered, in a very magnanimous way, to do a collaboration."
+    },
+    {
+        "speaker": "B",
+        "text": "That's what he then said. So Kahneman's advice after that was that, well, if you insist, then just publish. Write a response that you offered them to come do it together. They refused, and there's nothing you can do about that."
+    },
+    {
+        "speaker": "A",
+        "text": "It's a lot like fight sports, right? People talk a lot of trash. Although in science, I will say this, as long as we're on the sociology of science. Science. Science is very different than podcasting or social media or other fields, because in science, people generally are very kind to your face, and then they get it in the neck. On grant reviews or anonymous reviews. I was on a grants review panel this morning. I'm a nice reviewer, meaning I judge things objectively, but I try to always think from the perspective of the graduate student or author of the proposal. Listen, I think that science is a game of people who, most of them, are seeking facts. However, the ego is strongly woven into it, like anything else. So I think it was very magnanimous of you to offer the collaboration. So I'm going to tell this lab, whose name I can't pronounce, please accept the collaboration. Then we can invite everyone on here for a roundtable. I appreciate that you shared that story, and I know a number of other people will, um, for a number of reasons. I have a couple of more questions, um, and I realize, and thank you, by the way, for your, uh, for your willingness and stamina, because it is probably 01:00 a.m. israel time now. Um, and you just arrived, I think, um, but you're doing, uh, terrifically well. So I, um. If you'll indulge us just a touch further, there are two topics that I want to touch on, and if you want to cover these in shorter thrift, that's fine, although don't feel any obligation to. The first one is, I think most people are familiar with the scent of food or foods as a signal of the nutrient contents of those foods. You know, an orange that smells great or the smell of something baking. It suggests something about the contents and quality of that food. After all, you and I both separately lived in the same apartment in Berkeley. Above the cheese board, which. The smell of cheese wafting up through the cheese board is something I will never forget. Breads. Never forget it. Amazing bread."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, I don't know if you've conveyed that clearly enough to listeners or watchers."
+    },
+    {
+        "speaker": "A",
+        "text": "The probability is we really just discovered."
+    },
+    {
+        "speaker": "B",
+        "text": "That we lived in the same. We never met. I mean, like this before."
+    },
+    {
+        "speaker": "A",
+        "text": "Yep."
+    },
+    {
+        "speaker": "B",
+        "text": "And we lived in the same apartment."
+    },
+    {
+        "speaker": "A",
+        "text": "Are we click friends."
+    },
+    {
+        "speaker": "B",
+        "text": "In a lingering way?"
+    },
+    {
+        "speaker": "A",
+        "text": "I guess, absolutely."
+    },
+    {
+        "speaker": "B",
+        "text": "Through the chip, through the. Through the."
+    },
+    {
+        "speaker": "A",
+        "text": "The floorboards."
+    },
+    {
+        "speaker": "B",
+        "text": "It had a great floor, that place. It had a great wooden floor."
+    },
+    {
+        "speaker": "A",
+        "text": "It was an amazing place. I lived there with my girlfriend for a year and a half, and then it was an amazing place. We won't give it out, the address, out of respect for the people that live there now, but do check out the cheese board if you're ever in Berkeley. Their hours are weird, but. So you have to look online. But it's a unique place with great bread and cheese and some good flavors of pizza. In any case, I'm wondering whether or not smell can signal things about the nutrient contents of foods in a way that's divorced from the smell that we are perceiving. So, for instance, I could imagine, based on what you've told us about smell today, that, I don't know, I smell a. A piece of meat cooking, and it smells great to me. And I think of it as, oh, that's so savory. And my mouth is watering. And I love the smell of this. And I'm thinking, okay, this is protein and fat, and I love the taste of steak and a little bit of char, but that nature has co opted that to ensure, or I should say, increase, the likelihood that I will ingest some other thing that's in steak that has no odor, but whose nutrient content is very important to me. For instance, amino acids. Amino acids are essential to life, and yet we don't go around sniffing for amino acids. We go around sniffing for savoriness, umami type tastes, and things of that sort. So I could imagine a million different examples of this. In the same way, I could imagine that the scent of somebody that we fall in love with or become romantically attached to or sexually attracted to is signaling all sorts of things about, sure, the potential for offspring of a particular immune status. That's a long term game, but also something about pleasure and safety of a potential interaction. So what I'm asking here is about whether or not there are subconscious signals that the olfactory system has learned to seek, but learn to seek through more overt signals, sort of the tip of the iceberg phenomenon."
+    },
+    {
+        "speaker": "B",
+        "text": "So I don't have a good answer for you, although I think it's a really good question or a good idea. In fact, whether there's order cues on nutrient value is a really good idea. Moreover, it's probably good to the extent that somebody probably did it, and I should know and don't. We haven't done anything on that line. So I don't know. I don't know if the nutrient value of food is systematically encoded in odor, if that's not been done, and I will check after our meeting today, then it should be. That's a really good idea."
+    },
+    {
+        "speaker": "A",
+        "text": "One of the reasons I asked this is because the obesity crisis in the US is a huge issue, and elsewhere, and highly processed foods have a lot of things that are problematic. But one of the things that they don't have often is a direct relationship between the scent, the taste and the nutrient content. And I don't mean macronutrient, sugar, fat, excuse me, carbohydrates, fats and proteins, but the vitamins and micronutrients, things that support the microbiome. Whereas foods that are not highly processed, for instance, meat or a piece of fruit, contain many micronutrients that are vital to aspects of our biology. But we don't go around sniffing for probiotics."
+    },
+    {
+        "speaker": "B",
+        "text": "I'll tell you one sort of factoid that may support your hypothesis here, and that is that there appears to be potential olfactory perceptual similarity in metabolic products. So something that's metabolized from something else has perceptual similarity across those two things. So metabolic cascades play into the coding of olfactory space, and that is consistent with the direction you're implying. But again, I don't know of a direct test of nutritional value in smell. Again, the fact that I don't know doesn't mean, of course, that it doesn't exist. And in this case, I would suspect that it should exist in scientific press. And if not there, then with the companies that have vested interest in this, which are many."
+    },
+    {
+        "speaker": "A",
+        "text": "Briefly."
+    },
+    {
+        "speaker": "B",
+        "text": "An amusing anecdote to share with you is that we've received two independent companies who have turned to our lab recently asking for help to bring odor to engineered meat. That's a growing thing. And all these meats that are."
+    },
+    {
+        "speaker": "A",
+        "text": "You had to bring it up. This audience is going to be very polarized along the lines of engineered meat. You're not promoting?"
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, no, no, I'm agnostic. But we've had two companies turn to us and say, look, we have this great product, but it just doesn't smell like meat. So help us make it smell like meat."
+    },
+    {
+        "speaker": "A",
+        "text": "Interesting. The reason it's so polarizing is that anything related to nutrition on social media is a total barbed wire topic. We've had experts on nutrition. Come on here, we'll have more, but I know nothing. You're safe. No, don't worry. No promoting. He hasn't even said whether or not he's going to help them out."
+    },
+    {
+        "speaker": "B",
+        "text": "No, we're not. Actually, it didn't happen."
+    },
+    {
+        "speaker": "A",
+        "text": "Whether or not those engineered meats are yum yuck or meh is a personal issue to people in terms of taste, whether or not they are better for neutral or worse for you and the planet than given the ingredients that are required. That's a whole world we'll avoid now."
+    },
+    {
+        "speaker": "B",
+        "text": "I will. But, you know, I'll take the opportunity to highlight something related, maybe because on what you're saying, on the scale, you know, there's this, you know, I'll take the opportunity to dispel another misconception about olfaction, right. There's this common notion that our sense of smell is incredibly subjective. Right. And that what you might like in a smell, I will not like in a smell. And that we all have our own, you know, totally subjective world of olfaction."
+    },
+    {
+        "speaker": "A",
+        "text": "I think I know the study you're."
+    },
+    {
+        "speaker": "B",
+        "text": "Going to tell me there are many."
+    },
+    {
+        "speaker": "A",
+        "text": "The cross cultural similarity."
+    },
+    {
+        "speaker": "B",
+        "text": "There are many. That is utterly untrue. Many. Not only from my lab, there are many from many labs."
+    },
+    {
+        "speaker": "A",
+        "text": "Please clarify for those that follow this literature."
+    },
+    {
+        "speaker": "B",
+        "text": "So humans are incredibly similar to one another in their olfactory perception. And this is in contrast to what most people think. So why is there this misconception? The misconception is there for two reasons. First of all, or for several reasons, but two are stand out. First of all, we're attracted by outliers because I'll tell somebody. For example, olfactory pleasantness is highly correlated amongst humans. Let's first put this in numbers. You'll take a bunch of humans and a bunch of odorants and have them rate pleasantness. The correlation across the humans will be about 0.8. That's incredibly high. Incredibly high."
+    },
+    {
+        "speaker": "A",
+        "text": "What do you think is pleasant? I think is pleasant. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Now, why does that go against what culturally people think? For two reasons. First of all, we're attracted or biased by outliers. But that's particularly, that shows, in fact, the result. What do I mean? So you'll tell somebody, look, people are very similar in their pleasantness estimates, and they'll say, you know, that can't be, I love Cilantro. And, you know, my girlfriend hates the smell of cilantro. Right. Or, and there are a few classic examples there. Guyava. Right. You know, is another polarizing order. So there are a few polarizing odors. Right. And that's true. Right. So that's true that half of the population loves the smell of cilantro and half hates it. Half loves Guiava, half hates it. That's true."
+    },
+    {
+        "speaker": "A",
+        "text": "Microwave popcorn."
+    },
+    {
+        "speaker": "B",
+        "text": "However, I assure you that you can come to our lab. We have about 1000 odorants in our lab, we won't smell the thousand. Right. But I assure you, you know, take 100 odorants, okay, from our mixtures and labs. Right. And we'll smell them. Right. And out of the hundred odors, 90, we'll totally agree on. Right. And including univers. I mean, you know, nobody will say they like the smell of feces or fecal smells, and everybody will say they like the smell of rose and flowery smells. There will be rare, rare exceptions. Again, the correlation is about 0.8 across individuals. So on 90 of 100 will usually be in high agreement. Then five odorants will be in intermediate agreement. And yes, there'll be the five odorants that we're in total disagreement on. But I asked you, if we agree on 95 and disagree on five, are we the same or are we different? We're the same. They're just outliers to this rule. And so one reason is this issue of outliers attract how we think about things. But no, we're actually much more similar than what we think. And the second thing that drives this cultural effect is our poor application of language to olfaction. Right. So in other sensory systems, we grow up with. We develop with anchors. Right. So since you're a little kid, your mother shows you a cow and says, what does a cow do? Moo. Right? And we all know moo. Moo. And what color is this? It's, well, this is kind of an odd black, but it's black. Right. Or what color is that? It's red. Right. So you have these anchors, but as you all know, the red that I'm seeing is not necessarily the red that you're seeing. We just both know to call that red. And since you say red and I say red, I think why? We're seeing the same thing. But no, we're not seeing the same thing. Right. And in odor, we don't have those anchors. Right. We don't from childhood. You know, our mom doesn't tell us, what's this smell? And what's that smell? We don't have these language anchors that make us think that we're perceiving the same thing. Now, how can you quantify that? The most important term in measuring sensory systems is similarity. That's the measure. What can you do? Let's say we take ten odorants and I have you rate all the pairwise similarities, you'd end up with 45 numbers. Right. So how similar is one to two, one to three, one to four, and then two, and all the possible pairwise similarities. Let's say you rate similarity from one which is totally dissimilar to 100, exactly the same. So now I have a similarity matrix that describes Andrew's perception of smell, right. I have based on these ten orders that I selected, now I can run my similarity matrix and then I can see if the similarity matrix are correlated, right. And then we've gotten rid of the issue of names and orders, right. It doesn't matter if I'll call this lemon and this orange and you call this sweet potato and this marshmallow, right. It doesn't matter if I think that these two are highly similar and you agree. And I think that these two are very different and you agree. Right. We perceive the world in the same way if our similarity matrices are aligned. Right. And what's nice about that is that then you can do that for vision audition and all faction in a common group and you can see where we're more alike each other or not. And we've done that for color vision, all faction and tonal audition, okay. And we are most dissimilar in color vision. Okay. In color vision the variance is about 100%."
+    },
+    {
+        "speaker": "A",
+        "text": "Amazing. That's quite different."
+    },
+    {
+        "speaker": "B",
+        "text": "And there's tons of literature on this. Tons of it. Tons of it, right. And in all faction and audition, they're about the same. So we're not different. We're very similar. We're just very poor at appreciating this. And mind you, not that there's not variability. There is variability. And of course the system is malleable, as all sensory systems are. So you can learn to like an order and that will change you and learn to dislike an order, right. But just the way you can learn to like a sound or just like a sound. So, you know, this doesn't take away from the hardwired link of a yemenite structure to its perception that they're malleable and we're not very variable. We're actually kind of similar."
+    },
+    {
+        "speaker": "A",
+        "text": "That's a perfect segue to the question I have next, which is if in general people perceive certain odors similarly, you could imagine that odors could be manufactured, co opted, etcetera, in order to elicit richer sensory experiences and drive choice making. That's obvious at the level of the smell of a hot dog stand or freshly baked bread, et cetera. But what I'm talking about here, and I'd like to ask you about, is doing this at scale and scientists, geeks like to say in silico through computers. So for a long time now, there's been this idea that there will soon be Google smell. Not to call out, Google is the only search engine. But duck, duck, go smell. For those of you that don't want your smell, chat GPT. Chat GPT. And on and on. In other words, visual information is sent through computer interfaces, as is auditory information, not so much haptic, somatosensory, although it can. Our lab uses VR. It can be done, but it hasn't really taken hold. However, smell, being such a rich source of behavioral and hormonal and other sorts of deep, deep information that can drive people into yum yuck or meh type decision making seems like an amazing candidate. So what is your experience with generating smells in silico, in computers? And here, folks, for those of you that aren't catching on to this, and I don't expect that everyone would, because what we're really alluding to here is the idea that you'll look at, you'll put into a search engine blueberry pancakes recipe, and that not only will you get photos of those blueberry pancakes and a recipe, but you will get the hopefully validated odor of those pancakes, that recipe coming at you in real time through the computer."
+    },
+    {
+        "speaker": "B",
+        "text": "So I'll start off answering from the name you threw out there, Google. So probably about five years ago, Google had an April Fool's spoof and they put out this video of Google Smell, and it had all these classic sales images of holding up your phone to a rose and generating rows and all these things. So Google is now trying to do that. And they just published, I mean, I know they've been trying to do it for a while. They visited our lab, but they just sort of went public with this, that really just like about a month ago or something, that they have this offshoot startup, I think it's called Osmo or something like that, that started off with a ridiculous sum of money for a startup. Like, I don't know, tons of money."
+    },
+    {
+        "speaker": "A",
+        "text": "There's a lot of money in that world. Yeah, yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "In Google. Yeah. To digitize smell. And there are other companies that are trying to do this as well. And we've been talking now for quite a while about our lab's chemo signaling work. But actually, half of our lab is devoted to this question of ultimately digitizing smell. So this is a very, very active field of research. And I'll say one thing that dovetails with what you were talking about before, in many ways, Covid is going to be one of the best things that ever happened to olfaction research, because suddenly all the world is all the world, lots of people are very cognizant of the importance of smell. And smell is way up there in people's awareness because of COVID And this is driving a renaissance of olfaction research and awareness to all. Faction is something that's worth paying attention to. And our lab has been involved in this way, in this effort for a long time, where the initial part of this effort is, in fact, to develop a set of rules that link odor structure to odor perception. That is, the going thing was that, until recently, at least, there was no scientist or perfumer, for that matter, who could look at the structure of a novel molecular mixture and predict for you how it will smell or smell something and tell you what it molecular structure could or should be. In contrast, let's say, the trivial color vision. Let's say if you know what the wavelength of the light is, you more or less know what perceived color it's going to be. Of course, there are exceptions to that and all sorts of issues, but as a rule, you would know, or the other way around, you can generate a wavelength, and you would know at what color or light it's going to be perceived. So that's an example of where the rules linking structure, in this case measured by wavelength, and perception, in this case experienced as color. The rules are well known in olfaction. We didn't have that, that until recently. But over the past few years, a bunch of labs have really pushed this forward. There's a bunch of work out of Leslie Voschal's lab at Rockefeller, and Andreas Keller working with Leslie, who've done a lot of work on this front, also work from Joel Mainland's lab at Monell and Fair Discovery. Joel was a graduate student in our lab. And recently in our lab, we've had, and I hope this doesn't come across as overly arrogant, but we've had a sort of mini breakthrough on this front."
+    },
+    {
+        "speaker": "A",
+        "text": "To call something a mini breakthrough as far from arrogant."
+    },
+    {
+        "speaker": "B",
+        "text": "And this is a paper led by Aaron Ravia from our lab, and Kobe Snitz, also a major contributor there, a paper published in Nature about a year and a half ago in the height of a COVID pandemic. So nobody really, or I won't say nobody, but it wasn't noticed in the way it otherwise would have been. It was published in nature, really, on a week where the whole world was going berserk over Covid. And in this paper, we develop an algorithmic framework where we can predict the perceptual similarity of any two molecular mixtures with very, very high accuracy. So if you give me two molecular mixtures, I can predict how similar you will smell them to be. Okay? Now, not only could we predict that, but we could design it so we can generate mixtures with known similarities. And the, the result was highlighted. And you'll appreciate this coming from vision, is that using our algorithmic solution, we generated olfactory metamors. So we measured mixtures completely non overlapping in their molecular structure, but they smell exactly the same. Now, if you would come to a classic perfumer, or most classic perfumers, and tell them that you can generate two mixtures with zero molecules in common, but smell exactly the same, they would tell you no. And yet we did. And anybody can recreate them. This is simple, actually. And in the paper, we do a few things, like we generate a metamera for Chanel number five. So you don't like perfumes. So this one. But we generate a Chanel number five with no component from Chanel number five in itheme. Okay. And we actually have a publicly available website. I'll give it to you for your links if you want that anybody can do this, we built an engine that you can generate these metamorros. Now, once we did that, in a way, we've generated the infrastructure for digitizing smell, because again, what our algorithm predicts, our framework predicts is similarity. But in a way, that's enough for you. Why is that enough? We have a map of 4000 molecules for each one. We know they're a perceived smell. Now, you can make up any mixture you want for me. I can project it into that map and measure its pairwise distance from all the points in the map. If it falls on lemon, then what you generated smells like lemon, and if it falls on tomato, then what you generated smells like tomato. So we now solve that problem. We can predict the odor of any molecular mixture. We can say how it's going to smell. What we can do is then find a set of components, which we call odor primaries, that can be used to mix any odor that you can perceive. That's what we're working on now, about a month ago. So this is in collaboration with a lab of Jonathan, Jonathan Williams and Max Planck in Munich. Jonathan Williams is an atmospheric chemist, but he's really good at using GCMS, these tools that measure molecules. Jonathan Williams measured odorants in Germany, transmitted the information to us over IP. We fed that into our algorithmic framework and recreated it from a device that mixes primaries. And we tried to do four different odorants in our proof of concept test. One of them was rose. And we failed at recreating Rose. We in fact recreated something that had a percept, but most people perceived it as bubblegum. The second one we tried to do was anise and we failed at recreating anise. And most people said it was, which is not very far, but it failed. The third was gasoline, and we were slightly but significantly better than chance at recreating gasoline. And the fourth was violets. And 15 of 16 people said violets. So the first odor ever transmitted over IP is violets. And we did that last month. Of course, this is not anything near a practical solution. The device that Jonathan was using to measure is a $1.5 million device bigger than this table."
+    },
+    {
+        "speaker": "A",
+        "text": "That's right. I remember when VCR's, half the audience won't even know what that is. VCR's were like this big. So we're all good. I'm all good with the prediction that things will come down in size and cost."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I was just saying don't hold your breath for this to be on your table tomorrow. And again, all we have in hand is this very initial proof of concept. It's not even yet close to being a paper we are submitting because there's still lots of work to be done. But we're on the path. We're on the path and Google will probably beat us to it. They got a lot more."
+    },
+    {
+        "speaker": "A",
+        "text": "You seem pretty dogged in there."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, but they have so much more resources that at this stage, and they've already published two papers from that effort that are good. Yeah, they definitely have a lot of."
+    },
+    {
+        "speaker": "A",
+        "text": "Dollars and a lot of people, a lot of good neuroscience and other biology, engineering, graduate students and postdocs go there. But the real question is, are they getting the best people? Because as you and I both know, in science oftentimes it's small groups of the very best and most creative people that can outrun and outgun large groups. And here I don't have anything against Google, by the way. I use it all the time."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm not a betting man, but I would put my money on Google on this race. But I'll try and give them a run for their money."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, since I mostly just want to see the problem solved regardless of who gets there first, what I'll say is, you better get going, Google. Cause gnomes being he's humble and he's dogged, so better get cracking there we just cost the weekends and broke up the relationships of a bunch of scientists. I remember when I was a graduate student at Berkeley I remember hearing there was a guy in our common friend Irving Zucker's lab that worked 100 hours a week. So I was like, oh, I'll work 102 hours a week, which was not a good choice. In any case, it's abundantly clear that you're making progress here. And I go to some of the earlier discussions we had, and I think we're not just talking about transferring recipes and smells of food, gasoline from the people watching the f one race or something, but thinking dating apps. I'm thinking nowadays, everyone knows that when you travel and you want to see your family, your grandkids or kids, better to get on FaceTime and see them or zoom than to just hear their voice. We're also talking about being able to smell them."
+    },
+    {
+        "speaker": "B",
+        "text": "I'll tell you more than that. I'll tell you more than that. I mean, we're talking now of trying to achieve the olfactory equivalent of circa 1956 black and white tv. Okay, basically, right? I mean, you know, I'm not dreaming, let's say, of being able to transmit to you the difference between a cabernet or merlot, right? But if I can generate something that's vaguely wine, that will be an amazing success from my perspective. Right, but jump ahead in your imagination to 4k order transmission, then medical diagnostics is what you want to be talking about, because this is over extension. But you can almost say that every disease will have an odorous. I mean, every disease is a specific metabolic process. Metabolic process have metabolites, metabolites have a smell, olfaction. Once it's digitized and high resolution, which again, in our hands, it's not going to be. I mean, we're talking in my retirement. Maybe I'll read about this one day if I'll still have vision. I mean, this is not close, but when olfaction digitization is brought to the equivalent of 4k vision and audition that you have now, then it will be in medical diagnosis. You'll have, excuse me for the imagery, but you will have an electronic nose in your bathroom, each one of us will have in the toilet, and it will be doing diagnostics all the time. And that's where it's going to go. But again, not anywhere in the very close future."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, it's certainly an exciting proposition, and I'm delighted that you and other groups who are so strong are working on it. I really am. Noam, I want to say thank you for your time today. First of all, this was a tremendously interesting conversation. I mean, we touched on so many things. Hormones, smells, the architecture of the olfactory system. I know that people listening to this are realizing, but I'm going to say it anyway, what an incredible gift you've given us as an expert in this field, giving us this tour of the work that you and others who you credit so generously have done to elucidate this incredible system that we call olfaction chemosensation. Also, just for the incredibly pioneering work that that you've done. You know, I I don't have many heroes in science. I have heroes outside of science and a few in science. But I'm gonna. I'm gonna purposely embarrass myself a little bit by saying that from the time I was at Berkeley and I then saw that experiment being done of people foraging, falling ascent trails, and then when I was a. Until I was a junior professor, I used that in my teaching slides in a class that I taught. That was sort of the early origins of this podcast in many way, and over and over again, when your laboratory publishes papers, I find, like, this is super interesting, super cool, and I find myself telling everybody about it. And that's really what I do for a living, is I learn and then I blab about it to the world. So, thank you so much for the work that you've done in the spirit that you bring to it. Whatever drives that spirit, as the great late Ben Barris used to say, keep going, because we are all benefiting tremendously. And I also just want to say that for people listening to this, the spirit of science is one of, as you mentioned, there's complex politics and all these things, but it's absolutely clear that you delight in the work you do. And so I delight in it. I'm grateful for it. I'm grateful for your time today. And so on behalf of me and many, many people listening to this, I just want to extend a huge debt of gratitude. Thank you so much."
+    },
+    {
+        "speaker": "B",
+        "text": "So I'm blushing. I don't know if this doesn't come across on the radio podcast, but thank you so much for very warm words. As you know, when you work in your lab, there's these moments where you suddenly discover that somebody cares a bit about it. And those are always very rewarding moments, because usually you function without that. I mean, I guess that's one of the things you need to be a scientist, is to have the drive to work without that, because it comes only rarely."
+    },
+    {
+        "speaker": "A",
+        "text": "There's immense gratitude and appreciation for you and what you do from me. And now I know from a large segment of the world as well, so my only request is that you come back and tell us about the next results sometime not too long from now."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, well, I'm going to catch you live now. Although you have the power to edit this, I guess that's not fair. But first you come visit us in Israel and tell us both about the science and the public science work you're doing, and then I'll come again."
+    },
+    {
+        "speaker": "A",
+        "text": "A good bargain. I accept. Delighted. Thank you so much."
+    },
+    {
+        "speaker": "B",
+        "text": "Pleasure."
+    },
+    {
+        "speaker": "A",
+        "text": "Thank you for joining me for today's discussion about olfaction and chemosensation with Doctor Noam Sobel. If you'd like to learn more about the work in the Sobel laboratory or read some of the papers described during today's episode, as well as learn about the current and future projects in the Sobel Laboratory, please go to the link provided in the show. Note caption if you're learning from and or enjoying this podcast, please subscribe to our YouTube channel. That's a terrific zero cost way to support us. In addition, please subscribe to the podcast on both Spotify and Apple. And on both Spotify and Apple. You can leave us up to a five star review. If you have questions for me or comments about the podcast or guests or topics that you'd like me to include in future Huberman Lab podcasts, please put those in the comment section on YouTube. I do read all the comments. Please also check out the sponsors mentioned at the beginning and throughout today's episode. That's the best way to support this podcast. Not so much on today's episode, but on many previous episodes of the Huberman Lab podcast, we discuss supplements. While supplements aren't necessary for everybody, many people derive tremendous benefit from them for things like improving their sleep, their focus, and hormone support. The Huberman Lab podcast is proud to have partnered with momentous supplements. If you'd like to see the supplements discussed on the Huberman Lab podcast, please go to Livemomentous, spelled O U S. So that's Livemomentous.com Huberman if you're not already following the Huberman Lab podcast on social media, we are Huberman Lab on LinkedIn, Facebook, Twitter, and Instagram. And on all those accounts I include information, some of which overlaps with content of the Huberman Lab podcast, but often which is distinct from information covered on the Huberman Lab podcast. So again, it's Huberman Lab on all social media platforms. If you haven't already subscribed to our newsletter, we have a zero cost monthly newsletter. It's called the Neural network newsletter, and it includes podcast summaries and toolkits or protocols for things like enhancing sleep, for exercise, for meditation, for dopamine, for focus, and many other topics. To sign up, you simply go to hubermanlab.com comma, go to the menu and click on newsletter and provide your email. And I want to be clear that not only is the neural network newsletter zero cost, we also do not share your email with anybody. Once again, I'd like to thank you for joining me for today's discussion about olfaction and chemosensation with Doctor Noam Sobel. And last but certainly not least, thank you for your interest in science."
+    }
+]

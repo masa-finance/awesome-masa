@@ -1,0 +1,1350 @@
+[
+    {
+        "speaker": "A",
+        "text": "For me, I think the most important feature is censorship resistance, in my mind, being the ecosystem that prioritizes censorship. Resistance above all else is the most important feature because it's the most differentiated compared to web two in Canada, your property rights, you don't think about them until during the protest, the truckers bank accounts are turned off. Everything seems fine until it's very not fine. And I think Ethereum prioritizing censorship resistance above all else is the right way forward."
+    },
+    {
+        "speaker": "B",
+        "text": "Welcome to bankless, where we explore the frontier of Internet money and Internet finance. This is Ryan. Sean Adams. I'm here with David Hoffman, and we're here to help you become more bankless. What is Ethereum's endgame? One of the most important computers humanity has ever made, David and I have argued before, is Ethereum. This is a property rights system for the Internet. So what's happening next? What's the roadmap? What is the endgame? This is the sequel to an episode that we recorded just over two years ago with Vitalik. It was also entitled Endgame, and I think this episode represents the most comprehensive overview of Ethereum that's probably ever been recorded. This is the next three to five years of Ethereum's future. Strap in. This is a long episode, but I think every minute is worth your time."
+    },
+    {
+        "speaker": "C",
+        "text": "Towards the end of last year, Vitalik tweeted out an updated diagram to the Ethereum roadmap. This diagram Vitalik made a little over two years ago, which was the main motivation for Endgame, the first episode that we did with him. And it is just this completely comprehensive overview of the six different paths of the Ethereum roadmap, all happening in parallel. It was the main subject of the last episode and since he updated it, because two years have progressed, the roadmap diagram has two years of progress in it. He updated it. So I took that tweet, took it to Vitalik and said, hey Vitalik, do you want to update the episode that we did two years ago, or do you want to elevate some newer researchers inside of the Ethereum foundation? And Vitalik was very excited about that, and so he nominated the two guests that you see on the episode today, Dom and Mike Domothy has been on the podcast before our MeV Burn and Blob Space episodes. Mike has also been on the podcast before as my co host for a Eigen layer reking episode that we did with Sriram. So both past guests and they return to walk us through some of the deep parts of the Ethereum roadmap."
+    },
+    {
+        "speaker": "B",
+        "text": "Dom and Mike are great. They are the David and orion of the Ethereum research ecosystem. Guys. So strap in, enjoy this episode. We'll get right to it in a minute, but before we do, we want to thank the sponsors that made this episode possible, including the place you can convert your fiat to ether. That is Kraken, our number one recommended exchange for 2024 bank of this nation."
+    },
+    {
+        "speaker": "C",
+        "text": "I'm super excited to introduce you to both Mike and Dom, researchers at the Ethereum foundation. Both Mike and Dom are working on various parts of the Ethereum roadmap, both our previous bankless podcast guests, and both are overall great guys that we are excited to have on the show here today. Mike, Dom, welcome to bankless."
+    },
+    {
+        "speaker": "A",
+        "text": "Thanks for having us."
+    },
+    {
+        "speaker": "D",
+        "text": "Thanks for having me."
+    },
+    {
+        "speaker": "C",
+        "text": "So Dom, we'll start with you. Where what on the Ethereum roadmap have you been focusing on? Mike is about to answer the same question. The roadmap is very, very robust. So Dom, just like introduce your area of focus as it relates to the Ethereum roadmap."
+    },
+    {
+        "speaker": "D",
+        "text": "I've been all over the roadmap in terms of educational content, mostly the surge with the upcoming EIP 4844. Otherwise, I've participated a little bit in the concept of Mev burnt. Like introducing the concept and working toward that with Justin."
+    },
+    {
+        "speaker": "C",
+        "text": "Beautiful. And Mike, same question to you. Where along the roadmap are you focused on?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, a little bit all over the place too. So mainly have been working in the MeV space, which is called the scourge in Vitalik's roadmap. And yeah, I just want to kind of thank you guys again for having us on the show. Big time listener to the show, and I actually have the Vitalik roadmap as my phone background."
+    },
+    {
+        "speaker": "C",
+        "text": "So it's been that background as long as I remember."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it's been that for like probably two years now. So to be hosting or to be the guest on the show for this episode is really a treat."
+    },
+    {
+        "speaker": "C",
+        "text": "So actually, part of the story for how this episode came together is it's been a year since our original episode with Vitalik covering over the same thing. Some updates to the Ethereum roadmap have happened, and Vitalik's actually nominated you two to take the reins over the guides of the Ethereum roadmap. So it's a very large responsibility, also very high honor."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, maybe there was just no one else available."
+    },
+    {
+        "speaker": "B",
+        "text": "I was going to ask Mike if having the roadmap as your background, if that is kind of haunting for you, is that inspiring to you, or is that a little bit of pressure at all times."
+    },
+    {
+        "speaker": "A",
+        "text": "I think it's been it for so long that I don't think about it actively anymore. Once you see the image enough. But it definitely is nice to be able to, if you're in a conversation with someone, be like, hey, this is on the roadmap. Check it out. We're thinking about this."
+    },
+    {
+        "speaker": "B",
+        "text": "When they ask you, why aren't they, the devs doing something? Show them the background of your phone."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly. Woke up feeling bullish."
+    },
+    {
+        "speaker": "B",
+        "text": "Dom, how about you? Do you have this printed in real life somewhere?"
+    },
+    {
+        "speaker": "D",
+        "text": "I just printed it for this episode. I got it bookmarked and I look at it all the time. I refer to it."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm looking forward to the tattoo that you guys can sequentially update over time."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, guys, Dengkun is upon us. When this episode goes live, it'll be about the week before Dengkun. So this is the very near term upgrade to the Ethereum layer one protocol. It has some updates that are related to many parts of the roadmap, some prerequisites for future upgrades. Let's start there. We're going to get into the famous urges, which is this diagram that Vitalik put together that now is the one that we were talking about on Mike's phone here. We're going to get into that one right after this. But first, since the Denkun upgrade is so close, let's talk about that. What are the most significant eips, ethereum improvement proposals that are inside of Dengkun? And how will it change Ethereum? Mike, I'll throw this one to you."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, sure, I guess probably makes sense to highlight two of the eips that are in this fork, because those two are the most visible in terms of how they change the network. So the main star of the show is EIP 4844. This is a big part of the data sharding roadmap for scaling Ethereum in terms of throughput of data. This has been in the works for a long time. And yeah, we've successfully hard forked three testnets up to this point. And blobs, which are these new data objects that flow through the network, are going on each of those test nets. And so there's high confidence that we're ready to do it on Mainnet. I think the date was set yesterday for March 13. So, yeah, it's very exciting, very, very timely to record this."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, and I will say that with the content of that, this topic. Four, eight four blob transactions. Blobspace is a podcast in of itself, which we've done with Dom a number of months ago. So if you want to like, dive down into that part of the roadmap, there is a previous bank list podcast. It'll be linked in the show notes for people to understand blob space, it's a very big deal. But that's not the only thing that's in Dengkun. There's also EIP 4788. What is that? What does that do?"
+    },
+    {
+        "speaker": "D",
+        "text": "It's basically adding the beacon route inside the EVM. So in layman's term, it's having the EVM be aware of what's going on on the consensus layer on the beacon chain. And the main benefit for that is relying less on trust and more having trustless protocols for proving stuff against the beacon chain. So you can imagine something like lido or rocket pool. Today, they have to have oracles that tells the EVM what's going on with their staking balances and stuff like that. But after this EIP is rolled out, you can have the contract, be guaranteed to have it right about the balances and such, so you don't have to rely on trusted oracles as much. That would be the main benefit."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Another protocol that really benefits from this is anything that has to do with restaking. So eigenlayer kind of depends on some information about the consensus layer, right? Like you have stake there. You need to know if people got slashed. You need to know if that stake is being withdrawn. All of these data points are stored in the beacon chain side of things, which is the consensus layer. And accessing that data from the execution layer is important for Eigen layer in particular. That is all fully enabled trustlessly with 4788 guys."
+    },
+    {
+        "speaker": "B",
+        "text": "That is March 13. That is coming right up. That is the next Ethereum upgrade. We call it the hard fork. And there are some hard forks that are being scheduled after that. But of course, it takes a while to formulate all of the various features that those things will ship. But now let's go to the meat of the conversation, which I think today is an opportunity for us to zoom out and see where we are in the roadmap of Ethereum, the endgame of Ethereum, if you will. We've recorded an episode just over two years ago. This came out in January 2022 with Vitalik Buterin. It was called Endgame. And for the first time, this was on the back of him for the first time, putting together the diagram. The diagram we were just talking about that Dom you have printed out, and Mike, you have as the background of your phone. And this is the very first time. And if you're watching this in video form, you'll see it on the screen right now. This, at least for me, I think for many in the Ethereum community, was the first time we saw it's sort of organized and stacked in terms of Ethereum's roadmap for a long term future. And this is essentially the endgame of Ethereum. Multi hard fork, multi year, I don't know, maybe multi decade. I'm not sure how long this will all take to play out, but we've made some progress on the last two years and this roadmap has adapted and evolved. And at the time when Vitalik kind of like put it out there, he gave each category of features a name. And these are what has become known, I think, as the six urges. So if you hear us talking about urges, that's what we're talking about. We're talking about these horizontal swim lanes of Ethereum functionality that are all grouped and accomplish some purpose. So I think we're going to go through this episode and talk through each of the six urges, maybe one by one, and have this be the sequel from our endgame episode that we recorded over two years ago. But in order to set up the context for this, I think Mike and Dom, you guys have to explain the high level urges because each of them are named differently. They all end in urge and they have a specific theme. Mike, could you kind of take us through at the highest level, what is kind of the central goal for each of the urges? Take us through those one by one?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, for sure. I think I'll do the first three and then pass the second three off to Dom. So for the merge, I guess I like to think of it as the kind of continuation of proof of stake evolution for Ethereum. So the merge itself happened in September of 2022. So this is kind of like a year and a half ago. But that doesn't mean that the proof of stake mechanism that we use is in its final form. So figuring out how to make it most robust and most long term and stable is the key goal of the topics in the merge. The surge is all about DA, and Dom is a super deep expert in this too. So when we go deeper in, he'll definitely be invaluable. But the idea here is that Ethereum should provide DA, that the kind of roll up centric roadmap depends on as roll ups scale Ethereum, that's a huge part of, of the vision for how we get transactions way cheaper, how it's accessible to many more people. And roll ups depend heavily on this data. And scaling Ethereum, in terms of scaling the data itself is a key piece of the puzzle."
+    },
+    {
+        "speaker": "B",
+        "text": "Mike, just to recap, so far we've got the merge, which is really focused on consensus, and consensus activity needs to happen post merge. It didn't just end at the merge. Then we also have the surge, which you said is DA, and that stands for data availability, which is the. The second layer of the Ethereum stack. If consensus and settlement is the innermost layer, what we're talking about in the surge is data availability. And that is important as well. Yes."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, absolutely. Yep. And then the third lane is called the scourge. And the kind of new idea here is how do we deal with the long term implications and the long term reality of MeV? So MEV is this hot topic that we've been addressing over the past year and year and a half and figuring out how to avoid the negative externalities associated with super sophisticated actors extracting as much as they can from ordering transactions in the Ethereum protocol. That's the scourge. And I think it's called the scourge because I think it's easy to view these MeV actors as bad guys trying to steal from regular users who are just interacting with the chain. I don't know if that. I think it's more of the mnemonic thing that it's one of the urges. But, yeah, I think the scourge is because it kind of came out of nowhere and is impacting the protocol in a really meaningful way. And we're trying to kind of defeat that boss, I guess."
+    },
+    {
+        "speaker": "B",
+        "text": "And we should say the surge, the one you were talking about right before the scourge. Right. The reason it's called the surge, I would imagine, Mike, is because we're surging our ability to support bandwidth, trustless bandwidth like transactions per second. Is that the genesis here?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah, I think so. Again, I think this is mostly a mnemonic. I like to think of it as just like the data scaling of Ethereum and surging forward of data into the block space."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, so we've got the merge, we've got the surge, we've got the scourge. Take us to the high level for the last three swimlanes here, Dom."
+    },
+    {
+        "speaker": "D",
+        "text": "First we got the verge, which the main thing is vertical trees, but also the unifying theme is that verifying blocks should be easy, even though we got sophisticated actors due to Mev, which we've kind of accepted as being an unavoidable reality of the end game. So we make it very easy to verify blocks with things like vertical trees and leveraging zero knowledge text like starks and snarks. And basically the whole point of the vert is we have super light clients that are as trustless as full nodes are today, and very easy to run either on your phones or has just been set on a previous banklets podcast says you can verify the whole chain on your smartwatch once we have all these zero knowledge magic into the blockchain."
+    },
+    {
+        "speaker": "B",
+        "text": "So verge for verkultree."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, basically the main item is verkle trees. I think verge came from that."
+    },
+    {
+        "speaker": "C",
+        "text": "Curious to the next one. Dom, what comes after this?"
+    },
+    {
+        "speaker": "D",
+        "text": "The purge after that is to simplify the protocol as much as possible by eliminating technical debt mainly via history expiry, so that the clients can be much more simpler and easy to code and understand by not having all the technical debts from previous hard forks. Once we have fast syncing and stuff like that, we'll come into more technical details later on. The last item is the splurge, which is just miscellaneous. Everything that's good to have, but doesn't really fit in any of the other urges go in there. So like tweaking EIP 1559 so that it's a better algorithm for pricing the layer one EVM and stuff like account abstractions and all the other deep cryptography stuff that we have that we are currently researching but not ready to implement, that's going to go in there as well."
+    },
+    {
+        "speaker": "C",
+        "text": "When I look at this graphic at a high level and just look at all the urges, I actually kind of see the first four as adding new features, adding properties, adding capabilities, and then the fifth, which is the purge, is actually removing technical debt, removing things, cleaning up the fridge, and then the last one, the 6th, is kind of like a miscellaneous category. Is that a fair categorization of everything?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yes."
+    },
+    {
+        "speaker": "C",
+        "text": "One thing I think is actually worth pointing out about all of these swim lanes that Ryan's called them, is that they are all happening in parallel. I think intuitively, as people are looking at this diagram, they are thinking, okay, first merge, then surge, then scourge. And it's more like all of these things are more or less happening in parallel. Actually, in this splurge. The very last one, the miscellaneous, is EIP 1559, which happened centuries ago. All of these things are happening in tandem, in parallel. These are all progressing forward, both with relationships with others. There are some cross threading going on, but mainly independently. They are all progressing forward."
+    },
+    {
+        "speaker": "A",
+        "text": "We should ask Vitalik to make the next one in a different order, just because, just keep everyone on their toes."
+    },
+    {
+        "speaker": "B",
+        "text": "Another thought I have as we get into this and explain the urges too, is this is not basically the EF doing all of the development here. What we're talking about this roadmap is the entire ecosystem of Ethereum. Core developers, client implementers, even rollups and layer twos are getting involved. Can you just go over like broad strokes, who are the participants actually doing the work on all of the urges and making Ethereum happen? Because just the EF is just kind of a tiny fraction of those, almost like the coordinator of all of this activity. The activity happens well beyond the bounds of the EF. I would call that the entire ecosystem is bringing this roadmap to life here. So how would you describe who's working on these urges?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, that's a really good point, Ryan, and I'm really happy you brought it up, because I think one of the most unique things about Ethereum is just how decentralized both the roadmap work and governance over the whole process is. There's this all core devs call that's led by Tim and Danny. These are members of the EF, but all these core devs are contributing on different eips, and they're the ones actually building the software. They're kind of in the weeds in the technical details so we can talk about it, you know what I mean? So there's so much value being created and added by people across the ecosystem that it's so much a team sport. And I think just the scope of the roadmap shows you that no single team could do that all on its own. We're building something that is much bigger than what a single team could ship quickly."
+    },
+    {
+        "speaker": "B",
+        "text": "It's kind of weird and cool. Anybody can get involved too. It's just being built out in the open in kind of a completely permissionless way. The destination is somewhat known, but it's not entirely clear how we get there. And everyone kind of like brings their part to the table. I mean, I don't know that I've. I guess, to be fair, I haven't been involved in other large open source communities. Like, I haven't. You'll seen the genesis of Linux as a project kind of like being born and birthed into existence. But this is just not how commercial software development works. Like a company like Facebook does not build software out in the open to this extent. I don't know if you've ever seen anything like this or you just now, you kind of take it for granted, or this is kind of like the way Ethereum is built, and that's like a lot of the experience here. But does this strike you as weird, odd, cool in any way?"
+    },
+    {
+        "speaker": "D",
+        "text": "It's beautiful."
+    },
+    {
+        "speaker": "B",
+        "text": "What makes it beautiful? Dong."
+    },
+    {
+        "speaker": "D",
+        "text": "Just everyone just kind of shows up and works on what they want. And the pivot to the modular blockchain is very interesting because then we have these little parts that are connected loosely, but all come together to make a beautiful blockchain ecosystem in all these various aspects. You can see all the developers on the oracle or dev calls that all argue with each other about priorities and what should be done and how it benefits one team and stuff like that."
+    },
+    {
+        "speaker": "B",
+        "text": "There's almost like something quasi organic about it. It almost feels like sort of a life form in a weird way. I mean, we don't have to get too deep on this metaphor in the episode, but just the way it's growing is incredibly cool. And yeah, beautiful is a great word for it. Dom, I want to ask another question about this before we get into the individual urges in this. What's the actual point? I think I'm trying to recall the episode. I haven't listened to Vidalik's endgame episode in a while, but there are some core values as to why we are accomplishing all of these different urges. And im wondering how you would articulate those core values. Is it about decentralization? Is it about censorship resistance? What are all of these urges actually working towards in the fullness of this roadmap?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, its a good question. And I think after we go through the urges, we'll kind of take another step back and hopefully summarize clearly what the long term vision of the ethereum ecosystem is from our perspective. But yeah, for me, I think the most important feature is censorship resistance, in my mind, being the ecosystem that prioritizes censorship resistance above all else is the most important feature because it's the most differentiated compared to web two, right? Like anything that's centralized is like by definition, gatekept by some controlling entity. And I actually think of censorship resistance is almost like this black swan thing, right? Like it doesn't matter. And to kind of just paraphrase that, it's like censorship resistance isn't important until it's the most important thing, right? So, you know, in Canada, your property rights are like kind of, you don't think about them until during the protest, the truckers bank accounts are turned off. It's like everything seems fine until it's very not fine. And I think Ethereum prioritizing censorship resistance, above all else, is the right way forward."
+    },
+    {
+        "speaker": "C",
+        "text": "Ethereum has always taken the longest term time horizons to its advantage, to its benefit, to its detriment as well. Sometimes it leaves room for other people to cut corners and move faster. But this has always been something that's attracted me to Ethereum, thinking about things at their logical conclusion and working backwards from there. Let's dive into the first urge, the merge and the merge itself. The event is actually in the rearview mirror, and so this thing is starting to like wrap up for the most part. Still some things to check off the box. Just to reiterate, the merge is all about very robust proof of stake consensus, while preserving the abilities of solo staking. By all means. But Mike, maybe you can kind of update us on where we are in the merge. Much complete are we and what are the boxes left to check in the merge? How do we get this thing to 100% completion?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think the first thing to highlight is this idea of finality. The way that the current Ethereum consensus layer works is there's this two phase process by which blocks are produced, and then they're finalized by this other thing, which we call a finality gadget. The reason for this is historical, so I won't get into the details, but the idea here of the fact that a block can be produced but not finalized is a weird intermediate state that is non ideal. The endgame in terms of a proof of stake system is this thing called single slot finality, which means that instead of the blocks being in this weird kind of produced but unfinalized state, the minute they're produced, they get finalized in the base case. And this is especially important because settlement assurances are what the blockchain is trying to provide. And when a block is produced but not finalized, there's a chance that it could end up not in the chain. Your transaction could be on the chain, and then what we call a reorg could happen, meaning that block gets removed from the canonical chain. Suddenly that settlement assurance that was provided by the blockchain for that transaction is no longer there. Single slot finality is the key endgame goal here, and that's a big part of what all of these sub projects within the merge are contributing to."
+    },
+    {
+        "speaker": "C",
+        "text": "Famously, there was this non finality event not terribly long ago, three, four months ago, maybe longer. Six months ago, this happened because we don't have single slot finality. Correct. Can you explain a little bit more of the mechanism of how single slot finality actually works?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, sure. So the notion of finality that we use today is this idea that a block will be considered finalized if more than two thirds of the stake in the consensus layer votes for that block to be on the chain. The reason why blocks take a long time to get finalized right now is because we have this kind of second time horizon, which is called epochs. There's 32 slots in an epoch, and."
+    },
+    {
+        "speaker": "C",
+        "text": "The slot is a block."
+    },
+    {
+        "speaker": "A",
+        "text": "A slot is the opportunity for a block."
+    },
+    {
+        "speaker": "C",
+        "text": "Opportunity for a block. Okay. And is usually filled by a block. Sometimes people miss their block proposal, and so a block doesn't go there. But there could have been."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly, yep. And so the way it's, it's divided up now is you take all of the stake and all of the validators, and you split them evenly over the 32 slots. So, like, as a solo staker, I only am sending a vote once per epoch rather than once per slot. So that means it takes all 32 of these epochs to collect enough stake up to get getting to that two thirds threshold for us to be able to call a block finalized. So that's kind of this two phase thing, and that's why. But it's not instant finality in the way that other blockchains might claim that."
+    },
+    {
+        "speaker": "C",
+        "text": "How does this impact just the topology of the network? Maybe not topology, but is there increased messaging, increased bandwidth usage? Why can't we have this right now? What is the constraint? Or is it just more of just an engineering thing?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, super good question. Because this leads directly into the next point here, which is this whole max effective balance thing, and max effective balance. It's a very technical topic, so I don't think it's too important to get into the weeds, but the key detail here is that it results in there being a very large number of validators in the network. So right now, we're at 925,000 validators in the network. Each of those validators has 32 ETH staked, but the reason there's so many is because that 32 ETH is the hard cap for each validator to have."
+    },
+    {
+        "speaker": "C",
+        "text": "You cannot have more than 32 ETH inside of a validator. You also can't have less. You have 32."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly. And what this results in is basically Coinbase, who runs like 15% of the ethereum network by, in terms of, like, ETH denominated units. They also have to run like 100,000 plus validators, even though those validators are all kind of controlled by a single entity."
+    },
+    {
+        "speaker": "C",
+        "text": "So it's almost like many of them are likely a single computer."
+    },
+    {
+        "speaker": "D",
+        "text": "Right?"
+    },
+    {
+        "speaker": "C",
+        "text": "So, like, I don't want people to think that there's different computers, there's 32,000 computers all over the world. There's probably just a small handful of computers that are running many, many instances of validators, correct?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly. So the reason why we can't just do single slot finality today is because 900,000 validators would have to cast a vote during each slot. So instead of throughout the course of the epoch, you'd have to do that within one slot. Right now, that's a twelve second time window, and verifying those signatures just is not possible. In that time, in that 12 seconds, you have to go through do the cryptography, check that they voted for this block and check that that signature is valid, and that whole process is not possible given the current size of the validator set. Which is why we can't just do single slot finality as is today, because we already have the algorithm we want to implement. It's just the number of validators that's the limiting factor."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, because there's just too many messages going around, because too many validators exist, even when it's many, many validators exists all on the same computer. How does max effective balance change this?"
+    },
+    {
+        "speaker": "A",
+        "text": "Right. Max effective balance allows validators to consolidate onto fewer entities. From the perspective of the consensus layer, as you were describing before, Coinbase might be running. Let's just use 10,000 for an easy round number. They could be running 10,000 validators on a single computer. This is 320,000 ether of stake, all controlled by a single computer that could be represented in theory by like a single validator with a single signature. So instead of having 10,000 signatures to verify if the effective balance of that validator could be 320,000 eth, then that could be represented by a single signature that has a lot more weight than each of those 10,000 individual signatures. So the idea here is to instead of every signature having the same weight, and you have multiple multiple signatures for a heavy validator, or for someone who has a lot of stake, you have a single signature that is backed up by a lot more eth, and that signature carries more weight as a result of this change in the effective balance."
+    },
+    {
+        "speaker": "C",
+        "text": "This upgrade is called max effective balance. The max balance is talking about that 32 number. We can increase the max effective balance of a validator from 32 to a higher upper bound. What is that upper bounden? Where does the proposed upper bound right now?"
+    },
+    {
+        "speaker": "A",
+        "text": "We have it set to 2048 etH, just because we like powers of two, and because it's intuitively fine number, but yeah, there's kind of no, there's no real reason you couldn't take it much higher than that."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, but Mike, this is not a centralizing force, because they're already, like, if you're a coinbase or something, you're already running all of your validator instances on the same machine anyway, and you still are essentially like one entity here. Am I missing something, or does this have some kind of downside with respect to a disadvantage for solo stakers relative to the larger whale stakers?"
+    },
+    {
+        "speaker": "A",
+        "text": "Nope, it doesn't change anything. Yeah, and that's kind of the beauty of it. One important thing to note here is that the minimum effect, like the minimum balance to become a validator would still be 32 eth. So right now, the minimum and the maximum are both the same. All we're doing is change, is keeping the minimum at 32 and making the maximum much higher. So it's really an accounting detail, and we don't even have to spend too much more time on it now, because it's frankly quite simple when you actually think about, oh, validators should be able to have different amounts of stake from the view of the consensus layer, so."
+    },
+    {
+        "speaker": "B",
+        "text": "Long as that amount is greater than 32."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "C",
+        "text": "It's just a very intuitive thing. This is how you would think in protocol like Ethereum would operate. Why do we have to have 32? Why do we have to have a rigid number at all? One thing I want to add, just before we move on from max effective balance is there's actually a marginal improvement to the quality of life for solo stakers, because solo stakers can compound their interests at a faster rate, where previously they would have to stake enough in order to accrue another set of 32 ETH. But with max effective balance, solo stakers can actually compound their yields and remain competitive with larger institutions like Coinbase, because they can compound their ETH and then restake their ETH rewards faster rather than having to wait for 32 ETH. And so this is a marginal improvement to the compounding interest rates of solo stakers. Mike, this is all correct. And is there anything you want to add to that?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I guess the only thing to add here is that beyond just auto compounding, it also allows solo stakers to stake kind of at a more granular level. Right? So let's say I am a solo staker and I have 40 ETH instead of 64. Under today's constraints, the only thing I can do is stake 32 of it, and then I have eight etH that I have to figure out something else to do with. Maybe I swap it for steeth, maybe I deploy it to a rocket pool mini pool. But in the future, with a different max effective balance, I could just have a 40 eth validator that just gives me more flexibility over the amount that I'm staking. And that's an important solo staking feature."
+    },
+    {
+        "speaker": "C",
+        "text": "Max effective balance is a prerequisite towards achieving single slot finality. Can we actually just zoom all the way back out? Talk about why is finality important? And why is having more of it faster, better? Why do we care so much about finality?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so finality is what I like to call a confirmation rule. So it's a way of thinking about how strong the assurances are that a transaction will be immutable and remain on the chain. So if you think about so me sending you, let's say, 100 ETH transaction, before you accept that transaction as valid, you're going to want there to be economic security backing up that transaction that's greater than 100 etH. Because if it's less than 100 etH, then someone might be incentivized. I could try and roll back the chain so that the 100 ETH I sent you no longer exists from the point of view of the blockchain. So finality is just this term we use to describe the total amount of economic security behind a transaction or behind a whole block. And the shorthand it's for is for two thirds of the total ethereum stake. So getting it faster just means I have better settlement assurances at a faster rate that my transaction is going to stay in that blockchain forever. And the history is set in stone because you can think as there's all these blocks being built on top of the one that contains my transaction. The more blocks I have on top of it, the more I can be sure that the economic security is just bulletproof, rock solid, and you can accept that transaction as part of the history."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, we've talked about settlement insurance a number of times throughout bankless history. Super important concept in the context of property rights, which is one of the main core things that we have invented in this whole entire crypto space. A single slot finality just means that Ethereum is placing all of its economic security that it can, that it ever will in a single slot, aka a single block. So it's all of Ethereum's economic security coming in inside of one block or one slot. And so it's just like, it's like kind of think of it like the full faith and credit of the Ethereum system. The Ethereum protocol is putting its weight behind that one block. The assurances that your transaction is final."
+    },
+    {
+        "speaker": "B",
+        "text": "That one block every, how many minutes, again? Remind me? Seconds."
+    },
+    {
+        "speaker": "A",
+        "text": "There's one block every 12 seconds."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so every 12 seconds we get."
+    },
+    {
+        "speaker": "C",
+        "text": "That level of the maximum level of security."
+    },
+    {
+        "speaker": "A",
+        "text": "If we had single slot finality with twelve second slot times, then we would get two thirds of the total stake backing up the economic security of that transaction."
+    },
+    {
+        "speaker": "B",
+        "text": "That's a lot. That's in contrast to say like a proof of work type network. If you've ever transferred bitcoin, like to say like, to something like an exchange, like a kraken or a coinbase, right. Then there's kind of like a deterministic finale, like they have to wait until a certain amount of proof of work blocks are. It's never actually finalized. Right."
+    },
+    {
+        "speaker": "A",
+        "text": "So there are two to three block."
+    },
+    {
+        "speaker": "C",
+        "text": "Rollbacks on bitcoin at a semi regular occurrence."
+    },
+    {
+        "speaker": "B",
+        "text": "Right, right. And so, like if you look at inside of an exchange, you have to wait some number of minutes, usually, depending on the chain, sometimes hours. You ever try to move like Ethereum classic or something?"
+    },
+    {
+        "speaker": "C",
+        "text": "Many exchanges have delisted Ethereum classic because it was 51% attacked too many times. So there is no finality on Ethereum classic."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, yeah. And so that's, that's in the proof of work world where that finality never becomes final. But you get like kind of more and more economic weight for those settlement assurances. But in Ethereum, we get it in seconds inside of an entire block. The full weight of that two thirds."
+    },
+    {
+        "speaker": "A",
+        "text": "Happens in that block once we get single slot finality. Right now, that full weight is spread out over 32 slots. And that's why it takes a longer time. Like it might take six minutes, approximately for a transaction to get finalized in the current version of it. And that's why single slot finality is like a huge level up in terms of settlement assurances."
+    },
+    {
+        "speaker": "C",
+        "text": "This just has second order effects, downstream effects upon Ethereum's layer two ecosystem, because what are layer twos doing? They are settling on Ethereum now where they have single slot settlement. What are the positive second order effects that this creates for the layer two ecosystem? Dom, you want to take this one?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. So from the perspective of layer one, you can kind of view a layer two transaction as being like a big batch of a lot of many, many layer two transactions onto a single layer one transaction. So that can quickly become a very high value transaction. So like to take Mike's example of 100 ETH, you could have roll ups just settling like 1000 ETH. Of value. So you don't want that to be reorg, because in order to mess with layer two, you need to mess with layer one first. And if you have these, a lot of high value transactions going on to layer one, you want them to have settlement assurance as fast as possible, which is going to be a great experience for rollups to have. On top of today's assurances with the software confirmation rules before finalization, this is."
+    },
+    {
+        "speaker": "C",
+        "text": "The last two bits max. Effective balance leads to single slot finality and then merge is for the most part wrapped. Is that correct?"
+    },
+    {
+        "speaker": "A",
+        "text": "So I guess one other thing that's worth tying in is this crypto economic view of what proof of stake is. Importantly, it's very critical that we evaluate the amount of stake that we want and the level of economic security that Ethereum has. There's this idea that there's some amount of the current Ethereum supply will go to the security budget of the network. And the payment here is in terms of issuance. The Ethereum protocol creates new ETH based on the amount of total ETH staked and distributes that to the people who are staking in the network. Now the current version of the issuance is essentially, it scales like one over square root, so it kind of decreases, but it never goes to zero. And so what that means is actually we don't have a very opinionated view on how much of the Ethereum supply should be staked. Because even if you're at like, let's say right now, just for context, we're at 25% of Ethereum supply staked."
+    },
+    {
+        "speaker": "B",
+        "text": "We just hit that for the first time."
+    },
+    {
+        "speaker": "A",
+        "text": "Just hit it. Yeah, yeah. This is like as of two days ago or something. And let's say we're all the way up at like 98% of Ethereum supply staked. Even then, in that like very, very extreme example, a new validator still has positive rewards for joining the staking set because this thing never goes to zero, it never goes negative. 100% of the Ethereum supply could be staked. This is potentially an issue. There's many downstream effects of having all of the ether in existence locked into the beacon chain. This is a super hot active area of research from onders, Casper, Onsgar, Barnaby, lots of people. And also outside of the EF, there's people at Lido and all of the different staking pools that are thinking a lot about this. It's a super active area of research. But I'll just say that the issuance curve and thinking about the total amount of the ether supply that we want staked is also part of this endgame proof of stake that we're building towards."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, can you just touch on this, because we're starting to get more upward pressure, I think, for staking. In particular. One thing we've been exploring on bank lists, of course, is this whole restaking phenomenon, ether as economic value to other applications like Eigen layer, suing, AVss and that sort of thing. And so that is putting some more pressure and some more like value for stakers to stake their ETH and then reuse that. And we also see other networks, non ethereum proof of stake networks. They are upwards of like 70% plus in terms of their supply that is already staked. And so there's a lot of question as to like, where does this end? Right? We're at 25%. Do we go to 50%? We go to 70%, we go to 80%. This is not an, we don't have to have an exhaustive conversation today. But Mike, you just alluded to some problems, or like downsides. If it gets above, if it gets too high, let's say, and I don't know what that number is, but like, what are the downsides? Why not? Why is 98% of Eth staked bad? Everyone gets more yield. Isn't that great?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So there's a new post that's going to be published, I think, today, and it covers all of this in like really great detail. So I'll refer the interested reader to that. This is from Ansgar and Kaspar. I think in my mind, the biggest issue with this 100% ETH staked world is the fact that some of the properties, the moneyness properties of ether, the asset, are diluted in that world. One of the important things that ether serves as beyond the consensus layer is its role in DeFi, its collateral, its a unit of account that people exchange with, they pay for gas, they might price nfts in it. All of these properties are really important to have this raw eth component to it, that we would want the application layer to still have some amount of raw eth in it. Additionally, if all of the eTH gets staked, there's a big centralization concern here, which is that, especially if it's all staked through a single liquid staking protocol, and that staking protocol is controlled, let's say, by a dAo that's controlled by a token that has a very top heavy distribution, then you essentially get a version of on chain governance where one dAO might control the entire Ethereum consensus layer and might control all of the ether staked and all of the ether supply in general, that type of situation, I think we just view it as a very centralizing and uncertainty world."
+    },
+    {
+        "speaker": "B",
+        "text": "I see. So if you had 90% ETH stake, but it was all solo stakers spread distributed throughout the world, that's less of an issue. But in the more likely scenario that staked ETH is being used as a monetary instrument and starts to accrue a disproportionate percentage of the supply, that it becomes another centralization vector. That is extra protocol outside of the Ethereum protocol itself problem, potentially, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "And there's kind of another nuance here, which is, okay, let's take the case where let's say all ETH is solo staked, but 100% of ETH is staked, right. In this world, everyone is essentially getting diluted at the same rate. So the issuance rewards are essentially zero. Right. Everyone's ETH is inflating at 3%. And there's no differential between, like ETH outside of the protocol and ETH in the protocol, because all of the ETH is in the protocol. Now, in that world, we're actually subject to these variabilities of MeV because the only real rewards are actually coming from MeV. Now, all of the other rewards that are coming from the protocol, like this 3% yield or whatever, is kind of fake because all of the supply is getting diluted at that same rate."
+    },
+    {
+        "speaker": "B",
+        "text": "I see. So the tail starts wagging the dog, and when we're talking about, we're not just talking about MeV, we're also talking about restaking, of course, and all of the yield from restaking. And that starts to become the driving force of the ethereum economy, I suppose not so much."
+    },
+    {
+        "speaker": "C",
+        "text": "The issuance maybe said differently. When 100% of all ETH is staked, the power of the incentives from inside the protocol approach zero. And then in contrast, the power of the incentives outside of the protocol are become much larger by comparison. And then all of a sudden, the protocol is no longer in control."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly. And I mean, this is why, like, you guys had the kind of panel after Vitalik wrote the post, don't overload Ethereum consensus. I think this is the kind of thing that feels concerning. Right? Like, restaking is a really exciting opportunity, but it also kind of distorts and could potentially become a driving force in terms of why people are staking. And like you mentioned, Ryan, there's this kind of recent uptick, and I saw a data point recently that one fourth of inbound validators are using eigenpods as their withdrawal credential."
+    },
+    {
+        "speaker": "D",
+        "text": "Right."
+    },
+    {
+        "speaker": "A",
+        "text": "So that means 25% of inbound stake is restaked stake."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "And so, like, it's getting weird. It's."
+    },
+    {
+        "speaker": "B",
+        "text": "It's just a. I mean, think of like analogs. We've seen the world. Too big to fail. Right."
+    },
+    {
+        "speaker": "D",
+        "text": "It's."
+    },
+    {
+        "speaker": "B",
+        "text": "It's that type of like, feeling. You don't, you only want to have one dependency and that should be the Ethereum protocol. It shouldn't be some extra protocol, too big to fail type of entity. And that problem can crop up in a number of ways. All right, we'll put a pin on that. That's a whole subject."
+    },
+    {
+        "speaker": "C",
+        "text": "Let's kick the can down."
+    },
+    {
+        "speaker": "B",
+        "text": "Kick the can down the road. But I think like some sort of countermeasure for that would be a part of the merge scope. That's essentially what you're saying, Mike."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. Yeah. The endgame proof of stake should account for these questions and should have a clear answer to them."
+    },
+    {
+        "speaker": "C",
+        "text": "It sounds like the answer for this. Sorry, we need to move out on some point because we are still stuck in the merge. But this has been really, really interesting. It sounds like the answer that you, I think you're alluding to, Mike, is actually changing the issuance curve of ether, changing the monetary policy of ether, which."
+    },
+    {
+        "speaker": "B",
+        "text": "Is a big deal, maybe. Or capping. Capping. You could do it in all sorts of ways. Right, right."
+    },
+    {
+        "speaker": "A",
+        "text": "I do want to say I agree that issuance changes should not be taken lightly. But there is a historical precedent for this, which is before the merge when we were in the proof of work regime, every hard fork changed the issuance. And these issuance changes were kind of arbitrary. It was like, okay, 50 ether per block down to 25, just cut it in half. These types of changes are continually something we're driving towards figuring out the ideal. And this whole idea of we don't want to overpay for security. We want to have the right amount of ether backing up the proof of stake protocol."
+    },
+    {
+        "speaker": "B",
+        "text": "I remember in the early days we used to call that minimum viable issuance and, wow, minimum necessary issuance. It's coming back."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay. So the hypothesis is that we would actually allow the issuance curve to approach zero more aggressively in order to solve some of these warped incentives. Is this correct?"
+    },
+    {
+        "speaker": "A",
+        "text": "You could even imagine it going negative. Right. So that obviously is a weird world. This has actually happened in traditional finance. Like Japan had a negative real interest rate. Yeah. Again, I'll defer to this, to the post that's going to come out today. But there's a lot of interesting research being done here."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, guys, just don't tell the bitcoiners, okay? They could skip this whole section of the episode."
+    },
+    {
+        "speaker": "C",
+        "text": "All right, let's get into the surge. So we're bringing Dom. Putting you in to front and center here. Dom, the surge, the spirit of the surge is for Ethereum to be the best DA layer in terms of security per byte, without, of course, without compromising on decentralization. I think we can tag that line without compromising on decentralization to all of the urges. This one, the surge specifically, is just really about throughput and data availability. We talked a little bit about EIP 4844 coming in March. We're all very excited. This unlocks blob space, which we've done an entire episode, like I alluded to. So that would be the rabbit hole here. So, Dom, let's just assume that we are in a world where 4844 is integrated into the protocol. It's successful. That whole. The Dankun is shipped and upgraded, and that's the world that we are now in. What are the next steps in the surge after that point?"
+    },
+    {
+        "speaker": "D",
+        "text": "The EIP 4844 is basically the baby steps towards opening the floodgates for rollups to have a lot of data throughput to publish on, because today is very limited and very expensive in terms of call data, the execution layer. And what 4844 does is add this blob space with three blobs per block, and it sets all the technical groundwork is basically done. After 4844, all we need to do is figure out ways to increase the blob count so that roll ups just passively have more data, more cheaper data, and that's what we're going to be doing progressively through 4844, which today is like every node checks every blobs, every blob. So it has to stay limited for decentralization sake. But after we get something like peer dust, then we have more scaling, more blobs, but without costing too much requirements on nodes. And that's the stepping stone toward full dank sharding, which is going to increase the block count dramatically until we have all these nodes verifying data availability for rollups, which at that point, like you see on the roadmap, there are training wheels for both optimistic and zk rollups. And once that's gone, then we have basically the end game of the roll up centric roadmap for Ethereum scalability."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so 4844, everyone's really excited because it introduces blobspace, and what you're saying is that that is actually the primitive that is introduced to Ethereum, that starts the game. And the game is now that we have blobs, now let's scale the blobs. And so we only have three blobs per block once 4844 is in. And now you're saying like, there's another explosion of innovations to bring into Ethereum once we just have 4844, the primitive, rudimentary Stone age version of blobs, and we want the Sci-Fi version of blobs. You talked about a number of innovations here in order to get to Sci-Fi blobs. Peer Das was one of them. What is that?"
+    },
+    {
+        "speaker": "D",
+        "text": "It's more complex than 4844, where it's like checking the data availability is as simple as just did I receive the blob. But peer Das is a little bit more complex. It's in between 444 and full deng. It's a stepping stone where their nodes just share sampling for full columns of blobs or something like that. On a technical level, it's not quite dank sharding, but it's also way better than four and 44."
+    },
+    {
+        "speaker": "C",
+        "text": "So we will get more blob space, more total blob space with peer desk. And peer Das is a peer, like peer to peer. And then Das is data availability sampling."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. And we get that sooner dom than full dank sharding."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes."
+    },
+    {
+        "speaker": "B",
+        "text": "So it's like an interim step. So it's between. So in the beginning of the next hard fork, there was blobs. That is EIP 4844. That's the start. And then we get better blobs. And that is pure das. And that happens sooner than the Sci-Fi blobs that David was talking about, the super blobs of full dank sharding. So there's three steps here."
+    },
+    {
+        "speaker": "D",
+        "text": "Yes. So it's basically having three x increase for four years in a row to get us to full day charting. That's the plan for scaling the blob space of Ethereum and having super cheap transactions on roll up like 100,000 DP's and beyond."
+    },
+    {
+        "speaker": "B",
+        "text": "Wait, wait, three x increase four years in a row?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I can jump in here. So this is more of a meme than actually a guarantee, but I think it's a nice heuristic to aim for as we're thinking about data scaling. And the idea here is that 4844 is this first three x. So we kind of in the year 2023, kind of approximately. It's a little past the end of 2023, but we three x ethereum's block space. By creating these three blobs. Pure Das is a second three x."
+    },
+    {
+        "speaker": "C",
+        "text": "On top of the first three x. So it's three times three x on."
+    },
+    {
+        "speaker": "A",
+        "text": "Top of the first three x. Exactly. Because we expect that as nodes roll out this peer Das thing, we can scale up the number of blobs to potentially many more than 4844. So right now we have three blobs per block. We could potentially do like nine or eight or whatever. We choose approximately three x times that amount with peer Das. Then further improvements to peer Das and getting all the way to full dank sharding probably would take another two years. The uncertainty here is a little more unclear because this is farther into the future, but there's potentially another order of magnitude or two more three xs on top of what we already did to get to the full dank sharding. If that's the end game, then we've over the course of four years done a three x each year on compounding that and getting to the level of DA that is necessary."
+    },
+    {
+        "speaker": "C",
+        "text": "The message I'm hearing here just kind of like how Dom introduced it. We have the primitive. Now we are just in the phase of squeezing all the juice out of the primitive, layering on innovations. And full dank sharding doesn't even have an EIP if I'm remembering correctly. It's just a concept that we are getting towards. We know the destination, we just don't know what the path is like to get there. And Mike, you're just saying like well, well, in the path to get there, theres this two to three year period where we probably have a handful of more three xs in order to get to that full dank sharding point. Is that a fair way to articulate this?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly. And I think its important to kind of set the expectation that Ethereum is never going to scale in terms of DA as fast as alternative DA layers. And thats an intentional design decision because Ethereum is prioritizing decentralization. Sure, if you want to make the hardware and bandwidth requirements higher, then you can get higher DA throughput. But doing this kind of gradual three x per year approach, more incremental, but still having a clear vision towards getting that endgame scaling that we think is necessary for rollups is an important expectation to set for looking forward."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. Because we should be clear about what the purpose of these blobs are, who the big consumers of these blobs are. Blobspace is really, really great for roll ups. Yes, the b movie. So, yeah, and I wonder how many people listening got that joke, dude, I hope a lot of you did. Anyway, so this blob space is going to be key for getting transactions cost down, or at least supporting increased throughput for our roll ups. That's why we're going through all of these steps."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly."
+    },
+    {
+        "speaker": "C",
+        "text": "There's a couple innovations here that we have in our notes. Da sampling and efficient Da self healing. What are these things, Dom? What mechanisms do they bring to the table? What do they do for Ethereum?"
+    },
+    {
+        "speaker": "D",
+        "text": "So the main benefit of data availability sampling is that each node only samples a very tiny bit of the data to confirm that the whole, entire data is there. So by making a few samples, you can be sure with very, very high guarantees that the entire data is there, even though you didn't receive the entire data. So that's the magic of das that's coming with peer Das, but we don't have with 4844. And this is the key that unlocks scalability of the data availability. To prove that a roll up did publish the data onto layer one, to have the same guarantees on layer two as we have on layer two, this."
+    },
+    {
+        "speaker": "C",
+        "text": "Is the spiritual successor to sharding. This used to be sharding as a concept. We always knew we were going to shard Ethereum somehow, and this is it. Once we have da sampling in Ethereum, the original 2017 2018 promise of, hey, we're going to Shard Ethereum, I actually think we get to say that we did that. Is that correct? Is that fair?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yes."
+    },
+    {
+        "speaker": "C",
+        "text": "Love that."
+    },
+    {
+        "speaker": "A",
+        "text": "Also, it's worth saying here that this sampling technique, this magic cryptography, moon math stuff, is the exact same technology that's underpinning alternative DA solutions. So there's nothing that the alternative DA layers provide that ethereum doesn't. It's more about getting to the point where we're comfortable with the requirements for running a solo staking node being low enough to still support the decentralization that ethereum prioritizes."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, Dom. And the other one, efficient da self healing. Sounds pretty cool. What is it?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yes, so like I said earlier, you have every node downloading a tiny piece of the data, so you don't have access to the entire data, but the network as a whole does. So if you as a, as a node, you want the whole data that was previously sampled by other nodes, then the idea of self healing is that if you lose part of that data, like imagine some kind of malicious validator that just decides to censor part of that data, and one, they can't do that because of the magic of sampling that we went into in the blobspace episode. And two, they can get away with censoring some of the data, but we have guarantees. Like, if you have more than 50% of the data available, then you can reconstruct the entire data and just validate the chain on your own if you want to really have the trustless guarantees. And that if sampling doesn't cut it for you, stakeholder of the chain, then you can go through this da self healing process, which is a topic of research today. You can see on the roadmap, it's not quite there yet, but that's the idea. You just have a peer to peer broadcasting system that all the tiny samples come together, and then you reconstruct the whole data."
+    },
+    {
+        "speaker": "C",
+        "text": "Maybe to put this into a visual, think of a sudoku, a very, very large sudoku, and we are sharding that sudoku so that nodes only have to account for a part of that sudoku, and that's their role. And then somebody's malicious, and they're withholding their version of the sudoku. They're withholding their data that they have, which is preventing people from being able to withdraw their assets or do something with their money. And so da self healing is like, okay, guys, let's put all of our Sudoku's together so that we can fill in the data that we have that's missing, because this is how Sudoku works. You fill in incomplete information using the mechanism."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so let's talk about when the surge is actually kind of complete. So full, dank, sharding. That gives us a lot of additional DA that we don't have today. David called them Sci-Fi blobs. I love that. Super blobs. We got super blobs. And I'm just curious, Mike, because something you said, right, is we're going to have super blobs. There will be other networks that sort of specialize. I mean, we're seeing some of these right now, like Celestia for, like, example, eigen da. These are other sort of alternative DA systems. Do you think Ethereum is going to have the best super blob space on the market? Will it be, like, the most pristine? Will it be always a bit more expensive than some of the other blob space? A little less cutting edge, but, like, maybe more secure? Just curious, because we're starting to see this Daeinh infrastructure layer evolve across other crypto networks. Where do you think this ends? At the end state? Maybe I'll throw that to Dom and then also Mike, get your commentary."
+    },
+    {
+        "speaker": "D",
+        "text": "At first, I would say blob space for Ethereum right now is more data than what rollups are using, but it won't take that long for rollups to squeeze the entire value of 444 blob space. And then at that point, alternative DA solutions become attractive because it's cheaper. So it becomes more of a weakest link kind of things. If you rely on Ethereum for settlement, but you rely on something outside of Ethereum for DA guarantees, then that's kind of your weakest link. If it's not as secure as ethereum, so bad things can happen. If that alternative DA layer gets censored or is malicious or things like that. So that's kind of what we're going to see with various stuff like valid ems and optimums. If it's low value enough that you don't mind this weakest link, then that's fine. But if you're a roll up, you want the full guarantees of layer one, then you're going to use Ethereum layer one da until you. Until it's too expensive for your purposes. But the hope is that the forex year over year is going to be catching up in terms of roll up needs for data as they fill up all the blob space."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I have two things here very briefly. The first is that Da seems like something that's not very sticky, right? As a roll up, I get to choose where I post my data, but it's very easy for me to just say, okay, I'm using this alternative Da layer. Okay, now Ethereum is cheap enough, I can kind of lift and shift and start posting my da to Ethereum."
+    },
+    {
+        "speaker": "C",
+        "text": "Lift and shift suddenly, like lift and shift."
+    },
+    {
+        "speaker": "D",
+        "text": "I like that."
+    },
+    {
+        "speaker": "A",
+        "text": "This is. Yeah, whatever."
+    },
+    {
+        "speaker": "B",
+        "text": "Great commentary, dude."
+    },
+    {
+        "speaker": "A",
+        "text": "So, yeah, I could foresee a world in which rollups move potentially to this alternative Da source in the meantime. But by the time Ethereum da becomes cheap enough, they're fully able and willing to move back and get back to the strong guarantees that are provided by having their data on Ethereum. The second ethernet is kind of this analogy that I've been tossing around, and I think it kind of extends this idea that you guys have put out before, which is Ethereum should be this Manhattan of block space. I also think it should be the Manhattan of blob space. So the blobs that land on Ethereum should be the highest value, the blue chip kind of roll ups. There might be long tail of games and stuff that have way different trust assumptions but we want the best of the best to use the best security properties, and that would be using Ethereum. DA. I have this kind of extension of the metaphor, which is that currently Manhattan is under construction. There's a lot of work being done on Ethereum's scaling, and right now it's maybe a less desirable place to live. And we need to make sure that we get done with the construction fast enough that all the people don't leave Manhattan and move to Brooklyn. I think it is important to prioritize the DA roadmap, but still making sure that Manhattan as an island is like the best place to be. And that is by having, like the best censorship resistance guarantees and the best decentralization blue chip Sci-Fi blocks. I love it."
+    },
+    {
+        "speaker": "C",
+        "text": "Ironically, Mike and I both live in Brooklyn. I'd rather just people live in Manhattan or Brooklyn versus something like San Francisco. But, you know, that's. This is my favorite."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, you guys are on a Manhattan layer too. Then in Brooklyn, we are the Manhattan layer."
+    },
+    {
+        "speaker": "A",
+        "text": "I New York roll up."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, blue chip, though."
+    },
+    {
+        "speaker": "D",
+        "text": "Blue chip roll up. It's still got a bridge."
+    },
+    {
+        "speaker": "B",
+        "text": "It's still bridge. Oh my God, this analogy works so well."
+    },
+    {
+        "speaker": "C",
+        "text": "So Justin Drake always talks about Ethereum block space being World War three resistant. And Mike, what you're saying is that we are going to extend that concept, extend those security measures to Ethereum blob space. World War three resistance. Blob space is challenging, expensive and hard, but ultimately worth it, and in our opinion, noble, because that's the goal that we're trying to get to. And then there's going to be the alt da layers who are maybe not so world war three resistant because they've had made some compromises in order to scale. But what you're saying over time is we are going to be able to scale out world war three resistant blob space so that as many blue chip layer twos that want to consume that luxury blob space will be able to consume that. Is this a fair regurgitation?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, perfect."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm not going to say world war three resistance Sci-Fi blob space that is also blue chip."
+    },
+    {
+        "speaker": "C",
+        "text": "Also blue chip."
+    },
+    {
+        "speaker": "A",
+        "text": "Blue chip because it's world War three."
+    },
+    {
+        "speaker": "C",
+        "text": "Because it's."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, because."
+    },
+    {
+        "speaker": "C",
+        "text": "Does this wrap the surge?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I guess. One more thing I just wanted to call out quickly is that the kind of coordination and governance layer associated with the roll up centric roadmap is continuing to evolve. And one really cool kind of instantiation of this is what's called the roll up improvement proposals. Rip calls. And actually I think the call itself is called roll call. And then rip is a roll up improvement proposal. So this is a call that kind of parallels the all core devs, which is the main coordination vector, the shelling point for Ethereum main net upgrades, but doing it for the layer two s. I think as we kind of settle into this future of roll ups and roll up centric roadmap, etcetera, the coordination and discussions will move largely to that call. And they're able to iterate and move faster along, pushing the future of the EVM, maybe considering alternative virtual machines. And there's lots of Sci-Fi stuff that the roll up teams can afford to do that can't be done in normal all core devs governance process of Ethereum. There's a new space for that that's being developed and I think if you're interested, you should definitely listen into those."
+    },
+    {
+        "speaker": "C",
+        "text": "Calls and participate also in the surge. There are these two progress bars that are below most of the content that we've been talking about. One is optimistic roll up fraud provers and zkevMs. This is more for the layer twos out there, the people who are building out the security measures. To fully decentralize layer twos, we need more fraud provers on our layer twos. Notably, arbitrum has shipped theirs. Optimism. The op stack still needs to ship theirs, but it's on the way. And then this would provide security to the layer twos that are actually leveraging this blob space that we've talked about. There's also the ZkevM progress bar, and listeners at banklist will know this. This is the Polygon ZKE EVM scroll, Tyco, Zksync all are working on building out their version of the ZKE EVM. I want to put a pin in this because this actually links back down to something we'll talk about later at the Verge. So I'm just putting a pin in that for now. We're going to come back to how these vms might have work its way back from the layer twos into the layer ones. But next is actually the scourge. So I'm moving us to the scourge. We are in the next urge. Three of six hour and ten minutes into the podcast. We're almost halfway through the urges. Let's just reiterate the purpose of the scourge. This is more of an economic supply chain blockchain value transfer, part of the Ethereum block production. And it's really about MeV Mike, just run us through the vibe of the scourge one more time and talk about what's coming up first."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, and hopefully the rest of the urges can probably be a little faster. Those first two are the real heavy hitters. Right. The scourges is all things MeV, and in particular, kind of figuring out how to avoid the centralizing tendencies that result from meV, I guess, at a very high level. The reason MeV is centralizing is because of its inherent complicated nature, sophistication, and resource requirements that are needed in order to be successful at it. Right. What we have now is this out of protocol proposer builder separation world. This is built using a software called mevboost that was developed by flashbots. Ever since the merge, we've entered this regime where most of the blocks are being built by a very small set of centralized parties. These are called the builders. They're generally the high frequency trader types. They're really good at extracting value, conducting arbitrage, figuring out how to do things as fast as possible. Latency is a very important metric here because of how fast prices move on centralized exchanges and how fast those arbitrage opportunities appear. I guess looking at the items in the scourge box, all of these things are directly attempts to address the centralization associated with proposer builder separation and a small set of actors controlling almost all the blocks, building almost all the blocks in the protocol."
+    },
+    {
+        "speaker": "B",
+        "text": "So the scourge is entirely about the protocol's ability to kind of manage MEV, because MEV can be a scourge on any chain that doesn't manage it well. It can be a source of centralization, a source of corruption to the thing that we were trying to get to, which is censorship resistant compute platform."
+    },
+    {
+        "speaker": "C",
+        "text": "You said it can be, Ryan. I just want to change that. It will be. It will be a scourge on all chains that do not manage it."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, okay. Wait, why? Why do you feel the need to say that? Subtle difference is you're just like, it's so inevitable."
+    },
+    {
+        "speaker": "C",
+        "text": "You are a smart contract system chain, even if you're not. Bitcoin also has MeV. That is a scourge on bitcoin. So it is. If you plan on being a successful chain, you need to have an MEV solution. Mike, check my reasoning on that."
+    },
+    {
+        "speaker": "A",
+        "text": "No, for sure. And I think the reason Mev has been, there's two reasons. I see that Mev has been such a hot topic in Ethereum, where other chains kind of haven't had to deal with it as much. The first is that Ethereum has longer slot times. This twelve second thing is mandated by the solo staking thing that we keep coming back to. But as a result, there's a lot of time for the price on binance or Coinbase to diverge from the price that's represented by the blockchain in the uniswap pools. So that twelve second thing is a very big issue, that blockchains like Solana with 400 milliseconds or whatever, they just don't have that issue. The second thing is Ethereum actually has meaningful defi activity. This isn't meant to be a dig. All other chains are building towards that. But the amount of MEV that's extracted on the other chains is just orders of magnitude less than Ethereum, because there's much less defi activity generally on those chains once the Defi starts ramping up. I think we even saw this recently with Solana having a spike in activity. There's also a massive spike in MEV. The network starts performing in different ways. All of this adversarial PvP stuff that happens in Ethereum is going to happen everywhere else. It's just like Ethereum is maturing faster, it has more value, it has more defi activity that lends itself to create these opportunities."
+    },
+    {
+        "speaker": "C",
+        "text": "What would you say is the first notable EIP, or incoming EIP part of the scourge?"
+    },
+    {
+        "speaker": "A",
+        "text": "The EIP that I'm most excited about for this is actually something that we're considering potentially to put in the next hard fork, the one after Deneb, which is called electra. And that's this idea of inclusion lists. Inclusion lists are a way to bring back some of the censorship resistance properties of Ethereum block space, even if the blocks are being constructed by the special set of builders. So you can kind of think of it as like the validators taking back some control over the block space without sacrificing all the rewards of getting MeV from external block production. So inclusion lists, I won't go into the details, there's a ton being evolved and written on them in the current meta. But yeah, I think in my mind, the biggest issue with MEV centralization is the fact that you have censorship occurring at the builder level and at the relay level. So this is kind of happening today. We see between like 60 and 80% of blocks being censored. It's kind of hard to tell, but in that order, in that range. And we think that with inclusion lists, we can kind of get really good improvement in terms of what Ethereum censorship resistance story is moving forward."
+    },
+    {
+        "speaker": "C",
+        "text": "An inclusion list just to really just define that very, very simply, is a list of transactions that will be included in the next block. That's how I understand it. What more needs to be added to that? It's like forced, forced inclusion at the layer one."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly. It's forced inclusion. And importantly, the builders don't have a say over if they can exclude that transaction or not. So right now, the builders can potentially look at a list of transactions or a list of addresses that they don't want to touch for whatever reason. Maybe it's part of a government list, or maybe even we don't have to think too hard about what could be causing this. But if they choose to exclude those transactions, the validators can say, hey, sorry, you can't produce a valid block without including this transaction. And that's like, if you don't want to do it, you're just going to have to not build a block for that slot. And that's power."
+    },
+    {
+        "speaker": "B",
+        "text": "Today they are excluding today some of them, some of the builders, some of the relayers are excluding today."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Of the four biggest builders, three of them are currently censoring. There's only one builder that's currently actively including all transactions that they see."
+    },
+    {
+        "speaker": "C",
+        "text": "The spirit of this inclusionless is of course, censorship, resistance. It is a promise made by the Ethereum protocol, by the spirit of Ethereum. And this is that promise being manifested into code and eventually merged into the layer one. There will all be inclusion for all types of transactions, no matter what the nature is."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "One way to view it is basically taming the centralization aspect of MEB because right now, today we have this wild beast that are block builders that are like very centralized and they have control over which transactions they want to censor or not, which is a big hot topic issue. But with inclusion lists and other little gadgets, you can have a decentralized validator set that are very simplistic and say, okay, fine, I, you're going to be a centralized builder, but you have to include these transactions no matter what. And basically all the negative aspects of centralizations are gone and the positive aspects like very fast block building and stuff like that. We keep the big enough benefits, but without any of the downsides of centralization. And we remain permissionless. Blockchain, censorship, resistance and all that good stuff."
+    },
+    {
+        "speaker": "C",
+        "text": "Also in the scourge is encrypted mempools, which I think is a very, very big subject. Mike, explain what an encrypted mempool is and how it changes just the nature of the transaction. Supply chain and ethereum."
+    },
+    {
+        "speaker": "A",
+        "text": "The point of encrypted mempools is to, again, kind of, as Dom mentioned, tame this centralization power of MeV, because you take away the power of information from the builders. So now, instead of seeing the transaction, using the information in the transaction to make a sophisticated decision, all they see is this encrypted ciphertext thing. They have basically one bit of choice. They can either include that transaction, or they can exclude it. There's various degrees of privacy and programmable encryption that can be expressed, and that's actually kind of what suave is. Suave is this project being built by flashbots. It's an acronym, but I always forget what exactly. A single unified auction for value extraction, or something like that. Value expression. I think the idea that some amount of data might be given to the builders, while maintaining some autonomy over the rest of the data in that transaction, to avoid them exploiting too much about it. In general, encrypted mempools, I think they're a little farther out in terms of what we could enshrine in the protocol. But teams like flashbots and other folks are thinking about how we can use the cryptographic primitives we have today and in the next three years or whatever, to really improve the immediate term properties of the mempool."
+    },
+    {
+        "speaker": "B",
+        "text": "Basically, this means that builders don't get an unfair advantage and kind of like seeing it, and I guess tilting their inclusion process, tilting things in their favor, extracting some profit on something they see in the mempool. Is that right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly. And in the best case scenario, something like suave would serve as a builder in its own right, so everyone would send these encrypted transactions to the suave nodes. These things are running in what's called a trusted execution environment, a tee. And this hardware is the only place where the decryption can happen. So it's kind of like you have one trust assumption, which is you trust the intel hardware, the SGX, but it's a lot better than the trust assumption we have now, which is basically, we trust everyone, because we broadcast it in the clear, in the open. And if suave is able to get enough transactions flowing through these tees, these trusted execution environments, then they could potentially produce an entire block that was never decrypted except inside the trusted execution environment itself. So it's almost like a distributed block building mechanic. This is the long term vision, the Sci-Fi vision. There's still a lot of engineering that's going into it, but that's the goal of the project."
+    },
+    {
+        "speaker": "C",
+        "text": "I think maybe a way to articulate the net effect of an encrypted mempool. It's long been theorized that ultimately MeV leakage will cease and it will be plugged at the point of its creation. That can be done in a variety of different strategies. Applications can learn how to tame its own mev and make sure it doesn't leak. But also this, I think is going even earlier in the supply chain and saying, just not even disclosing to the blockbuilders what the value is available to be extracted. And it's just like, do you want to include this unknown packet of data that you can't see, or do you not? And the assumption is that they're all going to elect to include it because there's a bribe, a fee, a reward for doing so, but they don't get to know how. Is it touching uniswap? Is it touching aave? What is it doing? They don't know. It's just binary. Include Orlando, not include, correct."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And I think one of the kind of most pernicious things about MeV is, like you said, if you try and plug the hole at a level that makes it so that there's a centralized choke point, then it's kind of like throwing the baby out with the bathwater. Right? So I think Uniswap X is a good example of this. You know, I think the Uniswap team is doing super interesting stuff. But essentially, essentially what Uniswap X does is before the transaction goes on chain, it's run through an auction, essentially, and it can just get filled off chain without ever touching the chain in the first place. And that's kind of defeating the point of using the blockchain in the first place, because you could just go to the Nasdaq or some other centralized exchange and get your order filled there. Not using the blockchain for defi activity is a really bad outcome. Trying to figure out how the chain can support and minimize the effects of these mev opportunities is really important to get people to trust the chain instead of trusting these off chain centralized parties."
+    },
+    {
+        "speaker": "B",
+        "text": "One thing I really like about the scourge is we talked about this entire roadmap is being developed with the community. We talked about the role that roll ups are playing and pushing ckevms and execution environments for it. Well, here we also have the help of groups that are focused on taming meV, like flashbots and Phil Dianen team and begless listeners will recall an episode that we did on suave with Phil and so they're working in parallel to try to tame the mev beast on ethereum's behalf in some ways. And then some of the features that they create will be enshrined in the protocol itself. And I think this is the case with maybe another part of the scourge, which is proposer builder separation, epbs. Wondering if you could talk about that and then how mev burn might relate to that. Mike?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, for sure. I kind of laugh a little bit because probably, I don't know, 70% of my waking minutes over the past year have been thinking about epbs. So this is very near and dear to the heart."
+    },
+    {
+        "speaker": "B",
+        "text": "That's a lot."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, maybe my waking working minutes, we'll say that. Right. So PBS, at a very high level is an auction that takes place during every slot, right? So we talked about this validator set when we're thinking through proof of stake. As a solo staker, I have kind of a choice to make. When it's my turn to propose a block, I can either build that block myself based on my local transactions that I see I got downloaded from the p two p layer, or I can outsource my blocked production to this centralized builder market, which we were talking about before. Now, the reason I would outsource it is because on average, the blocks that the builders create are going to be much, much, much more valuable than the blocks that I create locally. That's because of the sophistication, this is one of those centralization, efficiency of centralization things that we were talking about before. PBS is just defining this auction, which is, I'm a proposer, I have a slot, I want to sell my slot to the highest bidding builder. Currently, that auction takes place out of the protocol through this mevboost thing, this idea of EPBS is enshrined. PBS is how could we internalize that auction into the protocol itself? Now, instead of the proposer going and calling some software out of band and getting their block produced for them, they'd actually have a way to express through the protocol, hey, I want this builder to construct my block, and this is the bid that they put into the auction and that I'm willing to sign as the winning bid and they'll produce their block. So that's kind of the high level. The way this relates to MeV Burn is that once you have the auction in the protocol, you essentially have what you can think of as like an MEV oracle. Right? So the value of the bids in the auction basically say, hey, this slot approximately produced this much eth worth of meV, let's just say, like, one eth for a square number. So if the builder is willing to pay the proposer one eth of value for their slot, then that means that the builder extracted one eth worth of Mev. And the nice thing about having this oracle is it's something that you can actually get rid of. You can be like, okay, this is kind of what 1559 does, right? It's saying, how much are you willing to pay for a transaction? Inclusion. Okay, now that we know how much that is, we're just going to burn that. There's downstream effects of this."
+    },
+    {
+        "speaker": "B",
+        "text": "Remind us, why do we want to burn it?"
+    },
+    {
+        "speaker": "A",
+        "text": "The reason to burn the MEV is to basically distribute some of that value created back to the holders of ether. The reason this is important now is that right now, MeV is extremely spiky. One slot might be only 0.1 eth worth of mev, and the very next slot could be 100 eth or 1000 ethan. And as a result, the value of being a proposer in the system can vary greatly among just the luck you get by which slot you get allocated. And this is a super centralizing force, because as a pool, as someone who might control 10% of the stake, you get all of the range of this mev allocated to you in the non mev burned world. So you have much better exposure and you have a higher probability of getting one of these super high value slots versus a solo staker. I only propose, I've been solo staking for, like, five months, and I haven't proposed a single block. On average, I should be getting, like, one every four days or, sorry, one every four or five months. So, like, I'm kind of due for one. But the odds that my three slots a year, one of them is like a thousand EtH slot, is very, very low. It's kind of like buying a lottery ticket. Like, I just don't think that is a something I can plan around where the pools can actually plan around winning 10% of the super high value blocks. And that's, like, an additional incentive to join one of staking pools."
+    },
+    {
+        "speaker": "C",
+        "text": "You talked about, Mike, why we want to burn ETH. And you said, we want to give it back to the ETH holders. I think I have a different perspective that I'd like to elevate ETH holders. It's not the intent of increasing the scarcity of ETH, but it's just simply the easiest, most credibly neutral way of destroying mevs, destroying the value captured. It has to go somewhere. Holding ETH is the minimum viable hurdle that one would get over in order to have that MEV being recaptured by you. And so it's simply just the largest pool of people that is the easiest to distribute the value of that MEV back towards."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly. And kind of calling back to our tail wagging the dog thing, this actually means that the rewards that the validators get from the consensus layer are more meaningful. Right. So if you think of as a validator, I get rewards for participating in consensus, but I also get rewards for producing blocks. And right now, the producing block reward could be way, way higher than the amount I get from just participating in and doing my kind of civic duty of voting on which block is the head of the chain. So by destroying that Mev, we have a lot more fine grained, precise control over how much we're paying to the validators to participate in the network."
+    },
+    {
+        "speaker": "D",
+        "text": "I'd also jump in and say there's a security and stability aspect to this. As Mike mentioned, it's very spiky if one block is 0.1 eth and the next block is 100 eth of mev. Like if you're a large taker with a large control of the validator set, you have kind of a distorted incentive where you can try to pretend you didn't see that block with 100 e when it's your turn to grow the next block, and then you can reorganize that Mev. But one good reason for why we should burn it is that, sure, you can try to pretend you didn't see that block, but you're still going to be burning 100 e. So your best bet is just to go ahead and propose the next block on top of the previous one. It's funny."
+    },
+    {
+        "speaker": "B",
+        "text": "Have you ever seen, which is what we want. Have you ever seen the Reddit posts? Is somebody like, oh, I fat fingered some eth and some validator, some pool kind of collected it and they're like, can I get that back?"
+    },
+    {
+        "speaker": "A",
+        "text": "Now?"
+    },
+    {
+        "speaker": "B",
+        "text": "Is that possible? So this kind of eliminates that problem, I guess."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "It would just get burned one way. I think I can also describe this is like, we don't really want to power Ethereum security via lottery tickets. We want to power Ethereum security via a very fine, controlled trickle of gasoline, right? Just like slow and steady burn into the engine. You don't want to just randomly dump a bunch of nitrous into the engine when you aren't expecting it and aren't ready for it. That's kind of how I would explain this."
+    },
+    {
+        "speaker": "A",
+        "text": "Not Mad Max Fury road."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, exactly."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. All right, guys, the end is on the horizon. We got the verge coming up next. You're taking this one. The verge spirit of the Verge make block verification super easy. Can you talk about just what that means and what that means for the goals of Ethereum? Why is block verification being easy important? And what solutions does it bring to the table?"
+    },
+    {
+        "speaker": "D",
+        "text": "Verifying blocks as a node. That's one of the settlement guarantees of Ethereum, that anyone can just run a node and verify the blockchain for themselves, so you know you're not getting lied to. And it kind of ties in with the surge where we had like these nodes verifying data availability very quickly. Like just download a few bytes for a few samples, and then you're sure that the data is there. And the verge is basically that, but for execution, where all you need to do is download a few bytes, verify a proof, and then you're good, the block is valid. You verified it. The main way to do that is through vertical trees first. And then eventually we use zkmagic again for starting the whole layer one, so that you can verify the whole chain on your smartwatch, like Justin said, as."
+    },
+    {
+        "speaker": "C",
+        "text": "His end goal, Dom, you said, so that we want to make block verification super easy, so that we can assure that we're not being lied to. I think you're alluding to an attack vector. Can you just illustrate that to make that super clear? Like what is that attack vector and why might it happen?"
+    },
+    {
+        "speaker": "D",
+        "text": "The goal of having a decentralized validator set, and also like, very easy to run a node, even if you're not a validator, it should be easy to run a node on your average computer, because if you have super high cost for running a node, then fewer people are going to do it, and then it becomes possible to collude and do something invalid, like say I print myself a thousand eth, and if you don't run a node, you kind of have to take my word for it. But if you do run a node, I can't lie to you, because that the cryptography, like the ETH, has to come from somewhere. There has to be a valid block, a valid signature, valid transaction. So it's super important that anyone can just run a node to verify these transactions and all these blocks. And the goal of the verge is to make that the cost of verifying super cheap, so we can both scale layer one and keep the low cost of verification so you can't be lied to."
+    },
+    {
+        "speaker": "B",
+        "text": "Guys, let me just say here, I want to underline this, like running a node is the entire freaking point. Like, that's the point. That's why we do blockchains, right? It's a hyper slow, silly computer. Aside from the fact that anybody in the world with an Internet connection and some modest hardware profile can verify what's gone on, that is the entire point. That is why there were the big block versus small block debates in bitcoin. That is why Ethereum has optimized, within the constraint of trying to make it possible for solo stakers to verify and validate blocks. That is the thing that keeps the whole thing decentralized and preserves what Mike was talking about earlier, which is censorship, resistance. That is a thing that we should not trade off ever and should never trade off lightly. I think that's the spirit of Ethereum. Is it nothing?"
+    },
+    {
+        "speaker": "D",
+        "text": "That's exactly correct."
+    },
+    {
+        "speaker": "C",
+        "text": "Can we just. I want to stay on this point, actually, a little bit. I think I am now a system that doesn't necessarily agree with that. That's the appropriate trade off. If we want to get more people on chain. It's actually better if we kind of just delegate node validation and maintenance of a blockchain to experts who have a lot of hardware and are sophisticated and can run a system on behalf of the rest of the world, because they are experts. That way we can distribute more block space. We can get more people on chain. This is an alternative perspective. What do we lose? What might we lose? What's the argument against this from the Ethereum philosophy, Dom? You want to take this one."
+    },
+    {
+        "speaker": "D",
+        "text": "You still want to verify that they're not lying to you. Even if they're super centralized and beefy. You want some guarantees that the whole system remains critically neutral and permissionless."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, to me, it's kind of like what you just said, David. It's sort of. You said the experts, right? Another word for experts, I think, in this model is elites, right? It's like, do you want the elites small cabals, kind of like to verify what has happened? I mean, at some level, I think the bitcoiner is very much right about this. Like that is what we have in our existing system. You look at kind of like central banks. That is a few elites running the verifier nodes of what the bank balances say. And so that is kind of the difference here. One question I have for you, though, Dom, is sometimes I get tripped up. And I think a lot of people get tripped up around the difference between verification, which is the term that you've been using, make block verification super easy and validation. Are we talking about the same things like what's the difference between a block verifier and a piece of software that verifies a block and a validator? So actually validating the block production, could you get into that? Because I think people get confused by these two different terms."
+    },
+    {
+        "speaker": "D",
+        "text": "The term validator on the beacon chain has always been a bit of a misnomer, because technically anyone running a node is validating the chain, as in checking that it's valid. But the role of a validator is that they actually have some money on the line, like stake, and their job is to attest to blocks. So basically say this block looks good to me and they put their vote there. And that's what defines the canonical chain. So that's what makes it super expensive to reorg the chain, because then you have to double vote, which is like a cryptographic thing that's very easy to verify, and then slash what money you have at stake."
+    },
+    {
+        "speaker": "B",
+        "text": "So you have to have 32 ETH to be a validator, but you don't have to have any ETh to verify."
+    },
+    {
+        "speaker": "D",
+        "text": "Right, exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so anybody can kind of run an ETH verification node and then why would they want to do that? Dom, if just like give us kind of like the summary. Why would they want to do that if they're not also validating the block and receiving some reward? Is anyone realistically going to run verification software?"
+    },
+    {
+        "speaker": "D",
+        "text": "Most users today aren't really doing that. They're delegating to RPC endpoints from other people running fullnows like inferior and stuff like that. But one reason why you might want to do that is to not have to rely on that trust in the first place, because that's what blockchains offer, is trustless verification. If it's not important to you, then you can delegate. But if you're doing high value stuff, then you want to verify that you're not being lied to, which is one of the main things that Ethereum offers as settlement assurance."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, and just to jump in here, you could imagine a future world where let's say you want to go settle a high value transaction and you send the transaction and you're trying to, let's say, buy a car. And the guy who's selling you the car, he says, oh, like I can just pull out my phone, I'm verifying the blockchain on my phone, so I know that transaction is in there and I know it's valid. Alternatively, he would have to go to Etherscan or go to some trusted entity and that entity could totally lie to him. I could have hacked Etherscan and inserted an arbitrary transaction in there that said, I paid you $20,000 for this brand new car. But that never happened. And he wouldn't have any way of verifying beyond just Etherscan's trust assumption that the transaction is actually in the chain."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, current state is I can run an Ethereum verification software on what, a consumer grade laptop? Can I still run this on a raspberry PI? Is that possible right now?"
+    },
+    {
+        "speaker": "D",
+        "text": "There is some project called Ethereum on RAm. You can see on Twitter where they do run it on raspberry PI's, but you still need SSD for fast read write on the disk because there's a lot of terabytes of information on the chain. Part of the verge is to get rid of this requirement to hold the state with vertical trees, which will introduce stateless clients, which we can introduce in a second, but that's going to reduce this reliance on storage space. And then you can run it on the raspberry PI easily, because that's the one main bottleneck today is holding the state. And state growth just keeps growing. The state keeps getting bigger and bigger, which we don't really like. So that's what we're addressing with vertical trees. And eventually even the execution is just going to be super fast. You just verify ZK proof and that's it. You know, that the block is valid. That's kind of what."
+    },
+    {
+        "speaker": "B",
+        "text": "That's what we're getting to. It's not just a raspberry PI. It could be your phone, or it could be a watch, or, I don't know, your new apple VR set. It's just like, requires very little storage and compute in order to verify exactly."
+    },
+    {
+        "speaker": "C",
+        "text": "I want to actually take a moment to define a verkle tree. I think most people, most listeners will be familiar with a merkle tree tree, even though that is also a pretty dense subject. Gosh. A merkle tree is like a tree of contingencies based off of hashes. And you can kind of route your way through a tree based off of a hash that probably wasn't helpful. If you don't know what a merkle tree is, you might need to pause this episode and go learn what a merkle tree is. Dom, can you explain what a verkle tree is and what its superpowers are above and beyond, just like what we have now, which is a merkle tree."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "So right now, the reason why we have trees together, it's for. It's for the state. So if you only have the header of the previous block, then there's going to be what's called a state route inside that block header. So even if you don't know the transactions or what's like, what balances of accounts are, someone can use that state route and craft a proof to you. And then you, you know for sure that this proof is valid against the state route that, you know, is part of the canonical chain. That's what we have today with merkle trees. But the problem is that these proofs are very, very heavy. So it's not realistic to have light clients on your phone checking these proofs, because they're going to need too many of them and they're too big. So the point of verkle tree is to replace that structure of merkle trees using more advanced polynomial math, so that the proofs are much, much shorter and they can get aggregated into a single block witness. So you receive the block, there's a witness, which is just a proof of everything that's happening inside that block. And then you can check that quickly and be sure that the block is valid, even if you didn't know the block that went previously. So that's kind of the magic of vertical trees. It's just very shorter proof."
+    },
+    {
+        "speaker": "C",
+        "text": "Is it just like better? It's just like a better compression technology. It's a better proof technology. It's like Merkle trees 2.0."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "And if we can get more compression, and we were talking about the layer one, if we can get more better compression technology inside of our layer one blocks, what does that do for layer one throughput? Are we talking about just the capacity of the layer one?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Vertical trees can come with easily a three x of the gas limit, which means much more layer one scalability and cheaper gas prices on layer one, which is cool. One of the biggest problem of running a node, like I alluded to earlier, is holding the entire state, because you have to know what balances are, what's the state of every smart contract before you start verifying the current block. Because if I send you 100 etH, you have to know that I did have 100 eth previously. So you have to go somewhere in the history that you're storing on your hard drive. See that at some point I received 100 etH, and then, you know, I do have the ETH that I claim to have, and then you can accept this transaction in the latest block is valid. And part of the magic of virtual trees is that your node can just come online, receive just the latest block it doesn't have to know the history or the state of the blockchain. All it receives is a transaction that I send you out under the ETH, which comes with a short proof that guarantees to you that I do have that money. So running a node becomes much cheaper in terms of storage and verification, because you can just, just jump in at any point, get the latest block, and validate the transactions from that point forward, because you have state proof. So everything that's being accessed on Ethereum is valid and you're not being lied to, which is like the main theme of verification."
+    },
+    {
+        "speaker": "B",
+        "text": "So if the verifiers aren't holding that, all of that state that is currently in like solid state drives SSD's, who is taking that function over? And why is that okay to like have another non verifying, non validating entity take over the storage of that?"
+    },
+    {
+        "speaker": "D",
+        "text": "Once again, it gets delegated to the builders because they're centralized, they're beefy, and they can afford to buy 256 gigs of ram and hold the entire state in ram, so they don't have to bother with slow reads. And it's super fast for them. They're in charge of crafting these proofs. Once again, they can't lie to you with a fake proof because that's cryptographically unfeasible. And that's where the state is going to go, is basically two builders. But you as a user with vertical trees, you can afford to just forget about all the states you don't care about except your own balance, which is something that's pretty cool, that's going to."
+    },
+    {
+        "speaker": "B",
+        "text": "Come with vertical trees, that doesn't matter. That's not a centralization vector, because so long as we have at least one entity, a builder or some other entity that has that state, we're fine."
+    },
+    {
+        "speaker": "D",
+        "text": "Yes, and also state can also be reconstructed from history. If you're a user, you don't transact often. And in the last 1000 blocks, you made like three transactions. And you want to have your own state, and you only have to execute the three transactions in those three blocks versus today. Where to do that? You would have to compute the entire thousand blocks to get your own personal balance and make your own proof to you, send to the light client or things like that."
+    },
+    {
+        "speaker": "A",
+        "text": "Just to add one little thing. I see this as extending the theme of pushing all the expensive and complicated stuff onto the builders because they're being well compensated for doing so. And their incentives are to be very sophisticated. MeV we're outsourcing the block production to them for Virkel we're outsourcing the state access to them and they can't lie to us. We have cryptography to kind of, of constrain their action space. But to firewall off those things allows the validators and the verifiers to stay super lightweight, super decentralized. And then we formalize this class of sophistication that handles the rest of the aspects of the chain."
+    },
+    {
+        "speaker": "C",
+        "text": "We're really using builders as this reservoir to push a lot of services that we need for Ethereum onto these very sophisticated actors. And then we are checking them with the powers of cryptography, like we're just creating, like oh, we need this thing. It is valuable and it's sophisticated. Let's give it to this thing that we've classed builders and these builders are just these checked service providers for the Ethereum system, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "And the important thing here is that in the case that the builders go offline, everything can still keep on working. So there's no dependency on the builders. It's just the builders are incentivized to, to specialize in this role and they're compensated well for doing so, but there's no strict dependency on them. And we preserve the censorship resistance of having a distributed validator set in the first place."
+    },
+    {
+        "speaker": "C",
+        "text": "I think I remember doing this when we did this episode with Vitalik two years ago. I think this is when this snake metaphor came in. The game of snake, the blockchain propagates one block at a time. We add a block onto the snake and the snake grows a little bit longer and then the snake becomes a little bit larger, of a liability for the long tail of node operators who are just the solo stakers. Because the snake is getting beefier, its harder to maintain. What the verge does is actually thins out the tail of the snake and makes the snake a little bit lightweight, a little bit more manageable, a little bit, well, maybe a lot, actually, a lot more fit for smartwatches, phones, computers, home validators. Just because this snake, using cryptography, using vertical trees, has been made easily can fit into your watch. One thing I want to really tap into here is as we do the compression, the compression of the snake, the verticalization of the blockchain. We are as a network, the Ethereum network can have a higher fidelity relationship with a hardware that it runs on. Right now we are constraining the Ethereum protocol in order to preserve decentralization so that their. As Moore's law increases, we get to increase the gas limit a little bit. I think we're actually a little bit lagging behind on increasing the gas limit. I saw a vital tweet about this, but with Moore's law, we actually are able to lag Moore's law less. This is my understanding. Can you guys, can you guys just extrapolate on that? How does the verge change the relationship between the growth of consumer hardware capabilities and the capabilities of the Ethereum? Layer one Dom, you want to take this one easily."
+    },
+    {
+        "speaker": "D",
+        "text": "Vertical trees can add a lot to the gas limit, like you said, because we remove a lot of the storage space requirement and the bandwidth of everyone sharing all the data to each other. Instead you have these short proofs. So that allows to increase our gas limit, because now we don't really mind that the state is going to be growing faster because that does doesn't incur a cost on nodes. Verifying the state and verifying the blockchain syncing, because you don't want it to be too long to synchronize and have a node come online, and you don't want nodes to fall out of sync if they can't process transactions fast enough. And this is a good thing for virtual trees because they removed a lot of the syncing speed. Going forward in the future, you just snarkify everything, including vocal proofs, including l one in EVM, which makes it even better for nodes to verify things. It is just one proof, and you have a cryptography guarantee that the block is valid even if you didn't actually compute it yourself. So that means even more layer one."
+    },
+    {
+        "speaker": "C",
+        "text": "Scalability with gaff limit increases snarkify everything. That sounds intense. What does that mean?"
+    },
+    {
+        "speaker": "D",
+        "text": "Well, a snark is just a zero knowledge proof where there's a big asymmetry between proving and verifying approver. It can be like a very beefy builder, and then the verification is super quick and cheap. So you know that the builder didn't lie to you when he executed the."
+    },
+    {
+        "speaker": "B",
+        "text": "Transaction to snarkify everything. Maybe this is where we resume a conversation we put a pin in earlier when we were talking about the ZK EVM, sort of some zero knowledge execution environment actually being available at the layer one level. I mean, that to me sounds a little Sci-Fi but we have ZK rollups right now as layer twos. So when you were talking Dom about snarkifying everything, what's the relationship between that and having some sort of execution environment that is snarkified on Ethereum's layer one? Is that part of the verge too?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, basically ZK rollups are going to do a lot of innovation, and they're working on doing zenith, and that's like basically a freebie for Ethereum. Layer one, because we don't have to develop that. We can just leverage what they built and then enshrine a ZK ABM directly at layer one, which is basically what I mean by snarkifying everything. You have a snark for execution, for state access, for verifying signatures on the beacon chain. Everything comes together into a snarky fight. L one, which I think, like you said, it's very futuristic. We're not quite there yet. We let zkvms battle it out, and then we're going to see which one is the best design, safest and everything, and then we can progressively enshrine that. Vitalik has a pretty cool post on that."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, just talking about when that's enshrined, what will that mean? So let's say we had an enshrined ZK Evm. We also still, like, this is years in the future, so I imagine we'll have a very sophisticated layer two world as well. What would that even look like? I'm trying to imagine, do we even need layer twos anymore? Or do we now have everything we need on the layer one? Or does this amplify the scalability that we get? What does that world look like? I'm having a hard time imagining it."
+    },
+    {
+        "speaker": "D",
+        "text": "First point, I would say layer twos will still exist on top of layer one. It just means that you scale layer one and, and that compounds exponentially for scaling layer two. So if by the time we were ready to enshrine a ZKE eVm, most, if not all mainstream users are going to be on layer two. And what's that going to do? Is just passively increase them and mean even more scalability for them on layer two, they don't really have to care what happens at layer one. Another point is we're going to have this EVM verification precompile, which is a very, very cool thing where you can have an opcode that just verify a proof for a ZKe EVM. So inside layer one, you can make it very trivial to have a ZK rollup and verify EVM inside the EVM. So you can have infinite recursions of EVM verifying this pre compile, and that's going to make rollups even less trusted. They won't have to keep upgrading to catch up with layer one EVM modifications if they want to stay fully compatible. So that's a very Sci-Fi thing."
+    },
+    {
+        "speaker": "C",
+        "text": "All right, I think that wraps up the verge. This brings us to the purge. Okay, so just as a reminder, the first four which we have gotten through are about adding features and capability and capacity to Ethereum. The purge is now about some removing some stuff, simplifying the protocol, eliminating tech debt. Dom, what is the thing or the things that we are purging from Ethereum? What is all this tech debt that we've accrued?"
+    },
+    {
+        "speaker": "D",
+        "text": "The big thing of the purge is history expiry. So as we saw in the verge, vertical trees solve the problem of having to hold the entire state, and the purge removes the problem of holding the entire history. Now you can just sync even faster by getting the latest finalized block and then saying, hey, give me the state today, or vertical proofs and everything. So you don't really need to hold the entire history either. So that's the big point of the purge, is it simplifies the code base for a lot of these clients. Because right now, if you're thinking from Genesis, you have to keep up with all the rules that change over all the hard forks in the past. And that's a lot of complexity in the code that we don't really need, because now that we have like finalization, you can just say, okay, that's the latest finalized block. I can just start following from there, from the p two p layer and not have to bother computing history because you just start there at the finalized point and there's like all the guarantees are there that it's the canonical change."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so new people, new chips, hardware, computers can come onto the network and start participating because they don't have to go all the way back to Genesis, say however, I'm an ethereum ico participant, and I haven't actually moved my ether from my wallet since Genesis. So a, I have this property that I own. It's called ether. It's been in my wallet from Genesis. Will I still be able to have the assurances of my property rights all the way back to the very tail end of history, or is that now compromised?"
+    },
+    {
+        "speaker": "D",
+        "text": "It wouldn't be guaranteed by Ethereum layer one, but you would still be able to move those funds if you have the vertical proof, which you can either compute yourself, if you get the history from somewhere else, bittorrent or something called the portal network, or if you don't care really, you can go to centralized participants like block explorers and infuria and tell them, hey, give me the vertical proof for the eth I had all these years ago. But the point to really drive home is that history of a blockchain is one of n trust assumptions, so you can't be lied to. And it only takes one honest participant to give you the honest history. So you're not going to accept the wrong history of the blockchain. So that's kind of why it's not a big deal to purge history."
+    },
+    {
+        "speaker": "A",
+        "text": "And also it's worth mentioning that you're not obliged to purge. You can choose to run your node in this fully historical mode where you download everything, you verify everything from Genesis. It's just saying that option is going to be default off when you start validating a new, like, you spin up a new client. The software will be slightly different because you don't have to keep all the transition points like right now in the code. If you're syncing from Genesis, every hard fork, like the merge, like Den Kun, all of these hard forks, you have to keep the logic and that branch for like, is it before or after this hard fork? If so, change the rules in this slight way. So that's a huge source of, of tech, debt and pain. It's like as if the Google website you rendered had like all the versions of Google that ever ran since 1998. Right? Like that's just like so inefficient. Whereas Google can just update their thing and have a fresh version. That's the thing that gets sent to you. It's like way easier, kind of, in terms of not having to do this whole history thing."
+    },
+    {
+        "speaker": "B",
+        "text": "And so if I'm running the node and everything with history, I'm not going to be able to do that from a smartwatch, I imagine."
+    },
+    {
+        "speaker": "A",
+        "text": "No, definitely not. And that will always be like, that's going to have a lot of memory requirements, like storage requirements, disk. Disk requirements, yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so this is something that is not guaranteed, no longer guaranteed by the Ethereum layer. One protocol. The end of one trust assumption is pretty strong, but it's still an assumption. So if I have like assets very far back in Ethereum's history, there's that n of one trust assumption that I is now the condition for my property rights."
+    },
+    {
+        "speaker": "A",
+        "text": "One event."
+    },
+    {
+        "speaker": "C",
+        "text": "One event. Excuse me, when bitcoiners hear this, the strong property rights violation, unacceptable. Why are we accepting it in ethereum? What are we getting with this trade off? Why is this an acceptable trade off? What do we get from this?"
+    },
+    {
+        "speaker": "D",
+        "text": "Well, the obvious answer is lightweight verification. Following the chain is much easier. But to come back to your kind of like property rights thing, I would say right now we're already pretty familiar with the idea of something like a seed phrase that holds all your keys. So you put money on the blockchain, you have your, see your twelve or 24 words, and then you go in a cave for 100 years. You come back and you expect that to be available. But one thing, it's like a small trade off where you can do the same thing with vertical trees to prove that your money is there in the state. So you just, just on top of your seed phrase. Before you go in the cave for 100 years, you have to remember the short proof that says, I have these assets from 100 years ago. It's your own data that you can be in charge of if you really insist on keeping everything trustless and not having to rely on other providers for history."
+    },
+    {
+        "speaker": "B",
+        "text": "I want to understand that, Dom. If I had that Ethereum ICO from Genesis block, I have that and I've got the seed phrase to that wallet it, then I just need that plus some other bit of vertical identification. What is that data profile? That's not a seed phrase. What does that look like? I'm just getting ready to go in a cave. So I just really want to figure this out."
+    },
+    {
+        "speaker": "D",
+        "text": "It's just a small amount of bytes that just proves that inside your account you have this balance. But 100 years later, even if somehow all the state data has just disappeared, all you have is the state route. And you can keep proving that you had this before transacting with those."
+    },
+    {
+        "speaker": "B",
+        "text": "So I have to have my seed phrase and then I have to have a USB drive, just a tiny one with some bytes of data, and then I can go, go in my cave for 400 years? Yes."
+    },
+    {
+        "speaker": "A",
+        "text": "It's important to say that you don't have to use this, right? Like you can still run the historical node that still will generate that proof for you 400 years later. When you're ready to come out of your cave, you don't necessarily need to foregone conclusion this. You can still do it. It's just we're taking away the default of everyone having to do it for all the nodes that they're running, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Because my other thing is if I don't want to run that node, I just want to go in with my vertical bits of data and then my seed phrase. Then the other thing that will certainly almost happen 40 years in the future is somebody will be running this, somebody."
+    },
+    {
+        "speaker": "C",
+        "text": "Will have that data, and it might be."
+    },
+    {
+        "speaker": "B",
+        "text": "Vitalik once he's uploaded himself into the computer consciousness, I'm sure there'll be some resources there. And that's, I guess, what one of uncertainty is."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, so it's like the crypto economics of builders is to hold the entire state. Because you can imagine if I try to transact with all the assets, and then one builder just decided that I'm not worth it, and they just prune my account from the data that they have about the state, then they can't come up with that proof to make the next block. So the builder that did hold the entire state, including my account, gets to collect the fee that I was willing to pay for my transactions using those old assets. But there's a lot of incentives to just keep the state alive."
+    },
+    {
+        "speaker": "B",
+        "text": "Last one. Here we are at the end, the splurge. Okay, that sounds like the most fun, because we get stuff, we get to splurge. Tell us about the goodies. What is the splurge, Mike?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I'll pass it off to Dom pretty quick here. But one thing that I think is really exciting is this multidimensional 1559. Currently, one thing that we do is we have this transaction fee mechanism that says, this is how much I'm willing to pay to get my transaction included on the chain. All of the resources that are consumed by transaction, such as compute, storage, data access, all of these are priced under a single unit, which is this gas thing. You pay for everything. Each resource has a different number that it's charged, but the unit of all of them is the same. Importantly, that unit, it is priced statically among all of them. If gas goes up because of a huge demand for minting an NFT, then that also means that call data cost is going way up for the roll ups, because they're paying for that with the same unit of account, which is that gas metric, multidimensional 1559 says, hey, we're going to split this up and say, okay, computer compute costs something. Storage costs something. And in the case of this NFT mint, if the compute costs are way higher than what they normally are due to a high inflow of new NFT mint demand, then the call data cost could still remain the same because you've decoupled the two fee mechanisms between the two. That's a very more accurate way of. Of actually pricing what it costs to put a transaction on the chain."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So what's happening is right now, if you're in your home, so my house, I get electricity, is one of the commodities I use propane for. Like, I have a fireplace, and then also water. Right. And so right now, what's happening, let's say, let's imagine, is these are all kind of bundled together in the same price. And the problem is, I've got a neighborhood, and his propane usage is absolutely off the charts. Right. And propane is spiking in terms of demand. It's very expensive. And that goes into my bill because it's all being bundled together right now. So it's very inefficient. What you're saying is, basically this gets unbundled. So I am paying now my propane and my water and my electricity as kind of separate usage line items based on my own individual use usage. And I don't have to worry about my neighbor jacking up propane prices on my bill."
+    },
+    {
+        "speaker": "D",
+        "text": "So to add on to what Mike said about multidimensional EIP 1559 is that today, since everything is inside the same unit of count called gas, whenever we want to raise the gas limit, we have to do a bunch of analysis and prepare for the worst case. Whereas with multidimensional EIP 1559, we can have individual targets. So you can imagine, like, state growth versus, like, history bloat. Let's say if you raise their gas limit, then it also makes it cheaper to build bigger blocks, which, like, has a big history. But then another worst case is that you can have small blocks that do a lot of compute and a lot of state read and writes. And then even though the blocks are small, the state growth from those blocks is super high and out of control. So that's why there's like a bottleneck everywhere when we increase the gas limit. But with multidimensional EIP 1559, you have individual targets. So we say, okay, the blocks are going to be, on average, this big. And then the state growth resulting from executing a block is going to be this much gigabyte per year. And then that allows for a much smoother pricing, much more accurate in terms of what the demand for each resource is."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so we talked about multidimensional gas. And the theme of this urge, the splurge is like it's a grab bag of everything else. Tell us what else is included in the splurge."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, still in the EIP 1559 team, we can change the pricing curve so that it increases the cost of censoring a transaction, which is a cool topic because right now we have 12.5% up or down, but most of it gets burned. So instead, if we change the pricing curve, we can have it such that block builders are kind of buying block space from the blockchain itself, the same way you have uniswap pricing curves. But when you do that, you can have it such that a transaction that's willing to pay a lot of money. All that money goes to the block producer, but then by the fact that they are paying for more block space for that specific block, they're basically burning the same amount. But forgoing the transaction is going to cost them a lot of opportunity costs. So you can imagine that if a block burns one EtH and .1 goes to the builder, then the cost of censoring that block is 0.1 eTH, which is kind of the one downside of 1559 is the cost of censoring is cheaper. But if you do it with a different pricing curve, then the cost of censoring that block is the entire 1.1 eth. Like the burn plus the."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, what else we got? What else is in the bag for the splurge?"
+    },
+    {
+        "speaker": "D",
+        "text": "Basically we have like all the goodies, like improving the EVM, which I'm not quite familiar with, like stuff like EOF and other big modular arithmetic for like smart contract development at the execution layer, just like some EVM goodies. Otherwise, the whole topic of account abstraction goes into the splurge as well. So Vitalik has this whole roadmap idea of enshrining ERC 4337 inside EOAS once we have a mature protocol for that ERC."
+    },
+    {
+        "speaker": "B",
+        "text": "So account abstraction right now is in an ERC form, but this would be making it more native."
+    },
+    {
+        "speaker": "C",
+        "text": "Is that the endgame into an EIP and then eventually merging it in, correct, yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. And what would that mean? Is all of our eoas right now. So all of our ethereum addresses basically become account abstraction enabled so they could be fully aa, is that right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "Basically there would be like a multi step process, as usual, like between adding code to eoas and then convert an eoa into a 4337 wallet. And then you can have in protocol and training. But it's another in game of account abstraction as well. There are other eips for delegating eoas to smart contract and other pieces of code."
+    },
+    {
+        "speaker": "B",
+        "text": "Guys, I think we did it. The merge, the surge, the scourge, the verge, the purge, the splurge. We got all six. And I think the question right now is, where do we start? What is coming on the near term horizon? David made the excellent point earlier in the episode that all of these different urges are being worked on in parallel. But what can we expect in not the hard fork in March, but maybe the one after that and in more the middle time period here."
+    },
+    {
+        "speaker": "D",
+        "text": "2024."
+    },
+    {
+        "speaker": "C",
+        "text": "2025. What are we trying to get done here?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, for sure. I think it's useful to kind of take all of this information and distill it into a few key themes. What is Ethereum trying to do in the medium term? Because I think you're going to have Tim on to talk about what comes in the next hard fork that'll be super useful beyond like Deneb and kind of the current version that we're forking in March. I think of there being three important directions that we need to make sure Ethereum is still marching in. The first is preserving the decentralization and censorship resistance. In my mind, this is the core value prop. It has to be the thing that all other decisions are downstream of, because without it, I don't think that that the blockchain makes that much sense, starting there. And then also I think the second theme that I feel is very important is circling back to this Manhattan under construction analogy I was using before. We do want Ethereum DA to be extremely valuable. We want it to have very high security properties, but we need to scale it in order to make sure that people don't move off Manhattan. And the construction is basically enough that like keeping the pedal to the metal in terms of keeping the roll ups, using Ethereum DA for the roll up. And then the third thing I think of as more of almost a research direction. Those first two feel very concrete. The third one is, okay, we have these various centralization pressures that are pushing on the protocol in different ways. We have mev, we have liquid staking and restaking, and there's all of these various pressure points, I would say, that need to be relieved. And figuring out the endgame for each of those is critical to moving forward. I think starting with censorship resistance, still keeping the focus on DA as the roll up centric roadmap continues to mature, and then focusing on meV, restaking, staking and the core endgame proof of stake is the right way to think about the next couple of years."
+    },
+    {
+        "speaker": "C",
+        "text": "To summarize the pattern that I see, it's a lot of emphasis on settlement and specifically censorship resistance settlement. We get into the world of improving Ethereum's execution with the verge, but in the medium term, really, we're focusing on, on the censorship resistance settlement of the Ethereum layer one and the scalability of execution on the Ethereum layer two as it relates to settlement. Back onto the layer one, I'm really seeing just settlement as a big theme in Ethereum. Would you agree with that assertion, Mike?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I like to take a step back and think, okay, what is Ethereum good at? What makes Ethereum's beer taste better. This is an agent saying that, that I think Jeff Bezos was talking about. And in my mind, it's like Ethereum is great at being credibly neutral, decentralized, censorship resistant block space. I don't think Ethereum should try and scale execution to the moon, because that's directly in contrast to the core value proposition of keeping solo stakers around. In the exact same vein, I don't think Ethereum should try and compete byte for byte and get 1gb blocks, two gigabyte blocks in the next year, because again, you make concessions in terms of the decentralization and who can actually access this network. So, yeah, I think both the settlement layer of the global Internet of value is a great vision for almost like a settlement layer centric roadmap. I think that makes a ton of sense while still making da good enough for that blue chip, for the super valuable l two blob space. I think that's, that's kind of the right framing. And also I think Ethereum as a community is the huge thing that is super valuable. Ethereum historically has been a group of people that all care about this thing. And we were talking about decentralized governance. We're talking about different teams contributing in different ways. This whole grassroots movement of building out the roadmap and contributing in your different ways, I think making sure that the vision is firmly on maintaining and building that community, to be sure that the next wave, the next million, next hundred million next billion users choose Ethereum and choose to make it their crypto home, I think that's very important too."
+    },
+    {
+        "speaker": "C",
+        "text": "So if we were to zoom out all the way, we've zoomed out at each individual six urge. So we've kind of explained the spirit of each individual one. And I want to look at all of them as one system, one system that we call Ethereum. Urges. Once all of the urges are now what we just call ethereum, what is ethereum? What is the end game? What does Ethereum look like when all of these things are complete? How do we think of this system?"
+    },
+    {
+        "speaker": "A",
+        "text": "Sure, yeah, I'll just call back to Vitalik's original endgame post, which he wrote in December of 2021. So I think it was right before he came on bankless the first time. He summarized it with a very simple diagram that said you're going to have centralized block production, decentralized block validation, and strong censorship resistance, if thats the thing that were building towards, I think were going in the right direction."
+    },
+    {
+        "speaker": "B",
+        "text": "Preston. So I have the diagram that Mike just mentioned up from Vitaliks original post and well, include a link to that post. It was called endgame, actually. So same title as this episode and the episode that preceded it in 2022. This diagram itself is pretty significant because I think what it's pointing to, Dom, is all of the different approaches to scaling a blockchain are all converging into this single box, which is centralized production, decentralized validation, strong anti censorship protection. There's some sort of notion of convergence, I think, in the end game here. Here. What do you think? Why is this significant for Ethereum and the roadmap that we just went through?"
+    },
+    {
+        "speaker": "D",
+        "text": "I think it just means that no matter what we do, we end up at this endgame. The approach that Ethereum takes with rollups is it's very pragmatic, as in it's much easier to introduce blob space and scale it and then let roll ups innovate on top of it, rather than trying to scale layer one all by ourselves, which was like the roadmap before rollups came about. And it's all these urges just tied together beautifully. You have blob space innovation on rollups and then ZKE evms on rollups, and then you enshrine that onto layer one and it all comes together for very easy validation of the chain, even though there is a centralized block building, but they're constrained so that we keep the censorship resistance."
+    },
+    {
+        "speaker": "B",
+        "text": "And that's true for Ethereum. Even if there becomes one super roll up that scales and dominates everything, or if we are more like the world that we're in right now, where there's many different roll ups that are flourishing and there's kind of like this fragmentation, but we've got some cross chain kind of like bridging. If either of those paths come true, then we sort of end up at this endgame. And Ethereum is just accelerating towards that. Is that right? Right."
+    },
+    {
+        "speaker": "D",
+        "text": "Yes, it's exactly right. So, of course, if we mean one roll up, it sounds scary if you think of roll ups today with multisigs and bridges and upgradability. But like in the end game, you have, even if you have one roll up, and that roll up is like fully mature, no training wheels that roll up itself as like censorship resistance guarantees from layer one. Then if we end up at a world with a single roll up, then that's basically that roll up is effectively Ethereum's execution layer, I somewhat indirectly, but also it has the same trust, assumptions and everything. So we end up at this endgame anyway, but with many roll ups, you can see that they compete with each other in order to squeeze the most value out of Ethereum blob space. So if the one roll up starts slacking and charging too much compared to what blob space actually cost, and you can have like competition, another roll up takes the market share and we still end up at that end game, which."
+    },
+    {
+        "speaker": "B",
+        "text": "Is vital because the thing that Ethereum is really prioritizing is a sensor censorship resistance. That censorship resistance, decentralization, that armor at the base level. I guess if you're approaching it from another vantage point, which I think in his diagram he talks about the traditional big block chains. So these are chains that have not prioritized their roadmap for censorship resistance. In order to get to that end game, that end state that Ethereum is marching towards, they will have to go back and add that, won't they? They'll have to go back and add all of the anti fraud types of mechanisms. They'll have to go figure out how to slay the mev monster, or at least tame it, as we said through this episode, they'll have to figure out how to do the inclusion lists and encrypted mempools and add all of that censorship resistance armor, and there's still a path for them to do it. It's just like, wow, that's hard. You have to effectively do all of the stuff that Ethereum is doing in its roadmap today. Is that the point? Point?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think that's exactly right and obviously super biased. But I feel like we're almost taking the easier path because it seems very like the fact that Ethereum already has this credible neutrality, this great base layer community that's running solo staking. We have client diversity. Starting from there and scaling the technology horizontally first and then vertically feels much easier than scaling it vertically and then trying to go horizontal. Right? Because now to go horizontal, you have to convince solo stakers to run nodes in many jurisdictions. You have to introduce latency into this block production pipeline to allow people to communicate across the globe. The path of least resistance feels like the one that we're taking."
+    },
+    {
+        "speaker": "B",
+        "text": "It's easy. And I guess in another way, the approach is easier to start decentralized than to start centralized and become more decentralized. It's just a little bit of hard mode here."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, you're kind of fighting Moloch, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Right. I want to ask you guys the question. As you zoom out, you look at this roadmap, just maybe a general question, what can go wrong here? Right? Like as you think about actually implementing the full vision here. I'm sure there's some dragons hidden in that diagram on the wallpaper of your phone screen, Mike. Where are they? Like, if something goes wrong, three years."
+    },
+    {
+        "speaker": "C",
+        "text": "Ago, we didn't know that the scourge was in the roadmap, but the scourge was in the roadmap roadmap, whether we knew it or not."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Is there maybe an unknown unknowns category? Of course, but, yeah. What about the things that, you know, that you think could be thorny?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think not addressing kind of, when I mentioned earlier, these kind of key centralization choke points of mev restaking, liquid staking, I think that could get into a situation that's very hard to get out of. Right? Like, for example, that whole 100% ETH staked all of it through a single governance token. That governance token, being controlled by a small minority of people, would be a very difficult place to get out of. I think there's also just this kind of continual push and pull in terms of ossification versus trying to ship all this cool, exciting new tech. There's almost some natural amount of ossification happening just because coordination gets really hard as you scale out, like the ecosystem is growing. I just mentioned Walloc, but there's all of these human coordination problems that seem to arise. And especially as everyone has kind of their own vested interest, the financial side starts to creep in. So you have this almost weird thing where how in us Congress, nothing gets done because everyone has essentially solidified in their views, and no one can come to consensus on what the right path forward is. I don't think we're going to ossify through lack of execution. That seems like a really bad outcome. But if we get to a point where the important themes of the roadmap aren't prioritized and aren't shipped within the right timeframe, it could almost become like the governance process is just stagnant and no longer able to deliver what ethereum consumers need, which is l two, scaling roadmap, cheap transaction fees on the l two, and great censorship resistance on the l two one."
+    },
+    {
+        "speaker": "B",
+        "text": "What about you, Dom? If something goes wrong, what do you think it's going to be?"
+    },
+    {
+        "speaker": "D",
+        "text": "I think the key theme of something going wrong in any of these pieces is that we always have fallbacks. A good example is finality. If for some reason too many validators are offline, then we have the inactivity leak. We're still producing blocks for people to use a blockchain. It's still live, just not finalized. Just yet. That's one fallback. If we have Epps and then for some reason all the builders just go out of business and they don't, they no longer proposing blocks. Then we fall back to what we have today with locally built blocks and things like that. There's fallbacks everywhere. So sure there are some unknown unknowns, but I think overall, everyone's super aligned to have a strong ethereum, including the social layer, which is the ultimate fallback. If something goes catastrophic. Things like client diversity is super important to address at the social layer, because that's another fallback. If one client has a bug, then other clients can just pick up the. So you can see that the resilience of Ethereum is just in all these fallbacks. And the modular version of doing all these modular parts and coming together, like I said earlier, it's beautiful. And there's fallbacks everywhere."
+    },
+    {
+        "speaker": "A",
+        "text": "Defense and depth."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "It's so interesting because as we've one of the early bankless principles is there's a difference between the network and the asset when you're looking at a blockchain system. So theres Ethereum the network, and theres ether the asset. A lot of people confuse those things because in bitcoin, the asset and the network are both called bitcoin. I like to say ether whenever possible, although a lot of people use Ethereum pretty synonymously, and ive capitulated on some of that. But I think in this entire conversation, weve been talking mostly about Ethereum, the network. Its very interesting because when you bring on on strong bitcoiners, there's very little talk about the network, maybe now more increasingly with ordinals and things like that, but it's mostly about bitcoin, the asset itself. And I want to ask you guys this, because the focus has been on Ethereum, the network, this entire episode, and we've talked about this computer that we're all building out in the open collectively, and there's all these groups coming together to pitch in, and some of the smartest minds on the Internet in the world at this time, and this exciting project, and we're all doing it together, it's very collaborative, and we're building this censorship resistance blockchain network computer. And at the end of that, I'm wondering what that means for ether the asset. And I want your personal takes here, Mike. Do you think that what we're building here is a monetary unit? David and I, our take here is what we're actually building is a censorship resistant form of money. That's the byproduct of the network that we're building, it's part of the same thing. If we build the network, then we get the asset, and if the asset's strong, then we get stronger properties in the network. It's like this flywheel. What's your take on that? At the end of this, when the Ethereum roadmap is complete, when we've reached the end game, what about ether, the asset? What does that look like?"
+    },
+    {
+        "speaker": "A",
+        "text": "I really like the analogy of thinking of ether as the digital oil. Right? It's kind of this important commodity in the future of the Internet. It's useful for paying gas. People use it to buy things, they price nfts in it. It also is kind of this decentralized store of value. It does have that moneyness property where across border payments are just seamless. All you have to do is know someone's address. I do think a lot of the moneyness properties of either the asset are just fully solidified by having that foundational network security, network censorship, resistance and yeah, just drawing back to the canadian strike that I mentioned earlier, I think, yeah, it all comes back to property rights. And if there's no one that can exert any control over the network, then the property rights are maximally strong and maximally permissionless. I think the value of the ether token is just downstream of that."
+    },
+    {
+        "speaker": "B",
+        "text": "Honestly, what's your take on the same question, don?"
+    },
+    {
+        "speaker": "D",
+        "text": "I think the flywheel effect you mentioned is another beautiful aspect of Ethereum. Where ethereum, the network, helps e 30 asset and e 30 assets helps Ethereum the network, because there's a like this feedback loop between all the different crypto economic elements, like having to pay ETH for gas, which gives some demand for ETH, but also using ETH as the only trustless money across the whole ecosystem, with roll ups and everything. That's the one permissionless asset that has no off chain dependencies. And all these equilibriums just come together. It stays secure by having ETH, the asset, used as collateral for staking, and pretty secure if you're on the blockchain. And then there's the equilibrium of staking yield that goes down if too many validators exit, so more validators come in to replace them. So all these flywheel effects are super cool to see in the ethereum as an asset and as a network."
+    },
+    {
+        "speaker": "B",
+        "text": "So this high level roadmap, this is not months, this is definitely a years type thing. I want to ask you to get to the end of everything we've talked about today. Are we talking about a longer time period? Are we talking about decades? Are we still in years? I mean, do you think we can get this whole thing wrapped up in like five years, or will this take longer?"
+    },
+    {
+        "speaker": "A",
+        "text": "I think there's a very long tail. Like all of this kind of super futuristic cryptography especially feels extremely unknown, unknowns in terms of time horizons. But I do genuinely think, especially when I was talking about ossification through coordination in the next five to seven years, I do feel like a majority of the big questions about ethereum should have been answered and should have been enshrined into the protocol because these things are very slow to evolve. The Internet protocol has barely evolved since it was enshrined in the early days. I think USB is another really good example of something that was super sticky. The protocol is defined by the hardware spec, and that's also extremely sticky because by the time that something gains real value and real product market fit, real adoption, it can't afford to change very much. I hope that we get to the point where Dom and I don't even have to be employed by the EF anymore. Things somewhere else. The network is boring, the all core devs. Nothing happens because there's no change. I think that getting to that state quickly is pretty important too."
+    },
+    {
+        "speaker": "C",
+        "text": "I think maybe another question to ask of the similar vibe of a timeline is how much of this is research and how much of this is engineering. I'm getting the guess that most of the research phase has come to a close. But how much of research around this roadmap still needs to be done in order for us to actually engineer this roadmap map? Dom, do you have a perspective here?"
+    },
+    {
+        "speaker": "D",
+        "text": "A lot of it is implementation details. So like the research, we know where we're going and now we need to figure out how we're doing. For most things, like vertical trees are mostly implemented. There is a question of how we do the transition from merkle to vertical, but the actual end goal itself is like, we know what it's going to look like and we just need to do it safely. Upgrade the same way we upgraded to proof of stake. But a lot of the deep crypto for futuristic stuff is still in the research phase, but most of the big ticket items are going to come into a matter of implementation."
+    },
+    {
+        "speaker": "B",
+        "text": "You guys have done a phenomenal job taking us through the Ethereum roadmap and the endgame. And one of my big outstanding questions that we can't answer in this episode, but we'll answer over the years to come, is whether this is really the are we going to add some more on top of this. I know Drake, when we have money, talks about things like single shot finality. Yeah, signal. Shot, signal."
+    },
+    {
+        "speaker": "C",
+        "text": "I can't even say one."
+    },
+    {
+        "speaker": "B",
+        "text": "One shot. Thank you, gentlemen. And that's a whole nother rabbit hole. So, like, when we talk about the end game, part of me is like, are we sure? There might be an end game after this endgame?"
+    },
+    {
+        "speaker": "A",
+        "text": "But talking to Justin is unique because he's always so far in the future. You know, he's great at, like. Yeah. Creating new research directions."
+    },
+    {
+        "speaker": "B",
+        "text": "I'll note we have some new urges if we want. We've got the converge that hasn't been used or the submerge or the diverge. So we've got some more diverge."
+    },
+    {
+        "speaker": "C",
+        "text": "We don't want that one."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't know. We don't know."
+    },
+    {
+        "speaker": "A",
+        "text": "That sounds dissonant."
+    },
+    {
+        "speaker": "C",
+        "text": "That sounds like a fork."
+    },
+    {
+        "speaker": "B",
+        "text": "Let's. Let's end with this then, because once again, you guys have done a phenomenal job. And the last person to take us through the. That the roadmap with this level of thoroughness was Vitalik, of course, like, two years ago. Don't say that, David. But big shoes to fill. And you guys did a fantastic job. I wanna ask you this. Cause we've gotten to know Vitalik very much over the years, and I feel like now bankless listeners have a sense of why he's doing what he does. Why are you guys doing this? Like, why are you working on this weird Internet world computer project? Like, personal reasons?"
+    },
+    {
+        "speaker": "C",
+        "text": "Don't you know you can be paid a million dollars working on an alt layer one meme?"
+    },
+    {
+        "speaker": "B",
+        "text": "Coins pay pretty well right now with your skillsets. You guys could be doing a lot of other things. Mike, why are you doing this?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I'd like to say that I came for the tech and stayed for the vibes. Yeah, I've just been totally pilled by the community, and that's why I wanted to really hammer home that. I think that's one of the really unique aspects of Ethereum, is just how welcoming and how stoked everyone is to be working on this together. Yeah, I think beyond that, I just couldn't imagine wanting to do anything more than just hack on the core protocol itself. And this feels like the right way to do it right now."
+    },
+    {
+        "speaker": "B",
+        "text": "Dom, why are you spending your life here and almost 3 hours on a bankless podcast?"
+    },
+    {
+        "speaker": "D",
+        "text": "For me, it's the infinite nerd snipe of every little item. That's like, you see the big roadmap, and each one of those is its own little rabbit hole that you can just spend hours and hours and weeks into. Just figuring out every aspect of it and the way it all comes together is just very cool to see there's nowhere else I'd rather be."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, thank you for everything you guys are doing, and thank you for this episode. It's been phenomenal. Some action items for you. Bankless nation, the Ethereum Endgame episode. The original will be a link in the show notes. Also, Dom's blob space episode that we did that'll prepare you for the next Ethereum hard fork, which is coming in just a matter of weeks here."
+    },
+    {
+        "speaker": "C",
+        "text": "Also, Dom's Mev Burn episode, two episodes that we've gone down a rabbit hole."
+    },
+    {
+        "speaker": "B",
+        "text": "If this wasn't enough, just listen those two back to back right after this episode. Guys, got to let you know, of course, crypto is risky. You could lose what you put in. But we are headed west. This is the frontier, and we just saw the frontier of Ethereum in today's episode is not for everyone, but we're glad you're with us on the bankless channel journey. Thanks a lot."
+    },
+    {
+        "speaker": "A",
+        "text": "Bingo."
+    },
+    {
+        "speaker": "B",
+        "text": "Wow."
+    },
+    {
+        "speaker": "D",
+        "text": "Nailed it."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, my God."
+    },
+    {
+        "speaker": "D",
+        "text": "That was crazy. Up."
+    }
+]

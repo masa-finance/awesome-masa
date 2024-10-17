@@ -18,3 +18,7 @@ tqdm
 streamlit-extras
 ollama
 colorlog
+fuzzywuzzy[speedup]
+python-dotenv
+huggingface_hub
+datasets

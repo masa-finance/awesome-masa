@@ -1,0 +1,230 @@
+[
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless everybody get 30. 30 baby get 30 baby get 20. 2020 baby get 2020. Bid to get 15. 1515 just $15 a month, so give."
+    },
+    {
+        "speaker": "A",
+        "text": "It a try at Mint mobile.com switch."
+    },
+    {
+        "speaker": "C",
+        "text": "$45 upfront for three months, plus taxes and fees. Promoting for new customers for limited time Unlimited, more than 40gb per month slows full terms at Mint mobile.com dot."
+    },
+    {
+        "speaker": "D",
+        "text": "Here's why you should watch today's show. Solana, a top ten cryptocurrency is under an ongoing attack. We'll discuss what happened and what the ramifications could be, plus a deep dive into what's hindering further institutional adoption of crypto. Welcome to real Vision Crypto Daily Briefing. I'm Nico Bruga, joined by Ash Bennington. Let's get right into the latest price action. All eyes right now are on Solana. One of the ten biggest cryptocurrency was the biggest loser earlier today. That's despite big gains across the market. It has, however, bounced from the lows of the day. We'll discuss why in just a moment. Bitcoin and ether are solidly in the green. EtH, especially, is doing well amid an ongoing enthusiasm over the upcoming merge. Here's another metric other than the price that exemplifies it. Ethereum name service domain has announced the latest registration numbers. There were 378,000 new ETH registrations in July alone. Decrypt and u today report this as a record number. Now onto our top stories. There is a very different mood when it comes to Solana, though. Phantom wallets and reportedly multiple other hot wallets have been hit by a hack that affected holders of the cryptocurrency. Solana this is the developing story, and we don't have all the details, but here's what we do know. Originally, crypto tracking platform Mistrack said four addresses linked to hackers stole $580 million worth of crypto assets. However, Mistrac later revised the data. What we do know is that more than 8000 wallets have been affected. Mistrac said it would only include major cryptocurrencies in its calculation. Excluding shitcoins, the total losses are only about $4.5 million. However, blockchain investigator Peckshield puts it closer to $8 million. So there's a lot of uncertainty there. Ash, what else do we know? How can people protect themselves from something like this."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, that's right, Nico. There is a lot of uncertainties. Very early, very fluid is the term of art. The reality is that this is not a Solana hack. This is a hack that involves multiple hot wallets. Coindesk, for example, right now reporting that it's phantom slope and trust wallet, potentially others. But it's the interaction between the Solana protocol and these hot wallets in terms of this particular exploit that we're seeing, based on the reporting that's out there, and again, very fluid, it is limited to these hot wallets. People who have their coins, their solana, I should say, in this case, stored on cold wallets have not been affected. So if you have a hardware wallet in this particular instance, you're not affected by this exploit."
+    },
+    {
+        "speaker": "D",
+        "text": "Good to know, Ash. Thank you for that."
+    },
+    {
+        "speaker": "E",
+        "text": "To the best of our knowledge right now. And it could change in 20 minutes, right?"
+    },
+    {
+        "speaker": "D",
+        "text": "Always the case. You know, this is the fastest moving ecosystem in the world, it seems. Let's turn our attention to some other stories we're looking at today. Nomad, a popular bridge between different blockchains, has been hacked as well. The startup acknowledged the attack on Twitter. Around $200 million was drained in 24 hours. One security expert who spoke with Coindesk said a recent update was to blame. Steve Walbrell, chief information security officer at blockchain security firm Halburn, said the update to Nomads smart contracts backfired, prompting transactions on the protocol to be automatically approved. It's unclear why, but it allowed people to copy, transaction and pay themselves out of the bridge. The company has publicly asked for the funds to be returns. In other news, also, one of the biggest bitcoin proponents has stepped down after three decades. Michael Saylor will no longer be the chief executive of software company Microstrategy. Instead, he will become executive chairman. According to a company statement, he will focus on bitcoin acquisition strategy and related bitcoin advocacy initiatives. MicroStrategy's current president will become the new CEO. The company has already spent nearly $4 billion on bitcoin under sailor, while its stock is down nearly 50% year to date. Ash, any thoughts on these two stories? I know the nomad hack. You spoke with Corby Pryor about it. What did he have to say?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, you know, Corby Pryor is really interesting. He's this brilliant young guy who's in this space. I believe his background is in particle physics, has been involved in this space now for a short number of years, but he was recently on real vision, I would say, going back a few months ahead of, I believe, one of the other bridge exploits and came on and was really quite prescient and said, look, these bridges are incredibly vulnerable. They are structurally fundamentally vulnerable to attacks and effectively. Let me just read you the quote that he gave me last night when we were talking about that. He said, quote, there's no reason to believe this protocol was secure in the first place whatsoever. The only way to secure anything is via consensus. Anything in crypto that is not secured by consensus is not secure. There's no alternative security mechanism. Understanding and internalizing this idea is the only way that the space can get to the next stage. So let me just sort of translate for people who don't have backgrounds in computer science. What Corby is saying here is that bridges themselves, as we currently construct them, as we currently think about them, are fundamentally vulnerable. It was the wormhole attack, I believe that Corby was so prescient about a few weeks before it happened, when he was last on. And what he's saying is that this is a structural weakness in the entire crypto ecosystem. And it's a real challenge right now, figuring out how to move what a bridge does, essentially, is to move coins between different protocols that don't share the same consensus mechanism. And just to underline, again, Corby's point here, he is saying, in his view at least, there is simply no way to securely do that without an underlying consensus mechanism. Niko?"
+    },
+    {
+        "speaker": "D",
+        "text": "Absolutely fascinating. A lot of this is still new to a lot of us, so we're going to be keeping an eye on all of this as we go forward. Before we turn our attention to our main segment, Ash, anything else catching your attention? I heard that the Senate was getting their claws back into crypto regulation."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, there's a story, and this is coming directly from the Wall Street Journal based on their original reporting, that Senate Agriculture Committee Chairwoman Debbie Stam Stabenow, she's a Democrat out of Michigan, and top ranking Republican on that committee, John Boozman from the state of Arkansas, are proposing regulation that is going to regulate bitcoin and ethereum in terms of the way that those, that they are overseen here in the United States. Look, I can hear the jokes and the laughter coming right now that you're going to have senators who want to subpoena the CEO of bitcoin. But I think it's interesting, and people shouldn't be dismissive of this. Yes, clearly there are limits for the ability of legislators to regulate and restrict how these decentralized protocols take place. But this is real. When you hear senators talking about regulating, they're talking about regulating the institutions through the CFTC in this case that are transacting in these types of protocols. I think about, one of the phrases that we often hear in the phrase that I hear and I think about is this idea of money legos. That's kind of the marketing term. The more technical computer science term is abstraction layers. What I imagine that we're moving toward is a world in which regulated entities, at least US regulated entities, are going to have abstraction layers around the mandatory abstraction layers and the way that they interacted with these protocols. Again, it's very early, I would just say for people who are following this and trying to just get ahead around what a story like this means, I would say legislators are serious about regulation. And don't laugh it off completely. I suspect there's going to be some teeth."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I mean, regulation is something we're going to be keeping a ton of attention on over the coming months. It's obviously going to affect the markets in very interesting ways. Speaking of which, let's dive into our main segment. Michael Saylor once told CNBC microstrategy doubles as the first and only bitcoin spot exchange traded fund in the US. He said, quote, we're kind of like your non existent spot ETF. So far, the US securities and Exchange Commission has only approved ETF's that track contracts, speculating on the future price of bitcoin. The wait for the green light for a spot ETF which could track the current price continues. That's just one example of continued limited access to crypto for institutional investors. Ben Whitby, the chief compliance officer at Krato across chain protocol for asset managers spoke about these roadblocks with Anatoly Kratzalov, the CEO of Nickel Digital Asset Management. Let's take a look at our first clip where they set the stage at where we're at right now."
+    },
+    {
+        "speaker": "F",
+        "text": "What do you think the next problem is that needs solving in the market?"
+    },
+    {
+        "speaker": "G",
+        "text": "I think PB function, which is so in a traditional space, you would come to Goldman and Goldman would plug you into the market and be your prime brokerage across multiple trading venues. In crypto, we don't have that. In our case, we have direct connectivity to multiple venues. But then these venues do not talk to each other, which means you have to over collaterize or maintain your collateral across multiple venues, even if theoretically they can be offset against each other in a traditional space, your prime broker would do that for you in crypto, the capital efficiency is lower because of this multiple venues which are not connected directly. So I think there is a role for PB in crypto, and there are few initiatives in this space. Some of them are very promising, and that can increase capital efficiency for people like us trading in crypto. So that's a large thing which is coming. Another thing is certainly availability of leverage, but more importantly, risk management associated with that. You know that in traditional space, you have, say, if you look on market neutral fixed income fund, these guys by definition deploy 1510 x leverage in crypto. Margins are quite healthy. You don't have to deploy this leverage yet. In our case, we never crossed one x leverage ever since we've been trading for three years. But over time, certainly that will becomes why the availability of leverage will emerge. And more importantly, volatility will become kind of more subdued than it is today, which would allow you to deploy certain leverage. Maybe two x, it's never going to be ten x, but maybe two x in a careful trading. Now this what happens with perhaps professional players. If you look on the wider market, there have been abuse of leverage over the last couple of years. To some extent, risk management techniques were not there, or risk was not properly assessed, and that led to market debacle, which we are going through now with a number of lenders actually being caught in these unculturized lending, or over leveraged positions or mismatch between your asset and liabilities in terms of duration. So I think industry will need to go for a more sophisticated stage when risk management is taken seriously, and that's going to reduce this risk of failures, and the whole space would become more professional. That will drive more capital into crypto. Yeah, I think this what we would expect in the next couple of years."
+    },
+    {
+        "speaker": "D",
+        "text": "A lot of interesting insights there in that clip. But ash, before we dig in further, can you provide some insight on just what Anatoly means by capital efficiency as it relates to leverage and all those other elements anatoly is referring to?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, so what, what Anatoly is talking about here fundamentally is the institutional plumbing of digital asset markets, of crypto markets. Capital efficiency is really a fancy way of saying it's expensive to do stuff when you don't have the proper plumbing to do it, when the infrastructure isn't there. It's very inefficient to do business. You know, some of the points that he mentions, I think, are spot on. He talks about the need for better management of collateral, cross collateralization, the ability to hold collateral on one particular platform or protocol and have it effectively count across the system if it's appropriate to do so. These are things that are still very much in the infancy phases right now. For example, you might have to deposit too much collateral. That puts a drag on your trading strategy. All of these things are very much challenges for people on the institutional side of the space. By the way, I should say Sam Bankman fried over at FTX is working on a lot of these initiatives right now. And Sam, in fact, actually touched on some of these points with Raoul about the future of FTX and crypto. So if you haven't seen that interview, you should definitely go check it out on the real vision platform right now."
+    },
+    {
+        "speaker": "D",
+        "text": "Well said, ash. It's a great interview and everybody should check it out, if they haven't already. Before we turn to our next clip, I have a quick question for you. So obviously, this is all about institutional investors, but what Anatoly is saying, how does that affect the average retail investor who's dipping their toes into crypto?"
+    },
+    {
+        "speaker": "E",
+        "text": "Well, you know, it's a good question. I think it impairs liquidity, for one. So you wouldn't get necessarily the best execution if you had these challenges with liquidity and with the plumbing of the system. It's just not quite yet at the level of maturity that we see in the traditional financial system, the traditional capital markets. Now, I know that may sound something somewhat surprising to people in the crypto space, particularly people who were really excited about the idea of building this new world in the crypto space, that, in fact, some of the capital markets functionality is actually more sophisticated. But it's probably no surprise they've been building those systems for decades to try and figure out precisely these kinds of issues. I think it's just a question of time before crypto ultimately moves up. And hopefully, I think for people in this space, surpasses the level of sophistication in terms of the underlying plumbing in the system."
+    },
+    {
+        "speaker": "D",
+        "text": "Niko, wonderful. Thank you for that, Ash."
+    },
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited premium wireless. How do you get 30 30 bid to get 30 bid to get 20? 2020 to 2020? 1515 just $15 a month."
+    },
+    {
+        "speaker": "A",
+        "text": "So give it a try at mint mobile.com. dot slash switch."
+    },
+    {
+        "speaker": "C",
+        "text": "$45 up front for three months, plus taxes and fees. Promoting for new customers for a limited time unlimited. More than 40gb per month slows full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "D",
+        "text": "So now that we've set the stage of where everything's at with the current plumbing of the crypto ecosystem, let's turn to our next clip, where Ben and anatoly dig into how traditional markets and crypto might work together in one way or another in the future."
+    },
+    {
+        "speaker": "F",
+        "text": "Which do you think is going to come first? Do you think we're going to get more professional and more capital into crypto traditional markets? Or do you think traditional markets going to borrow from the crypto space and start layering on crypto bonds and other types of different things, that you can get all the benefits of managing your assets with crypto, but with the stability of traditional products?"
+    },
+    {
+        "speaker": "G",
+        "text": "Well, I would expect ae more traditional players to enter crypto space. And we are seeing this happening now, right? To some extent, I would even say that correlation which we are seeing recently between crypto and traditional assets, say Nasdaq, right, has become pretty much one since May, June, July. And the reason for that is everyone was waiting for large institutional investors to arrive to crypto, and here they have arrived and they firmly place crypto into high risk bucket of their allocation whenever interest rate rise. Environment unfolded before us, certainly that impacted all risk assets, including crypto. And if you are in a position of reducing risk, you're getting rid of these assets which are way too risky for you to hold at the higher interest rates. That's how crypto came under pressure. And to some extent, arrival of institutional investors caused this higher correlation with traditional space. Now, would I expect traditional assets to be trading on crypto rails? I believe absolutely. There's going to be a massive opportunity to have traditional bonds trading in a tokenized form using efficiency 24/7 settlement, 24 trading and t plus zero settlement now applied to traditional assets by using crypto rails. So I would expect actual tokenization of real assets to become a large theme going forward. As soon as larger number of participants are getting comfortable with crypto as underlying technology. They don't have to invest in bitcoin, but they can borrow technology to put traditional assets on these payment and settlement rails. And many traditional banks, I believe, see direct benefit. If you think that equities are settling at t three and given volumes, look on the investment banks. I think we're talking about hundreds of billions of dollars being just stuck on the settlement stage because of this t plus free timeframe. If you can bring it to t plus zero, you would a eliminate counterparty risk which you hold over these 72 hours. But more importantly, your capital efficiency becomes completely different because you don't have to hold this capital. And given this benefit, it's only a matter of time until this move crystallizes and many institutional investors would move into crypto."
+    },
+    {
+        "speaker": "D",
+        "text": "Forgive me, Ash, this might sound like a stupid question, but just why does Anatoly think bitcoin and the Nasdaq have been correlated? Remember, I've never taken an e comm class, so talk to me like you would a high school student."
+    },
+    {
+        "speaker": "E",
+        "text": "Nico, not a stupid question at all. A very good question. Particularly since one of the things that bitcoiners particularly have been so passionate about is this notion of cryptocurrency, of being an off the grid, uncorrelated asset to traditional capital markets. So far, that has not been the case. Not saying it won't be in the future, but what it essentially means in the simplest terms is when the Nasdaq goes up, bitcoin and ethereum go up as well. One of the reasons for this, I would suspect most people in the space would agree, is that we've got to this point where everything is traded. The correlation goes to one is the Wall street slang. It basically means when you have a period, particularly a period when central banks controlling liquidity is having a huge influence on the level of pricing in markets, that one risk assets go up, they all go up simultaneously. So you see the Nasdaq composite, the Nasdaq 100, big tech, the long duration play, so to speak, rising at the same time that you see bitcoin and ethereum rising and falling at the same time that bitcoin and ethereum decline in price."
+    },
+    {
+        "speaker": "D",
+        "text": "Nico, really interesting. So, Ash, this might also be a stupid or not stupid question, but where does stock to flow? Is that part of this correlation? Or is that something entirely separate? Because I hear that batted around a lot as well."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, stock to flow would be a separate type of calculation. Both of those can influence prices at different times in different ways. If you listen to the advocates of different philosophies, we see this in traditional markets as well. For example, when you see earnings contracting dramatically during periods of recession, obviously that is a separate category of effect from central bank liquidity, although the expectations of central bank liquidity repricing based on recession could be endogenous to the system. It gets complicated, Nico. But the reality is right now, we are seeing that correlation very strong, as Anatoly points out."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, thank you for that, Ash. You very much helped clarify that for me. And before we move on to the next clip, I just have one more question while I got you trapped here. Anatoly. Mentioned that term, capital efficiency. Again, can you shed some more light on just how crypto might change the game? I know part of your origin story was working at one of these big banks back in the day, where these type of t plus transactions dictated a ton."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, back in the day, indeed. This is what we used to call the back office before fintech was a term of art. So I was at Credit Suisse in the early two thousands. I worked in the data center in Princeton, New Jersey, and one of the things that we did was what we called nightcycle batch transactions, where you would effectively run the processes that balanced out the transactions. For example, the settlement and clearing. Clearing and settlement, I should say, in that order of trades. Look, it's very fashionable, obviously, to compare crypto to tradfi and to imply one is better and one is worse. They're just very different at this time. It's hard to sort of explain why without getting into all the weeds. But look, the traditional system in capital markets, where you have these t plus NDE transactions for clearing and settlement, the reality is it isn't as efficient as it should be. That's what he's talking about. With capital efficiency, banks need to keep collateral against positions as they go through the clearing process. That is a challenge. But the system right now, in traditional banks, it works. It may not be as efficient as we like, it may not be as quick as we like, but the reality is we have the ability to back out trades when things go wrong. There's the ability to control the system because it is so manual. So you have this. This kind of inefficient, manualized system right now, in the traditional finance space. You have this incredibly cool, funky new system in the crypto space that has the promise of t plus zero, indeed, near instantaneous clearing and settlement. How we get those two systems together, I think, is many of the points that Anatolia is touching on here so eloquently. It's going to be a process to get there as the infrastructure, the plumbing, so to speak, as they say on Wall street, in the crypto markets, gets built up so that it can do some of the things, emulate some of the functionality that we see in traditional finance, and again, also innovate and improve on it."
+    },
+    {
+        "speaker": "D",
+        "text": "Niko, so, I mean, thank you for that, Ash. That's an amazing explanation of what Anatolia is stating there. So, speaking of tradfi, let's move a little bit into defi. Just today, we've had another example of the vulnerabilities of the system with the nomad Bridgehack. Let's hear what Anatoly has to say about the DeFi ecosystem at large."
+    },
+    {
+        "speaker": "F",
+        "text": "I personally think that DeFi is going to be a very big part of the next tranche of where we're going to. I know that a lot of institutional firms at the moment are a little bit hesitant about DeFi. Where do you currently stand on that in terms of your engagement?"
+    },
+    {
+        "speaker": "G",
+        "text": "Yes. So, as I mentioned, quarter of our operations are market neutral and multi strategy fund, which is 80% of our business. But we also have a dedicated fund to DeFi. And actually, this perhaps excites me the most in terms of growth opportunities, because to me, DeFi is an algorithmic form of financial services, and you can achieve much greater efficiency via these protocols than you can do via traditional banking system. So from our perspective, you can identify a number of use cases, including decentralized exchanges, decentralized boring and lending protocols, decentralized insurance, and so on up to ten at least, which actually replicating traditional banking system services in a more efficient manner. So we decided to express this view via this dedicated vehicle. And in that vehicle we have both layer one protocols, which we regard as essential payment and infrastructure layer for DeFi implementation, and of course, DeFi protocols themselves. So in that fund, you're not looking for 15% appreciation, you're looking through the adoption cycle of the whole DeFi ecosystem, and you look 510 x, of course, as venture capital style implementation. Now, to me, DeFi is the area of crypto with the highest innovation intensity, because on one end of the spectrum, we have bitcoin, which has very narrow use case store of value, with very little innovation happening. And if you speak to bitcoin maximalists, they will say, that's exactly how it should be. Do not innovate, because any interaction with protocol, not interaction, kind of upgrade of underlying protocol, opens an angle of attack. So let's keep it conservative. Well, I can see this logic. I don't bind this logic, because my investment thesis is, move fast and break things, innovate. And that's where DeFi comes, right? And here you have uniswap with version one, version two, version three, and every single subsequent version is more powerful implementation of the previous one. And that's where the innovation is happening. And to me, you have to kind of immerse yourself in understanding of these protocols and their zone debtor, the team behind these protocols, what are trying to solve, how competitive they are, how solid is their position, or they're going to be challenging by other market entrants. But overall, you are building portfolio of DeFi protocols which have significant appreciation and growth potential. So we are looking at DeFi as perhaps the highest area of growth. And what happened in the last three months when you had massive sell off across crypto assets. We have to be careful to differentiate between failures in DeFi and c five space. Whilst we had a number of bankruptcies, it's fair to say all of them were in c five space. Centralized part, although kind of serving crypto space, but again, centralized entities. Celsius free AC would be a few examples. On the other hand, a part of Luna which had flows on the protocol level by design. Right. Generally, DeFi weathered extremely well. And even you can see how Celsius was repaying DeFi loans to AAVE and others to release their collateral. Well, an entity which is in a bankruptcy stage, rushing to settle and repay defi protocols, if any. You want to be exposed exactly to this space when you have this algorithmic form without human interaction, but it's fully programmable and designed to protect netly and capital."
+    },
+    {
+        "speaker": "D",
+        "text": "So, Ash, anatoly definitely sounds bullish on DeFi, but can you explain why he is in greater detail, especially considering the recent Defi blow up he's mentioned?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I think he's really bullish, because he gets it. He sees the promise here. He understands just how much opportunity there is in this space. The idea of having fully programmable Internet money is the most exciting thing, I think, that's happening right now in the financial and commercial space, and he absolutely gets that. It's interesting, he makes this distinction between the c five failures that we've recently seen at some of the institutions that we've talked about here on real vision. And those are failures that are very much about traditional types of errors in thinking that we see in capital markets and in the banking system. Things like excessive leverage, underwriting standards, failure to manage risk, position sizing. These are all old mistakes. These are things that you could read about if you wanted to read a history of the 1920s stock market crash. But look, I would say this. It's also important to point out, while there is this tremendous promise in this space, there are also significant challenges. Decentralized protocols are not a panacea. You know, I've got in front of me a list of decentralized protocol hacks. The Ronin validator security breach, 600 plus million dollars. Poly network, about $600 million. Wormhole, which I mentioned earlier, around $300 million. The challenges we're talking about on Nomad, I mean, look, these are significant types of issues that we have. I would compare it roughly this way, if you want to think about these two systems. The traditional financial markets right now are like a Honda Accord hybrid. It runs perfectly. The seats are comfortable, the air conditioning works. There's gps. It's just a lovely experience. Is it the most exciting car you'll ever drive? Probably not. Cryptocurrency is like an Indy car with problems with the brakes and the steering. It's got this 1200 horsepower engine, 10,000 hp engine that you want to just get out on the road and open it up. But there are all of these challenges. It takes time to build up these systems, and I wouldn't be surprised. In fact, I would virtually guarantee, which is a word you almost never hear on real vision, that we're going to hear more security hacks, more exploits coming, uh, in one, three, five, uh, six months ahead. As we, as we walk through this, this space is very early. It's very much something that's being tested in production, as they say in Silicon Valley. It's incredibly exciting, it's incredibly powerful, but there are still challenges that need to be sorted out. Nico?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I mean, Ash, you and I have been working together since the launch of real vision crypto all the way back in 2020. And I have to say, it feels like, uh, every other month, there's some hack that we're scrambling to cover. So it seems, at least right now, this is par for the course, as basically the market seems to be shaking out all of the bad actors and all of the bad contracts and everything. So, one more question for you, Ash, before we move on to our final clip. Anatoly said it's fully programmable and designed to protect an underlying capital. What does that mean for us, lay viewers and any consequences of what he's saying there. For the average retail investor, well, by."
+    },
+    {
+        "speaker": "E",
+        "text": "Design, to protect underlying capital, he means that human beings don't have discretion over it. This is the key distinction of what makes true defi versus cefi in terms of fully programmable. I guess the term of art is turing complete. The idea here is that anything that you can do with logic, if then statements, conditional statements, requirements, multisig all of these ideas, uh, from computer science, you can effectively do with money. That's a very powerful idea, that you could have these decentralized networks where humans are not in control, objectively validating and verifying criteria to make sure that transaction doesn't occur until certain criteria are met. If you want, like, a crude metaphor to think about this, you can imagine a business transaction where you're, you know, you're selling shirts and you got to pay them. You could build a system where if the shirts weren't received by a series of stores, perhaps all across the country, the payment doesn't take place. This is something that isn't sort of an abstract case. This is something that business, commerce, traditional activities that we all engage in can obviously be greatly enhanced in very clear and obvious ways. And I think that's what he's talking about when he's talking about the potential of this system to really change the financial and commercial architecture of the world."
+    },
+    {
+        "speaker": "D",
+        "text": "Niko oh, absolutely. Sounds really fascinating. Thank you for that explanation, Ash. Just a quick aside, I'm stunned. And maybe someone has. There is not a Turing coin yet that seems like just really low hanging fruit that someone should have snatched up by now. Anyway, let's turn our attention to the future. The eth merchant staking. Here's what Anatoly had to say about."
+    },
+    {
+        "speaker": "F",
+        "text": "That quickly on staking. Where do you think that's going to go?"
+    },
+    {
+        "speaker": "G",
+        "text": "I'm actually extremely excited about staking per se. I think the move from proof of work to proof of stake, which is being implemented on Ethereum blockchain now, is a huge move for various reasons. One is going to establish a sort of risk free rate once it's implemented, and we're going to have some benchmark to measure risk of other assets versus what is regarded as, in crypto terms, risk free rate being ethereum yield on staking, and then we don't have it today, but once it's implemented, then whatever is going to be rated, say 5%, any other asset would be priced as Ethereum, plus 200 basis points and so on."
+    },
+    {
+        "speaker": "F",
+        "text": "Completely agree."
+    },
+    {
+        "speaker": "G",
+        "text": "You have emergence of this yield curve in crypto space, and I cannot emphasize enough how important it is for the whole risk management of crypto space. You also move away from energy consumption to far more efficient model whereby it drops by 99%. And that will address many ESG problems which are being brought in every single conversation with institutional allocators and staking itself will create a variety of implementations. I think staking will be positive for Ethereum on the price action as well, because with merger merge coming later in September, essentially you would have this deflationary potential environment whereby the number of new tokens coming in circulation may be offset by the burning mechanism which we already tested previously from EAP 1559. And it's going to become kind of the base case for Ethereum from September onwards. So basically you have this deflationary environment, you have an asset which yields a given yield. And this is pretty incredible because crypto itself is a technology play, right? If you look on Ethereum, I wouldn't say it's money per se, it's more tech implementation. And suddenly you have an asset which resembles Nasdaq style equity. However, it pays dividends, which usually Nasdaq does not pay. There is an yield associated with this asset and it's ESG compliant asset. And suddenly I would expect this to have incredible positive, positive environment for institutional investors to engage and go into Ethereum as a first step into crypto and everything. This is available thanks to staking."
+    },
+    {
+        "speaker": "H",
+        "text": "This podcast is sponsored by Ramp. Are you the decision maker in your company? Consider this. For the first time in decades, there's a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your company's spending and control who spends what. With each vendor, Ramp software collects and verifies receipts instantly to save your team valuable time. Ramp automates data entry and routine tasks with automated approvals, expense categorization, and bill payments. Time consuming tasks, which means you'll stop wasteful spending and close your books in hours instead of days. Businesses that use ramp add up to 5% to their bottom line the first year. If you're a decision maker, adding ramp could be one of the best decisions you've ever made. Get $250 when you join ramp for free. Just go to ramp.com easy ramp.com easy ramp.com easy cards issued by Sutton bank."
+    },
+    {
+        "speaker": "E",
+        "text": "And celtic bank members at the IC."
+    },
+    {
+        "speaker": "H",
+        "text": "Terms and conditions apply."
+    },
+    {
+        "speaker": "D",
+        "text": "So, obviously, Anatolia is really bullish on staking, as we just heard. But, Ash, how exactly will this improve the ecosystem? I also just want to bring in here Raoul. He has been talking a lot about how he looks at ETH staking as a possible development of a bond like market in the crypto space."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, that's exactly right. And it's an interesting point to see. Anatolian, Ral and even Ben Whitby agreed on some of these points, moving in very similar directions. I think that there is a huge potential for this type of technology. So Anatoly talks about the risk free rate. I understand what he's saying. I probably wouldn't call it that. We've seen too much in the last few months, indeed years, to use the words risk free ever. But that phrase, I think, is an important one, because what he's talking about is really establishing a benchmark rate for lending our language may be a little bit different, but the idea is basically the same. I would only use risk free, probably in relation to treasury securities and tips, and even then only as a convention. But look, the idea here is that you can price yield for other assets based on a benchmark rate. This is something that we actually see right now in the bond market, and I think that's Raoul's point. So if you've ever been involved, for example, in the corporate bond market, typically you can think of bonds trading as effectively pegged to a risk free rate, and you see the spread between yield that reflects the risk of borrowing and lending using that particular instrument. So why is this important if you're not a finance wonka? Well, it's important because if you can establish a benchmark rate, then you can price everything else off that rate, and you can create greater efficiency in the market for people to understand what risk they're taking and then to effectively be able to price that risk. Niko?"
+    },
+    {
+        "speaker": "D",
+        "text": "Well, speaking of risks, Ash, what are the risks to staking? What's the downside?"
+    },
+    {
+        "speaker": "E",
+        "text": "Well, if you listen to people, particularly on the bitcoin sort of ecosystem perspective, they will say that staking just doesn't have the track record that proof of work does. Now, as with everything else, is something we have sort of a late motif on this show. There are trade offs. So you get the ability to have this rate market through staking. You also obviously have significant improvements from an ESG standpoint, infinitely more energy efficient, like 99.9% more efficient than proof of stake. Those on the bitcoin side will say, that's not a bug, that's a feature. It is designed to be less efficient because the security of the proof of work system is what makes it unique and indeed what makes bitcoin bitcoin. I suspect we're going to hear this debate continue for some time, but it seems very clear that both models are likely to exist simultaneously. And that's a good thing, because we have a market and there's choice, and consumers can go and use these different tokens in different ways."
+    },
+    {
+        "speaker": "D",
+        "text": "Nico, thank you for that. Ash. Before we get to the key takeaways from this whole interview, we have a viewer question. Toby J. From YouTube wants to know, when the eth merge happens. Do you have to release your custody of ETH to stake it? Any insight on that? Ash?"
+    },
+    {
+        "speaker": "E",
+        "text": "Well, I don't actually know the exact mechanics for how that is going to function, but I will say this more generally, and I think this is the spirit of the question. If you continue to maintain custody of something that's staked, then effectively you don't have the ability to have the true sort of philosophy of the protocol actually go into effect. Let me be a little bit more specific about that. If you can have collateral pledged in multiple places at the same time, then you basically wind up with a 2007 2008 traditional finance problem on your hands. So as I understand it, at least from a general perspective, the idea is that when something is staked, it is going to be pledged to the stake pool and not in the custody of the person who owns the coin."
+    },
+    {
+        "speaker": "D",
+        "text": "Nico makes sense to me. So we've learned a lot today, but here are the key takeaways. Right now, capital is inefficient because the crypto plumbing still hasn't matured to the point that tradfi has. And while traditional markets are still having a significant impact on crypto, that is the current Nasdaq correlation. There's still a long way to go for adoption of the same tools tradfi investors have at their disposal. And while Anatoly says defi can help with a lot of that as well as proof of stake, there's obviously still a lot of unknowns for the industry that only time will view. So keep with us as we track these stories and more. Now, Ash, I got one final question for you. Before we say goodbye. Ship it from YouTube wants to know, why does Solana keep having so many issues? Obviously, that is a huge question, but give us the top line version."
+    },
+    {
+        "speaker": "E",
+        "text": "Why does my pet tiger keep biting me? Look, it is in the nature of these new technologies to have these challenges. And people who are putting money into this space need to understand that it is incredibly highly speculative. It is in the very early days. I don't want to be sort of specific or beat up on Solana, but the reality is that the reason that this doesn't happen in bitcoin, for example, is because it has a track record. We've confronted these issues collectively for many years, and there have been many hundreds of thousands of hours put into observing, understanding the code and trying to build the protection against these weaknesses. So the reality is, the reason that relatively new protocols that don't have community size and that don't have the decades track record of bitcoin keep having these problems is it's just in the nature of what we are doing. It's the frog and the scorpion. It's in the nature of new technology to have these bugs. And I would expect that we're going to see a great deal more in the future. I know that's not the most optimistic take, but I think it's the honest one."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, thank you as always, Ash, for your honesty. That's it for today's show. We'll see you tomorrow live on real vision crypto daily briefing, as we do a deep dive on price action with our frequent contributor and technical analyst, Rec Capital. Thanks for watching, everyone."
+    }
+]

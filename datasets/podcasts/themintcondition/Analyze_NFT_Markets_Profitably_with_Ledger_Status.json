@@ -1,0 +1,626 @@
+[
+    {
+        "speaker": "A",
+        "text": "Nah. Let's start this show."
+    },
+    {
+        "speaker": "B",
+        "text": "This episode is brought to you by the DGEn community network media for the decentralized generation. If you want to connect or to check out more great NFT and crypto content, go to dgen.net work. That's dgen.net work."
+    },
+    {
+        "speaker": "A",
+        "text": "Hello and welcome to the Mint condition. I am Bunshu, alongside my only esteemed colleague and co host. Today, let's be real."
+    },
+    {
+        "speaker": "C",
+        "text": "It's that. That's how it normally is, right? There's one colleague. There's one esteemed colleague. We all know who it is."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, you are the esteemed colleague. Chamber is the co host. That's the most of the time people think the colleague and co host, but no, it's actually, you are the esteemed colleague, and Chamber is the co host. That's how it works. But, des, what is up, man? How are you feeling? What's going on? How's life as the, you know, goat of all goats? What's your feeling on the markets? What's going on? Chamber not with us today. I should mention that, you know, we are missing Chamber today. He. He's got a case of the flu, and it honestly sounds like he's on his deathbed, so we're rolling solo. You know, my. My main mission is to see if I can make you funny, destin."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, that's gonna be tough to fill in. Like chambers deadpan communic humor."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I know it's not easy. And, you know, like, chamber and I. Chamber and I have four years of this under our belt, so I could. I know how to work chamber. You know what I mean?"
+    },
+    {
+        "speaker": "C",
+        "text": "Squeeze the lemon. Squeeze the lemon."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly. But. But, yeah, how. So what's. What's new in your life? What's going on? How was your other side weekend?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, there's a lot to unpack. I'm not feeling the best personally, so maybe I'm dying, too, of the flu."
+    },
+    {
+        "speaker": "A",
+        "text": "Maybe. You and Chamber had a bad bag of weed, says JPK."
+    },
+    {
+        "speaker": "C",
+        "text": "So, I mean, I. Yeah, I felt better. I don't know, I just. I don't feel great. But as far as the market goes, the stupid fiat thing, he's trying to ruin everything."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, man, it is rough out there today."
+    },
+    {
+        "speaker": "C",
+        "text": "My God, the market. So, so red, which obviously has an effect on eth. I wish it didn't. I wrote a message earlier today. I was like, when's. When's crypto gonna file for, you know, independence from. From fiat? Because it's. It's nasty when they both turn red."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, you know, what's funny is like forever. For the longest time, you know, couple years, crypto was like decoupled from this, right. And it was almost the, you know, safe haven for the actual legacy markets and things like that. And it has very much changed in the last, recently. So we're actually going to have a guest, a awesome guest on towards the back half of the show. My good friend ledger status chamber and I have had ledger on our wrecked podcast show many a time in the, in our four years. And he is mainly known for his just absolute God level trading of the, of the markets. He is going to come on to talk about his new NFT platform, Flip XYz. And so we will make sure we get a lot of market questions in for him as well here because nobody's going to know here better than, than he will. And I, we need to ask him, are we officially in Goblin tonight town or not? Because I have a feeling we are. But h. Bishop says, who needs eth when you have g milk? And that's how we feel. Des, you had a, you know, let's talk about since we last spoke. There was a goats New York event last Friday. I did not get to make that one. It sounded like a great time that punter had put on. And then I went to the OCM meet up on Saturday, which yeah, I, I went, I went into the city about an hour and 35, 40 minutes from me and hung out for like two quick hours and then rushed home to partake in the other side mint. Um, and that was quite an experience. So, um, here's how it went for us. So we were hanging out in the dgen war room in, you know, our, we had about probably 30 to probably topped out around 30 people in the voice chat, hanging out, minting other side land, helping people out, solving the gas crisis. I mean, the war room, such a tight community. We had people sending like strangers eth to be able to get over the gas fee because they didn't have enough and things like that. And I know for certain at least one person that we provided some eth liquidity to ended up minting a coda that would have not been able to min that was pretty cool. Huge win for. And then I don't know what happened, man, but like seven or eight people that were in the minting with us that night ended up hitting codas. And it was crazy. So it was a lot of fun. And even though the mint was or that the whole experience was largely a disaster, that part was very, very fun. So let's talk about the other side. That's been the big news. It was the big news leading up to this weekend. And now afterwards, what was your overall key takeaways of everything, what they did, the drop mechanics, everything. Tell us how you feel. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "First off, shout out to Morgan as well for help coordinating that goats event. I heard it went really well. I was very sad I couldn't attend. But it looks like everyone had a great time and."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I don't know if you'd have made it home in time for. To mint land."
+    },
+    {
+        "speaker": "C",
+        "text": "Probably not. I didn't mint land anyway, so it doesn't even matter. But the. Yeah, the other side drop was interesting, right? It is very, it's very interesting that someone with as many resources as Yuga resorted to that. And, you know, we've seen some really innovative, like, ways to drop tokens these days and, and it just, it seemed weird that they wouldn't have thought that through. First of all, the number of KYC wallets and then committing to waves, knowing that it basically would sell out in the first wave. And it just."
+    },
+    {
+        "speaker": "A",
+        "text": "They had to have known that, right? There's no way they did nothing. They know they have data we don't have."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "It was fairly obvious that that was going to happen, right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So. Well, it wasn't obvious to me. I remember we were talking about like 15, 20,000 KYC wallets. But, yeah, I mean, okay."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "By the time, by the time it was ready to mint you, like, by a couple hours before, it was very clear that there, it was oversubscribed from a, from a standpoint of KYC wallets. Right."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, absolutely. So, you know, I just, it really sucks that, you know, basically, what was it? Like 100 mil?"
+    },
+    {
+        "speaker": "A",
+        "text": "Got 100, 6160 million dollars."
+    },
+    {
+        "speaker": "C",
+        "text": "That's really sad. Yeah, that's really sad. That doesn't, that's not good for the market. That's not good for anyone. So you kind of screwed the NFT community as a whole, which is really unfortunate. But, yeah, I mean, other than that. Okay, push that aside because, I mean, everyone talked about that for days. I'm exhausted. I'm fatigued about talking about that side of things."
+    },
+    {
+        "speaker": "A",
+        "text": "Fair enough."
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, literally, if you wanted to farm some engagement, you better have the best down with Yuga. Post on Twitter those couple days. Actually, engagement farming would have been to say, yuga's the best ever. That was, you know, the best. Stop crying. That would have been the best way to farm engagement."
+    },
+    {
+        "speaker": "A",
+        "text": "Saw a couple of those too."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, I'm sure. But, yeah, I mean, let's just talk about, like, the drop, what it was. I think it's kind of grossly irresponsible to not provide this level of detail on what we're like. Don't get me wrong, I'm a huge fan of teasing things and not providing too much detail, allowing speculation, but, like, I mean, it's crazy how much we don't know about this drop."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, so, I mean, that. That's huge. So I had tweeted before, like, 12 hours prior to the launch that I didn't mean to, like, be a wet blanket, but I felt that the lack of information eating, even leading into the mint was. I said, I said, you know, borderline irresponsible is what I used, and I got pretty skewered on that. And so 12 hours later, I was right. And, you know, a week in, what scares me about, I mean, you can see here, so mint plus gas, depending on who you are and when you got in, you could be underwater right now from a floor price standpoint. So, like, the mint was about two and a half Eth in ape at the time, and you paid at least one ETH in gas per plot. And so I think my cost basis all said and done was, like, 3.25 was. Was what I got in at. And. But so you're sitting here at a floor price of 3.6 right now, 3.65, and, you know, you're seeing sales come in here 5.244.7, you know, and you've seen some massive sales, and you just don't know anything. Like, to me, it feels like you play floor or coda and you don't have enough information for anything else at the moment."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, just some quick general thoughts. You know, I think you're right about. I do. You know, I like the idea of codas for two reasons. One, the pitch deck was very clear that owners of codas would be getting airdropped a coda in May. That was the original plan. I don't know if that's still the plan, but. So I like that it's a separate NFT that you're going to get. I feel like once that news goes public, public, it might bump up Dakota prices a little bit just because they'd be their own entity. I saw a really interesting rumor that, hey, maybe they get separated into a platform that's off chain and only payable through, like, apecoin or something, which that's, that's fascinating for apecoin as well, but, yeah. So I targeted. I picked up two. I bought six pre reveal. I bought six pre reveal that night. One turned out to be a coda. So I think I did well on that. I ended up selling that coda and flipping into what I would think is a nicer coda, nicer looking coda, at least."
+    },
+    {
+        "speaker": "A",
+        "text": "Nice."
+    },
+    {
+        "speaker": "C",
+        "text": "Um, and then I did buy, once it dropped down to like 22, I bought one off the floor that I thought was really, actually really cool. So I have two codas. So I not as bullish on like the."
+    },
+    {
+        "speaker": "B",
+        "text": "The land."
+    },
+    {
+        "speaker": "C",
+        "text": "But you did remind me a funny thing is, right, we're like mutants. Mutants got back to floor like before ever booming. Like mutants got all the way up to like eight and then all the way back down to like three where they were minted at. So it really is like a hard lesson learned. Like, just try not to ever fade. Yuga. Um, but."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I mean, that's. So that's a good point. And so Steve here, NfT bark says even with the issues, lack of info, in two months, are we sitting here at an over or under five e price for floor other side land? What do you think?"
+    },
+    {
+        "speaker": "C",
+        "text": "I would say that's almost. I would say that's an absolute over. But what gets me scared is like, a lot of these lands have nothing on them. So if you're telling me anything is worth something, then, you know, I have a feeling it's gonna be look really weird. It's gonna be like four at two, anything with resource at six, anything with artifact or whatever at ten. Like, it's gonna be so gapped out. So I can't really answer that question because I. It's. It's like a weird one. As they release more information, that means lands are gonna suck more. And there are like a good amount of lands that have zero resources, low tier, like nothing. So that, that's the tough part about. I think you're gonna see like tranches once they start releasing details about the land."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And I think you will see pumps and I think you, you know what I thought was also really dangerous? Washington Sunday morning before the reveal, everything, everybody was trading on location, right? And people were paying huge amount of money on location based stuff. And that changed really swiftly when the traits revealed. And what I don't love about this is like, there's no guidance and right now everybody's trading on what they think things will do. And, you know, whether that's resources, artifacts, and I think the only thing we know for sure is Codas, right. And like. And so to your point, I think that's even gonna be more and more gapped. Out as information reveals. But who knows? Maybe there's, you know, maybe there is some value to this plain land where, you know, because it's. It's a blank slate and you can dev anything on it with an SDK, you know, who knows? It could be something like that."
+    },
+    {
+        "speaker": "C",
+        "text": "But yeah, I mean, like, my general recommendation, and this is not financial advice, but just saying how I would play it is to me, Codas are the safest way to actually enter into the space. And they're actually not a crazy premium over floor. And then when you think about, like, it's a 10,000 PFP character collection from bored apes that hasn't happened since May, right. We have mutants at 20. Like, it's pretty rare. Looking at the video, it looks like the codas are like the lore, the creation of the universe. So it's like, I don't know. I think codas are pretty valuable. Obviously, that's why I own a couple of. And then I think it drops down to artifacts only because I think artifacts are interesting in which it's one per land. It's not like four three, right? It's just one. And it's fairly rare. And if they were able to mint out anything from the land other than a coda, you would think they would start with an artifact. So an artifact might become its own separate NFT. So I like that play getting into, like, how much the tiers matter and stuff. It's too much speculation for me to, like, buy something based on, like, if it's a level three or a level five. Like, I think they're. I think you get really burnt paying a premium because people are paying premiums right now. And then, like, probably, you know, I'd go to, like, just a four four land with maybe one resource. Try to. Try to steal a resource off the floor."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And JP Kaz here makes a good .2 months out. We're staring at the next land drop potentially in the face, which could, you know, double the supply, which I think was really interesting. I sent this to you kind of right before the mint. Right. With what they gave me confidence to buy."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Honestly, because the website said that the next wave will be given or dropped to holders and people contributing to the ecosystem. So I don't think we're going to see just a straight up sale again, which is interesting. It also means that whoever's getting land drop to them is probably likely to hold because they're a holder already. So, you know, maybe you'll see a dump in the floor like that, but maybe not as bad as you think."
+    },
+    {
+        "speaker": "C",
+        "text": "It's like a stock split, right? Like, yeah, okay. Everyone has one. Worst case scenario, you have two worth the same amount now."
+    },
+    {
+        "speaker": "A",
+        "text": "Mm hmm. Yeah. Right. If it. So the floor drops in half, but you have a second land and you're break even, essentially. Exactly. So what I want to point out here on the screen here is just the sheer amount of volume, right? Like this."
+    },
+    {
+        "speaker": "C",
+        "text": "Dude, it was such a hold my beer situation. Like, some people were calling about it. People were like, moonbirds, hold my beer."
+    },
+    {
+        "speaker": "A",
+        "text": "And, yeah, I mean, it is. This was. This was Moonbirds release day 416, right. Was $177 million. It was one of the biggest days of the year in a single daily volume. And then you come here to May 2 or May 1, and you hit $576 million in volume, and followed by the next day, $296 million in volume. And, like, you know, people are like, where's the liquidity? Where's the liquidity? Boom. There's your freaking liquidity. And it's telling a little bit to me is like, yeah, obviously people were saving for this and waiting in the wings to mint this, this and moonbirds. And. But it also kind of tells me that I think we're looking at a little bit of consolidation, potentially flight to quality, things like that. Because it's not. That's pretty evident to me that the volume is there for things that deserve volume, you know what I mean? And things that warrant volume. And sure, this is a little different because you have a. It's a massive supply collection, but, I mean, it's just one example of that. What's your thought on just the crazy volume we saw?"
+    },
+    {
+        "speaker": "C",
+        "text": "Right. I mean, you have to acknowledge that it is 100,000 collection. Right. Moonbirds sitting at 10,000 means they have to trade a crazy amount more to catch up. So it is still impressive what moonbirds did. But, yeah, from a sheer volume standpoint, what this says to me is outside, like, non NFt degenerate corporate money."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Because I don't think you can get to this point without having that back it. So, yeah. Whether it's VC money, corporate money, whatever it is. I just. Again, and I said this, I think I said this on an interview with Punter or whatever, but I was like, land is such an easier concept for normies to grasp than, you know, pfps."
+    },
+    {
+        "speaker": "A",
+        "text": "Like, really? That's interesting to me."
+    },
+    {
+        "speaker": "C",
+        "text": "Even if it's digital land, like explaining to your father or even your grandfather, like, hey, this is digital land. Like, this is, you know, this is land. Rather than being like, oh, you're paying for a cartoon character you can use. Like, I, so I feel like if, if corporate VC money is going to jump into anything, it is going to be metaverse land. And so, you know, I think this, this makes sense to me."
+    },
+    {
+        "speaker": "A",
+        "text": "Interesting. I wouldn't have thought that. But now that I'm thinking about it, you might be right. And I'm going to try to describe digital land to somebody that is new."
+    },
+    {
+        "speaker": "C",
+        "text": "Try to describe both and see if I'm right, because I feel like they're gonna go, okay, digital land. Like, I can build stuff on it. Like, stuff you can visit online. Like, they can. I feel like they could grasp that a lot easier than. No, no. We're also paying $30,000 for cartoon pictures that we use as our exclusive profile picture."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, absolutely. So before we get to our guest here, I did want to give one segment in here for you or a buy, sell, burn. So let's go. I'm going buy, sell, burn here for you."
+    },
+    {
+        "speaker": "C",
+        "text": "If you throw in the beans, I'm buying. They're cute. They're cute as hell."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, so you, you actually called my, you called your shot there. All right, so I got, we're looking around this five e floor. We got a bunch of things here hitting five e floors that you wouldn't have thought so maybe a month ago. So buy, sell, burn, cool cats beans or world of women."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, my gosh. Is world of women back down to five?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. All sitting around this five, five and a half range right now."
+    },
+    {
+        "speaker": "C",
+        "text": "That's the best buy, sell, burn we've had. That's like a really tough one. I feel bad for cool cats. I really do. Because, again, this shows, like, the not so great part about the NFT space. But, I mean, they're, they put in a considerable effort into their game. And it's, you know, it's, it's on its way. It needs work, but it's on its way. It's functional, but it's funny. It's like people are so pissed that, you know, it's a game and that's, I don't know."
+    },
+    {
+        "speaker": "A",
+        "text": "So, I mean, it goes to show that, you know, speculation is still king around here, both in crypto and nfTs, I would say. Right?"
+    },
+    {
+        "speaker": "C",
+        "text": "For sure. For sure. Beans, on the other hand, just revealed today, I don't own any beans or Zuki, so that's sad for me. But they look cute as hell, I'll be honest."
+    },
+    {
+        "speaker": "A",
+        "text": "They look five eth cute, though."
+    },
+    {
+        "speaker": "C",
+        "text": "Not five e cute, not without, like, specific utility. And I apologize because I don't know the Izuki universe as well as I should, but there is some sort of, like, utility with an azuki, I thought, or anything like that. I don't think it's just a straight up PFP, but I could be wrong. If it is straight up PFP. I don't think it's cute, but I don't know if it's five eq."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, so which one is it? Buy, sell, burn of these."
+    },
+    {
+        "speaker": "C",
+        "text": "I still got one more. World of women. World of women is phenomenal. They're probably one of the better women centric projects. Definitely the most blue chipped at this point. Tied in with now with yuga. This is tough. I'm gonna go."
+    },
+    {
+        "speaker": "B",
+        "text": "You know what?"
+    },
+    {
+        "speaker": "C",
+        "text": "I'm gonna. Jesus."
+    },
+    {
+        "speaker": "A",
+        "text": "Jesus. You know what?"
+    },
+    {
+        "speaker": "C",
+        "text": "I'm gonna do it. I'm gonna go. I'm gonna go sell my cool cat. And I'm thinking with my wallet, I'm gonna go sell my cool cat. I'm buying a world of women, and I'm burning one of these cute little adorable beans, and hopefully it turns into a nice roasted bean."
+    },
+    {
+        "speaker": "A",
+        "text": "There you go. I like that. But you fell into the same trap you were just lamenting on a moment prior with cool cats. You sold the one with the actual product out. So there you go. Now, let's get into our guests. So we have the one and only, the greatest ledger status with us. Brian Krogsguard Ledger. How are you, man? It's been so long since we've talked."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm good. So it has been a long time. And now, since then, we both work full time in the NFT landscape in one way or another."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Which, you know, if you would have. If you would have had me bet on which one of us would work in the NFT landscape, I would not have bet on you. Yeah. You know, well, mostly because you spend all your time with Josh, who is NFT gosh. Phobic, I would say. But, yeah, I mean, this is. I'm super excited. So you have just launched this brand new platform, Flip XYZ. So we're going to talk about that. But first I need to ask you. We got some questions in our chat room over here at the DGen war room, specifically for you, but I need to ask, are we in Goblin town on Eth or what? Like, is this the end of the road? Where are we at?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think if you have a long enough lens, there's five to ten x upside for Ethereum, but that doesn't mean that we can't nuke another 2030, 40% in a recessionary world in particular. I think if the market, if the economy stays strong and some of its big weaknesses get ironed out, then we could get back to an up only market. But I think the likelihood is that we make this pretty painful for people. Whether that's sideways painful or down painful, I don't know. And I wish I did because then I would be able to rest more peacefully. Um, but I, I'm, I mean, I think Ethereum has incredible utility, is easily the most dominant blockchain in the world. Uh, and that's number one, not number two, like, not, it's much, much higher utility. Uh, and I think it's overall a smarter blockchain than bitcoin is today. Um, and I think that that's not well priced in. I think it's also shown that it's where the security layer is most important. It's where there's real scalability stuff occurring that's working. Like actually using the Ethereum security model and inheriting that inside layer two s. We're seeing a lot of challenges with various layer ones with an EVM model, whether it's, you're looking at Fantom or others that are. Polygon is another decent example, one that's had some troubles. Like I think the l two model is the best model. And the long term scalability roadmap with eth makes sense. That doesn't make it easier for people to transact when it's expensive, but I think high fees is not the worst thing in the world because it means the block space is an enormous demand and we've seen tons of evidence of that. Just look at what you are just talking about with the like hundreds of millions of dollars of NFT transaction volume that's happening directly on Ethereum layer one that doesn't happen anywhere else. And so long term, not goblin town at all. Long term, lots of upside, short term, I hope we don't get into that kind of like 1700 ish range, but that's probably where you should put your, put your sights on. And if we go into a recession or something, like, it could happen pretty quick. And the whole world's scared right now. Like, you look at tech stocks and stuff and it was the most up only market, and now it's like people are freaking terrified and they're looking at earnings and multiples and all these things that don't matter in a bull market. So we're just not in a bull market. That's all there is to it. Question is whether we're in a simple bear market or whether we're in the first half of the recessionary environment, you know?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, one more. One more crypto ish related question. I mean, are we just pegged to legacy now forever or what? That didn't used to be the case."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I hope. I hope not. It looks. It looks pretty dire, like, when things move up, we should get greater volatility to the upside than the S and P 500, which is the one thing we have going for us. On the downside, too, we're seeing down days that are more severe than legacies, but not that much more severe. It used to be you could have a 2%, 3% down day that would then start to be felt in crypto. And start to be felt in crypto could mean, like twelve or 15%. And what we're seeing now is interesting. I mean, today legacy markets were down over 5%. At some point. It's like the Nasdaq, I think Washington down something insane. Ethereum is down 7% on the day, but it's not. When the Nasdaq's down 5%, I would expect crypto to be down like 20%, and we're not seeing that either. So I'm not sure exactly how that's going to play out. But I think there's some inherent strength in crypto because people are still trying to figure out how does crypto play in that world. But we're certainly seeing strong correlations, like tick for tick. It's just, how does that balance out? Right, like, when it goes up more or down less or whatever, how do that balances out is what's going to determine whether it can decorrelate in the longer run."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, that's super interesting."
+    },
+    {
+        "speaker": "B",
+        "text": "Des, I saw you impact on that."
+    },
+    {
+        "speaker": "A",
+        "text": "Des, I saw you clapping when he mentioned 510 x upside on ETh. Does that make you excited over there or what?"
+    },
+    {
+        "speaker": "C",
+        "text": "I'll get a tattoo of a bean if we hit ten x in two years. So you heard your first."
+    },
+    {
+        "speaker": "A",
+        "text": "If he said 25,000, you're getting a bean tat."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "You heard it here first. I've never committed to anything ridiculous like that ever, but I'll do it."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, well, get that arm cleaned up, maybe. That's awesome. So, all right, two years. So, I mean, that tells me anybody out there listening that is throwing around their Eth on dj mints, maybe rethink your. Rethink youre a, you know, your minting strategy here. We need to protect that eth because whatever you have now could be worth ten x in a short two years. And you know what's funny? Ledger is tomorrow. So I was actually looking to actually take some funds out of the crypto market for the first time ever since I got in. For the first time ever since I got in. And because I was gonna, you know, pay myself a little for all my troubles and do some work on my house. And so I went on Coinbase and I actually downloaded my transaction history for the first time. And tomorrow is my five year anniversary in crypto. 56 20 17 was the first purchase. And this kind of goes to your point. You just made about, like, EtH being not priced into the demand of the blockchain. So my. My first buy price ever was bitcoin at $1,569 and that same day, ETH at $245. So, like, when you. When you hit that ETH BTC ratio, then, I mean, you know, it's stronger in that ratio than it is now, which. Which is kind of crazy, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it is. Also, congrats on your five year anniversary in crypto. And shame on you for not taking any money out sooner, man. You gotta."
+    },
+    {
+        "speaker": "A",
+        "text": "It feels."
+    },
+    {
+        "speaker": "B",
+        "text": "It feels good when you pay yourself. Not gonna lie."
+    },
+    {
+        "speaker": "A",
+        "text": "I know, I know, but. Well, actually, sorry, that isn't true. I put. I took out money for. To buy my house in 2019 and that was when bitcoin was at. Then promptly shot to 60. And I was really pissed and I said I would never do it again, but, yeah, so. But you super excited here to talk to you about Flip XYZ. I know you know me. I'm a djen NFt, JPeG, flipper trader. I am all over any of these tools that help me do that easier. First, let's talk about why you decided to pursue this market, both, like, nfts in general and then why a tool like this."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I mean, I got. I basically retaught myself crypto in 2020 because that's when so much stuff moved on chain. And it actually made a lot of things click in a way that was not fully realized before. Like, there were ideas of how stuff would work before. Like the idea of a Dex. Like, I was in the ZRX as an example, back in 2017, but the liquidity wasn't actually there. And what we saw in 2020 is that people started actually using on chain tooling to do things natively in crypto on chain. And that was really cool. And I did a ton of trading on chain during DeFi summer, and that brought quite a few people, but mostly crypto native people, to doing things directly on chain. That was really interesting to me, my friend. We'd been in the same industry for the past ten years. Sam contacted me and was like, man, I think we need to do something about all this on chain stuff. So that's where flip came to be at first, was just, let's do some cool stuff with on chain information data. We were looking at DeFi, we're looking at wallet profiles, figuring out what's happening. We thought we'd probably end up making a product that had nerdy dashboards about defi stuff and coin, you know, that kind of thing. And as we were going through that process, we saw how many more people NFTs were actually bringing on chain. And it was like 1020 times the number of individuals that were getting pumped up in this first NFT run. Like, as hash masks came out and, you know, bored apes were pretty early in that big NFT run. Art blocks was kicking off. We were like, man, just so many people are willing to find their way on chain because of nfts. And by the way, now we're creating some of these views and looking at a wallet. And I'm like, this wallet is not complete until it shows my jpegs as part of it. So I was like, it's going on this little, we call it a cholula channel. So there's things that would add a little flair to our app overall. And I was like, we need to show people's jpegs on there. Wallet views. And as we dug into it, we're like, there's so much to do here that can be done that doesn't exist in the market. And meanwhile, on the defi side of things, there's all kinds of very interesting tools. Tons of people chasing the data plays, the, you know, the heavy number crunching type of stuff on the analysis side of fungible tokens. And there's billions of dollars over there, but there's not like millions of users. And we saw a path for millions of users on the NFT side. And interesting, equally interesting, like, data problems on chain issues, things like that. And so we just started saying like, all right, well, what do we want out of a tool that's online? And we realized there was a much more, like, prosumer first consumer in the long run angle for an NFT product where you say like, hey, I want to wake up in the morning and see what are the floors of everything that I own? What's the value of the things that I own? What are my friends doing? How do I see whether my bids got accepted or, you know, whatever, like understanding what's going on there. How do I analyze this collection in a way that's not completely miserable? And we realized how straightforward that path was. And we also realized that people were approaching different problems in the NFT space, but they were looking at them as like our whole product is this one feature, like we want to show rarity or we want to enable floor sweeping. Those are great tools, but we actually think that there's a path for being providing an entire hub, not only for analyze the market, but also to log in and actually follow them. I want to follow my wallet and my friends wallets and profitable wallets that I find and then be able to identify what the heck they're doing day in, day out, get a feed of those things. I want to follow the collections that I want to follow and see them right away in terms of getting analysis on there. I want to be able to purchase through their APIs. I want to explore multi trait faceted search under that explore section. I want to do all kinds of stuff, and that was not easy to do in a holistic way. So let's see if we succeed here. Going to Buzzfeed's wallet. So this is a test of kind of our realized profits, and that's based on the collections we support, by the way. We are trying to support as many collections as we can, but if we have to fix things, we'd rather do it with like less than 1000 collections, than 100,000 collections. So we're going to be expanding our collection support greatly over the coming weeks. And so as you start to do this, you realize, well, I can just follow all this stuff, I can follow the collections that I own, I can keep track of my wallethood. If you click on that moonbirds link, you can actually click into your individual moonbirds, you can see your acquisition prices. Yeah. If you go to view all asset, all owned assets, it takes you to different, slightly different view. If you click into, so I can see that you've priced one moonbird to sell at 50 eth there on Opensea."
+    },
+    {
+        "speaker": "C",
+        "text": "How dare you?"
+    },
+    {
+        "speaker": "A",
+        "text": "How dare you? Hey, hold on. That's my shared moonbird. That's my .5 moonbirds. So this was a group decision. I would have never take, I would have never taken my moonbird out of the nest. So don't, don't come at me. Moonbird community."
+    },
+    {
+        "speaker": "B",
+        "text": "Basically, we just want people to be able to go down the rabbit hole. So any of these screens, you can see floor by trait there in that trait list, and then you can click, actually, you could click the word headwear and see a trait view that's kind of like what you'd be familiar with on larva labs. And scroll down a little bit and it'll pop up and show you like here's every single one of these. Here's the cheapest one, here's other examples. Or you could have clicked just into the trait name itself and stayed in an explore view. But here, if you want to go back and click any single trait like just the monocle or whatever, then you can get an idea of like every monocle and what's that market look like? And you can see the curated order book here. This is something that's actually really, really challenging. That's why there's not more places that do this. So like, not only what is the floor, but show me the order book, show me where these things are for sale, what price they're for sale at, and good luck keeping it up to date like that. Opensea can't even do that for their own stuff. So when you introduce multi marketplace order book management, it's a really interesting and hard problem. So you see there, there's only a couple of those for sale. You can also do multifaceted search. We want you to just dig into the rabbit hole to whatever degree that you want. So if you click filter, then you can do additional traits you can say for sale and toggle just the ones that are for sale. There's tons of stuff that you can do as you dig in. You could sort these by rarity where we have our own rarity calculations. Like that one's badass right there with the fire and the monocle. I love that. So eventually you find one that you might want to click into. That one. Actually, it might have, yeah. So you can see this one is available for 42.5 eth on looks rare. And then click back to the other one. Go to the purple one with the monocle."
+    },
+    {
+        "speaker": "A",
+        "text": "That has interesting here. So this is. Will it show if. Would it show if it was on multiple exchanges?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, it does. I'm trying to get you one that has that. It's actually really. What's that?"
+    },
+    {
+        "speaker": "A",
+        "text": "Like, I can see that this person is only available on. Looks rare, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "And that person probably farming rewards."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Yes. So click the 37.9 over there. The other moonbird, the purple one. So what that would. Yeah, so yeah, click that toggle beside the price. So this will show you down there. Yeah. Cool. Now you can see that it's for sale on both of them when it's equal. We show Opensea first, but only because we have API driven checkout already. So you could check out actually on our site, the looksrare one clicks off to looksrare because their SDK doesn't actually make it easy to buy through the API. So we're going to create a wrapper and get that part figured out. But we did want to show multi market as soon as we could. And then if you want awesome, click dig into 5856. So this takes you to an individual NFT view where you also can see the chart of the sales history. You get a more linkable thing and then you get to the bottom and you can actually see all of the activity that's occurred with a specific one. And you can see like the different times it was sold, different activities that occurred. And then if you scroll to the right, you can actually click into the sale itself. So we wanted to make this holistic so that your window is kind of narrow. So yeah, so you can see their profit on those sales. So if you click the little three dots, then you can go get view the sale itself. And then you can see the specific details of the sale and see how much money they made, what their cost basis was, what exchange it was on, and what wallets it went from and to, and essentially get all the information that you might be interested in about any particular activity. So the thing where I think we've made a difference is one, keep an eye on exactly what you want on any of these markets by following stuff. Big important thing about following stuff is we have native mobile apps that we launched on day one. So iOS and Android. So as we introduce the notifications for that, that stuff can get buzz right to your pocket when you want it to, which is really cool. And you wake up in the morning and you see the same view of all the stuff that you follow then as you do on the desktop. And then also just the breadth of the views that we showcase. Because you can look at the transaction, you can look at the p and L, you can explore the collections, you can explore the wallets, and you can just keep going down the rabbit hole. We didn't actually get to the kind of the top holder section, but that's another thing that we just, I think is really cool. And you can go click top holders and then you can look and see like, okay, well, who's actually selling out of the top holders? And you can see how they're selling. And sometimes you'll find like, yeah, see that nest? Darren Eth has twelve for sale. And you can actually click the three dots and view all of their activity on that. And you can see, like, under activity by this wallet. You can say, okay, are these people, are they just farming looks? Rare rewards? Are they, like, actively trying to get rid of these suckers? Like, you can see all kinds of interesting stuff there."
+    },
+    {
+        "speaker": "A",
+        "text": "It seems like. Yes, according to this. Right, because they're all on looks."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah. And if your window is a little wider, you'd see. You'd be able to. Oh, there you go. That's a very wide window. Now."
+    },
+    {
+        "speaker": "A",
+        "text": "It's one or the other ledge. You don't give all."
+    },
+    {
+        "speaker": "B",
+        "text": "You don't get in between tests, our screens. Like, we just want to be able for you to get as much context as possible about the collections that you're a holder of. About the collections that you're interested in being a holder of. If you're just trying to do discovery, if you're trying to analyze a market, no matter what you're trying to do, we want to try to make it as informative as possible. And we're doing it for people that, honestly, I think it's the hybrid person where, yes, you're in it for the art, and yes, you're in it for the Eth."
+    },
+    {
+        "speaker": "A",
+        "text": "You know what I mean?"
+    },
+    {
+        "speaker": "B",
+        "text": "Like, I think most of us actually fit somewhere in that overlapping spectrum, rather than just one or just the other. And we think that we do a decent job of enabling that. There's other stuff that I could show you, but there's a. I mean, I'm so excited about what we've got going on. Like, the next big thing, one, you're not logged in, which is fine, I will forgive you, but you will get the benefit of the logged in experience once you do that, because you then have the things you care most about at your fingertips and will take the things that you follow and develop this feed. And that feed will be really cool because it'll be like chamber sold his moonbird as an update in your feed. Right? And we just tell you that. We tell you the activity of what's happened since the last time that you looked, or say, the moonbird's floor is up 30% today, and it's going to be based off of all the things that you follow. So we're really excited. There's a question in the chat about. About metamask, which is funny. We have this thread, and it's like, why we have a web two wrapper. And because you log in on, in a normal way, right, with an email address or with a social account. The reason we did that is actually because right now, unless you have a hot wallet on your desktop and phone together, it's hard to get actually a seamless account. So what we will have very soon is wallet authentication. So bunchu eth, and then like secret bunchu wallet that is not doxxed, and then other secret bunchu wallet that's not doxxed, you could actually authenticate each of those, whether they're a hot wallet, cold wallet, phone, desktop, wherever you keep that wallet interior to your account. And then we can merge all that information together so that you can have a seamless aggregate experience with all of those wallets. And it also enables bunchu etH and ledgerstatus eth can have a conversation with each other. And then whether they're docs or not docs, you can have that conversation and essentially do the equivalent of this OTC talk and eventually OTC link generation that actually orchestrates the sale for you. And that a lot of that is just not possible. When you say, like my Eth, one ETh address is my account. Because in reality, like, keeping everything on one ETH address is not the smartest thing in the world. It might be a good flex, but it's not the smartest thing in the world. So we will definitely, if we get enough pushback about the thing, we will probably enable it. But what you'll not get is this seamless experience. Like, what you get on the mobile app will basically look like a different account from what you get when you're signed in with, like, your hardware wallet on your desktop or a computer that you use for a daily driver. But you don't trade on, you know what I mean? You don't really necessarily want that wallet to be able to authenticate with it in those places. So getting that web two wrapper enables us to do things the smart way from a security perspective, with the sacrifice of, yes, it's a web two login, I'm so sorry. And we will embrace a web three first solution for that. I just don't know. One that exists. So if somebody wants to hook us up with that, I'd be happy."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I mean, this is pretty incredible, especially when you just talk about all of the things that are coming. And I, I love the foresight of basically taking this all and making it a one stop shop, because you're totally right. Like somebody who uses tools like myself all the time, I have accounts in five different tool providers, and it gets hard and cumbersome to do everything on all these different platforms and one platform to do it all is super interesting. And I think you're well, well on your way there, Des. What do you think so far?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I had my hand up, but the screen blocked it up. No, I'm so interested in this. It looks phenomenal. I've been playing around with it while we've been chatting. I think some of the functionality you talked about adding basically a timeline of those who you follow and what's going on, I'm not sure. And my question is, are you guys interested in blending social media aspect to this? Just because there really isn't. Right. There isn't anything that exists today that ties in, like, social media and communities with the actual trading that's going on. Right. But being able to see that chamber sold his moon bird and me being able to comment and be like, you, paper handed fool, like that doesn't really exist. I'm just curious if that interests you guys at all. Obviously it's heavy on analytics and I love that. It's like, you know, I'm completely nerdy now on the possibilities there, but I'm just curious if you guys have aspirations to tie that in."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, we do. There's a. Social is a really broad word, right? Like, there's a lot of things that have social elements. So, for example, direct interaction with someone else's updates, right? Like someone else's wallet and you comment on it, someone else's transaction you comment on. That's quite social. Coinbase is actually leaning in on that a little bit, which is interesting. Another is just that follow component where you may actually know, like, okay, we say 150 people are following this wallet. Like, that's an exposure of social stuff. Another way to contribute social is to actually borrow the social graph that exists. So I know it's probably a controversial thing, but with Elon Musk acquiring Twitter, I think one of the things they will do that will be net positive is to open up their developer APIs fully again. And I think that'll make a lot of things interesting. So if we could better integrate the social graph that exists in Twitter, for example, directly into a collection. So, for example, you were talking about cool cats earlier. So if I say, all right, here's cool cats and here's the Twitter social graph of cool cats, and you can actually load in every user that has a Hexagon cool cat profile pic, then that's a pretty cool way to pull in a social graph from somewhere else that already exists. There's just."
+    },
+    {
+        "speaker": "A",
+        "text": "I think that's super powerful. By the way, right. Like, I mean, especially in a project, a PFP style project, like having the data available of how many people are actually using that is. Is really strong, I think, because, you know, that's, that shows, I mean, people flex on Twitter their most liked or most valuable, you know, profile pic typically. Right. But you don't know any way to aside death scrolling for hours and just having your brain try to process how many people are actually using that or how widespread the reach is. And when you compare that with something like holder count or, you know, anything like that, I think you can really put a strong narrative together on why you should or should not be interested in a project. And I think that's really strong."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And there's a lot of stuff like that where we just want to keep building things that people will find interesting and useful for whatever they do with nfts. And it's really, it's really challenging to talk all the ways that you can do social. And do you make that like a front door or backdoor feature? You know, wikified content curation is another. So, like, if the community itself is saying, here's the drops that are showing up for Azuki's, or here's the, here's the mints that we see coming up that you're eligible for because of things that you hold in your wallet. Those are really powerful and interesting features that are also quite social that you always have to balance these with, like spam and garbage. There's so much garbage out there. But, you know, we're going to try to be very careful about that because especially if it involves us sending you a notification, you know, like, we definitely don't want to bombard people's. I call it like bombarding their pocket or their thigh. You know, like, if we're going to send a notification, I need to think about the fact that this is going to vibrate Banshee's thigh no matter where he is in the world. So that's a significant piece of power that I have in control of this app. So we want to be really respectful of what are we actually trying to help people with. So one of the very next things we're doing is actually just enabling categories for wallets, you follow. So if I have authenticated my own wallets or I follow my own wallets, then I can toggle those notifications on. I could have like my vip list that is, you know, my best friends and NFTs where I definitely want to know as soon as they do something, then give me a notification. But for all these. If I follow another dozen wallets, I might not really want notifications on that, but I do want them in my feed. You know, like I want to be able to use them as a destination read, but I don't want it buzzing my pocket. So there's a lot of fun stuff that we can do there. And then finally, I think, you know, we love it for, for the art. When I talk to this, when I talk about my, the product, like with my dad though, he gets, he's like, I still don't get this stuff. But I think what does click with anyone is when you start talking about nfts in their future context. So one thing we think we're accomplishing is we're getting pretty darn good about understanding what is an NFT, what happens on a blockchain with an NFT, with a, with different token standards, different structures. And I think there's going to be a world where the product market fit hits with some other industry and then we have this explosion of growth. But in like concert tickets or music albums, I call a sector that makes a lot of sense. Just this concept of experiential nfts where it's not about number go up, it's about life experience go up. Right? Like I had a experience of a concert and access and unlocking things. And the experiential NFT boom, I think, is one that's definitely on the way in a variety of sectors. And we want to be very well prepared for that as well. So one of the things you see is actually most of this stuff is at Flip XYZ art because it's for the jpegs. You know, there will be ways to adopt this experience depending on kind of where the product market fit is found for NFTs as a whole. And I definitely think most people aren't thinking in that sense of like, where and where and how are nfts going to be used over the next like 1015 years."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I totally agree with that. I mean, we're just."
+    },
+    {
+        "speaker": "C",
+        "text": "We'Ll let bunch you buffer here for a second."
+    },
+    {
+        "speaker": "A",
+        "text": "Scratching the service. I say all the time, oh, did I freeze? Am I back?"
+    },
+    {
+        "speaker": "C",
+        "text": "You did your back, though."
+    },
+    {
+        "speaker": "A",
+        "text": "All right. I always say that, like, the art piece is like hieroglyphics on the wall for like, where we are in the spectrum of what this will be ten years from now. So I appreciate that as well. We had one question here from Blake. Does this tool only pull from the Ethereum blockchain?"
+    },
+    {
+        "speaker": "B",
+        "text": "For now, yes. And there's a couple of reasons. One, we need to nail it on ETH. Layer one, I don't know what percentage of dollar volume is on ETH, but it's got to be over 90%. And the struggle that you run into is when you're talking about deciphering every block, finding out if there are NFT transactions there, processing them appropriately, ingesting them, doing everything that you need to do. ETH is higher. It's ten to 20 to 30, I don't know, times the dollar volume of anywhere else. But it's also the, like most digestible because you get on avalanche or Solana or Tezos and it's like the number of blocks are so, they're so fast, there's so many that you're spending 100 or a thousand times the processing power to digest everything and you're getting like 1% of the actual volume. So we're going to support more stuff, but if we can't nail it here, then we're not going to nail it there. So we need to be fairly confident in our spectrum here. Now, one caveat to that is we do think Opensea is definitely not the only place that's going to be the dominant trader long term. We're already seeing a ton of that in an incentivized way with looks rare. We're seeing Jim and Jeannie, like sweeper type tools be used a good bit that are multi marketplace. Then there's like x two, Y two, and there's NFT trader for some types of transactions. You're seeing the market go all over the place and that's just in on chain ways. The next wave we're going to see too is, I truly think as nfts expand and you have like $10 nfts, and not just ten ETH nfts, Coinbase will actually get picked up because right now, what's a person on Coinbase going to do? Like, if they had ten eth to blow on a, on, on a. What's even ten eth anymore?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. What is ten eth right now? I don't even know."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Like if they want to ape a pudgy penguin, a pudgy penguin is still like five or six grand. You know, you can get a, you can get a used car for that. Or a pudgy penguin. It's your choice. But I think when you bring accessibility from a price perspective to nfts, that's when your Coinbase population will pick up and your ft, your centralized exchange population where or just cheap in game items. But it's on immutable or layer two, like that's where we'll be able to pull even more of the market together is we actually, we pull in the centralized side of the exchanges and we put it right alongside the decentralized order books. And you put all that together. That's going to be really cool. We actually currently, if you click sales, you can then go and filter by exchange, which is pretty cool. This is a fun little tool. So on the left hand side and then you go to filter and you see largely we're still opensea, but go to marketplaces, click select all and then unselect Opensea because this is a fun little exercise to just see. Now click apply. Just see where is everything happening? That's everywhere else. This is a fun, fun thing to do. And what this page will continue to evolve significantly as more exchanges, more, more locations are trading nfts. And this will be really cool to see the like centralized Coinbase side and FTX side and like Binance, you know, they're all going to have NFT exchanges blended in with all of these on chain side things. That's, that's going to be super interesting to watch the market."
+    },
+    {
+        "speaker": "A",
+        "text": "So, man, I feel like I can replace all my tools with this one site and have just, there's only, there's."
+    },
+    {
+        "speaker": "C",
+        "text": "Only one feature that I was, I don't know if you touched on, but account valuation, is that something you guys are."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So if you go back to the wallet, it shows your realized profit. We actually, we have flip estimated value in like a design state right now. Our engineering team has been working on it. So we've actually, I'll give you a little bit of our thinking on this. So an estimated value would be what do we think your stuff is worth? So the really, really crappy way to do this is honestly, this person hadn't made any money. Have they sold anything? Maybe not from this, from this one. Yeah. Go back to your, well, you didn't want to show yours. You can go to Ledgersat Eth. If you don't want to show, I'll show mine."
+    },
+    {
+        "speaker": "A",
+        "text": "That's okay."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So it says 126 eth. But your actual NFT net worth and your unrealized profit are different because they require knowing an estimate of what your NFts that you haven't sold are actually worth. The really dumb way to do that is just the floor, right? Like bunch, who is no floor NFT only buyer. He is interested in classy attributes."
+    },
+    {
+        "speaker": "A",
+        "text": "Monocles."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, monocles. So if you want to value your NFT by the monocle market? Well, you could say what is the floor by trait? That's a characteristic that we show on the site. But even that, if you get into certain spectrums of nfts, might be misleading. If, for instance, a trait is definitely worth more, but there's no open market for what are people asking for. So then that may be not very good. So what we're actually thinking of is actually a floor multiplier based on the traits that you have in your NFT itself. So you might have on Bunch who's monocle, a 1.4 x floor value that then we can depict based on the floor of the collection as a whole. And it's a little more lively and it's based on sales history, it's based on our own. This is the proprietary side of that is how do we actually determine it's a 1.4 x? It's not just on the fact that it's monocle might also be based on sales history and some other things. That's how you know a punk hoodie is worth more than a tiara hoodie, even though a tiara punk is more rare. Right. Like, some of that information goes into that floor multiple, but then you store that floor multiple, then you can get evaluation for all the nfts that you hold. And then you get unrealized profit, total net worth, realized profit. You can click in and break down all those things and see where it actually comes from. That's where things get really exciting. I'm probably supposed to say any of that, but that's okay."
+    },
+    {
+        "speaker": "A",
+        "text": "That's fantastic. I mean, this is, like I said, I feel like I could replace all my tools and just have a whole screen of different looks on flip XYZ now. So that's really awesome. Des, do you have any other questions? Because I'll pull a couple real quick from our discord."
+    },
+    {
+        "speaker": "C",
+        "text": "This is phenomenal. Honestly, I could probably ask questions for another hour, but. So when are you guys going to partner with like, the old version of the stockbroker tickers that can sit above my desk and just feed in your data? I've wanted that thing for so long, it's. It's unbelievable."
+    },
+    {
+        "speaker": "B",
+        "text": "There were some kickstarters, I feel like back in the day, that had like, the hardware for your house. Yeah. Like your, your flip portfolio value scrolling across so good. Lions in an bull market. That's a good thing to have, right? Not very exciting. Like, just stop scrolling. Stop reminding me."
+    },
+    {
+        "speaker": "A",
+        "text": "That's true. Some, some other quick questions here from our, our DJ and war room some people. So that I've seen Des, have you seen this blur IO going around?"
+    },
+    {
+        "speaker": "C",
+        "text": "No, actually I haven't."
+    },
+    {
+        "speaker": "A",
+        "text": "So I'm not too sure what it is. I think it's a marketplace, but you were listed on there as an early investor in blur. Can you give us any information on Blur and what you're interested in about it?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, and I can actually express a little bit about where some of the different platforms out there differ because I actually talked to them ahead of time. I was like, first, let's make sure we're not competitors."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "When they were looking for seed investors, they were looking for people that had relatively high trading volumes for nfts because what they're trying to build is almost like this big desktop experience for people who trade really actively. And while we like active traders throughout our platform, it's actually, there's a lot of things you can do to analyze your portfolio that doesn't necessarily require transactability because most people, I would say 95% of people in nfTs, they're not transacting every day, but they're definitely looking at their portfolio every day. It's more of a decision matrix that's constantly playing in their mind. And then they make an action. Blur is for like there's this mint going on. I need to see it all like scrolling in a blur, like at blur pace, like a very fast pace coming through. And I want to make quick actions. So they have really designed an experience for a trader that's like trying to make rapid decisions. They might be making a whole bunch of transactions in one session. More like a trader may do inside like a Bloomberg terminal or inside like some kind of trade station type of thing. Like if you're a day trader. So I think what they're building is much more for like that quick execution day trader type of thing and market analysis. That said, I think some of their infrastructure is awesome. I wish we could collaborate on some of those things because I know we're working on some of the same problems. It's just a very different type of user because they care much more about volume of transactions that go through their platform than I think they care about time spent I by an app per user. You know what I mean? Like a user that doesn't transact is probably less valuable to them, whereas a user that doesn't transact is still pretty valuable to us."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, that's super interesting. I've been trying, I've been trying to get in on those active, those referral links. I got, I got you all right, thanks."
+    },
+    {
+        "speaker": "B",
+        "text": "That was an excellent recruiting tool by them, too. That, honestly we should have done during our, like, pre sign up stage is do the invite code thing, because people love that stuff."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, they're getting shared all over the place. The only thing I would say with those is make sure you're hitting up an official link. I would actually."
+    },
+    {
+        "speaker": "B",
+        "text": "I was going to say that I was actually surprised. People have given us a lot of feedback about the web three wallet stuff. Theirs has. It requires the web three wallet connection, it requires a discord authentication and it requires Twitter authentication. So you actually have to have all three just to get the access. And funny enough, I haven't seen people giving the same concern in that scenario, but we've gotten a decent amount of."
+    },
+    {
+        "speaker": "C",
+        "text": "Feedback just so we don't screw any listeners who just, like, jumped on to Google search. Blur, what is the official. Is it just blur IO?"
+    },
+    {
+        "speaker": "A",
+        "text": "It's blur IO. But if you come across the. If you come across the links, the referral links, what I would recommend is go to just, like, have blur IO in your browser. Just grab the, the referral code piece and put it in there and it'll load if you. If it's correct."
+    },
+    {
+        "speaker": "B",
+        "text": "Because you got to watch out those lowercase L's, man, they're capital eyes."
+    },
+    {
+        "speaker": "A",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "It's."
+    },
+    {
+        "speaker": "A",
+        "text": "That tip came from somebody in our war room. So thank. I don't remember who it was, but thank you very much for that because that is super smart. And somebody else asked, when, when up only. And is Kobe okay?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think Kobe's on okay. I think he's on the other side of the world and he, you know, he's taking a little respite from recording, but I block off every Thursday afternoon for Kobe. When he's ready, I'm ready."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, well, I'll have to fill in one of those days then, and we can talk NFTs. So here's an interesting question, last one, and then we'll wrap up here. But being somebody that's so active on the trading side as well now in the NFT market, what do you think the ideal eth price action is for NFT markets?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think there's a decent argument to make that owning an NFT is the same as being short eth, at least in some timeframes, because you are selling your ethereum for a JPEG, so you're not actively long ethereum itself. You're assuming that your JPEG will outpace the growth of ethereum during that time. And I think that in, you know, you talked about your beans tattoo. And my fear with that was like, well, what's your bean going to be worth in eth terms? Because I think if Eth moons really hard, for instance, like with the merge with the recovered economy, whatever, I think a lot of projects will have a hard time keeping up with the pace of ethereum itself. And we saw that happen with Defi, for example. So, like, defi, very promising. But the token dynamics weren't great. Like, what's the need for it to be valuable itself? I think NFTs have some better stuff there, at least blue chips, because there's limited collections. Right. And it's not just infinite. The network effects are more community driven. So, like, if you just fork Suzuki's into, like, Suzuki's, it's not the same thing, you know what I mean? But if you fork aave into, like, some other lending protocol, as long as you have the trust of the smart contracts, like, people will just go where the token rewards are, you know? And in these ecosystems, maybe it's a little different, a little stronger. Wherever I. You can continue to kind of develop out the community. What exists for the people that hold these tokens? Like, what types of value do they get? One additional risk, though, is that liquidity fracture that can occur. So if you have a bored ape and a mutant ape, and what's the dog one? The kennel club."
+    },
+    {
+        "speaker": "A",
+        "text": "Kennel club, yep."
+    },
+    {
+        "speaker": "B",
+        "text": "And then you're, like, doing land and you have the ape airdrop, and if you're assuming that there are buyers throughout that process, choosing what to buy becomes more and more complicated. If you want to be a holistic owner, and it's simultaneously required to make the ecosystem more accessible to more people. But at some point, it. Stuff stops mooning, you know what I mean? And I think that's why they came out with 200,000 parcels of land, is they were like, we can't. The land will be obscene if we only have 10,000 for the original ape holders, or 20,000 for ape and apes. I think they are purposefully fractionalizing that liquidity more and more to make the ecosystem more expandable. Which means your future airdrops are going to be less valuable because they're going to be more populous, because there's going to be, like, little third generation baby apes that somebody can actually afford for one ETH instead of 150. Ethan. And that's. I don't know, that's. It's a tricky game, right. But yeah, I think. Okay, sorry to get back to the question is, good for nfts up or down. Volatile ETH is not good for nfts."
+    },
+    {
+        "speaker": "A",
+        "text": "Sideways eth, no matter what the price, then that is good for nfTs. That's the recipe. That was a fantastic answer. It was really. It's so interesting to hear that breakdown from really, like, a market perspective and how the actual liquidity works in this market. And I think that's overlooked a lot. And I actually think it's interesting because I think most people would say that it's a levered, almost more of a levered long when you can. You said levered short, which is interesting."
+    },
+    {
+        "speaker": "B",
+        "text": "It can be. Well, it can be both. Um, it's reflexive. That's what, that's what. That's why it's better when it's sideways, because when it's reflexive, it can get really bad anyway. Yeah, yeah. But take your $20,000 ETH. Well, now your five e floor cool cat is still a $100,000 cool cat. Like that becomes difficult at some point. 150 ETH at $20,000 ETH. I can't do that math in my head right now. $3 million, something like that. I don't know. I don't understand how that's possible. And I think that puts at some point, you put pressures on those relative markets, and we saw that happen with bitcoin and altcoins, right? Sometimes they go up together. But if bitcoin moons hard enough, altcoins are going to get wrecked relative to bitcoin. And I think if ETh booms hard enough, a lot of NFTs are going to get wrecked relative to EtH. Also, all of them inherently, I don't think they're necessarily valuable just because of their utility. I think they're valuable because of their network effects, and their utility increases their network effects. But I think it's actually, whether it's cryptopunks or Azuki's or bored apes or sup, ducks or whatever, it's the network effects that inherently drives most of. Of the value for those collectors. The greater utility, the more that you actually have to ship, which is an interesting demand factor for a collection."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. Right, des? Yeah, yeah. Awesome. This has been really great. I've had so much fun getting to talk to you again, ledge for a good amount of time here. This platform that you've built is fantastic, and I can only imagine going to keep getting better as you guys develop this out. It's already going to be on my short list of places to be all the time, so appreciate all the work you've done on this and good luck continuing to build on it. Where can people find you? Where can people find the platform? Where can people maybe come and ask some additional questions if they're hearing this and want more information?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. I'm edgerstatus on Twitter. Flip xyz. Flip xyz on Twitter. If you do in app stores, if you're looking for it, do like flip NFt or flip XYz. It's going to make it a little easier to search for. One day you can just search for flip and will pop up everywhere, but that day is not today. But thanks for letting me show my bags. We are just going to keep building until it is the only place that you need to go no matter what. So we're super excited about it. We're having a lot of fun building it, which is cool and I've really, really enjoyed it. I've got an incredible respect for NFT markets and also people that can effectively trade them if for no other reason. The fact that you're getting wrecked for like, you know, anywhere between five and 10% from fees, at least on the side of the trade every time you flip. So that's like, that's not easy. That's very true, very impressive for people to actually make money in the NFT market. And it's also in a bunch of. I know you've talked about this before, it's like way more fun to be part of from a trading perspective than fungible tokens. And so it's been really enjoyable. So, yeah, hit me up. Ask us any questions. Give us feedback. There's a feedback button right on the site. Be sure to seriously get over the web. Two thing, log in with your twitter. I don't care if you sign in with your email. We don't actually look at your email. We took that very seriously. It's often a completely different, very secure service called Firebase if you want to look that up. All we have is an id number. So it's extremely hard actually for us to take advantage of any of that information ourselves because we try to lock that off. But the experience is much cooler when you log in and when you go multi device. So thanks for. Thanks for having me. Thanks for letting me show my bags. Appreciate you."
+    },
+    {
+        "speaker": "A",
+        "text": "Absolutely."
+    },
+    {
+        "speaker": "B",
+        "text": "I've been learning a lot through the mint condition and I'm a little in Rip mode about the rec park podcast."
+    },
+    {
+        "speaker": "A",
+        "text": "But we've got one more. We've got one more killer show coming on, probably around our, our actual four year anniversary, which is coming up in a couple weeks. Here, so maybe we'll have to throw bring you in as the former guests that recurring guests on our farewell. But we plan to take all the fun stuff from rect and bring it here as well, so. Yeah, but we appreciate you, Des. Thanks a lot ledger. We'll see you soon. Flip XYz until next time, stay mint."
+    }
+]

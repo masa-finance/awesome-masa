@@ -1,0 +1,254 @@
+[
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless everybody get 30. 30 baby get 30 baby get 20. 2020 baby get 2020. Bid to get 15. 1515 just $15 a month."
+    },
+    {
+        "speaker": "A",
+        "text": "So give it a try at mint."
+    },
+    {
+        "speaker": "C",
+        "text": "Mobile.Com switch $45 upfront for three months."
+    },
+    {
+        "speaker": "D",
+        "text": "Plus taxes and fees. Promoting for new customers for limited time Unlimited more than 40gb per month slows full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "E",
+        "text": "Hey everyone, if you like this podcast, go behind the paywall to get privileged access to the smartest minds in finance. Join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off our essential membership for the first year. Now to the top analysis of today's crypto markets."
+    },
+    {
+        "speaker": "F",
+        "text": "Mike Rainbow, co founder of Rainbow welcome to real vision's crypto daily briefing. It's great to have you here today."
+    },
+    {
+        "speaker": "C",
+        "text": "What's up nico? Dude, thanks for having me, man."
+    },
+    {
+        "speaker": "F",
+        "text": "Oh I'm just so excited to have you here on our Friday asking for a friend episode because we've had so many people, including the CEO of our company, being like, how the hell do I participate in these decentralized exchanges? How do I go? And maybe hop on that turbo or Pepe Bull run. Obviously none of this is financial advice, but Mike, we thought it would be perfect to bring you in and teach us a bit. So before we get started, I just wanted to hear a little bit more about your background and how you got into crypto and why you founded Rainbow."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, let me think. My background? Yeah, I dont know. Always been a computer kid, been working in startups for a long time. I got into crypto in 2018 full time and we started Rainbow in 2019. Just endlessly fascinated with ethereum and all of the cool things people build on it. And to us, the opportunity to build the app that lets everybody play with these things more accessibly, the opportunity was just staring us in the face. That's why we started rainbow."
+    },
+    {
+        "speaker": "F",
+        "text": "Amazing. Before we get into our fun little screen share and showing everybody how to actually participate, can you explain a bit the difference differences between a coinbase, a centralized exchange, and something like una or sushiswap, which is a decentralized exchange?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, good question. So Coinbase is a centralized exchange. It's very similar to how financial exchanges traditionally work in traditional finance. It's a centralized counterparty with a proprietary matching engine. They hold the money and they execute the trades. I guess to contrast that against a decentralized exchange like uniswap or Sushiswap curve balancer, things like that. Decentralized exchanges are built on top of blockchain networks that have smart contract functionality, things like Ethereum, solana, stuff like that. Whats special about decentralized exchanges is instead of them being a centralized counterparty, executing trades for you, decentralized exchanges are entirely built with code with smart contracts. And what makes them special is that you can interact with them permissionlessly. What that ends up meaning often is that the long tail of crypto assets are far more readily accessible and found on decentralized exchanges. We're talking about meme coins today, or meme coins have been all the rage in the last few weeks, with tokens like Pepe and turbo kind of doing insane euphoric things. And those are the types of tokens that you'll often be only able to find on a decentralized exchange because someone just invented that token a few weeks ago and they can permissionlessly list it on one of these decentralized exchanges. And that's just a far faster kind of like path to market than going through these centralized parties like Coinbase, et cetera."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, I think a good way for people to think about this is if we rewind all the way back to the beginning of 2021. I think that was when doge first showed up on Coinbase, even though it had been available on these decentralized exchanges for weeks, if not months prior. It just Coinbase does a little bit more due diligence because it's run bye individuals. Whereas decentralized exchanges are literally just a smart contract, as I understand it, literally."
+    },
+    {
+        "speaker": "C",
+        "text": "Just a smart contract. You can create Niko Coin today and put it on a decentralized exchange right now, and no one can stop you. Right. So it's basically, yeah, like the types of assets that are available to buy or sell on these decentralized exchanges are fairly endless. Yeah."
+    },
+    {
+        "speaker": "F",
+        "text": "Oh, I can imagine. I can imagine. So, before we get into the screen share, I just want to remind our viewers to join us in the conversation. Put down on your questions in the chat wherever you're watching. We'll ask the best ones on air. Remember, real vision members take priority, but the good news is real vision membership is free. Go to realvision.com crypto to sign up. If you're watching on YouTube, tweet this link and follow real vision ealvision alrighty, Mike. I think it's that glorious time where we should get our screen share up and you can sort of show us how this all works."
+    },
+    {
+        "speaker": "C",
+        "text": "Let's go. So we're going to. We're going to show you guys how to use Rainbow, which is a mobile Ethereum wallet. We're going to. First, I think we wanted to show how to connect to dash."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, I think absolutely. And we're going to be obviously connecting with Rainbow Wallet. But you'll show us that there's multiple ways to connect either a hot wallet, a cold wallet, whatever you're looking and using yourself."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. I've got my rainbow in front of me and I've got some ethereum on Mainnet. Optimism and arbitrum. So I'm ready to go. I've got the eth that I need. So next, what I'm going to do is open up my web browser. First, we're going to go to sushi.com dot here on sushi.com, we're going to click enter app. Okay, cool."
+    },
+    {
+        "speaker": "F",
+        "text": "So far."
+    },
+    {
+        "speaker": "C",
+        "text": "Now what we're going to do is we see here, this is sushi. And the first step you have to do is actually connect your walleth. Okay, so we're going to click Connect wallet. And here you see a few options. Yep. Now, most wallets use what's called wallet connect to connect to them. Yep. So next up, click wallet. Connect. Sweet. And then we're going to click rainbow in the top left. Hell, yeah. So now we got booted over to Rainbow and it's asking, hey, can we connect your wallet to sushi? Going to click."
+    },
+    {
+        "speaker": "G",
+        "text": "Yes."
+    },
+    {
+        "speaker": "C",
+        "text": "Connect."
+    },
+    {
+        "speaker": "F",
+        "text": "Now to stop you there, I just want to. Just because some people new to the space might be asking, okay, I'm clicking connect. What permissions have I given this decentralized exchange? Am I at risk now for my wallet to be drained? Can you address the safety concerns around that?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, of course. So it's always really important to make sure that the websites that you're on, like that, the DaP that you're using is the real daP. And the way that you can always make sure that you're on the correct website is by typing it in yourself URL. Right. So it's often bad practice, like, just click links off of Twitter. But to address your specific question about, like, what security risk exists simply for connecting your wallet, the answer is there is no risk in just connecting your wallet to a website. The only thing that that can do is send you a push notification asking you, hey, do you want to do something right. But just simply connecting to adapt does nothing put your funds at risk?"
+    },
+    {
+        "speaker": "F",
+        "text": "Okay. Okay, that makes sense. That makes a lot of sense. So we've connected our wallet. I guess it's time to see about buying something. I mean, let's go ahead. This has been very simple thus far. So, yeah, I'm sort of surprised because everybody gets so scared of defi and feels like they almost need to be a coder to interact. But what I'm seeing here is within three clicks, we're ready to go buy some meme coins."
+    },
+    {
+        "speaker": "C",
+        "text": "We're ready to go."
+    },
+    {
+        "speaker": "F",
+        "text": "Hi, everyone. We're going to take another quick break and hear a word from our partners. We'll be right back with the real vision crypto daily briefing."
+    },
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium Wireless 20, 20, 20, 15, 15, 15. Just $15 a month."
+    },
+    {
+        "speaker": "A",
+        "text": "So give it a try at mint."
+    },
+    {
+        "speaker": "C",
+        "text": "Mobile.Com switch $45 upfront for three months."
+    },
+    {
+        "speaker": "D",
+        "text": "Plus taxes and fees. Promoting for new customers for limited time unlimited, more than 40gb per month slows full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "C",
+        "text": "So on sushi. My favorite meme coin is called dog. So we're going to just, I'm going to show you what it looks like to buy some dog. So really quickly, I'm just going to punch in. I'm going to buy 0.02 eth worth of dog. Okay, so, cool. Got it. Punched in there. We're seeing 40, 40,000 dog, 40,000 dog token. And we're going to click swap. It shows me a confirmation screen here and I can click swap. Boom. Now I get brought to rainbow. And on this screen here, basically here, you're actually confirming this transaction. And whenever you see in rainbow a little face id logo next to the confirm button. That basically means that you're about to sign something. So when you see that, that's basically when funds can leave your wallet. So here it's asking me, hey, do I want to confirm this swap? Answer, yes. Let's go. So I just face id, bam, I get sent back to sushi. So now my, now my swap is being, my transaction is pending."
+    },
+    {
+        "speaker": "F",
+        "text": "And I want to get into this because this is one of the things I found really interesting is, and I guess the way to just go here is just mention the man of the hour himself, or the one everybody's been talking about, which is Jared from Subway Eve, could you tell our audience a bit about what sandwich trading is and how within the rainbow app, you guys are creating thoughts, as I understand them?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So over the last few weeks, with the rise of these meme coins, there's been this guy, or, you know, who's become popular or famous, I guess his name is Jared from Subway eth. And this person runs a bot out there that basically profits off of arbitrage in the markets. Honestly, I think it's a little bit of a long explanation to really dive into how it works."
+    },
+    {
+        "speaker": "F",
+        "text": "Absolutely."
+    },
+    {
+        "speaker": "C",
+        "text": "But basically, whenever you're trading very illiquid tokens, you are exposed to price impact or slippage from when you actually entered your trade to when it executes. And rainbow very conveniently has built into it protections to basically protect your swap from that kind of aggressive slippage."
+    },
+    {
+        "speaker": "F",
+        "text": "Could you also. And this is a question from one of our YouTube audience members, Cosmos blockchain. He was curious, what does slippage in front running actually mean?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, so let's see. So, yeah, so, basically, when you, the user, are about to make a trade, you are shown a price that you're being quoted. And what happens is that sometimes between the moment that you submit your swap trade and the time between when you submit it and when the transaction actually gets confirmed on the blockchain, the price could have moved significantly. And because of that. Yeah, that's essentially what we mean here by slippage. Let's see. Okay, fascinating."
+    },
+    {
+        "speaker": "F",
+        "text": "Well, thank you for that. Yeah. And this also, this is sort of like the new version of what people and institutions like Citadel were dealing with long ago, with basically getting the fastest possible Internet to reduce latency. This is just sort of the contemporary version of that in the world of defi, correct?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, exactly. So, yeah, flashbots is cheap. Its name is a little bit cheeky. It's named after the famous book Flash Boys."
+    },
+    {
+        "speaker": "F",
+        "text": "I was telling Mike when we were talking about this off camera, as someone with no technical or engineering background was just imagining some galactic Star wars battle between flashbots and all sorts of other weird coding type of things. All right."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So really quickly, let's show you guys how to use flashbots to protect your trade from overly aggressive slippage. So first, what we're going to do is we're going to click swap. Cool. And then we're going to click Eth, because we want to swap Eth for Raoul's favorite meme coin called turbo. So over here, I clicked eth, and then I clicked choose token, and then I already have turbo here in my favorites, but you could also just search for it. Cool. I select turbo and to enable the extra slippage protection, what you do is on this screen, click settings and then bam, there's this one in the middle that says use flashbots. Make sure that that's enabled. So that is enabled. Awesome. So now our swap here from ETH to turbo is going to be protected from front running. So awesome. I'm going to buy $91 of turbo because why not? Not financial advice. We're showing you guys how to buy silly tokens."
+    },
+    {
+        "speaker": "F",
+        "text": "Awesome."
+    },
+    {
+        "speaker": "C",
+        "text": "So I can click review here and basically make sure that, you know, the swap I'm about to make is what I want to actually do. Looks good to me. Gas is a little aggressively high. We can talk about gas some other time though."
+    },
+    {
+        "speaker": "F",
+        "text": "Yeah, no, we'll definitely get into that. I love the fact that you guys use the rocket ship emoji for the selection of the gas fees you want to pay."
+    },
+    {
+        "speaker": "C",
+        "text": "You'll find that rainbow is quite emoji, a very emoji centric product. We have lots of emojis. You can even see emojis flying around here on the dog. Yeah, we've got, you know, like the little dog icon here. I feel like very fun."
+    },
+    {
+        "speaker": "F",
+        "text": "I feel like we got to get you guys locked in with the emoji movie people. I feel like there's some sort of crossover for you to be."
+    },
+    {
+        "speaker": "C",
+        "text": "I would love that if you can make that happen, Nico. So we've still got our swap here pending. You know, sometimes, you know, ethereum transactions can take, you know, 10 seconds to a minute or so. Yeah, but I'm sure that that's going to clear."
+    },
+    {
+        "speaker": "F",
+        "text": "But yeah, other thing I was curious about just while we're in the rainbow app is what if I'm on Twitter and I'm seeing some new meme coin pop up? Is there a way that I can just go and find that meme coin contract address and use that to go and buy it?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, let's talk about that. The website that I like to use the most to find a contract address is coingecko. So you can come to coingecko and you can just type in a ticker symbol like turbo. Right. Select it from the search results. And here on this page right above this little show more button, you're going to see it says contract. And then it has some gibberish. It's going to always be something like zero x something. Okay. That's called the contract address and that's essentially the unique identifier for this token. What you want to do is click copy. There's like a little button next to it for copying it. So once you've copied your contract address, you can come to Rainbow and open swap and you can just paste in here any contract address. Rainbow has a built in Dex aggregator. So what we'll do is basically, no matter whether this token is actually most liquid on uniswap or sushi or wherever it is Rainbow is going to find for you, basically the best execution price. You just see a token on Twitter. As long as you can find the contract address and paste it here into rainbow, you can just go right ahead and swap. It's very convenient for what we were talking about before about being on the go. You see something on Twitter and you just want to play around. Yeah, doing it from your phone is a really great option."
+    },
+    {
+        "speaker": "F",
+        "text": "Hey everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing."
+    },
+    {
+        "speaker": "G",
+        "text": "This podcast is sponsored by Ramp. Are you the decision maker in your company? Consider this. For the first time in decades, there's a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your company's spending and control who spends what. With each vendor. Ramp software collects and verifies receipts instantly to save your team valuable time. Ramp automates data entry and routine tasks with automated approvals, expense categorization, and bill payments. Time consuming tasks, which means you'll stop wasteful spending and close your books in hours instead of days. Businesses that use ramp add up to 5% to their bottom line the first year. If you're a decision maker, adding ramp could be one of the best decisions you've ever made. Get $250 when you join ramp for free. Just go to ramp.com easy. Ramp.com easy remp.com easy cards issued by Sutton bank and celtic bank members of DIC. Terms and conditions apply."
+    },
+    {
+        "speaker": "F",
+        "text": "Mike, this is really blowing my mind that it can be this simple for everybody because I think a lot of people, and we've seen it with Ral, they get a little intimidated by this defi thing, especially because years ago it was a lot harder to access and it took a lot more steps. But now, in almost June of 2023, it's four clicks and you've traded."
+    },
+    {
+        "speaker": "C",
+        "text": "It's four clicks. And I think that people play with crypto at their own pace, and there's lots of options for where to keep your crypto. Lots of people. For example, I'm sure Raul has most of his crypto like custody at a major financial institution, but I do think that more people should play with non custodial wallets and to go around and actually try some of these apps and products out there because it's really fun and it's also the best way to actually learn how this stuff works. So I definitely encourage everybody out there to take even just a couple hundred bucks and to just go play around with some of these apps. It's just the best way to actually really learn how this stuff works. Frankly, you don't need to read white papers. You don't need to be a PhD or understand code at all. You actually just need to play around a little bit and all of this will start making more sense."
+    },
+    {
+        "speaker": "F",
+        "text": "Mike, that is so well put. Usually I ask for people's final thoughts, but I think you just nailed it right there. I'll add to that is I remember when I was 13 and was bar mitzvahed and had some cash to open up a savings account. The amount of work it took to open up that savings account balance, the checkbook feels far more intimidating even now in 2023 than what you've just shown us. So thank you so much. I definitely want to get you back to break down some other crazy defi stuff with us because I think I'm your guy."
+    },
+    {
+        "speaker": "C",
+        "text": "Let's go."
+    },
+    {
+        "speaker": "F",
+        "text": "Absolutely. Well, thank you so much, Mike, for joining us today. It's been an absolute pleasure."
+    },
+    {
+        "speaker": "C",
+        "text": "Hell yeah, Nico. Thank you. Real vision."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "And everyone, check out rainbow. Rainbow me?"
+    },
+    {
+        "speaker": "F",
+        "text": "Absolutely. Yes. Well, I know I'm going to have a lot of fun exploring all sorts of decentralized exchanges this weekend, but that's it for today. Remember to sign up at real Vision crypto. It's free, of course. Go to realvision.com crypto. No show on Monday due to the Memorial Day holiday here in the United States. So get out there and touch some grass. We'll be back Tuesday to discuss bitcoin focused investment space. Make sure to join us live. See you Tuesday at 09:00 a.m. specific time, noon eastern or 05:00 p.m. london time. Thanks for watching, everybody."
+    },
+    {
+        "speaker": "A",
+        "text": "What's up, revolutionaries? Thanks for tuning in to the real Vision daily briefing. For more content like this, head over to realvision.com and get unfiltered access to the very best, brightest, and biggest names in finance."
+    }
+]

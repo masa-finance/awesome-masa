@@ -1,0 +1,358 @@
+[
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless everybody get 30."
+    },
+    {
+        "speaker": "C",
+        "text": "30 baby get 30 baby get 20."
+    },
+    {
+        "speaker": "B",
+        "text": "2020, baby get 2020."
+    },
+    {
+        "speaker": "C",
+        "text": "Bid to get 15. 1515 just $15 a month, so give."
+    },
+    {
+        "speaker": "A",
+        "text": "It a try at Mint mobile.com switch."
+    },
+    {
+        "speaker": "C",
+        "text": "$45 upfront for three months, plus taxes and fees. Promoting for new customers for limited time unlimited, more than 40gb per month slows full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "D",
+        "text": "Hey everyone, if you like this podcast."
+    },
+    {
+        "speaker": "E",
+        "text": "Go behind the paywall to get privileged."
+    },
+    {
+        "speaker": "D",
+        "text": "Access to the smartest minds in finance, join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off our essential membership for the first year. Now, to the top analysis of today's crypto markets."
+    },
+    {
+        "speaker": "C",
+        "text": "Explosive accusations from Gemini co founder Cameron Winklevoss against Genesis and DCG. That's digital currency group. We go through them and explain why it matters. Coinbase announces huge job cuts as the crypto winter continues to bite. When is the cold going to abate? And I'll be live with Tim Davis and Seth Connors from a company that audits Coinbase. Deloitte, how do you audit crypto exchanges? We'll discuss this and more. Sorry, my screen just flashed there. Guys, welcome back to crypto daily briefing. I'm ash Bennington. Let's jump straight into the latest price action. Bitcoin has managed to hold on again this week. Bitcoin is currently trading at $17,300. That's virtually unchanged from 24 hours ago. Speaking of bitcoin, shares of Grayscale's bitcoin trust surged upward yesterday. Decrypt reports the price jumped 11.6% Monday to $9.65 cents. It means the net asset value discount has narrowed to 38.5. That's the narrowest since mid November. Meanwhile, ether is trading slightly lower today. Ether currently down 0.5%, trading at around $1,330. It has enjoyed a bumper week, up some 10% on a trailing seven day basis. Ok, let's start with a story that just broke a few hours ago this morning. Gemini Exchange co founder Cameron Winklevoss has published another open letter on Twitter and it's fair to say he did not mince words. Winklevoss is accusing Barry Silbert, the CEO of digital currency group, its subsidiary Genesis and several other people of defrauding Gemini's earn users. Winklevoss claims that parties involved lied to cover up a hole in Genesis's finances worth $1.2 billion. Genesis was the partner of Gemini's earn program. I know this is confusing. Genesis and Gemini sound quite similar. Obviously, that's the state of play there today. Winklevoss is calling for Silbert to be fired from the DCG board and for a new management manager to be installed. There has been no response yet from Genesis, DCG or Silbert to Cameron Winklevoss's letter. Now let's bring in our guests from Deloitte. Tim Davis is the blockchain digital asset leader and Seth Connors is an advisory senior manager. Gentlemen, welcome to real vision crypto."
+    },
+    {
+        "speaker": "E",
+        "text": "Great being with you, Ash."
+    },
+    {
+        "speaker": "C",
+        "text": "So before we jump in and start talking about all the stories that are happening today and the broader implications, and I think underpinnings of them, tell us a little bit about what you do. Our users come to us from a sort of a very broad and diverse ecosystem, some from the tech side. Deloitte, of course, for those who do not know, is one of the big four accounting firms, I believe the largest by Mac market captain, a massive global firm. Tell us a little bit about what you guys do."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, thanks, Ash. We serve in what we call a cross functional way. So across all of our different capabilities in the crypto native space, we advise there and audit there, we advise corporates that are adopting crypto. And a lot of that focus today is in helping our financial institution clients of take advantage of the opportunity that digital assets represents. But increasingly also in corporate America, just the innovation that's there, that digital asset represents and the use of blockchain just as a standalone technology to help transform businesses. So it's very much for us a global practice in terms of how we think about the opportunity, but one in which I think increasingly corporate America is benefiting from the innovation that's happening in the crypto land. So I think a lot of the news I know that we talk about and we see today is quite negative. But I would tell you corporate America is absolutely benefiting from all of this innovation. And yes, we need a little bit more regulatory clarity, particularly in the US, to see, I think, see full advantage. But there's a lot, I think, to be hopeful for relative to, I think, what a lot of corporate America sees as being the underlying value here from this industry."
+    },
+    {
+        "speaker": "C",
+        "text": "So tell us a little bit about your role."
+    },
+    {
+        "speaker": "B",
+        "text": "Absolutely, Ash, and thanks for the opportunity to speak here. So my role is focused almost entirely on auditing and helping to advise entities around risk and controls for crypto and blockchain in general. The other hat that I wear within the firm is I run our crypto auditing tool. So we have a tool that we've built from the ground up, specifically built for the purpose of auditing crypto related entities. It's on roughly 42 different blockchains right now. And the way I like to explain it is that blockchains are excellent at recording transactions. They are very poor at being queried, and auditors are really focused on querying transaction detail and that's what our tool has been designed to do. So we have 50 plus."
+    },
+    {
+        "speaker": "C",
+        "text": "Explain the difference. When you're talking about querying versus storage, this is a question of trying to extract the data that's on the blockchain."
+    },
+    {
+        "speaker": "B",
+        "text": "That's exactly right, yeah. So if you think about something like bitcoin, an auditor might be interested in something like, hey, what was the balance on 1231 on this particular blockchain address? Blockchain explorers are really good at telling you what the balance is like today. Right now, they are not as great if you talk about going back in time and what was the block height? What was the balance on a particular block height for 100,000 addresses? Which is a challenge that we as an audit firm have to deal with on a lot of our different entities, because they don't just have one address, they have hundreds of thousands and in some cases millions of addresses out there on the blockchain. And so we have to have a technology capability that allows us to audit that assertion that they do in fact have a certain number of bitcoin or ethereum or whatever on a particular date and time."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So let's talk a little bit more about that. You've sort of raised some of the points there and given us an introduction to some of the challenges with auditing crypto firms, blockchain firms. One of the questions that's come up in this space recently, binance, recently, their auditor, mazers, I hope I'm saying that correctly. Is it mazers, guys?"
+    },
+    {
+        "speaker": "B",
+        "text": "Mazars."
+    },
+    {
+        "speaker": "C",
+        "text": "Mazars. So Mazars, I think they're a south african based company, had been the auditor of Binance and I believe of tether and Mazars recently moved out of all of the blockchain businesses. Cz, the CEO of Binance, famously said on an interview with CNBC that it's almost impossible to find an auditor to work with them because, in his view, at least, auditors don't know or understand how to edit how to audit blockchain firms and therefore havent been working with them. Is that you guys view, how do you think about that?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, so I can take that one. Ash. Id say no, its not because we dont know how. But I would say, and this applies, I think, to every auditing firm is theyre very conscious of this sort of shared obligation, that the audit has some responsibilities, management has some responsibilities, and we want to make sure that if we're entering into this and taking on an audit client, that we're doing it with no question really about the legality or the regulatory compliance. And I'm not suggesting that there is any there with any one particular firm. But I would say as we are entering into this space, that is a very key consideration just in terms of which entities we take on. Once we've determined that a client meets that threshold, we go through a fairly lengthy exercise to make sure that the entity has the right processes, controls, and is auditable. And there hasn't yet been one entity that has not met that we haven't been able to get to a conclusion that we can audit once we've made that decision."
+    },
+    {
+        "speaker": "C",
+        "text": "What would those processes and controls be, Tim, that you would need to have in place before you'd be able to do an audit?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, so, and Seth can certainly also add to this, but a lot of the unique controls. One, obviously, it's the broadest system of adherence to corporate governance. And so this is traditional internal controls, things like segregation of duties, things like just the typical controls that you would have in any sort of corporation. But specifically, there are controls that are really critical when it comes to a crypto, crypto entity around things like how they manage private keys. So, you know, how they store their assets, how they deal with counterparties and the types of controls they're, you know, particularly if they're relying on counterparties. How do they know that their counterparties have sufficient controls as well? And that would typically be in the form of like a soc one or a soc two report that they obtained. And many crypto entities obviously are not."
+    },
+    {
+        "speaker": "C",
+        "text": "For our viewers who don't know about SoC reports, Tim, tell us what that means."
+    },
+    {
+        "speaker": "E",
+        "text": "I. Yeah, so a Soc report is a fairly, they've been around for many years in corporate America as a means for one organization to communicate to other organizations that they have certain internal controls and that those internal controls are designed and operating effectively. So it would be an audit form of audit report that an external auditor would provide to a company that basically attests to the fact that they've got certain internal controls in place."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, just to build on that. Ash, I know some of your viewers are kind of retail investors in nature, and so they may not be familiar with that concept, but these reports are typically delivered to and used by institutions to fulfill their control requirements and obligations because they have a vested interest in ensuring that the companies that they do business with have effective control environments."
+    },
+    {
+        "speaker": "C",
+        "text": "It's so interesting in terms of our viewer base, and I think it's true of the broader space, and it's almost a metaphor for what's happening here. We have folks who are very sophisticated on the computer science side, who are very passionate about crypto digital assets because they've come to us from an engineering perspective. We also have investors and folks from traditional finance side. And one of the challenges with this space in general is making sure that everyone understands what's happening, speaks the same language, because I often feel like, you know, we lose the finance people when we talk about the computer science. We lose the computer science people when we talk about things like Soc reports. And it really is, I think, in many ways, emblematic of what's happening in this space right now. It really is a kind of a collision of two worlds, trying to understand the ethos of one. The legal regulatory compliance challenges that large publicly traded companies, for example, have while trying to meet the needs of this new space, of this new technology. It really is kind of the birthplace of this, of this new world where these two things are being kind of mashed up together."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, you're exactly right. And I think it introduces new, I'll just call them control concepts, that the traditional finance folks, when we think about a system of internal controls in a corporate entity, is new. And one example of this is that typically, this idea of a system of internal controls is something that's under the responsibility of those charged with governance, which is typically the board of directors, and it implements it, sort of within the four corners, if you like, of the organization. We now have this distributed system concept, where you've got distributed systems that don't really have those traditional four corners of the organization construct, but yet have controls embedded in them. And so as corporations are using these types of distributed systems, they still have the same principles that they have to be able to demonstrate, are met, but the risks are new. And so it really does take, I think, a thoughtful approach to what are the risks associated with reliance on some of these blockchain systems, these deFi systems, and how are they mitigated, and how might I then monitor that those risks are not going to suddenly elevate over time, where I need to reevaluate whether or not that particular blockchain is, in fact, continues to be reliable."
+    },
+    {
+        "speaker": "C",
+        "text": "William Tim, you mentioned Defi. This is an interesting mental shift as well. We've been talking about corporate controls, corporate governance. How do you make this shift at Deloitte from traditional auditing of traditional corporations into a world where there isn't a corporate entity to audit?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, it's a great question. And this whole idea of just sort of laws and regulations and systems of internal control, as I was saying, DeFi is reimagining, really that. I think the difficulty is that there is still some obligations that corporate institutions have to be able to comply with, and certainly that as it relates to laws and regulations that they fall under. And so what we're seeing some of, in terms of how to reconcile that inconsistency is that there are some DeFi systems that are coming within corporate walls. And so, for instance, you see some examples of DeFi systems where they're coming within a corporate boundary. The corporation is permissioning who can come in just so they know who's participating in a DeFi environment that they're basically managing. So it's a synthesis of some DeFi and corporate America. But I think corporations need to be concerned with, if you're going to deal with a DeFi entity, is it in fact complying with all the laws and regulations? What are the risks that I talked about earlier? Is it compliant with obligations around AML, KYC and things like that? In most cases, most institutions would say that for most areas of DeFi, that they're not there yet. They can't get comfortable with that. But as I said earlier, there are examples of how institutions are taking advantage of DeFi by bringing them inside of the corporation and being able to satisfy those unmet risks that way."
+    },
+    {
+        "speaker": "C",
+        "text": "So you're thinking about it in terms of the intersection or the nexus between the DeFi ecosystem and corporate entities. Are you thinking about DeFi itself as an auditable entity or an auditable system?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, go ahead, Seth."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, let me try to respond to that. Ash. I think it's important to clarify what we mean by audits, because we, as an accounting firm, classify an audit and think about an audit in a very particular way. And for the individuals that are listening that are maybe more engineering focused, an audit might be more akin to like a smart contract audit that you might get from an entity like an open zeppelin. And the objectives are generally review evidence, you know, come up with identified vulnerabilities or issues or gaps or, you know, things that don't quite look right and then produce a report that summarizes the results of the procedures that were performed. Right. And so I guess the question is, is there a place for financial auditors in the context of a DeFi protocol? Because a lot of the procedures that we as financial statements and internal control auditors rely on and focus on are activities and controls that are performed by humans. These are things like whistleblower hotlines. These are things like segregation of duties, logical access controls, things like that. I think that the question I would have back is what is the value that would be derived from a financial audit of a DeFi protocol, and what would that really look like? Because unfortunately, the standards that we have to adhere to are very rigid and been around for a heck of a lot longer than blockchains in general. And so we have to be able to audit against something. And so what is that thing that we're auditing against? And that hasn't quite been clarified in the context of defi?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, please."
+    },
+    {
+        "speaker": "E",
+        "text": "Sorry. So I was going to say, I mean, if those rules are there really for good reason, I think there is some innovation that is continued to be needed in because there are obviously, if you just think about way Defis work and how Defis systems are getting exploited, there are opportunities and really a need for assurance over participation in these. Like, for instance, an oracle, right? How do you know that an oracle will continue to give you a reliable feed other than just the reputation of the oracle or who's managing it? But it has to, I believe, evolve in a way where the provision of assurance becomes more dynamic. It actually is part and parcel of the flow, because today in legacy accounting and auditing, an auditor will issue a paper based audit report. In the new world of DeFi, as we talk about twenty four seven real time systems, you will need to be able to rely on systems in a dynamic way. For instance, an oracle is going to carry an electronic signature on a cryptographic signature on behalf of, say, an auditing firm, to say that they stand behind that oracle that has the necessary internal controls. And in so doing, it becomes part and parcel of just how systems interact with each other, where systems are saying, okay, is there in fact an audit report available on the service? And if so, how does that affect my decision whether or not I want to consume the service or nothing? This is sort of, I think, the direction of travel that we see auditing happening in defi."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back."
+    },
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless 20, 20, 20, 15, 15, 15."
+    },
+    {
+        "speaker": "C",
+        "text": "Just $15 a month, so give it."
+    },
+    {
+        "speaker": "A",
+        "text": "A try at Mint mobile.com switch."
+    },
+    {
+        "speaker": "C",
+        "text": "$45 up front for three months, plus taxes and fees. Promoting for new customers for limited time Unlimited, more than 40gb per month slows full terms at mint mobile.com dot. Yeah, it's so interesting because it is this sort of evolution. It is this sort of collision of two worlds. Obviously, we've had some bad things happening in the space. Inevitably, this is the way new technology goes, that you have these challenges, you have these sort of paradigms that haven't yet been shifted. You know, I got a message from one of my friends this morning, a person who's been in finance for a very long time, who I deeply respect and said, in reference to the Cameron Winklevoss tweet and letter to Barry Silbert, like, has there ever been a dirtier asset class? Like, I'm just so disgusted with everything that's happening in crypto. We see that this challenge for people in the traditional finance space who maybe read only the headlines or who just see the sort of salacious failures in the space, this sort of cynicism about it, how do you guys find a way to have this conversation with corporate executives who may be, well, let's put it, charitably skeptical about some of the things that are happening in crypto? How do you explain to them some of the opportunities you see in terms of the space while also managing to be realistic about some of the challenges we have?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, it's a terrific question, Ash, and it is the essential question, I think, because there is, as you were alluding to, there is definitely a pr problem that I think the crypto industry as a whole has to sort of own up to, to be able to sort of collectively figure out how we resolve it. But in terms of your question of how we separate it, I mean, there is some institutions and regulators would say that what's happened in crypto might even be considered inevitable with the absence of the sort of regulatory principles that has sort of been the foundation of corporate America, that this type of stuff is inevitable. And there is a certain level of truth to that. And so we haven't seen the benefit of the innovation coming into the picture as much as we've seen the focus on the negative and the fallout. And so really, the message to institutions is to sort of understand both that there are good reasons why some of these failures have occurred. And we can look at all the myriad of corporate governance principles that were absent in the recent failures in crypto land, but not lose sight of the real amazing innovation that's there, and how we can be restructuring business, doing it more efficiently, doing it more, even equitably, in terms of reaching people that don't have as much access to traditional financial services."
+    },
+    {
+        "speaker": "C",
+        "text": "So let me ask you about the flip side. Do you guys have a hard time hiring folks who are digital natives, who are defi natives, who are crypto natives? Do they say, I don't know, Deloitte, do I have to wear a tie? How does that culture fit work?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, sure. I've hired quite a few individuals across a broad range of disciplines. So I've hired roughly 15 crypto engineers, and their job is to build our product and our platform. And we've actually found that crypto natives are expensive and they're not even, in all cases, necessary in order to build a product that serves our needs. We can actually train a lot of the crypto stuff internally because we have a very significant practice around this. And so we do a lot of the training ourselves. We really look for leaders that are able to take complex things and produce products and change the legacy way of thinking about things. The other thing I'd say is that we definitely have had a lot of hires that we've made coming from some of the institutions that have had layoffs and things like that. In many cases, we find a lot of value in the individuals that have actually lived in the trenches and actually worked on a lot of the regulatory requirements and control activity monitoring and things like that, where we'll take individuals from crypto natives and train them to be an auditor or an advisor or a consultant and things like that, using a Deloitte approach. What do you think, Tim?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I mean, I agree. I mean, life at Deloitte. Just to your question, Ash, do I need to come to work with Italian? It's a lot of fun and it's casual, and we feel like we have a great team culture. But that being said, we also come at this whole industry with a great sense of responsibility, both in terms of our crypto native clients and also the institutions. I mean, there's so much potential here that we have to sort of help ensure gets realized and so many risks that have to be actively mitigated and avoided to ensure that it doesn't get lost and we don't end up with all of the negativity that we've just seen. So we are, as Seth said, we do look for people that can be leaders, that can help reconcile the way that the real world works with all of this innovation and potential that this industry represents."
+    },
+    {
+        "speaker": "B",
+        "text": "Trey."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. I think it's incredibly exciting to have this collision of worlds. I think this is how creativity happens, when you bring people in with different backgrounds, with different perspectives, with different focuses, with different experiences, different education. I think this is an incredible moment for the space to have those interchanges, those conversations happening."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. And I would say, as I said at the outset, there is a lot happening in large corporations that's not yet public, where I think we've got a level of awareness with executives, where they see the benefit and the future inevitability of this technology. And they are beginning to invest now to ready their systems and their processes and their market positioning. And some of them are waiting for a little bit more market clarity before they announce their plans. But all to say that there is a lot happening out there relative to realizing the benefit from this industry. I am actually very hopeful about how the crypto land and the entities that we see eventually begin to pervade larger corporate America, and we all see some of the benefits from it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, it's a fascinating inflection point that we're at right now. By the way, talking of breaking news, I've got a couple of news stories that I wanted to go through here as well, and also news in from my producer flagging to our viewers and guests that we will have. Ram Alewalia from Lumina join us later for an update on his view of what's happened at DCG Genesis. But first, a couple of news stories here that I wanted to talk about. We've been talking a lot about binance lately, but the crypto winter hasn't spared its biggest rival in the United States, at least Coinbase either. In an SEC filing, Coinbase says it will cut some 950 jobs by the end of next quarter. Media outlet Coindesk says that amounts to about 20% of all people working at the Coinbase exchange. Coindesk estimates more than 27,000 crypto jobs have been lost since April. Coinbase blames, quote, ongoing market conditions for the cut. It says that restructuring will cost it up to 163, excuse me, $163 million. Shares of Coinbase are trading 4% higher on the news. Bloomberg is also reporting that another FTX insider has been meeting with federal prosecutors sources say former FTX engineer chief Nishad Singh is seeking a cooperation deal. He reportedly attended a so called proffer session at the Southern District of New York's us attorney's office last week. At a proffer session, you know, these essentially you have people who are involved in some sort of activity. They're usually granted limited immunity from prosecution to reveal any wrongdoing. The details of that obviously can change. It doesn't necessarily mean that a cooperation deal will be cut. However, two other Sam Bankman freed associates have already cut such deals. Bankman freed has been charged with eight crimes, including wire fraud. Neither Singh nor the us attorney's office commented on the Bloomberg story. It's important to note, of course, that Sam Bankman Fried has been charged with crimes, but he has not yet been convicted. And of course, everyone is innocent until proven guilty, and that legal process has to run its course. You know, guys, I don't want you to comment on those stories specifically, but, you know, the reality is there is just this negative news flow in this space. And, and I'm curious, when people ask you about it, when there's this kind of, this drip, drip, drip of negative news, how do you guys think about it?"
+    },
+    {
+        "speaker": "E",
+        "text": "I would say, I mean, a lot of this, quite frankly, I think has got more to do with just a macroeconomic environment. I mean, certainly some of this backdrop doesn't help. And the price of crypto, I think, is a big factor. But the macroeconomic environment that you just see across sort of corporate America, I think has a very big effect on how speculative a lot of crypto firms are willing to be relative to how long they go on their talent. But to Seths Point, I think whenever firms are laying off, thats a great opportunity for other firms that are looking to go long in terms of hiring that talent."
+    },
+    {
+        "speaker": "C",
+        "text": "I also wanted to talk a little bit here about the idea of corporate controls. We mentioned FTX. One of the astonishing things to me about what's happened over at FTX and Sam Bankman Fried's public interviews. He did a conversation with the Wall Street Journal, a reporter there. They did it on video where Sam Bankman Fried essentially said, and this is my interpretation, my paraphrase basically said, hey, look, I didn't really understand where the wires were coming from, where the wires were going to, whether it was Alameda or FTX and how those balances were getting transferred across. Tell us a little bit about the way corporate controls are supposed to work and how people who aren't necessarily familiar with them should think about them."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I'll take that one."
+    },
+    {
+        "speaker": "E",
+        "text": "Go ahead."
+    },
+    {
+        "speaker": "B",
+        "text": "So I'm fairly confident that most of the viewers are not going to be super familiar with the COso framework and what that represents. But ultimately, the COso framework was designed to enable organizations to implement an effective control environment. And it covers everything from things like the whistleblower hotline all the way through logical access and security controls and change management and things like that. I think a lot of good corporate governance has to do with the tone at the top of the organization and executive leadership indicating that we take controls, adherence to laws and regulations very seriously, that they have processes in place to ensure compliance with those rules and regulations. And that culture really influences the rest of the organization. And so one of the things that we always kind of focus on is, you know, what are the executives saying in all hands meetings to enforce and reinforce, you know, good corporate governance. Now, the other thing I'd mention is that businesses, and especially crypto businesses, rely on systems and technology. And a lot of the more traditional ERP vendors don't necessarily quite yet have dedicated crypto modules. And so a lot of these organizations have had to create their own systems and technology in order to keep track of their own books and records. And that invites a lot of risk because, you know, these more traditional systems have controls built in that are systematically enforced, that prevent individuals and groups from doing things that they shouldn't be doing. And so that invites a lot of risk to organizations that have built all of their it environments from the ground up using bespoke technologies and things that they've started with a blank sheet of paper with."
+    },
+    {
+        "speaker": "C",
+        "text": "Let me read you guys something just to get a sort of general commentary, analysis, and a normative understanding of how the space is supposed to work, because I think this is interesting to me. This, again, is from the Sam Bankman fried conversation with Alexander Osipovich. And just to give a little bit of context here, the amounts that we're talking about in this quote that are being discussed here were earlier characterized by Sam Bankman Fried as, quote, north of $5 billion, so not a small amount of money. So Sam Bankman Fried says, quote, I mean, they were wired to Alameda. I wasn't running Alameda, but I can go back now and take a guess at where they were ultimately being spent or used or something. But dollars are fungible with each other. And so it's not like there's this one bill over here that you can trace through from start to finish. What you get is more just omnibus pots of assets of various forms. And so it's not well defined to say where did that dollar end up versus where did this dollar end up? Or if they both ended up in the same intermediary place. You know, I know that you guys can't comment on a specific case, but that gives a little bit of a framework for how at least Sam Bankman Fried was thinking about it. Is that really the way things work? Are dollars totally fungible? It's my understanding that in segregated environments, like a brokerage account, for example, it would not be something that you would hear a brokerage executive say, yeah, certainly."
+    },
+    {
+        "speaker": "E",
+        "text": "In the brokerage world, the segregation of client funds is a principle that is absolutely paramount. So there would never be any question that if a client had given funds, that those funds could be touched and used for any other purpose absent the client's permission to do so. So that's one principle that's unique to sort of broke dealer world. But just to kind of go back to Seth's point, I mean, COso is one of the most popular frameworks for internal control, but it basically outlines this entire end to end framework that says you need to have policies and procedures, you need to have done a risk assessment relative to the risks to your business, and then you need to have developed the internal controls that respond and implement those policies and procedures and mitigate the risks. And then you need to have a way in which you actually educate and enforce your employees about those rules and those controls. And then you need to have a monitoring process to make sure that it's all, in fact, working. So really there was, from what I can tell, very little of that, if any, at FTX. And that would all come down typically to, you know, there being segregation of responsibilities and monitoring in terms of whats happening to client funds, as well as there being someone on point to actually monitor that those things had, in fact happened. So this assertion that, oh, I didnt know what was happening or that was someone elses responsibility, it doesnt fly really in a corporation because as CEO, you are responsible for making sure that those controls are in place. So, yeah, a lot of the arguments, I think, that have been made are just not going to stand, I think, as a defense when it comes to running an organization."
+    },
+    {
+        "speaker": "C",
+        "text": "William, as just a general proposition in the world of accounting, this idea of omnibus pots of assets in various forms, is that the way that assets are thought of more generally, or are they thought of as specific, for example, cash positions that exist in particular accounts assigned to particular entities?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, let me take that, at least from a digital asset perspective, and then Tim, I don't know if you want to speak more on the fiat side, but from a digital asset perspective, some of the practical realities of blockchain technology necessitate that exchanges hold assets in an omnibus fashion. And a lot of that has to do with the fact that if you're trading hundreds of thousands of of bitcoin, for example, per day, it would be cost prohibitive to settle every single one of those trades to the public blockchain. And so what's happened with a lot of digital asset exchanges is that they hold a pool of assets, typically some in a hot wallet, some in a cold wallet that's segregated from the Internet, and then they monitor liquidity. You have a certain amount of withdrawals, you have a certain amount of deposits, and then you're doing runs to either a data center or an offline vault in order to fulfill liquidity requirements of your customers. And a lot of that has to do with ensuring that if something was to go wrong, meaning the exchange gets hacked or someone finds a way to override controls, that there is a small portion of the customer assets at risk, as opposed to the entire pool, then what mature and reputable organizations will do, typically, is they'll have what we call a reconciliation. And a reconciliation is they're basically taking, okay, what do I think my customer positions are according to my own internal books and records, and I'm going to reconcile that with the public blockchain. And to the extent that those numbers don't match, I'm going to need to investigate all of those differences and then ensure that if the blockchain says I don't have enough assets to support customer liabilities, well, that's an issue, and that needs to be addressed."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, please."
+    },
+    {
+        "speaker": "E",
+        "text": "I would just add to that. I mean, I think a lot of the problem has been in inadequate disclosures with clients as they're entering into these arrangements as to exactly what the arrangement is that they're entering into. In terms of how are these funds that I'm giving you going to be managed? And so it should really be crystal clear to the customer if this is a segregated account where you're going to be keeping those funds separate, or it should also be clear then if you're going to be using those funds for other purposes. And what we see in some of these earned products now with some assertions about, well, is that money still the customer's money, if you've given it into an earned program? Is another case in point where I think there was inadequate, probably customer consensus at the time of entering into the arrangement to say, well, how are we going to deal with these funds? And so it's problematic right from the get go if there's that inadequate, both I would say, and even if in some cases it's buried in the legal terms and conditions, if it's not really made clear to the customer, which what I call sort of the social contract, if there's distance between the social contract and the legal contract, you're opening yourself up for a tremendous risk as an organization. And I'd say some organizations do, unfortunately take advantage of that distance between the legal contract and the social contract to be able to get away with things that is probably a surprise to the customer, which is unfortunate at best, if not worse."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that's extremely well said, and it's obviously a significant challenge in the space. I wanted to touch on two other news stories here, particularly prove that it's not all gloom and doom here in the space. Two positive news stories. So yesterday, Hong Kong reiterated its pro crypto stance. According to Bloomberg, the city's financial secretary has invited crypto firms and startups to set up in Hong Kong. It wants to become a crypto hub at a time its local rival, Singapore, is backtracking and introducing stricter regulation. The secretary said firms are considering moving from Singapore to Hong Kong, although he didn't say precisely which ones. And another country has been trying to woo crypto investors is the UK. A Treasury official said that the UK is, quote, fully behind a stablecoin issued by a third party, not the government, to be used for wholesale settlements. Obviously, some interesting developments and positive developments in the space. How do you guys think about some of these legal, legislative and regulatory issues around the world?"
+    },
+    {
+        "speaker": "E",
+        "text": "Well, we see a lot of very positive movements, to your point, in other parts of the world relative to crypto. But I would just make the one point that I think pro crypto means having a responsible regulatory framework, that crypto industries can grow, and it does not mean the absence of a regulatory framework. Sometimes there's a gap there, and we've seen this wherever lower regulatory environments have tended to use that as the argument to attract crypto businesses. I think if we're going to see a long term growth of this industry, we're going to want to see a reasonable regulation and clarity to the rules being where crypto businesses are grown and matured."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing. Yeah, I see we now have Ram Alewalia on the call. Tim, Seth, stick around if you can. Ram is the CEO of Lumina Wealth Management. Welcome back to real vision crypto. Rom."
+    },
+    {
+        "speaker": "D",
+        "text": "Hi, Ash. Pleased to be here. Good to see you again, Ram."
+    },
+    {
+        "speaker": "C",
+        "text": "Good to see you as well. Obviously some additional news on DCG today for folks who are not following the space nearly as closely as you are, give us an overview of what's happened."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, it's a surprise and not a surprise, depending on how you look at the situation. Cameron issued a letter, and in the first sentence he accuses Barry of fraud and deceiving. Gemini earned 300,000 plus investors. He also makes an appeal to the board to oust Barry Silbert from the CEO role of DCG. There's a lot to unpack here."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. And we appreciate you joining us on this breaking news at the very last moment. So unpack a little bit, tell us the next layer and your interpretation."
+    },
+    {
+        "speaker": "D",
+        "text": "Sure. I have the letter open on the screen here. I don't know if you guys can post that. I'll identify a couple excerpts, and each paragraph really does have a nugget worth calling out. So, first off, again, the accusation in the very first sentence, they're very clear, they're very direct, they're not holding any punches, is that the founder, CEO and Barry Silver and other key personnel conspired to make false statements and misrepresentations to Gemini earn users, other lenders, and the public at large about the solvency of Genesis. So, again, that they're making an allegation of conspiracy for securities fraud. And they've also pointed out that the fundamental issue around Genesis was never around liquidity, it was around solvency. Now, obviously, we haven't heard Barry's perspective around this, but he needs to comment. There's been a number of questions over the last few months, and for people."
+    },
+    {
+        "speaker": "C",
+        "text": "Who don't have the financial background that you do, give us a quick thumbnail sketch of the difference between liquidity and solvency."
+    },
+    {
+        "speaker": "D",
+        "text": "Sure. So solvency refers to the net equity position. Think of solvency when you look at the balance sheet as your assets, less your liabilities. Liquidity is your ability to meet your near term customer obligations or debt obligations. So a business can be insolvent, but you can still be liquid so long as you don't have run on the bank. You can maintain your operations even though you're insolvent. In the context of Genesis, Genesis had been making representations to solvency, and of course, they made these representations also in their loan agreements, which Gemini earned, creditors and others relied upon in the continued extension of short term deposits to Genesis. Genesis then abruptly suspended withdrawals, citing a duration or liquidity mismatch. And what Cameron is claiming here is that, in fact, this is not a liquidity issue. This is a solvency issue. That's consistent with my own analysis on this going back to June. If you have a loss of over a billion dollars, the only way to remedy a loss, an impairment on your balance sheet, is to inject fresh equity capital or you convert debt to equity. Neither of those actions have happened. So there you have it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. I mean, to me, if I were trying to sum this up in one sentence, what makes this letter different from the last letter? Uh, it's really the directness of the claim."
+    },
+    {
+        "speaker": "D",
+        "text": "The directness. But there are more facts that are coming out here in this one as well. Cameron. Cameron has said, for example, that the ten year promissory note carries an interest rate of 1%, that there's been no interest rates that's been disclosed to the public. And the reason why this matters is we want to know, was this an arm's length transaction between Genesis and DCG? Why does that matter? Because outside parties that have claims on genesis and other creditors can contest the transaction if it's not arm's length."
+    },
+    {
+        "speaker": "C",
+        "text": "And for those who don't have sort of detailed financial backgrounds, let me sort of sum that up and you tell me if I get this wrong. The general idea here is that an arm's length transaction is one that's done at a neutral, market oriented rate. It's not done preferentially due to an internal relationship between the managers or owners of a company, and that this has real question about what the net present value of the. Of the loan was, meaning that it could not, in theory, have been a true substitute for the cash that was lined. Is that sort of the rough sketch?"
+    },
+    {
+        "speaker": "D",
+        "text": "That's right. It's a market term loan based on the creditworthiness, character capacity of the borrower. So not even the us government can borrow at 1% at a ten year term. When this loan promissory note was issued in 2032, the ten year note in June was between 3.5% to 4%. High yield bonds are between five to 8%. Those are for publicly traded firms. DCG is a private company where its liabilities appear to be, by my own analysis, in excess of its assets. It just experienced a significant impairment in the loss of three years capital. The funding rate on an arm's length transaction would at least be in the teams if DCG could even access or Genesis could even access a market for financing at all."
+    },
+    {
+        "speaker": "C",
+        "text": "Right? And that really is the very core of it. Hey, Ram, we really appreciate you coming on and joining us last minute like this and giving us the analysis. So there it is. Those are the new facts. There's the new details. Ram, thank you so much. I hope you can continue to keep coming back and doing this. Thanks again, Ram."
+    },
+    {
+        "speaker": "D",
+        "text": "Have a good one."
+    },
+    {
+        "speaker": "C",
+        "text": "Take care. By the way, I should add, Barry Silbert, DCG or Genesis haven't yet responded to these comments, and we really do appreciate Rahm, who's looking into this story, uh, more deeply than just about anyone, uh, doing this public commentary. So we very much appreciate that. Okay, to switch gears here. Uh, it's time for some viewer questions, but before that, for those of us watching on the real Vision website, thank you very much. If you haven't yet signed at, check it out at real vision.com forward slash Crypto. That's real vision.com forward slash Crypto. That's the best way to get early access to real vision crypto content. If you're watching on YouTube, please like and subscribe. Hit the notification notification bell. That way you'll never miss the smartest crypto analysis. I wanted to get to some questions now because there's a great one here for Seth and Tim. This one comes to us from Ralph H. On the real Vision website. And the question is, can you discuss the evolution of accounting standards for the valuation of crypto on company balance sheets, at least at one time, the guidance seemed to be that companies had to value crypto at historical costs and then mark them down if the value declined, but were unable to mark them up if that value increased. Now, it appears fair value accounting is allowed. Obviously, our viewers have some very detailed and sophisticated questions. Guys, any comments on the way accounting standards are applied to digital assets?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, so neither Seth or I are actually accounting experts. To the viewers question, I understand that the accounting rules are potentially changing to a fair value model from this intangible model where you just price it and then write down any losses, but don't write up any gains until you've actually disposed of the asset. So unfortunately, I'm going to have to defer the detail on the question just because I don't think Seth or I were able to get into the specifics of exactly when and how those rules are going to be changing."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I would encourage the viewer to google the SAB 121, which is the SEC staff account bulletin that kind of addresses some of the accounting considerations related to fair value accounting for digital assets."
+    },
+    {
+        "speaker": "E",
+        "text": "That does apply to public companies. It's SAB 121, which is the staff accounting bulletin that's issued by the SEC. But keep in mind that that's guidance for issuers that are public companies with the SEC on how they handle crypto relative to holding crypto on behalf of third parties and how that should be accounted for."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, obviously, lots of subtle nuances and distinctions in this space as it continues to evolve. And more guidance comes from different regulatory and compliance related agencies. Guys, this has been a terrific conversation. Fantastic. Really in depth, in detail here. Kind of meeting of two worlds, conversations. Really appreciate both of you joining us. I wanted to get some final thoughts, key takeaways from each of you. Seth, first to you. Final thoughts, key takeaways for our viewers."
+    },
+    {
+        "speaker": "B",
+        "text": "I would say that firms should understand and recognize that having a good control environment is going to be paramount to their success and the crypto ecosystem."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I would just add to that, Ash. I think there is a lot of lessons learned here that as we continue to work through crypto winter and a lot of this bad news, I think we ought to be reflecting on why did it happen and what are the types of controls and risk management principles that corporate entities really need to have. We've talked about internal controls within the corporation, but also this third party risk management. How are you managing the risk associated with your counterparties and what are sort of the leading practices there? Also really critical. That being said, I think Seth would agree with me. We are very hopeful and optimistic about this industry long term."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I agree with that completely. And sort of my key takeaways are precisely that point, which is I'm incredibly optimistic about this industry, about the future, for how digital assets, for how decentralized forms of governance are going to really have an impact on just about every aspect of our lives, be it commerce, be it social interactions, be it what it may. I think this really is an incredible opportunity. It's still just so early in the space and this technology, because the technology is such a catalyst and it allows us to do things much quicker and much more elegantly than ever before. We have all of these challenges happening. Essentially, you have immediately liquid vc capital being traded on projects that might not be out of kind of what would be alpha in a traditional sort of software development environment. They're not public companies. They don't have these controls. That's part of what makes it exciting. But it's also obviously what adds risks. We've seen here today and some of our stories, I think, will attest to. Guys, really amazing conversation again. Thanks for having for both of you coming on the show. Really a pleasure. Tim, Seth, really, thank you again for joining us."
+    },
+    {
+        "speaker": "E",
+        "text": "Thanks, Ash."
+    },
+    {
+        "speaker": "B",
+        "text": "Thanks for the opportunity with you."
+    },
+    {
+        "speaker": "C",
+        "text": "That's it for today's show. For those of you watching on YouTube, if you're not a real vision crypto subscriber yet, don't forget it's free. Head to real Vision.com forward Slash crypto. That's real Vision.com forward Slash crypto. Subscribe and hit the notification bell here on YouTube for good measure as well. That way you'll always be able to stay up to date on the latest crypto analysis. We'll be back again tomorrow with a metaverse theme. Sarah McKenna from Alien Worlds will join us live. See you at noon Eastern, 05:00 p.m. pacific time, live on real vision crypto daily briefing. See you tomorrow."
+    },
+    {
+        "speaker": "F",
+        "text": "Here in America, work is in trouble. We've offshored our manufacturing, sent away good jobs and lost so much ability to make things. American giant is pushing back against that tide. They make high quality clothing for a summer wardrobe you'll love, all made right here in the USA. Support America's workers and get 20% off your first order at american giant.com with code staple 20. That's 20% off your first order at american giant.com code staple 20."
+    }
+]

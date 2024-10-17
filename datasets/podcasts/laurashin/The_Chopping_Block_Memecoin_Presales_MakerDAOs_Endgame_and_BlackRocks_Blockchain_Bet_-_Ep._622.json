@@ -1,0 +1,674 @@
+[
+    {
+        "speaker": "A",
+        "text": "I don't think an exchange created slurp. I do think that the destruction of the contributions as a marketing strategy is plausible."
+    },
+    {
+        "speaker": "B",
+        "text": "You think that's plausible? You think $10 million. $10 million burn is a plausible marketing strategy?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. Not a dividend."
+    },
+    {
+        "speaker": "C",
+        "text": "It's a tale of Tukwan."
+    },
+    {
+        "speaker": "B",
+        "text": "Now your losses are on someone else's balance sheet."
+    },
+    {
+        "speaker": "D",
+        "text": "Generally speaking, air drops are kind of pointless anyways."
+    },
+    {
+        "speaker": "B",
+        "text": "I named trading firms who are very involved."
+    },
+    {
+        "speaker": "C",
+        "text": "Alec Eth is the ultimate console."
+    },
+    {
+        "speaker": "A",
+        "text": "Defi protocols are the antidote to this problem."
+    },
+    {
+        "speaker": "B",
+        "text": "Hello, everybody. Welcome to the chopping block. Every couple of weeks, let's get together and give the industry insider's perspective on the crypto topics of the day. So quick intros. First, we've got Tom, the Defi maven and master of memes."
+    },
+    {
+        "speaker": "D",
+        "text": "Hello, everyone."
+    },
+    {
+        "speaker": "B",
+        "text": "Next, we've got Robert, the crypto connoisseur and tsar of Superstate."
+    },
+    {
+        "speaker": "A",
+        "text": "Good morning."
+    },
+    {
+        "speaker": "B",
+        "text": "The news got Tarun the Giga brain and grand poo bah at Gauntlet."
+    },
+    {
+        "speaker": "C",
+        "text": "Yo, what's up?"
+    },
+    {
+        "speaker": "B",
+        "text": "And finally, I'm Haseeb, the head hype man at Dragonfly. So we are early stage investors in crypto, but I want to caveat that nothing we say here is investment advice, legal advice, or even life advice. Please see shoppingblock XYZ for more disclosures. So bull market in full force. Although we had a little bit of retracement today, it seems like bitcoin is back at 60. What is it, 64 or something? 63."
+    },
+    {
+        "speaker": "A",
+        "text": "62 and a half."
+    },
+    {
+        "speaker": "B",
+        "text": "62 and a half. Yeah. So it kind of pulled back a little bit. Very disappointing. But we kind of went all the way to 70k. Solana top 200. So a lot of really strong bull market vibes that were getting here, but things are kind of flailing around quite a bit, which is, I think, pretty standard for a market thats this wild. So did you guys hear the Laura Shinn interview with Kyle?"
+    },
+    {
+        "speaker": "A",
+        "text": "I have it bookmarked. Its one of these things im really, really, really excited for. I was actually, you know, when I first saw that it was announced, I was like, oh, no, Lara, what are you doing? Like, he's a terrible person. Like, why are you interviewing him? But the response that I've seen on Twitter and online has just been, like, really impressed with the quality of her interview and the fact that she asked hard hitting questions. And so, like, you know, when I get, you know, a free moment, like, I'm really looking forward to watching."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, well, if you guys haven't seen it, we can circle back when."
+    },
+    {
+        "speaker": "C",
+        "text": "You guys actually, I'm actually very afraid to listen to it. Just more. Cause, like. Cause, like, honestly, just. Even the clips just sound like listening to a psychopath. I don't know, it's, like, a little too disturbing. I feel like I'm, like, a person who hates watching horror movies, and, like, you know, this feels like you're, like, trying to go see, like, a horror movie. Like, I don't know. Somehow I have that feeling about it."
+    },
+    {
+        "speaker": "B",
+        "text": "It was pretty painful. Yeah. Funny enough, I listened to the Don Lemon interview, like, right after I listened to the Don Lemon interview of Elon Musk, right after I listened to the. The Kyle interview, which are both painful. Both painful listens, but in different ways. Anyway. All right, cool. So let's talk about Solana. So, Solana, as we have mentioned many times now, meme coin frenzy. And there's this new trend on Solana of, I guess, what are called presale tokens. So pre sale tokens, basically, they seem to be, like, basically icos, but whatever, they have a name. The name is pre sale tokens."
+    },
+    {
+        "speaker": "A",
+        "text": "They're 100% icos."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, they're icos without the contract."
+    },
+    {
+        "speaker": "B",
+        "text": "They're worse icos. Yeah, they're worse versions of icos, normally in an ICO. So you remember this is the 2017 vintage flavor of the week at that time. So, in a normal ICO, you send money to a contract, and the contract essentially ensures that you will receive some amount of tokens based on the total amount that's raised. And that was more or less sensible forms of fundraising that you can imagine that eventually were deemed to be not okay by the SEC. Okay, so now what is a pre sale token? A pre sale token is you decide that you're going to launch a meme coin, and you tell people, send money to my address, and then later I will send you some meme coins. But there's no enforceability of, like, I sent you the stuff, and you send me the stuff. It's kind of just like, bro, trust me, send me a shitload of money, and I will send you some amount of meme coins. And there's, like, multipliers often. So if you, like, retweet the original tweet, then they'll give you more tokens if you drop your address, you more time. So it's all very. It's all, I don't know. It requires not even running a smart contract at this point to launch a meme coin. You just need some Twitter game, essentially, to get off the ground."
+    },
+    {
+        "speaker": "D",
+        "text": "To be fair, Ethereum, the greatest iCo, was also a trust me, bro, send me some bitcoin and it will send you some ether or whatever the."
+    },
+    {
+        "speaker": "B",
+        "text": "But that was cross chain. That was cross chain. So I'm going to give them a break on that. I'm going to give them a break on that. But when you're intra chain, I feel like come do. This is why we invented these things, is to allow contracts without trust, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Ethereum was also before smart contracts existed. They raised the funds. Great point to create EVM and contracts in the first place so that nobody would ever have to do that again."
+    },
+    {
+        "speaker": "D",
+        "text": "There are a lot of things that devs and I think ISO participants should be doing that they're not doing. And I just feel like, you know, not having smart contracts is just one more step."
+    },
+    {
+        "speaker": "B",
+        "text": "You know, it's, it's just Vitalik died for our sins. He did the first trust me, bro ico, so that we don't have to. Uh, but here we are, full circle. Um, so there's over, there's been over $100 million sent to various meme coin pre sales over the weekend. Uh, the most notable of them is this meme coin called slurf. Slur. Slurf. All right, Robert, are you a, are you a proud slurp holder?"
+    },
+    {
+        "speaker": "A",
+        "text": "No, I haven't bought any of these. Uh, horrible."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, Robert, however, is the, the djen lore master of this podcast, as we've learned over time. So maybe we should get him to give us."
+    },
+    {
+        "speaker": "B",
+        "text": "Let's circle around, let's circle around the fire and let Uncle Robert tell us about the story of Slurf."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so Slurf originated like many of these pre sale tokens do, with everybody sending their money to a random stranger on Twitter who simply posts a Solana address and says, send me all your money. Trust me, bro. And clearly there was some preparation and foresight that went into this. Slurf had a website that had a ugly picture of a sloth, hence the name Slurf. It's like a mispronunciation of sloth. And it was a relatively well built website. It had a couple of cool, innovative features that probably took a couple hours to build. Like, there was a pie chart that showed the top contributions by Sender, things that went beyond what these average tweet fundraisers that people spin up with zero preparation in 30 seconds generally hold. Slurf raised about $10 million with a somewhat cartoonish website, and all appeared, well, a short time later. The Slurf developer, and I don't have his name on the top of my hand, but the Slurf developer announced something along the lines of, I'm terribly sorry, I messed up big. I took all the money from all of the pre sale contributions and I locked it in an LP contract and burned the entire LP contract and the entire supply. Now, normally what happens in these pre sales is the developer creates an LP token with the money and some tokens, and then gives the rest of the tokens to the pre sale contributors. In this case, he put all of the tokens into the buy by bin. And the entire supply of Slurf was locked in this LP token of which he didn't own anymore. And so there was a market. The entire supply of Slurf and the original financial contributions in Seoul were all locked in this liquidity pool, which was an amm. And he announced that he messed up. I think it was like he cursed or said something to that effect. And everybody made fun of him. A short time later, trading volume in Slurp exploded. It was rapidly listed on binance after hitting a $700 million market cap in a matter of hours. And at this point, there was a public analysis and investigation of the situation. A couple of really interesting details have come out. And I only know this because I listen to a Twitter space. I don't have deep personal, firsthand, this."
+    },
+    {
+        "speaker": "B",
+        "text": "Deep in this research on this. Don't you have a job?"
+    },
+    {
+        "speaker": "A",
+        "text": "I do, but gather around the campfire so we can discuss, like, the true story."
+    },
+    {
+        "speaker": "B",
+        "text": "Sorry, didn't mean to interrupt. Sorry."
+    },
+    {
+        "speaker": "C",
+        "text": "His job. His job is. Part of his job is being entertaining for this podcast. So I know what you're saying."
+    },
+    {
+        "speaker": "B",
+        "text": "That is true. All right, I apologize."
+    },
+    {
+        "speaker": "A",
+        "text": "Part of my job is being with it. Haseeb."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "So people came to the realization by doing some on chain analysis, that the slurth developer actually rugged his own pre sale immediately before vaporizing all the funds. So the slurf developer was one of the first contributors to this presale. He put 1000 Sol into the pre sale of his own money and used this to build confidence. And then immediately prior to the slurve token being deployed and the pre sale contributions being locked forever, he actually rescinded his own contribution and took his thousand soul back. And this led many people to the expectation that this was a very premeditated event, that in reality, this was marketing. It was something new and innovative to cut through the noise of all of these cookie cutter pre sales. And there's a widespread expectation, which I'm personally a believer in, that this was a non accidental set of circumstances."
+    },
+    {
+        "speaker": "B",
+        "text": "So there's a conspiracy theory about the meme coin."
+    },
+    {
+        "speaker": "A",
+        "text": "That's correct."
+    },
+    {
+        "speaker": "B",
+        "text": "It was $10 million. $10 million."
+    },
+    {
+        "speaker": "A",
+        "text": "$10 million."
+    },
+    {
+        "speaker": "C",
+        "text": "$10 million of sold."
+    },
+    {
+        "speaker": "A",
+        "text": "Correct."
+    },
+    {
+        "speaker": "C",
+        "text": "I believe Robert also overheard another conspiracy theory about the source of the."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, there's more. Oh, good. Oh, good. Let's hear it."
+    },
+    {
+        "speaker": "A",
+        "text": "I also overheard another conspiracy theory, and this one I put at a lower probability. But the other conspiracy theory was that a lot of these pre sale tokens are actually being created by offshore exchanges that are looking to build trading volume in new assets and build up excitement. This conspiracy theory comes from the fact that a lot of these tokens have been listed so quickly on these exchanges that its led some people to believe that theres a relationship between the exchanges, listing them almost instantaneously and the development of some of these assets. But I dont have any evidence there."
+    },
+    {
+        "speaker": "C",
+        "text": "It just feels a little bit like the 2020 2021 era, where some of the tokens were a little too close to exchange operators, as we learned in hindsight. And somehow the fact that these got listed really quickly and then also, I don't know if you saw, Justin sun said Huobi HTX is donating all the fees to cover the. There was just so much that was done by the centralized exchange world around it that it's hard to believe it was organic."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, look, I'm not gonna take a view either way. I mean, it would make sense in principle for a decentralized exchange to do it, but the fact that they got listed on binance immediately, like, finance, is not manufacturing meme coins like they have. They make so much money doing all their normal stuff."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, it might not have been them."
+    },
+    {
+        "speaker": "B",
+        "text": "I could see a long tail, lower."
+    },
+    {
+        "speaker": "C",
+        "text": "Down, lower down doing it, and then it just like, went up quickly, like. Yeah, but I mean, Defi protocol get listed quickly."
+    },
+    {
+        "speaker": "B",
+        "text": "Burning $10 million is nothing. That is not a good way to do anything. Well, that might, surely there's a better."
+    },
+    {
+        "speaker": "C",
+        "text": "That might have."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, yeah. Well, that's. But that was, that's the core conspiracy, isn't it?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, the corporation."
+    },
+    {
+        "speaker": "B",
+        "text": "What else is manufactured here?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I don't think an exchange created slurp. I do think that the destruction of the contributions as a marketing strategy is plausible."
+    },
+    {
+        "speaker": "B",
+        "text": "You think that's plausible? You think $10 million. $10 million burn is a plausible marketing strategy? Yes, I think $10 million is a great take for a meme coin. The other thing that I learned recently, I was chatting with somebody who was talking about meme coin fair launches, and there was some meme coin that was fair launched, and they were like, yeah, I'm part of this meme coin team and we did a fair launch and it's doing really well, but I'm going to donate my share and I'm like wait, I thought you just said it was a fair launch. How's their share? And they were like oh no, no, it's a fair launch. But like in meme coins, fair launches are different. Fair launch in a meme coin just means that there's no VC's. And I'm like how is that, what about that is fair that there's no VC's, therefore it's fair. And then I looked it up and there was an article in Coingecko because I don't know meme coins, I guess all cultures, so it doesn't live document anywhere. But there was an article written by Coingecko that talked about what fair launches were. And I was like to show this to them and be like yo, fuck, this is not a fair launch. And there was a sentence there that said for meme coins, fair launches often refer to that. There's no VC allocation, which is insane to me, just the bastardization of terminology. Fair launch used to mean literally like Satoshi style launch. Everybody gets on equal terms. There's no dev allocation and now it just means no VC's. Which I'm like, what VC's are even investing into meme coins? What does it even mean? No VC allocation? What VC's are doing these?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, that's definitely marketing to attract participants."
+    },
+    {
+        "speaker": "D",
+        "text": "To be fair. I think I heard rumor that there's a round going around for Degen, the forecaster meme coin that VC's are looking at."
+    },
+    {
+        "speaker": "C",
+        "text": "That wasn't a rumor that was announced on, yeah, that was."
+    },
+    {
+        "speaker": "D",
+        "text": "Oh, okay, nevermind. There you go."
+    },
+    {
+        "speaker": "C",
+        "text": "That was a real round."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, who's doing that round?"
+    },
+    {
+        "speaker": "A",
+        "text": "Not fair launch."
+    },
+    {
+        "speaker": "C",
+        "text": "I think it was one confirmation. I think it was one confirmation. Yes, it's on."
+    },
+    {
+        "speaker": "B",
+        "text": "It was one confirmation. Oh geez."
+    },
+    {
+        "speaker": "D",
+        "text": "Filthy DC coin. I want that."
+    },
+    {
+        "speaker": "B",
+        "text": "Did you get the pitch? Did you get the pitch? What is a meme coin pitch? I want to know."
+    },
+    {
+        "speaker": "C",
+        "text": "I don't think, I don't think. Meme coin founders talk to me. They launch before."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, meme coin founders, they pass us over. We're not cool enough for the meme coin teams."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, the pitch has got to be like we're going to make good vibes and somehow make the meme coin go up."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, you know, I think the pitch is that we are going to take funds and burn them as a publicity stunt. And that's how we're going to. That's how we're going to take off, and then we're going to take donations from exchanges. That would be, that would be pretty next level. Yeah. I feel like every time we talk about meme coins, I get dumber and dumber. Yeah, me too. I don't know. You're, like, spending your whole day on this stuff. Dude. What are you talking about?"
+    },
+    {
+        "speaker": "A",
+        "text": "I spent, like, nine minutes listening to the slur."
+    },
+    {
+        "speaker": "B",
+        "text": "You spent nine minutes? And you got all of that in nine minutes out of a Twitter space?"
+    },
+    {
+        "speaker": "A",
+        "text": "Of course, they covered the base really quickly."
+    },
+    {
+        "speaker": "B",
+        "text": "So the meme coin teams are very to the point, very efficient with their communication. Okay, well, damn. Well, we're at a point now where. So Solana is now at this point. I mean, it's a meme coin chain at this point. Like, almost all the activity on Solana is meme coin trading. The ETH and Solana volume are basically on par at this point. If you look at Dex volumes. So I'm just looking at DeFi llama right now. It actually looks like 24 hours volume. Solana is actually higher than Ethereum, although Ethereum is higher on seven day. But Solana has basically flipped ethereum for total volume."
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, also Solana flip bitcoin and transaction fees recently, which is very low."
+    },
+    {
+        "speaker": "B",
+        "text": "But still below Ethereum."
+    },
+    {
+        "speaker": "C",
+        "text": "Still below Ethereum. But it's like a big accomplishment given their level of fees."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So really dramatic. I guess the question is, how long do you guys think that this meme coin mania is going to persist? I mean, it's already at the point where Solana UX is very degraded, where I was talking to some folks who were telling me 50% of transactions are dropping now in Solana. That's how just crazy the activity on the chain is."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I mean, I saw people were obviously critiquing the UX right now of Solana, and Toli tweeted a video of him doing a transaction, and he was like, look, guys, it still works. And it took like, 40 seconds to confirm a transaction. And I was like, okay, well, it's definitely still works. But they just spun around for, like, a 42nd clip, and people are setting."
+    },
+    {
+        "speaker": "D",
+        "text": "Like, insane slippage limits. Like, I saw people talking to Twitter are like, oh, you gotta set your slippage, like 50% so your trade goes through, and it's just like, what? You know? Yeah, anything. I will fill my slurp at any price. That's."
+    },
+    {
+        "speaker": "B",
+        "text": "Who knows what the price the fair value of slurp is. You know, you never know I just."
+    },
+    {
+        "speaker": "C",
+        "text": "Really wish, I just really wish, I wish we could do, like, anonymous interviews of, like, people who try to ape into these pre sale things. I just want to hear their stories, you know, like, I really want, like, the real talk, like, the real housewives of. Of, like, imagine a reality tv show, like, you know, like, the Real Housewives tv show, but for, like, an on djens who send money into slot. I would watch. I would watch. At least it would be good as a podcast. Maybe there's nothing to see visually."
+    },
+    {
+        "speaker": "A",
+        "text": "I think. I think we're overthinking this. You know, I have a friend of mine's younger brother who's much younger than me, and this person was lamenting the fact that they didn't ape some pre sale Solana meme coin, and all of his friends did. And all of his friends made, like, half a million dollars off of, like, like, $1,000. And he felt like a fool because he didn't participate. Now all of his young peer friends are suddenly rich, and he's not. And I think the people that are participating in this are basically just yeeting their savings into these opportunities and hoping for the best. And because they've been working out. Book of Meme and all of these tokens that have come out of nowhere, I mean, slurp even people are feeling like it's a positive sum game when in the long run it's probably not, but in the short term, it feels like it."
+    },
+    {
+        "speaker": "D",
+        "text": "I think whenever a new meta gets discovered, the move is just exploited as much as possible, and it becomes tired. It's kind of like doing every NFT mint in early 2021, also probably a great idea. Doing every ICO in early 2017, also probably a great idea. And then when it becomes sort of played out and oversaturated and they have to exit. But the question is, just like, when is it a new meta versus a weird one off thing? When is it over? That's always kind of the trick, yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, well, let's transition away from the excitement of Solana to the boring old Ethereum, which just shipped the long vaunted upgrade of Ethereum 4844, also known as the den kun upgrade, which enabled blob storage. So we talked about a little bit last time on the show. I'm sure most of our listeners fell asleep. Well, it's live now, and l two fees are super low, so now most l two s, I believe the fees are average. Fees are something like one cent to send Eth and maybe a couple cents, a few cents to swap so fees are incredibly low now on l two s, they're sort of not quite Solana level of fractions of a fraction of a cent, but low enough to the point where these things are basically almost as good for most people as using some of the alt out ones that had significantly lower fees. So theres been basically almost all the major roll ups now have adopted blob storage. There was a lot of speculation that maybe Blob storage was going to be more expensive than originally anticipated and that, okay, in the very beginning, maybe the first couple of days or the first week, it was going to be relatively low. But its been about a week now. And it seems like the demand on Blob storage is actually fairly limited. And so we are seeing, at least for the moment, even with all these rollups now using Blob storage. And obviously there are some roll ups that are on Celestia and using external DA, but the ones that are using Blob storage or the Blob stream of Ethereum, the fees are maintained as being pretty low. So I guess first question to you guys. One, do you think that these fees for blob storage persist or do you think that people are going to find a way to do more stuff on blobs and drive up the fees?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I think eventually people are going to find ways to do more stuff with blobs. Like people will do things that take up a lot more storage."
+    },
+    {
+        "speaker": "C",
+        "text": "There are already blob inscriptions, by the way, that people have made, for instance."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I saw that."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, give it like three weeks. And there's some like Blob storage video game that just like uses like a ton of, you know, blob. But like, I think, like, those use cases are slower than like the l two s being like, oh, we can put more transactions in like hooray, like cost go down."
+    },
+    {
+        "speaker": "D",
+        "text": "And yeah, I think people kept citing this induced demand LA highway kind of meme where it's this sort of misconception. I think particularly in LA, that's like if you have a highway that's super congested, you add one new lane and people think that's going to fix traffic. But of course, eventually the market renormalizes and people see that and maybe there's reduced traffic for a period of time and then more people drive and then it kind of gets back to square one. And I think we'll see a little bit of that with blob storage. But it is a bit of a paradox because even though, yeah, there is induced demand and it will sort of maybe renormalize at some sort of market clearing price, which is probably similar to what it was before. You do have greater throughput. All else equal, it's better to have more storage for call data because you're just processing more transactions on these l two s than what we had before. Similarly, even if the highway is still the same as slow as it was before, if you have five lanes instead of two lanes, you're technically moving more cars, but you haven't solved traffic. Quote unquote."
+    },
+    {
+        "speaker": "B",
+        "text": "Tarun, as the resident game theory expert, what's your view here? Where are we going with blob storage costs?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think it's interesting. One interesting thing you saw was teams. L two teams that were posting. Some of them completely fell over on the upgrade like blast and needed to get a lot of fixes. Some of them optimized how much they were posting over time because they realized they were over posting like starkware. And then some people took a bit more time to see how the market developed before launching, like Arbitrum, which I think was probably the kind of most safe approach that we've seen. But I think what people have realized is l two teams have a lot of incentive to optimize how much they're writing. I also think it's a good time to have launch because of how much demand has been taken away via Solana. It just means that a lot of the very dumb spam transaction type of stuff wasn't there during launch. There really weren't. Imagine if Slur launched at the same time as 4844. I guarantee you we would have seen some sort of very dumb thing like, hey, we're using blob storage. Send money to this wallet and it'll buy blobs. And those blobs will be somehow a future token. Kind of like inscriptions. Like, what I mean is, like, people would basically make some inscription like thing."
+    },
+    {
+        "speaker": "B",
+        "text": "And like, try to sell BRC twenties on Blob street."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, exact, exactly. But I think because Solana seems to own that market has completely. At this point, you could argue, how."
+    },
+    {
+        "speaker": "B",
+        "text": "Would you describe, how would you reify that market? Is that like, stupid things?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think the meme coin market for new meme coins that are either tokens or promises of future tokens. I think if you look at the l two s, they've all been trying to have these meme coin economies, whether it's avax, arbitrum, or I'm trying to think who else actually has been really based a little bit. And you look at the volumes, you look at the usage, it's not even coming close to where Solana is. Solana is clearly. Remember when there was Pepe mania, that type of user seems to just completely have gone. I feel like with was the moment dog with hat that all those users were like, actually we're going to move and it doesn't seem like they're coming back. And I think that's actually good for Ethereum for launching this because you don't have that type of crazy spam and you can have this thing grow a little more slowly. But the long term outlook on it."
+    },
+    {
+        "speaker": "B",
+        "text": "I was going to say, I mean, that's kind of true. But if you look at the biggest meme coins, I mean, Shib is right behind dogecoin. Dogecoin is own chain. Shiba inu is on Ethereum. What's next? I think Pepe is next."
+    },
+    {
+        "speaker": "C",
+        "text": "Let me see here with is right below Pepe, though. Like they were very, like in the peak last few weeks. They're very close. My point though, if you look at the long tail, there's like none that, like the ethereum, the long tail is all."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, yeah. Floki is on Ethereum. Where's Floki?"
+    },
+    {
+        "speaker": "D",
+        "text": "I believe so. But these are all the boomer dog coins. You know, this is."
+    },
+    {
+        "speaker": "B",
+        "text": "They are the biggest, right? The only one in the."
+    },
+    {
+        "speaker": "C",
+        "text": "No, they're the biggest, but they don't like the transaction. The on chain transaction volume generated by them is not as high right now. Right. Like they have a ton of centralized trading. They have. But like, I think in aggregate."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "And, and I think for the new issuances, it's just, I just don't feel like you're seeing like, even on base, right, there are like a ton of these random small meme coins. Launched a ton of Brian Armstrong misspelling meme coins, but none of them really got anywhere near the kind of bowdoin or tremp type of things in terms of the frenzy in terms of usage. So I would say ethereum's probably lost this market for a while. Maybe it'll come back, maybe not. I'm not sure it's necessarily the market you always want to own, but yeah, that's interesting."
+    },
+    {
+        "speaker": "B",
+        "text": "I suppose the difference is that although Ethereum does host more market cap of meme coins, it's mostly traded on centralized exchanges. It's not settled on chain, whereas on Solana, the number one place for price discovery of these things and trading is actually on Solana itself. Do you notice that actually, is that literally true that there's more of this stuff traded on chain for like whiff that there's more trade on chain than on binance."
+    },
+    {
+        "speaker": "A",
+        "text": "It feels true. I bet we could quick check these numbers in like 4 seconds."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, let's check these numbers in 4 seconds. I'm gonna look at Wifi, I'm gonna look at Slurf, I'm gonna pull up slurf."
+    },
+    {
+        "speaker": "C",
+        "text": "Slurp has got to be on surf. Was weird though, because like I said, the listing was like, number one venue is radium."
+    },
+    {
+        "speaker": "B",
+        "text": "Number one venue is radium for slurf."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, wif is only graduate."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "You graduate finance."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, it does happen. But I think that the launching aspect, the like ICO like aspect, it does feel like Solana's won that pretty."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, so look, so, okay, so for whiff, radium does 29 million of volume a day. Binance does 320 million of volume a day. So I think for like once an asset gets out of that very initial critical period, then it does graduate to centralized exchanges, I think pretty much regardless of it's."
+    },
+    {
+        "speaker": "C",
+        "text": "I'm just saying if you look at."
+    },
+    {
+        "speaker": "B",
+        "text": "The, it's like the stuff that was on what was that website you showed last time that was like pumped out fun doom pump fun. Yeah, I feel like the pump fun stuff. Like everything that's sort of in the meme coin carousel of like the first 2nd day of, you know, birth. That's what is."
+    },
+    {
+        "speaker": "C",
+        "text": "I'm just saying that like in 2021 when Shib happened to that was on Ethereum, it feels like that entire market has shifted."
+    },
+    {
+        "speaker": "B",
+        "text": "No, it is totally. I mean the new generation of coins, 100% has shifted. And I think the on chain activity for meme coins has definitely shifted to Solana."
+    },
+    {
+        "speaker": "A",
+        "text": "Its absolutely shifted to Solana."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Okay. All right, lets move on to Makerdao. So again, were sort of moving from very exciting to moderately boring and now to extremely boring. So let's talk about Makerdao. So Makerdao, you know it, you love it. It's the biggest decentralized stablecoin been around forever. Caveat. We're investors in Maker MKR tokens. It's a very long time. So Makerdao has announced that they are going into the end game. And the end game has now been defined much more clearly than previously. I think previously it was kind of a word salad of various things that Darun has been saying that they're going to do, but now it's going to a lot more definition. So what's going to happen? Supposedly in summer 2024, there's going to be basically rebrandings of a new stable token, which will be replacing Dai, you can transfer from Dai into the new stable token. With the new stable token, you'll be able to farm the new governance token and the new governance token. All these names are obviously TBD. Uh, this new governance token you can convert from MKR to the new governance token at 24,001 lower price, more retail friendly. I see where they're going with this. Um, so there's going to be farming, defi mechanics, uh, you know, bazoom, you know, it's, it's, it's very, very much uh, almost like defi 2.0 type mechanics that they're kind of throwing into makerdao. It feels like, uh, second, more subdaos. Uh, there's gonna be a new chain. That new chain is gonna host, uh, new stuff. I don't know, I didn't, honestly, I don't follow all the stuff here. I should have spent more time reading it. Uh, but there's gonna be farming, there's gonna be a new chain, there's gonna be tokens. Everyone is excited. Maker prices up. Uh, I don't know. Reflections on, I, reflections on where Makerdao is going with this new end game."
+    },
+    {
+        "speaker": "D",
+        "text": "I feel like Ruhn was possessed by the ghost of Andre or Sifu. It's kind of like you said, it feels very non makery and kind of very, oh, these are all the things that kind of more Djenny Defi founders would do, like the rebranding, the unit cost bias reduction, the new chain, the farming, like. In some ways it's very exciting because maker has been so boring for so long. But it worries me a little bit because I think part of the boringness is also why Maker has this brand. And I mean, frankly, Dai is still maybe the only decentralized stablecoin that people actually use as a, quote, currency. They actually use it for payments. And I think that's in large part attributable because it is so stable. And that was part of what people got upset about last week when they were jacking up the rates, which was very out of character for them."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I mean, I think the goal, I were to phrase it really simply, is maker wants to transform from being die and the system around it to being a brand that has every type of project all in one place. And I've seen a number of attempts at this over the years where there's projects like, oh, we're going to do everything, we're going to have lending and amms and a chain and this and that. And it's like, and they, like, go through, like, the list and they check every single one off, you know, and it's like, we're gonna do it all. And, like, my biggest concern is that, like, maker turns into, like, a sushi and, you know, completely dilutes what originally made maker special. Now, that being said, obviously everyone's really excited about this because it's like, oh, we go from having one project to having seven projects. Hooray."
+    },
+    {
+        "speaker": "B",
+        "text": "Hmm. Yeah, it does feel like there's definitely an embrace of token mechanics and crypto ification, let's say, of maker. Maker so far has been pretty staid. This august protocol that sits in the wings and never really enters into the popular attention unless it jacks up rates or something. That is what we think of as a scandalous in maker, is that, wow, the rates went up too fast. But, yeah, this seems like Maker very much embracing a new generation of, hey, we're back in a bull market. It's time to start mixing things up and being. It's kind of like when, I don't know, when three M hires a social media guy and they start being subtweeting people, like, dropping in the comments and roasting other brands. I kind of feel like that's kind of a little bit what Maker wants to be and, like, look, maybe it's a good idea. I'm not totally sure. I don't have a super strong opinion for this stuff that doesn't seem to really affect the underlying mechanics of maker itself."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it is a little bit like that. How do you do, fellow kids type meme, where Maker is very quickly reinventing itself to go from being a very mature project to being a new project."
+    },
+    {
+        "speaker": "B",
+        "text": "Do you think its net good or net bad?"
+    },
+    {
+        "speaker": "A",
+        "text": "My hunch? Net bad. Simply because I think if Maker were to put all of its efforts and triple down on the stablecoin dai and the systems around it, I think they have an opportunity to grow. I think they have an opportunity to build something really more special than they already have, and it's already special. And so, you know, I just don't necessarily immediately appreciate the sort of, like, distraction of, like, do eight things when you have one thing that's, like, almost working and they can triple down on that one thing that's, like, almost at, like, real scale."
+    },
+    {
+        "speaker": "B",
+        "text": "Tom, what's your take? Not good, net bad."
+    },
+    {
+        "speaker": "D",
+        "text": "I think a mix of both. I think the rebrand, I mean, we'll see what they come out with, and hopefully it's not bad or cringey, but at face value, I think it seems like a good idea. I actually like what maker has been doing with the product spin outs. So like Oasis, or formerly known as Oasis, is now like summer, which is now actually one of the top defi apps. And same thing, same thing with Spark. It reminds me a little bit of the gnosis model done right of you incubate these products internally and then when they're mature enough, they have to swim on their own, they have to go find their own funding, they have to go find their own sources of revenue. I think having too much of that stuff in house coddles the projects and they don't feel as much pressure to find PMF. There can be weird conflicting incentives of maybe this is not the ideal solution for a defi aggregator or for a lending market, but it's really good for makers. We're going to do it anyway, and instead having these things have some sort of stake in it, but have it be external, I think ultimately is going to be more beneficial for these things than trying to keep them in house."
+    },
+    {
+        "speaker": "B",
+        "text": "Tarun, what's your take? Make your neck good?"
+    },
+    {
+        "speaker": "C",
+        "text": "I don't have too strong a take because I haven't actually spent enough time reading the forum posts because sometimes they're very long and I feel like I wish I really have been meaning to actually go just fine tune a simple model on some dao forum posts so I can just ask stuff for some reason instead of reading through the detritus that is the minds of people in crypto within the minds of people in crypto. And so I find some of the diatribes very hard to distill to simple things oftentimes because they go on all these kind of crazy tangents and they're really saying were taking a path from a to b, but instead it takes 10,000 words to say it. And so ive been a little leery for that reason. But it does seem like theyre sticking a lot of things into this. I think the spin offs, to Toms point, are probably the best version of this. They have so many of them now, actually like everything from Chronicle, the oracle, Ajna Spark, etcetera. But I find the kind of crazier side of things too hard to understand, and I try to stay away from that. But I do think there is a version of this world where the spin offs are a really good idea, and arguably the subdao concept is meant to make more of these and to make them efficient. Whether that can continue remains to be seen. But yeah, I feel like I agree with Tom. That's the part that's the shining light in all of this."
+    },
+    {
+        "speaker": "D",
+        "text": "Meager has already done the subdao transition. I think already that's been pretty beneficial. Instead of just getting this lump sum payment and telling some dao, hey, go use this for productive purposes. But some dots have to apply for funding individually, and some of them get denied. They say, no, this is too much budget, or, we don't really think you've been effective, you're fired, effectively. It feels like you're finally applying some market pressure to this part of the market."
+    },
+    {
+        "speaker": "B",
+        "text": "I will say one of the upsides to this shakeup is, and I know this is something that Roon has personally been very oriented around, is there have been a lot of bureaucrats in Makerdao. Makerdao is probably the single most bureaucratic.org in crypto, I would say. And a lot of those bureaucrats are just kind of like locked into this web of just all the stuff going on within Makerdao. And so there is something just kind of healthy about shaking things up and just loosening the cobwebs around everything. And yeah, maybe it could be a bit cringe, maybe some of it's kind of a no op or it just is a kind of temporary excitement. And then when you actually see what gets delivered, it's like, well, this is basically just still maker doubt, just with some fancier gloss over it. But I think some of that can be useful institutionally. We'll see how it actually plays out. But right now, with the token price responding, maybe he's not going to get that much pushback on it, and it'll actually be pretty easy to get this through. But you can imagine if the market was responding in a very different way that it actually would be more of a struggle to get some of these things implemented. But right now it's bull market. If token go up, people will mostly get out of the way, is my sense. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "When one token turns into seven tokens, people like that."
+    },
+    {
+        "speaker": "B",
+        "text": "Always bullish. Always bullish. Yeah. Cool. Speaking of new tokens, there was a story reported, actually, I think, that Robert broke, which is that BlackRock is launching an on chain fund. So still not a lot of details about what this on chain fund is. And I've heard around the way, again, this is all kind of shrouded in mystery at the moment, but I've heard from around the way that Blackrock is launching some kind of basically tokenized money market fund. And the idea is that, okay, you've got all these schlubs on chain who are holding stable coins. They're not getting any yield. They should hold a tokenized money market instead. And then they would get yield but still be dollar pegged, effectively. Make sure we don't break the buck on the money market. And we're blackrock, so we should be able to beat all these losers and scale much bigger. So that's what I've heard is what they're doing. But I don't have any first hand knowledge. This is all kind of around the grapevine. So, first of all, anybody else have any finer grained detail?"
+    },
+    {
+        "speaker": "D",
+        "text": "Well, I have a question for Robert. Do you just get up every morning and read the new reg d filings or how do you find this stuff?"
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, don't you."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, he's reading the reg d filings while he's listening to his Twitter spaces about meme coins. Correct."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I, like, multitask. Twelve streams of media at all times."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "No, I mean, it's interesting because I feel like the Reggie filings, there's so much alpha on just who's doing what, when and wherever. Yeah, of course."
+    },
+    {
+        "speaker": "B",
+        "text": "Do you actually. Do you actually read regularly?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I mean, a lot of journal. A lot of journalists read the Reg d filings, so, like, you know, I'm not a journalist, but a lot of journalists read these on a daily basis because, like, Robert, how do you have."
+    },
+    {
+        "speaker": "B",
+        "text": "Time to, like, do your job? Don't you, like, run multiple companies?"
+    },
+    {
+        "speaker": "C",
+        "text": "This is actually part of it. This is how you get diligence on other reg d filings vehicles. Yeah, of course. What are you talking about? That's like the ultimate way. That's like the old school, like, hedge fund way."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes. That is. That is the very old, very, very old school. Like, 1920 that just give you alerts."
+    },
+    {
+        "speaker": "C",
+        "text": "For all this stuff, too. So it's not. You don't really have to, like, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Maybe there's services and you just put in some keywords and, like, you know, who knows?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I've heard of a few of them. Yeah. Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "But."
+    },
+    {
+        "speaker": "B",
+        "text": "Wow. Hold on. Okay. Actually, I'm fascinated. I want to go a little bit deeper before you finish the story where. Okay. You wake up in the morning, you kiss your. Kiss your wife, you brew your cup of coffee. Do you just, like, literally open up, Edgar, and just like."
+    },
+    {
+        "speaker": "A",
+        "text": "No, I don't. No, I have, like, some Google. Like, this is not like, okay, okay."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, all right, all right. I wasn't sure how much of this is real because Tom seemed very taken aback, and I was like, oh, fuck. Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "It's not my wake up routine."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay."
+    },
+    {
+        "speaker": "A",
+        "text": "But the. The Reggie filing was interesting because there has been a lot of chatter in the market that there was going to be a fund that Blackrock is doing in partnership with securitize. And it's actually really interesting that the reg d dropped because it's the first definitive proof to a lot of the rumors that there's something happening. They're gearing up. It's exciting. And I'm personally really excited by this. I think seeing huge incumbents, getting excited about new product launches on chain, seeing them get excited about tokenization, seeing them get excited about partnerships, seeing them try new things and experimenting. This is great. This is great for the whole industry. This is great for everyone who's a listener. It's awesome. I'm really excited to see what the product looks like when it goes live. I saw there were some people talking about, we found the token contract and we found the wallet where $100 million Washington pre funded to it. I'm not sure which of those is accurate, but when the details come out, I think it's going to be really exciting to see what Blackrock is doing on chain because it's a great milestone. It's huge. It's watching someone that's always been a little bit of a slow mover embracing the crypto native life. And I think it's going to be inspiring to a lot of other institutions. I think it's going to be inspiring to regulators. I think it's going to be inspiring to investors. And, you know, I think people don't appreciate how cool it is."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm just waiting for Blackrock to tweet. Yo, send USDC to this address. Two x if you. Two x if you retweet."
+    },
+    {
+        "speaker": "C",
+        "text": "Blackrock soul."
+    },
+    {
+        "speaker": "B",
+        "text": "Blackrock soul. Okay, it's time. It's time. I think we're ready. And then Blackrock is like, sorry, guys, we lost the keys. We ended up burning all your USDC."
+    },
+    {
+        "speaker": "A",
+        "text": "One day. One day. They'll become DJ's in like 30 years."
+    },
+    {
+        "speaker": "B",
+        "text": "Mm hmm. I can't believe it. Cool. Well, I think we're. Unfortunately, we're up on time. We got a wrap early today, but very interesting. Hopefully by next week we'll have more clarity on this Blackrock thing and see what it actually is and what's happening in the wild. Until then. Hope your transaction fees go down and your Solana meme coins go up very heavily and we'll see you all next week."
+    }
+]

@@ -1,0 +1,442 @@
+[
+    {
+        "speaker": "A",
+        "text": "Bankless nation. Super excited to introduce you to another state of the nation, David. I smell the bull market. That's what I smell."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "We're gonna be talking about some bull market narratives today with Vance from framework. What's on the agenda?"
+    },
+    {
+        "speaker": "C",
+        "text": "We're just gonna talk about smell. There's a reason why Ryan just said he smells a bear market. Uh, do we have the fang of Defi? Fang. Facebook, Apple, Netflix, Google. Oh, God. What's the other one? Uh, I don't know, because I don't own equities anymore. But fang, it's like the, uh, all of the. The staples of tradfi, the staples of Silicon Valley. Vance thinks that there might be the fang, uh, afoot in Defi, uh, the tokens that are going to brew the staples of a Defi portfolio. Smell would be the acronym. We're going to get into what is comprised in this smell. But also, there's some other bull market narratives that we want to touch on. Friends is sweeping through crypto. Twitter is the. The app of the moment. Is that a sustainable narrative or is that a fad? And then there's some other narratives that we're going to talk about as well, such as ETF's and gaming and staking and on chain casinos. And so this is going to be."
+    },
+    {
+        "speaker": "A",
+        "text": "The topic of the show on chain casinos. Guys, before we begin, we want to give you a message from our friends and sponsors over it. David, as we get in this episode with. With Vance, I know he's one of our. One of our favorite market commentaries, has a really sharp sense of when the cycles begin, when they end. And so I really want to get a sense of what he's looking at right now, what some of the narratives he's looking at are. I know we've talked in the roll up a little bit about you and preparing your bull market. I think what you call it, I think this, for me, will be an episode to start exploring kind of what the bull market narratives might be. And that is an important component, I would imagine, of the bull market battle station. What do you think listeners should know going to this episode and then coming out of it?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I think that's right. I think generally, the sentiment on crypto is that there is a bull market afoot. It's not here yet, but we're getting whiffs of it in the air. We're smelling it."
+    },
+    {
+        "speaker": "A",
+        "text": "That was you that time."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Right. And so, like. But there's a bunch of narratives as to what it could be. We're starting to get a direction, but we still haven't found the source, the source of the smell, the source of the bull market. And so I think this is kind of the state of crypto. Twitter is like there's all these different narratives. Some of them multiple narratives, might also might be correct, some of them might be wrong. And since we are preparing ourselves for this potential bull market, we need to try and figure out where the source of all the smell is. And so that is what we're doing here today on the show."
+    },
+    {
+        "speaker": "A",
+        "text": "We're just going to be smelling our way through this episode. Guys, we'll be right back in just a moment. But before we do, we want to thank the sponsors who made this episode."
+    },
+    {
+        "speaker": "C",
+        "text": "If possible, advance and framework rode some legendary assets out of the grave of the 2018 to 2020 bear markets to their all time highs in 2020 and beyond. Link Aave, Synthetix. These tokens might ring a bell. These tokens were generally massive contrarian bets after the IcO mania of 2017 turned everyone off of tokens. Today, we're bringing Vance back onto the show because of smell. Smell. Not an odor, but instead five different assets. The fang of crypto is the question we are asking. We're going to run through each one of these, talk about the merits of each, and also some other bull market narratives that is running around the current crypto meta advance. Welcome back to bankless."
+    },
+    {
+        "speaker": "B",
+        "text": "Thanks for having me. Good to be back. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "So let's start with the current narrative that's running around, which is a social fi, because we got to get this one out of the way before we get into smell social fi. Friend tech is now sweeping through crypto, starting to poke through to mainstream, maybe overall, like, even if I don't think anyone really thinks that friend specifically is the app that's going to take crypto mainstream. Maybe you disagree, but overall, what are your learning lessons, your big takeaways from this whole friend phenomenon that's going on?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I mean, first of all, you never know. These things are, like, the stuff that looks like a toy oftentimes ends up being really powerful. And I was on Instagram this morning, and this influencer that I follow was, like, all about their friend tech shares. And this is someone who hasn't been involved, really, in crypto since the last bull run."
+    },
+    {
+        "speaker": "A",
+        "text": "And let's just pause, because what that entails is they actually have to do some fairly sophisticated crypto native stuff to get their ETH assets on the other side. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "They have to like their shares, I guess. Keys are trading now, so they've done it oh wow. Yep. And I actually, you know, we invested in bit cloud and it, I dont think it worked. I think its okay to say that, but I thought it was an interesting idea in terms of how do you unify the creator economy with a lot of the fungible token action that we saw on chain. I dont think the question is, and I said this before, its not can you build it? Can you find a legal framework that you can fit it into where you dont get taken to the cleaners by regulators immediately? And I don't think changing shares to."
+    },
+    {
+        "speaker": "C",
+        "text": "Keys is probably enough for context for the bank listeners. Friends tech used to call them shares because you're buying shares in your friends. This last weekend they rebranded to keys."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh my God, I totally missed that."
+    },
+    {
+        "speaker": "C",
+        "text": "I can only imagine why they're called keys, no longer called shares."
+    },
+    {
+        "speaker": "B",
+        "text": "But I really am a fan of the dev team racer and I forget the other womans name, but I think theyre in crypto for the right reasons. I like them a lot. And if people remember, they built Steelcam, which was a consumer app that was around, I think, earlier this year. So maybe they werent expecting this to catch fire like it has, but it certainly did. And I think now the question is, how do you ex post facto kind of stick, handle your way around the obstacles that exist so you can make this interesting? But I think there's a path like this influencer on Instagram that I saw they were telling their friends, and one thing leads to another."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't know what's the concern here from a regulatory. Am I just saying the obvious by saying that Gary Gensler would maybe think of all of these humans trading shares and everything's a security? It's hard for me to say that because Gary just seems to think everything's a security. So of course, I mean, it's not even clear to me whether he knows of Pokemon cards, if they're instantiated as an ERC 20, are a security or not? Is this the main concern that this is going to run afoul of sort of SEC as a regulatory body? Is that what you're inferring here, Vance?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think that's the question. I'm not a lawyer, so I don't know the answer. But there used to be a, a market for the secondary or to trade shares and athletes, so like you get like a percentage of their contract, and that was like highly regulated and existed on a traditional exchange. And so there's like precedent here. But I'm just, they obviously think that they have a workable framework. I think people on Twitter, you know, there's opposing views. I think the question is who's right? And, you know, doesn't matter."
+    },
+    {
+        "speaker": "C",
+        "text": "I think this conversation as to whether or not these things are like, should be considered and categorized as financial assets that need to be regulated. Its part and parcel with this other half of crypto Twitter thats kind of taking a more resentment stance towards friends, saying, like, great, the breakout consumer application that we have is a Ponzi game that allows us to financialize our friends and speculate on them. And great. This is clearly our breakout apps are all Ponzis, Ponchi, Ponzi games, not Ponzi schemes. And so, like, there's this growing resentment out of, you know, a decent portion of the crypto landscape is that we can't actually make any application that's not about speculation and financialization and something that kind of resembles gambling. Gambling, yeah. What's your take about that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Speculation and financialization are okay. They're not evil in and of themselves. I think if you think about the definition of a Ponzi scheme, it's literally something that is financially unsustainable by design. These are not Ponzi schemes. These are just tokenizing shares of a person. And if they go up, down, or sideways, there's no perpetual motion machine that someone's trying to create. And if we could live in a. If we lived on a small island together where we could set the rules, I think this would be something that would be okay with me. I think it's something that creators want. Their alternatives are selling coffee scrubs or sugar bear hair vitamins for people to regrow their hair. The options for creators to monetize themselves are actually really shitty, honestly. And I think if you got a way for people to incentivize a community and also pay them fairly for what they've contributed, or a way to transact with the creator directly, they would want that. And so I don't think it's morally wrong or the speculation is inherently bad. I think we're bootstrapping an economy and painting everything with a wide brush is one way to just delegitimize the crypto industry. And I see that people are trying to do that, and I think it's okay to push back because this is not that, frankly."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, maybe asking kind of another case. So I tweeted this out last night, and I said, you know, is friends tech good for crypto or bad for crypto? And good for crypto. It was, it was 50, it was."
+    },
+    {
+        "speaker": "C",
+        "text": "In my not divided."
+    },
+    {
+        "speaker": "B",
+        "text": "My."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, you are not divided. But in my Twitter followers, which obviously skew heavily, crypto is 55 to 45. Wow. And 55. Yes. So by some margin, but not a lot. And 45%. No. And I think this comes from the back vance of, like, 2022, which felt like there are a lot of short term type games. We don't even have to instantiate the p word for that, the ponzi word for that. Just short term games being played. So people look at this and they see a bunch of crypto elites getting rich again. Look at them. Influencers making all of this money. Maybe there's some resentment there. Maybe there's, like a sense of. And I got left behind. I think more broadly, it's to some people in crypto, it feels like straying from the mission. Like, I thought you were here to revolutionize finance. I thought you were here to bank the unbanked. I thought this was about, like, a global permissionless money system. Now here you are stuck, you know, on kind of like, this. This tourist trap, and you're back to your, like, jpeg selling shenanigans again, of speculating on, like, shares. And so even within the settlers who are still here, there's this sense that I don't like where this is going. This is not where I sign up for it. You could tell them. You could say, well, then just ignore it. Just opt out. You don't have to do it, whatever. But I think there's some worry that, I guess, the social layer of crypto gets corrupted by these short term games and this kind of shilling, or at least in. Or maybe we get off mission, off focus. What do you think about this?"
+    },
+    {
+        "speaker": "B",
+        "text": "I generally think people like to rewrite history in crypto and what provokes the immune response from crypto Twitter to immediately seize on this thing and throw it out the window? I can't say exactly what it is, but I think it has something to do with. We are now going into a territory that has historically not been cryptos domain. We're trying to onboard influencers and entertainers and people who are not just the crypto Twitter set onto this. And I think that's a noble mission, and it's okay to be upset as well. But I do think ultimately expanding the pie is good for everyone. This is also one of ten concurrent narratives that we have today. And, like, is it my favorite? It's not. You know, it's. I don't think it's, like, the most interesting. I don't think it's going to scale the most. Um. But I think it's really awesome that entrepreneurs are taking shots on things that are, you know, difficult to understand, complex to build, and difficult to navigate from the regulatory perspective. So I dont know. Im never going to really take a poor view of an entrepreneur for pushing the envelope. I just think people need to, if they dont like it, just focus on something else. Life is too short to be upset."
+    },
+    {
+        "speaker": "A",
+        "text": "I think one of the most fascinating things about this will be any regulatory reaction to this because this will be like an acid test. If the US bans this or does something quite drastic, won't it just move offshore where these types of laws, these securities laws don't exist? I don't know. I think that's going to force the question even more of what is an actual security and what's not. And if you tokenize something, at what point does it become a security? I'm actually bullish about this as an acid test for answering some of those questions. Does the SEC really want to be in the business of like painstakingly regulating all of these influencer tokens? Is that what they want to be spending their time doing? Are they equipped for that? I like it from that perspective too."
+    },
+    {
+        "speaker": "C",
+        "text": "To be clear, only the crypto industry is adding to the conversation. The regulatory angle about friend shares anything that's true."
+    },
+    {
+        "speaker": "A",
+        "text": "You wait for the video though David."
+    },
+    {
+        "speaker": "B",
+        "text": "It's coming. Maybe it has already moved offshore. It's a very us condition that all the people who I've seen backlash against this are us based. And they say no, it's security. We can't have that. It's over. It's like well maybe it's our like do you know where racer, the anime girl on Twitter whose Twitter account is locked in private, do you know where he, she or they live? Maybe it's in a country where this is allowed. I think it's more of a decision on, on a per, I guess key basis for each person. Where are you based?"
+    },
+    {
+        "speaker": "C",
+        "text": "Sure. Yeah. Okay so this is one of many narratives that, that we need to get through on this show. So Vance, let's wrap, let's start. Wrap this one up. Social fi which is what people are calling this. What are your big takeaways and learning lessons from this friends movement? Like what are you now thinking of that you weren't thinking of maybe two weeks ago?"
+    },
+    {
+        "speaker": "B",
+        "text": "Honestly its a continuation of the recovery, continued interest and continued experimentation of crypto. I think that was the thing that I was looking for is when are we going to really get that? I guess it might have been the NFT, the big clout moment where we start spreading our tentacles outside of the winters cave that weve built for ourselves. And I think thats basically now with base. With this, you have enough sign that its starting to happen. Games are going to come soon. I think it's just a continuation of a positive trend that's happened since probably November of last year. I can't believe it's been ten months since FTX blew up. It's crazy, but we've made more progress and we're a better place than I would have expected at that point in time."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so your big takeaway is that it's a strong plus one to the idea that appetite is returning."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Oh yeah, for sure it is. If you hate it or love it, it's just, it's a fact."
+    },
+    {
+        "speaker": "A",
+        "text": "What do you guys think of this progressive web app thing, this bypassing of the app store? Is that significant to you? Do you think that's a model that we'll be replicating and useful for us?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think so many people are effective. So there's two advantages, right? You can pin a app to your homepage on your phone. That's one. And the second is historically, the problem with getting crypto on Apple or on iOS has been that if you're on the app store, you owe 30% to Tim Apple. And that's just really hard if you are selling digital goods for a variety of reasons, let alone what happens when it's a secondary market transaction. With this, you can use Apple, pay outside the confines of the iOS app store, and you don't have to pay that tax. So expect people to move more and more towards this model as a mobile first paradigm where we don't actually have to deal with the app store, which is super bullish."
+    },
+    {
+        "speaker": "A",
+        "text": "You know, it's the tax, it's also the asking for permission, it's also the gatekeeping. I remember when uniswap, we were talking about their wallet and it took them, I don't know, like ten months, a year to get the permissions process to actually get listed in the app store. And so you could bypass this. I mean, I was amazed at how fast friend tech was spun up and it was pretty clunky. I mean, let's be honest. Like, the UX is just like lacking, but they were able to do this because they didn't have to ask for permission and go through like a months long process of getting listed."
+    },
+    {
+        "speaker": "B",
+        "text": "It's awesome."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, Vance, let's get into the fang of Defi smell. We're going to go through each one of these tokens just so, because I actually have not actually heard which tokens are which. I can, you know, speculate, I can guess, but I actually don't know. I don't know if it's ever been uttered before. What, what tokens correspond to what letter. But before we get into the specifics, what makes you think that we are actually in a place where we can have a fang of defi? Because a fang implies some sort of, you know, lasting power. It's not going to go away. It's a pretty, pretty stable foundation. Why do you think that we have a fang of defi in the year 2023?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yep. So before I get into that, a couple of disclaimers. Number one, when I talk about smell, im talking about the actual products, not necessarily the tokens, not financial advice, not talking about token price. And the last disclosure is we own all of these tokens. So smell in my mind, was an exercise in coming up with, okay, bomb went off in July, November of last year, and basically everything was just completely decimated. The hundreds of uniswap copycats, the hundreds of stablecoins that shouldn't have existed. But amidst all the wreckage of that, you did see that there were a lot of protocols that frankly were generating earnings. They had real traction. Their networks were picking up an activity. I think if you look@the.com bust of 2000, what happened to the Nasdaq was very different than what happened to individual stocks in terms of the Nasdaq just absolutely got crushed. There was so much vaporware out there that basically it weighed down the index for years. But if you looked into the internals, you saw things like Amazon, you had the Google IPO in 2003. There were enough companies with enough fundamentals where that led the new meta and it led the reconstruction of the industry. Thats basically what I think is going to happen, happen here. And theres amazing projects that are not in smell. Its not to disparage them, but I think in my mind that is our core portfolio in terms of what do we think is going to be really from a fundamental perspective, an attraction perspective. Valuable smell is synthetix maker, Ethereum, Lido link. Thats it. Thats smell. We can go through each of them."
+    },
+    {
+        "speaker": "A",
+        "text": "I gotta ask, did you come up with the acronym first or the company or the projects first?"
+    },
+    {
+        "speaker": "B",
+        "text": "So I came up with the companies first, and then I rearranged all the letters enough times where I was like, you know, there's only one combination, Mel."
+    },
+    {
+        "speaker": "C",
+        "text": "Was the best you could do, huh?"
+    },
+    {
+        "speaker": "B",
+        "text": "And we can go through each of them. But I think, you know, there's, there's a sense in my mind that these are the companies that have the enduring advantage, the talent, the traction, and theyre going to lead us out of the bull market or out of the bear market in terms of just having products that work at scale."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So lets go through each one because I think each one provides its lessons to the crypto world. So starting with Synthetix framework already had a big win with Synthetix coming out of 2017 to, into the 2020 bull market. Why 2021 bull market? So why Synthetix? What signal did Synthetix provide you when you said that a bomb went off twice in 2022? What signals was Synthetix giving you that it was going to be able to make it?"
+    },
+    {
+        "speaker": "B",
+        "text": "The main one is just, frankly, the reformation of this new team around the products. And Synthetix was something that always had fits and starts, a product market fit. Kane is an amazing entrepreneur. He took some time off last year. He was just, frankly burnt out. And this is public knowledge. But he came back. Hes re energized. They have this amazing new core talented team. They launched perps, they launched v two five, and theyre about to launch v three. Really? V three is a culmination of the, effectively, since ive been involved with synthetix, all the learnings, all the products that weve wanted to build. And you can see it in the traction theyre doing, $500 million days. Theyve got tens of front ends, probably 100 at some point this cycle. And if you look at last week, there was 1,000,002 in fee income, and it was just people getting blown out, liquidated, paying funding rates, and one of the worst days of the year in terms of price action. And I think were one of the larger stakers, was our most profitable. And if you annualize what theyre doing, it basically equates to about 50 to 60 million of earnings that go directly back to token holders. Theres the finding product market fit part, theres the creating value part, and then theres the capturing value part. And synthetics has done all of those. And if you didnt know anything about crypto and youre dropped in the middle of it and told to point to the profit centers, youd point to binance, and youd point to all their perps markets. So if we can get 1% of that, im going to be very, very happy with where Synthetix is. Infinix, which is cains new quasi centralized exchange, thats just going to be another boon to the volume. I think its a pretty clear story. And frankly, all the other perps companies have died for the most part. So theres a lack of competition maybe."
+    },
+    {
+        "speaker": "C",
+        "text": "As we go through all of this smell, sm e l l. One question I have to maybe help frame this thing is that we have successful apps, successful protocol teams. Each one is, were going to talk about each one. But the way that youve selected them, like perps and synthetic assets in of itself is also just a fundamental vertical that exists in crypto. And so theres one part is like we have five different teams that were going to talk about each one is being successful. Thats why were talking about them. But then theres also the value landscape that exists irrespective of these teams. I think synthetix, youre saying is its a successful team for all the reasons that you just articulated, and it's building inside of this very valuable landscape called synthetic assets and perps. Is that a model for how we should think about these things? Because we're about to talk about maker and decentralized stablecoins, which another big valuable vertical in this crypto world. Is that how we should think about these things as we go forward?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. The things that I would keep in mind in terms of the two pieces of context that underlie all of these is that, number one, these are crypto endogenous markets. We dont need to create anything new. The cash flow already exists. It just happens to sit inside the centralized exchanges. So thats the first one. And the second one is were riding a tailwind. That already exists in terms of the transition from centralized to decentralized. And if you look at last month, it was 40%, Dexa did 40%. The volume of centralized exchanges. Uniswap did more volume than coinbase. Its already happening. Im not reinventing the wheel. Im just lucky to be able to ride with these entrepreneurs and protocols to the promised land. So the last thing ill say is there are basically 2022 is brutal. All other protocol teams, Uniswap clones, derivatives, clones, stablecoin clones, theyre all dead. You now have number one incumbents in each of these categories that are poised to just compound their advantage. And that's another theme that we can keep talking about."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. The number one rule of cryptos, do not die, do not get washed out, stay in the game. Right. And so if you're still in the game at this point in time, you're doing well. All right, so that's the s. How about the m? We got maker, I think you said, tell us about why is maker in the smell?"
+    },
+    {
+        "speaker": "B",
+        "text": "Acronym m for maker is a new one for us. Fairly recent. Weve been in Defi forever. We hadnt held maker in forever just because we didnt really understand the stablecoin model in an era of low interest rates, we thought the expenses were a bit out of control. But Roon is an interesting, really singular figure. I was always interested in his leadership of the project, and I think people have personal views on whether it's too much leadership or not enough. But those to me are personal issues and it's just investing, it's just business, for me at least. And so I think when I first came around to maker was just reading Endgame and it was very bizarre. Everyone read Endgame and I think the most of the reactions I heard were like, this is absurd. AI for governance, having a separate token, rebranding, redenomination, all this stuff. But to me it just encapsulated a lot of what I was feeling in terms of what are the lessons of the last cycle. Its redenomination, rebranding is a good way to restart. They have all this USDC and the PSM. If they can redeploy it into treasuries, that can be a base of $150 million of revenue that they can build on the subdaos having the allocator model, that makes a lot of sense to me, spinning out those things so that maker can focus on just being a really cohesive core unit thats basically a central bank. And so all of those things were really good indications to me that maker was turning itself around. But also ive been historically disillusioned with central banks and that type of thing. And this felt like an opportunity to create a decentralized central bank. And I thought that was just fascinating. And I think endgame is the right way to get there. So those are things which I really like. It has, I think, 150 or 60 million of revenue today. Earnings are probably $80 million."
+    },
+    {
+        "speaker": "A",
+        "text": "Is that annualized revenue?"
+    },
+    {
+        "speaker": "B",
+        "text": "That's annualized revenue. And I think it's just going to keep scaling as they deploy more of the PSM into treasuries. But also their lending business ramps up and they're ramping interest rates. So that'll go up. And subdaos are super interesting in my opinion. I want to go farm them, I want to go figure out what's going on. I want to go participate in these new governance experiments. And I think it's a really hopeful view of crypto that I like, and I like that about what Roon is saying, and I've never met him, but just from what I can understand, it's just the right direction. That and a lot of the capitulation around the token has got me pretty excited. I think when the best time to buy something is when nobody believes, but you have to know why. And there's the why. It's on chain. It exists. You can go read it. And I think it's just really interesting. It's the first DeFi protocol that'll probably hit 100 million of earnings. And that's just fascinating to me."
+    },
+    {
+        "speaker": "A",
+        "text": "It's interesting to me because Maker is the OG of OG protocols. Maker was the DeFi app that got me into this space. Got me, actually, before we called it. Before we called it DeFi. And they're definitely pushing the frontier of like governance, right. They're stretching the governance thing as far as they can. You got kind of the narrative of real world assets and that sort of thing. Not once in your description, Vance, did you mention stable coins like Dai. That's actual products that they're creating. Does that matter less in this world or is Dai still important? I mean, you were talking about this as sort of a central bank, I guess, maybe implied there is. Dai is a stable coin. But I think the narrative right now is that basically PayPal is going to come up with their centralized stablecoin. And you've got USDC and you've got tether, and you had the fall of algo stablecoins. And people aren't as excited about Dai as they once were back in the era of 2017, 2018. What's your take there? Is that a factor in this project?"
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, tether is a really bad stable coin for us as an industry to embrace, in my opinion. It also doesn't have a lot of the utility of something like Dai, where you can stake it and earn yield through the DSR, you can go farm with it in subdaos, you can go finance, bridge and construction loans like they already do. There's a lot of things you can do with Dai that doesn't exist today. And non stablecoin Dai supply bottomed at 1 billion in November 2022. That was a point where I think you could, as a rational person, say that this might die, die, might die, whatever. But now it's funny, whatever. So now it's like a billion, it's grown five x, and so there's a recovery underfoot. And the question is, where does it top out? Maker's business model is very simple. How much Dai is there? What is the interest rate that they are earning on it, I think Dai is going to go from about 5 billion today to probably about 15 to 20 billion in the next few years. And I think rates on that are probably going to be around where treasury bills are and say thats four to 5%. 20 billion times 5% is a billion in earnings and the DSR will have to be taken out of there and well see where that lands. But wow, what an incredible different project. And I dont think of it, I guess it is a stable coin. I think of it more as a central bank. But I think the hope is that we can actually like fix the money and help fix the industry. So I think the mission is noble as well. And you know redenomination is one hell of a drug frankly. Like if you, I remember when ant shares rebranded to Neo, that's like super OG, you know that's like chinese crypto people probably are not with me on that one. But like you can really reform communities around this stuff and if you have a new brand, and I'm excited to see what that is like, I think there's a lot to be excited about. And if you lose money on vaporware you feel stupid. But if you buy things with fundamentals, in my view, I can sleep a lot better at night."
+    },
+    {
+        "speaker": "C",
+        "text": "Preston, the inclusion of maker in what we are calling the Fang of Defi and yes loosely held that still in the early days of course, but thats to say that Dai is the stablecoin thats won the stablecoin wars. Theres massive stablecoin wars that have existed both in the centralized and decentralized landscape. So are you saying that, do you think that maker has actually won the decentralized stablecoin wars? It's earned that throne."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh I think the wars are going to get so intense in the next twelve to 24 months. Why would you hold USDC if you can go stake die in the DSR and earn yield? And so the addressable market for that trade is circles market cap or USDCs market cap, which is like 25 billion. So im not just pulling this 20 billion number out of my ass. Theres real subdaos are going to add more dai demand, the DSR is going to add more dai demand, all the different projects that are in the maker ecosystem but also just people want a better stablecoin. I have that distinct sense. I think both sides of the USDC ETH pairing and I tweeted this, are going to turn to be focused about yield. Why would you, an LP not be doing Sdai and wrap staked ETH in a pair on uniswap. What's the point of LP if you're not maximizing your yield? Maybe there's something else that I'm missing. But, you know, I think there's going to be a lot of momentum there."
+    },
+    {
+        "speaker": "A",
+        "text": "All right."
+    },
+    {
+        "speaker": "B",
+        "text": "The e is. The e is."
+    },
+    {
+        "speaker": "C",
+        "text": "I don't know if we need to really unpack this one too much e is ether."
+    },
+    {
+        "speaker": "B",
+        "text": "Let's minute, though."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "I think for me, the reason why I think ETH is just so interesting is because there's a few things. Number one, it's such a unique network. It passes 20% of the fees to ETH holders. It burns the rest. It has this web of l two model. And I think everyone was waiting for Cosmos to play out with this model in mind, and it just happened to have played out on Ethan. Im talking to Cosmos teams that are moving to ETH now. Just saying weve trudged up this hill. Weve tried to get our validators going, but its just easier to launch an l two. I think the demand thats sticky to eth l one is the defi, its the high quality nfts thats not going anywhere. Im not moving my money on any bridge. Absolutely not. You have defensibility. You have this web of chains playing out, but you also have ETH is this super unique asset for the network. And all frontech shares are priced in ETH. Or I guess keys are priced in ETH. All of the interesting bridged pairs are ETH as well. It's just the language. It's the asset of just, I don't know, it's speculation, but also just this digital world and digital economy that we're building on chain. And I think that's really cool. So I don't know. There's not much to say about Ethan other than its network effects are compounding. The multi chain thesis has gotten worse, not better. If you talk to all the trad five people, theyre not putting anything anywhere unless it has nuclear grade, censorship resistant guarantees. And thats what ETH is. All the real world assets that you see, those are going to ETH. Those are just going to keep increasing. Thats one of our core theses for ETH going forward is all of the tokenized stocks, bonds, assets that exist or that dont exist yet. Those are going to go on Eth. If you look at the dashboard of real world assets, theres about 680 million. Theyre growing 30% per month. And so youre probably looking at 10 billion of fixed income on chain. At some point next year, thats going to be a huge boon. Each cycle, ETH just swallows more real world assets. Last cycle it was stable coins. This cycle its going to be fixed income. Maybe in ten years it'll be some crazy ETF's that we don't even know about yet."
+    },
+    {
+        "speaker": "C",
+        "text": "But you said that the institutions out there, the big money, the outside players who are coming in to allocate that they really value censorship, resistance. Why is that? Can you just unpack that conversation? What is the trad conversation around Ethios at Ethereum, the network like?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think the conversation is pretty simple. It comes from a place of, you're telling me I can lower my costs, I can increase, or I can decrease my settlement times, I can offer my product to more people if I put it on chain. Okay, that's the pro side. The con side is what happens if the chain goes down? What happens if ETH is, or if the underlying token is a security? What happens if someone steals my token somehow? Its all the same questions that you think youd get from normies, but theyre like ten times more loud just because these people have real money at risk. And so EtH is like, are you going to host your companys website on AWS or like some new startup AWS competitor? Youre always just going to choose AWS. Theres no risk that you can take that would make it worth it for you to go with some other, you know, platform. So that's the ETH effect, basically part of the implication."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm wondering if this is true. So with FAANG, right, you have sort of the FAANG tech stocks and they're all somewhat on an equal footing. They're all tech companies. You have ETH in the middle of a set of defi assets, essentially apps, right. And so the bankless idea would be that, no, actually ETH is not side by side. These other Defi applications. It's even more important. It's like base level, it's almost like buying a Nasdaq index. It's an index of all of them. Or it's almost like betting on Silicon Valley or the nation state of the US or something like this. I'm wondering if you see it that way as well, or if you treat this as it's similar to synthetix or maker link or Lido. And the other assets, do you give it any special status? Is it a unit of denominator?"
+    },
+    {
+        "speaker": "B",
+        "text": "Eth has special status for us and it also has turbo special status in terms of our portfolio weighting. But your point is, right, everyone's bridging assets to etH, whether it's rollbit, whether it's DMT from Senko, game corpath. Everyone wants the liquidity, the profile. Its the main stage of finance. This is where you want to be. And its the same thing on the l two side. Everyone is creating an eth, l two. If its a game, you need your own l two. I saw real world asset l two. Ive seen so many. I think one of my questions is, how many l two s are there going to be? Is it going to be? I think earlier in the year, my mind was hundreds. Now it seems like probably thousands. And its like thousands of l two s, each one paying eth stakers one eth per day. And thats like a super weird, interesting economic model that doesnt exist anywhere except for crypto. And so I think ETH is super well positioned."
+    },
+    {
+        "speaker": "A",
+        "text": "You definitely need the e in order to make smell though the acronym. So thats why it has to be in the middle here."
+    },
+    {
+        "speaker": "B",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "C",
+        "text": "All right, moving on to our first l. Does Lido or link come first, and does that matter?"
+    },
+    {
+        "speaker": "B",
+        "text": "It does matter. Lido comes first."
+    },
+    {
+        "speaker": "C",
+        "text": "Why does Lido come first?"
+    },
+    {
+        "speaker": "B",
+        "text": "It doesn't actually matter, but I mean, Lido is just, first of all, the team is just incredible. Like Constantine Hasu, all the guys in the telegram, you know, seraphim, like all those dudes, like, they're just firing on all cylinders. They just hit 8.3 million eth today, and they've had like 50, 60,000 ETH input days, which is just wild to see. And you can see it on chain, and there's a really good dashboard on Dune. It's just Lido finance extended if you want to keep score at home. But let's say, I think at the end of the year, when we bought Lido last year, my expectation was that by the end of this year, they would hit 10 million in ETH staked. I think they're on track to hit or exceed that check mark. End of next year, maybe its 15, maybe its 20. Either way, theyre the dominant LST provider, and on their tech roadmap, its DVT, its staking modules, its effectively decentralizing it and making it more and not less ETH lined. I think that was always one of the existential threats. Would the EF just tell everyone to go home at some point? I dont know how they would do that, but I dont think they want to anymore. My hope is that people like swell people, like rocket pool, people like figment eventually they just become node operators on Lido and it becomes less about this one monopolizing factor and more about we've created this platform for everyone to run nodes on safely, so we can make the cost and the overhead of running ETH nodes as low as humanly possible. And I think that's a really noble mission. I think it's really Ethel and I think it's really personally aligned to. And you can do the math. Let's say that Lido has 20 million ethn at staked at the end of next year. And let's say just for all intents and purposes, that the price of ETH is 5000, whatever new all time highs. So they would have 100 billion in TVL. Let's say yields are five, 5%, they have 5%, or they have 5 billion in yields flowing through them. And they take a 10% cut of that, which is 500 million. Wow, what an amazing business. Levered to ETH, super unique, super defensible. Steth has its own network effects, because its money its used in defi, itll soon replace all the LP pairs, just like wow, that doesnt exist anywhere else. So I think its really interesting."
+    },
+    {
+        "speaker": "C",
+        "text": "How do you think the fee dynamics play out though, is my big question here, because we have another, like we had the stablecoin wars, now we have the LST wars, liquid staking token wars. I mean everyone, everyone wants to be the winner, everyone wants to be the monopoly. Everything like that's on the, if you are an LST, you want to be the dominant LST. And so the thought is that all the fees just compress to zero. And even under the model of, okay, everything just fits under the lido umbrella with all their staking modules. How do you think about the fee dynamics playing out over the long term here?"
+    },
+    {
+        "speaker": "B",
+        "text": "Sure. So just to lay it out for everyone, Coinbase charges 25% on CbEth. Rocket pool charges about 12% on fracs is similar to Reith. Swell is similar to Reith when it's done with its incentive period. But the cost factor that is most predominant for the staking providers is how do you pay your node operators? Like, theres a cost to running nodes, and if you dont have good quality nodes, with good quality operators, the worst thing is going to happen, which is you get slashed and you lose your eth. And so the price. And let me go even further. If you look at the centralized staking providers, Coinbase figment places like that, theyre like a seven to 9% fee. So theres not like theres some external force saying we can do it for so much cheaper. Its like that is the rate weve already competed with each other down to what fees are going to be. If you think about the really small subscale operators, like the new startups and were investors in a lot of them, theres a certain point where you can actually pay your node operators correctly if youre subscale, I think subscale in my mind is anything less than a million ETH. A lot of these people are going to face cost pressures in terms of how do we pay our node operators effectively while keeping some margin for ourselves? I think long term the answer for that is that a lot of them build on LidOs, DVT and staking module platform. The nodes are already there, you can already source them, you can compete with each other for fees if you want. It's going to be a marketplace and that's how cost pressure come down in terms of where our node operators today, it's a 10% fee for lido. Five goes to the Dow, five goes to node operators. Node operators are running probably like a 2030 35% margin business. Theres not that much room to cut and keep them high quality. Say the price of ETH goes to ten k, they probably shouldnt get half of the total fee split. Theyre going to be running hugely profitable businesses at that point. That makes no sense. As the price goes higher, I think the share captured by the Dow probably goes higher, but I don't see any real aggregate cost pressures coming. I just don't think it would be safe."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah, I learned a lot just there. Let's move on to link. Time for the last link. Why does link be part of a smell?"
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, perennially disrespected people don't take it seriously. People think it's a joke, whatever. The fact is that most of Defi relies on Chainlink oracles. And if they were to rip out tomorrow, a lot of it would fail. And they finally launched CCIP, which is incredible. Its a cross chain messaging protocol. So you can borrow one chain, lend on another, you can cross collateralize derivatives transactions, whatever you want, you can build. And so it finally has this economic model, which is frankly, I've been holding Chainlink since, man, I guess it's been like six or seven years now. But they finally have an economic model, which was always what bothered me. It's like, when is staking going to come? When is this thing going to act, look or feel like an l one blockchain that has some security guarantees and now it does and so that's very positive. And they've already got all the oracles integrated. It's just a question of like, what else can they sell? Is it cross chain messaging? Is it asset transferred? Is it random number generation? Like they've got a lot of products in there. And so I think, you know, link marines are amazing as well. Don't, don't count them out ever."
+    },
+    {
+        "speaker": "C",
+        "text": "They harass us. They harass us a lot. They're going to harass us now."
+    },
+    {
+        "speaker": "B",
+        "text": "Good, good."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, don't encourage them."
+    },
+    {
+        "speaker": "B",
+        "text": "Makes you grind harder."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so, and here's why. Because like I, at least from my opinion as to, like, why I get scared about link is exactly what you said. I like, if link goes down, if the chainlink goes down, like, all of defi collapses, that scares me. And I actually don't want that to be the state of things. I think that we should be more resilient than that. And so I would like to have some sort of bottom up, more emergent solution to some top down. Here is the state of all prices oracle provider. And so that's why I get scared of link."
+    },
+    {
+        "speaker": "B",
+        "text": "I think it's okay to be scared. I get scared sometimes, but I think it's, I don't know, like I'm not, I would never self delude myself into thinking that it had an economically secure model. And that was the scariest time for me. It's like in the last bull run, we run chainlink nodes. We're just getting paid chain link, you know, how, like we didn't have to stake, like, how does this work now? It's much different. And I think we have reasons to be optimistic about, you know, why. It's going to provide a more secure backbone for Defi but also do a bunch of other things outside of oracles. And I think everyone should use Uniswap oracles as a range bound indicator of, are chainlink oracles? Correct. But oracles are so hard, there's no answer. It's just like hopefully a bunch of them combined can do something better than the status quo. And I think Chainlink is moving in a positive direction to make everything more safe, which is good."
+    },
+    {
+        "speaker": "A",
+        "text": "So for me, just one observation and then I have a question for you, Vance. So my observation is this, when you mentioned the age of like link tokens and how long you've been holding, it struck me that like, damn, these are some old tokens. This is some boomer defi, if I may say so myself. So we've got synthetix, we've got maker we've got link. Lido is the only kind of newer kid on the block, but this is some like DeFi 1.0 stuff that you are advocating here. So that's my comment. And then my question is, but what about, and I know you're talking about the projects and not the tokens themselves, but now it's our time to kind of inject the, you know, like the token question. All of these assets, I haven't really looked at the charts of independent assets, but like, I'll tell you directionally, that we all know they've all disintegrated as denominated in ether. My question is, you might be bullish on all of these things, and you've given a compelling case as to why. Why would you be more bullish on these things than just holding ether? So how about rather than the smell portfolio, the e portfolio, which is just like just a whole bunch of ether. And that's been the kind of the problem of, I feel like DeFi tokens in general. I mean, look at maker, it's just flat for the last five years and probably down substantially as denominated in ether. Can you shade in that part of the story?"
+    },
+    {
+        "speaker": "B",
+        "text": "Look, I can't get too much into token prices, as you guys know, so I don't want to disappoint too much. The thing I will say is, I see a lot of Twitter commentary about this asset is never going to break its all time high in terms of ether. It's like, well, yeah, no shit. It's down 95% relatively. It's not recoverable. Well, it's like it would take like, you know, it would take a 20 x gain against the ETH pair for it to break its all time high. But it can go up three X versus ETH and still be down 70% against it. And in that scenario, you've three or four x your ETH. And so I don't know, the myopic, it'll never break its all time high against ETH. I don't think that's what you're saying directly, but I do see that said a lot. And it just entirely misses the point of relative performance. And I think smell is just a way of expressing there's a lot of different things that are going on that are really positive. In crypto, it happens to be mostly around the incumbents, DeFi 1.0 dinosaur coins, as you might have alluded to. But I think last cycle was very vc driven. We invented this thing, Solana, or in the last bear market, and it just happens to be ready or dfinity. And these charts are just tragedies. The holders of these things, the private holders just sold them into retail and just absolutely eviscerated them. I think it's actually cool that we have the dinosaur coins that have real fundamentals that have been up 100 x and down 99% and are now kind of back from a fundamentals perspective. And you have enough price discovery that its not like theres some guy waiting around the corner to sell his tokens into you. Its more fair and I like that as well."
+    },
+    {
+        "speaker": "A",
+        "text": "Can we call this episode smelly dinosaur coins please?"
+    },
+    {
+        "speaker": "C",
+        "text": "Okay so I think the most interesting thing about smell is actually whats not there. I would notice if were talking about dinosaur coins. Wheres Uniswap? And that will also open up the can of worms. That is the fee switch conversation which is not just for Uniswap. That I think thats a conversation for many many defi tokens out there that are also call themselves governance tokens. So these conversations and more coming up right after we talk to some of these fantastic sponsors that make the show possible. And we're back rounding out this smelly conversation with why it's not a smally conversation with you. God I hate myself for these funds. Vance Uniswap. Where does Uniswap land in your register? And why didn't it end up in the smell index? Smell portfolio?"
+    },
+    {
+        "speaker": "B",
+        "text": "Could have been smell you didn't end up being. But I. So I think one of the themes of smell is that there's just such strong moats around all of these synthetix it's the front end maker, it's the actual die stablecoin Ethereum. It's just the network of chains and the lendingists of defi and nfts steeth as a network effect because it's money and link. It's just because nobody's going to rip out their oracles. There's just no shot. People have tried too. Uniswap is different. I think probably the most vulnerable to disruption in terms of payment forward flow models. And you swap X is a move in that direction. Private order flow being sold through a different venue. Theres going to be a lot of that. That feels like the central difference between the cycle and the last is that we now have a bunch of these more sophisticated financial protocols companies that are starting to build payment forward flow on chain. And I just dont know how Uniswap is going to compete with that. Uniswap X is also in my mind just a different direction for the protocol. That probably doesnt have as much of a connotation around the token as I would like. I think if there was to be an addition, it would be probably uniswap, but right now, I dont have the confidence that theyre going to fend off all the payment forward flow thats coming on chain."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so say I'm uniswap and I aspire to be a part of Vances smell index. To turn it into the smell you. What do I need to do? Like, how do I, how do I pledge the index? The smell index. What do I need to get there and do to get there?"
+    },
+    {
+        "speaker": "B",
+        "text": "Um, there's a lot of stuff, you know, it's like, where's the team based? It's still the US. That's tough. Um, you know, what, what does the protocol look like in the face of payment forward flow? Frankly, we're only going to know once. Like, Uniswap X really launches and Univ four, and so I think it's just time. And one other common theme of all of these smell and also, I guess Uniswap is that everyone has a plan. Synthetix. It's v three maker, it's endgame. Ethereum, it's the scaling roadmap. Lido, it's DVT and v two chainlink, it's CCIp. They all have an answer for where are we going? Uniswap. It feels more ambiguous. And there's the company, there's the token. Who accrues what? Why? Those are unanswered questions for me. So love uniswap. I use uniswap a lot, but just didn't make it."
+    },
+    {
+        "speaker": "A",
+        "text": "Guys. You guys are missing a tremendous opportunity. It's not smell you. It would be you smell."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, yeah, that is true."
+    },
+    {
+        "speaker": "A",
+        "text": "This is so obvious."
+    },
+    {
+        "speaker": "B",
+        "text": "And then if Solana really pans out, I think I reserve the right to append that to, you know, or smells. Smells you smells. I don't know."
+    },
+    {
+        "speaker": "A",
+        "text": "We'll see."
+    },
+    {
+        "speaker": "C",
+        "text": "It's a Solana potential contender here."
+    },
+    {
+        "speaker": "B",
+        "text": "I think it's. I think it's interesting. I think it's a model for a chain which doesn't involve 100 l two s. I think you could argue that the l two s are, like, leaking value from Ethel one. You could also argue that they're doing things Ethel one could never do. Solana. It feels like those two things are simpatico. So I think it's interesting. And if you look at teams like Jitto that are just showing up in an environment that's just a barren wasteland. And like, just eating glass all day every day. That just feels like it doesn't matter what chain you're on, if you do that long enough, you're going to be successful."
+    },
+    {
+        "speaker": "A",
+        "text": "I've never heard you say such good things about Solana. Man, that's new."
+    },
+    {
+        "speaker": "B",
+        "text": "That's interesting. I have ideology around crypto and I think it's noble and important, and I want to be in this industry for the rest of my life. But I'm open to new things. I'm not myopic."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I share these sentiments. Really. Just to hammer out this last little bit about the uniswap fee switch, how do you think about fee switches? They're off generally, but they could be on. How do you even think about and consider this when you make an evaluation? On a token, I think there's going."
+    },
+    {
+        "speaker": "B",
+        "text": "To be an amazing time to turn the fee switch on when regulatory clarity arrives in the United States. And I don't think that day is too far off, but I don't think that day is today either. So that's the main calculus. It's like political. And I really hate thinking about politics in the context of investing. I like thinking about it in the aggregate because I find it fascinating, but I can't bet on things that have connotations to them."
+    },
+    {
+        "speaker": "A",
+        "text": "So Vance, as we close this out, there's a ton of other narratives that we could talk about. We could talk about real world assets. We could talk about ETF's that I think we all think are coming. We could talk about gaming in Asia. We could talk about the bitcoin happening events. All of these things seem to be in the future, and you've got a bunch of them listed in the tweet. But I want to ask you the overarching question here. Do you think that we are in the early phases of a bull market? Is it too early to call that, or what phase of the market cycle do you think we're in right now?"
+    },
+    {
+        "speaker": "B",
+        "text": "I cant answer that, but im optimistic that the technology is improving and will rapidly improve in the coming years. And I think crypto is inevitable and were just stewards of it to some extent. And people come and go. Theres been a revolving door of main characters that have been blown out over the years who once were our standard bearers, and I think its just going to continue to be the same. And the goal is to not be the main character. The goal is to just quietly shepherd the industry to where I think its going to go. So is there a bull market, bear market. I have no idea. I think were coming out of a bear market. Im not sure what were headed into. I think its going to be better than the past couple of years, thats for sure."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, congrats on never being the main character, at least up to date. I hope that you will remain a supporting actor, Vance, and we appreciate you always coming on bank list cameos."
+    },
+    {
+        "speaker": "B",
+        "text": "You know."
+    },
+    {
+        "speaker": "A",
+        "text": "Got to end with this, of course, risks and disclosures. Vance mentioned his disclosures a little bit earlier about these smelly dinosaur coins that he holds bags in."
+    },
+    {
+        "speaker": "C",
+        "text": "I don't think we also hold some smelly dinosaur tokens."
+    },
+    {
+        "speaker": "A",
+        "text": "We hold these things especially the e and smell. If you want to see all of our disclosures, of course they are always available@bankless.com. disclosures just a reminder, David and I are long term investors. We're not journalists. We don't do paid content. There's always a link to all of our disclosures there in the show notes. And got to end with this crypto is risky. You could lose what you put in. But we're headed west. This is the frontier. It's not for everyone. But we're glad you're with us on the bankless journey. Thanks a lot."
+    }
+]

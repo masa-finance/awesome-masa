@@ -1,0 +1,918 @@
+[
+    {
+        "speaker": "A",
+        "text": "Since the halving and the strength of participation in bitcoin ETF's and now with a decision imminent regarding an Ethereum ETF."
+    },
+    {
+        "speaker": "B",
+        "text": "It just seems that we're having a moment here in Washington where these assets are getting the consideration, but I think they've been due for a very long time."
+    },
+    {
+        "speaker": "C",
+        "text": "Hi everyone, welcome to Unchained, your no hype resource for all things crypto. I'm your host host Laura Shin, author of the Cryptopians. I started coming crypto nine years ago and as a senior editor at Forbes, was the first mainstream media porter to cover cryptocurrency full time. This is the May 24, 2024 episode of Unchained."
+    },
+    {
+        "speaker": "D",
+        "text": "Polkadot is the original and leading layer zero blockchain with over 2000 plus developers and the Polkadot 2.0 upgrade will be a massive accelerator for the ecosystem. Join the community@polkadot.net work ecosystem community with itrustCapital, you can buy and sell crypto in a tax advantage retirement account, enjoy significant tax advantages 24/7 access and the industry's lowest fees. Deploy custom crypto strategies and boost your yield with perpetual options on Vaultcraft, the universal Defi adapter for supercharging your crypto. Learn more on Vaultcraft IO hey unchained listeners, as you know, it's hard keeping up with the fast paced world of crypto, so we've got just the thing for you. Subscribe to our free unchained daily newsletter at unchainedcrypto dot substack.com. youll get the latest crypto news in original articles from our reporters, as well as summaries of other happenings and bullet points, plus our meme of the day, all curated and written by our amazing team. Its still your no hype resource for all things crypto, just in newsletter form. Sign up at unchainedcrypto dot substack.com dot. Again, the URL is unchainedcrypto dot substack.com dot."
+    },
+    {
+        "speaker": "E",
+        "text": "Ryan Reynolds here from Mint mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "F",
+        "text": "Mint Mobile Unlimited premium wireless everybody get 30, 30 baby get 30 baby get 20 $2020 $2020 15 just $15 a."
+    },
+    {
+        "speaker": "E",
+        "text": "Month so give it a try at mint mobile.com switch $45 upfront for three."
+    },
+    {
+        "speaker": "G",
+        "text": "Months, plus taxes and fees. Promoting for new customers for limited time."
+    },
+    {
+        "speaker": "F",
+        "text": "Unlimited more than 40gb per month slows."
+    },
+    {
+        "speaker": "C",
+        "text": "Full terms at mint mobile.com dot. Today's guest is Wyoming Senator Cynthia Lummis. Welcome, Senator Lummis."
+    },
+    {
+        "speaker": "A",
+        "text": "Laura, it's nice to be on your."
+    },
+    {
+        "speaker": "B",
+        "text": "Program, and I sure want to thank."
+    },
+    {
+        "speaker": "A",
+        "text": "You for being one of the presenters at our financial Innovation Caucus event. Your book about FTX and is going to be, I think, something we all want to read and are just dying to get our hands on it."
+    },
+    {
+        "speaker": "C",
+        "text": "Thank you so much. I really appreciate that. So this last week or so, you've really been at the center of crypto history in the making. And I know this is all old hat for you, but just for listeners who, I mean, this has just been a head spinning turn of events. So I'm going to go a little bit slowly at first. Last week, we saw that the Senate had this last minute bipartisan vote to overturn an SEC staff accounting bulletin, SAB 121, which was unfriendly to the crypto industry. So, in a sense, the vote to return was good for the crypto industry. But then going into this week, it was expected that President Biden would veto that, which, of course, then would be bad. However, now we are at a position where this veto is not going to happen. And the other thing that it looked like was going to happen on going into Monday morning was that the SEC was not going to approve spot ether ETF's, and there's again been a 180 reversal on that. So I just would love to hear, from your perspective, this story of how all these changes happened. Let's start with SAB 121. What got a bipartisan group of senators to vote for your bill to overturn that?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, there were two reasons why it was bipartisan. One is that some people were voting for our disapproval of the staff accounting bulletin simply because it hadn't gone through the proper procedure. It should have gone through a typical rulemaking process, including a public comment period, and it didn't do that."
+    },
+    {
+        "speaker": "B",
+        "text": "It was instituted as staff guidelines."
+    },
+    {
+        "speaker": "A",
+        "text": "However, they're binding on the people who are subject to it."
+    },
+    {
+        "speaker": "B",
+        "text": "So some people, both Democrats and Republicans."
+    },
+    {
+        "speaker": "A",
+        "text": "Voted with our efforts on the congressional Review act for that reason."
+    },
+    {
+        "speaker": "B",
+        "text": "And then there were others who voted with us specifically because staff accounting bulletin 121 does not protect consumers. It would provide that."
+    },
+    {
+        "speaker": "A",
+        "text": "For example, if you were a custodian."
+    },
+    {
+        "speaker": "B",
+        "text": "And I had an asset placed with."
+    },
+    {
+        "speaker": "A",
+        "text": "You and your custodial business failed, my assets would show up as an asset."
+    },
+    {
+        "speaker": "B",
+        "text": "Of yours and not of mine. So that's not protective of the consumer."
+    },
+    {
+        "speaker": "A",
+        "text": "And I think most people could see."
+    },
+    {
+        "speaker": "B",
+        "text": "That that's bad policy. That asset does not belong to the custodian. Belongs to the custodians."
+    },
+    {
+        "speaker": "A",
+        "text": "Client and that it should not be."
+    },
+    {
+        "speaker": "B",
+        "text": "Accounted for as an asset of the custodian."
+    },
+    {
+        "speaker": "A",
+        "text": "So for those two reasons, it was bipartisan in both the House and the Senate and passed both. So I'm just curious now to see."
+    },
+    {
+        "speaker": "B",
+        "text": "What the White House will do considering."
+    },
+    {
+        "speaker": "A",
+        "text": "The very strong vote on both sides of the Capitol building."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, so you wouldn't consider a foregone conclusion that the veto will not happen? I had seen some chatter on twitter that from the statement the White House released on Wednesday morning that it looked like the veto would not happen. But you feel it's still an open question?"
+    },
+    {
+        "speaker": "B",
+        "text": "I'm very hopeful that that is an."
+    },
+    {
+        "speaker": "A",
+        "text": "Accurate statement, but I'm holding my breath."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay. Okay. And so typically, in that kind of situation, what would a signal be that would make you confident that the veto would not happen?"
+    },
+    {
+        "speaker": "A",
+        "text": "This is the first time I've been in this situation where I've been monitoring a piece of legislation that has gone to the president's desk and that it's not a foregone conclusion, at least initially."
+    },
+    {
+        "speaker": "B",
+        "text": "When we started into this process, Laura."
+    },
+    {
+        "speaker": "A",
+        "text": "The Congressional Review act process, I had talked to people at the SEC and."
+    },
+    {
+        "speaker": "B",
+        "text": "Just asked them to withdraw staff accounting."
+    },
+    {
+        "speaker": "A",
+        "text": "Bulletin 121, so we would not have."
+    },
+    {
+        "speaker": "B",
+        "text": "To go through this whole process."
+    },
+    {
+        "speaker": "A",
+        "text": "And I was told that if I."
+    },
+    {
+        "speaker": "B",
+        "text": "Did go through this process, that the."
+    },
+    {
+        "speaker": "A",
+        "text": "President would veto the CRA and that."
+    },
+    {
+        "speaker": "B",
+        "text": "They had no intention of withdrawing it. So that was a pretty strong signal."
+    },
+    {
+        "speaker": "A",
+        "text": "Earlier on that they were highly resistant."
+    },
+    {
+        "speaker": "B",
+        "text": "To just withdrawing it on their own. I don't think they anticipated how strong the bipartisan vote would be on this, and now the White House will have to reconsider."
+    },
+    {
+        "speaker": "A",
+        "text": "And I hope that they will not veto it. I hope that the staff accounting bulletin 121 will be withdrawn, or that if."
+    },
+    {
+        "speaker": "B",
+        "text": "They feel strongly that they're on the."
+    },
+    {
+        "speaker": "A",
+        "text": "Right track from a policy perspective, go through the proper channels, use the APA, the administrative Procedure act, do it as a rulemaking, get public comment and proceed accordingly."
+    },
+    {
+        "speaker": "B",
+        "text": "So we'll see what path is taken."
+    },
+    {
+        "speaker": "C",
+        "text": "So just from your remarks, this really indicates how quickly things have been shifting. When you say they were surprised by how strong the bipartisan support was, how last minute did all of that come together?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think that when the House passed."
+    },
+    {
+        "speaker": "A",
+        "text": "It first with strong bipartisan support, it helped indicate to senators that this is an issue that transcends partisan boundaries and."
+    },
+    {
+        "speaker": "B",
+        "text": "That both parties are concerned when process is short circuited."
+    },
+    {
+        "speaker": "A",
+        "text": "But furthermore, it's not hard to see."
+    },
+    {
+        "speaker": "B",
+        "text": "The consumer protection that would accompany having your asset custodied by someone who is not allowed to put my asset on their balance sheet."
+    },
+    {
+        "speaker": "A",
+        "text": "So I think in terms of common sense and adhering to what is good."
+    },
+    {
+        "speaker": "B",
+        "text": "Public policy, and that is getting public participation in the rulemaking process. The strength of that vote might have."
+    },
+    {
+        "speaker": "A",
+        "text": "Surprised the administration a little bit. And now we're seeing the strength of."
+    },
+    {
+        "speaker": "B",
+        "text": "Bitcoin, for example, since the halving and the strength of participation in bitcoin ETF's."
+    },
+    {
+        "speaker": "A",
+        "text": "And now with a decision imminent regarding an ethereum ETF, it just seems that."
+    },
+    {
+        "speaker": "B",
+        "text": "We'Re having a moment here in Washington where these assets are getting the consideration that I think they've been due for a very long time."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, and I did, of course, want to ask you about those ether ETF's because that was just a huge shock to pretty much everybody. I'm sure you know that going into Monday, the markets had pretty much discounted the possibility that they would be approved. There are two Bloomberg analysts who follow this very closely. They had set the odds at 25%. I happened to record a podcast with one of them Monday, literally seconds after he had a second confirmation that this was, is probably changing. So what do you think caused that last minute 180 reversal from the SEC, which is arguably the agency most hostile to crypto?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think it's a great question."
+    },
+    {
+        "speaker": "A",
+        "text": "If they go ahead and approve it, I actually might reach out to some of the SEC commissioners just to try to understand what changed their mind or if the markets had been misreading their reticence. So it's a mystery to me, but."
+    },
+    {
+        "speaker": "B",
+        "text": "It'S one that I'm curious about, because at the same time that Senator Gillibrand."
+    },
+    {
+        "speaker": "A",
+        "text": "And I are trying to make policy for a legislative framework for digital assets, there's resistance from the administration to have it legislated. They feel they have the tools at."
+    },
+    {
+        "speaker": "B",
+        "text": "The executive branch level to handle this."
+    },
+    {
+        "speaker": "A",
+        "text": "But then we've gotten the sense that."
+    },
+    {
+        "speaker": "B",
+        "text": "Even though they have the tools, that."
+    },
+    {
+        "speaker": "A",
+        "text": "They intended to use the tools from."
+    },
+    {
+        "speaker": "B",
+        "text": "An enforcement action setting rather than from a policy setting."
+    },
+    {
+        "speaker": "A",
+        "text": "And that's been a huge frustration for the industry. When you want to comply with the rules, but you don't know what the rules are, you just kind of have to take a stab at it."
+    },
+    {
+        "speaker": "B",
+        "text": "And so we have companies, pretty sophisticated companies who've been at this for years."
+    },
+    {
+        "speaker": "A",
+        "text": "Trying to guess what the rules of the road are, trying to comply with the SEC, and then in return for that, getting slapped with a very expensive punitive enforcement action because they guessed wrong."
+    },
+    {
+        "speaker": "B",
+        "text": "That's not good public policy."
+    },
+    {
+        "speaker": "A",
+        "text": "We shouldn't have to be guessing what the policies will be towards investment products and then get slapped when we guess wrong."
+    },
+    {
+        "speaker": "B",
+        "text": "That's just not the american way."
+    },
+    {
+        "speaker": "A",
+        "text": "We have a legislative process that sets."
+    },
+    {
+        "speaker": "B",
+        "text": "The rules of the road. Senator Gillibrand and I have vetted our."
+    },
+    {
+        "speaker": "A",
+        "text": "Bill with many groups, many individuals. We still invite comment with regard to our Financial Innovation act. So we think we've been the more transparent process, the lawmaking process, and that."
+    },
+    {
+        "speaker": "B",
+        "text": "The SEC's process has been the more opaque process. I hope they're getting pressure to be."
+    },
+    {
+        "speaker": "A",
+        "text": "More transparent and to work with Congress to help us fulfill our role, not to put up roadblocks to our fulfilling our role as policymakers. And, you know, Laura, Europe is way ahead of us. Now. The European Union has a framework. They are working with companies, and there."
+    },
+    {
+        "speaker": "B",
+        "text": "Are companies, well established companies that, quite."
+    },
+    {
+        "speaker": "A",
+        "text": "Frankly, had their genesis in the United States that are looking now to Europe."
+    },
+    {
+        "speaker": "B",
+        "text": "As the more clear regulatory framework in which to operate."
+    },
+    {
+        "speaker": "A",
+        "text": "But, Laura, if the beachhead for digital asset law and regulation is in Europe, they'll be in a position to deny dollar denominated transactions with digital assets they regulate. So we're cutting off our notes despite our face, if we defer through our inaction to the European Union."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah. And earlier when you said the SEC was getting pressure to change its ways, I mean, certainly the industry has been putting pressure on them, even just on social media. You can see that. I did also want to ask, you tweeted this morning, the morning we're recording, which is Wednesday, you said, quote, there's a bipartisan majority in both chambers of Congress in favor of crypto. And I was curious, would you not have said before the events of the last week that there was a bipartisan majority in both chambers of Congress? And if so, if, you know, if you felt that it was different before then, what has changed?"
+    },
+    {
+        "speaker": "A",
+        "text": "It was difficult to tell because we could not jar loose major legislation in any of the committees that have jurisdiction over parts of the bill in the Senate. It's really complicated jurisdiction wise, because, for example, Lumas chillibrand, which is very comprehensive, it covers digital assets that are commodities."
+    },
+    {
+        "speaker": "B",
+        "text": "Digital assets that are securities, stable coins."
+    },
+    {
+        "speaker": "A",
+        "text": "A study of cbdcs, illicit finance. So it covers a broad array of digital asset policy."
+    },
+    {
+        "speaker": "B",
+        "text": "What that means in the Senate is."
+    },
+    {
+        "speaker": "A",
+        "text": "The commodities, meaning bitcoin, are in the."
+    },
+    {
+        "speaker": "B",
+        "text": "AG committee because that's where the commodity Futures Trading Commission has jurisdiction."
+    },
+    {
+        "speaker": "A",
+        "text": "The digital assets that are securities are in the banking committee because the SEC is responsive to the banking committee."
+    },
+    {
+        "speaker": "B",
+        "text": "The intelligence committee has jurisdiction over illicit."
+    },
+    {
+        "speaker": "A",
+        "text": "Finance, and certain components of this bill."
+    },
+    {
+        "speaker": "B",
+        "text": "Are also in the finance committee."
+    },
+    {
+        "speaker": "A",
+        "text": "So it's divided up among the jurisdiction of four committees."
+    },
+    {
+        "speaker": "B",
+        "text": "Jurisdiction is much easier in the US House."
+    },
+    {
+        "speaker": "A",
+        "text": "Much to my surprise and delight, Patrick McHenry is moving legislation in the House that I did not expect to see. So now we're actually between the SAB 121 in the House and the Senate. And now watching Congressman McHenry begin to move legislation that I didn't see a path forward for, but that he has."
+    },
+    {
+        "speaker": "B",
+        "text": "The gravitas to move along."
+    },
+    {
+        "speaker": "A",
+        "text": "I think we're starting to see that, that there is bipartisan support and it is probably a majority and it just delights me. No. And that we're finally able to move forward. So it has been a very positive week with regard to digital assets on Capitol Hill, which is a place where policy is a struggle. It's just hard to make policy here. And with the House and Senate almost."
+    },
+    {
+        "speaker": "B",
+        "text": "Equally divided right down the middle between."
+    },
+    {
+        "speaker": "A",
+        "text": "Democrats and Republicans, it's even hard to get legislation passed that doesn't have a partisan taint. And the good news about digital assets is they don't."
+    },
+    {
+        "speaker": "B",
+        "text": "You know, it's not a partisan subject."
+    },
+    {
+        "speaker": "A",
+        "text": "Which is one of the reasons it's been fun to work on it. But we are finding that among sort."
+    },
+    {
+        "speaker": "B",
+        "text": "Of the more progressive wing of the."
+    },
+    {
+        "speaker": "A",
+        "text": "Democrat party, there are people who are."
+    },
+    {
+        "speaker": "B",
+        "text": "Uncomfortable with assets that the government does not control."
+    },
+    {
+        "speaker": "A",
+        "text": "And so I think that that is sort of an element of the Democrat party that may never adapt to an asset that can be used in some cases as a currency that was not created by government."
+    },
+    {
+        "speaker": "B",
+        "text": "And on the conservative side as well, less libertarian leaning conservatives, I think, struggle with that same notion."
+    },
+    {
+        "speaker": "A",
+        "text": "Is this going to be a competitor that undermines the us dollar and just a lot of suspicion about something new. But fortunately, over the last couple of years, I think the center of both parties are seeing people adopt the use of bitcoin and alternative coins."
+    },
+    {
+        "speaker": "B",
+        "text": "Bitcoin is now the 7th largest currency in the world."
+    },
+    {
+        "speaker": "A",
+        "text": "So adoption is growing. And to pretend that it's going to."
+    },
+    {
+        "speaker": "B",
+        "text": "Go away, which I think some people."
+    },
+    {
+        "speaker": "A",
+        "text": "Thought it was so new and novel that it might go away now that it's obvious it's not going away."
+    },
+    {
+        "speaker": "B",
+        "text": "And one of the things that made."
+    },
+    {
+        "speaker": "A",
+        "text": "It extremely obvious that it was not going to go away was when eleven ETF's were adopted and embraced by investors who truly embraced. So these companies like Blackrock and JP Morgan that used to badmouth bitcoin and alternative coins are now offering bitcoin ETF's and applying to be the house of Ethereum ETF's. So it's been interesting to see sort of mainstream financial institutions have embraced a these assets that the Congress somehow feels."
+    },
+    {
+        "speaker": "B",
+        "text": "That'S a good housekeeping stamp of approval or something."
+    },
+    {
+        "speaker": "A",
+        "text": "But whatever it is, I'll take it. I'm delighted to see us have an opportunity to move forward."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, yes. So in a moment we're going to talk more about stable coins and comprehensive legislation for crypto. But first, a quick word from the sponsors who make this show possible."
+    },
+    {
+        "speaker": "D",
+        "text": "Deploy custom crypto strategies and boost your yield with perpetual options on Vaultcraft, the universal Defi adapter for supercharging your crypto with version V one five users can now earn options on optimism and arbitrum, while also rebalancing multi strategy yield products."
+    },
+    {
+        "speaker": "C",
+        "text": "All in one vault."
+    },
+    {
+        "speaker": "D",
+        "text": "Mint Vaultron vault crafts NFT reward optimizer to earn even more in XP points. From institutional service providers to defi degens anyone blockchain can deposit any asset into vaultcrafts products to instantly start earning yield on their crypto. Learn more on Vaultcraft IO Polkadot is the original and largest layer zero blockchain. With over 2000 plus developers, the anticipated Polkadot 2.0 upgrade will be a massive accelerator for the ecosystem, upgrading the infrastructure with eight times higher transaction throughput and twice as fast block times tailored core time for the needs of every protocol, trustless bridges to multiple chains and revise tokenomics with a token burn to reduce inflation. Perfect for gamefi and Defi to build, grow and scale. Get your web three ideas to market fast think big build bigger with Polkadot join the community@polkadot.net work ecosystem community back."
+    },
+    {
+        "speaker": "C",
+        "text": "To my conversation with Senator Lummis. So you said a number of things in that answer right before we cut to the commercial break, and I just needed to kind of put the highlight on a few of them. So one of them is you mentioned that there are certain groups within government that are concerned about stablecoins and their potential to perhaps either destabilize the us dollar or the banking system. And I wondered what you thought of those concerns. We did see some issues last year with USDC and Silicon Valley bank. One could argue that's because there wasn't comprehensive stablecoin legislation at that point. But anyway, just I wondered what you thought of those concerns."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I think that as there is adoption of certainly bitcoin and ethereum, that people are finally beginning to see the value in having off ramps and on."
+    },
+    {
+        "speaker": "B",
+        "text": "Ramps between the us dollars and these."
+    },
+    {
+        "speaker": "A",
+        "text": "Assets, and that stablecoins can accomplish those goals. Now in the Lummis Gillibrand draft, which."
+    },
+    {
+        "speaker": "B",
+        "text": "I have to credit Senator Gillibrand with."
+    },
+    {
+        "speaker": "A",
+        "text": "Being very significant in encouraging our work."
+    },
+    {
+        "speaker": "B",
+        "text": "On stablecoins to be separated from some."
+    },
+    {
+        "speaker": "A",
+        "text": "Of our other work, brought out as standalone legislation and introduced as standalone legislation."
+    },
+    {
+        "speaker": "B",
+        "text": "In anticipation of seeing something move in the House, but also to give people a chance just to see what we've been working on that is stablecoin specific."
+    },
+    {
+        "speaker": "A",
+        "text": "And that is, we think, protective of consumers in that we don't allow algorithmic stablecoins in our bill."
+    },
+    {
+        "speaker": "B",
+        "text": "They have to be 100% hard asset."
+    },
+    {
+        "speaker": "A",
+        "text": "Backed, and that these kinds of backstops make for a stablecoin product in the United States that would be protective of consumers. So we did."
+    },
+    {
+        "speaker": "B",
+        "text": "We put out our bill."
+    },
+    {
+        "speaker": "A",
+        "text": "It's again been introduced for everyone to."
+    },
+    {
+        "speaker": "B",
+        "text": "See, to amend, to discuss."
+    },
+    {
+        "speaker": "A",
+        "text": "And we were hopeful that Patrick McHenry and Maxine Waters would be successful in negotiating a bill on the house side that had considerable input from the White House. We haven't seen it yet."
+    },
+    {
+        "speaker": "C",
+        "text": "And just to be clear, when you said you were looking for stable coins that were protective of consumers, what types of situations are you looking to prevent or mitigate with your bill?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, for example, there was a very significant failure. I think it was terra Luna. That was an algorithmic stablecoin that had a spectacular failure."
+    },
+    {
+        "speaker": "B",
+        "text": "And I'm sorry if I've gotten the wrong name."
+    },
+    {
+        "speaker": "C",
+        "text": "No, that's Terra Luna."
+    },
+    {
+        "speaker": "A",
+        "text": "We wanted to assure that America's first."
+    },
+    {
+        "speaker": "B",
+        "text": "Step into stablecoins would not validate a."
+    },
+    {
+        "speaker": "A",
+        "text": "Type of terra luna structure. We wanted consumers to know that a 100% hard asset backed stablecoin would be."
+    },
+    {
+        "speaker": "B",
+        "text": "The so called stablecoin of the land, sort of the gold standard of stablecoins under us law."
+    },
+    {
+        "speaker": "C",
+        "text": "And referencing some of the other comments you made earlier, I did want to ask about, you know, this potential for comprehensive crypto asset legislation for something like a market structure bill. Obviously, as you alluded to earlier, the House is voting on the financial innovation and technology for the 21st Century act, which is being called fit 21. So this is the one that's in the House, as far as I understand, the sort of similar bill, not a counterpart, would be your legislation with Senator Gillibrand. So where do these two bills differ? What issues need to be resolved before we could see something past both houses of Congress? And based on the White House's statement this morning that they were interested in building what they called a comprehensive and balanced regulatory framework for digital assets. Between those, I guess, three different parties, what do you feel are still the issues that need to be hammered out before we will see such a bill?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, first of all, I want to."
+    },
+    {
+        "speaker": "B",
+        "text": "Tell you that I'm very pleased to."
+    },
+    {
+        "speaker": "A",
+        "text": "See the House bill moving that there's."
+    },
+    {
+        "speaker": "B",
+        "text": "No pride of authorship."
+    },
+    {
+        "speaker": "A",
+        "text": "We were very hopeful that we'd have the opportunity to see one or the other of these main regulatory frameworks move, and it appears the House bill will move first. I congratulate them for being able to get that bill moving. There are differences, as you point out."
+    },
+    {
+        "speaker": "B",
+        "text": "Between that bill and the Loma Steele brand bill."
+    },
+    {
+        "speaker": "A",
+        "text": "Our bill creates a category called ancillary assets that allows for what we in the cattle business would call the ability."
+    },
+    {
+        "speaker": "B",
+        "text": "To gate cut between what is a commodity and what is a security. And so I prefer the ancillary asset."
+    },
+    {
+        "speaker": "A",
+        "text": "Approach to some of those alternative coins or digital assets that are difficult to."
+    },
+    {
+        "speaker": "B",
+        "text": "Characterize, even if you use the Howey test."
+    },
+    {
+        "speaker": "A",
+        "text": "So that would be something that if."
+    },
+    {
+        "speaker": "B",
+        "text": "The House bill comes to the Senate, I'd want to sit down with Senator."
+    },
+    {
+        "speaker": "A",
+        "text": "Gillibrand, with Patrick McHenry and others who've worked hard on the House bill to see if there's a way to meld our drafts to address that issue. But honestly, Laura, there's so much more similarities than there are differences in what the House is moving forward with and what Senator Gillibrand and I have drafted that we're just very pleased. And we think that whatever discussions have to occur in order to get agreement between the House and the Senate is very achievable."
+    },
+    {
+        "speaker": "C",
+        "text": "And do you think that might be achievable either before the election or before January 1?"
+    },
+    {
+        "speaker": "B",
+        "text": "No. From your mouth to God."
+    },
+    {
+        "speaker": "A",
+        "text": "That would be wonderful."
+    },
+    {
+        "speaker": "B",
+        "text": "And that would help the United States."
+    },
+    {
+        "speaker": "A",
+        "text": "Because we are at risk of seeing."
+    },
+    {
+        "speaker": "B",
+        "text": "Significant companies move their beachhead overseas. We want them in the United States. We want the innovation to occur here."
+    },
+    {
+        "speaker": "A",
+        "text": "We want our regulatory framework to be the world standard. We understand that digital assets, although perhaps native to blockchains that were developed in the US, can have a residence anywhere. The entire bitcoin blockchain is on every."
+    },
+    {
+        "speaker": "B",
+        "text": "Node in the world, and those nodes are all over the world. So bitcoin is a worldwide asset."
+    },
+    {
+        "speaker": "A",
+        "text": "We believe that the stronger and more just, transparent and clear that our regulatory structure is, the better off the United."
+    },
+    {
+        "speaker": "B",
+        "text": "States is to continue to be the center of innovation."
+    },
+    {
+        "speaker": "A",
+        "text": "And, Laura, the other thing that I see is AI. Artificial intelligence is in some ways an adjunct to digital asset. Technology advances, they sort of dovetail, they."
+    },
+    {
+        "speaker": "B",
+        "text": "Sort of feed off each other."
+    },
+    {
+        "speaker": "A",
+        "text": "And I think if we establish a."
+    },
+    {
+        "speaker": "B",
+        "text": "Successful regulatory framework for digital assets, it gives us a leg up when we're."
+    },
+    {
+        "speaker": "A",
+        "text": "Developing a regulatory framework for artificial intelligence that also threads the needle between consumer and human protection versus innovation in the United States. That's the sweet spot we're looking for."
+    },
+    {
+        "speaker": "B",
+        "text": "That's the needle we're trying to thread."
+    },
+    {
+        "speaker": "A",
+        "text": "I think it's a good symbiosis."
+    },
+    {
+        "speaker": "C",
+        "text": "And speaking of companies that are facing headwinds here in the US, there is a Wyoming based chartered special purpose depository institution called custodial bank. It was denied a banking master account. And you wrote an amicus brief for custodia in its lawsuit against the Fed and the Kansas City Fed. I wondered, would you say that that's an example of what's been dubbed Operation Show 2.0, or do you think that that is largely over?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I felt very strongly that the Fed, if an application for a master account is presented to the Fed that."
+    },
+    {
+        "speaker": "B",
+        "text": "Meets all of their criteria, that they don't have the discretion to deny it, that once the criteria are met, it."
+    },
+    {
+        "speaker": "A",
+        "text": "Is their ministerial duty to issue a master account. So this notion that the Fed has discretion to deny a master account, even."
+    },
+    {
+        "speaker": "B",
+        "text": "Though all of the criteria to obtain."
+    },
+    {
+        "speaker": "A",
+        "text": "One has been met, is, I believe, a novel theory for the Fed."
+    },
+    {
+        "speaker": "B",
+        "text": "And so we're going to continue to fight that."
+    },
+    {
+        "speaker": "C",
+        "text": "And I did want to ask one other crypto related Wyoming question, which is, I saw that President Biden banned a Wyoming based, chinese owned bitcoin mine that was located near a us nuclear facility. What did you think of that decision?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, CFius was involved."
+    },
+    {
+        "speaker": "B",
+        "text": "I am assuming that information was available."
+    },
+    {
+        "speaker": "A",
+        "text": "To CFIus that led them to believe that the mining operation may have been a cover for illicit activity by the Chinese Communist Party. We're seeing the purchase by CCP related companies of land adjacent to other of our nuclear warhead bases."
+    },
+    {
+        "speaker": "B",
+        "text": "There are three of them. One of them is in Montana at Malmstrom, and the other is in North."
+    },
+    {
+        "speaker": "A",
+        "text": "Dakota and Cheyenne, Wyoming, is the third. The fact that CCP related companies are."
+    },
+    {
+        "speaker": "B",
+        "text": "Buying land that is adjacent to all."
+    },
+    {
+        "speaker": "A",
+        "text": "Three of those nuclear military bases, our land based portion of our nuclear triad is of concern. And so I have to believe that this was not an anti bitcoin mining move, that this was an anti CCP related corporation. Next to a us military base move."
+    },
+    {
+        "speaker": "B",
+        "text": "There are other bitcoin miners."
+    },
+    {
+        "speaker": "A",
+        "text": "Laura, in Wyoming, there's this terrific company that has an agreement with a Wyoming rural electric provider. So under the umbrella of rural electric."
+    },
+    {
+        "speaker": "B",
+        "text": "Associations, which are cooperatives, there's a bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "Mining operation near Pine Bluffs, Wyoming, that sits right at the base of the power source."
+    },
+    {
+        "speaker": "B",
+        "text": "So you don't have any line loss. They're mining bitcoin right there. And those are the kinds of bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "Mining operations that can utilize baseload of electricity at a time when it's available."
+    },
+    {
+        "speaker": "B",
+        "text": "So in other words, the bitcoin miners can ramp up mining when there's excess."
+    },
+    {
+        "speaker": "A",
+        "text": "Base load in the system and ramp it down when people have their air conditioners or their heaters on due to weather conditions. So the success of bitcoin mining as a base load balancer is playing out."
+    },
+    {
+        "speaker": "B",
+        "text": "In Wyoming and in Texas and probably in other states. We think it's a great way to."
+    },
+    {
+        "speaker": "A",
+        "text": "Demonstrate that bitcoin mining can be a stabilizer in the electric grid, as opposed to something that sucks a tremendous amount."
+    },
+    {
+        "speaker": "B",
+        "text": "Of electricity out of a system that's."
+    },
+    {
+        "speaker": "A",
+        "text": "Not adequately base loaded."
+    },
+    {
+        "speaker": "B",
+        "text": "So I just think it's a success story. And I discount this one particular instance."
+    },
+    {
+        "speaker": "A",
+        "text": "Of concern about a chinese communist party related business next to Fe Warren Air Force Base."
+    },
+    {
+        "speaker": "C",
+        "text": "We've just seen crypto play a part on the election stage over the last couple of weeks, with Trump holding a dinner for his NFT holders, inviting the industry to support him, and accepting crypto assets for campaign donations. And I wondered, from how you are seeing the crypto industry influence this election and politics and policymaking generally, I wondered if you had any specific recommendations that you wanted to give the industry for how it can accomplish its goals in DC."
+    },
+    {
+        "speaker": "B",
+        "text": "Contact senators and educate them and house members contribute to their campaigns if they."
+    },
+    {
+        "speaker": "A",
+        "text": "Are friendly to your business or willing to learn. And don't ignore the political opportunity that we have in 2024 to avail ourselves of a potential lasting framework and relationship between digital asset industries and the policymakers."
+    },
+    {
+        "speaker": "B",
+        "text": "That are going to affect this industry, whether it's positive or negative. Let's make sure that those relationships are."
+    },
+    {
+        "speaker": "A",
+        "text": "Built during this campaign season and then can play out in 2025."
+    },
+    {
+        "speaker": "C",
+        "text": "Perfect. Thank you so much for coming on Unchained."
+    },
+    {
+        "speaker": "A",
+        "text": "Thanks Laura."
+    },
+    {
+        "speaker": "B",
+        "text": "Good to see you."
+    },
+    {
+        "speaker": "C",
+        "text": "Don't forget, next up is the weekly news recap today presented by Wondercraft AI. Stick around for this week in crypto after this short break."
+    },
+    {
+        "speaker": "E",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a."
+    },
+    {
+        "speaker": "F",
+        "text": "Thing Mint mobile Unlimited premium wireless how did you get 30 30 biddy get 30 bid to get 20 2020 to 20 2015? Just $15 a month, so give it."
+    },
+    {
+        "speaker": "E",
+        "text": "A try at Mint mobile.com switch $45."
+    },
+    {
+        "speaker": "G",
+        "text": "Up front for three months, plus taxes and fees."
+    },
+    {
+        "speaker": "F",
+        "text": "Promoting for new customers for a limited time unlimited."
+    },
+    {
+        "speaker": "G",
+        "text": "More than 40gb per month slows full."
+    },
+    {
+        "speaker": "C",
+        "text": "Terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "D",
+        "text": "Did you know you can buy and sell crypto with tax benefits in an individual retirement account. ItrustCapital makes this possible, but what does this mean? When you buy crypto outside an IRA, like on an exchange, you face taxes on gains, but in an IRA, like a Roth IRA, gains can be tax free. ITrust capital also has some of the lowest fees in the industry and 24/7 accessibility. Start now and maximize your retirement savings with itrust capital."
+    },
+    {
+        "speaker": "G",
+        "text": "Welcome to this week's Crypto roundup. In today's recap, we'll cover the SEC's approval of Spot Ethereum, ETF's Sam Bankman, Fried's prison transfer, and the resignation of Grayscale's CEO. We'll also discuss the $2 billion Genesis settlement, Uniswap's rebuttal to SEC allegations, a major hack at gala games, and Farcaster's impressive funding round. Additionally, we'll touch on ZK Sync's upcoming airdrop, Trump's campaign accepting crypto donations, and the debate over Ethereum researchers advisory roles. Finally, don't miss our fun bits section featuring Algorand's humorous new ad. Thanks for tuning in to the weekly news recap. Let's begin. SEc approved spot Ethereum ETF's the US securities and Exchange Commission has approved eight spot Ethereum ETF's, including those from Blackrock, Fidelity and Grayscale. This approval, part of an omnibus order, marks a significant development just four months after the first spot bitcoin ETF's were approved. While the ETF's have received initial approval, the issuers must still complete their s one registration statements before trading can begin, a process that could take several weeks. This unexpected approval follows a sudden shift in the SEC's engagement with issuers, prompting speculation about the reasons behind the change. With ETH ETF's approved, the crypto community is speculating about which asset might be next. Joe McCann of asymmetric favors Solana, citing strong interest. However, James Seifert of Bloomberg Intelligence points to regulatory challenges for Saul, given that it has been named as a security numerous times by the SEC. He suggested Dogecoin or litecoin are more likely, though ultimately what will determine the next crypto asset is whether there is an underlying regulated futures market. Most experts agree the next spot crypto approval is a ways off us house approves crypto regulation bill in a week that will go down in history for marking a sea change in the US government's attitude toward crypto. On Wednesday, the US House of Representatives passed the first comprehensive crypto market structure bill, the Financial Innovation and Technology for the 21st Century act. The bipartisan vote of 279 to 136 included 71 democratic representatives crossing party lines to get it approved. Proponents like Representative Patrick McHenry believe the bill, which aims to establish regulatory clarity over digital assets by delineating the roles of the SEC and the CFTC, could end the regulatory food fight and foster innovation in the crypto space. The Fit 21 act now faces the Senate, where its future is uncertain amidst looming elections. Despite President Biden's opposition, he has not threatened a veto. Sam Bankman Fried moves to new correctional facility Sam Bankman Fried, the founder of the now defunct cryptocurrency exchange FTX, has been moved to a new prison facility, as first reported by the Wall Street Journal. Federal officials began the transfer early Wednesday, according to a spokesperson for bankman Freed. While the exact destination remains unconfirmedous, sources suggest he is being relocated to a correctional facility in Mendota, California. The move follows recommendations from federal prosecutors to transfer bankman freed to a low security prison closer to his parents home in Palo Alto. Previously, SBF had requested to remain at the Metropolitan Detention center in Brooklyn to be near his legal team working on his appeal. And even US District judge Louis Kaplan had concurred with Bankman freedom. SBF is serving a 25 year sentence for orchestrating one of the biggest financial frauds in us history. His relocation may take up to a month. Greyscale CEO steps down Michael Sonnenschein, CEO of Greyscale, has resigned after a decade with the company, effective August 15. He will be succeeded by Peter Mintzberg, currently the head of strategy for asset and wealth management at Goldman Sachs. Until then, CFO Edward McGee will serve as interim CEO. Sonnenschein, who started at Grayscale in 2014 and became CEO in 2021, played a pivotal role in transforming Grayscale's bitcoin trust into an ETF earlier this year, a milestone in the firm's history and crypto history. However, the ETF has experienced significant outflows totaling over $17 billion, mainly due to a 1.5% management fee that is several times as expensive as the competitions. Mintzberg brings over 20 years of traditional finance experience from notable firms such as BlackRock, Oppenheimer Funds and Invesco. Genesis settles with New York Attorney general's office the New York attorney general's office announced that a state court has approved a $2 billion settlement with the bankrupt crypto lender Genesis. This settlement will create a fund for Genesis's creditors, who invested over $1.1 billion through the Gemini earn program and prohibits Genesis from operating in the state. Attorney General Letitia James remarked, this historic settlement is a major step toward ensuring justice for the victims. The lawsuit, filed in October 2023, accused Genesis, Gemini and Digital currency group of defrauding over 230,000 investors, including 29,000 New Yorkers. Genesis has agreed to the settlement without admitting or denying the allegations. This follows their recent agreement to return $3 billion in customer assets as part of a bankruptcy liquidation plan approved earlier this week. Uniswap Labs Reboot's SEC allegations on Tuesday, Uniswap Labs responded to a wells notice from the SEC, which claims the company behind the decentralized exchange operates as an unregistered securities exchange and broker dealer. The SEC contends that Uni tokens constitute investment contracts. In its rebuttal, Uniswap Labs criticized the SEC's stance as overreaching, arguing that the regulator's jurisdiction does not extend to the majority of the platform's activities, which involve commodities like ETH and stablecoins. Marvin Amore, Uniswap's chief legal officer, wrote on the SEC is targeting assets and people in nations well beyond its authority. Uniswap maintains that the SEC's arguments are weak and wrong, and stresses the importance of embracing open source technology instead of litigating it out of existence. Gala games hit by major hack Gala Games, a web three gaming platform, faced a significant hack on Monday with an attacker minting 5 billion gala tokens worth over $200 million. The price of Gala dropped nearly 15%. The attacker exploited a vulnerability in the protocols mint function, allowing the creation and transfer of a massive number of tokens. Gala games quickly froze 90% of the unauthorized tokens worth approximately $180 million. However, the hacker managed to sell 600 million gala tokens valued at over $20 million through Uniswap. The attacker has since returned around $20 million of the stolen funds. CEO Eric Schiermeier stated, we believe we have identified the culprit and are working with authorities. Gala Games now plans a governance vote to decide whether to burn the 4.4 billion frozen tokens. Farcaster secures $150 million in Series A funding decentralized social network Farcaster has raised $150 million in a Series A round, reaching a $1 billion valuation. The funding round was led by paradigm with participation from a 16 Z crypto, Han Ventures, Union Square Ventures variant fund and standard crypto. In an interview with Unchained, co founders Dan Romero and Varan Srinivasan emphasized their focus on scaling to an Internet scale protocol and maintaining a lean team, highlighting the network's developer and user growth, spurred by features like frames and the recent far con eventhood. They also shared their commitment to long term development. Their ultimate goal? To create valuable, user friendly products that can compete with mainstream social media giants. Zksync prepares for token generation event and airdrop according to the block Zeeksync this week, an ethereum layer two network developed by Matterlabs is set to conduct a token generation event that will introduce a total supply of 21 billion tokens. ZK sync then plans to execute an airdrop around June 13, aiming to distribute tokens ahead of Blast's scheduled airdrop on June 26. The token, intended to use the ticker ZK, faces potential conflicts, as the ticker is already claimed by polyhedra network. Despite this, Zeexync might still proceed with the ticker ZK, as noted by a source who pointed out that Binance has yet to list polyhedra's tokenization Trump campaign embraces crypto donations supporters of former President Donald Trump's campaign can now donate cryptocurrencies to his campaign, according to the campaign website. Donations can be made via Coinbase wallet and metamask, demonstrating President Trump's success as a champion of american freedom and innovation. We proudly offer you a chance to contribute to the campaign with cryptocurrency, the cite states. This move makes Trump the first major party presidential nominee to accept cryptocurrency donations ahead of the November 5 election. Ethereum researchers advisory roles at Eigen Lair Spark debate two Ethereum foundation researchers, Justin Drake and Dankrad Feist, recently revealed their advisory positions at Eigenlayer, a restaking protocol igniting discussions about potential conflicts of interest within the Ethereum community. Drake, who disclosed his role after receiving a query from crypto influencer Kobe, who questioned the ethics of Ethereum researchers accepting substantial compensation from Ethereum, Dapps says he intends to reinvest his advisory proceeds into Ethereum projects. Afterward, Feist also disclosed his new role, emphasizing that his advisory position is personal and not representative of the Ethereum foundation. Acknowledging he received a significant amount of agen tokens. He noted he will focus on risks and decentralization, and asserted that his role would not influence his professional opinions. Debate over low float, high fdv tokens intensifies a recent binance report sparked debate about low float high fully diluted valuation. Fdv tokens, which are often criticized for offering limited upside post tges, have seen significant price drops, leading to widespread scrutiny. Binance responded by announcing a shift to listing small and medium sized projects. Crypto influencers like Kobe and Haseeb Qureshi weighed in, highlighting potential conflicts of interest and market manipulation. Kobe argued that early private investors capture most of the upside, leaving little for public participants. Meanwhile, Qureshi analyzed factors like vc dumping and market conditions, suggesting that market forces will eventually correct these mispricings. Time for fun bits Algorand's ad makes fun of other blockchains in a new ad, Algorand humorously highlighted the struggles of paying with bitcoin, ethereum, and Solana at a supermarket. The video shows three customers attempting to make purchases with their respective cryptocurrencies. The bitcoin user awkwardly waits as the transaction slowly clears, while the Ethereum user is shocked by the exorbitant fees. The Solana user faces repeated transaction failures, much to their frustration. In contrast, Algorand users are shown breezing through the checkout, paying effortlessly and happily. And that's all. Thanks so much for joining us today. If you enjoyed this recap, go to unchainedcrypto dot Substack.com, that is, unchainedcrypto dot Substack.com and sign up for our free newsletter so that you can stay up to date with the latest in crypto. Unchained is produced by Laura Shin with help from Matt Pilchard, Juana Ranovich, Megan Gavis, Pam Majumdar, and Margaret Correa. The weekly recap was written by Juana Ranovic and edited by Laura Shin. Thanks for listening."
+    },
+    {
+        "speaker": "D",
+        "text": "Unchained is now a part of the Coindesk podcast Network. For the latest in digital assets, check out markets daily five days a week with host Noel Atchison. Follow the Coindesk podcast Network for some of the best shows in crypto."
+    }
+]

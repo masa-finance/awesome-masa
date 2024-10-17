@@ -1,0 +1,198 @@
+[
+    {
+        "speaker": "A",
+        "text": "This episode is brought to you by Shopify. Forget the frustration of picking commerce platforms when you switch your business to Shopify, the global commerce platform that supercharges your selling wherever you sell. With Shopify, you'll harness the same intuitive features, trusted apps, and powerful analytics used by the world's leading brands. Sign up today for your dollar one per month trial period@shopify.com. tech. All lowercase. That's Shopify.com tech."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey everyone, if you like this podcast, go behind the paywall to get privileged access to the smartest minds in finance. Join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off our essential membership for the first year. Now to the top analysis of today's crypto markets."
+    },
+    {
+        "speaker": "C",
+        "text": "Jacob Steves, founder of Bittencer. Welcome to real Vision Crypto Daily Briefing thank you."
+    },
+    {
+        "speaker": "D",
+        "text": "Pleasure to be here."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, it's a pleasure to have you. I'm really excited to talk about these topics today, the union of AI and machine learning, artificial intelligence and so much more. But first, I want to take a look at price action today. Bitcoin trading right now at 26,888. We've lost the 27 handle there on the last 24 hours. It's down about a 10th of a percent, trailing seven days, up about two and a half percent. Ethereum, we're off the 19 handle, trading right now at 1862, up on a trailing 24 hours basis, about a quarter of a percentage point, trailing seven days. A little bit better, up 4%, trailing seven days on Ethereum. Jacob, lots to talk about here. Exciting technology. I found this a really interesting topic I'm excited to have here, I should say. Of course, it's very early with this technology, not an endorsement of any technology and of course, never an endorsement of any token. But, Jacob, tell us a little bit about what you guys are doing over at Bittensor."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, hopefully we can have a conversation that raises those prices. Ashley? What we're doing at bittensor is we're revolutionizing artificial intelligence the way that we can create it and distribute it to people. We're using peer to peer technology to make it so that we can combine computation from across the globe and incentivize it into a single neural network so that people can access it anywhere in the world. And it's open, really open, unstoppably open. So that's bittensor in a nutshell."
+    },
+    {
+        "speaker": "C",
+        "text": "So let's talk a little bit about the evolution of the technologies we're chatting a little bit about this offline before we started the show today. Talk about your involvement in bitcoin and the notion of what happens to all of that compute power that essentially is just about finding and guessing random numbers."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, well, I wont speak badly about bitcoin, because I think that bitcoin solves a really important problem with inside the space, and its not exactly wasted computation in the sense that it secures bitcoins network, which I think is it underpinsd all of this entire industry. If bitcoin was gone, we'd have a problem, all of us, because we wouldn't have a safe haven asset that we can always be sure that can't be taken out by governments. I think that bitcoin really solves a core problem. But what was shown by bitcoin was the ability to use incentivization to draw together hundreds of thousands of dollars, millions of dollars of compute every day, to hash that particular token. And we can use that to solve other problems in machine learning, specifically for inferencing technology like large language models. And that's what we do on bittensor. We also use that compute to train machine learning models. The largest supercomputer in the world is bitcoin. And it is that way because it's a permissionless system, one that any computer in the world can, can join. There is no bureaucracy. There's no one that you have to ask in order to enter that system, and you can get paid for the work that you do. So it's very liquid, permissionless system, and that's what draws together all of this computation and allows to be used by that network. So we really just borrow that same technological foundation, that same structure of computation as the underpinning of our technology. But it also brings with it a lot of different ethical considerations when it comes to a technology, because it's run on a foundation that every single person can own, a foundation that anybody can contribute to. We're inherently open in a different way than, say, a company that just allows you to contribute, but not own."
+    },
+    {
+        "speaker": "C",
+        "text": "So let's talk a little bit about the functional mechanics that are operating right now within the bittensor network. Talk about what precisely it does in terms of creating value with the computational power."
+    },
+    {
+        "speaker": "D",
+        "text": "So we are measuring computers ability to inference these large language models. A large language model is like GPT-3 GPT four, GPT five. We measure their ability to inference them. Inferencing is when you take an input, pass it through the neural network, and get the output. It's really quite an expensive operation because it involves trillions of floating point operations in the case of larger models, and that output is very valuable. It's the thing that we go to when we use a technology like OpenAI's chat GPT. It's also the deep expense for companies like that that are expending millions and millions, hundreds of millions of dollars per year just to give access to these large language models."
+    },
+    {
+        "speaker": "C",
+        "text": "You're talking about referencing the underlying compute power that drives those LLMs."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. So we, by building markets around these, the ability to inference these language models like, say, at chat GPT, we can force our miners to do that for us in a collective and combine the results into a system that is maybe even more performant or certainly more expansive than any other project on earth."
+    },
+    {
+        "speaker": "C",
+        "text": "Let me just read directly from the white paper, which I was checking out earlier this morning. Quote. A new commodity needs a new type of market. This paper suggests a framework in which machine intelligence is measured by other intelligence systems. Models are ranked for information production regardless of subjective task or data set used to train them. By changing the basis which machine learning is measured, the market can one intelligence which is applicable to a much larger set of problems. Two, legacy systems can be monetized for their unique value. And three, smaller, diverse systems can find niches within a much higher resolution reward landscape. Let's talk about that resolution reward landscape and the market that this creates. Talk about the framework for machine intelligence being measured by other intelligence systems."
+    },
+    {
+        "speaker": "D",
+        "text": "Right. I think to understand that best, you can compare it to what we have as a system right now. So we have a system of benchmarking. There's a set of benchmarks that we use to, to frank language models, for instance. And machine learning engineers team up in research organizations and try to compete on those benchmarks. In Bittensor, we have an incentivized benchmarking system that also combines the outputs of some models with others in this system that's incentivized and also combinatorial. People can find solutions within side this market and get paid for it. So there's an ability for machine learning engineers to come to Bittensor and provide their innovation, their expertise, their compute, whatever it is to this network and get paid for it in a different way than they would through a traditional academic system, which is sort of locked by the need to run these academic benchmarks. And when it comes to things like changing the reward landscape, what we have right now is very interesting with Bittensor is we have this large network, which is an incentive mechanism, and we have thousands of people out there that are trying to compete inside it. And what shows up in that ecosystem is nothing that we would ever be able to predetermine. We wouldn't be able to foresee what would show up. But instead, people that are driven by the self interest, that are driven by markets, come up with super intuitive ways of solving the core problem. In this case, the core problem is how can we inference these computational models very quickly and efficiently? So that's what bittents are solving. That's where the market is situated. And however we direct that market, the community will optimize it in the same way that for say, bitcoin, the market is towards hashes. And then the global community works its way around trying to create those hashes more efficiently and way more efficiently than say, any, any centralized corporation could attain. I mean, I like Andrea Antonopoulos quote that theres no way that the United States would be able to take over bitcoin, because can you imagine a bureaucracy like the United states being able to source the hashing power thats required to take on the largest miners? All of these disparate, hyper efficient corporations that are driven by a profit motive underneath an incentive mechanism. And so thats the technology that were using were marrying the incentive that drove bitcoin and applying it to the underlying methods of incentivizing machine intelligence. So how can we drive the production of machine intelligence with inside of our peer to peer network? How can we pull out the highest quality models into our ecosystem? And that's what we see. So when we built our latest network that was designed to do chat completions, the ability to answer questions efficiently and, and also information ly dense, we found that people were able to go and find the models that would fit into that network. So they ran the Falcon 40 billion s and they ran the stability AI and the vicunas, and they hooked up the clawed API endpoints into the network to get paid for it. So we extracted all of this intelligence value through the network by just aligning the incentives with this thing that we wanted to produce, which was inferences per second. I mean, I say that's quite technical, but really that's what we are measuring, because it's the inferencing of the machine learning models that produces the actual intelligence, you could say. So that's what we measure. And then behind the scenes, people fine tune these models. They train their own. They procure all of this value into the system and make it open to the people that are holding tau."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back. So let me ask you this. In terms of markets and incentivization, that's sort of what pulled me down this rabbit hole in 2017 when I got interested in bitcoin myself, because I just thought it was such an incredibly interesting and elegant system to incentivize people to secure the network. Walk us through a specific example of how this type of commodity works. In the case of bittencer, in terms of the actual functional mechanics of the model, what it's being solved for, who the participants are, what the market activity is, and how value gets generated in that process."
+    },
+    {
+        "speaker": "D",
+        "text": "Let me. I think people understand what's being created by technologies like chat, Chipotle, the ability to create bots that are assistants for you. And we are building a number of those technologies. On top of Bittencertaine, there's multiple companies that are building API endpoints, keeping them open or closed or paid or whatever, running on top of our infrastructure. So that's something that we can create, and we can do it in a way that no particular organization owns. That's really interesting, and it's also adapting and growing and becoming better every single day."
+    },
+    {
+        "speaker": "C",
+        "text": "Jacob, are there functional examples of that that exists today where people can actually go and experiment with the technology, attempt to generate value in terms of artificial intelligence from some of these applications today?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, there's a number of assistance that people have made. They're all kind of coming out right now because this technique we've just recently poked our head into the completion arena, which allows people to use the technology in a way that makes much more sense to a user. Before, we were working on numerical embeddings, so it's much more machine learning operations, style understanding. It's very like, okay, what is an embedding that won't really hit many of the viewers here, won't really understand what that is, but it's a core machine learning tool for doing things like sentiment analysis. Now we're working with the alongside embeddings, the ability to actually generate text, to answer questions. These kinds of things are what we are incentivizing the miners to produce. And so from there, we can actually build applications, all sorts of applications. I mean, you've seen a lot of them over the last month or so, things like auto GPT and baby AGI. These are all technologies built on that fundamental commodity."
+    },
+    {
+        "speaker": "C",
+        "text": "So these are technologies that are using bittensor as part of the value creation chain."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, they're literally hosted on top of bittensor, so they're uncensorable versions of those applications. It's an auto GPT that no one can turn off. I think that's kind of cool. There's in the same way that Ethereum built contracts that were unstoppable, people can build AI's which are unstoppable in a similar way on top of bittensor, because it's not run by any particular individual."
+    },
+    {
+        "speaker": "C",
+        "text": "So how does that work in terms of the incentivization and the compute power that's expended to process this? Obviously, folks know that LLMs require a great deal of training, obviously very computationally intensive. Talk a little bit about how that substrate works."
+    },
+    {
+        "speaker": "D",
+        "text": "Right. Well, the expense for LLM, training for LLMs is definitely the training. The training is very expensive, but inferencing is also really expensive."
+    },
+    {
+        "speaker": "C",
+        "text": "So let's talk about what that means and define inferencing for folks who don't have the background in AI."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, so training is where you take the language model that is just a set of randomized weights, and you use a very large dataset, like the pile or our mountain data set, and you find you basically pre train it with all that information. So you get it to read every book in the universe, you get it to read all of Wikipedia and write it. And there's nothing particularly that doesn't have a particular problem in mind that it wants to solve. It just tries to understand the language by predicting the next word in the sentence. And that's a really, really good training, pre training technique to extract a lot of the understanding of language, just how things are shaped in the world. What you know, is king related to queen, and in what direction is it related to those two terms? Fine tuning was where the process of taking those language models and turning that knowledge into actionable results. So can it answer a question? Right, with the knowledge that is learned, will it now respond to a question? That's the fine tuning of the."
+    },
+    {
+        "speaker": "C",
+        "text": "Can you give us an example of that specific phenomenon, the fine tuning and how it works?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, absolutely. So it's primarily like a supervised technique, but sometimes it's done using reinforcement learning. In order to attain a model that can follow instructions, you need to specifically have a set of examples that do that thing. So OpenAI collected a large data set of, of fine tuning examples by asking people to write answers to questions and also to write questions that could be answered. And then they took those questions and answers and used those to fine tune the model. So they were like supervised examples to train their GPT four likely."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. And obviously that's something that requires, uh, quite a great deal of time to do, uh, talk a little bit about where we are in that process as, uh, as you think about it, uh, in terms of this optimization and training aspect, because this really is the key to getting higher quality results."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, I think that the, the field is, is changing now because the real question is, can you inference these models? Can you get access to them? And as they're getting larger and larger, like GPT four, there's a lot of expense going into training these models for sure. But the real expense for these companies like OpenAI is actually just having them online and giving access to people. So that's where Bittensor is really shining forth right now."
+    },
+    {
+        "speaker": "C",
+        "text": "And that's because of the cost of the compute power."
+    },
+    {
+        "speaker": "D",
+        "text": "It's the cost of the compute power. It's dollars. It's $700,000 per day estimated for OpenAI just to run that technology of chat, GPT. So it's hundreds of millions of dollars per year, which is actually magnitudes larger than what they likely expended to train GPT four, which is interesting. And it said something about how there's just an expense for AI to exist in the first place. So bit tensor is an inferencing network, and we are also a training network because we believe that the outputs of the models themselves can be used for training in a much more dense form. So you can fine tune your models very easily, you can train them, and that's what vicuna did and koala did. These models that were fine tuned, actually trained off of OpenAI's endpoints or barred endpoints from Google. There's certainly a market arising for raw intelligence itself that we plug into. But I think really importantly, one of the things that we have is the ability to create unstoppable applications, allow us to build a machine learning system or an AI company, which everybody can get a piece of and everybody can use and be sure that it won't turn off or turn against them or against their favor. So that's something that we have in spades of."
+    },
+    {
+        "speaker": "C",
+        "text": "Let's talk a little bit about the numbers there. $700,000 a day times 365, back of the envelope. It's about a quarter of a billion dollars a year to operate the network. Let's talk a little bit about some of the numbers that you guys see in your business in terms of demand for compute power and in terms of the capacity to monetize that. Where is your business right now in terms of the numbers?"
+    },
+    {
+        "speaker": "D",
+        "text": "Well, I mean, we have usage right now on a lot of our miners, where they're just continuously churning out responses so they're at full capacity in some sense, depends where they are in the system. It's hard to get total view on what's going on because the system is in some sense a black box. It's a peer to peer network. If we get information from the miners, they have to expose that information. We don't have total visibility, which we require for there to be permissionlessness."
+    },
+    {
+        "speaker": "C",
+        "text": "Isn't the revenue though, a kind of metadata that would flow off of that?"
+    },
+    {
+        "speaker": "D",
+        "text": "The revenue comes from people that are using the system. They're using the applications that are built on top of the system. And the way that they monetize that is really up to them. So there are multiple heads into the network. We call them validator heads. These are the people that can basically use the technology and they are monetizing their usage. That can be done in numerous types of ways. I think there's a number of core business models that are being created, like standard OpenAI. Here's an API key. You can go use the API key, you can plug that into a lang chain application, or you can plug that into your auto GPT. And there you go, you have your unstoppable version of these applications. That's what we're seeing a lot of because I think people are basically copying other business models. But in the future there might be many different types and perhaps people will give things away for free. Having this decentralization is really important for not having just a single entity that can control who gets to access the system. So we are not the gatekeepers ourselves. We built the technology so that other people can monetize it. And people don't come to us and ask, can I build something?"
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing."
+    },
+    {
+        "speaker": "E",
+        "text": "This podcast is sponsored by Ramp. Are you the decision maker in your company? Consider this. For the first time in decades, there's a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your company's spending and control who spends what. With each vendor, ramp software collects and verifies receipts instantly. To save your team valuable time. Ramp automates data entry and routine tasks with automated approvals, expense categorization, and bill payments. Time consuming tasks, which means you'll stop wasteful spending and close your books in hours instead of days. Businesses that use ramp add up to 5% to their bottom line the first year. If you're a decision maker, adding ramp could be one of the best decisions you've ever made. Get $250 when you join ramp for free. Just go to ramp.com easy. Ramp.com easy ramp.com easy cards issued by Sutton bank and celtic bank members of the IC. Terms and conditions apply."
+    },
+    {
+        "speaker": "D",
+        "text": "Right."
+    },
+    {
+        "speaker": "C",
+        "text": "It's permissionless in that sense. But is there a metric about how much revenue is being generated from the compute power in this decentralized world? Is there any mechanism that you guys have in place to measure that across the network?"
+    },
+    {
+        "speaker": "D",
+        "text": "Well I think that the best way to measure that would be what are people buying the token for and how much inflation is there. So that would therefore reflect in some sense the demand for the currency and why people would want to use the network. So that's there and that's obvious. But that could also be driven partially by speculation. Right now we're building the technologies on top of bittensor that are very akin to our competitors that have core business models. We have a API endpoint that we're releasing with the foundation for instance, that gives people access to this network of language models that would be one of the best in the world. It's not as good as OpenAI, so we have a very similar business model to them."
+    },
+    {
+        "speaker": "C",
+        "text": "So let's talk about the token you mentioned there, Bittencer Tao, I guess it's pronounced Tau off about, call it about 40% on a trailing twelve month basis. Talk a little bit about the functional mechanics of the token, the tokenomics, how the token participates in value creation in the web three network that you're building."
+    },
+    {
+        "speaker": "D",
+        "text": "Right well Tau acts as a bandwidth token of sorts of holding Tau gives you access to the network. It's also what the miners are competing for access to this token as it inflates with 21 million cap, same as bitcoin. So when you hold Tau on your endpoint, the miners will inference these requests for you. They'll do the job of attempting to open up their computation so that you can use it for your application. Thats how Tao works in a nutshell its quite simple."
+    },
+    {
+        "speaker": "C",
+        "text": "Can you share with us any economic data about Tao in terms of your sense of the degree of revenue thats flowing off that, how its being priced, how its being traded?"
+    },
+    {
+        "speaker": "D",
+        "text": "I dont have any data on that actually I try not to spend too much time looking at the price here because honestly, as I said at the beginning of the interview with you, what we really care about here is the antifragile nature of the technology we're building. The market goes up, the market goes down, people compete. The miners get more efficient in what they're doing. That's something that a centralized corporation doesn't have. That's something that bitcoin has in spades. It's something that we have in spades, the ability for us to adapt and be anti fragile in the compute and the technology we're building."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, it's really interesting. I went and was reading the white paper, uh, this morning. I got, I think, to paragraph four, uh, before the math got completely overwhelming. And I did not understand, uh, the. Just that, you know, there's really advanced mathematics behind this that you guys are citing in the paper. Uh, and I struggle to get my head around some of these technologies, uh, and don't fully understand them. But it is just an incredibly interesting idea, uh, a decentralized way of processing machine learning and trying to, uh, find a way to balance out those expenditures against the revenue that comes in. As you look forward here on this technology, Jacob, one, three, five years, where do you think we land with this? What do you see the future of this technology being?"
+    },
+    {
+        "speaker": "D",
+        "text": "I think that we're walking into a future where access to AI is not something that's a given. I think that we're walking into a future where digital identity is going to be a serious concern for your ability to access these super powerful technologies and these tools. I think I like to imagine it like an analogy. Imagine if the Internet itself had been invented by a Silicon Valley company. What if it was Sam Altman Mach two that invented the Internet, and they were going to Congress and telling them that, hey, well, we should probably have some regulations around this technology that we're calling the Internet right now, because people are watching pornography and they're sending messages out there that we don't like. And so we're going to put this on you guys. And it probably would have been regulated, and it probably would have been made so that only a small number of people could actually use the technology that we considered so important to our lives. We have a whole Internet based economy. In fact, our entire economy is now Internet based. And that wouldn't have happened unless the technology had been fundamentally decentralized from the very beginning, built for almost a separate purpose, not by Silicon Valley profit seeking motives. And so that's why I believe that this decentralization, the ability to build something and a technology that is important as AI, on a decentralized footing, is so important for the future of humanity, really. And where I see us going, where I see us fitting in in the future of AI, is definitely as a periphery to the main players, something that people can use across the globe without any censorship, a true Internet based artificial intelligence system. And I think that the trajectory is going to be similar long term to what a technology like bitcoin is going through right now, where it's being used by governments and countries around the world that are outside of the major players. You look at what El Salvador is doing, how theyre building an entire economy based on bitcoin that is going to be a third pillar outside of the current BRICS versus US currency war. I think that building these decentralized networks allows for the smaller players to get a piece of this large technology without having any gatekeepers."
+    },
+    {
+        "speaker": "C",
+        "text": "Very interesting ideas. Jacob, final thoughts, key takeaways that you'd like to leave our viewers and our listeners with."
+    },
+    {
+        "speaker": "D",
+        "text": "I really think that now is the moment for this technology to come about, to give people access so that people can own something that is going to be the most important technology in the next hundred years, possibly for the rest of humanity. We have an opportunity to embed ourselves at the incentive layer, at the ownership layer, rather than with technologies like Worldcoin, digital identity, connecting us into a system of surveillance. So Bittensor is really driven by that principle. Let's make permissionless systems of AI that anybody can use and come build with us."
+    },
+    {
+        "speaker": "C",
+        "text": "Jacob Steves, founder of Bittensor, thank you for joining us. Thanks for watching, everyone. We'll be back again tomorrow with a special episode of asking for a friend where we'll be going into the fundamentals of the blockchain technology. See you at 09:00 a.m. pacific noon Eastern, 05:00 p.m. london time. Thanks for watching, everybody. Have a great afternoon."
+    },
+    {
+        "speaker": "F",
+        "text": "What's up, revolutionaries? Thanks for tuning in. For more content like this, head over to realvision.com and get unfiltered access to the very best, brightest, and biggest names in finance."
+    }
+]

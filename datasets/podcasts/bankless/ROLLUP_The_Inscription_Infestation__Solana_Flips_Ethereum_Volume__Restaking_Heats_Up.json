@@ -1,0 +1,918 @@
+[
+    {
+        "speaker": "A",
+        "text": "Oh, you're gonna make me say this?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I know."
+    },
+    {
+        "speaker": "A",
+        "text": "What Solana flipped Ethereum, in what metric? And what is our take on that?"
+    },
+    {
+        "speaker": "B",
+        "text": "Bankless nation? It's roll up time. And I think, David, this is our last roll up of 2023. So happy holidays to the bankless nation, wherever you are listening. Man, it's been a crazy year, hasn't it?"
+    },
+    {
+        "speaker": "A",
+        "text": "It certainly has. It's our last weekly roll up. Next week, the bankless listeners are going to get the yearly roll up whole entire year. And that's going to ship, of course, the last week of December."
+    },
+    {
+        "speaker": "B",
+        "text": "And we know that because we pre recorded it this week. We are not working during the holidays, but during next week, actually, I think we're releasing four podcasts, something we have some pent up."
+    },
+    {
+        "speaker": "A",
+        "text": "You know, it's a bull market. When we are doing, minimum, one podcast a day, and sometimes people is doing."
+    },
+    {
+        "speaker": "B",
+        "text": "Two, you will have so much content, so much content. Unwrapping presents next week, so hope you guys enjoy. But David, we got a packed agenda today. What's first on our list?"
+    },
+    {
+        "speaker": "A",
+        "text": "Inscriptions have had their exodus from bitcoin and now are infecting every single chain that it can get its hands on one by one by one. The inscription locuses are taking down chains. We're going to talk about that big."
+    },
+    {
+        "speaker": "B",
+        "text": "Clog, I guess, like you're clogging up your drain pipes. I want to hear your take on that."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't think that one's going to stick."
+    },
+    {
+        "speaker": "B",
+        "text": "We also have commercials. Hopefully these stick. Bitwise released its first bitcoin ETF."
+    },
+    {
+        "speaker": "A",
+        "text": "I think the big question is how many millions of people are going to see the bitcoin ETF? But after that, Elizabeth Warren writes a nasty to our entire industry, telling to us to stop defending ourselves and just bow down and take it."
+    },
+    {
+        "speaker": "B",
+        "text": "Why are you fighting back?"
+    },
+    {
+        "speaker": "A",
+        "text": "Why are you fighting back? Then we got a ton of crypto native stuff to talk about as well. What else is coming up?"
+    },
+    {
+        "speaker": "B",
+        "text": "Eigen Lair, they hit a billion in ETH total locked value. So restaking that narrative is heating up. I think we'll see a lot more of that in 2024. I know we got some episodes tune. David, we got something else to mention, too, because you are right now you're in the state of Washington, so you're just outside of Seattle somewhere, I believe, recording from your childhood room, I think, although you corrected me. Not your childhood."
+    },
+    {
+        "speaker": "A",
+        "text": "Crypto childhood. Not crypto childhood."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, wow. A different kind of childhood where you're maybe born again into crypto."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, God. That's how it felt. That's definitely how it felt."
+    },
+    {
+        "speaker": "B",
+        "text": "A little too religious here. Okay, but you're going to Argentina. I'm ready. Tell us about it, David. How can we experience bankless in Argentina?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I'm so glad you asked. There is a bankless meetup in Argentina. Friday, January 5, TBD. If on that date, that is the current date that is locked in. But we have 100 slots, and in the 1 hour that I sent this invitation out, $80. He's telling you already signed up. So we might need to move it a different day. TBD. Might be Thursday. If it's not Friday, it's Thursday. No. Okay, so on Friday, you can't rent out the whole bar. You can only rent out a part of the bar, which is what we did on Thursday. We could rent out the whole bar anyways, either on Friday. The current time is Friday, January 5, from 07:00 p.m. to 10:00 p.m. at the wine bar in Palermo. In the Palermo neighborhood. If we get so much more demand, which I'm guessing we are, we might move it to Thursday. Might as we move it to guys."
+    },
+    {
+        "speaker": "B",
+        "text": "Because David is spending, I believe, what, two weeks in January, Argentina."
+    },
+    {
+        "speaker": "A",
+        "text": "One week in Buenos Aires, one week in El Chal, ten, one week in Toro del Paine."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, well, I really want to hear what the crypto scene is like in Argentina, because I know I've."
+    },
+    {
+        "speaker": "A",
+        "text": "Yo no cuantos Personas escutche a bankless and Buenos Aires, pero apparently mucho."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, absolutely. So if you want to see David in Argentina, go check that out. All right, David, let's talk about the markets this week, shall we? Bitcoin price. And this is like, the year ender, because I don't think we give our, like, up to date prices in the."
+    },
+    {
+        "speaker": "A",
+        "text": "Yearly roll up, yesterday's prices in the yearly roll up. Today, we give today's prices, which is actually yesterday for current listeners."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, wow. So once again."
+    },
+    {
+        "speaker": "A",
+        "text": "Once again, we don't know why we do this section."
+    },
+    {
+        "speaker": "B",
+        "text": "We don't know why we do it, but thanks to Kraken, because I know these charts are looking really good, and they've held us up all year. You know what? Let's just salute Kraken. Salute these charts. Salute our progress."
+    },
+    {
+        "speaker": "A",
+        "text": "If you want to scroll out, you need to set larger candles. You are at the 1 hour candles. You need to go to day candles."
+    },
+    {
+        "speaker": "B",
+        "text": "Thank you, David. Here we go. One day. This is what, 20. I like the charts, the yearly charts. This is what 2023 looked like for us."
+    },
+    {
+        "speaker": "A",
+        "text": "Elusively up. That is an up chart."
+    },
+    {
+        "speaker": "B",
+        "text": "We started at 16k."
+    },
+    {
+        "speaker": "A",
+        "text": "We started the year with a short squeeze from 16k over to, like, $23,000 on bitcoin."
+    },
+    {
+        "speaker": "B",
+        "text": "Look at us now. Look at us now. They totally look at us now. Bitcoin, great year for bitcoin. And how was that on the week, David? Tell me about that, because I know that's important in the roll up."
+    },
+    {
+        "speaker": "A",
+        "text": "Uh, we got some, you know, some muted response at the top of the market cap stack. Bitcoin up 1% on the week, but, you know, 1% a week. Can't. Can't complain about that. Bitcoin starting the week at 43 100, ending the week at 43 500, up a modest 1%. We love it. We love it."
+    },
+    {
+        "speaker": "B",
+        "text": "I think that's about 153% on the year. So big, big year for bitcoin here. Let's give the same treatment to Ethereum. I'm going to zoom all the way out on the Kraken charts here. Okay. The beginning of January 2023, we were 1200 ETH, just above. Not lows, but just above 1000 eTh. Now, where are we?"
+    },
+    {
+        "speaker": "A",
+        "text": "We are at $2,200. So a choppy, crabby up chart for ETH, that is a crap uppy crab pattern."
+    },
+    {
+        "speaker": "B",
+        "text": "It makes me a little crappy. I feel like it should be higher."
+    },
+    {
+        "speaker": "A",
+        "text": "Why is ETH, like, not following the market, not trending with the market? I mean, there's 10,000 different answers. One of the answers is that it overperformed versus the market in 2022. ETH was the best asset to hold in 2022. You lost the least amount of money. If you were down further in the market cap, you lost more money. And so part of ETH's lack of performance in 2023 was because of it was overperformed in 2022. It was the consensus bet to hold in 2022. And then as soon as risk went on the table, there was like, why? Why would you buy Eth? Every. Everyone already has ETH. It's not going to pump, like, some of the low market cap stack. And then also, like, Celsius has been. I think we're going to talk about this. Celsius has been dumping, like, a bajillion dollars, $250 million of ETH over the last week. And Michael Saylor has been buying a ton of bitcoin. And so ETH can just not capture a narrative. It can't capture a wind."
+    },
+    {
+        "speaker": "B",
+        "text": "I think some people would look at this and be like, guys, you're 80% up. Like, be thankful for that. People in, you know, the stock market people, you're like, you almost doubled. Like, why are you upset about that? But, yeah, I think ETH has had an okay year, but not a strong year for sure. So we'll have to see whether that's."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, think about this. Bitcoin started the year at $16,000, ending the year at $43,000. That's almost a three x, almost a tripling to say, like, ETH almost doubled. These are, like, different numbers."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I know. Okay, how about the ratio? Down or up?"
+    },
+    {
+        "speaker": "A",
+        "text": "A little down. Zero, five, one. It touched 0.05 touches. Basically, the low that has been in a long ass time."
+    },
+    {
+        "speaker": "B",
+        "text": "Nobody's looking at the ratio except for the bank. This weekly roll up now, total crypto market cap, 1.7 trillion. So the lows, if I recall it, January 1 of 2023, were about 800 billion, maybe 800, 4850 billion or so. So that's, like a nice doubling on total crypto market cap."
+    },
+    {
+        "speaker": "A",
+        "text": "More than a doubling. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. I mean, pretty impressive. How about layer twos? What did we see in terms of growth?"
+    },
+    {
+        "speaker": "A",
+        "text": "Layer twos had an astounding year in 2023. At the start of 2023, we had $3 billion deposited onto layer twos. We currently have $16 billion. I outperformed most metrics in terms of dollar value out of anything that you can see. And then activity, actually, like usage of layer twos, I think, also did a nice old, like, seven x. We are currently at seven ethereums, setting new highs thanks to inscriptions. We'll talk about that in a second. But sending new highs, and I would say accelerating highs in terms of layer two activity dominance."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Okay, tell me about the movers, because we got some lower down the stack. Market cap movers, we talk about a couple of tokens. Which one do you want to pick out this week, David?"
+    },
+    {
+        "speaker": "A",
+        "text": "The one that is unequivocally at the top of the chart. Right. This week is, say, say with a 50% move week over week, and 140% move on the 30 day time period. So, say, what is. What's the market cap of say right now? It is. Scroll up a little bit. Fully diluted valuation, $4 billion. $4 billion with a float of $900 million. So, like, four to one ish float."
+    },
+    {
+        "speaker": "B",
+        "text": "What is one of these people don't remember?"
+    },
+    {
+        "speaker": "A",
+        "text": "I think it's a parallelized EVM. I think they just pivoted into being a parallelized Ethereum virtual machine chain. And there's a crop of these showing up recently, and I kind of think it's going to be a pretty hot narrative in 2024. Layer ones that are using the Ethereum virtual machine, but they've taken it, they've deconstructed it, and then recomposed it to be just far more performance, far more parallelized. Monad is doing this, say, pivoted to doing this because they realized the monad strategy was correct. I, uh. And, uh, I think. I think that's going to be a big thing in, in, um."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think so. I think we'll get a monad sometime in, like, the first half of 2024, which will be another one to this list. And you could see kind of the justification for it. And it, to me, it kind of flows down from ethereum. So you have a theory. And what's that? You know, 250 billion or so market cap. And what is a Solana now? Is that about 40 billion market cap? Something like 3037-3837. Uh, and then, and then you have, say over here, and people are like, well, if this is like. But faster, an EVM, and it's only $4 billion."
+    },
+    {
+        "speaker": "A",
+        "text": "Everything we like about the EVM and none of the baggage of the eVM."
+    },
+    {
+        "speaker": "B",
+        "text": "So if it was valued at Solana valuation, it would be a nice ten x. Right. And that's how these types of markets work. Now that you have a narrative which seems to have some product market fit narrative, like fundamentals, who knows? You can't really separate the two during the bull market in this way. It has to kind of burn off during the bear. But, yeah, you see this look. They're comparing. They're benchmarking Solana, and they're saying, yes, Lana does 10,000 DP's. We do 20,000."
+    },
+    {
+        "speaker": "A",
+        "text": "20,000 parallelized."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's like, it's. It's. It's a high TPS layer. One season. That's what it's been for the last couple of months."
+    },
+    {
+        "speaker": "A",
+        "text": "Moving on back to bitcoin. You saw this commercial going out this week, Ryan. This is a commercial from Matt Hogan from Bitwise doing."
+    },
+    {
+        "speaker": "B",
+        "text": "He's been on the podcast."
+    },
+    {
+        "speaker": "A",
+        "text": "He's been on the podcast a couple of times. I actually learned a few things about ETF and stock market commercials. You can't actually advertise the ETF. You can't say, buy the ETF. You can't show the ticker on the commercial at all. You can't advertise the ETF. Just, you know, securities regulations can't sell financial products on tv commercials. We can sell pharmaceutical drugs here in America on tv commercials, but you can't sell financial instruments."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, because finance is dangerous."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Right. Okay, so with that context, here is the bitwise bitcoin commercial. It's going to be a little bit rough for your podcast listeners, but we'll unpack it afterwards. You know what's interesting these days?"
+    },
+    {
+        "speaker": "B",
+        "text": "Bitcoin. Look for bitwise, my friends. Hey, David, it feels. It feels good to have the most interesting man in the world showing our bags right now. I gotta say, it's good commercial, well done."
+    },
+    {
+        "speaker": "A",
+        "text": "Bit wise, just good branding. Bit wise. It's a great name. It's a great name for, like, normies to understand. Bit, as in bitcoin wise, as in wisdom. Like this is a financial word. Like this matters."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, you can't pick a favorite ETF, David. You can't."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes, I can. I pick a favorite chain. I can pick a favorite ETF."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, really? It's supposed to be more agnostic, more neutral than that. What about Vanek? They got the Hodl meme. Remember, we just had Matt Siegel."
+    },
+    {
+        "speaker": "A",
+        "text": "Vanek's great."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, but are they your favorite? How about Blackrock? What if Larry fink comes on black rock?"
+    },
+    {
+        "speaker": "A",
+        "text": "Blackrock is going to be just fine with or without my support. Like, they don't need muy at all. They are owned the world."
+    },
+    {
+        "speaker": "B",
+        "text": "I like Matt Hogan, so we like."
+    },
+    {
+        "speaker": "A",
+        "text": "We like Matt. We like bit wise. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "A message to all the bitcoin ETF's out here. You have to compete for our love."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Okay. With commercials."
+    },
+    {
+        "speaker": "B",
+        "text": "With commercials. Or whatever mechanism you have. Okay, David, here's a question for you. As we end the year, phishing schemes have really picked up. Like, people trying to pickpocket your crypto wallet and doing it bad. Like, how much do you think has been stolen the last couple of years by phishing attacks on the last two."
+    },
+    {
+        "speaker": "A",
+        "text": "Years, 2022 and 2023? Over hundred. Over 100 million. Over 100 million. Over 100 million."
+    },
+    {
+        "speaker": "B",
+        "text": "You're right. Over 100 million. And that feels like a very safe bet. It's ten x that it's $1 billion. Okay. Drained. So there's actually."
+    },
+    {
+        "speaker": "A",
+        "text": "This is looking at the notes. $1 billion since May of 2021."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so that's two and a half years."
+    },
+    {
+        "speaker": "A",
+        "text": "It was 800 plus million in 2022 and 2023."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, what did I say? That's different."
+    },
+    {
+        "speaker": "A",
+        "text": "You said. You said we can just run with that. You just take the correction."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't want to take it. I don't want to take corrections. No, that's out of scope."
+    },
+    {
+        "speaker": "A",
+        "text": "Get corrected, bro. Live."
+    },
+    {
+        "speaker": "B",
+        "text": "Just take the l. Take the l. Shut up, Brian. Okay. Yeah. So here's the interesting stat about that, David. There's actually more last year in terms of total value drained than this year, which it feels like it's really intensified this year. But last year was about 500 million. This year, it was 370."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, but last year, our price assets were priced higher."
+    },
+    {
+        "speaker": "B",
+        "text": "Exactly. So they probably stole more in units but got less value. Maybe that was it. The largest phishing scam so far was $44.3 million. Uh, this is crazy. And according to the chain analysis, by the way, this. This billion dollar figure is just the. The tip of the iceberg. So there's a lot that might not actually be measured in these estimates. It's a problem we have to solve, man. It's a problem crypto has to solve."
+    },
+    {
+        "speaker": "A",
+        "text": "The worst thing about these numbers, like, okay, 2023, there was $376 million fish. 2022, $516 million fished. Like, sadly, phishing. Phishing attacks are also, like, long tail attacks, so they're not like fat tail attacks or, like, the wormhole bridge gets hacked and then jump capital spends a billion dollars to bail them out. These are, like, individuals. These are individuals clicking links on Twitter in discords. Like, these are individuals losing money. It's not. Sadly, it is, like, the worst type of loss."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, you can imagine when AI gets combined in here where you could have somebody deep fake call you and pretend to be your mom or your grandmother or something like this. You can really ramp up the. The scale of these attacks. So, you know, my method is, I just don't trust anybody."
+    },
+    {
+        "speaker": "A",
+        "text": "I just don't trust anyone. Don't trust."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, you shouldn't trust me. Someone could. This somebody could be deep faking you. Log on a fake Brian on a zoom, and deep fake me."
+    },
+    {
+        "speaker": "A",
+        "text": "Like, we already have 2024. Somebody will use AI and all of the data of you and me on YouTube to create recreation about just, like, how everyone should click this link and ape into this one airdrop or something like this, and that will create out on Twitter, and it will be our likeness, and that will probably happen in 2024."
+    },
+    {
+        "speaker": "B",
+        "text": "Will we get sued for that? That'll be."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, God, maybe because if I like this."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't think so. Can't get sued for that. Well, they would start with Vitalik. We're far less trustworthy than Vitalik. But, you know, maybe with a long tail of fishing deepfakes."
+    },
+    {
+        "speaker": "A",
+        "text": "This is probably a global call to action for people who are about to have a bunch of text messages from their friend saying, hey, like, what should I do when I get into crypto? Like, give them your answer and then tell them. And if you're not careful, you will be phished. And you need to be very cautious. Like, that should come with your onboarding statements to your friends and family."
+    },
+    {
+        "speaker": "B",
+        "text": "That's a big. It's a big ux problem, for sure. Uh, David, let's talk about a flippening of a different kind. You teased it during the intro, and I'm. You say it. You say it."
+    },
+    {
+        "speaker": "A",
+        "text": "Solana has recently flipped ethereum in Dex volumes. So I think on Tuesday or Monday or Tuesday of this week, Solana had $1.5 billion in total Dex volumes on chain, and Ethereum had 1.1. This ascent is reverted. Ethereum has 1.6 currently, and Solana has 1.59 currently. So pretty close, actually. Pretty neck and neck. So I guess congrats to the Solana Dex ecosystem for flipping volumes. Now, I will say, here is my caveat to that. When you have extremely low fees, painting a million dollars in volume costs very, very little. That's the feature of the Solana blockchain. And I think we're going to enter this bull market and all these people are going to compete on narratives and stuff. And not all narratives are apples to apples. Like, Solana has less TVL, less stables on Solana, and it's doing, like, more movement per stable coin on Solana than on other chains, which is cool because that makes it a great payments chain, but having low TVL makes you not a great defi chain because that means your liquidity is not that great. You get to have a lot of Dex volumes on a lot of low supply of coins because your transactions are very, very cheap. And so just brute forcing these comparisons to be apples to apples, we need to take facts and circumstances in, I can go take $500, I can buy one USDC and I can spend all that $500 on that. Spending that one USDC, and I can create some $10 million of volume sending that one USDC around. And so these are some of the nuances between these two chains. Not to diminish or belittle the fact that, like, yo, that's like $1.6 of volume going on, salon indexes, that's. That's a number. Uh, and if we all want to be, want to be sophisticated in our understanding for how these chains work, we need to understand that gas differences in gas fees do create differences in how these metrics need to be evaluated."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think all that's true. And it's also true that this is a pretty massive accomplishment for Solana. And the first time ever, it's actually surpassed, um, ethereum in terms of volume and all those points. Like, I think when transaction fees are low, there's obviously a lot of wash trading that could happen. So you can't take one of these metrics and be like, this is the one. This is the one. But I don't think sensible people really do that. I also think the other thing you need to take into account, of course, is all of the other layer twos. It's interesting that there's, like, ethereum, arbitrum, and, like, Ethereum and arbitram."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, it's just Solana versus the Ethereum layer one. Oh, they're not including Ethereum layer two."
+    },
+    {
+        "speaker": "B",
+        "text": "SDhe, still a big freaking deal, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Because there's $700 million of trading on arbitrum. That would put a theory between add all the other layer twos, like."
+    },
+    {
+        "speaker": "B",
+        "text": "Ethereum narrative right now. It's like it's kind of fractured across all of these brands. Like, you know, arbitrum is a theorem. But people don't see that. They see just arbitrary. They see optimism. Anyway, it's a big move from Solana. And that's not the only flipping, David, actually, sole price."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "The price of soul. You like this one just passed the price. The price of XRP. We like Ripple right now."
+    },
+    {
+        "speaker": "A",
+        "text": "We like being on top of the bank chain. That is deserved for sure."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Why do you like that? Because you think XRP is a security, David. Is that what you think?"
+    },
+    {
+        "speaker": "A",
+        "text": "No, that's just coin by banks for banks. I don't enjoy ripple."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't. I've never understood why Ripple is valued. It's still valued at $33 billion. So I wish I could say there's something there, but I don't know what's actually there."
+    },
+    {
+        "speaker": "A",
+        "text": "Solana, 100% deserves to be above ripple."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so it's number five. Number five. And by the way, maybe closing in on a theory, it's got a, you know, cool eight x to go before, so we'll see what's in store for 2024. Meanwhile, Celsius is absolutely dumping on you. ETH holder on chain data shows that Celsius. You remember Celsius? Alex Mashinsky's old scam. Banks are not your friend, and apparently neither was Celsius. Celsius was your worst enemy. They. They are now selling as a result of their bankruptcy, a lot of their eth. And I say their eth, but it's really customer deposit."
+    },
+    {
+        "speaker": "A",
+        "text": "It's really your eth."
+    },
+    {
+        "speaker": "B",
+        "text": "So they're dumping on you with your own assets. Wow. Insult to entry. Over the past 30 days, they sold 243 million eth. And the good news is they got to run out sometime. I think they're getting closer. Uh, although don't have a stat. Do you know how much. How much more eth they have to dump on us, David?"
+    },
+    {
+        "speaker": "A",
+        "text": "Uh, I don't know. I kind of assumed that they would be done, but what the hell do I know? $250 million is a pretty good amount."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's true. And I also know that the FTX bankruptcy has a lot of assets that will be available on the market, uh, here soon. So some of the bankruptcies are getting cleaned up. Yeah. So what do you think of all that? Is? Is this part of the downward pressure that ETH is feeling?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, yeah. So, like, what, the bitcoin eth ratio? Like, why is that down so bad? Like, oh, because Michael Saylor bought, like, $800 million of bitcoin in the last, like, quarter. Why is ETH not able to catch a bid? Oh, because Celsius just sold for $240 million of ETH in the past 30 days. Like, ETH is just taking just wallop after wallop after wallop. And, like, there's this actually, like, fantastic synergy for the Solana narrative. Whereas Solana is actually still, like, pretty small in comparison to Ethereum. It's got a ton of energy, but in the grand scheme of things, it's kind of still just like a spec. And so it's not ether that's vacating ether going to Solana, but it does appear like that in this. In a simultaneous nature of Michael Saylor buying a f ton of bitcoin and the ETH BTC ratio going down and Celsius selling all of his ether. And so the ETH is just underperforming. Meanwhile, coincidentally, Solana is having, like, a renaissance of its narrative. And I think, like, all of these things are, like, lined up to make, like, ether the currently probably the most hated asset I have ever seen in the crypto meta in my entire time."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, people say that I had that claim that that tweet earlier this week, and people said that Ethereum has a persecution complex. It's still number two. It's still $250 billion."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, that's like them playing both sides, right? Like, when. When it comes time for eth to be defended, they're like, why are you defending yourself, too? But it's just like, if you go onto Twitter, just like, it's totally universal."
+    },
+    {
+        "speaker": "B",
+        "text": "I think that 2024 will kind of be the year. This is just partway through the story, so let's see what happens in 2024 for sure. David, what do we have coming up next?"
+    },
+    {
+        "speaker": "A",
+        "text": "Coming up next, inscription. Locuses are out of control, plaguing all the chains, hopping from chain to chain to chain, heating them dry as they go. That's a bad image. Second up, Elizabeth Warren. Even worse image with a holiday nasty gram for all of us here in crypto. But before all of that, a moment to talk about some of these fantastic sponsors that make this show possible, especially Kraken, who's been with us throughout 2023 and is fighting the SEC, and we appreciate them so much for it. And it will also be our favorite exchange in 2024 as well. If you do not have an account with Kraken, what are you waiting for?"
+    },
+    {
+        "speaker": "B",
+        "text": "Inscriptions. They're invading everywhere. They're clogging up our chains. David, what are inscriptions? And why are they taking down multiple chains this week and causing massive gas spikes?"
+    },
+    {
+        "speaker": "A",
+        "text": "So inscriptions were the ordinals phenomenon that came out of bitcoin, where you could write arbitrary data through a single satoshi, which unlocked a bunch of cool features, starting with NFTs, but really expanding from there. And then that same primitive has hopped to other chains, where. What are inscriptions? They are just using chains as data availability chains. All chains are data availability chains to some degree. And they're writing inscriptions. They're writing packets of data, bundles of data. What kind of data? Whatever data you want. Open ended, like Turing complete, fully expressive. And so they write just a packet of data onto chains, and it is very resource intensive because data is the thing that is expensive in the crypto world. So inscriptions are just going from chain to chain to chain. Who's bringing them there? I don't really know. Kind of the free market. A lot of bots. A lot of this is bot activity, because there's no way that you can take down a chain without just having just. It's basically spam. It's basically, well, be."
+    },
+    {
+        "speaker": "B",
+        "text": "Call it spam, but I, you know, I don't know if it, like, I don't know if that's entirely true. Right. So for bitcoin, you know, famously earlier this year, they've been using inscriptions for, like, a primitive nft type of network and for containing BRC twenties, which are like bitcoins, kind of version of a token, and they've kind of not spam."
+    },
+    {
+        "speaker": "A",
+        "text": "But when inscriptions show up on arbitrum and then take down the chain two days later, or that's because, like, people just bought it the hell out of it. It's spam. If it's bots."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't even know if I could give you on that low utility. They pay the same gas fees that everybody else does for."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, but the things. The data that we're putting on chain is not. It's not interoperable. It's for one single purpose. Like who? No one. Very few number of people care. Sure, Ryan, one person cares. But what does that do to the arbitrum or Celestia or Polygon? I think these even happen on Solana. These don't benefit. There's no welfare for users here. Right. There's no global usefulness from these things. But."
+    },
+    {
+        "speaker": "B",
+        "text": "So it's not. Are you saying it's not out of bounds of the protocols ability to do it, but you think it's, like, outside of kind of like some loose social contract of, like, what's, quote unquote utility or what's valuable? And you're saying it's. You're not shunning inscriptions, though. You're just, like, observing it and being like, that's annoying."
+    },
+    {
+        "speaker": "A",
+        "text": "It's. Yeah, it's just like, yeah, it's an annoying thing. Like, if I took one ether and I, like, took all of that gas money and just loaded up dick butts and placed that on the ethereum layer."
+    },
+    {
+        "speaker": "B",
+        "text": "One, I would be annoyed by that."
+    },
+    {
+        "speaker": "A",
+        "text": "That would be annoying. That would be annoying for me."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay. I didn't expect to get in a debate over inscription, so let's put that aside. I don't know how I feel about them, like, spam or not. Anyway, let's talk about what they've been doing on other chains, non bitcoin chains. So I said they've taken down multiple chains. What's been going on over the past week?"
+    },
+    {
+        "speaker": "A",
+        "text": "So Arbitrum's sequencer briefly stopped working because they were just overloaded with transactions, specifically, like, just BRC 20 tokens on other changed, which is, like, totally an anachronism, but, like, whatever. Avalanche, kronos ZK sync also experienced degraded performance. It briefly also hit Celestia as well. Celestia, I believe, stopped producing blocks, bro. Wow. I think that Celestia hasn't confirmed that, but people are like, yo, like, Celestia block explorers stopped showing anything for, like, 20 minutes even plus. And so, yeah, it's kind of nuts. It's just, like, consuming the resources of all the chains in a very relatively cheap manner. It's kind of a question of resource pricing. Like, if we are spamming, spamming chains because data on these chains are cheap and they're also taking down the chains, well, then either we need to figure out our shit or we need to increase the cost of data, one of these two things. But I think it's good because every single network is being stress tested at the moment in, like, a live production real environment."
+    },
+    {
+        "speaker": "B",
+        "text": "And it's not happening on Ethereum, though. Why is that? It's just too expensive."
+    },
+    {
+        "speaker": "A",
+        "text": "It's too expensive, and Ethereum has perfect."
+    },
+    {
+        "speaker": "B",
+        "text": "Liveness, so it's just people can't afford to spam the network using call data because there are higher value use cases that purchase that block space ahead of Ethereum."
+    },
+    {
+        "speaker": "A",
+        "text": "Ethereum, called data space, is meant to be for layer two chains. And people who have a ton of."
+    },
+    {
+        "speaker": "B",
+        "text": "Eth, high execution, like, high TPS execution environments are definitely gonna have to deal with this, right? This simple attack, this really, it's very cheap to simple attack a chain with, like, quote unquote spam."
+    },
+    {
+        "speaker": "A",
+        "text": "Here's a tweet from Hunter from the arbitrum team, where he says, arbitrum one hit an all time high of 4.3 transactions in 24 hours today."
+    },
+    {
+        "speaker": "B",
+        "text": "That was the day, 4.3 million."
+    },
+    {
+        "speaker": "A",
+        "text": "4.3 million transactions in one day from inscriptions. And if you, you can go to, like, a layer two b, and you'll see just like, the massive spike in activity. Um, and so he says, uh, but cooler than numbers was the incredible support for that came from the other layer twos and layer ones for the arbitrum community. Oh, it feels like we're going to see more camaraderie as this bull market kicks into gear. And, yes, I'm excited. Oh, I hope so. So, yeah, distributed sequencing, where rather than having one single extremely high performance sequencer and splitting that into, like, two or three or four, can maintain liveness while still having, like, the vast majority of the scale, like, reducing total scale total throughput by just, like, a few percentage points, but then also, like, having a, you know, 99.9% uptime. Uh, and like I said, this is ultimately going to be good for all single all chains because we're all going to get stress tested by, like, bullshit before we get stress tested by normies with their bullshit. Meanwhile, just to say, just inscriptions started on bitcoin. Haven't left bitcoin either. So inscriptions continuing to surge there as well. There's almost 300,000 unconfirmed transactions. Oh, there are 350,000 unconfirmed transactions in the bitcoin mempool $37 perennial bitcoin. The typical transaction in bitcoin over this."
+    },
+    {
+        "speaker": "B",
+        "text": "Last week, when they're on the bitcoin, David, they're not spam, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, you know, they're not. I don't know. This is all."
+    },
+    {
+        "speaker": "B",
+        "text": "Let's move on. Gary Gensler and Elizabeth Warren, the anti crypto army, the generals in the anti crypto army, they are on the attack again this week. They couldn't even give us a break during the holidays, David. Can you believe that? So today I'm an actor."
+    },
+    {
+        "speaker": "A",
+        "text": "Lazy."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. The commission denied a petition for rulemaking filed on behalf of Coinbase. Remember, a few months ago, Coinbase was just like, hey, please give us rules. Can you give us, like, clarity on the rules? And SEC didn't respond, like, denied you providing clarity."
+    },
+    {
+        "speaker": "A",
+        "text": "Held out to the buzzer."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And then. And then. So the Coinbase is like, fine, we'll get a court to make you."
+    },
+    {
+        "speaker": "A",
+        "text": "All right."
+    },
+    {
+        "speaker": "B",
+        "text": "And this is. The court made the SEC respond and."
+    },
+    {
+        "speaker": "A",
+        "text": "They didn't make the SEC provide rules. They made the SEC respond to the inquiry about whether they are going to provide rules or not."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And I don't know if you want to hear what Gary actually wrote, but he published his own sort of statement on the SEC website. First, existing laws and regulations apply to the crypto securities market. We already have the laws. Second, SEC addresses the crypto securities markets through rulemaking as well. We already do rulemaking. You already have the clarity you need. Third, it is important to maintain commission discretion in setting its own rulemaking priorities. You can't force us to do anything. Basically, you already have what you need. And, like, don't come to me, like, asking for more clarity. You know that. That's what Gary is saying here."
+    },
+    {
+        "speaker": "A",
+        "text": "Thanks, Gary. Thanks for the help."
+    },
+    {
+        "speaker": "B",
+        "text": "We appreciate it. Merry Christmas. This is Paul Graywell from Coinbase saying today the SEC denied Coinbase's petition for rules for crypto after 18 months of silence. Oh, wow. It was 18 months, David. Uh, we went to the court to get the response that the law requires with appreciation for the third circuit. Later today, we'll again seek its help. So they're going to. Again, we're going to do that."
+    },
+    {
+        "speaker": "A",
+        "text": "We're going to keep going."
+    },
+    {
+        "speaker": "B",
+        "text": "No, we actually want an answer. Like, we actually deserve an answer from our regulators on, like, just some basic rules for clarity on what's a security and what's not. CFTC is saying things are not securities, that CC is saying something different. It won't really tell crypto what's the security. It's just drop, dropping these, these charges."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And Coinbase is really gearing up for the big fight. They're keeping the furnace warm with the SEC by continuing to not back down versus the SEC. But then also this, this week, they're also launching a super PAC. I don't know if it's fair to say. Coinbase is launching it. A super PAC political action committee, a lobbyist group for crypto. So the fair shake Super PAC is a brand new political action committee on the scene and all of its affiliates representing the nation's crypto community. And they have raised, Ryan. $78,000,000.20 companies and leading voices inside of the industry to support bipartisan crypto forward candidates in 2024. So $78 million, which is a large amount, going to help support crypto politicians raised in only q four. Ryan. Yeah, it's a federal independent committee supporting candidates committing to securing the US as the home to innovators building the next generation of the Internet. Who can. Where did this $78 million come from? Andreessen, Horowitz, Brian Armstrong himself. Circle and Coinbase, of course, Kraken framework Ventures, jump crypto, multicoin capital paradigm. So basically Coinbase and the VC's, which is great. And I think. I think that is just the perfect role for these particular players, like the exchanges, Coinbase, Kraken and the VC's, like the big leaders who have a lot of capital in this space, who have the most to gain and the most to lose. Right. And so, but also, like, there's plenty of place for, for us as individuals, plenty of ways to help out. Go to standwithcrypto.org if you want to learn more."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, call your congressperson. Email congressperson. There's lots individuals can do. But I will say Elizabeth Warren did not like the industry fighting back against this."
+    },
+    {
+        "speaker": "A",
+        "text": "She didn't like this."
+    },
+    {
+        "speaker": "B",
+        "text": "No. This is where we get to the nasty gram. And she sent this letter not only to Coinbase, but to the blockchain association, which is a crypto friendly education lobbyist group in DC. Kristen Smith there, whom we met before, is the CEO. She's fantastic. She also sent it, they also sent it to Coincenter, the same templated letter. So here's Jerry Britto. He calls this coin center, received the same impertinent letter from Elizabeth Warren as the BA and Coinbase. That's blockchain association. Read it for yourself to see what a bullying publicity stunt is. So I did read it for myself. Basically, Elizabeth Warren is saying crypto is, you know, like being facilitated by Hamas for terrorism. That's like super obvious. And then she referred the Wall Street."
+    },
+    {
+        "speaker": "A",
+        "text": "Journal article two months."
+    },
+    {
+        "speaker": "B",
+        "text": "Freaking debunked many times. Anyway, she's like, look, crypto and terrorism, they're basically the same thing. And then she goes on and says, if you like coin center, Coinbase, how dare you get people from the government or used to be employed by the government, like, working on your behalf. Right? Because she's upset that crypto has hired people from DC to, like, push back against this. And she's asked for, by the way."
+    },
+    {
+        "speaker": "A",
+        "text": "How politics in America is this in every industry."
+    },
+    {
+        "speaker": "B",
+        "text": "I hate that we have to spend $80 million on a super PAC. I hate that we have to do that."
+    },
+    {
+        "speaker": "A",
+        "text": "Get money out of a finance and get finance."
+    },
+    {
+        "speaker": "B",
+        "text": "What's. What's the alternative? Don't defend yourself because the banks are doing it. Let them slap us around."
+    },
+    {
+        "speaker": "A",
+        "text": "What do we do? The bank are doing the revolving door. The banks are supporting Elizabeth Warren."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. At least ours."
+    },
+    {
+        "speaker": "A",
+        "text": "We can't do it."
+    },
+    {
+        "speaker": "B",
+        "text": "At least ours leads to, like, individual rights. Like, it's not fighting for, like, it's. At least ours is fighting for digital civil liberties, like, holding your own private key and running your own validator. Okay. Like, ours, Congress is actually doing something productive for the individual, not just fighting on behalf of a bunch of rights. Anyway, she asks in this letter that all of these organizations who she sent the letter to, tell them how many former military, civilian government officials or members of Congress are on their payroll and list them all out."
+    },
+    {
+        "speaker": "A",
+        "text": "Kind of a demand. It's a little bit demand. Therefore, I ask you to provide the answers to these questions. To the following questions no later than January 14, 2024. How many former military, civilian government officials or members of Congress are currently employed on behalf or by your organization? For all of the officials listed in question one, please provide a summary of their responsibilities. Are they registered lobbyists? Blah, blah, blah, blah, blah. It's like. It's more like you don't really care about these answers. You're just being me."
+    },
+    {
+        "speaker": "B",
+        "text": "It's a pr stunt to just basically say crypto plus hamas, and they're using the revolving door of DC to, like, influence us. Look at these crap to people. That's what she's. She's doing. And, like, she doesn't actually expect a reply."
+    },
+    {
+        "speaker": "A",
+        "text": "It feels like an inquisition."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, it's doubt. Yeah, this is. Yeah, it's. And she knows it's not going to be effective anyway. That's what the anti crypto army is doing. Austin Campbell had to take. I never thought I would see the day when Elizabeth Warren became a proud champion of big banks. Isn't that sad? You know, I remember when she rose on the scene. It was like, for me, anyway, my first exposure to Elizabeth Warren in the aftermath of, you know, the 2008 financial crisis. And she was like anti bank, anti bank. And it was just like, hey, we got a rain. Like, why are they getting bailouts? It's kind of like the whole Bernie Sanders message. You remember those days. Feels very different from that. Here she is partnering with Jamie Dimon, basically saying, yeah, all crypto surveillance states, scams and frauds, and let's clamp down. Meanwhile, this is a peer to peer decentralized money system for the people, by the people, bottom up. And why would she be on the, the bankers and the institution side for that? It doesnt make sense. Its not consistent with what her messaging used to be. Im pretty disappointed as well. I share awesome Campbell sentiments there."
+    },
+    {
+        "speaker": "A",
+        "text": "Ive talked to friends of a friend who, the friend that I was not talking to, the one removed who was a previous intern for Senator Warrens office, says it was just very top down, shrill, did not respect the interns, was like, fall in line, do as you're told. Kind of crabs in the bucket environment."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, yeah. I wonder if other political internships are like that. But anyway, not loving what I'm seeing. We'll see if the tables turn in 2024, but we've got some defensive mechanisms at least. David, what do we have coming up next?"
+    },
+    {
+        "speaker": "A",
+        "text": "Coming up next, we got some crypto things to talk about. Lord Eigen Lair has raised its cap, and then it got, got filled. Inside of 48 hours, $1 billion has been deposited into Eigen layer. We're going to talk about that. And also, Ryan, did you notice that, um, first the Solana phone was kind of marked up as a flop, and then 15,000 units got sold last week. What the hell happened there? Uh, and then finally, ZK Sync has struck another win with a new centralized exchange, layer two from blockchain from crypto.com comma. Their new Chronos chain can become a ZKC chain. And we'll unpack that. But first, I'm almost to talk about some of these fantastic sponsors that make this show possible. Eigen Lair hits $1 billion deposited into the Eigen layer restaking system. So they added six new liquid staking tokens, stakewise, swell network, stator labs, Binance, Beath, Origin Protocol, anchor ETH, and then they also raised the lido staked ETH cap. All of that got failed immediately. Heat and the energy around Eigen layer and restaking is definitely crescendoing liquid restaking tokens, Ryan, have just absolutely captivated my attention lately. I'm going to write an article about that liquid restaking tokens I think is the next meta. I think this airdrop mania and the growth around Eigen layer and the number of liquid restaking tokens is kind of."
+    },
+    {
+        "speaker": "B",
+        "text": "A bunch of TLDR is you can use ether, the monetary unit of ether, to secure all sorts of other apps. We call these Abs's. Right?"
+    },
+    {
+        "speaker": "A",
+        "text": "What is Abs of restaking? Liquid restaking tokens is just like liquid staking tokens, but you also get the restaking yields of Eigen layer baked into these liquid restaking tokens. So like the whole LST war is starting brand new again, is starting fresh with the liquid restaking wars. And I'm absolutely here for it."
+    },
+    {
+        "speaker": "B",
+        "text": "You're here for it?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. A huge theme in 2024."
+    },
+    {
+        "speaker": "B",
+        "text": "This is Sree ROM saying ethereum expanded on bitcoin but could not be built on it. Eigen layer expands on Ethereum by building on it. You know, Sriram definitely putting out kind of some narrative tweets here about ethereum alignment as well."
+    },
+    {
+        "speaker": "A",
+        "text": "Ethereum acceleration, not necessarily ethereum alignment. We're going for a cell phone. Oh yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "It's, it's acceleration, particularly of ethy asset."
+    },
+    {
+        "speaker": "A",
+        "text": "Ethy asset eth yields eth, the monetary unit being accelerated by Eigen layer ETH becomes more money. Eth ack."
+    },
+    {
+        "speaker": "B",
+        "text": "Maybe bring eth this money back for 2020."
+    },
+    {
+        "speaker": "A",
+        "text": "I know people forgot."
+    },
+    {
+        "speaker": "B",
+        "text": "David says things you're not bullish enough on ETH and retaking."
+    },
+    {
+        "speaker": "A",
+        "text": "That's a good way to summarize. You have eth acceleration. All rightync, got a new layer two joining the hyperchain. What is a hyperchain? That is the Zksync version of the optimism super chain. Kronos has announced the launch of their layer two, the Kronos Zk EVM joining the Zk sync hyper chain. So crypto.com, actually a pretty large exchange, going to have its Zke EVM on hyper, on a hyperchain."
+    },
+    {
+        "speaker": "B",
+        "text": "This is cool too. Celestia, of course, a Da layer. So data availability layer. They've launched, of course, and many folks got an airdrop from this. Worth a lot, actually. Celestia is now available for builders on arbitrum orbit. So with arbitrum orbit, you can select a non ethereum da layer if you'd like. And Celestia is now an option for that. I was actually curious, David, with these new DA layers, how inexpensive layer twos that use non ethereum Da layers would actually be. And this tweet says the benefits of Zk proving for l two s with a 99% cost reduction versus layer one. Da. So here's, like, to be free, bro, cost savings. This is another manta network. It's a different layer, too. So it's, it's not arbitrum nova, but manta network is tapping into celestia for Da. And look at how cheap these transactions are, right? It's like transactions on layer twos are going to, like, fall off of free when they, when they don't use ethereum for data availability. They're going to be incredibly cheap, practically free, and probably going to be subsidized by many of the layer twos. Because if it's microfractions of a penny, like, why introduce that friction for your users? Just call it free. Because it's basically free."
+    },
+    {
+        "speaker": "A",
+        "text": "Why do you think we're getting the inscription spam attack? Because everything is free these days. Oh, cool."
+    },
+    {
+        "speaker": "B",
+        "text": "So we get more spam attacks. We'll have to solve that for one, too. David, tell me about the Solana phone."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Okay. So, like, about a month ago, they kind of, the Solana organization, I think, kind of just called the Solana phone a flop. And they had, like, they were selling like 30 to 50 phones a day at peak, and it slowed down to, like, two to three phones a day. And if you're going to move, if you're going to have enough phones being sold to induce a developer ecosystem to build apps for the phone, you need to move a lot more phones. Like tens of thousands of phones. They had 20,000 phones in their first batch."
+    },
+    {
+        "speaker": "B",
+        "text": "Bootstrapping problem."
+    },
+    {
+        "speaker": "A",
+        "text": "It's a bootstrapping problem. And I think they only sell, sold, like, four to 5000 of them. I talked to anatoly about this earlier this week. That episode will come out next week, and then they sell 15,000 last week."
+    },
+    {
+        "speaker": "B",
+        "text": "What?"
+    },
+    {
+        "speaker": "A",
+        "text": "What the hell happened? Well, because the original Solana phone came with a bonk airdrop on it, and the bonk token has appreciated significantly in price to be about half the cost of the phone. So the phone was 50% off. And the thing is, is that this is not the only airdrop on the phone. There's, like, a handful in the teens number of airdrops that you get from having the phone. And so people are, these phones are now going for $2000 to $5,000 a piece on eBay."
+    },
+    {
+        "speaker": "B",
+        "text": "Are you serious? It's an Arb opportunity then."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, it's not an ARB opportunity. It's an investment. It's a speculative investment that all of these Solana tokens that are on the Solana saga phone are going to pump in. Price. And so, like, you are over at a $5,000, you are way overpaying what you can pull out from the phone in terms of tokens, because you can only pull out $400. But theyre kind of just a rare commodity. Its a bet on Solana. Its kind of like uni socks a little bit, but also with the potential of these airdrops appreciating bigly."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, thats got to help them with the entire bootstrapping problem, I would guess, has that as a side effect. Its basically like it found its product market fit, and that's like attaching speculative tokens to it. What a crypto thing to do, huh?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So Anatolia says we haven't seen a ton of signal, whether that's compelling enough to sell 50,000 units. They're at 20,000 units now, but I think 25 to 50,000 units feels like there's a hardcore user base for developers to compel to ship applications. So they need another reason they can't. They lightning can't strike twice like this. But if they can get to 50,000 phones, all of a sudden that becomes, like a strong user base. Funnily enough, Ryan MkBhd, he's one of the, he's the biggest tech reviewer in YouTube. Like, one of the most. Most watched YouTube accounts, rated the Solana phone the worst phone of 2023."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, sad. This is bust of the year. Solana Sega phone. Oh. This is part of a whole thread where he's rating phones. He got to that one, huh?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And he says, the bonk."
+    },
+    {
+        "speaker": "A",
+        "text": "The bonk? Yeah. He says, no amount of bonk can save this phone."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, no. Well, I mean, I guess a cynical interpretation of this is like, oh, great. Another, like, crypto speculative, like, bubble crap. Just trying to show, you know, a phone that's not great. I guess a more optimistic take on this is like, hey, tokens really do solve the initial bootstrapping problem. So now you have at least some critical mass of phones out there, and maybe that creates a network effect for more development for it to improve down the line. I don't really have a take. I don't have one of those, but, David, 3 hours capital in the news again. This time, a billion of their assets were frozen. What's this about?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, so the BVI, british virgin Isles, I believe that's Bermuda, has frozen a billion dollars of three arrows capital assets. So we kind of saw this. Definitely, like, people think about this happening. When Suzu was arrested trying to leave Singapore, and he was only arrested for a very small thing. But the bet was that it was going to, like, spiral into a big thing. And we are watching this. So first capital can say goodbye to a billion dollars of their monies. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "If it. Look, if it's in a bank account, it can be frozen, David, maybe."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. He should listen a little bit more, you know."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. You know, you can't freeze bitcoin. Can't. Can't freeze that ether on chain. David. There is a pretty large court case, actually, the first defi hacker to ever plead guilty in a the first ever smart contract fraud conviction. This is a Solana defi hacker. What, what happened with this story?"
+    },
+    {
+        "speaker": "A",
+        "text": "This is Shakee Ahmed, who pled guilty to charges relating to two dexs. One nirvana finance, the other one crema finance. I think these were on Solana. These were Solana? I think so. Is that right? Can you read?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, they were definitely sold."
+    },
+    {
+        "speaker": "A",
+        "text": "12 million. Stole $12 million from Solana. Dexs faces five years in prison, will be sentenced on March 13 1st ever conviction for smart contract hacks and fraud, according to a us attorney. So thats just a message for all the incoming scammers of 2024 and 2025. You will go to jail."
+    },
+    {
+        "speaker": "B",
+        "text": "Yo, theft is still illegal."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes, still theft. Even if it's crypto."
+    },
+    {
+        "speaker": "B",
+        "text": "This is where I'm a little bit Gary Gensler. I'm like, oh, we already have rules in place against theft. We don't need additional crypto specific rules to tell people not to steal. It's always been illegal, guys."
+    },
+    {
+        "speaker": "A",
+        "text": "You can't steal legal just because it's."
+    },
+    {
+        "speaker": "B",
+        "text": "Crypto, just because it's on chain. David, as we close out this holiday episode, we got a meme of the week relating to the Solana phone here. What are we looking at as a."
+    },
+    {
+        "speaker": "A",
+        "text": "Meme from that one movie, which is sell me this pen. And the man responds, it has 10 million bunk tokens on it. That would buy the pen. That would buy the pen."
+    },
+    {
+        "speaker": "B",
+        "text": "That's where we'll leave things. Guys, we got a moment of Zen coming up. Do you want to tease that?"
+    },
+    {
+        "speaker": "A",
+        "text": "We got a moment of Zen from Argent, who puts a yearly promo, yearly recap every single year. They did it last year. They did it this year as well. If you want to get excited for the bankless, yearly roll up coming a week from today. Uh, actually, our timelines and their timelines lined up pretty well, except they put it into a minute and 30 seconds and we did it in an hour."
+    },
+    {
+        "speaker": "B",
+        "text": "It's a good year in review for crypto. I would say so. Enjoy that, guys. I got to end with some disclosures. David and I are advisors for ZK Sync and Eigen layer. I think we mentioned them both in the episode. And as a reminder, we are long term investors. We're not journalists. We don't do paid content. There's always a link to all bankless disclosures@bankless.com. disclosures. Wow, what a year it's been. Thank you so much for. For being with us on, well, 51 roll ups for the entire year, David. I don't think we missed one weekly."
+    },
+    {
+        "speaker": "A",
+        "text": "Roll ups and one yearly roll up."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, my God. So that's all 52 weeks, and you guys have been along for the ride. Thank you so much. Gotta remind you again, as we close out 2023, crypto is risky. You lose what you put in. But we are headed west. This is the frontier. Not for everyone, but we're glad you're with us on the bankless journey. Thanks a lot. What is Operation Choke point?"
+    },
+    {
+        "speaker": "A",
+        "text": "The crypto businesses might end up completely unbanked. Investors in the banks will not be protected. Crypto bank Silvergate shutting down and the lack of compliance by these crypto platforms means that you don't have basic investor protections."
+    },
+    {
+        "speaker": "B",
+        "text": "Man. This decrees it over. It never takes me a list. World's biggest asset manager, that is Blackrock."
+    },
+    {
+        "speaker": "A",
+        "text": "Filed to list an ETF back by."
+    },
+    {
+        "speaker": "B",
+        "text": "Spot Ethereum on the Nasdaq exchange. At some point, the need for crypto, hallelujah."
+    },
+    {
+        "speaker": "A",
+        "text": "Bitcoin, ether, and us. It."
+    }
+]

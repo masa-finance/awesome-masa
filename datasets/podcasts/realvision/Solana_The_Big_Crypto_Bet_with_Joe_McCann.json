@@ -1,0 +1,466 @@
+[
+    {
+        "speaker": "A",
+        "text": "Today's real vision daily briefing is brought to you by Chintai, your partner in asset tokenization. Licensed and regulated by Singapore's monetary authority and powered by the innovative Chex Token, Chintai offers a compliant one stop solution for bringing real world assets on chain. Chintai enables the tokenization of virtually any asset, from carbon credits to corporate debt, private funds and real estate, enhancing liquidity and optimizing efficiency for all the technology."
+    },
+    {
+        "speaker": "B",
+        "text": "Becomes largely invisible and seamless to the end user."
+    },
+    {
+        "speaker": "C",
+        "text": "I can take a selective store of value within a wider portfolio in a fairly liquid form, very efficiently to anything, whether it's some high value whiskey, whether it's a particular supercar, that's a one."
+    },
+    {
+        "speaker": "B",
+        "text": "Of three, limited edition therefore, and this fungible trading of them in a liquid form is the true endgame here for tokenization."
+    },
+    {
+        "speaker": "A",
+        "text": "With billions of dollars in client deals facilitated, explore how you can take advantage of tokenization by visiting realvision.com Chintai hi."
+    },
+    {
+        "speaker": "D",
+        "text": "Everyone, I'm Raoul Pal and welcome to my show the Journeyman, where I journey to that nexus of macro crypto and the exponential age of technology. One of the big bets that I took was Solana. I think many of you are aware of this. I had been following Solana from the prior cycle. It was one of the breakout tokens with Avalanche and Matic Polygon. And then we had the crushing bear market and the FTX news and I saw that this was not making the community fall apart, it was making them stronger. I also saw how the technology behind Solana made it faster and cheaper and that they were focused on retail adoption. I thought this was really interesting back in 2022 when the liquidity cycle bottomed and my work at global macro investor and real vision Pro Macro had identified that as the timing, I kind of went heavier into Solana. And eventually looking at the Solana versus ETH and bitcoin cross rates, that prompted me to go all in in September of last year. So Solana has been something I've been really focused on. On Solana came this cycle's big surprise, which was the rise of memes Solana's rich cheap. The easiness to spin up a token on the Solana ecosystem made it very interesting. The advent of fire dancer coming compressed nfts, a million nfts for $100 and then firedancer, which is still to come, is a very big deal. So I want to have a bit of a deep dive on Solana and all things crypto with somebody who I think is a fabulous thinker, an amazing portfolio manager, Joe McCann and Joe has been at the epicenter of the Solana story. It's not all he does. He's on the Solana, Maxi, but he really nailed this. He also nailed the meme coin cycle. So I wanted to pick his brains where he thinks this is going and where the whole space is going, because this is still one of the biggest bets I've ever seen. Anyway, if you enjoy these kinds of conversations, please, please do subscribe to the channel. It helps me bring great guests, and it also makes me feel good, because if not, I'm just staring at a screen talking to nobody, even though we get quite a lot of views. Just subscribe. Cause 50% of you actually don't subscribe to the channel yet. But that way you'll get notifications. When I do have these incredible interviews or other content and presentations, you know, I do my macro presentations, my crypto presentations, all here talk about technology. So make sure you subscribe to the channel, and I think you will enjoy the next conversation. Anyway, I'll see you after. Join me, Raoul Powell, as I go on a journey of discovery through the macro, crypto and exponential age landscapes in the journeyman. I talk to the smartest people in the world so we can all become smarter together."
+    },
+    {
+        "speaker": "B",
+        "text": "Joe, fantastic to see on real vision."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, great to be here."
+    },
+    {
+        "speaker": "B",
+        "text": "Before we start, just give people a little bit of background of what you do now, and then we'll go back in time and find out how the hell you got here."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure. I'm the founder, CEO, and CIO of Asymmetric, which is digital assets investment firm. We have two early stage venture capital funds, one that's been fully deployed and call it generalized blockchain web three. We recently opened up a bitcoin defi VC fund. We brought on crypto og dan held to help me run that fund. Very bullish on that space, as you can imagine. And then we have a long, short, discretionary, multistrad hedge fund. So we see the venture side of crypto as totally different than traditional VC. He need to manage a liquid portfolio at some point pretty quickly, so we take a lot of our skillset and expertise, uh, and, um, uh, manage that on the hedge fund side as well."
+    },
+    {
+        "speaker": "B",
+        "text": "So give me a story. How did you get into all of this in the first place?"
+    },
+    {
+        "speaker": "C",
+        "text": "Uh, yeah, I have a."
+    },
+    {
+        "speaker": "B",
+        "text": "Is it what cost you your hairline as well? Was it crypto?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah, yeah. Thanks, mom. Um, no. Uh, so, yeah, I have a, arguably a colorful background, to say the least. Uh, and I will, I will spare, uh, the viewers and listeners that the full uh, autobiography. But, um, I actually, you know, about 24 years ago, uh, I was in university, and I have a degree in philosophy, which a focus in logic, which gets you in law school. And I didn't go to law school, so I taught myself programming and trading in the year 2000, which was a very interesting time to be learning both of those things, as I'm sure you can remember those days. And since then, I've kind of flip flopped a bit between call it tech and finance. So I traded on a prop desk on Wall street years ago, many, many years ago, but ultimately left in 2007 because I was convinced all the trading was moving to machines and algorithms. So I left finance and went into tech full time, joined a startup in New York, and kind of within three years, became the CTO at the top ad agency in New York City. So part of my tech career is balanced between boring b two b enterprise stuff, as well as the more creative technologies, creative communication, sides of things, which taps into culture. And then I left the ad agency in 2012 to start my first company, which is an open source enterprise infrastructure company called nodesource, which is a mouthful. The importance here is that I was very early to open source and open source technologies, which, of course, does really well a lot of things in crypto. For example, in web three, I bootstrapped that business, got to millions of revenue in a matter of months, and decided to raise some venture in 2013, and ultimately ended up raising a little over $40 million in venture for that business through 2018. Sold the company in 2019, and we had customers ranging from Goldman Sachs, the Citadel, the Visa, Delta Airlines, you name it. And it turns out that Node Js, the open source technology that we specialized in, went on to become the most popular and widely adopted open source technology at the last decade. 100% of the global 2000 uses it. Literally every crypto and web three project uses it in some capacity. So I have a lot of experience kind of understanding what makes developers tick, open source developer communities, et cetera. However, in 2018, I resigned as CEO and moved into the chairman of board role, which was a way easier gig, quarterly board meeting versus versus 100 hours work weeks, and had some time off. And so I was living in Marin county at the time. And instead of sort of mountain biking or hiking through the woods of Marin, I started writing quantitative and systematic trading strategies for crypto. John Burbank at Passport capital caught wind of this, recruited me to come build out its quantitative and systematic trading desk for crypto in 2018."
+    },
+    {
+        "speaker": "B",
+        "text": "I forgot that because John and I are old friends."
+    },
+    {
+        "speaker": "C",
+        "text": "He was early to crypto. Like, the guy really was on top of it."
+    },
+    {
+        "speaker": "B",
+        "text": "He was part of the global macro investor crowd that when I started writing about in 2013. Jon was a subscriber back then, and a whole bunch of them moved across to the dark side."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, well, and look, I sat right next to him. I learned a lot from that guy. It was an awesome experience for me. I ended up leaving passport shortly thereafter, though not because of passport, because it's next to impossible to trade crypto at a us hedge fund. So. So I left. I said, look, it's not you, it's me. I want to continue to go back and pursue what I was doing on my personal balance sheet. Meanwhile, it's 2019 bear market. I started doing a lot of R and D into web three and crypto, more on the technology side. I started building some Ethereum applications. Tracking that developer community was very early to Solana. I wasn't just lucky. I actually read the source code, identified and looked into the network architecture, the team behind it, and was like, if this thing could do what it says it could do, it's deeply undervalued, $1.60. And I think this is one of the key things as it relates to asymmetric and even myself is that I have this combination of skill sets around deep technical acumen, but I think like a trader. And so that serves really well in a place like crypto. So last but not least, in around that same time when I was doing that R and D, Microsoft found out I was a free agent, and they recruited me to come join their cloud and AI organization. And they said, hey, Joe, we want to hire you. We just don't know what to do with you. And I was like, well, how about I help you guys not miss the next big thing? How about that? And they're like, great. So I did a lot of m and a work corp dev strategy, worked alongside Microsoft Ventures. But the last thing I did in 2021 before I left is I drafted the kind of web three, call it crypto blueprint for success for setting Adela and the senior leadership team. So kind of not just for like Cloud AI, but for every line of business. So this includes Xbox, the Edge browser, et cetera, et cetera. And, uh, and then I said, here you go. I'm, I'm going to go start my fund. And the reason I started the fund, I was actually a proposition by a close friend of mine named Steve Jang, who's a very successful vc, just got added to the Midas list. He came to me in 21 21 and said, joe, you're kind of the only guy that really understands the tech, that also knows how to trade, that isn't at a crypto fund, like, come run a crypto fund at Kindred Ventures, which is his firm. And I said, look, man, im an entrepreneur. Im going to do it myself if Im going to do it. And hes like, I knew you were going to say that. I was like, what do you mean? Hes like, let me help you think through and kind of set this thing up and get it going. And, oh, by the way, ive preemptively pitched you to mark Andreessen and Chris Dixon as an emerging manager, and they want to be the first money in. And so that is how the story of asymmetrical born. A bit of my background, weve been operational. We launched officially in June of 2022. Also an interesting time to be launching a crypto fund and have had, I would say, a decent amount of success since then."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, everyone, we're going to take a quick pause and hear a word from our partners."
+    },
+    {
+        "speaker": "D",
+        "text": "We'll be right back. Hi, you. Hey, listen, if you're enjoying this, come and see me on the YouTube channel Raoul pal, the journeyman."
+    },
+    {
+        "speaker": "B",
+        "text": "Sign up there."
+    },
+    {
+        "speaker": "D",
+        "text": "Get everything I ever do. See you there."
+    },
+    {
+        "speaker": "E",
+        "text": "This podcast is sponsored by Ramp. Are you the decision maker in your company? Consider this, for the first time in decades, there's a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your company's spending and control who spends what with each vendor. Ramp software collects and verifies receipts instantly. To save your team valuable time. Ramp automates data entry and routine tasks with automated approvals, expense categorization, and bill payments, time consuming tasks, which means you'll stop wasteful spending and close your books in hours instead of days. Businesses that use ramp add up to 5% to their bottom line the first year. If you're a decision maker, adding ramp could be one of the best decisions you've ever made. Get $250 when you join ramp for free. Just go to ramp.com easy ramp.com easy ramp.com easy cards issued by Sutton bank and celtic bank members have DIC terms and conditions apply."
+    },
+    {
+        "speaker": "B",
+        "text": "What an amazing story. I love it. I love it. So what was it that drew you into crypto outside of the tech? What was the hook for you that got you into this?"
+    },
+    {
+        "speaker": "C",
+        "text": "What did you see? Yeah, good question."
+    },
+    {
+        "speaker": "B",
+        "text": "Obviously, things change over time, but what did you see then? And then we'll talk about what you see now."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So this kind of goes back to my trading days on the desk years ago. We were tape readers, so pattern recognition was a skill of ours. As we were actively trading, I tried to expand that a bit to broader patterns that may be emerging. And so when I was early to open source, early to mobile, early to cloud computing in 2000, 920 ten, I was embracing the philosophy of open source and the spirit behind it. It is not without its flaws, but I do think overall it's a better way of building and shipping and distributing software and also building community. And in 2016, when I really started to get into crypto, I dabbled a little bit. 2017 got much more active in the bull run. And what dawned on me was that it felt like open source being applied to finance. And what I mean is when I tried to run, say, my own strategies in 2008 or 2009, and this is kind of still the case today, if you, if you want to run, you know, a strategy in tradfi or you have a trading idea, you got to get a Bloomberg subscription and you got to get a prime and you got to go through all these hoops and CME and then face merricks or Wedbush. All of these things which are kind of, whether they're intentional or not, does it matter? It's a form of gatekeeping, and with crypto it is the complete opposite. Centralized exchanges, APIs for everything want to do on chain stuff. There's not even any centralized authority to control it. And so it was this renaissance for me as a trader because I love trading and I left the desk because I was like, im never going to be faster than Citadel. A clicking of mouse just doesnt matter. Crypto brought this renaissance of trading back, but it was amplified by it being globally accessible. I would say borderline open source, if not opened in the direction of how to actually participate in trading, but also mostly amplified by things like social media. And that was a combination for me that I just saw as like, this has to be the future of where money is going. And if you kind of. I was looking at opportunities from a market sizing perspective and I thought to myself like, how big is the market of money? And I'm like, well, it's all of money, so I don't think it gets any bigger than that. And so I'm going to just dedicate my career to this in one way shape or form. And that's kind of how I've been committed to it for, I guess seven, eight years now."
+    },
+    {
+        "speaker": "B",
+        "text": "So one of the things you've become very well known for is your thesis on Solana. You saw it early and you've dug into the conviction on it. Talk me through your solana thesis and we'll get into fire dancer as well, because I think it's a really important thing."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, sure. I mean, I think there's a couple paths we can go. We can go down the super technical path, which I won't do, because that will bore probably most of your listeners."
+    },
+    {
+        "speaker": "B",
+        "text": "And I won't understand it, so it doesn't."
+    },
+    {
+        "speaker": "C",
+        "text": "And I can go down the more kind of normie route, if you will. And so I think about it this way. When there is a kind of a leap in computer science or technology in general, there's a couple of things that happen. The first kind of implementation of it is, holy shit, this is incredible, there's so much more I can do, et cetera, et cetera, et cetera. And we've seen this over and over and over again, this pattern in software and technology in general. And so one of the analogies we tend to use is like the BlackBerry. This was arguably the first kind of smartphone, if you will, capture the majority of the market share at the time. And in order for you to get users to no longer use their crackBerry, if you will, you need about a ten x improvement in user experience. And when I worked at this design agency called Frog design, which is one of the top design agencies, they do a lot of user research, testing, and one of the things they identified was like, people dont shift away from things unless you have a ten x improvement in user experience. Its just a fact. Well, we had that moment with the iPhone, and the iPhone was arguably a ten X increase in improvement in user experience. And users like to be delighted with the applications and hardware and things that theyre using. They want them to be fast, they want them to be fluid, et cetera, et cetera. So what does that have to do with Solana today? If we take a look at Ethereum and you say this was a leap in computer science, Vitalik and the team deserve loads of credit for this. Defining smart contract programming, or permissionless programming as a concept, that's a huge leap in technology. The current implementation of it is suboptimal. And my view has always been that when you, there's a set of developers, and this kind of goes back to my experience of understanding developer communities, developers can mostly be bucketed into two categories. You've got your academic engineers, and then you've got product engineers. And sometimes you'll have the hybrid unicorn of both. Well, the majority of the stuff that Ethereum has been focused on, and rightfully so, has been highly academic in nature. And in fact, if you even see what happened with the Eigen layer white paper that was recently launched, like it is right there in front of you, no one can understand what it means, right? That's okay. Like we need these types of engineers building primitives and kind of new patterns and ways of doing things with new forms of technology. Guess what? The normal person doesn't care. And I think that a lot of the challenges that have been faced with the Ethereum community in terms of mass adoption is a physics problem. The way that the thing was actually designed was the first implementation. And now we have things like layer twos where theyre offloading execution to these other areas, and thats a whole other ball of wax that we can get into as it relates to Solana. From day one, they did not try to fork the evm, they didnt try to fork ethereum and just marginally improve it in a different way, like say avalanche. And these other ones have done, what they did is they started from first principles. They said, hey, we want to build a high throughput fast blockchain, period, end of story. How do you do that? Well, you probably don't need a single threaded state machine to do that. And this is also in alignment with the history of parallelization in compute, right? So the second that we added parallelization to CPU's and processors, guess what happened? The types of applications dramatically improved. You could have more than one application running on your Windows machine at a time, right? That's why we can have right now, while we're chatting, multiple applications running on our machines. This is not a foreign concept in computer science. Parallelization is very well documented and well implemented and understood. That's what Solana was doing. And so I thought to myself, if they're going to go down the path of parallelization, and they're also going to enable, effectively, fractions of a fractions of a penny in transaction cost, this broadens the spectrum of the types of applications that can be built with this underlying technology. And that has proven out to be true. You simply cannot have things like the render network or helium network or drip house or any of these types of applications on another l one today, because it's a physics problem. And so Solana, for me, not only has been this almost obvious play of like this is of course is what people are going to use behind the scenes, but they have also embraced culture in a way that I think a lot of other chains have not. And I'll touch on this point just briefly, that historically, again, a pattern that I've identified, and I'm not unique to this, other people have identified this as well, is that when culture starts to adopt, and I mean, pop culture starts to adopt a new technology, it moves past the stage of nerds and academics and folks in San Francisco and into the real world. And so there's a prime example of this was that Twitter in its early days was kind of a, you know, San Francisco, some media folks, a lot of techies like myself, were early into Twitter. And then something happened. One day, Oprah Winfrey live tweeted on tv, and that immediately gave agency to millions and millions of people to use Twitter. And guess what? Twitter today, whether you like it or nothing, is a household name. That same adoption by culture is what Solana has been leading into from day one and has been really accelerating over the past few years. And it kind of begets the fact that they have a fast and highly performant chain. You have to have an underlying core technology like Solana to enable culture and normies and retail to actually adopt that tech. So do I think that this could change in the future? I think it's a great thing to have other high performant throughput chains. And you see everybody adopting the parallelized approach like Solana did first. Do I think Solana gets usurped anytime soon? Absolutely not. I do not see a path in the immediate term that swe aptos, Monad, any of these other l ones or perspective fast, high throughput l one s are going to actually take the lead away from Solana."
+    },
+    {
+        "speaker": "B",
+        "text": "My journey into Solana, Washington, obviously, I saw it in the last cycle. I own some of it. It went up a lot. Its one of the leading chains. And then obviously the destruction that then happened. And you just see that the community didnt move. But the big moment for me, it was in March 2022, and I was at some fancy boutique investment bank, their ski thing. Sure. And there was, and Tolly was there, plus the head of Instagram, the head of music at YouTube, Yuga, Natalie from Yuga at the time, a bunch of others. And I saw that Tolly knew everybody. And Tolly's not the kind of gregarious showman, but he kind of knew all of these people. And I sat back and I kind of processed it. When I left, I thought, hmm, there's something very interesting going on here. This is going to be the retail chain I completely agree, William. When we got the final big flush out, that was the big signal for me is nobody's leaving this. I know how many people are interested in working with these guys, not because they were giving out the biggest grants, but because they had a tech stack that worked and it was applicable to cultural things. If they were looking at music and they were looking at Instagram. Okay, this is really interesting to me, William."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, look, I mean, I completely agree. And Anatoly and Raj are close friends of mine. They're both lP's in my fund. We share a lot of the same kind of views on where Solana can be going. And the fact that music, art, entertainment, et cetera, is openly trying to adopt web three in some capacity is important for culture, period. Now you get to the implementation details. What do you pick? When I was a CTO at the ad agency, we would work with huge Fortune 500 brands, and they want to run some activation or campaign. And I thought to myself, when the NFT craze was happening, 2020 to 2021, I would have people ask me like, hey, I need to do an NFT thing. And I was like, all right. And I said, well, what's your budget? And they're like, x. And I'm like, well, the problem is, is that on the mint day, on Ethereum, it could be ten times or 100 times that. And they're like, well, I can't budget for that. Like, what do you mean? I'm like, well, I just. This is the way it's designed, right? And so when Solana goes down the path of creating what's called state compression, or cnfts, these very, very tiny versions of nfts, in terms of, like, the size and the cost, you can mint a million nfts for a few hundred bucks. A brand manager can actually adopt that, right? And brands can actually embrace this technology and even prototype with it to try out new ways of engaging with their fan base, their customers, and culture in general. Whereas with the other chains that are available for something as simple as an NFT, its a financial blocker from day one. So I think, well continue to see more and more of culture start to adopt web three tech, and Solana is likely going to be that chain. You'll likely see other chains try to embrace culture. I think we've seen some others that could be borderline side chains or l two s, to your point, have tried cutting these bd deals that don't go anywhere. And I think this is one of the things that benefits, certainly from my experience working with developers."
+    },
+    {
+        "speaker": "B",
+        "text": "There's no culture around Polygon, and there's no culture around arbitrum or optimism. They're just things."
+    },
+    {
+        "speaker": "C",
+        "text": "That's right. There is a developer go to market, and then there's this kind of cultural go to market. And Solana has done, I think, a very good job of maintaining a steady state with their developer go to market to make sure developers feel supported, have the right tooling, whatever they need. But in addition to that, them sort of exposing the ability for, I would say in some cases, non technical people that are involved in pop culture to utilize Solana for whatever the experiment is that they want to do is also just as important. But you can't have one without the other, right? You can't have pump fun, which is double click to make two clicks to generate a meme coin if it's not running on Solana. This is just an example of how pop culture can utilize, I think, the underlying tech. It is not to say that other chains won't potentially go down this path. It's just today, this has been the recipes for success with Solana, which is one of the reasons I still think it's dramatically undervalued relative to something like Ethereum."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, everyone, we're going to take another quick break and hear a word from our partners."
+    },
+    {
+        "speaker": "D",
+        "text": "We'll be right back."
+    },
+    {
+        "speaker": "B",
+        "text": "The next phase for me was seeing the compressed NFT technology, thinking my thesis had been nfts at any contract in the world. And humans are organized by contracts, whether they're social contracts, written contracts, whatever. And I was thinking, okay, now you can do contracts cheaply, so therefore you can scale it. Tickets is what goes into my head immediately. All forms of ticketing is basically, can be an NFT. It's just a contract. And it couldn't be done on Ethereum at the time. So that was like, okay, that's really interesting. And then I was at Masari Mainnet, and Helene from Revan was speaking and Tollye afterwards, and they both talked about fire dancer. I know anything about it? And again, it was one of those moments where I walked away and I was on my way back to Cayman, thought, the fuck were they talking about? And Tony had kind of mentioned this potential 1 million TPS. And I'm like, it kind of sat in my head. And I thought, okay, I need to look into this. So I got back and I came actually over to my house in little Cayman because I was writing global macro investor. And I start thinking it through, thinking, okay, well, this sounds like the entire financial system can go onto this right. This is high frequency trading, jump trading. So I go down the whole jump rabbit hole. So I listen to all the podcasts, anything, there's very little. I then go on to twitter and ask, hey, who knows anything about fire dancer? Almost zero. And then I'd like, does anybody even know when it's coming out? And tollyeheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheheh responded, yeah, I think its going to be q four. Well get testnut im like fucking hell. The fastest, maybe the largest breakthrough in the speed equation for blockchains is about to happen and nobody even knows about it."
+    },
+    {
+        "speaker": "C",
+        "text": "Thats right."
+    },
+    {
+        "speaker": "B",
+        "text": "And then I just did the usual thing, which was start looking at the chart of solana versus eth, solana versus bitcoin. Im like, okay. And I went, I mean literally all in because this was all I needed. What do you think about fire dance? I mean it sounds like I was just looking at tolly's tweets. It feels like it's what, is it going to go mainnet soon or is it finalizing on Testnet? Where do you think we are?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, so a couple of things. One, I think any software developer that has been around long enough knows that the expected date to ship software is soon. That's the correct answer. I do think that it would be poetic to have a Q four date, but it actually shows up at breakpoint in September, you know, under province, over delivered. I have no insight as to whether or not when this will or will."
+    },
+    {
+        "speaker": "B",
+        "text": "Now when I first spoke to Tolly about it, he said probably by the summer, but then it's kind of been walked back to potentially q four, which is the right thing. You give a nice vague direction of travel. Sounds like Q three."
+    },
+    {
+        "speaker": "C",
+        "text": "Ollie and I are the same age and we've been writing software for about as long as each other has. And he's certainly better than me. But yes, he's no dummy. He's not going to put a date on something. I mean, and frankly it's jumps kind of baby, it's an open source project. But look, I mean for fire dancer, the importance here I think cannot be underscored enough. You have arguably the worlds greatest, if not one of the greatest high frequency trading market making shops on earth that not only has some of the best systems and distributed systems engineers on the planet, they have the best hardware engineers. A lot of people dont understand jump is a vertically integrated shop. They create FPGA's which are very specific forms of hardware to enhance and improve the speed and performance of their trading. These guys are gigabrains, as they like to say. Right incredibly talented engineers. And you should ask yourself, if jump is applying this level of intellectual horsepower to something like Solana, do you think theyre doing that? Because they think its not going to be around and making a difference as relates to trading tokenized anything, what do they do? They make markets? Where do they make markets? Or how do they make money on the spreads? Well, if they can not only build the fastest validator client to be running on Solana and also then potentially have their own custom hardware for that, guess who's going to be the fastest, right? I mean, I'm speculating here, but it's not that hard to see."
+    },
+    {
+        "speaker": "B",
+        "text": "When you go, when you go through some of the interviews, I can't remember the guy who was building it, the tech guy who's incredible guy."
+    },
+    {
+        "speaker": "C",
+        "text": "And yeah, I'm drawing a blank on his name. I think it's Kevin something. I'm drawn to blank guys that are."
+    },
+    {
+        "speaker": "B",
+        "text": "Just very clearly, he goes, look, our job is the speed of light. Because anybody who understands high frequency trading understands that the shortest distance and the fattest cables gives the fastest speed of execution. Its as simple as that. And when you start talking about that, you understand what theyre trying to do, which is, okay, this is disruptive to the entire financial system, because you can have high frequency trading, which you couldnt do in any other format. Now, we dont know yet what the latency is going to be, and some of these elements that are going to be very important to this, but its certainly within sight. And that changes everything, because as you said earlier on, the tam of the financial market fucking dwarfs everything else."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly right. And look, I mean, one other thing to consider here is in traditional finance, I remember when I was at passport, I spoke with a quant in Stamford, Connecticut, and he was trying to figure out crypto, very smart guy, PhD, all that good stuff. And he said, yeah, so when you build your program, what's the exchange that you kind of co locate it? And I'm like, well, there's n number of exchanges. And he's like, well, what do you mean? I'm like, well, there's, it's not a speed of light problem. It's a distributed systems problem. And so the traditional kind of high frequency trading mindset, or quant, has to kind of invert their thinking as it relates to blockchains, particularly something like Solana or anything, because it's globally distributed. The speed of light could also depend on where the validator is that you're trying to execute the transaction with. It's not just a speed of light problem. It's a distributed systems problem. And so I think by having something like fire dancer number one, yes, it's a million TPS, is the theoretical bound on commodity hardware. Just to be super clear, this is not super amped up boxes that this is going to be running on. This is commodity hardware. The other thing, though, and this is a key distinction, and it's very, very important, Ethereum actually has done a good job of this, is that we're expanding what we call the validator diversity set of clients that are running. So right now, primarily there's the Solana Labs validator client, and if there's a bug in that code, guess what? The network has reliability issues. Now, there's a new team called Anza, which has spun out of Solana Labs. They're working on their own validator client. And of course, you've got jumps. So when you start to have three different validator clients for Solanas network, you are reducing that single point of failure in the network, because the odds of a P zero or supercritical bug to exist in all three code bases is possible, but highly unlikely. Not only do we get the boost of, say, a million TPS, discounted by 50%, half a million TPS, whatever it is, you also have now strengthened the reliability of the network by adding additional clients to build a more diverse client set. So this is a one two punch. That, again, to your point, I don't think people are really paying attention to, which is a, as we start to kind of ramp up into what we believe will be tokenized trading of damn near anything at this point. It's going to happen on a chain like Solana, and it's going to be using clients like a fire dancer from John."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, but it also feels that this cycle will be the hype for that. So lets say fired answers out towards the end of the year 2025, is the hype about what theyre going to use firedancer for. But as you know, the securities industry takes a very long time to get going. Theyve all looked at it, right? Nasdaq London Stocksthe all of the groups have looked at it, but the issue is it just takes time for them to do it, and theyre fearful over their own business models. So let's see whether the centralized exchanges in crypto do it first. It feels that, yes, there might be some implementation next year."
+    },
+    {
+        "speaker": "C",
+        "text": "One thing to note, and I agree with you, the incumbents, like lending, stock exchange, Nasdaq, et cetera, will probably take longer to start to adopt this technology. That makes total sense. They're incumbents with less upside, if you will, in adopting a new technology. And the centralized exchanges are doing the dance between regulators and maintaining happiness with them and harmony, if you will. But there's this whole other section of crypto, particularly in Solana, that isn't beholden to either of those things, and that's the things that are truly decentralized. So, for example, I'm friends with the founder of Jupiter, which is a decentralized exchange on Solana. He has and is building a plan to enable trading of literally anything on Jupiter on Solana. And so whether it's the London stock chains, the Nasdaq, et cetera, whether it's your coinbases and sort of krakens of the world, or it's things that are happening in a decentralized on chain version, this is the direction of where this stuff is heading. And we're already seeing some folks with the dipping the toe in the waters of tokenizing real world assets to some extent here and there. And I'm non consensus here. I think the banks are probably going to win that game. But as it relates to something that's happening with Jupiter and their ambitious plans of really trying to bring any asset to be tradable on Solana on chain, that's happening. And irrespective of what happens in the regulatory environment or incumbents that have an advantage, if users and traders start moving flow to something like Jupiter, to be trading tokenized stocks, tokenized bonds, whatever it may be, I think people are going to have to pay attention a lot sooner than later."
+    },
+    {
+        "speaker": "B",
+        "text": "Before we get onto the more cultural stuff and memes and other bits and pieces. I want just to put your brains on other layer twos, layer ones, cosmos, move stuff. Somebody is going to be another breakout of this market. It's going to be. Remember last time around, it was Solana. Avalanche Polygon. I don't know who's your money on, or who are you observing from that race? It doesn't necessarily mean needs to be your bet. It's too early, I think, to take that bet. You don't really see yet, but what are you thinking?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, look, so we have an investment in an application specific chain called Sei. One of the reasons we did the investment is it's a chain that is literally designed for trading. We're traders, we're like, this seems like a no brainer right now. It uses tendermint, which is kind of cosmos related, if you will, but it's a very specific change. So you have to bridge over. There's all these other UX challenges, how do they bring liquidity to the chain, et cetera. But the point with something like, say is it follows a similar pattern as it relates to Solana. It's parallelized, and they in fact ship the first parallelized EVM client so folks can run their EVM code on, say, in a parallelized fashion. The challenge with a lot of the parallelized EVM bets, if you will, that are coming out. I know Monad is another one that's a super smart team ex jump trading guys. I think they'll be successful. But I think one of the challenges, genuinely misunderstood here, is that there's this optimistic versus deterministic parallelism. And let me break that down in normal terms for what that means. In Solana, for example, as an application developer, I have to identify in advance a priori, as a developer, what parts of the global state do I need to change when a transaction is executed against my application, aka program? That is a form of determinism. You know, deterministically, these are the things that need to be touched in the global state. So let's parallelize the ones that we can, and the other ones need to be serial. That's fine. In parallelized EVM world, the best case scenario can only be as good as deterministic. And let me break down what I mean, what happens at the application level, the developer doesn't determine in advance what parts of the state need to be touched. It's the virtual machine, the engine, if you will, of the chain. What it does is it goes, hey, I'm going to guess that these three things don't need to touch each other's state so they can be parallelized. And if that guess is correct, awesome. You're as good as deterministic parallelization like Solana. But in the case that you're wrong, guess what, you have to start all over again. So part of the challenge that I see with a lot of the parallelized EVM narrative is that, yes, you could probably add some boost to existing ethereum applications. And I think that's great candidly, but it will never be as good as deterministic parallelization. Now, that aside, let's talk about move the move language chains like aptos and suite. These are heavily financially backed. L one S Move is a programming language literally designed for smart contract and scarce assets and transfers, this type of thing. And so a lot of the, we call them in programming foot guns or traps that you can fall into with writing certain smart contract code they tend to alleviate just at the programming language level and that's very powerful. Right. The problem, or challenge I should say not a problem is that in technology with developers, and again, this just goes back to some of my experience tracking these communities. Developers rarely like to shift to a new programming language as like their full time job. Right? Like it's the ten x user improvement thing, right. If I go to work every day and I write JavaScript or I write c, that's what I do until my paycheck depends on it. I'm not really learning a new programming language. I want to go to my kids soccer game at nights and get my bonus at the end of the year. Right Move is a brand new programming language. Just like solidity for Ethereum was a brand new programming language. Now you have to have developers learn a new language that's not that difficult. But more importantly you have to build tooling, best practices, all of the infrastructure to support these developers. That's a lot of work. And so one of the challenges that I see with a lot of these newer l one s that have amazing performance characteristics is whats your developer go to market? Because what youre saying is, hey, youre a rust developer. Youve been a rust developer for years. You can write on Solana, no, no. Come over here and learn this new programming language thats untested, that doesnt have nearly the tooling and infrastructure thats existed for 15 years and build on our chain. There is a path to improving that. I just dont see it currently. Is there a solvable problem? Absolutely. Do you solve it with money? No, and I think this is another problem that a lot of these projects make. They think oh, we raise a ton of money from VC's, we issue a token. We have all this money in the treasury. Well just issue grants. Guess what? The largest software company on the planet did this during the mobile boom. Theyre called Microsoft. They paid developers to build mobile phone, Windows, mobile phone apps. How many of those apps are being used today? Zero. When you pay to play a developer youre not tapping into the incentives that actually drive them. What drives developers is they want to build stuff thats actually what drives most developers. Its rarely a financial outcome. Getting paid well is good. Developers are probably the highest paid people on the planet right now. Theyre going to get that anyway. I do think that if the Movlang chains or these other l ones that are bringing high throughput and highly performant characteristics to blockchain can improve their developer go to market, then they actually have a shot at getting some of that developer mind share and people building breakout applications on their chains."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, for me, it's a wait and see. You just need to see. It's too early. That's why I said before, it's too early to make that real bet, you have to wait and see where traction comes. Whether it's developer traction or user traction, or in the best case scenario, both."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, and even looking at it from a relative value perspective, if you look at, say, the fully diluted valuation of, say, swe, just as an example, relative to something like Solana, relative to Ethereum, which one has a better liquidity profile if you want to trade size, which one has potentially higher return profile relative to the other ones if Swe trades beta to Solana? Well, maybe you say, well, maybe I should long swe here against Solana, but then you kind of bump into the fundamental issues that I've outlined, right? And so if I look at, purely from an RV perspective, I look at Solana and Ethan go, it's kind of obvious, right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, that makes total sense to me. The other big thing that happened in Solana, there's always something in a cycle that kind of takes everybody by surprise. It was probably nfts last time around, and this time it was memes. I think most of us understood that culture was going to get tokenized. At first I thought it would come out of the music industry. At first I thought it was going to come in different ways. And I was looking at social tokens. That was my big focus in the previous cycle. And here we've got a different adaptation of social tokens, which is memes, but not based around existing communities like Taylor Swift, but out of fucking nothing, just culturally. And it also plays into this idea that people are shut out of the financial system. They can basically go to Vegas with terrible odds, they can play the lottery, but they're shut out of VC, they're shut out of most things, and the government's trying to shut them out of most of crypto. And here's something that is kind of unregulated and gives them the ability to generate some wealth in a casino kind of atmosphere. But I could say casino in the right way. Like, there's a probabilistic outcome here, and it just has been massive. Did you see this? I mean, you're wearing a bonk shirt. You saw this coming from bonk or because doge, I mean, people forget that doge is like a cockroach, right? It is 40,000%. It outperformed ethereum most of the time, over the longer run, its outperformed bitcoin in certain various points in the cycle, significantly. So culture is here to stay. So yeah, talk me through your whole cultural thesis."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah, I will try not to victory lap this too much. But yes, we have the receipts. We wrote about this many, many months before VC's started bloviating about their intellectual views on meme coins. We are not that kind of shop. So look, there's a number of things that you touched on that I think are critically important to understand as it relates to investing in meme coins, trading meme coins. Why are they even relevant? Why do they matter? First, lets talk about speculation. I wrote about this in my last market update. Its on our website. You can go subscribe for free if you want to check it out. Speculation has been around forever. Its never going to stop. And speculation is a necessary and sufficient condition for any new market or industry to exist. And it turns out that when you start off with speculation as the primary use case, eventually you can evolve into new use cases. So, for example, it is surprising to most people to know that last year on the Las Vegas Strip, the majority, three out of every $4 that they made in revenue at casinos was non gambling revenue. So the speculative use case of gambling at casinos was their primary revenue driver, obviously so, right. But now its expanded to clubs and shops and bars and shows and restaurants, and thats actually the big revenue driver. So I want to underscore that, because a lot of people tend to look at speculation or casino style gambling as a yemenite and net negative. And I dont see it that way. I see it as the beginning of a path towards real use cases, if you will, because youve actually built up a market thats strong enough. Thats one aspect. Second, you pointed out the thing that my buddy Travis Kling wrote about this on Twitter a while ago, this concept of financial nihilism. I dont know if he coined the phrase or somebody else did, but in essence, talk to any zoomer, millennial on average, unless they have a trust fund or something. I think Yellen came out today and said its the worst time ever to try to be a first time homebuyer or something. Right. These are folks that have grown up with the Internet, have grown up with, in most cases, a zero interest rate policy, but also fewer job opportunities, their earnings being inflated away, et cetera, et cetera. And they look at things like a 401K or a country club membership or a home and go that's fantasy. That's fantasy. I'm not going to do that. I'm not going to be able to obtain that. Right. And that's, I think, sad, but it's the reality for a lot of people, certainly in the United States."
+    },
+    {
+        "speaker": "B",
+        "text": "Don't forget, the entire us culture is built on the american dream. If you take the american dream, the fabric of society breaks down because then it becomes to the point of, why do I do this?"
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "Europeans don't have that culture, but they don't have the, the, I think of Europeans as call spread buyers and Americans as call option buyers. Right."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes. That's a great way. Yeah, yeah, I agree with that."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And so if you take away the american dream, then what's the purpose?"
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. This is why I think that the label nihilism is associated with it, whether it's technically correct or not, is that if you look at what has happened in just the past few years, and this, again, we wrote about this post pandemic, people were doing TikTok videos and were doing Zoom calls. But guess what else that they were doing? They were gambling. They were betting on sports. And we saw now, I think 38 states, including Washington, DC have legalized sports gambling in some capacity. We have seen 1200 percent increase over the past year in bookies like your draftkings and Fanduel of the world. And guess what happened right when the Super bowl ended? Well, people can no longer do three team parlay bets and prop player bets on football games. Guess what they started betting on meme coins. So if you look at actually spot volumes, in March, they were the highest they had been in almost three years, primarily driven by retail trading. Meme coins. Why? This is part of this gambling mentality, but it's also entertainment, right? So people go to the gas stations here in the United States, they buy scratch off tickets. They know probabilistically and statistically they're not."
+    },
+    {
+        "speaker": "B",
+        "text": "What the number is. It's like $200 billion is spent every year on lottery tickets with a one in 300 million chance."
+    },
+    {
+        "speaker": "C",
+        "text": "That's right. It's huge. People know, but this is what they do. And this is why I think the bridge here to meme coins is not that difficult to ascertain. Right? People buy a lottery ticket and they know one out of 300 million. Come on. The odds are so stacked against me. But you know what they do? They envisage a world where they win. They envisage a world of being a millionaire or whatever that thing may actually be to help them escape poverty. Guess what meme coins do? They introduce a thing called unit bias. Why is it that bonk is zero, zero whatever, right? Or all these meme coins, with a few exceptions, that's called unibias, because you can spend $50 and own 10 million, bunk or whatever, and not at the current prices, but you get the drip, they get the gist here, right. You can feel, you can see the path to being a millionaire. If this thing goes to $1, I'll have $50 million, right? Or whatever. We know that that's infinitesimally small chance of actually happening, but it doesn't matter because that's what draws people in from an entertainment value and a community value."
+    },
+    {
+        "speaker": "B",
+        "text": "And that's Doge and Shiba inu. So people see those and think the next one is going to be mine."
+    },
+    {
+        "speaker": "C",
+        "text": "Thats exactly right. This is what we wrote about. We were very early to bonk, and I would say the meme coin move in general, we expressed our view through some positions we took on in late October, early November last year. I wrote about this in our early December piece, which literally pointed out at the peak in 2021, Dogecoin was with $85 billion market cap. Try getting a business school professor in Chicago to explain that to you. Doesnt make any sense. Makes no sense. Guess what? It happened. And guess what? Shiba Inu went to like roughly, I think 48 and a half billion, something to that extent. At the time, bonk was a couple hundred million dollars market cap. So if you just look at that and go, wait, well, theres precedence here. This thing went to $85 billion. Even if it goes to one 10th of that, do the math right, it becomes almost like this self fulfilling prophecy. But I think the other thing, and this is the third piece as it relates to meme coins that I kind of joke with the business school stuff a little bit here, but I'm actually kind of being serious, there is no course that teaches you understanding the fundamentals of a meme coin. And the reason is business school doesn't teach you about culture. And it's hard to teach culture. The way that I've historically described it is similar to the Supreme Court justice case identifying pornography. They're like, I don't know how to describe it, but I know it when I see it. It's kind of like that for Internet culture. There's going to be a meme that takes off for some reason, a dog pick your random gift that shows up all of the time, or something that's topical. You could have something like the presidential election, you could have sports like the World cup or the Super bowl or the Grammys, all of these culturally significant events that happen throughout the year. Theres stuff propagating on the Internet through memetic culture that initially was just like an image or a video or whatever. Now you can have a token associated with it. And so the way that I kind of try to explain meme coins is almost its the first time youve had a derivatives contract associated with Internet culture. Youve never had a financial contract tied to something that is ephemeral or nebulous or abstract. And now we do. And Dogecoin was the first, it was a literal joke. That became an $85 billion mark cap coin. Right. That has outperformed loads of other highly intellectualized investments. Why? Because youre tapping into the viral nature of the Internet. And of course, Elon Musk tweeting about it. The meme Lord himself certainly helps. There is no scenario where Internet culture is going to slow down in the coming years, as I see it. And this is why I think were starting to see this mass like shift towards, wait a second. Meme coins are actually something that, yeah, fundamentally, they dont make sense. Theyre definitely not a security would never pass the Howie test. So why wouldnt we continue to have 20,000 of these created a day on Solana? I dont see this slowing down. And so, yes, theres going to be huge run ups and massive liquidation cascades on these things. These are the most highly volatile assets, I think, in crypto. But theres also an argument to be made that if you construct your portfolio appropriately, which we do, if you have proper concentration, risk policies and other risk frameworks in place, adding this type of an investment to your portfolio, certainly as a crypto fund investor, makes a ton of sense, Trey."
+    },
+    {
+        "speaker": "B",
+        "text": "So let me give you another way of looking at them as well. I figured out, and obviously written quite a lot about that, Metcalfe's law is the predominant driver of crypto because these are networks. And the best approximation for Metcalfe's law that I can get to is basically the number of active users and the value transacted over the same period. So active users per week, the total value transacted. You chart that and basically charts exactly, like every token. So we actually price these things according to Metcalfe's law. So what is meme? A meme is a networked idea that gets traction over a period of time. Some of them last two days on the Internet. We see them on Twitter, and it goes, everyone laughs about it moves on. Like that guy over the pandemic whose wife had to come in and get the kid. Yeah, yeah, you know, he's the straight laced guy that, you know, that was a meme that lasted a couple of weeks and then it's gone forever. But what we're doing here is you go back to that formula, number of active users applications layer. So number of active users for Doge was a lot. It had probably more retail users than anybody else at the time. And so it's a lopsided chain, but it was persistent. And then Elon's kept the story alive, so it's got persistency. Others, like Bonk, have started to try and build the other side of Metcalfe's law equation, which is the applications layer. And it's exact, all memes are just a networked idea. And this is a way of tokenizing that networked idea. And like all memes, some of them will last no time at all, others last forever."
+    },
+    {
+        "speaker": "C",
+        "text": "That's right."
+    },
+    {
+        "speaker": "B",
+        "text": "And so this is why it is very powerful. And it's also going to go back to that social tokens business model that I talked about, is that the power of communities based around their own system of value is going to be a very big thing. We may not see it now. People may think, what the fuck were betting on dog with hat. Next time around, itll be Taylor swifts tokens. And these things will have astronomical values. If we understood that Taylor Swift moved the entire US economy from her tour, what the hell is a token going to be worth? And what applications can you build on top of that network?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, we are coming at it from different angles, but ultimately landing at the same thing. I like your model of it being this networked version. There's a couple of things that, it's like religion."
+    },
+    {
+        "speaker": "B",
+        "text": "All of these memetics are just networks ideas, but here we absolutely, we could measure them on the Internet by seeing how often a meme came up. Now we can create a value to the meme, of course. Makes total sense."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. And look, I mean, I was on with Pompdiano back in December, and he asked me, or we were talking about meme coins, and he was like, is bitcoin a meme coin? I was like, of course it is."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "And like, you know, people can get all up in arms and I'm like, guys, like, bitcoin's a religion. In order for a religion, any religion, to survive, you need evangelical crazies out there spreading the gospel memes of sound money and blah, blah, blah, blah, right, fine. It's still propagated through the Internet. It's an Internet native currency. You can't exist on the Internet if people don't talk about it. So I think there's even an argument to be made that effectively, any token that is still in existence in crypto is by extension a meme coin. Now, let's categorize this a little bit more closely. Bonk, for example, dogecoin was a joke, ended up with tons of users, huge market cap bonk was airdropped to a bunch of wallops. It turned out to be a bunch of developers in Solana on Christmas day, 2022, post FTX collapse, right near the lows of Solana. I was there, I remember it. Shoving all in at $8 was painful, but I was there and they kicked off. Kind of this, frankly, a cultural reinvigoration of Solana because so many people had given up and were so downtrodden and destitute. And here was this dog coin that quickly became kind of the mascot for Solana. And I think theres power in that. And I think thats a deeply underappreciated aspect of like a baseball team has a mascot, a football team has a mascot. Why cant a blockchain or a blockchain community have a mascot? And bonk embraced this kind of mascot like quality as a meme coin. But then the team behind it, these early contributors, were building stuff to help shore up Solana's activity and letting like, hey, we want to get people like, check out how awesome it is to use this. And that created this very virtuous feedback loop to the extent now that when people say, well, meme coins are just supposed to be a meme about, it's not supposed to mean anything, it's like, well, if you want to have staying power, my view is you're going to have an infinitely long tail of meme bitcoin tokens for the rest of the Internet. Like, it's just inevitable at this point, there's going to be a large chunk of what I would call blue chips. These are going to be your ones, like your doge, your shibas and your bonks. That's it. They're going to, they're going to control enough of the mind share associated with the community, but the only way that you can control that or maintain that mind share is to consistently keep them engaged. Well, how do you keep people engaged? Well, you can constantly create memetic content and funny, you know, stuff on the Internet, or you can have them use stuff or earn stuff or make money or trade or do these different types of things bonk has done this completely out of thin air and is now the most integrated meme coin or coin in general within the Solana ecosystem. It's almost unheard of now for a project that launches on Solana to not work with bonk in some capacity. And I think that this is the juxtaposition with meme coins. People say, well they're not supposed to mean anything yet. There's now like a doge chain, right? Or bonk's not supposed to mean anything, but they're generating like millions in revenue from like bonk bot. Right? Like there's nothing wrong with that. If you want to be a meme coin that has staying power, you better start shipping stuff. You better start like identifying the other."
+    },
+    {
+        "speaker": "B",
+        "text": "Side of the Metcalfe's law equation. You build the applications layer on top, then you've got real value and staying power and you capture attention because this is all an attention game. And if not, you lose attention. But as you say, if you're using it, the reason doge has got so much attention is there's one day a very high probability Elon will integrate it into x. We all know it and we're just waiting for it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yep, that's right."
+    },
+    {
+        "speaker": "B",
+        "text": "And so therefore we know the applications layer could be enormous when it happens."
+    },
+    {
+        "speaker": "C",
+        "text": "That's right. And look, I mean, eventually, like, look, dogecoin is on, I don't even know how many exchanges you can buy it on. Coinbase and Robinhood, et cetera. There's dogecoin. Coinbase is launching dogecoin futures. Right. So if this was just a joke and people that want to kind of push this aside, like, I don't know, you're going to have people trading this stuff, you're going to have people building stuff on top of it. It's probably worth paying attention to. And I have run into this argument as well of like, well you're just kind of gambling and speculating and I'm like, well look, I don't think zero day to expiry options were set up as a hedging tool, were they to? I mean lets be honest, the majority of those options contracts are traded by retail. And why are they trading them? Its cheap leverage. I dont want us to get in this disingenuous argument that trading meme coins is somehow beneath an investment manager or trader. In fact its one of the reasons why you have these outsized returns if you can manage your risk appropriately with them. Would I be launching a meme coin only fund? Absolutely not. Do I want to have it included in my portfolio. Absolutely."
+    },
+    {
+        "speaker": "B",
+        "text": "So lets look forward a bit. What, are you excited? How do you think the cycle plays out where we are? Im not going to ask for price predictions or any of that shit because I hate it. But just the structure of the cycle to you and what might be the next layer of kindling within this or something unexpected that's going to come along."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, well, I love that you skirted the price target issue, because when people ask me that, my response is a meme which is higher. That's always my response to a price target. It's always going higher. Yeah, we've got a crystal ball."
+    },
+    {
+        "speaker": "B",
+        "text": "So we're just drawing lines on a chart, guessing it's fucking on."
+    },
+    {
+        "speaker": "C",
+        "text": "Come on. Right. And so, yeah, we could probably have a whole discussion on price targets and how meaningless they are. Look, I'll put it to you this way. Right. So I'm wearing a bon cody. I run a crypto fund, but we are actually a macro shop disguised as a crypto fund. My trading partner has 20 plus year experience."
+    },
+    {
+        "speaker": "B",
+        "text": "Everything is macro."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. And so he was at Brevin Howard for years, Lehman City, et cetera. Lot of macro experience in house. I have some macro experience. He has a ton. And our view really is if you get the macro right, you get the crypto right. In 2022, we were bearish. When we launched the fund, we were bearish. We were pretty dark. And you can read this in our reports back then. We were actually short heading into Q four and got long in late December and had a long bias. Now even with the pullbacks in the markets that weve experienced in April and even the past couple of days here in May, we have a structurally long bias heading into next year. Theres a couple of reasons for that. One is as we look at the broader macroeconomic picture, we think we do see rate cuts later this year. If you take the inverse correlation of, say, consumer confidence and rate cuts, price in the curve, theyre inversely correlated. Well, if you saw Starbucks earnings recently, you saw the note from the CEO of McDonalds, the consumer is slowing down. You saw the jolts data today. Job openings are starting to pull back a bit. We see the employment data as actually most important as it relates to when the Fed can actually enable their easing program. Now, they announced that they were dropping 60 to 25 bps in QT starting in June. I don't think that was consensus. I think people expected a schedule 60 to something that stepped down gradually. That's a big shift. That's more than 50% off the balance sheet of what they were rolling off. That's material from our perspective. So look, I think, and we have the election year, so you can put your tinfoil hat on of whether you'd like it or not, but it's an election year. Right. And so our view continues to be that we thought Q one was going to be a boomer. We saw that. We saw it driven by flows. We saw with the ETF news, guess what, past five sessions in a row, as we speak today, zero inflows from Blackrock. What happened to bitcoins? Price went straight down. Guess what happens when those flows come back, right. It's not that difficult. The second thing that I think we tend to look at as it relates to later this year and how this eventually applies to crypto is global liquidity. So I'm sure you're familiar with the guys that cross border capital. I love those guys. I love the way that they think about global liquidity. It's not just fed balance sheet. It's the Fed. It's the chinese bank. It's shadow monetary."
+    },
+    {
+        "speaker": "B",
+        "text": "Preston, for global macro investor, we built out a massive suite of stuff. That's what got us the low in 2022. Everything just globally."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. October."
+    },
+    {
+        "speaker": "B",
+        "text": "All we do really for this."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, and so we track global liquidity pretty extensively, and I. It's been drying up the past month. Well, look what happened. Do we think we're at a cyclical top as it relates to global liquidity? Absolutely not. We don't think that happens to later in 2025. And if liquidity is going to be the thing that continues to drive risk assets, well, what's furthest out on the curve? Crypto. And so as we look at the run up that we had in Q one, the digestion of the distribution period, we're in right now in q two. Q two. Q two, historically is the worst performing quarter for bitcoin. Weve taken a defensive stance. We booked a bunch of profits at the end of q one. Thankfully, we like certain levels that we want to be getting along at. We think that with the election cuts coming in the second half of the year, as well as an improvement in overall global liquidity, that were going to have a boomer second half of the year, certainly Q four. And so from an investment standpoint, we think crypto does extremely well. Price targets, whatever you got evercore to 115k, bitcoin, youve got other folks at 150. It doesnt matter. Pick a number at some number higher. And if you have a portfolio constructed beta against that, you should do significantly better than just buy and hold bitcoin. Now the key is well, when is the cycle top? This is the challenge that weve run into historically the four year cycles. We should be looking at maybe some point in 2025. And a lot of it has to do with the tax loss selling season in Q two of around the April timeframe. The big this time is different is you've got institutional flow coming in. Imagine the 401 ks and 513 start bidding into this stuff. Imagine the asset manager platforms open up bitcoin ETF's to their client base. Imagine you have, I don't know, Australia and India and other folks enabling their citizens to be purchasing these ETF's. It's hard to envisage a world where there isn't a persistent bid in some capacity behind bitcoin. And if thats the case, that puts a floor as it relates to total crypto market cap as well. So we think theres a good shot. Total crypto market cap goes 910 trillion three x what it did last cycle. How fast we get there. Probably a function of the broader macro environment and global liquidity. But suffice it to say, we see this pullback recently as a great opportunity and I think the thing goes significantly higher in 2025."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I mean, I totally agree. We put together something called the everything code, which is a forecasting analysis based on the repeating business cycle of global liquidity."
+    },
+    {
+        "speaker": "C",
+        "text": "Fascinating. Very, very well done."
+    },
+    {
+        "speaker": "B",
+        "text": "And it gives us a top in liquidity around mid 2025. And sometimes crypto goes past the global liquidity peak, other times it nails it. So you dont really know and you dont really know whether you're going to have. What you're saying is playing in my head. Most people are now fearful of the short cycle because of PTSD, no other reason. And they haven't been around because they're like, it went too fast, too soon. I'm like, look at fucking 2013."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "These were la la land cycles. This is nothing. There's the normal distribution, middle of the curve stuff which would be goes to 200 grand or whatever, bitcoin. That's pretty normal. But there is another world of a complete bubble cycle which nobody expects and were going to see a lot of liquidity. We have to, theres no way of refinancing the debt. There is zero way. And weve got this massive problem with Japan and their currency. Weve got the problem with the Chinese dont have enough dollars. There needs to be more dollars in the system because the dollar is too strong."
+    },
+    {
+        "speaker": "C",
+        "text": "Yep."
+    },
+    {
+        "speaker": "B",
+        "text": "Then we've got the candies you have to give out at election time, which is going to be Auntie Janet running down the TGA as much as she can. And James already said, yeah, we're not going to buy any of that stuff either, because we're just getting down. Everything is setting up here and people just don't believe it because everyone's so short term. But if you just step back, it's like, probabilistically speaking, it's going to be a good cycle."
+    },
+    {
+        "speaker": "C",
+        "text": "I agree. And look, I think actually more people are underweight. The right side of the tail here, which is that bubble that you're describing. And we manage risk irrespective of what a bubble may or may not exist. But we do have, we always like to sell volume to fund our wings is like we put it right. And if you can get some absurdly high upside exposure for cheap, it's probably a good idea. Because in the case that you're right, you're genius and you're wealthy, in the case that you're wrong, maybe punches your p and L 50 bps. Right. I think that that side of the distribution is wildly underappreciated."
+    },
+    {
+        "speaker": "B",
+        "text": "Just need some long dated Solana. We need some long dated Solana options. We need to get."
+    },
+    {
+        "speaker": "C",
+        "text": "Guess who has the largest Solana options trade in history on right now. It may be asymmetric. It may not be, I don't know."
+    },
+    {
+        "speaker": "B",
+        "text": "You know, it's not liquid far out yet, so."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, totally. Yeah. End of year, it's the best you can get, typically, right now. And you got to have really good relationship with dealers, which, by the way, this kind of begets, I think, a lot of what we hope to see tradfi kind of shoring up as it relates to the products that need to exist in trading crypto is. There's a lot of OTC desks out there that have a lot of tradfi experience and other ones that are not. They're cowboys. And so as we can kind of mature that space a bit more, maybe we can end up with leaps as it relates to a lot of options. But until then, you can find other ways of doing it and constructing your portfolio to be not underweight. The right tail of the distribution."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And you don't need to bet the house on that either. There's nice ways of doing it. Final question for you, because this triggered another thought, is I was in Cayman having drinks because everybody in crypto comes through here because all their foundations are here or whatever. Right. And it was one of the. And I won't name the names. One of the new kind of defi restaking whatever protocols. And I listened to the guy talk about these gigantic yields, and I could see him getting excited. I said, so where were you working in finance before here? He's like, no, I'm just a developer. I'm like, okay, look, there's a truism that I know, which is there is a reason for yield."
+    },
+    {
+        "speaker": "E",
+        "text": "Yes."
+    },
+    {
+        "speaker": "B",
+        "text": "So Ethereum staking yields, or Solana staking yields are because you're locking up your money for a period of time to secure the network. That's pretty straightforward, which is why you don't get crazy yields, 5% seems kind of reasonable, moves a bit about. But if you're getting 40% yield and they go, well, it's just because they're selling options and taking the premium and doing the arbitrage. I'm like, if it were that easy, there would be no arbitrage premiums in the world. And it's just like somebody's going to blow up somewhere here. I don't know where. I don't know where the weak link is. Terrifies the shit out of me. I don't know. What's your thought?"
+    },
+    {
+        "speaker": "C",
+        "text": "Completely agree. So look, I mean, I was mentioning my trading partner. He was at Lehman Brothers pre and post collapse and was through all that mess. I was trading GFC. We both have extreme levels of PTSD as it relates to embedded credit and counterparty risk, which is one of the reasons why we were very fortunate to get out of the FTX debacle way ahead of anybody else. Look, the interesting thing about what you just described is that hes a developer. This person is a developer. Preston, this goes back to your question about what drew to crypto, is that youve got this crazy culture clash between software developers and finance trader people. And typically, if you go to the investment bank, the software developers, they keep them in the basement. All the traders are up on the top. Right, we get that. But guess what, guys? The developers run the show now, and they have no concept of what were talking about, this compounded leverage or a compounded embedded risk inside a system like this. And what theyre taking is, and this is, as a trader and as a technologist, I look for these things and go, how can I make a trade on this? Because this is wrong. This is mispriced, right? How can I actually benefit from this? Does it actually introduce systemic risk into the broader system? Well, I hope not. And I think that weve had a number of these tests in the system particularly in 2022, to suggest that we can survive these kind of exogenous shocks to the system. Do I want them to continue? No. Are they going to? Probably because some developer is going to ideate and pontificate about some concept that they can build. That doesn't mean they should. Right. And furthermore, they can get funding for this type of stuff because the venture capital community, which I am a part of, has huge bags and investments in this space that they have to make it work. And so as things get built out in the spectrum of applications, you're going to see stuff like this over and over again. And so I think, you know, I don't want to speak to any, any one protocol, lending, restaking or otherwise, but I think people should really get an understanding of what the embedded credit risk is in these systems and how the leverage can actually spill over to have. I don't want to say a Luna style event, but, or a Lehman style event, but you're going to have some style event that you need to actually hedge or protect against. And what are you doing to do that?"
+    },
+    {
+        "speaker": "B",
+        "text": "My favorite thing is when I saw three arrows capital, I thought, I've seen this all before. The entire centralized CFI system was based on one borrower and nobody knew I did long term capital. I was there for the. I helped them put the book on. Unwind the book when I was at Goldman and I saw that whole thing and I was on a stag weekend in Ireland and I was with a bunch of mates from the city. And after a few drinks, as usual conversation, who's your biggest client? We went around, it was long term capital, and there was the equity derivative guys like me. Then there was the fixed income guys, and by the time we got to the fixed income guys, we'd added up the equity derivatives and it was already just a few of us on the boat. That was ten times the size of the fund. And then the head of fund trading at Deutsche, he goes, oh, we've got at least 100 billion with them."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh my God."
+    },
+    {
+        "speaker": "B",
+        "text": "I went back, spoke to the risk managers at NatWest and said, we need to unwind this book. But that was three arrows. And this is what we don't know. The smart contracts may be great, the programming may be, everything may be great. You just don't know who's going to blow if derabit blows up. What the hell does that do to the system? That's a big risk that's out there. And I love Darabe. I use all the time."
+    },
+    {
+        "speaker": "C",
+        "text": "Terrifying, because there's options place look, I think the thing that you're putting your finger on is critically important. As we bridge from tradfi to call it blockchain or crypto, is your counterparty risk or embedded credit risk is no longer another bank or a hedge fund. It's a smart contract. And so it's called smart contract risk. And you say, well, how do you size that risk? Well, you probably need to be able to write code, because if you cant read the source code of a smart contract, then you probably dont understand what the credit risk is of parking assets in that sort of thing. Ethereum has done an amazing job of this, of ensuring that the contracts that are out there are open source. Solana has a lot of work to do. Not Solana Labs, but the Solana projects need to do, I think, a better job and open sourcing a lot more of their Solana programs so that they can actually showcase, um, what it is that you're putting your stuff into. But this requires a different skill set than somebody that can evaluate credit risk, like say, for a bank or a hedge fund. You actually need to invest to evaluate the credit risk, if you will, of a smart contract, which is a technologist job. And I don't think that that part of the industry is as robust as it could be. I invested in a company that's, uh, you know, these are ex, like, NSA, CIA cyber operatives that are trying to build real time kind of threat detection on smart contracts. There's automated things that need to be built and done, as well as kind of a cottage industry of experts that can provide this level of insight into these things, because otherwise you're going to end up with marketing pushing the story, hey, you can earn 40% yield on this thing. Guess what people are going to do? Park their money in it. And until that changes, you're likely going to see these hopefully not systemic blow ups, but to some extent, these kind of like smaller idiosyncrasies impact the market."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And I think professional risk takers, you may choose to take the 40% risk because you can run a diversified book and you'll say, I'm getting overcompensated for the risk. Right. Most people don't understand any of that stuff."
+    },
+    {
+        "speaker": "C",
+        "text": "Right? Yes, that's true."
+    },
+    {
+        "speaker": "B",
+        "text": "Joe, listen, fantastic conversation. I will definitely talk with you more about stuff because I think we only scratched at the surface. We could have spoken for hours, but I really enjoyed it and let's see how it all plays out from here."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, lovely. Thanks for having me and looking forward to coming back absolutely."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay."
+    },
+    {
+        "speaker": "D",
+        "text": "An absolutely fabulous conversation with Joe. What a great guy. What a brilliant thinker. I just thought that was really, really good. I could have spoken for hours more with Joe, and I think I'll probably bring him back at some point to flesh out some more things. For many of you, the crypto journey is one about trying to piece together a conversation like this. Something you saw on Twitter, something else you saw. And it's not easy. It's easy to fuck this up. And I tell people endlessly how not to fuck this up. It's pinned to my twitter that don't fuck this up mentality. But one thing I could see is people needed something to help. And we launched at real Vision. Real vision crypto. It's a very cheap service. You can pay in crypto, but what it's going to give you, it's going to give you a portfolio to trade along with or just use a stress test, your own not, the idea is not to copy it, but it gives you some idea, talk to you about risk management. It's going to find great ideas for you. There is the brilliant Jamie Coutts, who is our head of crypto analysis, and he does this brilliant nexus between on chain activity, macro crypto altogether. He's also a technical analyst. We've also got DMARc and other technical analysis indicators to find the great opportunities, what's breaking out, what's not. We've got a great show with OV Amando, two of my great friends. These are trad five people who are deep crypto. They built the Rek guy community. They're meme coin traders. They're crypto traders, but they really understand how the financial system works. Their weekly show is going to be killer and there'll be Ama's, there'll be all sorts of great stuff. It's there to help you in your crypto journey. It's there to help you not fuck this up. So realvision.com crypto, the links below join up for that. And meanwhile, please click like, put a comment and subscribe to this channel too. Anyway, see you next time. Thanks."
+    },
+    {
+        "speaker": "A",
+        "text": "We hope you enjoyed this episode."
+    },
+    {
+        "speaker": "C",
+        "text": "At real vision, we arm you with excellent expert knowledge, time efficient tools and a powerful network to help you succeed on your financial journey."
+    },
+    {
+        "speaker": "A",
+        "text": "Get a taste of financial freedom with our free offer@realvision.com. free. That's realvision.com free."
+    }
+]

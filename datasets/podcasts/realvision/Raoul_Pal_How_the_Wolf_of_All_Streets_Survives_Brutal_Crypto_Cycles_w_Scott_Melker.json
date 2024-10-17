@@ -1,0 +1,378 @@
+[
+    {
+        "speaker": "A",
+        "text": "This episode is brought to you by Shopify. Forget the frustration of picking commerce platforms when you switch your business to Shopify, the global commerce platform that supercharges your selling wherever you sell. With Shopify, you'll harness the same intuitive features, trusted apps, and powerful analytics used by the world's leading brands. Sign up today for your dollar one per month trial period@shopify.com."
+    },
+    {
+        "speaker": "B",
+        "text": "Tech."
+    },
+    {
+        "speaker": "A",
+        "text": "All lowercase. That's Shopify.com tech. Hey, everyone, if you like this podcast, go behind the paywall to get privileged access to the smartest minds in finance. Join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off our essential membership for the first year. Now to the top analysis of today's crypto markets."
+    },
+    {
+        "speaker": "B",
+        "text": "So I'm really excited about this. Scott Melker is somebody I follow a lot, and I like to speak to all different people in the space, whether they're hedge fund managers in the space, people who've built the protocol, business founders, cultural people. And Scott's really at the epicenter of all of this because he, like me, gets to talk to some of the most amazing people in the world. And he's got a great story, too. And I think it's really important that we understand the whole space. So I can't wait to speak to Scott. He's a super lovely guy. I've never had him on this side of the camera. He's interviewed me several times, so I can't wait. The world of crypto is an incredibly exciting journey that we're all going on together. We don't know where it's leading to, but we know it's going to be absolutely massive. Join me, Raoul pal, as I guide you on our adventure to discover just what this new world will look like. Scott Melker, finally, I get to turn the tables on you."
+    },
+    {
+        "speaker": "A",
+        "text": "It can't possibly go as well in this direction. I'm sorry."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, you're a better interviewer than I am."
+    },
+    {
+        "speaker": "A",
+        "text": "That's why you're a better interviewer than me, so we can disappoint everyone. It's perfect."
+    },
+    {
+        "speaker": "B",
+        "text": "So, listen, I want to start at the beginning because you've got a fantastic story, and I just love how people get into this crazy world in the first place. And you came through a very bizarre route. So let's start at the beginning. I want to hear the Scott story."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure. Yeah, definitely bizarre. But I think that, as you said, there's a lot of circuitous ways to get here, but we all seem to arrive in the same place one way or another. I really started getting interested in markets when I was 1213 years old. I bought Disney stock and caterpillar stock because I thought tractors and Mickey Mouse were cool. And I had parents who obviously valued a financial education and sort of pushed saving. And those things on me. You're talking about 1988 and 1989, when you had to call somebody and, you know, stock certificates, the good old days. And so I think I just had sort of a interest in markets the whole time. I went to the University of Pennsylvania in the late nineties, and that was really during the Wall street boom. Everybody I went to school with, even if they were like an anthropology or an English or an art history major, went to Wall street, right? Literally everyone. So I actually turned down a job, Solomon Smith Barney, uh, to become a DJ, you know, and there was a. There was a lot more to it."
+    },
+    {
+        "speaker": "B",
+        "text": "I am done it the other way around. Like David Sullivan."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, absolutely, that's right. See, he's going to always be a lot richer than me because he had a smart career path, but I had a lot of people who worked for him that I went to school with. But so, you know, there was a lot of other things I tried. I was sort of a scattered entrepreneur, but at the core of it was really my music. But the one thing you have a lot of when you dj late at night is time during the day, right? So I always was a trader, often badly. I blew up at least three times that I like to recount, but probably not worth going into that now. The last major blow up was around 2012 when I bought a stock. It literally went to zero and wrote it all the way. And that got a little traumatic. But as I was sort of winding down the music career."
+    },
+    {
+        "speaker": "B",
+        "text": "No, no, no, we're not going to go skip over the music career. I want to hear the music career because I love music. I grew up in dance music, I lived in Spain, staring at a beat all day, you know, I'm jealous because."
+    },
+    {
+        "speaker": "A",
+        "text": "That'S the one place I never made it to with all the invitations. You know, Ibiza was one of those things where I wanted to go in the nineties and it didn't happen. Then it was the early two thousands and it didn't happen. And by the time I was going to go, everybody told me it was already spoiled and I was too late. You know, kind of like crypto, actually, when I got in 20, 1617. So I just never made it. But yeah, you know, I started as a, literally a dj at my college parties in dingy houses in West Philadelphia, at Penn, and evolved into playing stuff in Philadelphia. And then, you know, New York, Philadelphia, Washington. And then what kind of music were."
+    },
+    {
+        "speaker": "B",
+        "text": "You playing when you started?"
+    },
+    {
+        "speaker": "A",
+        "text": "That really depended on the phase. At the beginning, I was a hip hop dj, just outright. And these were the vinyl days, you have to remember. So you really had to choose. It was like every song you wanted to play at a gig cost you $10, right? It wasn't like, now you had to carry it and you had to be really selective. So you couldn't just not like the computer days, where you could have every song in the world accessible to you at all times. But then I got really, really into electronic music, particularly trance progressive house, and then sort of evolved towards deep house. So in those early days, I was kind of all over the place. But the biggest gigs I did were in that vein, actually. I went to Twilo in New York City and I saw Paul Van Dyke, and it blew my mind. It was like this religious experience. And I walked into the dj booth. I was just like a senior in college somehow. I wasn't a girl or anything. And he allowed me in, I don't know why. And I convinced him that I was going to book him to come to Philadelphia. I don't know what. I was odd. And we started this party in Philly called Air Trance at a club called Shampoo. And we got him and then we booked all this world class talent. They came and played with us, terrible trance dj's. And we basically found a way to open for and play these huge parties. And so that was kind of the beginning of it all. And I went through these major waves of music, but eventually found a way. I booked a tour in 2006 in Japan with the Michael Jackson of Japan. His name was Toshi Kubota. So I did a 30 city tour in Japan of stadiums. I've been to more cities probably in Japan now than I've been in the United States. And that led to really getting a lot of things where I was playing opening acts for Enrique Iglesias and, I mean, pretty crazy, crazy situations."
+    },
+    {
+        "speaker": "B",
+        "text": "Those were the days you could actually make money djing as well. It got much harder."
+    },
+    {
+        "speaker": "A",
+        "text": "I think I was right before the real glory days, and then it got a lot harder. You know, back then, I remember DJ am booked this million dollar year residency in Vegas. And it was mind blowing to everybody that you could show up once a week and get a million bucks, which is 20 ish grand a night, right. Well, now, I think the chain smokers get like 1.2 million a day in Vegas every time they show up, right? So I think that that money did evolve to some degree, but, yeah, you could make a living. But I kept dumping all of my profits into the market and losing it, so it was kind of irrelevant. Whatever job I was doing, it didn't really matter. But then I had kids, and really, I like to joke sort of. If you've ever seen the movie dazed and confused, Matthew McConaughey's character, he says, the best part about high school girls is I get older, they stay the same age. Well, that's how I felt about djing. I just kept getting older. But the crowd was still perpetually 21. And at a point you're like, I'm 34, 35, these kids are trying to, like, buy me drinks, you know, Jagermeister shots or something, I don't know. And it's just embarrassing, you know? And so, like, I just kind of transitioned out. But that was the perfect timing for me. I said I was going to trade more. That's how I was going to make a living because I hate fun and want to torture myself. But I found crypto, you know, and it was late 2016, going into 2017, where you could throw darts and make money. And frankly, I just got very lucky with my timing. But I came in as a trader. I just wanted to make money. And then I got orange billed before going to crypto."
+    },
+    {
+        "speaker": "B",
+        "text": "My favorite moment of the dance music thing is a friend of mine was a house dj called ATFC and producer, and I ended up in the dj booth at Pasha for Bob Sinclair headlining patter on a Friday night. And that was an extraordinary moment in time. There was a lot of energy around that scene. Then."
+    },
+    {
+        "speaker": "A",
+        "text": "I feel like Bob Sinclair quietly was the one who transitioned EDM or whatever, all the genres of EDM, from being sort of underground still to being just wildly mainstream."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, exactly. And then David Gasser and everybody else kind of came after that."
+    },
+    {
+        "speaker": "A",
+        "text": "But I feel like he doesn't get the credit, now that you mention it, for having done that, because world, hold on. Those two songs, I mean, were just massive anthems. And even in New York City, that was when I remember it, the clubs transitioning to really playing house music and club music from being all basically hip hop clubs in New York City besides underground spots. That must have been a just mind blowing experience."
+    },
+    {
+        "speaker": "B",
+        "text": "It was. Anyway, thats enough indulgence over music because I love it. So why the hell crypto? So youve been trading poorly, but you seem to be addicted to it. Why were you addicted to trading or addicted being a wrong word, but why was it interesting to you and then."
+    },
+    {
+        "speaker": "A",
+        "text": "Might be the right word?"
+    },
+    {
+        "speaker": "B",
+        "text": "And how crypto in that journey?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I always, I said, found markets generally fascinating, the sort of human psychology. The problem is that I understood it, but was a victim of it. And it took quite a long time to step out of the matrix, so to speak, and be able to see it for what it was without participating, I think. And that's why all of my errors in the past were always the classics that you teach anyone about, you know, fomoing in buying the top, selling the bottom, panicking, just being a human, basically. But I always really was just interested in the framework of it, why markets move the way they did. What gave companies value, what gave assets value, how this shared human belief and things contributing to making them real and valuable. When I found crypto, by complete luck, DJ's were super into crypto and people don't realize that. 2015, 1617, somebody offered to pay me bitcoin for $500 in bitcoin for a DJ gig in 2011. And I said no, because I wanted money."
+    },
+    {
+        "speaker": "B",
+        "text": "They first heard about bitcoin at a club at Ibiza."
+    },
+    {
+        "speaker": "A",
+        "text": "See, it really is. But so all these DJ's were kind of speculating gamblers. And I had a friend and he said, you got to buy this thing, bitcoin. I was like, I've heard of that one, you know, and then you send it to Bittrex. Because remember, back then there was only bitcoin trading pairs you couldn't trade against. There was no stable coins and there was no access to USDA. And literally everything I remember, everything had s at the end, it was all pluralized. You had to buy ripples and ethereums and litecoins, right? Because nobody even knew how to pronounce any of it. It was just ridiculous. But I was buying ripple at a penny, two cent, something like that. I remember buying TRX at 20 sats when binance became a thing. Like I said, it was just lucky timing. So I think I got very hooked. And to be, if we're being really honest about it, I think I backed into the importance of the asset class and really started digging when everything went down, right. Because then I had to convince myself that I was here for a reason. Hey, everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, talk me through that first cycle, because, you know, everybody's got to go through the hero to zero moment. You've gone through it a few times, but the crypto one is quite astounding."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I mean, I view a portfolio and maybe life as kind of like, I view a chart. I love the visualization of charts. I love technical analysis since I was first introduced to it. My grandfather was a stockbroker. Actually used to draw charts on the kitchen table every morning. It's crazy, but I view both my life and my portfolio as a series of higher highs and higher lows. As long as I'm making a higher low in the next cycle, I've been somewhat successful with no expectation that I'm going to always be at that all time high. And so having sort of been through the cycles, been through the early two thousands cycle, certainly the great recession, I knew what it was like to try to at least secure profits, but certainly what it was like to be exuberant and then lose everything. So I did manage at the end of 2017, early 2018, to lock in meaningful profits. Enough that I didn't have horrible regret, enough that I still have a family, enough that I was able to stick around. And so I think that the key to being passionate about crypto is surviving long enough to actually realize why it matters. I think I managed that, but I had no intention of being an influencer or whatever they call us, or having a large Twitter account or a newsletter or podcast. I literally was on Twitter as a musician. I alienated everybody that followed me. I cut my following in half, from 40,000 to 20,000, and I just started sharing these charts. And for whatever reason, it resonated. But my initial sort of twitter popularity in those markets was my trades. It was me posting charts. It was not really talking about bitcoin. I had no podcast. I had none of that. And so I just became extremely passionate about it. And through that crash and then sort of becoming more cognizant of monetary policy and really going down the rabbit hole of the Fed and central banks, you start to realize that, how important the asset class is. And that's when I really became obsessed and just started talking about it all the time. Right? I had a Twitter account, and I said, it's not enough. I need to write a newsletter. This 180 characters or whatever it is, isn't enough for me. It's all free. And then the guys at blockworks, you probably know them, Jason Janowitz calls me, like, cold, calls me one day and says, hey, man, you got a pretty good presence. You should start a podcast. I said, what the hell's podcast, but I'll do that. And I started, horribly, these planned interviews, and so that's what I really. The journey for me is like a slow tumble down the rabbit hole, I think. I think it's that way. Some people are galaxy brain and just get it from the very beginning. You know, they see bitcoin, they say, maybe they were a gold bug before, and they really understand it. I was not like that at all. I was one of those who needed it sort of hammered home repeatedly. And I really did take sort of the traditional, you know, I feel like I came in through the back door because of trading. Like, my first love in crypto was not bitcoin, it was doge. Right. Because you may remember those massive doge cycles where it was just like free money. You buy between 20 and 30 sacks and it goes up to 180, and you sell and you wait two months and you do the whole thing again. And it was a lovable meme. And so, you know, I have sort of. Even though I don't want people to trade these things and lose their money, I do have a sort of, like, affection for nfts, or yours is. But I do think that, you know, I think you could make the argument that there's been more people introduced to bitcoin through the back doors, through all of these assets, than those who just got it right away and believed that they were buying a store of value or digital gold. So I think it really took me a long time, to be quite honest. But once you get it, man, there's no turning back. Have you ever met anyone who was like, I was wrong about that bitcoin thing. I'm giving up. Unless they just lost their money. Right. But a bunch of people who give up."
+    },
+    {
+        "speaker": "B",
+        "text": "No, there's a lot of people who give up, but they generally all come back."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Because they don't understand the cycles and how difficult it is to deal with a cycle. So they're like, no, no, I think I made a mistake, and then they all come back. I've seen that before."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, they'll be back when bitcoin is $75,000, that's when they'll buy right before we go to 45 on the way to 100. Right. And that's the part of it that I kind of was so obsessed with, I think, from the beginning. And what made trading so interesting is exactly what you described, Preston. I don't think they necessarily either. They didn't really have the conviction in the first place, which I think is probably the case. But, I mean, you can look at 2022. I think there's a lot of people who just got washed out by all these bankruptcies and failures that they just can't stomach having conviction when they don't have skin in the gate."
+    },
+    {
+        "speaker": "B",
+        "text": "How is it for you the 20 2021 cycle where suddenly you start accumulating a big presence online? A lot of people are listening to you, and then afterwards the world blows up and everyone's like, Scott, you're wanker. Rel, you're wanker. We've seen that whole cycle. So talk me through that, the kind of up and down of that, because I think it's just interesting for people to understand what it's like psychologically miserable."
+    },
+    {
+        "speaker": "A",
+        "text": "It is. And I'm not going to pretend that it never affected me and that it didn't matter, because I think people love you till, you know, they only love you as much as the last trade that you posted online or the last idea that you shared or the last thread that you wrote. And two years of positive history can be erased by one market crash. There was times where I literally feel like crypto Twitter thought that it was my fault that the bear market gained. And im sure you felt the same way. You get so many attacks, you cant say anything. All of a sudden its you posted this at the top and this at the top, but they forget what you were doing all the way up. And so it was very hard for me. I wouldnt say, I wouldnt be dramatic and say I felt like quitting or any of those things, but there were definitely dark periods there where I was far less compelled to go online and, and, and share tweets and share ideas, to be honest. You know, you kind of joked earlier, I'm a degenerate heart. I am. But it's been years since I've shared any of that publicly on Twitter. I'm not going to share a chart for Pepe, you know, like, even if I don't, by the way, think it's great, but even if I thought it was like a world changing tech and I would just never share it, right. So it sort of pigeonholes. I sort of joke that Twitter becomes really, really miserable after you get 100,000 followers. Like, there's just this break where even if it's the same percentage of negativity, it just becomes exceptionally loud. You see it in the comments, you can't hide from it anymore. And so you sort of see that everybody becomes like a Zen philosopher when they get 100,000. They just start sharing famous quotes and inspirational ideas about sleep and drinking enough water because it becomes too difficult to tweet about other things without getting so much pushback. So you end up just being a bitcoin or an EtH maxi and talking about those things. And so I think that people forget that you once had 10,000 followers or 5000 followers or 20,000 followers, and then just one day, all of a sudden you had an impact that you didn't realize you had, and you have to change your behavior with time. So I think that it's a blessing, honestly, I love what I do. I love that I have an audience. I think it's amazing that people follow me and go along this journey. I just think that my focus became conversations like this rather than posting charts of altcoins. And that's sort of how I became this host that I'd ever intended to, doing all these interviews and hosting roundtables, because it may be controversial content, but I can ask the question, let the other person say the thing, and maybe you would have gotten me in trouble otherwise, but really, I think that that's how we convert more people."
+    },
+    {
+        "speaker": "B",
+        "text": "Isn't that shame? Because you're not giving over your brain power, your analytical abilities, right or wrong, you're not sharing it with people anymore. And everybody suffers from that. And again, because nobody expects everybody to be right. But the collective thought process of a lot of smart people on Twitter is an astonishing thing."
+    },
+    {
+        "speaker": "A",
+        "text": "When it's happening, it's incredible. Study again in human psychology. I mean, I do still write a newsletter. And when I see a great idea that I like on a chart, I have, like, seven disclaimers before I share what line I think is cool. And I kind of approach it that way. And I say, but it really, people's ability to blame strangers for their own bad decisions will never cease to amaze me. And the other thing is, you can be right and they can lose money. Right? And even you're saying, this is not financial advice. I didn't even buy this. I'm just analyzing it. And still, you know, they obviously fomo into something just because they see a cash tag on Twitter. They don't use a stop loss like you would have. They don't know where you're taking profit. You're not reporting to them at home at 04:00 in the morning. And so I think, you know, you just don't. You, you cease to want to feel that responsibility for people's financial decisions, even though you know they're not your fault and you just change your behavior. So I think just for better or for worse, you just have to become sort of a different kind of personality as it evolves to. I still like trading that stuff sometimes."
+    },
+    {
+        "speaker": "B",
+        "text": "That's what I was going to ask is, what do you actually do yourself? I mean, interesting. I don't trade. I spent, I was a hedge fund manager. I don't trade."
+    },
+    {
+        "speaker": "A",
+        "text": "I really not trade much."
+    },
+    {
+        "speaker": "B",
+        "text": "Very occasionally I'll do something, but generally speaking, I just buy and hold it. I'll stomach the volatility because I'm used to it. Now, do you do that? I mean, I do buy the NFT, but I barely ever sell them either. How about you?"
+    },
+    {
+        "speaker": "A",
+        "text": "I've never sold an NFT in my life. Right. I didn't buy that many of them, but I've certainly never sold one. I'm still holding 90% of the lower cap. Things that kind of went to zero that were small bets from the last market because who knows? And because that's the approach that I took with them in the first place. Right. If my approach is 50 x or zero and zero comes, well, I should have been positioned and sized according to the odds of that happening."
+    },
+    {
+        "speaker": "B",
+        "text": "If they're options, then what's so good about these things? The shrapnel that's left the wrong bet. They're free options because they never expire."
+    },
+    {
+        "speaker": "A",
+        "text": "One day one of them is going to go, and plenty of them did go. I took profit on those in the last market. It's a massive net gain. But as to my behavior, first of all, my time is better spent creating content. In my mind, I enjoy it more. Being a trader is very hard. It's not something that I ever intended to do 24/7 it's like people are like, I'm going to quit my job to become a trader. And you've now traded your nine to five desk job for a 24 7365 desk job with no benefits. It's just a really hard way to live. And I think you learn that 99% of the time. Certainly in this market, sitting on your hands is the best strategy. So there might be some cycle that comes through that's just really apparent that things are good, right? Bitcoins gone up 100% sideways and all coins are going left and right. Okay, I'm going to have a little fun for a couple of weeks there and then. I'm a trader, but I'm not trading full time. I'm not trying to trade through the chop and volatility to make a paycheck. And I, and I'm impressed with those who can because there are people who are actually exceptional at that and can look at a five minute chart and figure it out. But I'm much more like you. And to be honest, it becomes a element of practice when you preach, right? I mean, if I'm going to keep telling people dollar cost average is important, zoom out. Low time preference, that should be my approach as well. But even when I was honestly at like peak degeneracy, I still had at least 50% of my portfolio just sitting in bitcoin and ETH. I always believed that. And usually for me, it's 70, 70% investment, 15% cash, 15% to a light on fire was always sort of the approach I was taught when I was younger, and I carried that over to crypto. But like I said, if it's full all season, I'm going to ratchet up, take some of that investment money out, and have a good time. But it's very rare that I buy anything that I'm even thinking about selling in the next six months to year. Hey, everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing."
+    },
+    {
+        "speaker": "C",
+        "text": "This podcast is sponsored by Ramp. Are you the decision maker in your company? Consider this, for the first time in decades, there's a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your company's spending and control who spends what. With each vendor, ramp software collects and verifies receipts instantly. To save your team valuable time. Ramp automates data entry and routine tasks with automated approvals, expense categorization, and bill payments. Time consuming tasks, which means you'll stop wasteful spending and close your books in hours instead of days. Businesses that use ramp add up to 5% to their bottom line the first year. If you're a decision maker, adding ramp could be one of the best decisions you've ever made of get $250 when you join ramp for free. Just go to ramp.com easy ramp.com easy ramp.com easy cards issued by Sutton bank."
+    },
+    {
+        "speaker": "A",
+        "text": "And celtic bank members."
+    },
+    {
+        "speaker": "C",
+        "text": "FDIC terms and conditions apply."
+    },
+    {
+        "speaker": "B",
+        "text": "So the other big thing that happened at the tail end of the last peak of the cycle was the split of the bitcoin maxis versus everybody else. How did you deal with that? Because you, like me, were having conversations with everybody. You're inquisitive and curious, and before you knew it, everybody had split into this weird world."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, we'll talk about that in a second. But I will tell you that what I find most entertaining is now the bitcoin maxis all hate each other because there's different various levels of bitcoin maxi ordinals. I don't have any opinion on ordinals. I just love watching that community cannibalize itself over them. Um, I really do. But, uh, yeah, I think it was very hard, but maybe it was always there. I think it just became more of a split, maybe because, you know, ethereum maximalist started to talk about hard money and that was just a little too much stepping on the bitcoiners toes. But, um, I think, uh, largely by that point, I had almost everyone muted or blocked. I, you know, after going through his last cycles. And it really is like if a tree falls in the woods, you know, does anyone hear it? If you don't read the comments, it never happened. Right? And so I really got very good at making Twitter and the community into a one way street where I just launched. My joke was that it's, I throw a grenade and I walk out of the room. And that's, that's how I view Twitter at this point. And so, you know, I think that I somehow managed to at least maintain enough friends on both sides that it wasn't that bad. And to be honest, I think a lot of them just want to come on the show sometimes. So they tread lightly about calling me names, um, even though that sounds ridiculous, but the, the most toxic Nazis who I've seen say bad things about me on Twitter are certainly knocking on my door when I'm doing a spaces with Michael Saylor saying, can I get on stage? Right? And so, uh, I think, you know, you get to a big enough platform, if you, if you sort of thread that needle, you have a fighting chance. But I was very much on the I like eth side, like you. But my approach was always that they were separate assets and non competitive. And I continue to say that there's bitcoin and there's everything else, but that doesn't make everything else bad. It's okay to take a VC approach to investing in speculative technology. I love that. Right? And so that's how I viewed sort of all coins at the beginning, if it wasn't just outright treating them for profit. And so at least I think I always maintained the bitcoiner mentality and kept on the right side of history, perhaps there. But to be honest, I don't know, man, it's no matter what you do, you're going to end up on the wrong side of some community. So, I mean, what's the answer? Should I, you know, should we have become bitcoin mapsis? And then all the people who love Ethereum would think we deserted them. And if you even mention ethereum, I was just joking about this with David Bailey from the bitcoin conference, but I did a roundtable recently on my YouTube channel and everybody was sort of bullish on Ethereum. They're all bitcoiners, but they like us. And I got a DM from a friend who's a toxic nazi by any definition, and he told me he was disgusted with me because there was no bitcoin opinion in the conversation. And I said, listen, next week I'm having entire Twitter spaces where a bunch of bitcoin is going to attack me. I'm literally inviting them and I'm going to be the only one who's not a bitcoiner. So there's not going to be anyone representing the other side there. And he said, yes, but any bullish talk of Ethereum is an attack on bitcoin."
+    },
+    {
+        "speaker": "B",
+        "text": "Wow."
+    },
+    {
+        "speaker": "A",
+        "text": "And my response was, you're really insecure, man. That's literally what I said. I said, listen, bitcoin doesn't need defending. If it is all the things that we believe it is, if the community is that passionate, then something else. Being good is not a threat or an attack on your asset. I just don't understand that mentality at all. Maybe it's because I mentally put them into buckets, like I said. But talking about Amazon stock is not an attack on gold, right? That's really how I view it. I don't."
+    },
+    {
+        "speaker": "B",
+        "text": "And the one thing that I've really enjoyed is the rise of the kind of web three ethos. It's like, it's very open minded. It's kind of. We don't really care what chain it's on. There's art, there's music, there's culture. It reminds me, and I've talked a lot about this, I happened to be the ledger event in Paris, and I'm sitting there with famous artists, musicians, fashion people, finance people, technologists, all at the same table, united. And I'm like, this stuff rarely happens. It feels like there is magic here somewhere."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And they'll tell you that you were sitting at a roundtable trying to figure out ways to attack bitcoin, if you ask the topic, bagsies, right, that you all got together to plot your next attack. But, yeah, I haven't seen anything that's brought these people together and a lot of people say it's a bubble, it's speculative bubble, everybody's going to lose their money. That's fine, because those cycles advance the ball, right. The people who are here earlier inevitably going to fail, 99% of them, right. And people always, I love when people compare crypto to the late nineties, early two thousands, tech and Internet bubble, as if that's a bad thing. Yes, there were pets.com and net taxi or whatever, all these companies that went to zero, but there was also Google and Amazon and the biggest companies in the world. And so I view these cycles that we see in crypto, certainly this bear market, as washing out all of the failures. Listen, there were plenty of outright scams, horrible ideas, I'm sure, but most of them are just honest people who tried something. Maybe they were a brilliant technologist, but horrible at managing treasury. I think that's what we saw a lot of times. They thought that they had unlimited money and that everything was cut down 90% and they failed for whatever various reasons they failed. But they might have come up with the idea that the next entrepreneur grabs and runs with and that becomes the next Amazon, Google, etcetera. And so I view sort of these sipholes and these washouts as just a natural cleansing. And I really do think that each market sort of that high or low idea, the things are being built that are going to be the next huge ideas in the future. But you talked about that. When else could you sit at a table with a famous artist, a big dj, a musician, and everybody is excited because its theoretical for a lot of us. I was in the music industry, its a heaping dumpster fire. You get screwed left and right. Its worse than crypto. People dont realize. But art, its very predatory. I think if youre a creative and you dont have business sense or trusted people around you, or good contracts or good lawyers, when you get to a certain point, and the reason all those people here, many will say theyre just speculating and trying to make money, but the reason theyre all here is a shared belief that theres a better system than the incumbent systems, that theyve come from where theyve all suffered or been abused or been the one who made the hit song, but only got paid 1% of the revenue, if even that. And yeah, you can put that in an NFT and go sell it and capture all the value yourself. So whether that works yet or whether they actually made money, everybody is sick of these old systems. And I think that's the shared, and that's something that bitcoiners, ethereum, web three, everybody should share."
+    },
+    {
+        "speaker": "B",
+        "text": "And we're united by the even bigger meta narrative of the financial systems broken. The central banks are debasing the value of our savings and earnings. So we've got a societal level problem, and then we've got our business problems, which is like value is being extracted from me and I don't get to capture it, and I'm feeling exploited. And that's happening almost across all industries, particularly the cultural industries, cultures being extracted a lot and monetized by others and not the people driving the culture. Sure there's a few who can make a lot of money, but it feels that that becomes very powerful. That's why an artist sits next to a technologist, sits next to a fashion person. Because they're all like, we get the big problem, but we can solve all of our problems too, and they will."
+    },
+    {
+        "speaker": "A",
+        "text": "All be here in the next cycle. Preston, I don't think that those people got washed out in the same way that we talk about retail, that may have suffered in these other things. I talk to these people all the time, and they don't care that their nfts went down in value, right? They still actually believe that there will be a use case to better collect royalties from their copyrights and all these things that are being built. And so I think that the next cycle in web three is going to be absolutely massive. Whether those bitcoiners love it or not. It's inevitable, it really is, because this is a movement that's going to improve the lives of people. And I love what you said, because these sort of insular cultural problems are a microcosm of that much greater problem that you touched on. And I'm 46 years old. Even going through the past few cycles in markets not crypto specifically, I dont remember there being a time when people were so cognizant or curious about inflation and central bank policy and monetary policy. You never saw a new generation of gold bugs. Even through all of that, at least in my opinion, it remained the boomers, my generation. Even though we got beaten down by markets repeatedly, we never were passionate about buying gold, because I don't think we understood. It took until I was in my forties to really have that aha moment about what central banks were pulling off and truly understand monetary policy. And let's be honest, I think we all fell way further and faster down the rabbit hole when Covid hit. Not because of the virus itself, because of the monetary policy reaction to that, right? When you see now we love to throw these sticks around 40 50% of the entire monetary supply in history up here in 18 months, that's going to even get your average person on the street scratching their head, where is all this stimulus coming from? Where, how do they just airdrop us money? Where does that come from? Why are goods now twice as expensive after they airdropped us a whole bunch of money? Well, that seems connected. And so I think very sort of obscure it's happening to them. In other countries. Your American would have said, well, maybe Venezuela or Argentina, Lebanon, maybe if they're really informed, start to become really issues at head home when you're having trouble paying your rent or gas is too expensive. And so I think we've had a grand awakening, still a small percentage of the population, but now you hear it from everyday people who understand these problems. And for the first time, whether it ends up being the answer or not, there is a potential answer. And that is obviously the crypto space. And so I think that's why it sort of makes winning inevitable and more people pouring in. Also, web two is just done. It's just over. There has to be a next you and I talked about on spaces very recently, but seeing what's happening in AI, and I know that a lot of that will be tied to crypto down the road, but all of the sort of theoretical ideas that you share often and others do about people not being able to understand exponential adoption and really how fast crypto has been adopted. You cant look at chat TPT and not understand that immediately. Its mind blowing. I use it every day and every day theres something new to do that I read about. Im somewhat obsessed with it. I drive my wife nuts, but I tried to remind her the last time I drove you nuts was when I found a crypto and that one worked out fine."
+    },
+    {
+        "speaker": "B",
+        "text": "So listen, you're still in LA, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "I'm in Florida."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, in Florida."
+    },
+    {
+        "speaker": "A",
+        "text": "I was born in LA but I live in Florida. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And when you are talking to people who aren't from the industry, so the broader businesses, are you picking up that because you've been around the cultural industries for a long time, are you picking up people that are now taking more attention to this and realizing that there is a bigger, broader thing here at play?"
+    },
+    {
+        "speaker": "A",
+        "text": "I think they absolutely are. If were talking about crypto specifically, I think the majority of the population has heard of bitcoin now. Right. And I think you see it on CNBC, the Fox News ticker. Its a part of the everyday dialogue. Its in the mainstream news. I did not think that would have happened by this point because maybe im not able to think as exponentially as others. But if in 2018 or 19 you told me that wed be a ticker on CNBC, I probably wouldve thought you were nuts. And thats been the case now for a couple of years. So I think your average person at least has heard of bitcoin and can say, oh, thats that funny Internet money or its digital money or has a very basic understanding. And so I think thats the zero to one moment we talk about the exponential growth and adoption. If people have heard of it and the world is now presenting problems that will drive them potentially in that direction, I think it's just a matter of time. There's plenty of people who push back immediately when I talk about it, that's a scam. It's a joke. It's a bubble. It's not real, no intrinsic value, not backed by anything. But those narratives are becoming quieter. And the big ones, I think, that we've shared over the years that have been problematic are slowly melting into the background. I mean, every single sign you go through, any, even mini cycle or bear cycle in crypto, it's chinese ban, India ban only for criminals, ESD regulation, boiling the ocean regulation. And with time, I think those things all sort themselves out. Listen, I am horrified by what we're seeing in the United States, the approach to the industry, but my optimistic jet general positive that will figure it out. And if this, these guys don't figure it out, if we've seen anything in United States politics, is that they'll just eventually get replaced and those guys will figure it out. So it's just a matter of time, right? We see regime change now, just utterly change. You see everything repealed, you know, and rewritten. I think we get it right. I just don't think we get it right under Gary Gensler for the moment, but I think it's a matter of time. But you talk about the average person on the suite of street, they're at least aware of us, whether they have a positive or negative view. They know, Raoul."
+    },
+    {
+        "speaker": "B",
+        "text": "And so that's what brings me on to my next point, is we now assume, let's say everybody in the United States, so let's call it the western world has heard of this. So the next time around, the market's rallying and making new highs. You're going to suck in an extraordinary amount of people. This is why I don't think people yet understand. I've even been thinking through the issue, actually with ETH not because I'm an ETH maxio and plenty of other stuff, but ETH has a diminishing supply with more activity and more and more people stake it. So it's not available on the market. And we're probably going to have a big whoosh as you bring in all of these people who've heard about it. I'm like, this sounds like we could have a very different cycle this time around. I don't know. I'm not going to make predictions because I'm bored of being attacked online. But you know what I mean. It just feels like there's a lot of people who could come into this space and come back into this ethereum."
+    },
+    {
+        "speaker": "A",
+        "text": "To $1 million by July. No. Yeah, you heard it here first. I just gave you a title for this entire segment. I know how that works. I 100% agree. I'm extremely bullish on Ethereum, but the same for bitcoin."
+    },
+    {
+        "speaker": "B",
+        "text": "Same for same."
+    },
+    {
+        "speaker": "A",
+        "text": "I think that argument is same for all of them. Ethereum specifically. I think the merge hit in the depths of a bear market and I think it just didn't resonate. How important it is, the Chappelle upgrade and people actually being able to withdraw when they stake. I think there's a lot of good things. I mean, I still feel like if you're in it for the price, if you're in it for a trade, even if you view it as a five or ten year trade, I think ethereum is a better trade. I do. I think it. I think it will, it will capture more beta. It'll be high, you know, just it will, it will have a larger percentage move if we get that true cycle, that doesn't mean, I think it's a better or more important asset than bitcoin. If you said, what do you want to hold? If all the bad things in the world that seem to be happening all came to a head, which I think non zero chance, but very unlikely. I want bitcoin. Right. And so I think it was use go that referred to bitcoin as schmuck insurance on my show. But I really loved that because it is. So I want to hold some of this because I don't trust any of these guys, you know? And I think that that will resonate with a lot of people. But I do think that bitcoin will capture a ton of the narrative in the next cycle. But I think it's more important, Ryan, people, that there will be a next cycle right in this moment. People love to say it'll never happen again. It's all going to zero. It's going to get regulated away. There will be another cycle. And all those people, like we joked earlier, will buy at 69,000 because it's breaking the all time high and they're starting to pay attention again. Thats how this works."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, I was speaking yesterday to one of the worlds biggest crypto hedge funds and its also one of the worlds biggest hedge funds. And im like, how are you thinking about the market now? And Im been bullish for quite a while now. Very, very bullish. And theyre like, we think theres another shoe to drop. Im like we havent had Max panic. Im like, are you fucking kidding me?"
+    },
+    {
+        "speaker": "A",
+        "text": "Id wholeheartedly disagree with that. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm like, I can't, you know, Eth didn't make a new low in, in October, right? When?"
+    },
+    {
+        "speaker": "A",
+        "text": "Not even close. Not even close. It was 25, 25% above. It didn't even break 1000. Right. Maybe 990 at some point. I only think they broke 1000. And the lows from July were like 800."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So I'm like, what else could you throw at the market that creates anything but a short term blip? I mean, we've had Gensler go all out war. Everybody's got a lawsuit. Half the exchange in the world went bust. The other half were scams."
+    },
+    {
+        "speaker": "A",
+        "text": "And FTX. It was a bad moment, but that entire move was retraced in two months. People said, FTX is too big. It's over for crypto. It took two months for price to return to where it was. That, to me, was the ultimate indicator of increasing strength and just tremendous demand. And I still think we have it. Listen, there's a couple of things people point to that could be the shoe to drop finance. I don't think it would matter much more than FTX, to be quite honest. I think it would be a temporary blip, like you said, maybe three months instead of two months this time. A lot of people pointing at DCG on Grayscale, but I like to remind them that Genesis is already bankrupt and price didn't even move. When that happens, not an inch. Right. The United States government announced that they have 50,000 bitcoin from Silk Road that they're selling and they'd already sold 10,000 and nobody even knew that they had done that in one day. I mean, to me there's just demand. There's just tremendous demand. And whatever is being thrown at the market is being absorbed, you know, and that's very clear. If you look at the huge wallets, specifically with bitcoin guys who have 1000, 5000, 10,000 bitcoin are buying and buying and buying and not selling anything. And they did sell on the way down. So I, you could just, I joke, you could just fall on your head and look at the four year cycle, pull out a historic chart, mark the having, mark the bottoms after the having, mark the next having fallen your head, go into a coma. Ignore all the macro and everything we've seen in the money printing and we're just right in the middle of another cycle. We are. And there's going to be a halving next year. And three to six months after that, bitcoin's going to go crazy and people are going to go, wow, man, that was really obvious to. And then everyone on Twitter is going to claim that they bought at 15,000."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And then no bill sell at the top. When you're looking out, what are you excited about outside of price? So when you're looking at the space, is there any other ecosystems you're interested in? Is the parts of web three applications what really interests you?"
+    },
+    {
+        "speaker": "A",
+        "text": "I'm going to be honest, I had a bit of an existential crisis at the end of last year about this very question. I was actually sitting with Rand Nooner and his entire team at consensus recently. I had a couple extra drinks. It was the last night we were sitting at dinner and I kind of played devil's advocate against the industry. I said, convince me that 99% of this isn't a scam, going to zero, whatever. But I realize that I'm still excited about almost all of it. But the existential crisis was that. I think with all the collapse and certainly after FTX was just very hard to answer the questions from everyone. It was very hard to defend the industry. You know, it felt like a lot of the things that they had said were true. Right. And it was hard not to take it to heart. I had Sam on my show ten times probably. You know, I was fooled. And so maybe it was embarrassment more than anything else. But then, you know, once you sort of get over that and all of the attacks and nonsense, I think it goes back to all of the core use cases that we sort of saw bubbling in the last cycle that just weren't mature enough yet. So I'm very excited about nfts, but less about pfps, less about the cartoons and more about the utility. I'm excited to actually see a AAA game come to the crypto space and not just axie infinity. Axie infinity to me was an incredible, a litmus test for what was possible in gaming."
+    },
+    {
+        "speaker": "B",
+        "text": "It's crypto punks, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "Because it was a crap game. It was really difficult to play. You had to, you know, buy ethan exchange, send it to Metamask, Ronin Wallet, learn how. But grandmothers in the Philippines found a way because there was incentive to do it. So if they can figure it out and do it, imagine when we abstract away all that complexity and give someone a game that's actually fun, right? So I think gaming, I still think that's going to be absolutely massive. DeFi will be massive, just maybe not the United States, sadly, right? I think collateralizing, bitcoin, I know that people think now it's a horrible idea because of all the terrible things that happened, but I think that it's pristine collateral, in theory, if it can be done right without putting yourself at tremendous risk, I think tokenizing assets and turning those into collateral in a more efficient manner, without third parties in between, could work exceptionally well. And I think that the story that people forget about all the embarrassment of centralized finance, c five collapsing, is that DeFi pretty much was fine, right? I mean, we certainly had exploits and hacks and wormholes and bridges and all these things that went wrong, but the margin was, the collateral was there, it was liquidated in an orderly manner. The protocols work, smart contracts functions, and imagine when that matures. And I think that that is happening. So we had Defi summer, we had NFT summer, we had metaverse fall. I think all of those things will find massive winning use cases that are based on blockchain. We just need to wait. I just dont think it happens in six months. And I think that weve gotten so used to because of price, which you mentioned so used to price going up so fast that its hard to remember that its only been a few years. And these things take time. Its hard to say, oh, in ten years, well have a AAA game. But maybe its three or five years."
+    },
+    {
+        "speaker": "B",
+        "text": "And I think it will happen this time around. I wish the space would not focus on leverage and the use of leverage. 80% volatile asset leverage gets blown up. Sure you can use it as collateral, but lend me one times or two."
+    },
+    {
+        "speaker": "A",
+        "text": "Times, but yeah, over collateralized loan on a volatile asset for sure."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, the industry wants to build leverage at every point, because as soon as the market goes up, everyone gets greedier and greedier and greedier. And that's what blows everybody up every time."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, because it's a gratuitous opportunity for someone with a lot of money and who understands the market to just short it and take advantage of all of that. And so we have this tremendous, it's an 80 volts asset, a because it was nascent and small, but it's also an 80 volts asset because it's 100 x leveraged and easy to move. Right. And the problem now a humans are just making the same mistakes again. Right? You would have loved to say after Luna and after all that, well, we're not going to do that again. Yeah, give me a break. Right? Maybe people use 125 instead of 150 x, but is just, we keep repeating the same mistakes over and over again. But this time there's a lot less liquidity right now because the banking rails have been cut. And so if you look at the volumes on exchanges, they're tremendously low right now. I think that's bullish. Long term, it means people are actually removing supply from the exchanges. But it's really easy to move this asset class right now. It's just tremendously easy. Slippage on Coinbase is historically high. I mean, I think Uniswap has more volume than Coinbase right now, which is pretty mind blowing. So I just think that we're going to need a lot bigger money and a lot bigger players in the market, which will inevitably happen to sort of eliminate that side of it where you just can't push the market around because everyone's 100 x leveraged."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. I started an asset management firm, exponential age asset management, that invests in digital asset hedge funds. And the simple thesis was, if I look at the hedge fund industry, it's $3 trillion. Look at the crypto hedge fund industry, it's about $5 billion. I'm like, okay, there's no capital in this space. It's just a bunch of us degens either using more leverage. The space doesn't have enough larger pools of capital. So I think it comes, I think this cycle brings that."
+    },
+    {
+        "speaker": "A",
+        "text": "It's a washing machine. It's the same reason that we have these cycles. It's the old joke. You get the bitcoin move and then it trickles down into large caps, then mid caps, then small caps and nfts. Then you see the pepe's and all these memes start going crazy, and then you say, oh, crap, time to get back into bitcoin. And you do it again. And it's the same people trading that same cycle over and over again. It becomes self fulfilling, just like any line on a chart that everybody's watching, and that's fine. And maybe we add more liquidity to that washing machine in the future. But it's still the washing machine. I'm not convinced that there's much new capital pouring into a mid cap altcoin right now that wasn't already in the crypto ecosystem. It would take quite a bit of data to convince me otherwise. Right. I think, in fact, right now there's less overall liquidity. I mean, TVL obviously proves that than we even had at mid points in the last cycle, but were nowhere near, I mean, forget even market cap. I just mean people actually moving money around buying one thing, theyre not buying it with fresh money, theyre buying it with something else that they bought. Right. Theyre just flipping from one thing to another. And thats fine. It makes for a lot of fun, but thats not going to get pensions and endowments buying link, I think were still pretty far from that, unfortunately."
+    },
+    {
+        "speaker": "B",
+        "text": "Preston, you know, I think, like you, I'm just incredibly optimistic. We've gone through the cycle. That's the worst part. What we've got to look forward to is the best part."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, we should be buying everything. But the problem is nobody has any money. But, you know, I always, like, I bought, I bought the dead bottom on bitcoin. I bought the dip, but I also bought the 50k dip and the 42k dip and the 30k dip and the 22k dip. So, you know, I think that either people are out of money or sadly, they literally lost it. You know, I think that Voyager Celsius, blockfi were one thing because they were largely people around the world, retail, who believed they were using a bank and didn't necessarily understand because it wasn't disclosed, but counterparty risk. And those people lost. It's exceptionally sad. Maybe they're gone. What killed me about FTX, I think, or what made it different was that the true believers had their money on FTX. The people that were already bought in, that were aggressively investing in this market, trading, the guys who would go down the rabbit hole and yield farm and do all of this sort of native thing, they lost all their money. Which to me, I said it from the beginning and I got a hell of a lot of pushback. I said the path of Max Payne is obviously up because when people want to be here and literally can't, the worst thing that can happen is that price goes up massively and they don't have any money to be a part of the market. And so I think it took a month or two for people to realize that their money was gone and they were no longer along. All of these assets that they had been accumulating for years. And it's really sad. So I think that FTX was very different outside of the regulatory side. The Gary Gensler and the egg on the face of regulators and legislators and the embarrassment. I think just the people that really had bought in and were really passionate. A large percentage of them lost a meaningful amount of their capital and they're just not here to be a part of it."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I think that's right. Scott, fascinating conversation. I've been dying to do this. So it was great to hear your stories and your thoughts and keep doing what you're doing now. You're doing Twitter spaces now as well. What's the idea there?"
+    },
+    {
+        "speaker": "A",
+        "text": "I think it's just going to where my audience is building a YouTube channel. A. I was always sort of audio first, right. The podcast. I think we did 100 episodes before I ever had a YouTube channel or pivoted in that direction. YouTube is a very specific algorithm in game, and one that I'm terrible at playing, to be quite honest. I can't do the screaming face thumbnail and the. I just can't. I can't look at. And I don't regret anyone who does."
+    },
+    {
+        "speaker": "B",
+        "text": "Because it actually ran really well."
+    },
+    {
+        "speaker": "A",
+        "text": "He's exceptional. He's like my favorite, but I just can't. Right. He always says to me, play the algorithm, just put like a million dollars in the title and do the face, and you're going to have twice as big of an audience. So building a YouTube effectively from scratch instead of going to where we have 8900,000 followers already just seems to not make sense. That said, Twitter spaces is really glitchy. It's a hard nut to crack to some degree, to beat that algorithm, you want to have a lot of guests on stage and then they all just kind of interrupt each other and you have, I think, a lot of faux experts. So trying to navigate that, which is why we've been keeping it to one a week. But I do feel like this is interesting. So I've done probably 500 podcasts, right, which I've posted on Apple and Spotify and everywhere. The most. The most popular things that I now post on my audio channels like Spotify, are my Twitter spaces that we literally just like, record and put up on Spotify. Spotify. So there's something there. There's something there. It's even resonating with my audience that's completely detached from the rest of it. Who just listens to audio only in the car or, you know, while they're taking a shower, they're listening to the Twitter spaces and enjoying those conversations even more than the podcast that I think, you know, I've worked on for so many years. So there's something there with that format."
+    },
+    {
+        "speaker": "B",
+        "text": "It's because it's authentic. They get Scott live, they get the guest live, they get debate live, they get audience participation. So it feels like you're dropping into something and you're not being delivered something. And in the world of a lot of trust, we kind of had enough of being delivered stuff."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think you nailed it. Exactly. And also, we record the Twitter spaces and we put it up so it's relevant today. Sometimes a podcast isn't even relevant in ten days or two weeks. You put it out, but it's sort of talking over people's heads about the importance of things that might happen in 510 years. A Twitter space is what's important right now, and I think that that probably resonates. I mean, you know, there's guys like Mario Knofel, who is on Twitter. Space is like, where he's there 72 hours a day. I don't. I literally don't know how he does it. I mean, I talked to him. He has a humongous team, but it's growing massively because of that. I guess citizen journalism feel that you're getting the truth from the source in the moment, you know, and that's not necessarily what I'm doing with Twitter spaces. But I do think there's an element of that, that when the conversation is so fresh, you're listening to something that just happened today. I think it is really impactful. But I think you're absolutely right. I think for some reason, people are just more comfortable in that format speaking, you know? And you can kind of. And also, I think maybe people who are listening feel a little closer to the people who are speaking because you're right there. Maybe you get to ask a question, you're interacting, kind of like how Elon Musk all of a sudden just responds to random people on Twitter. Right. There's that shot that you might become a part of the conversation. I don't know why, but I really. I'm enjoying it, and I just try to figure out the bandwidth and where to spend my time. I find YouTube just very challenging. I love it, but I just find it very challenging."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And it's all. Yeah, it's actually exhausting as well, all of this. I know people think, oh, yeah, you just go make content. It's exhausting to do. And it's not from. Because we're editing video, it's just, it's mentally exhausting. It's just, you know, it's a hard thing to do. But listen, my friend, thank you for everything you do. I always enjoy your content a lot. I enjoy your Twitter feed as well, and I really appreciate it and always love it when I come and chat to you in any way format. We just got to meet up in person at some point. We've not done that yet."
+    },
+    {
+        "speaker": "A",
+        "text": "I know, man. It's got to happen. I feel like it's inevitable. Slowly but surely. I've knocked off all the guests almost, you know, where I bump into them in the, in the random street somewhere at a, at a conference. So would love to do that. Honestly, man, super flattered to be here and to be on this side of the camera. Really, really fun. And it's just an honor. It's an honor. I've obviously followed you from the very beginning and one of my favorite people to have on, and you're also the most popular guest that I have amongst my own fans. Don't listen to what those people say. The loud trolls, exceptionally popular and I think very well received. And to be honest, they like to tell us we're wrong. But when you zoom out, I think we've largely been right. So things should work out in our favor. Exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "All right, my friend, great to see you."
+    },
+    {
+        "speaker": "A",
+        "text": "Thank you, Ed."
+    },
+    {
+        "speaker": "B",
+        "text": "So, look, there's a lot in this, Scott's very charming, great story, but also you learn a lot about the emotional journey that comes through this space, how hard it is to put yourself out there. And that's the same for somebody who's an influencer like Scott or an individual who's investing in the space. We all have to deal a lot with the volatility. But I think the story that Scott tells is the same story that I tell, which is there is a lot of optimism. The lows are higher every time and the highs are higher. And if you could just keep at it, be sensible in what you're doing, it'll work out for you in the end. Anyway, good luck and I hope you enjoyed it."
+    },
+    {
+        "speaker": "A",
+        "text": "What's up, revolutionaries? Thanks for tuning in. For more content like this, head over to realvision.com and get unfiltered access to the very best, brightest and biggest names in finance."
+    }
+]

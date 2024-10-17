@@ -1,0 +1,1814 @@
+[
+    {
+        "speaker": "A",
+        "text": "Hey unchained listeners. As you know, its hard keeping up with the fast paced world of crypto, so weve got just the thing for you. Subscribe to our free unchained daily newsletter at unchainedcrypto dot substack.com. youll get the latest crypto news in original articles from our reporters, as well as summaries of other happenings in bullet points. Plus our meme of the day, all curated and written by our amazing team. Its still your no hype resource for all things crypto, just in newsletter form. Sign up at unchainedcrypto dot substack.com dot. Again, the URL is unchainedcrypto dot substack.com dot."
+    },
+    {
+        "speaker": "B",
+        "text": "Not a dividend, it's a tale of Tuqwan."
+    },
+    {
+        "speaker": "C",
+        "text": "Now your losses are on someone else's balance sheet."
+    },
+    {
+        "speaker": "B",
+        "text": "Generally speaking, airdrops are kind of pointless anyways."
+    },
+    {
+        "speaker": "C",
+        "text": "Trading firms who are very involved, Alec."
+    },
+    {
+        "speaker": "D",
+        "text": "ETH is the ultimate defi protocols are the antidote to this problem."
+    },
+    {
+        "speaker": "C",
+        "text": "Hello everybody. Welcome to the chopping block. Every couple of weeks, the four of us get together and give the industry insider's perspective on the crypto topics of the day. So quick intros. First, we've got Tom, the defi maven and master of memes."
+    },
+    {
+        "speaker": "B",
+        "text": "Hello."
+    },
+    {
+        "speaker": "C",
+        "text": "We've got Robert, the crypto connoisseur and captain of compound GM. Everybody. Wait, sorry, Zara of super State. Sorry, Zara of super State. Then we've got Tarun, the giga brain and grand poobah at Gauntlet."
+    },
+    {
+        "speaker": "E",
+        "text": "Hello."
+    },
+    {
+        "speaker": "C",
+        "text": "Very creative. And I'm a c, the head hype man at Dragonfly. So we are early stage investors in crypto. But I want to caveat that nothing we say here is investment advice, legal advice, or even life advice. Liscroppingblock XYZ for more disclosure, can I."
+    },
+    {
+        "speaker": "E",
+        "text": "Start with a disclaimer? Disclosure. I'm not drinking a red bull. Not because I'm cheating on Red Bull. It's just like, there happens there. I forgot to bring one. And there happened to be Celsius. This podcast you did, which is great, but not Red Bull."
+    },
+    {
+        "speaker": "D",
+        "text": "I can't touch anything with the name Celsius."
+    },
+    {
+        "speaker": "E",
+        "text": "I just figured I'm just trembling when I see the. I had to point it out because I know someone on twitter will comment on it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, honestly, I was about to call you out. I'm like, dude, we're losing the sponsorship money really fast. The moment you start drinking that Celsius."
+    },
+    {
+        "speaker": "E",
+        "text": "If you get out of bankruptcy court."
+    },
+    {
+        "speaker": "B",
+        "text": "Celsius stock is actually ripping, not the cryptocurrency Celsius. Yeah, it's crazy. Americans love energy drinks, straight up."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, monster energy is actually one of the most successful stocks of the last, like, five years or whatever."
+    },
+    {
+        "speaker": "B",
+        "text": "There you go."
+    },
+    {
+        "speaker": "E",
+        "text": "And what was the one that I po. That water with liquid death."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, yeah, that's right."
+    },
+    {
+        "speaker": "E",
+        "text": "That was ridiculous."
+    },
+    {
+        "speaker": "D",
+        "text": "That went public."
+    },
+    {
+        "speaker": "E",
+        "text": "That went public, huh?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, it's. I mean, I don't really get it. So, interestingly, I mean, some people who know me know this, but I only drink water, and so a lot of people, especially when I got into crypto and, like, there's a lot of money being thrown around and stuff, people would try to get me gifts, and a lot of common gifts is like, oh, you get something like a really fancy alcohol. And so people are like, oh, you don't drink? Like, what can I get you? And so people would try to get me, like, really rare water. So it's like, oh, this water was bottled in, like, Switzerland, and it's got this super fancy. I'm sorry."
+    },
+    {
+        "speaker": "E",
+        "text": "You know, there is."
+    },
+    {
+        "speaker": "C",
+        "text": "I can't taste it."
+    },
+    {
+        "speaker": "E",
+        "text": "The whole non alcoholic spirit industry now, which makes a non alcoholic tequila and non alcoholic, like, they're meant to taste, like, the very weird."
+    },
+    {
+        "speaker": "C",
+        "text": "I don't see the attraction."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I can't think of anything worse than tequila without alcohol."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that sounds, like, actively the wrong way to."
+    },
+    {
+        "speaker": "E",
+        "text": "A lot of them are just, like, basically melatonin plus, because they're meant as sleep aids for people who are trying to drink less, but they want to use drinking the sleep."
+    },
+    {
+        "speaker": "C",
+        "text": "Wait, do people drink tequila as a sleep?"
+    },
+    {
+        "speaker": "E",
+        "text": "Aidan, you know, I'm just giving you the pitch from these people. I can't really relate to the users."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, somehow I am not in the target market for liquid death, even though I only drink water, but I'm just like, yeah, just get regular bottled water anyway."
+    },
+    {
+        "speaker": "E",
+        "text": "No sparkling."
+    },
+    {
+        "speaker": "C",
+        "text": "I do. I know. I do sparkling water as well. So that's when, like, I'm trying to be fun. I will get sparkling water."
+    },
+    {
+        "speaker": "E",
+        "text": "But do you do Celsius?"
+    },
+    {
+        "speaker": "C",
+        "text": "I know, that's. That's what I'm really getting wild. I'll get sparkly water, maybe a lemon if I'm really feeling spicy. But, yeah."
+    },
+    {
+        "speaker": "E",
+        "text": "Anyway, so on the unhinged scale, you're, like, a 1.1."
+    },
+    {
+        "speaker": "C",
+        "text": "The unhinged scale. Okay, hold on, Robert, you got to introduce the unhinged scale. I forgot about this."
+    },
+    {
+        "speaker": "D",
+        "text": "Okay, so backstage on the chopping block, we are marinating over a new metric. And the metric is actually to quantify the personality types of different participants in the crypto. Ecosystem, and it's actually called the unhinged scale. It really ranges from completely hinged to completely unhinged, and it's measured in standard deviations. One of the things that we were talking about was trying to measure different people, and there's not a formal framework for this yet. I think in the next couple of weeks, we might be releasing something for public comment and analysis on the actual mechanics of this. But to give you some basic color, SPF is probably the most unhinged that we've seen in our industry. He would probably be six standard deviations of unhinged. So that would be pretty much as high as you can go."
+    },
+    {
+        "speaker": "E",
+        "text": "Where's Doe?"
+    },
+    {
+        "speaker": "D",
+        "text": "Doe? Probably a five."
+    },
+    {
+        "speaker": "E",
+        "text": "You put him below. I was kind of curious of like the relative."
+    },
+    {
+        "speaker": "C",
+        "text": "Definitely below."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, definitely below."
+    },
+    {
+        "speaker": "E",
+        "text": "No, I just. I just want. I don't have a strong opinion on that."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Most people in crypto, I think, by default, started about a one, simply because you have to be, you know, a little bit more out there than the, you know, complete median american just to be in the industry at large. But within that, you know, you have people like myself and Haseeb that probably score pretty low. And, you know, what we're trying to do is come up with a framework that the public at large can use, you know, to joke around about, you know, how unhinged."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay, let's. Let's do. Let's do some Rorschach."
+    },
+    {
+        "speaker": "C",
+        "text": "Who's."
+    },
+    {
+        "speaker": "B",
+        "text": "Who's the most hinged? If it's from SPF to who?"
+    },
+    {
+        "speaker": "D",
+        "text": "Ooh."
+    },
+    {
+        "speaker": "B",
+        "text": "In the whole industry, it was a negative six deviation."
+    },
+    {
+        "speaker": "D",
+        "text": "Negative six."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, wasn't it supposed to be Barry Silbert until recently?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, definitely not. It doesn't appear so. No."
+    },
+    {
+        "speaker": "D",
+        "text": "He's like a four and a half, I think."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. Yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "E",
+        "text": "But he was a four and a half dressing as a one."
+    },
+    {
+        "speaker": "C",
+        "text": "He was the most hinged, maybe."
+    },
+    {
+        "speaker": "B",
+        "text": "Jeremy. Jeremy Allaire."
+    },
+    {
+        "speaker": "C",
+        "text": "Jeremy Allaire."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Everybody had, like, a single friezo. It's just like. It's straight business."
+    },
+    {
+        "speaker": "C",
+        "text": "Quite hinged."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. He's like a zero, I think."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Or Katie Hahn. Katie Hahn's right here."
+    },
+    {
+        "speaker": "D",
+        "text": "0.2."
+    },
+    {
+        "speaker": "E",
+        "text": "But the weird part about this definition is, like, it's ranking the number of standard deviations, but if I'm zero standard deviations, I'm just at the mean."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "There should be negative sets."
+    },
+    {
+        "speaker": "D",
+        "text": "Oh, I mean, no, I think even working in the industry can't be negative six."
+    },
+    {
+        "speaker": "E",
+        "text": "Like, I see. You're saying you have to have some level of unhinged tolerance, so you have to be at least the mean of the population hingedness, I think, you know."
+    },
+    {
+        "speaker": "C",
+        "text": "Theoretically there are negative sixes, but they don't work."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I haven't seen them."
+    },
+    {
+        "speaker": "C",
+        "text": "That's like the Amish, you know? That's like negative six. Yeah, exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "They seem a little unhinged to me, actually."
+    },
+    {
+        "speaker": "C",
+        "text": "No. Fair enough. Fair enough."
+    },
+    {
+        "speaker": "B",
+        "text": "You're not going to listen to this."
+    },
+    {
+        "speaker": "E",
+        "text": "Broadcast straight now is pretty base."
+    },
+    {
+        "speaker": "C",
+        "text": "That is true. That is true. Okay, maybe I'm thinking about this the wrong way. That's more like very socially conservative as opposed to unhinged. All right, but you were giving out rankings for the four of us on the hinged scale."
+    },
+    {
+        "speaker": "E",
+        "text": "Wait, wait, wait. Let's do a few others. Vitalik, I mean, that's."
+    },
+    {
+        "speaker": "D",
+        "text": "I think, okay, there's situations where I'd be like, oh, that's a three. And situations where I'm like, I don't know, there's something wrong. Like, he's negative two."
+    },
+    {
+        "speaker": "C",
+        "text": "What is negative two about Vitalik?"
+    },
+    {
+        "speaker": "D",
+        "text": "He's too chill sometimes. Like, in the face of, like, being as close to a celebrity as it gets in the industry, like how down to earth he is and how, like."
+    },
+    {
+        "speaker": "E",
+        "text": "But that's good."
+    },
+    {
+        "speaker": "C",
+        "text": "That sounds unhinged. That sounds like an unhinged kind of."
+    },
+    {
+        "speaker": "D",
+        "text": "No, I think it's pretty hinged."
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, that was also what SPF did, and that seemed also quite unhinged."
+    },
+    {
+        "speaker": "E",
+        "text": "When SPF was doing obviously fake. Like, if you talked to him for 5 seconds in person, it was like, kind of."
+    },
+    {
+        "speaker": "C",
+        "text": "No, no, but I mean, his. His indifference to celebrity seemed quite unhinged."
+    },
+    {
+        "speaker": "E",
+        "text": "Oh, yeah. But. But, you know, which is what you're talking about with it, Vitalik wasn't going to get built."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Vitalik has a real indifference. I think SBF had a. An illusionary."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "I think even in the book, they were talking about the Carolla thing, the Corolla thing. Like an act. Yeah, I mean, you know, it's like."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, but there's a story about Anna Wintour where he's like, who is this? I don't really care who this person is. Like, whatever. I'm playing my league of legends. Whatever."
+    },
+    {
+        "speaker": "E",
+        "text": "And the Michael Kives thing was all clearly, like, he invested in that fund just to, like, meet celebrities. Come on. Vitalik."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, but in a. But in a. Not because they're celebrities, but because they're useful to his other."
+    },
+    {
+        "speaker": "E",
+        "text": "I would say Vitalik is more unhinged for think reasons. Like, he likes drinking green tea and white, red wine. Yeah, that shit is on. That shit is unhinged to me. That combo is like, fucking crazy."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "E",
+        "text": "So I'd say I like the three. I'd buy the three. Okay. Who. Let's. Let's do some other Anatoly. He's more hinged. I think it's more hinged. He's probably like one and a half. One, yeah, one and half."
+    },
+    {
+        "speaker": "C",
+        "text": "Two, yeah, one and a half."
+    },
+    {
+        "speaker": "E",
+        "text": "Arthur Hayes."
+    },
+    {
+        "speaker": "D",
+        "text": "Oh, he's up there. I mean, he's in the fore camp."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah, he's intense."
+    },
+    {
+        "speaker": "E",
+        "text": "Brian Armstrong."
+    },
+    {
+        "speaker": "C",
+        "text": "He's an intense guy. Brian."
+    },
+    {
+        "speaker": "D",
+        "text": "I put lower, maybe two."
+    },
+    {
+        "speaker": "E",
+        "text": "He loves crazy longevity stuff. So I got. You gotta give him a little bit of."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, but four. But if you normalize for SF. Yeah, if you normalize for SF, I think he's like a one."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, but like, I mean, that's still."
+    },
+    {
+        "speaker": "D",
+        "text": "Each standard deviation gets harder and harder."
+    },
+    {
+        "speaker": "C",
+        "text": "That's true. To achieve."
+    },
+    {
+        "speaker": "D",
+        "text": "There's less and less people there."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. Who else is worth Cz?"
+    },
+    {
+        "speaker": "D",
+        "text": "I mean, it's gotta be pretty high."
+    },
+    {
+        "speaker": "E",
+        "text": "I feel like a public appearance is a two, but reality is like a five. You know what I mean? He tries really hard to have a very hinged appearance, but I don't know. It's gotta be the craziest business in the world to be running."
+    },
+    {
+        "speaker": "C",
+        "text": "That is true. Yeah, that is true. And he's been on the run and more or less itinerant for the last decade of his life."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, it's. He's got to be four and a half."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that sounds right."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, we're going to be releasing the actual framework for this in the future."
+    },
+    {
+        "speaker": "E",
+        "text": "You make sure you comment and tell us how much."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, we'll have a comment, period. We're going to. We're going to obey all the rules, unlike the SEC."
+    },
+    {
+        "speaker": "E",
+        "text": "And the real question you should be asking everyone is like, how the fuck are these four people working in crypto? And instead of suggesting just a prediction market for this thing, they somehow are, like, giving people single grades. Shame on us."
+    },
+    {
+        "speaker": "C",
+        "text": "So, in the spirit, give us a single grades. I think you reiterated them on our dinner the other night."
+    },
+    {
+        "speaker": "D",
+        "text": "For us."
+    },
+    {
+        "speaker": "C",
+        "text": "For us. Four of us."
+    },
+    {
+        "speaker": "D",
+        "text": "I think. Tarun. What were you, a three?"
+    },
+    {
+        "speaker": "C",
+        "text": "Wait, Tarun was a three?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I mean, he has purple hair. That adds some points right away."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I say that. Surprise that it's that low."
+    },
+    {
+        "speaker": "E",
+        "text": "Oh, wow."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay. Okay. All right. Who else was a three?"
+    },
+    {
+        "speaker": "D",
+        "text": "Okay, so Haseeb might appear to be a one and a half, but nobody has argued more vehemently that they should be ranked higher than Haseeb, which led me to believe that the number had to be higher than initially perceived. So I think Haseeb is also at three, and Tom and I are."
+    },
+    {
+        "speaker": "C",
+        "text": "You think I'm double? Yeah."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, it's not really double."
+    },
+    {
+        "speaker": "C",
+        "text": "Wait, hold on. You think I'm as unhinged as Harun?"
+    },
+    {
+        "speaker": "E",
+        "text": "It's not really double, right? Cause it's a. If it's. If it's normally distributed, it's 90."
+    },
+    {
+        "speaker": "C",
+        "text": "That's true. That's true. Yeah, that's true. That's true."
+    },
+    {
+        "speaker": "E",
+        "text": "Only 4.7%."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, fine."
+    },
+    {
+        "speaker": "E",
+        "text": "Sorry. Just to be."
+    },
+    {
+        "speaker": "C",
+        "text": "All right. I appreciate that. Thank you. Very unhinged."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. The fact that you live in Seattle stretches the number."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay."
+    },
+    {
+        "speaker": "E",
+        "text": "Stretches, yeah. Seattle is, like, the most norm core place in the world."
+    },
+    {
+        "speaker": "C",
+        "text": "It is kind of, yeah, exactly."
+    },
+    {
+        "speaker": "E",
+        "text": "In fact, I think it pulls you down."
+    },
+    {
+        "speaker": "B",
+        "text": "But. But the norm core is like. It's specifically. It's affected."
+    },
+    {
+        "speaker": "E",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "It's like you're not actual normal. You're, like, you know, pretending to be normal, which is the choice of living in Seattle. So I think that actually, you know, to Robert's credit, kind of. Kind of supports the idea."
+    },
+    {
+        "speaker": "E",
+        "text": "I just. I don't know. I feel like Seattle is, like a place people go to retire, you know? Right."
+    },
+    {
+        "speaker": "D",
+        "text": "Which is why, if you're there at the young age of Hasid, it's a little bit questionable."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, to be clear, I'm only there about half the year, so I'm not in. Not Seattle for more than I'm in Seattle. But I would argue that I'm a two. I think. I think there's no way that I'm at the same as."
+    },
+    {
+        "speaker": "E",
+        "text": "Where's Caroline Ellison?"
+    },
+    {
+        "speaker": "D",
+        "text": "Oh, it's really hard."
+    },
+    {
+        "speaker": "C",
+        "text": "New York."
+    },
+    {
+        "speaker": "E",
+        "text": "No, no, I'm sorry."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Based on her blog posts."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, the Post."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "Some of the things that she wrote publicly."
+    },
+    {
+        "speaker": "E",
+        "text": "But is she a five or four?"
+    },
+    {
+        "speaker": "C",
+        "text": "Four and a half. Four."
+    },
+    {
+        "speaker": "D",
+        "text": "Four and a half. I mean, the whole chinese harem stuff was."
+    },
+    {
+        "speaker": "E",
+        "text": "Oh, yeah, yeah, yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "See, the thing is, like, I think mentally, she might be, like, a five, whereas, like, in terms of her actual behavior, she's, like, a two. You know what I mean?"
+    },
+    {
+        "speaker": "D",
+        "text": "I don't know. Perpetrating a fraud to the two."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, but, like, perpetrating a fraud out of compliance toward your, like, a weird, abusive boyfriend. I don't know. Like, it's kind of, you know, four and a half. Kind of."
+    },
+    {
+        "speaker": "D",
+        "text": "I mean, it's up there."
+    },
+    {
+        "speaker": "C",
+        "text": "That's okay."
+    },
+    {
+        "speaker": "D",
+        "text": "It takes quite the personality to pull that off."
+    },
+    {
+        "speaker": "C",
+        "text": "All right, all right, fine. I'll take that. So what about Tom?"
+    },
+    {
+        "speaker": "D",
+        "text": "Two."
+    },
+    {
+        "speaker": "C",
+        "text": "Two."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay. Okay."
+    },
+    {
+        "speaker": "E",
+        "text": "He's wearing an arctic shirt."
+    },
+    {
+        "speaker": "C",
+        "text": "That's true. That's true."
+    },
+    {
+        "speaker": "B",
+        "text": "Does that make me hinged?"
+    },
+    {
+        "speaker": "E",
+        "text": "That's like SF norm cores."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that's quite hinged. White hinged clothing choices. Okay, well, I'm hoping that this scale takes off even though I don't totally understand it, but I'm sure everyone listening. Perfectly understood."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. I'm actually looking forward to one day. Do you guys remember like Degen score?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "I hope somebody like on crypto, Twitter takes this idea and actually like productizes it in some way and comes up."
+    },
+    {
+        "speaker": "E",
+        "text": "With some way of like prediction market."
+    },
+    {
+        "speaker": "B",
+        "text": "So I actually met the DexBlue team in Duncon and the team was there and it was also kind of one of those things where DJ on Square was supposed to be like a marketing tool for Dex Blue, which was like this Dex aggregator, but then it took on this life of its own, like way beyond Dex Blue, which I don't know is if it's still active or something. But yeah, I mean, you're right, that was actually the product, not the Dex aggregator. So, yeah, that was crazy. That was like a whole thing and then."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "You should be able to look at a wallet and figure out how unhinged they are."
+    },
+    {
+        "speaker": "C",
+        "text": "That seems hard."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, it's like Djen score."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah."
+    },
+    {
+        "speaker": "E",
+        "text": "Permissionless universes are supposed to make it hard to do that. Right."
+    },
+    {
+        "speaker": "C",
+        "text": "Turns out, yeah. People put a lot of information on chain as well as online that lets you suss out all that stuff."
+    },
+    {
+        "speaker": "D",
+        "text": "That's true. Well, you could have like a chat GPT model, a GPT model to actually determine this based on publicly available information. That would actually be a really interesting."
+    },
+    {
+        "speaker": "E",
+        "text": "Actually, I want to know what, what chat GPT thinks about this metric."
+    },
+    {
+        "speaker": "C",
+        "text": "All right, well, we can go home and ask. All right, so let's get onto crypto news. Besides, obviously this release of this new metric. So it hasn't been a super busy news week. But one of the news of the week is that there's been a string of layoffs. Obviously, this has been a theme of the last year, but it seems like there are a few stragglers in this layoff season. So opensea, the largest, or, you know, at least at one time the largest NFT exchange. Uh, right now they just announced that they are laying off about 50% of their workforce credo, which is like a decentralized custody product. They also laid off 50%. Ava Labs, the company behind Avalanche, laid off about 12%. It is layoff season again. I don't know if anybody's seeing any dynamics that seem different. Is this like a new wave of layoffs. Is this tightening further or is this just kind of delayed response to what otherwise has been a tightening of the belt?"
+    },
+    {
+        "speaker": "D",
+        "text": "I think it's delayed. I mean, if you think about it, and I don't know the innards of a company like Opensea or Credo or Avilabs, but it seems like you could have made this decision a year ago when you knew that the market was going to be incredibly challenging for the twelve months we just experienced. If you're someone like an Opensea, you probably knew a year ago that volumes were down. We were entering choppy waters. Almost everybody had blown up. I think that would have been the time to downsize. I feel like if you're doing it now, it's probably just waiting to see if there was going to be a earlier rapid turnaround. And I think any of those organizations could have made the call. I remember a year ago I was expecting most companies to start making major layoffs, and some did."
+    },
+    {
+        "speaker": "E",
+        "text": "Who would you put? Coinbase, I guess that camp."
+    },
+    {
+        "speaker": "B",
+        "text": "A lot of even non crypto tech companies obviously got hit with poor macro outlook, stock prices declining. But then weirdly, those actually whipsawed and they started hiring again. Within the same year, meta was hiring again and Google was hiring again. But I think for crypto companies it is cyclical. But I think a lot of companies, frankly, just struggle with PMF and revenue. And you can hire a bunch of people and assume, hey, be able to raise your next round or figure your business model. And when that doesn't really happen, you have this enormous bloat and hiring is like a one way ratchet too. Ideally, you think of your company like a machine and it's like, okay, we turn up the input when times are good and we turn it down when times are bad, but people don't want to turn it down. It's a really painful process. So inherently there's some inefficiencies in the market and that kind of gets shown now."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, the current batch of layoffs sort of feels. Yeah, I agree that it's kind of late, but there's also this sort of weird thing of like, there's so much press around these layoffs. Like, I feel like Opensea, I kind of almost feel bad for them because like there's just so many, like all these stories of crazy bull market parties they had, I guess like disgruntled employees must be leaking them. But there's just like 20 stories I've seen in the last two days and I kind of feel like they don't. They're getting a little too much shit. I don't, I don't feel like they kind of deserve as much as they're getting, but they're really getting thrown onto a bus. And I think the excesses of 2021 oftentimes were like, because it's such an industry of feast or famine, and in the famine times, people are extremely careful, especially if they're just starting about hiring. And then as soon as it feels like super cycle, not to use a banned word, people suddenly are like, oh, my God, we just can't stop growing. So we're going to just, you know, go gang bus. And I think, like, it's different than the traditional, you know, stereotypical tech company where you have this, like, you know, social media type of company, where you just have this, like, straight up growth curve and, like, you, you can keep hiring into it. Like, the fact that it's more financy and, like, has these, like, cyclical cycles means that you kind of have to be ready to do things like this. Yeah. To Tom's point, it's like, it is kind of very painful to do. And I think, yeah, I mean, I, as a founder, definitely understand, like, it's like, it's not the thing that you're ready to do, especially. It's like a very hard thing to message. I definitely would say that. I think people are very harsh on these companies for being late, and I'm not totally sure it's fully deserved. I agree. They're probably, yeah, there's a sense in."
+    },
+    {
+        "speaker": "C",
+        "text": "Which, like, when a company does layoffs, in a way, like, they have already done the work to stem the bleeding. Right. In a way that's kind of like the problem was before they did the layoffs, where they were burning money, they were running like, things were totally unsustainable and they were just delusional about the state of their industry. Right. Like, if you were open sea and you didn't do layoffs, like you said a year ago, when volumes plummeted through the floor, fees were being cut down, there was basically like a price war between Blur and Opensea, and Opensea just kind of like pretended it wasn't happening. Like, that was when it was a problem. And after you normalize, okay, we're in a new world now, and we don't have crazy high margins. I mean, that was the craziest thing, which is that Opensea was getting, what was it? Seven and a half?"
+    },
+    {
+        "speaker": "D",
+        "text": "Two and a half percent."
+    },
+    {
+        "speaker": "C",
+        "text": "Sorry, two and a half. They were getting two and a half percent margin on selling jpegs on crazy numbers, right? Yeah, on insane numbers, selling jpegs. And they had no competition, and they're not that company anymore."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, so discussion I'd seen on the Internet a lot was like, would Opensea have stemmed the tide if they launched the token right after, just like, uniswap launched their token in response to sushiswap?"
+    },
+    {
+        "speaker": "C",
+        "text": "I do."
+    },
+    {
+        "speaker": "E",
+        "text": "I'm kind of curious what you, you think. Do you think they could have."
+    },
+    {
+        "speaker": "D",
+        "text": "I think the, the more important thing is, like, what's the actual market size? Right. And NFTs as a market collapsed for the most part. You know, and this is why I actually have a lot of sympathy for Opensea. And pretty much any company in the space going through this is because the market size itself can change underneath your feet incredibly quickly. Right. If I'm selling SaaS software, the market for, it's not going to, like, double or like, have in a year."
+    },
+    {
+        "speaker": "E",
+        "text": "Not according to all the OpenAI killed my startup memes."
+    },
+    {
+        "speaker": "D",
+        "text": "True, that's a fair counterpoint. But if I'm an Opensea, the market for NFTs literally can 20 x and then drop by 95% in a year on both directions."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, it is."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Can go up 20 x and then drop 95%. Right. And that's roughly what's happened. And, like, that's a really, like, max difficulty environment for any company to operate, period. Like, you know, crypto in that sense, is so much harder mode than most other industries. And so I have a lot of sympathy with them. I mean, like, you throw this at your standard San Francisco startup, and it'd be like, gut wrenching. They just struggle to get product market fit in the first place, generally, and once they have it, they keep growing."
+    },
+    {
+        "speaker": "C",
+        "text": "So it's interesting you asked the question about, okay, what would happen if OpenSea launched their token. I more or less agree. I don't think it would have mattered. It might have helped."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, do you think the competitive equilibrium we see now where it's like Blur is like 60 plus percent market share, do you think that would be. Yeah, where do you, where would you possibly."
+    },
+    {
+        "speaker": "C",
+        "text": "But I mean, at the end of the day, a token is just a subsidy, right? Like, you can, like, Opensea had raised the amount of capital that if they wanted to pay out subsidies, they could now. Instead, they ended up paying subsidies to their employees, I guess, and hiring a bunch of people who clearly were not needed to launch the current product, which is struggling. Right. I'm also like, what were all these people doing that Opensea? Like, I feel like opensea has been remarkably uninvative. Yeah, I mean, I guess they've launched well, they should."
+    },
+    {
+        "speaker": "E",
+        "text": "Devin's credit, his tweets announcing the layoffs said, everyone is telling us we're a follower, so we're not going to be a follower."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, they acknowledge it, which I respect. Right. I respect the la, I 100% respect the layoffs. And my heart goes out to the people who were affected by the layoffs because that fucking sucks. But it was right for the company to do the layoffs is the point that I'm making now. One question that I've heard a lot kind of looking back on the NFT market over the last year, because I think you raise an interesting perspective. I've heard from some people that they think the reason why or a major contributor to the decline of the NFT market was blur. I don't know if you guys have heard this argument before."
+    },
+    {
+        "speaker": "D",
+        "text": "I disagree personally."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay. Okay. So I want to give the devil's advocate because it's my understanding of why people say this, because I also disagree. I don't think it makes sense, but this is what people have claimed. Is that so blur, so blur is an NFT aggregator, but also has their own order book so you can trade nfts like on Opensea, directly on blur, prior chopping blockup."
+    },
+    {
+        "speaker": "B",
+        "text": "Also, full disclosure, we're investors in blur."
+    },
+    {
+        "speaker": "C",
+        "text": "We are investors in blur. So blur, the way that it, one of the ways in which it initially got a lot of traction was by appealing to professional traders and making it seem more like you're trading tokens rather than trading nfts. So kind of commoditizing nfts a little bit more and encouraging people to sort of farm nfts, provide more liquidity on nfts and increase the liquidity of nfts in general, especially for floor nfts. And the argument goes that before the market was very illiquid and that made the market feel more like collecting. And when blur increased the liquidity of these nfts, it made them more like shitcoins, which made them more volatile, which made them subject to a bigger market cycle, which ultimately devalued nfts on the whole by making them more like financial assets instead of like collectibles. That's the argument that people make for why this caused people to want to dump and it made nfts less valuable on the whole. That's the story. Why do you guys disagree with that story?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think maybe going back to the token question, I think there's actually a good counterfactual here with Gem, which was one of the original NFT aggregators, which we were also investors in, which was acquired by Opensea. And Gem was a pure aggregator, so it didn't actually have its own order book, but it was already eating market share from Opensea by the time it got acquired. I think that speaks to the idea that just building a superior product in this market, you can win market share. It's not pure network effects, which is, I think, what most marketplaces are based on or there's room for disruption in the market. I think for blur. I agree. I think that's already how, I think how most people were treating nfTs. Certainly there were people who were going to Sotheby's to buy a rare one of one art blocks, but for most people they just wanted to trade them back and forth. That's the whole concept of floor. Like was invented in nfTs. There aren't floor Picassos. Like, that's not an idea."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, I think, I mean there are."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, there are, but that was not, that was not a."
+    },
+    {
+        "speaker": "C",
+        "text": "Are there floor Picasso?"
+    },
+    {
+        "speaker": "E",
+        "text": "No, no, no. As anything, the function minimum over sets of prices exist."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, yes, yes, I agree. But like that was not, you know, if you go to like an art gallery, your website, they're not like, oh, here's the floor to get like a."
+    },
+    {
+        "speaker": "C",
+        "text": "Toilet and they're not 7000 of them."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah, yeah, exactly."
+    },
+    {
+        "speaker": "D",
+        "text": "Although prints might actually fit into that."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's true, that's true. But anyway, I think NFT is almost sort of like you're meeting reality where this already existed in the minds of NFT traders, but no one wanted to come out explicitly and say it. And so here is a sort of pure full accelerationist like NFT marketplace, come and get it. And like, yeah, this is kind of what you get as a result. But it was already effectively, I think, happening. This is just sort of meeting reality."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, the thing that didn't really exist prior to blur was there was no bid side of the order book. So all the markets existed in basically an offer, only one side of marketplace where it was like, okay, I'm going to list for sale different NFTs at different prices. And you only saw one side of the market which was the offer side, and Blur using their token incentivized liquidity on the bid side, four floors, but they built the bid side of the order book. So there was like, you can see for any project. Well, here's the biddenness for a floor and what the amount of demand is. And in my mind it created for the first time the ability for people to essentially liquidate at the floor easily, as opposed to listing at the floor and hoping that somebody would, like, lift the offer, they were able to actually sell into a bid. And I take that as something new. And when you hear people like, talking about like, oh, it allowed anyone to sell their nfts, which is why NFT prices fell. Like, there is an amount of truth to that in that they functionally gave people the ability to offload a collection. You had significant holders of different collections. The first, yes, dump 100 at once, which was never possible before. You'd have to wait for there to be enough demand for people to buy 100. And this enabled someone for the first time to sell 100. And it did change the dynamic, I think, functionally, but I don't think it would have had that big of an effect on prices. I think at the end of the day, creating more liquidity for something is only good for it. And it's not like the value of bored apes dropped in half because you could sell them more easily. The ability to sell something more easily also makes it more appealing to buy in the first place. Knowing that you."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that seems right to me, is that like, liquidity makes something more valuable than."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, and so, like, they strictly increased liquidity, like undeniably increased liquidity for nfts. It is so much easier to buy and sell nfts because of blur than it was before. And maybe the first order effect of that is like a short term, like, wow, you can sell them and you never could do that. Therefore price go down. But by fundamentally improving the liquidity for these assets, I think it makes them, on an equilibrium basis, more valuable. And so I think their story just got caught at the wrong time of day, got popular as pretty much the whole market for everything was collapsing."
+    },
+    {
+        "speaker": "C",
+        "text": "Right."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, I will say one thing at least, like team wise, if you compare the two teams, like Opensea was on the development side, had literally a lot of the best application level smart contract engineers, people who wrote a ton of ercs, but they were not traders at all. If you ask them to even make this argument about the offer and bid, all of them would just be like, too much finance talk go away."
+    },
+    {
+        "speaker": "C",
+        "text": "Other than Nathan Chastain, I heard he was."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, yes, sure, sure. But I mean, I basically just think the problem with the NFT market was that it initially started off vibes only. It was like, oh, hey, everything's going to go up forever, so we don't need to think about market structure. Fuck that. Why do you need to offer one side of the market, fuck the floor people, the entire thing is going to go up. Opensea hung their hat on that for a really long time and there were all these attempts at disintermediating that. And then it just turned out that the right combination of token incentives and lending sort of worked in that favor, in the favor of that. And I just feel like they were unwilling to accept the financialization of NFTs because they were so bought into the creator royalty thing, which is obviously illusory and fake, as we all know."
+    },
+    {
+        "speaker": "C",
+        "text": "Right, right. Yeah. It seems very true that the character of the NFT market definitely changed. It became a lot more about floors. And the other thing too is that the sense that everyone had that the prices were going up and therefore their net worth was going up was also a little bit illusory. In an extremely illiquid market, you are not allowed to just mark your entire portfolio. I mean, this is the whole argument that we made about SPF and the bullshit accounting he was doing. Super illiquid market, you cant just mark your entire net worth to what the last trade was cleared at. You have to take a discount based on the cost of liquidating. If you have a big pile of floor punks or floor apes or whatever, and you're like, wow, I'm a 40 millionaire now. It's like, well, but you can't actually sell that without something like blur. So the reality is that you may have had the illusion that you were richer at a certain time when you couldn't actually liquidate things in a timely manner. The reality of your net worth became real when Blur created that liquidity for you. Now, I agree with you though, that there's the confounder of time, which is that as time went on, interest rates went up, crypto went down, all this stuff happened around the same time. And so it's hard to really. We can't really run it back and say, how would that crazy NFT bull market have played out differently?"
+    },
+    {
+        "speaker": "E",
+        "text": "But we can look at all the attempts at like doing what blur did along the way, right? The gems, the pseudo swaps and like, they all missed some facet of the microstructure, but they were all like taking a hammer and trying to like chisel at it. And so there is a sense in which you can see that Opensea never really, they didn't really try to make defenses against, other than maybe acquiring. Right. And that that was sort of, to me, that the thing, I mean, they."
+    },
+    {
+        "speaker": "C",
+        "text": "Did in the very literal sense, they just weren't effective defenses. Right. Well, they were trying to like walk lists and all this stuff or like."
+    },
+    {
+        "speaker": "E",
+        "text": "Or acquiring Java on the fly side friendly than demand side friendly. And in a up market you want to be supply side friendly. Right, right. Because you need supply to get like inventory to make the marketplace work. But then down market, it's a complete demand driven thing. And like, if you don't understand that, you're immediately going to just get complete."
+    },
+    {
+        "speaker": "C",
+        "text": "So this, I mean, I remember getting this argument with Laura is that I've always believed that the demand side was more important than the supply side in nfts."
+    },
+    {
+        "speaker": "E",
+        "text": "That like during 2021, like, I think."
+    },
+    {
+        "speaker": "C",
+        "text": "Even then, it's like when, when the celebrities were showing up to sell like random dog shit nfts to people, it was because of the demand side. Like people like the creators could make so little money anywhere else relative to the NFT world. They were going to show up and say like, what do you want me to make? I will poop on a piece of paper and put it up if that's what you will pay. You know, like 5000 paper on a."
+    },
+    {
+        "speaker": "D",
+        "text": "Pointer on a blockchain."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "E",
+        "text": "I guess, like there is some truth to that. But a lot of the demand was driven also by a, speculation and b, this narrative of like, this is the future of art, whatever."
+    },
+    {
+        "speaker": "C",
+        "text": "Totally. And there's always some reflexivity between the two. It's never just one or the other."
+    },
+    {
+        "speaker": "E",
+        "text": "And I just like, I would love to, in hindsight, look at the portfolios of all the artists who like, successfully sold. Then to find out if they're degen gamblers or they're just like sitting in stable coins. I would love to see the relative portfolios of the NFT buyers versus the artists over time. That would be the most amazing chart to ever."
+    },
+    {
+        "speaker": "C",
+        "text": "As long as the artist didn't recycle it back into crypto, I would guess."
+    },
+    {
+        "speaker": "E",
+        "text": "I kind of think a lot of them more than you think. I'm sure I know some of them that really, I feel like they, once they got eth, they were like, ooh, I know how to, I can gamble with this now. It was like a change. Their psychology changed from humble artists to like, I'm a really great investor and I saw that trope at least three or four times."
+    },
+    {
+        "speaker": "C",
+        "text": "Not good, not good. Well, okay, speaking of NFTs, there was another interesting story from the NFT world, which is there's an event called Ape Fest in Hong Kong, which is an event you can go to if you'd like to congregate with other holders of the bored ape yacht club, Yugalabs universe. And apparently there was like some. There was some club. They were out clubbing, some rave, I don't know what, something. And apparently they had some uv lights that they were shining somehow in the overall presentation of this light show."
+    },
+    {
+        "speaker": "E",
+        "text": "This is how, you know Haseeb has never gone to a nightclub. He talks about the overall presentation of."
+    },
+    {
+        "speaker": "C",
+        "text": "I don't know, I didn't actually see any pictures of what it looked like. All I know is there were uva lights and photo caratopsis or something like that. Some kind of eye damage that apparently happened to a significant number of people who attended this. You know, like a small percentage of people who are at this club, I guess event, let's call it an event, is that. I think I'm a 1.5 after that explanation of a nightclub."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. You're going down."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, exactly. I'm close to a one now. We'll see anyway. All right, I think that's a story."
+    },
+    {
+        "speaker": "E",
+        "text": "So I will say I have helped produce events that had projection mapping and other types of light shows. And I worked and I kind of did some played music at some of those things. And all I got to say is, how the fuck do you have disinfecting uv lights anywhere near this place? Literally no venue. I've been to the most illegal ratchet venues in the US and none of them have anything close to this. How is this fancy Hong Kong venue for, like, people who have to spend one hundred k to get in effectively, or whatever the price of a bored ape is. Now, how the fuck does that place have this? And, like, no checks for that. I'm telling you, like, really shit venues. Never have anything like this. This is like, this has got to be one of the most ridiculous things. Like, I almost feel like. I hate to sound like Reddit conspiratorialist, but I kind of feel like someone did this."
+    },
+    {
+        "speaker": "D",
+        "text": "You think someone's sabotage?"
+    },
+    {
+        "speaker": "E",
+        "text": "I think it's sabotage board ape meetup. Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Do you think it's world of women who could have been."
+    },
+    {
+        "speaker": "E",
+        "text": "I don't know."
+    },
+    {
+        "speaker": "C",
+        "text": "I think it was the crypto box."
+    },
+    {
+        "speaker": "E",
+        "text": "No, I'm kidding. Machi. Please don't come after me. But, like, I just mean, like, clearly it's someone like. Like that. How the fuck does that happen? That's like, I've never heard of anything like that happen in nightlife. And I've been to a lot of fucking venues."
+    },
+    {
+        "speaker": "D",
+        "text": "Well, I assume the lights weren't done by the venue itself."
+    },
+    {
+        "speaker": "E",
+        "text": "Usually they are the."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I don't know, I saw one tweet that could be totally misinformation, but it was like somebody said, oh, I found a photo of where the lights were being used incorrectly, and they were being used to create a blacklight effect on some, like, bored ape art."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, oh, I see. Specifically for some NFT presentation things."
+    },
+    {
+        "speaker": "D",
+        "text": "Specifically for, you know, these, like, cardboard."
+    },
+    {
+        "speaker": "E",
+        "text": "Cutouts of, like, wow, the social darwinism of ape holders really is even more true."
+    },
+    {
+        "speaker": "C",
+        "text": "Darwinism is a very good, very appropriate analogy for this as well."
+    },
+    {
+        "speaker": "D",
+        "text": "So it's possible it was just, like, part of, like, an art, like, exhibit or a package."
+    },
+    {
+        "speaker": "E",
+        "text": "But I'm saying, like, okay, so if you do projection mapping. So projection mapping is like, I have a 3d space. I map the space, and I'm projecting lights on it, and I have attaching it to the sound source so that the lights moving, you know, the projection is moving with the sound. You bring your own stuff there. But, like, almost all the venues check, like, what lights you have and what you're, like, even the really dog shit, illegal venues will be like, you can't use certain types of lights. So I'm, like, shocked that no one said anything."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't even really understand, like, the idea of ape fest. Like, if you go to breakpoint, great. You love the Solana vision, the religion. You're into it. If you go to Defconnect, Defcon, great. You're, like, in the ethereum. What do the apes stand for?"
+    },
+    {
+        "speaker": "E",
+        "text": "What is the purpose of the Apes festival stood for having made money in 2021 by accident."
+    },
+    {
+        "speaker": "B",
+        "text": "You could go to a bunch of crypto conferences and do that. And I'm guessing, actually, a lot of ape holders have lost money as well."
+    },
+    {
+        "speaker": "C",
+        "text": "That is true."
+    },
+    {
+        "speaker": "B",
+        "text": "You go to ape fest, and it's like, what?"
+    },
+    {
+        "speaker": "E",
+        "text": "You know, the community of morons. Like, I don't know what else. Like, other than that, there's, like, nothing."
+    },
+    {
+        "speaker": "C",
+        "text": "The weird thing, too, is I saw some photos of people there, and it's all men. And I'm like, why? Why would you?"
+    },
+    {
+        "speaker": "E",
+        "text": "It is the moronic incel club that they should change from bored ape Yacht club to that."
+    },
+    {
+        "speaker": "C",
+        "text": "All right, well, we were just talking about Solana, interestingly so, Solana has been ripping. It's up something like three x this year. It's up to 45, I think I saw. As of today, it's been outperforming pretty much almost everything else in the top 100. It's been very impressive, the run up. A lot of people were afraid during the FTX liquidation that the FTX estate was going to be selling a bunch of Solana. And that was originally perceived to be bearish, but apparently it's selling less than people expected, and a lot of their Solana is locked up for much longer than was understood. So Solana has just gone nuts. It's up more than two x in the span of about a month. So there was, of course, just breakpoint, which is the big salon gathering. I think it was in Lisbon."
+    },
+    {
+        "speaker": "E",
+        "text": "No, Amsterdam."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, Amsterdam. Sorry. It was in Amsterdam. You were there. Tell us about your observations from Amsterdam. What was the vibe?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I mean, you know, I sort of am. You know, I know how Tom was just like, oh, if you go to X conference, you're like, part of the X tribe. And what I don't."
+    },
+    {
+        "speaker": "D",
+        "text": "Ruins a salon."
+    },
+    {
+        "speaker": "E",
+        "text": "I'm just a definitely. I have no maxiism. I just kind of. I think every ecosystem has its pros and cons, and there's, like, obviously certain things that some of them do better than others."
+    },
+    {
+        "speaker": "C",
+        "text": "What are the pros of the Cardano ecosystem?"
+    },
+    {
+        "speaker": "E",
+        "text": "They wrote the first paper that proved why bitcoin has achieved safety and liveness in 20, 1515."
+    },
+    {
+        "speaker": "C",
+        "text": "Good job, Cardano community."
+    },
+    {
+        "speaker": "E",
+        "text": "Yes. Unfortunately, everything else maybe not so good, but okay. I think the interesting thing about Solana is for the first time ever since 2018 or 2019, did I meet developers who are like, I never. You sent a transaction or wrote code for the legacy platforms, where in 2018, it was like, all the ETH developers, like the Hayden from uniswaps of the world, were like, I've never sent a bitcoin transaction, but, like, of course I sent eth transactions. And at the Solana conference, unlike, say, like, some of the other l one s, I met people who were like, I've never sent an EtH transaction. I've never sent a bitcoin transaction, but I, like, I've used Solana and I write Solana, and I was, like, shocked at how many of those and what."
+    },
+    {
+        "speaker": "C",
+        "text": "Do they do on Solana?"
+    },
+    {
+        "speaker": "E",
+        "text": "So, weirdly, it's like, really crappy nfts. Like, really crappy. Like, cheap, but crappy nfts. It's a lot of, like. So the thing is, Solana doesn't have many tokens. So actually, it had a ton of tokens in 2021, 2022. Those were all as described in the trial, all worthless and zero. And so then Solana kind of had this, like, clearly there was no other token other than Sol, realistically, like, there are a few of them, but Solana's staking yield was actually quite high. They had a. They still have relatively high inflation, but they didn't have. And they had this kind of weird competitive staking market. But recently, Geedo has sort of, disclaimer disclosure, we're investors in it, has sort of like started to really kind of take over the market there. So I think there's much more accessible Solana yield, which has helped make the ecosystem a bit more, have a little more like DeFi related stuff working out. And, and what was interesting is a lot of the projects that I would call like, the cockroaches, they like maybe raise in 2021, they didn't pivot to AI, they didn't die due to FTX taking all their funds, which non really hard. Yeah, like, there's a lot of things you could have fucked up very easily and like being in the bubble, you would very high chance of dying. But the projects that survived, the margin drift, judo, etcetera, they all are pith are all getting ready, so it seemed. And some of them had announcements of tokens to start having tokens. So I think there's also this thing where people are getting ready for the retro airdrops of Solana. And I think whoever survived is sort of like the cockroach that survived the nuclear explosion. And they seem to be like, kind of doing well. So there's that. The second thing is, like, I've never, in Ethereum conferences and hackathons, you oftentimes meet really awesome developers, but, like, you don't meet that many who are like, I want to work on payments, which, you know, it sounds like the most boring application. Right. You may be used to in 2019, but now if you go, it's like everyone wants to do ZK identity. They want to do some like, kind of complicated type of thing. But in Solana, there's a lot of, like, we want to do like, USDC payments in like a weird wallet for Zimbabwe. Like, like, it's very, it's actually like, it reminds me of Ethereum hackathons in 2019, whereas Ethereum hackathons now are way more focused on higher end technology ideas. And so I think there's kind of this, like, baseline of people who just are completely coming new to who were only brought into crypto by 2021. And Solana happened to be the place they went. And they just, they have no, I guess they don't talk to other people who are in other parts of crypto. And so they're just in that ecosystem. So it's like the only l one that I feel like has this completely organic, unique ecosystem because the EVM L one, so the ones that are compatible with Ethereum, they have a lot more founders who just moved around. It's like Trader Joe moved from Avalanche to Arbitrum, and then they had more success in Arbitrum. Like the EVM, people didn't really have much. There's no stickiness other than ETH mainnet because they all deployed eventually to EtH Mainnet. But in Solana, there's nowhere else to go. Nowhere else to go. But if you look at other ecosystems, and I didn't go to the near conference, which is right now, otherwise I would have been able to give a comparison. But it doesn't feel there is this real notion of people go in and this is their first experience, and it must have been. It reminds me so much of 2018 Ethereum, where people are like, I bought some shitcoin in 2017, and then I decided to work on a project. The Solana wealth effect of I bought soul and I made a bunch of money, and now I'm just going to work on Solana projects. The wealth effect is real there."
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, that's a little bit curious to me, too, because it must be just sort of time weighted that most people, even in Solana, have lost money because it moved so rapidly and it had such a dramatic ascent, both in terms of price and in terms of notoriety, when it shot all the way to 200 and then gradually was kind of taking its way down. And that was like when Sam was at the top of his empire and he was really pushing the Solana narrative. It must be that most people have actually not made money on net. Right? We're in a bare. More or less in a bare."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, but my point is, like, I'm looking at the conditional distribution of the ones who did."
+    },
+    {
+        "speaker": "C",
+        "text": "Fair enough."
+    },
+    {
+        "speaker": "E",
+        "text": "And those are the ones who are that. My point is that's a large enough subset."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah. So I get it for nfts. I get it for a lot of other things. But for developers, it seems surprising to me that, like, where I made money is coupled with where I am developed. Cause a lot of people buy a lot of tokens."
+    },
+    {
+        "speaker": "E",
+        "text": "One way of thinking about this, which is slightly different, which is where I made money, means I can quit my job, my normal dev job, for like, one year, two years, three years. And so I've bought myself, like, few years of, like, not doing things. And that's. And that. That thing that bought me that I spend time reading a lot of the docs, I spend time meeting people at these conferences, and then I start writing code for it. And I think there is this effect that Solana seems to be the only ecosystem I can for sure know. Like I said, I didn't go to nears conference, so I don't, don't know right now, but Solana definitely has this. There is really clearly this, like, whoever survived is, like, doing well. Like, they're still working on stuff. It's like, doesn't feel like zombieland, which is, like, a very unique thing to them, as far as I can tell. Whereas, like, you know, I think in, in other l one ecosystems, it's, it's usually what happens is, like, when things crash, it becomes extremely adversarial and dog eat dog, and everyone's trying to undercut each other and then, like, they kind of kill their ecosystem. Right. I think you've seen this in a bunch of other places, and I won't name them so their armies don't go after me, but you've seen that kind of, like, the bear market leads to, like, all the projects fighting with each other, and then there's a zero something. And, like, the ecosystem, and Solana somehow doesn't have that zero sum mindset as much. It's like, very well, I think all."
+    },
+    {
+        "speaker": "C",
+        "text": "That zero sum mindset was encapsulated into SPF."
+    },
+    {
+        "speaker": "E",
+        "text": "Yes."
+    },
+    {
+        "speaker": "C",
+        "text": "And he was defenestrated all the time."
+    },
+    {
+        "speaker": "E",
+        "text": "And everyone who's survived is like, oh, we survived despite that. And so they're way less."
+    },
+    {
+        "speaker": "C",
+        "text": "They don't have it is definitely the most incredible story in sort, in the history of l ones is Solana's reversal from being basically this more or less exchange chain of FTX and being completely kind of under their thumb and subject to their distribution, surviving the biggest fraud, basically, in the last decade, being at the center of their blockchain and still."
+    },
+    {
+        "speaker": "E",
+        "text": "Nevertheless, I mean, it was their Dow hack victorious. Right. And if you survive it, if you serve. I feel like almost like religious texts, a chain needs to have, like, this one, like, Gilgamesh flood moment."
+    },
+    {
+        "speaker": "C",
+        "text": "Totally. And, like, dark night of the soul."
+    },
+    {
+        "speaker": "E",
+        "text": "And the thing that keeps you. Yeah. And everyone who survives that, that's like the. The branding of, like, you made it into the real league."
+    },
+    {
+        "speaker": "C",
+        "text": "Of the real league."
+    },
+    {
+        "speaker": "E",
+        "text": "I don't know what else. The real l one league, but, like, how many."
+    },
+    {
+        "speaker": "C",
+        "text": "How many l ones are real?"
+    },
+    {
+        "speaker": "D",
+        "text": "Four?"
+    },
+    {
+        "speaker": "E",
+        "text": "I don't. I don't know. I don't. That's a good question. It's hard to say. Like, I definitely think Solana makes it to that. It's like, it really, they really somehow the stripes from that extinction level, nuclear extinction level event and the way people are so optimistic and are not zero sum about, like, just like, oh, there's like, this much of. There's this much tam in the ecosystem. Like, I'm gonna try to kill my competitor over it is very surprising. Like, like, it really is, like, ethan, 2018, 2019. And I think, like, you can. You can get mad at them for, like, not being able to run a full node, whatever. Maybe they don't have, like, clients yet, but they're trying, whatever the technical. Like, all the people fighting on Twitter about this shit, I'm always like, yeah, but, like, arguably, Ethereum wasn't as easy to run in 2018 either. Right? Like, there's so much in stuff that went into it to make it what it is. And obviously, it is a really amazing place because it's survived. It has all these assets, has all this liquidity. But I do feel like you have to give salana a lot of respect. You have to really treat it like it's earned its stripes. And I think that's something that people sort of miss in the l one war. And, yeah, like I said, defi. Another argument you see a lot on Twitter is their defi TVL is so small, and, like, how could they really kind of be a thing? And it's like, yeah, they have no fucking tokens. The only tokens are really sold. Like, everything is sold. Right? And so. But they've somehow still been able to, like, not go to zero despite that, and you have to give that. I don't know. I think that this extinction event thing is almost, like, a necessary thing. It's like, why do people, like, who follow religions? Like, like, I like religion is, like, the narrative always has some hardship, hero's journey type thing. Right. And somehow this is also true for these chains."
+    },
+    {
+        "speaker": "C",
+        "text": "Tom, what's your take?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I mean, I agree with sort of the story of being forged in a crucible and sort of coming out the other side. Like, that is true for, like, a lot of companies as well. And I think it kind of goes back to a saying around, like, if you're part of the Solana tribe, you follow the Solana God. It doesn't matter if you can't run a full note. Like, it's not part of our religion. That's not part of our code of ethics. That's somebody else. I think going back to what you were saying, though, around what's happening on chain, I'm still a little bit confused by. Because when I look, it's like, okay, frankly, even a lot of top project activity, they do have tokens like marinade, drift, orca Solend. And it's like, okay, so people are doing. Jitto's obviously been ripping in terms of TVL. Makes sense. It's a very interesting play on the whole mev space, the LST space. But, like, that's. It's sort of like, you know, building a great operating system, but there's no applications. And it's like, okay, what else? What else are people doing? What else is happening? I think that that's kind of thing that's missing from me."
+    },
+    {
+        "speaker": "E",
+        "text": "I think the weird thing to me, actually, about the 2021, like, bull market stupidity. Solana was, like, people raising for, like, some of these public raises raise, like, $80 to $100 million for where they sold you in game items before the game was made as, like, their raise. And, like, that stuff is obviously dog shit. Dog shit scam, whatever. But, like, this AAA game on Solana thing was, like, just kind of obviously a dumb fucking thing. But it does feel like people are focusing way more on these, like, consumer social payments stuff. That was, like, the number one thing I observed."
+    },
+    {
+        "speaker": "C",
+        "text": "Honestly, I am so traumatized by the term aaaena. Like, I've. Anything that I. Any game I've ever been pitched has always been described as triple a. I."
+    },
+    {
+        "speaker": "B",
+        "text": "Will fundamentally settle for AAA game."
+    },
+    {
+        "speaker": "C",
+        "text": "I'll settle for a single a game."
+    },
+    {
+        "speaker": "E",
+        "text": "I will say the following."
+    },
+    {
+        "speaker": "C",
+        "text": "What? A b game, for once."
+    },
+    {
+        "speaker": "E",
+        "text": "I will say the following. I've talked to a lot of people who are LP's who this week, and who are in crypto, and the number one thing that I ever asked them is, I'm like, oh, like, what do you think about funds? Gaming funds? Like, gaming specific funds? And they're just like, yeah, you know, like, you gotta wait five to seven years for seeing if crypto will make a real triple A game. And I just fundamentally don't think that such a thing exists for crypto. I think crypto is the world of 500 shitty games. There's gonna be tons of angry birds."
+    },
+    {
+        "speaker": "C",
+        "text": "100%. Yeah. That's the other thing that somehow I think people don't understand about the gaming industry is that it's not primarily about AAA games. AAA games are crazy."
+    },
+    {
+        "speaker": "E",
+        "text": "Mobile games in China that, yeah, absolutely."
+    },
+    {
+        "speaker": "C",
+        "text": "Most of the revenue in this industry does not come from AAA games. AAA games are just the most appealing to look at. But the games that actually make a lot of money and monetize extremely well are often very stupid and not visually impressive."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't think it's fair to say the majority of the revenue, but you're right a lot. It's a lot. These are very, very sizable portions. And by user base, absolutely."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, I just."
+    },
+    {
+        "speaker": "B",
+        "text": "That's what most people think of when."
+    },
+    {
+        "speaker": "E",
+        "text": "They think they're more. Much easier to do that on chain crypto than to try to do, like, the entire. Like that."
+    },
+    {
+        "speaker": "C",
+        "text": "That's, I should say, rather the Roi rather than the Arlo."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, because, like, that's true."
+    },
+    {
+        "speaker": "C",
+        "text": "Like, when you're building a AAA game, you spend an enormous amount of money and you make an enormous amount of money and you have a small margin. It's like. It's like movies, right? It's like Hollywood. Yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "You spent $200 million to make a game that you bring in 1.5 billion. And there's a lot of marketing costs and a lot of costs."
+    },
+    {
+        "speaker": "C",
+        "text": "And, I mean, that's a smashing success if you actually do that. Right. But, like, for a lot of these games, they spend 2 billion and they make 2.1 billion."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, I think the thing for AAA is like, it makes a lot more sense into, like, holding company style structure. Like the Tencent owning a bunch of different studios, like, de risking it that way. But the idea of a venture equity investment in a game just sounds just so dumb."
+    },
+    {
+        "speaker": "C",
+        "text": "This is a very new thing. This really arose basically in the last, like, three years."
+    },
+    {
+        "speaker": "E",
+        "text": "I just. It doesn't make any sense to me. Like, you're taking something that's already really high risk and making it a riskier investment via this equity investment versus, like, something where you risk share across multiple."
+    },
+    {
+        "speaker": "C",
+        "text": "It's not even that. It's also that, you know, if you are Tencent or one of these game distributors, you have one. There are a lot of synergies across your portfolio. There are a lot of things that you can do in order to make sure that you're using your market information from other properties, that you have to kill projects early to shift capital from here to there. A lot of the gaming VC's don't have that, which is why, generally speaking, a lot of the gaming VC investments that have been successful are not AAA. They are games that, yes, you want to have a portfolio and you want diversification or whatever, but they're lower cost games that can also be, you know, be really high margin and high grossing. So it's. It's just like, it's different. So, like, I think with the advent of these really mega gaming funds, the only way they can make these economics work is these triple A bets, right, where they bet huge amounts of money at pre launch games with, with just, you know, uh, basically on designs and teams, which is traditionally not the way that gaming was gaming investing was ever done."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, I think an interesting example of this, which I only heard this week, so forgive me for not knowing exactly the names of this, but the number one app store game in China right now is this game called Kiss or Slap. And it's like you have, like, a virtual character in this, like, metaverse thing, like, but not really that high tech. And you have to pay. You go up to people and you have to pay to kiss or slap them. And then, you know, if someone does that to you, then you. You get the right to do it to them back for free. And it's like, something extremely stupid. It's like. But it's apparently the number one thing. And, like, it's making a ton of revenue by getting people to pay for the right to. For their virtual character to kiss or slap another virtual character."
+    },
+    {
+        "speaker": "B",
+        "text": "This sounds great."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, but this thing is making, like, this needs crypto. Five to ten."
+    },
+    {
+        "speaker": "D",
+        "text": "Exactly."
+    },
+    {
+        "speaker": "E",
+        "text": "This makes more sense for crypto. This is like that. That's so easy to do on chain. That seems like. Like a perfect game. Like, this is what I'm saying. This triple A thesis was just like. I thought I was just. I don't understand. And I'm an idiot in 2021, I was listening to everyone pitch you these fucking stupid triple A gaming funds. And I honestly, in hindsight, I'm like, thank God I never, like, fell for that."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, so my thing about gaming, I've been saying this for many years now, is that I do think crypto gaming will be big, but I think it will be difficult to invest into kissens."
+    },
+    {
+        "speaker": "E",
+        "text": "The kisses, because it'll be like the."
+    },
+    {
+        "speaker": "C",
+        "text": "Kiss and slaps of the world. It'll be like, kind of gross."
+    },
+    {
+        "speaker": "D",
+        "text": "Takes off before anyone even."
+    },
+    {
+        "speaker": "C",
+        "text": "Not only that, but it's like the kind of stuff that I would be too embarrassed to invest into and explain to my lp. And it's like. Like, I suspect that the first crypto game that becomes really big, like, not actually infinity, but, like, even bigger than that, is gonna be described as a social problem. It's gonna be the kind of thing people write op eds about and, like, they're. They want, like, how can I get parental controls to stop my kids from, like, it's gonna be one of those types of things. Exactly. Exactly."
+    },
+    {
+        "speaker": "E",
+        "text": "Return of the slap."
+    },
+    {
+        "speaker": "C",
+        "text": "Return of the slap."
+    },
+    {
+        "speaker": "E",
+        "text": "Slappers."
+    },
+    {
+        "speaker": "C",
+        "text": "Only the other thing that I think a lot about crypto games is that I think there's a big intersection between crypto gaming and gambling, which, again, is, like, kind of dirty, kind of gross."
+    },
+    {
+        "speaker": "E",
+        "text": "But this kiss and slap thing is almost gambling. Like, is it doesn't sound like pay to. For the right to slap. And I think there's some service."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Sounds a little bit like. Like slightly like sex work, actually, if I could think about it."
+    },
+    {
+        "speaker": "B",
+        "text": "Tradable. Are they securities? Is that the. Is there. Is there a slap?"
+    },
+    {
+        "speaker": "E",
+        "text": "I only heard this secondhand, and someone showed me on their phone I haven't played."
+    },
+    {
+        "speaker": "D",
+        "text": "Okay, I'm gonna download this."
+    },
+    {
+        "speaker": "E",
+        "text": "We got it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, it might be chinese only. That's."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, it might be chinese only. Yeah, yeah. I saw it on someone's phone. It was actually at Sauna conference when someone was from China. Was like, here's."
+    },
+    {
+        "speaker": "C",
+        "text": "In what context would they explain to you kiss and slap at breakpoint?"
+    },
+    {
+        "speaker": "E",
+        "text": "Because I was like, oh. Cause they were like, oh, we're working on Solana, like, games. I was like, oh, cool. What are the."
+    },
+    {
+        "speaker": "C",
+        "text": "Were they building a kiss or slap club?"
+    },
+    {
+        "speaker": "E",
+        "text": "Well, basically the hackathon project."
+    },
+    {
+        "speaker": "C",
+        "text": "Can you introduce them to us?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, it was like something I think I have."
+    },
+    {
+        "speaker": "C",
+        "text": "I have a new thesis on crypto gaming. Is kiss or slap."
+    },
+    {
+        "speaker": "E",
+        "text": "This was. This is what they were, like, saying they were gonna do. I didn't stay the whole week, so I didn't see that somebody who actually."
+    },
+    {
+        "speaker": "C",
+        "text": "Knows this game is gonna explain to us how incredibly stupid."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I think I get it. You have avatars, and I assume they either look kissable or slappable."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "And they live in this little world, and you can go up to someone, you can pay money, have your avatar kiss the other avatar, or to slap the other avatar, and it's probably like a newsfeed, like, you got slapped, you know?"
+    },
+    {
+        "speaker": "E",
+        "text": "I agree. There's a sex work guy."
+    },
+    {
+        "speaker": "C",
+        "text": "This is why Robert's a one. Yeah, yeah. It's just, very earnestly, I think you can go around and kiss or slap people, right? Yeah, no, nothing weird. Okay. This other part of my thought, I don't even know if it's a thesis, but a thought about crypto gaming. So I think many people know, back in a former life, I used to be a professional poker player. And one thing that's interesting to me about casinos is that if you go into a casino, like, if you'd gone into casino 50 years ago or even 70 years ago, and you go into a casino today, the games that you see available in casinos are basically the same. Now, if you go to a slot machine, like, okay, there's video and there's sound, and there's all this new stuff, new ip. But the actual mechanics of the games are the same."
+    },
+    {
+        "speaker": "D",
+        "text": "Blackjack hasn't changed."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. Why has there been so little innovation in casino games when there's been so much innovation in every other form of gaming?"
+    },
+    {
+        "speaker": "D",
+        "text": "Well, I can answer this with another simple analogy, please. I like chess. Chess hasn't changed in a really long time. Just because you can make a new game doesn't mean it's gonna be more fun."
+    },
+    {
+        "speaker": "C",
+        "text": "What about, like, bullet chests and, like, speed chests and all these things? I mean, these are pretty new. I agree."
+    },
+    {
+        "speaker": "D",
+        "text": "Same game. Slightly different approach to playing the same game."
+    },
+    {
+        "speaker": "C",
+        "text": "Right, right."
+    },
+    {
+        "speaker": "D",
+        "text": "You could have speed. Blackjack, you only have 3 seconds."
+    },
+    {
+        "speaker": "C",
+        "text": "Sure, sure."
+    },
+    {
+        "speaker": "E",
+        "text": "Latency is, like, kind of a bad mechanic for games. I feel like. Cause like, it's. It's not like people, like, the faster play sometimes. It's. It's like it works until a point, but then if it's too fast, I feel like people just."
+    },
+    {
+        "speaker": "C",
+        "text": "I think with chess, it does help because bullet chess is very popular now. Right?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. Super popular."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. Well, it's."
+    },
+    {
+        "speaker": "D",
+        "text": "Cause, like, if you sit down for an hour."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, exactly. It's like. It's like the kind of thing you can play in the train. Right. It's like, that's a big part of the."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, that point is crypto is made for games you can play on the train. That should. It should only be that, like, forget this."
+    },
+    {
+        "speaker": "C",
+        "text": "Like, yeah, 100%."
+    },
+    {
+        "speaker": "E",
+        "text": "Like esports dog shit."
+    },
+    {
+        "speaker": "C",
+        "text": "Or sit down for 3 hours and have this immersive life experience or whatever. I mean, like, yeah, there's a. I."
+    },
+    {
+        "speaker": "E",
+        "text": "Think the ayahuasca trip on chain shouldn't come from the game, come from other things."
+    },
+    {
+        "speaker": "C",
+        "text": "So my high level theory is that big part of the reason why there's so little innovation in casino games is because casinos are seen as gross, and the most brilliant, creative people don't want to work there. They don't want to create casino games. They want to create. They want to go work for Rockstar and for Blizzard and whatever, because they see that as being a more sort of more respectable place to create these really immersive. Fascinating."
+    },
+    {
+        "speaker": "E",
+        "text": "I think that's the western view. I'm not sure that's."
+    },
+    {
+        "speaker": "C",
+        "text": "You go to casino Macau. It's the same thing."
+    },
+    {
+        "speaker": "E",
+        "text": "No, no, no. I just mean, like, I'm not. Would you say that, like, a chinese graduate of, like, tsinghua, let's say, like, cs graduate?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "E",
+        "text": "Like, deciding between one or the other. Would you say that their probability of choosing one or the other is the same as the western one? I don't think so. I think they're more. Much more."
+    },
+    {
+        "speaker": "C",
+        "text": "What are we talking about. I think, like, in China, gaming is."
+    },
+    {
+        "speaker": "E",
+        "text": "Huge, but they'd be fine going to the casino gaming, too, right?"
+    },
+    {
+        "speaker": "C",
+        "text": "I don't think so. I think it's the same thing. I think it's probably even worse there where, like, I. Your parents are gonna be like, oh, my God, my child. Instead of going to this great top tier tech company, instead they're going and working for some shady casino, right? Like, you lose so much, but you."
+    },
+    {
+        "speaker": "E",
+        "text": "Wouldn'T really be working for the casino. You'd be working for the people who make the machine."
+    },
+    {
+        "speaker": "C",
+        "text": "Right. Which is, like, not. Which is not that much better in some way. I think what crypto enables is, like, uniting that very kind of open canvas of innovation from gaming with the degenerate, disgusting appeal to the basis human instincts that casinos do."
+    },
+    {
+        "speaker": "E",
+        "text": "Kissing and slapping."
+    },
+    {
+        "speaker": "C",
+        "text": "Kissing and slapping, exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I think there's an EV calculation here, too, right? Like 20 years ago, you're very limited in terms of, hey, if you want to go work for MGM, what you can actually get out of this thing. It was already public. It's limited to this very thing. There aren't gambling video games in 1990 or whatever. Now it's a very different story. We actually have some kind of attempts at doing digital casinos. Maybe sort of the calculus is changing of, oh, there's actually a bigger tam if I want to go invent a new casino game. But again, to your point, there just wasn't enough of an amazing outcome for me. If I'm brilliant and smart and motivated to go work for sort of existing gambling companies."
+    },
+    {
+        "speaker": "E",
+        "text": "Tom is a role bid maxi confirmed."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I'll take a demand side approach to this. I don't know how many people want to play a game that was just made up, where they don't know the odds, they don't know how it works. You feel like you're going to get ripped off. Roulette and blackjack and craps. And these things that have been around casinos since, like, the fifties, I think, haven't changed for a reason because, like, enough people know what they are and how they work that there's already this, like, social knowledge about these games. Slots have innovated like crazy, right? In terms of, like, what's happening on the slot machines, and they've gotten more loud and more addicting and more fun and all of these things, but this structure really hasn't changed at all. Like, I don't think there's a job description available at MGM. Like, invent brand new game that doesn't exist yet."
+    },
+    {
+        "speaker": "B",
+        "text": "I was actually having go very far with a friend of mine over dinner, who, first of all, stop the dinners. He was talking about casinos, and we're talking about Roulette. And he's like, oh, yeah, in the UK, we have one green. In the US, you have two greens. I'm like, I don't know what you're talking about. And then he was, like, roasting me for that. I'm like, yeah, Tuesday. I'm like, I've never played roulette in my life. Why the fuck would I play roulette? That sounds like the most boring spews of my time ever. Just complete negative ev. Randomness."
+    },
+    {
+        "speaker": "D",
+        "text": "It's all negative ev."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah. But at least."
+    },
+    {
+        "speaker": "C",
+        "text": "Except poker."
+    },
+    {
+        "speaker": "B",
+        "text": "Except, yeah, but also with, like, blackjack. There's some fun, there's some agency. I'm just, like, fucking literally just, like, flip a coin and, like, lose. Like, that sounds terrible. But the second thing we brought up was sort of the lottery. And the fact that it's one of the oldest forms of gambling. Every country has one. They're almost all nationalized, and they're massive. Like, Spain has El Gordo, which is like, the national lottery. People form these pools. Everybody loves the lottery. And, like, every country has the lottery, but there's not really been just a."
+    },
+    {
+        "speaker": "E",
+        "text": "Form of taxation on the poor, though. Realist."
+    },
+    {
+        "speaker": "B",
+        "text": "Sure, sure. But I think the thing that I was also thinking about is, like, I don't know that many young people who are, like, buying powerball tickets. Like, you know, my dad likes buying powerball tickets. Like, in doing the whole thing, it's fun. But, like, I don't get the sense."
+    },
+    {
+        "speaker": "C",
+        "text": "Young people buy NFTs."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, yeah. That's their lottery time. And so, I mean, you do see, like, NFT called Powerball. You didn't. That's not financial advice, to be clear. You do see forms of gambling popping up elsewhere, though, right? People love loot boxes and like, okay, yes. So you have stuff like that, but it just is isomorphic, but it just looks different."
+    },
+    {
+        "speaker": "C",
+        "text": "And that's why it's getting tamped down so aggressively, because people know that this stuff is crack for human beings. No matter where you are, no matter what age you are, there are obviously a lot of randomization mechanics in games. And the reason why they're there is because they are fun and they appeal to the. Whatever it is, the part of our brain that loves randomness. And what is it? Variable reward ratio interactions, it's really, really powerful. And if you combine that with a rich game, like, if I was playing Pokemon, and instead of just like, oh, I'm making things, whatever, but there's also fucking loot boxes. And I can potentially make money, and I have to deposit more money in order to, like, go cash. Like, there's such a rich design space with games that have real attachments for people beyond just I go to the casino and I flip the roulette wheel, and maybe I win, maybe I lose. That design space is definitely very constrained, and it's constrained in large part by sort of the optics of it and explicitly by regulation. And that's where I think we will see something weird in the design space introduced by crypto. That's not just let's disguise a game, or rather, let's disguise a Ponzi scheme as a game. We did that a bunch of times in 2021. And that works because people love Ponzi schemes. Ponzi schemes are very fun. They are the oldest form of gambling."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay? So they're very fun for people. On what level of the unhinged score?"
+    },
+    {
+        "speaker": "C",
+        "text": "I think actually, I actually would make."
+    },
+    {
+        "speaker": "E",
+        "text": "The meme of, like, the, like, Ponzi scheme is like the, like, four, five, you know, like."
+    },
+    {
+        "speaker": "D",
+        "text": "No, I think, like, negative two to one."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, exactly, exactly. Ponzi schemes. Like normal people do. Ponzi schemes. That's why there's so restrictive regulation on them in places like China, where they're like, we have to stop these ponzi schemes from existing because everybody would want to play."
+    },
+    {
+        "speaker": "D",
+        "text": "All of society gets caught up in it."
+    },
+    {
+        "speaker": "C",
+        "text": "Right, exactly. And there's just a huge deadweight loss from having these things naturally arise in the world."
+    },
+    {
+        "speaker": "D",
+        "text": "Right. I mean, there's also, if you zoom out, like, other Ponzi, like, things that all of society gets caught up in, like tech bubbles and real estate."
+    },
+    {
+        "speaker": "C",
+        "text": "Totally."
+    },
+    {
+        "speaker": "D",
+        "text": "You know, it's not isolated to one specific implementation."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, everything's a ponzi. If you squint enough, then part of the reason for that is just like, humans have no real good predictive power on longer term growth rates, so they have to make up a narrative for one and then use short term investment to pump it."
+    },
+    {
+        "speaker": "C",
+        "text": "There's this one bumper sticker I often quote that was, I think somebody had this bumper sticker after the.com crash, and the bumper sticker said, please, God, give me one more bubble. I'll know what to do this time."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "And that. And that, I think, is the apotheosis of why Ponzi schemes are universal."
+    },
+    {
+        "speaker": "E",
+        "text": "You could argue that nature itself is sort of a Ponzi scheme because, like, it's like, what's the motive for reproducing so that you have, like, progeny."
+    },
+    {
+        "speaker": "C",
+        "text": "Nature is the Ponzi scheme. Tarun 22."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, we finally have, like, capped off the chopping blocks, philosophical, you know, extremes."
+    },
+    {
+        "speaker": "E",
+        "text": "But it is, right, like, why does Philo."
+    },
+    {
+        "speaker": "B",
+        "text": "Why does you have to stake and to keep your ownership, why do phylogeny."
+    },
+    {
+        "speaker": "E",
+        "text": "Trees keep growing exponentially? So true. And, like, until they use all."
+    },
+    {
+        "speaker": "C",
+        "text": "Where's the."
+    },
+    {
+        "speaker": "E",
+        "text": "Where's the collapse when all the resources are gone?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, but that's like malthusian, right? But we're not. We've clearly exited that we have only sort of. We've escaped the Ponzi scheme."
+    },
+    {
+        "speaker": "E",
+        "text": "No, no, no."
+    },
+    {
+        "speaker": "C",
+        "text": "Also, we stopped having so many kids. So, like, global population is going to contract as long as we solve the Ponzi scheme. We somehow made it a never ending."
+    },
+    {
+        "speaker": "E",
+        "text": "We did the bitcoin inflation. Right. Deflation schedule."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. Exactly, exactly. No tail emission. No tail."
+    },
+    {
+        "speaker": "E",
+        "text": "Galton Watson. That's right."
+    },
+    {
+        "speaker": "C",
+        "text": "It was a beautiful way to end it. That's it. Thanks, everybody. We'll be back next week."
+    }
+]

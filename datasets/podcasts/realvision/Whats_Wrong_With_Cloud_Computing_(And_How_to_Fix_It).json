@@ -1,0 +1,154 @@
+[
+    {
+        "speaker": "A",
+        "text": "This episode is brought to you by Shopify. Forget the frustration of picking commerce platforms when you switch your business to Shopify, the global commerce platform that supercharges your selling wherever you sell. With Shopify, you'll harness the same intuitive features, trusted apps, and powerful analytics used by the world's leading brands. Sign up today for your dollar one per month trial period@shopify.com. tech all lowercase, that's Shopify.com tech."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey everyone, if you like this podcast, go behind the paywall to get privileged access to the smartest minds in finance. Join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off our essential membership for the first year. Now to the top analysis of today's crypto markets."
+    },
+    {
+        "speaker": "C",
+        "text": "Paolo Fregameni, co founder and CEO of supply socket company welcome to real vision Crypto Daily briefing hey, thanks for having me, Paolo. Lots to talk about here. I'm excited for this conversation. You're doing some interesting work in the field of true decentralization. But just a second, I want to talk a little bit about what's happening in markets right now. Let's take a look at CPI. This came out this morning. As you can see, 4.9% year over year CPI. I'm going to keep this short and sweet today. Basically, inflation accelerated, less than expected, slightly less than expected. It's down slightly from last month, but the reality is it's still far too high, significantly above the Fed's 2% target. By the way, we should say we're looking at CPI, that's consumer price index out today. PCE personal consumption expenditures is the number that the Fed looks at, but it's pretty close proxy, and it's closely watched. Let's take a look at what's happening in digital asset markets, bitcoin and Ethereum. Specifically bitcoin bounced up a little bit on the news, trading above 28,020 8178 on my screen right now. Make of that what you will. The expectation perhaps of a worse print, a bit of a relief rally. They're tough to say, but that's the data up right now, about almost 3% on a trailing 24 hours basis. Seven days basically flats off about half of 1%. If we take a look at Ethereum, Ethereum, as you see on that chart, very similar pattern. They're probably no surprise reacting on the same news, trailing 24 hours, up about 2% seven days, also roughly flat. But in the opposite direction up about 1%. Not a whole lot going on there in terms of the longer term picture for the last seven days about what's been happening in these digital asset markets. With all that said, let's jump back into something that's a little bit more substantive, a little bit more on the infrastructure side. We love builders here at real vision. Paolo, welcome again. Tell us a little bit about socket supply and what you guys do."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, sure. So we build an open source project that helps web developers to create applications for any os. So native applications, and that means the average web developer who uses HTML, CSS, JavaScript, they can build an application, a native application for Android, iOS, Linux, Windows, macOS, basically anything. And there's nothing really new to learn. The skills that they already have are all the skills that they need. And so we create this framework for doing this. And I think that what's pretty interesting is that the thing that people generally want to do after they build an app is to connect their users together. We have a novel way of doing this, which is making peer to peer capabilities available as native JavaScript APIs to the average web developer."
+    },
+    {
+        "speaker": "C",
+        "text": "This is an important point, I think for people to understand. I guess people with technical backgrounds already understand that, but let's talk a little bit and explain why exactly this is so important. What you talk about, the basic tools, HTML, JavaScript, CSS, these are the basic core tools for doing web development. Wherever you're doing it, if it's going to appear rendered in a browser, those are basically the tools that you need to do that. What's interesting here about what you guys are doing conceptually is trying to figure out how to plug in this type of development architecture into a true peer to peer system. This I think is what confuses a lot of folks about the space because its interesting. We talk a lot about decentralization in the digital asset cryptocurrency space, but most of whats happening out there runs as software, as a service on these very large cloud forms. That means Microsoft Azure, it means Google, it means all of the big companies that have dominated Silicon Valley for many years now. And this transition to a peer to peer network in terms of the backend I think is probably a critical one. This may seem surprising to people because people think of bitcoin as a decentralized network. They think of ethereum as a decentralized network where the compute power is in fact running on these very large server farms. Let's talk a little bit about the solution that you guys are proposing in terms of attempting to make that a more true peer to peer experience."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. So our team is made up of quite a few browser engineers, people who have been contributing and hacking on browsers, probably the ones most people are using right now, whether it's chrome or whether it's Webkit based browser. We've taken the core of the browser engine, which is an os component, and then we've added native peer to peer capabilities to that. What that means is that, like I said, the average JavaScript developer can use a really simple API that should be familiar, shouldn't be very, very much to learn. And what they can do is they can connect with other peers in the network and they can completely circumvent the cloud. They don't need the cloud at all. There's no servers required for the solution. And along with that we've made put in a lot of effort to make sure that it's secure and that it works in terms of people needing to communicate even when other peers are offline. Right. So one of the big misnomers people have, misconceptions people have about peer to peer is they think that if other people who they're trying to do peer to peer with aren't online, then it doesn't work. But that's no longer the case. So I can build explain a little."
+    },
+    {
+        "speaker": "C",
+        "text": "Bit what peer to peer is for folks who may not know. I mean, I think for myself and people of my generation, we first heard this terminology around Napster in the late nineties, early two thousands. And whats interesting about these networks, I suppose at the time, what got most of the attention was the idea of people circumventing copyright law. This was of course a very big problem for the music industry. But the core technology of peer to peer I think was really interesting to people conceptually, particularly in the field of computer science, because essentially you had a network where the larger it grew, the faster and more robust it became. This being very much the opposite of the traditional centralized model where when more people try and pile in to download something, for example, the network becomes strained. But with peer to peer, you essentially have a series of nodes connected as well peers on the network. And as people join, it becomes more robust and it becomes faster. This is a huge leap, I think, in terms of the mechanisms for distributing information on the Internet. And also in many ways, many see it as something that's potentially freeing from these very large Silicon Valley behemoths that now control the cloud market."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, right. So the cloud is a set of servers that's owned generally by a handful of incumbents, and it's a landlord tenant relationship, right? You want to build a product, you go to the cloud and you lease the services that you need, and you end up building yourself into that lease for basically the lifetime of your product. As the demand for your product grows, so does the cost of running it. This is prohibitive in a lot of cases for entrance into competing in certain spaces. If you look at the cost of running something like Twitter, it's absolutely massive. I don't even think Elon was able to pay his cloud bill at one point."
+    },
+    {
+        "speaker": "C",
+        "text": "There have been a bunch of stories written here in the last couple of days about the cost of running chat, GPT, for example, which is also massively processor intensive, as you might imagine."
+    },
+    {
+        "speaker": "D",
+        "text": "Right? So a lot of these things, and especially the things that are the basic kind of day to day things like chats or. Or things like Twitter, these are incredibly good candidates for peer to peer because they don't need servers, they don't need the cloud to work. What we've done is we've put together this open source, which has been highly peer reviewed, and we're starting to see early adopters start to build things with it. We're starting to see people realize that they don't need the cloud to build a lot of the things that they're building today. And I think that this is in particular, this is really well suited for defi types of things. So, as you said, let's double click."
+    },
+    {
+        "speaker": "C",
+        "text": "On that, because that's really a huge paradigm shift. This idea that people do not need to distribute software in the cloud, that is the overwhelming dominant paradigm of the way Silicon Valley runs here in 2023. And this notion that individuals running peer to peer browser based networks can supplant, that really is a huge shift in the way business gets done."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, it's pretty transformative for a lot of people. So you think about the largest cost for most people running any kind of software business, it's cloud. And it's not just the cloud bill itself, but it's all the SREs, all the DevOps engineers, all the time spent, all the time putting and debugging the glue that puts all of these services together. And so there's a mountain of hidden costs associated with that. And then the risk, certainly, of operating a business where a third party kind of owns everything that you've built and in such a way where you really can't practically move it after it's been built. People talk about multicloud, but multicloud isn't really that practical. And so at the end of the day, the biggest problem really is the man in the middle. So having this kind of central figure who is really in between you, your product, and your users, it's a big liability in terms of security and privacy. And so there's that. And I think for us really what's interesting is the reduction in the cost, making it possible for people to enter new as entrance into a new space, and then just the complexity. So building software these days just means this enormous amount of effort and hours spent. And I think when we're talking about something like Defi, the D in DeFi is really important. We want to achieve decentralization. So we already understand why decentralization important, but this is a broadly applicable thing. Pretty much anybody in any space can benefit. But I think maybe it's pretty interesting to talk about why DeFi in particular could benefit from building peer to peer software."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back."
+    },
+    {
+        "speaker": "E",
+        "text": "This podcast is sponsored by Ramp. Are you the decision maker in your company? Consider this, for the first time in decades, there's a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your company's spending and control who spends what. With each vendor, Ramp's software collects and verifies receipts instantly. To save your team valuable time. Ramp automates data entry and routine tasks with automated approvals, expense categorization, and bill payments. Time consuming tasks, which means you'll stop wasteful spending and close your books in hours instead of days. Businesses that use Ramp add up to 5% to their bottom line the first year. If you're a decision maker, adding Ramp could be one of the best decisions you've ever made. Get dollar 250 when you join Ramp for free. Just go to ramp.com easy. Ramp.com easy remp.com easy cards issued by Sutton bank and celtic bank members of DIC. Terms and conditions apply."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, let's talk about DeFi in just 1 second. But obviously this is an important goal, and it's a very big one, and an audacious one at that. But let's talk about some of the risks here before we talk about the specific use case of DeFi. I'm curious in terms of a couple of things. First, where are you in this being actually deployable? And second, what are the risks that you see in doing this? For example, security scalability, load balancing, all the traditional cloud based parameters that people think about. How does this actually work in terms of the security model? First and foremost, I assume that this somehow uses the PKI, the public key infrastructure, to do encryption. But talk a little bit about what makes developers feel secure, that their applications are running in secure sockets, in secure spaces on the computers that are being scaled throughout this peer to peer network."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, well, there's quite a bit to unpack there, but in terms of the individual applications and the network itself being secure, all of the packets that are distributed into the network are obviously encrypted. And there's a couple of different types of encryption schemes that you can opt into because there is no one size fits all solution for encryption. If you need, for example, point to point or if you, I mean, there's different schemes that you'll have you potentially need to opt into. So, yeah, it's not one size fits all. And so the packets, as they're deployed into the network, they're encrypted. And the peers that relay those packets, if they relay them, then they're not able to see what's in them without the public and private keys. And so it makes it possible to create this network, this global network of, of sort of shared responsibility, so that if some users in the network are offline, then other users in the network who may not be directly related to them can continue to support the delivery of those packets. And this is something, this is a."
+    },
+    {
+        "speaker": "C",
+        "text": "Kind of dynamic load balancing that you guys were able to do because."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, it's a distributed load balancing. Yeah. And we didn't necessarily invent this particular aspect of this. This is a well researched, really kind of widely known academic research base called disruption tolerance networks and disruption tolerant network, or sometimes it's called the delay tolerant network, really has been researched for the last 20 years. And so what I'm talking about in particular is network buffer optimizations. So being able to support data peer to peer, even when some of the peers in the network are offline, and make sure that that data is always encrypted until it gets to the party that was intended to be reached."
+    },
+    {
+        "speaker": "C",
+        "text": "Let me ask you this. You mentioned this idea of not necessarily building all this technology. To what extent were you guys able to leverage existing technology for the network distribution layer and also for the security model? I think it's probably the something that people think about in terms of the existing security. Is this something that you had to build sort of out of the box, or were you able to leverage different layers that have already been put together."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, so this is unfortunately, we surveyed the peer to peer landscape in terms of libraries, and we really didn't find anything that was comprehensive in terms of nat traversal, which means being able to discover and then connect to other peers. We really weren't able to find anything that existed that was comprehensive and really worked really well in that space. And then in terms of also having a well defined specification that deeply detailed how it worked, we just didn't see that. We didn't find that. And we know really kind of everybody in this space and who's working on it. And so we started from a first principles, kind of ground up mission to go out and read all of the, you know, prior work that's been published. A lot of really interesting stuff has come out of various universities really nicely peer reviewed papers that have been published that we were able to read and to source or to cite as material that we based our solution off of. So, you know, not a ton of it is novel. We were able to use a well known corpus of research work to base this off of, but it certainly wasn't like going out and building a SaaS product where you say, ok, we'll use a little of this and some of this and some of that and we'll put it together and we'll have a product. But we had to really think about this from the ground up. And there are some areas where it's slightly novel because like I said, a solution like this hasn't really existed before. So that's where we're at with this. It's coming out of the alpha stage into the beta stage. There's people building products with it, there's people who are using it who are the brave early adopters, but it's working pretty well for them. We're also working with everybody from the public sector to the private sector. Public sector obviously is interested in this because this allows them to get away from the dependency of Gov Cloud, which is nice that it's air gapped and it's nice that it's fairly secure. But the problem with it is that it still represents a lot of complexity and the time to go from the idea that you have to something that's deployed and working and doesn't require any additional server infrastructure is really appealing. And so yeah, really interesting stuff."
+    },
+    {
+        "speaker": "C",
+        "text": "I just want to invite our viewers to join us in this conversation. Please. If you're watching or listening, put down your questions in the chat. Wherever you're watching, we'll make sure to ask the best ones on air. Remember, real Vision members take priority. But the good news is that real vision crypto is always free. You can go to real Vision.com crypto to sign up. That's real Vision.com crypto to sign up. And of course, if you're watching on YouTube, please tweet this link out so we can share this conversation. We're committed to keeping this conversation free and we want to get it out to as many people as we possibly can. Of course, you can follow me at ashbennington on Twitter. And please follow real vision at real vision. Okay. With all that said, Paolo, let's talk a little bit about the use case, the application that you mentioned at the top of the show, which of course is Defi. Why are peer to peer networks especially well suited to Defi applications, in your view?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, well, so I think that one of the biggest problems that people face when they're building products in Defi is that they end up having to build SaaS. And that's really not, it's not the dream. The dream is really to build a piece of software that doesn't rely on these centralized systems like DNS or web hosting services like AWS, where they end up in a landlord tenant situation. Obviously, the autonomy is really important for these kinds of products, the sort of sovereignty. But also, I think when we look at what are the potential margins from products like this, they're already not necessarily super high. So what we would love to be able to do is to make sure that we're not spending on operational costs like the cloud, and that we're focused on top of line, focused on features that really attract users, that make them, you know, that make the product irresistible. You know, that kind of, that's where we should be spending the time and energy and the capital. Right. And so, yeah, so I think that the autonomy and the cost, I mean, especially, we call it defi, right. It should be decentralized. So this is really kind of helping to deliver on that and make that come to fruition."
+    },
+    {
+        "speaker": "C",
+        "text": "Hey, everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision crypto daily briefing. Let me ask you this. Let's talk about something that we haven't covered yet, which is the model for monetization for this. How is this going to be supported in terms of the processing power? How are you going to incentivize people to do this? I know that you guys don't have a token. You said it earlier in the show this is really a first principles based product, really something that you're thinking about from a raw computer science perspective. But what's the model to incentivize behavior users to run these services?"
+    },
+    {
+        "speaker": "D",
+        "text": "Right? So we don't necessarily as a company try to incentivize anybody, but what we can do is we can offer the protocol, the runtime which web developers can use to build the software and then connect the users. And everybody who joins the network using this runtime keeps a small cache of packets, and that small cache of packets adds up to a lot. So if you compare, say for example, Amazon has roughly 3 million servers, but there's about 15 billion mobile devices in the world. And obviously those are a lot less powerful than those 3 million servers that Amazon has. But they add up."
+    },
+    {
+        "speaker": "C",
+        "text": "They also have slower connections significantly snow oh yeah."
+    },
+    {
+        "speaker": "D",
+        "text": "And when you think about mobile devices, I mean, they're absolutely unreliable. They're on for very short amounts of time. They have varying degrees of capabilities. You may have less storage or less battery at any particular time, but all of these statistically add up to a pretty powerful network at the size of, at volume. So if your application, like say for instance, you build an Instagram clone, or if you build some kind of social media when you attract only maybe half a million users, well, it's not very many users, but with that many users, they'll all be able to support each other, to deploy packets into the network and keep the information alive for as long as it needs to be alive. It's a network of shared responsibility. There isn't really a need to have a token in this. Now there's certainly the potential for people to build products that incentivize people to store more data. So, for instance, if you had something like a filecoin, or if you had something like an arweave, you may want to build with that on top of socket. And if you did, you may find that your users are more likely to accept larger to cache more data on their devices. And so there's a really big opportunity for people to build with protocols like that. But obviously, when it comes to defi us thinking about the different types of uis that can be built with this, user interfaces that can be built with this, without needing websites or without needing URL's that can be taken down, or can be, somebody can say that you're not allowed to be running the service anymore. That's just something that we don't really face with socket."
+    },
+    {
+        "speaker": "C",
+        "text": "Do you in essence then see this as a potential alternative to DNS, to domain name servers that currently resolve the names of websites to ip addresses, essentially, does it replace some of the architecture of the existing web itself?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, definitely. This isn't really necessarily new. I mean, we've been seeing competition between the web and native apps for a very long time, and what we're really doing is we're saying, okay, we're inviting web developers to build native apps, but then we're also giving them some of the existing, well, pretty much all of the characteristics of the web as it is today. The ability to link between applications, that's something that you can do with socket, the ability to build with HTML, CSS and JavaScript and not have to learn anything new. But then the ability to do that all without DNS or without any kind of web hosting, that's really the big change. But all of the other things should really remain pretty familiar to everybody."
+    },
+    {
+        "speaker": "C",
+        "text": "How far away do you see this from being implemented in terms of when folks can actually expect, if they're listening to this, to deploy on sockets like this so that you can truly start running applications in peer to peer?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, you can start building with this today. Today it works."
+    },
+    {
+        "speaker": "C",
+        "text": "And how long do you project it will be? You mentioned earlier, you called them brave alpha users before. This would be something that would be ready for prime time in terms of deploying industrial strength applications in a peer to peer methodology."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. So the reason why we are not, the reason why we're in beta at the moment is because we like to be cautiously optimistic. We think that everything is working out pretty well, but it takes rigor to make something like this a very viable solution for replacing traditional infrastructure. Traditional infrastructure has a lot of boxes to tick to be able to say, yes, we can replace this reliably. And so, you know, that takes, that takes rigor to measure those types of, the types of latencies that people have expectations about. And all of that's looking really good. And when we can create some quantitative kind of data for people to look at, that's when decision makers at some of the larger fortune companies will start to take notice and say, okay, maybe this isn't just for startups and adventurous defi folks anymore. Maybe we can start to take some of this on and replace some of our traditional infrastructure in larger legacy or fortune companies."
+    },
+    {
+        "speaker": "C",
+        "text": "Really interesting stuff, Paolo. Weve covered a lot of ground here, obviously a lot of technical material. I think youve really framed up very elegantly your case, at least for how a true peer to peer, decentralized web would function. Youve talked a lot about the implications for defi final thoughts, key takeaways that youd like to leave our viewers and listeners with from this conversation?"
+    },
+    {
+        "speaker": "D",
+        "text": "Well, I think it would be great to see the people who are out there building solutions really freed from the constraints and the costs and the complexity of the cloud. I know that a lot of people will probably say, okay, well, what is the risk? How much friction is there going to be in adopting something like this? And that's something that we've considered really carefully by giving people the technology that they already understand and know really well. So front end, all your favorite front end frameworks work with socket. And as I said, you can be the average web developer and come along and start building this way. And so what I would love for people to see is to come out, to come over and try go to our GitHub socket supply socket and just come over and try it out and see that it's very, very, very similar to the workflows that you're already familiar with and start experimenting with the potential building a whole new class of software with peer to peer."
+    },
+    {
+        "speaker": "C",
+        "text": "Really interesting stuff. Paolo Frego many, thank you so much for joining us."
+    },
+    {
+        "speaker": "D",
+        "text": "Thank you."
+    },
+    {
+        "speaker": "C",
+        "text": "That's it for today. Remember to sign up for real vision crypto once again. As always, it's free. Go to realvision.com crypto. That's real vision.com crypto to sign up now. Join us again tomorrow. We'll have the leaders of Swarm with us live to talk about tokenizing capital markets. See you at 09:00 a.m. pacific noon Eastern, 05:00 p.m. in London. Thanks for watching, everybody. Have a great afternoon."
+    },
+    {
+        "speaker": "F",
+        "text": "What's up, revolutionaries? Thanks for tuning in. For more content like this, head over to realvision.com and get unfiltered access to the very best, brightest and biggest names in finance."
+    }
+]

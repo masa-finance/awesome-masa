@@ -1,0 +1,626 @@
+[
+    {
+        "speaker": "A",
+        "text": "I live in America. I think America is. I know what people hate when Americans say this. I think it's the best country in the world. I freaking. I love it, but I don't wish that it was the only country in the world. I'm really glad that there are other countries out there, and I think if everything became America, America would stop being America and it would actually be much worse. So I think there's real, genuine, there's real genuine value in having multiple different ecosystems with multiple different viewpoints. Variety is the spice of life."
+    },
+    {
+        "speaker": "B",
+        "text": "Welcome to bankless, where we explore the frontier of Internet money and Internet finance. This is how to get started, how to get better, and how to front run the opportunity. This is Ryan. Sean Adams. I'm here with David Hoffman, and we're here to help you become more bankless. The topic today, convergent evolution. Are Ethereum, Solana, and cosmos. Are they all building toward the same thing? Our episode with Mike Ippolito of blockworks explores that. This is a well researched challenge to, I think, the traditional bankless thesis of this future of ethereum dominance and value accrual. What are David and I missing from these non Ethereum ecosystems? That's what we talked to Mike about today. There's some pushback on today's episode, a little bit of debate. All of this is handled in an adult manner that we hope will further everyone's understanding, unlike the Twitter battles that we see so often. A few takeaways for you from today's episode. Number one, Mike starts with the scalability trilemma. Remember that there are three sides of the triangle, and according to Mike, there are also three ecosystems that matter, Ethereum, Cosmos, and Solana. We talk about why Mike thinks they might be converging all into the same thing. Number two, we talk about the role of validators in these ecosystems and the different definitions for decentralization in each of them as well. Number three, we talk about Cosmos app chains versus Ethereum super chains. What are the trade offs? Who's going to win? Which entities are going to capture all of the MeV? And most fun of all, I think, was the back and forth, the contrast between Mike and the bankless thesis to date. David, I've got a lot to discuss with you in the debrief. So many thoughts, David. Why was this episode significant to you?"
+    },
+    {
+        "speaker": "C",
+        "text": "One of my frames of understanding of this industry is that every single chain wants to dominate. Every single chain wants to eat up all the other chains. And not everyone has agreed with that take. Um, the. Take that eventually in the fullness of time. In order to survive in crypto, you have to be the biggest chain. Mike actually agrees with that take, and he's been exploring all three different rabbit holes, the Solana, the cosmos, and the Ethereum rabbit hole. And he's come up with this understanding of the paths that each one of these ecosystems is trying to take to complete the blockchain trilemma that you said, each one has its injection point in the trilemma, and each ecosystem wants to complete the trilemma because each chain wants to dominate. And so I think understanding the cosmos strategy, the Solana strategy, how it compares to what people are probably very familiar with on the bankless podcast, the Ethereum strategy, and weigh in the merits and cons of each, I think will give us all a very deep understanding as to what is the current frontier of crypto economic research. And so that's why I would say this episode is so significant, is that it takes crypto economics to its furthest depths in three different flavors, and then brings them all back and compares and contrasts all of them."
+    },
+    {
+        "speaker": "B",
+        "text": "I can't wait to discuss this all with you in the debrief, David, that is available for bankless citizens right now on the bankless premium feed. So go check that out. A lot to discuss. But first, we disclose nothing specific in today's episode. We're long eth. We're long layer twos. But you already know that we're long term investors in general. We're not journalists. We don't do paid content. There's always a link to all bankless disclosures in the show notes@bankless.com. disclosures all right, we're going to get right to the episode, but before we do, we want to thank the sponsors that made it possible."
+    },
+    {
+        "speaker": "C",
+        "text": "Bankless Nation, I would love to introduce you to Mike Ippolito, the co founder of Blockworks, a crypto native media organization that we find very agreeable. Bankless and blockworks share a similar corner of crypto in which we are trying to reconstruct what trust media and news is like in this industry. Crypto is, of course, going to rebuild many new institutions and social structures, media being one of them. And we share that in common with Mike and blockworks here. But in addition to building blockworks, Mike is also the host of the Bell Curve podcast, where he explores very deep corners of the crypto rabbit hole. And now I've been watching Mike explore some of these corners by our shared conferences that we go to and the podcast that he produces. And so now that Mike has had a lot of time to let his ideas bake. We want to see what Mike has synthesized from his journeys across the crypto landscape. Three frontiers we're going to focus on here on the bankless show with Mike here today, the role of validators for their respective ecosystems, which is just another way to articulate what's Solana, what's Ethereum, and what's cosmos. But specifically through the lens of how these individual ecosystems think about the role and service that their layer one validators provide to the ecosystem. They'll be the first rabbit hole. Second, roll, apps versus app chains, which is just basically layer twos versus cosmos. What is the tension between these two domains? And then also, lastly, third, mev value capture across this stack, specifically across the roll up stack, where you have the roll up SDKs, like the optimism super chain, arbitrum orbits, hyperchains. Then we got rollups as a service provider, and we got bridges. Where is all this mev and ultimately all the value capture going to land in this ecosystem? Mike, welcome to Bankless. How was that introduction? Is that aligned with what you want to get done here?"
+    },
+    {
+        "speaker": "A",
+        "text": "That was excellent, David. I think agreeable is the nicest adjective you've ever given me, so thank you for saving that until I came on the podcast."
+    },
+    {
+        "speaker": "C",
+        "text": "Mike, let's take a moment, actually, just to dive down a little bit again into you and blockworks. Bankless listeners are, of course, familiar with us. Ryan, myself, who we are, what our vibe is, how we think. Maybe you could paint a similar picture for you and yourself. What do you focus on? What do you think about, and how do you select the content that you want to explore on Bell Curve?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, absolutely. So Blockworks is a media and research platform. It was founded by myself and my co founder, Jason, back in 2018. And I think the way we divided responsibility. So, Jason, for anyone who's ever met him, is probably the most, even more agreeable than me, if you could imagine it. And he was the natural fit for sales and growth, which we needed in the very beginning, and we still do, but we also needed content. Content. We think of ourselves as manufacturers of ideas and content, and then we sort of spread that out across our various channels. And I had never thought of myself as a content or person before, but someone needed to do it, and I found that I really, genuinely loved it. My background in college was I was a classics major, which is the nerdiest thing you could possibly do. I was actually classic psych double major, so I was determined not to get a job, but I found myself doing this I really focus on the full spectrum of content that we produce at blockworks from editorial, which is kind of news and breaking stuff, podcasts, which is one layer deeper. So think context to the news and facts that you might read, and then research is even one layer deeper. So let's say you've gone all the way down the rabbit hole and you're past just context, and you want to understand how stuff really works and what's coming next. That's my sort of focus at blockworks."
+    },
+    {
+        "speaker": "B",
+        "text": "Mike, what is classics? Okay, is classics, like, are we talking about, like, learning Latin? Is this, like, greek and roman mythology and stories and this sort of thing, like a classics education? A classical education? Is that in the sense that we mean it?"
+    },
+    {
+        "speaker": "A",
+        "text": "That is, Ryan, you're exactly right. It's actually Latin and ancient Greek, the languages. So that is awesome. Two languages, neither one of which are spoken today."
+    },
+    {
+        "speaker": "B",
+        "text": "I was going to comment earlier that when David is going through these subjects, you know, the role of l one. Validators. Role apps, nav chains, mev. God, this is going to be a nerdy podcast, which is how I like it. And then he brought classics into the mix. So we're going real nerdy on today's episode. That's great."
+    },
+    {
+        "speaker": "A",
+        "text": "We're going nerdy. I've got my liberal arts training, though, so I'll make some metaphors and some analogies. We'll make it live for the folks of nation."
+    },
+    {
+        "speaker": "C",
+        "text": "Mike, would you say it's accurate to say that Mike is the David of blockworks and Jason is the Ryan of blockworks?"
+    },
+    {
+        "speaker": "A",
+        "text": "I would say that's dead accurate. Dead accurate. All the pros and cons of each of those Personas. 100%."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Well, it's about the kinship, you know, that is very. I take that as a very high compliment, because Jason is a fantastic individual with fantastic sense. He is absolutely breaks when he needs to be, and he runs a fantastic business over at blockworks. I can't say enough good things about Jason. He's a fantastic individual."
+    },
+    {
+        "speaker": "C",
+        "text": "He also wasn't invited for the podcast."
+    },
+    {
+        "speaker": "B",
+        "text": "Mike, that's such a David thing to say. My God."
+    },
+    {
+        "speaker": "A",
+        "text": "We love you, Yeno. We love you."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I love you, Mike, you brought some slides. Maybe you want to talk us through what we're going to see. Give us a preview of all of these slides that we're going to get. I gave us the preview of the three frontiers. Maybe you can do the same."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes. Let's start with this concept of zooming out here for a second. David, when you asked me to come on the show, I think one of the things that I've been noticing a trend in crypto generally is this convergence of architectures between different blockchain ecosystems. If you zoom out and actually ask yourself, what is a blockchain? From first principles, it's a shared database that users can verify that the computation is being done in a way with integrity and accuracy. If you think about bitcoin as the first version of this shared database, which is probably still the most decentralized, most other blockchains that have been launched since that period of time exist on a spectrum of extremely decentralized, and we can get into the definition of exactly what that means to very centralized, which would be a singular black box database looking something like a binance. And there's a spectrum of different trade offs that you can make. And I think the best way to understand that spectrum of trade offs, which is what we're looking at with this slide here, is this scalability trilemma, the blockchain scalability trilemma that many of us will be familiar with. I'm not sure if Vitalik actually coined this term, but I pulled this actual slide from a blog post that he wrote a couple of years ago, and I think that it's becoming relevant again, because the idea behind this triangle is that on each side of the triangle, you have scalability, decentralization and security. And I think most of the. I'm going to talk mostly about Cosmos, Solana and Ethereum, because those are the ecosystems that I've been most focused on and understand the most. But I think each one of those chains basically has focused on the in particular, one leg of this triangle. And I think the reason that this moment in time is unique, and the reason why we're starting to see convergent architectures is because I think each one of these chains has sort of mastered their leg of the triangle, and what they're starting to do is say, all right, I've been extremely optimized for scalability, or I've been extremely optimized for decentralization. Now I need to start trying to conquer this unsolvable problem of somehow getting all three of these things. And that's why I think you're starting to see convergent architectures. And if you want to understand the trade offs, where those trade offs are most visible in these different blockchains, or where it all really stems from, I think it comes from the way that each one of these ecosystems perceives the role of the validator, and what the job of a validator should be, and what it should do come up with. We love our memes in crypto. So if you're following along, came up with the memes of each validator from Ethereum, Solana and Cosmos. In Ethereum, broadly speaking, we want our validators to be gucks. Right. That's a really good design choice. And that comes from shout out Evan Forbes, who gave this talk. He's actually working at Celestia, but he gave a great talk about this at the modular summit this past couple months. And in general, the design decision for. For Ethereum."
+    },
+    {
+        "speaker": "B",
+        "text": "Mike, Mike, you said cucks, right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, we have to hang out."
+    },
+    {
+        "speaker": "B",
+        "text": "What on earth?"
+    },
+    {
+        "speaker": "A",
+        "text": "That's a little Internet definition of men who like to see their ladies pair up with either."
+    },
+    {
+        "speaker": "B",
+        "text": "Well aware. Okay, thank you."
+    },
+    {
+        "speaker": "A",
+        "text": "Say that."
+    },
+    {
+        "speaker": "C",
+        "text": "The point you're trying to make is that how to make Ethereum validators just dumb and low and stupid and simple."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Commoditized is probably the best way of describing that."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "And I think it's probably worth even just going through the history, chronologically of bitcoin was the first blockchain ecosystem, and there were three stakeholders in that ecosystem. There were the devs, there were the miners, and there were the node operators. And bitcoin was very religious about, is still very religious about a lot of ideas. Now to the point where in 2017, there was the block size war that was fought over very specific definition of decentralization, which is reducing the hardware requirements of being a node operator. This was extremely contentious, this sort of set bitcoin on this very specific path. And I think Ethereum just chronologically, it was the only other really credible layer, one that launched around that period of time. And I think it inherited a lot of the ideas that bitcoin originally had. And one, I think it inherited this very specific definition of decentralization. I think also it inherited why decentralization matters, which is, I think there are two camps of why decentralization is unique or necessary for crypto, which is one, a government crackdown, but the other is just enabling new market structures. And I think that distinction is actually important. And then there are some other things about money and things like that. But I do think it's worth pointing out that a lot of Ethereum's very good ideas actually did originally come from bitcoin. But that's exactly right. So the node operator, from the Ethereum point of view, and you guys, correct me if I'm wrong here, is that it should be a cuck, it should be commoditized, it should be very low in complexity, it should be sort of powerless right. And we should be paying the minimum amount that we can to our proposers to still get security from the network. And the benefit of doing this is that you can have solo stakers. Really, a good way of saying this is that Ethereum is optimized for enabling solo stakers to still validate the chain."
+    },
+    {
+        "speaker": "C",
+        "text": "The way that I would say this is that Ethereum validators are optimized to be the lowest common denominator because that is maximum inclusivity."
+    },
+    {
+        "speaker": "A",
+        "text": "That's a great way of saying it."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, exactly. Without saying cox."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, we've maxed out on that word for the show. We're moving on. So the trade off there obviously is scalability. You need things like long. What you don't want to do is make the cost of verifying the computation on the chain more than the weakest link in the chain. So you have inherent sacrifices at the main net level. The role of a cosmos validator is a little bit different because, first of all, Cosmos was the first, I think, sort of credible attempt at proof of stake chains. So a lot of the ideas actually from Ethereum today, many of them come from cosmos originally. The big difference there is that they envisioned a future of app specific chains that are interoperable with one another. So some of the, you have a little bit more complexity and cost in terms of the hardware requirements for being a node operator, because in addition to running consensus, tendermint consensus, you were also running the application code. And those are interfacing through something called ABCI. And the consensus type is different because of the, there's a trade off in the way consensus works on Cosmos, which is they've sort of prioritized safety over liveness. And one of the consequences of that is that you have a smaller number of validators that make sense, and they also have delegated proof of stakes. And the idea, I think, behind Cosmos, and we can get into this as well, I think it still applies to almost all these blockchain ecosystem, is that even though you're able to be a solo, you can verify the network as a solo participant. You're mostly going to do that from a like client, and there's going to be professional validators that are actually validating the chain. So all the way on the other side of that is Solana, which has taken a very distinct set of trade offs, which is similarly to Ethereum. They envision a future of one layer and generalized block space, as opposed to app specific block space. The complexity of being a validator is high. The costs of running the hardware are high, and the consensus type, similar to Solana, is delegated proof of stake. And the. I don't, I don't want to totally speak for Solana here, but I think they envision a future where they probably optimize less for decentralization from the perspective of any user being able to validate the network. In the interim, they're going to let hardware requirements scale to a point where individual users can validate the network over time. But for now, solo stakers have been priced out, essentially."
+    },
+    {
+        "speaker": "B",
+        "text": "Can I ask. Okay, so can I ask a few things? So you are laying out sort of your thesis, and so I want to make sure that we kind of understand this so far for your perspective. And then I'd like an opportunity to kind of clarify understanding or like, push back in various areas. But your thesis, we go back to that kind of trilemma, right? I think you're basically saying, so Ethereum occupies the bottom side of this triangle, which is a maximization of decentralized and secure. Those are the two, because the trilemma is like, you get to pick any two, right? You can't have all three. That's why it's a trilemma. So the things that Ethereum has picked are decentralization and security. And so is bitcoin, by the way. And Dalek has said this, like, before, too. I remember back in like 2018, I was trying to understand this Ethereum thing. He's like, it's moderate bitcoin values, so it's like it inherits from bitcoin values. And it's at the bottom side of this triangle on the left side, at least on this diagram, you've got this optimization for decentralization and scalability. And this is where multi chain ecosystems fit in. So this is where Cosmos fits in. Am I correct here? So Cosmos is optim. Why is it scalable? Because you could spin up tons of cosmos chains, right? Just infinity, number of cosmos chains. It's open source. You just fork a new chain, you deploy tendermint, you got it. So scalability and decentralization is that side. Then you've got Solana, which is maximizing for scalability and security on this other corner. I think at the time that Vitalik was writing this post, he's probably thinking about eos at the time. That was the big Solana type of chain, where you maximize TPS, you boost the validator requirements. Maybe these can't be run by individual solo stakers. They're all data centers. You have dpos. So that's delegated proof of stake. No idea of proof of stake. Solo stakers. And that would be a maximization of scalability and security. And that side of the triangle, am I right so far? Is that where you'd place all these three ecosystems? That's what you're saying. There's only three strategies for blockchains because there's only three sides to the triangle here."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And what I want to underline there, Ryan as well, is that where a blockchain might have started from optimizing for two out of the poles of this triangle. I don't think any of those ecosystems ever abandoned the idea of going for a third. I think they just prioritize two to start with. And now what they're starting to do is say, okay, we've got these two things down, now we need to go and prioritize the other leg of the stool that we haven't been as optimized for before. Right. And this isn't to say so if you're a Solana, I think it's not accurate to say it wasn't at all decentralized. It was more decentralized than the equivalent in tradfi or something like binance. But I think now they're thinking more about how do we decentralize this change. Ethereum, because it was focused on decentralization and security, is now thinking about how do we scale? And that's where you see the roll up thesis and roadmap playing out. But yes, I think most blockchains started from two of these polls. Now they're trying to go get the third. And that's why you're seeing this convergence."
+    },
+    {
+        "speaker": "C",
+        "text": "Specifically, it's the strategy for how the third is achieved by each of these respective ecosystems, I think is the thing worth learning about, because it's not just about like, okay, we've optimized for these two, now we need to just iterate and optimize for the third. It's getting from point a to point b and how they get there is something to unpack. There's various different strategies to get that done. Mike, I want to throw the visualization that I'm getting from you back at you, because I want to check my understanding here. The way that I interpret this specifically with the validators, the role of the layer one validators. You have cosmos, Solana and Ethereum. On the cosmos end of the spectrum is, for lack of a better word, like kind of anarchy. Right? Like every app chain is, it's sovereign, and so no app chain has sovereignty over another. Everything is equal and it's flat and it's very horizontal. Right. And the idea is that these things just mesh together, and that is the cosmos ecosystem. On the Solana end of the spectrum, you have the single shared state of Solana. There is one chain, there is one state. So it's kind of opposite of cosmos. These things I consider to be polar ends of the same spectrum. And then in Ethereum, Ethereum occupies a nice little middle ground from my perspective, where you have the single security chain of the Ethereum proof of stake beacon chain, but then you also have the cosmos vision of the app chains spawning from that beacon chain. So Ethereum kind of occupies this middle ground between Cosmos and Solana. That's my understanding. Would you agree with that?"
+    },
+    {
+        "speaker": "A",
+        "text": "I would generally agree with that. I would say nothing exists without trade offs. So what you're seeing between, I think, the trade off from the perspective of, let's say, Ethereum and Solana, is that Ethereum has embraced a much higher degree of complexity in order to keep their hardware requirements low for main chain validators. And ultimately, I'm bullish on the modular roadmap and scaling thesis. But for as excited as I am about it, I can't help but look at it and think, wow, this is much more complicated than the probably simpler version of maintaining global state that Solana has laid out, albeit at the cost of having a more expensive validator, hardware requirements that, for the time being, has priced out most solo validators on the cosmos side of things. I think what they, I think what they haven't figured out is how to create this shared sense of unity united around one economic instrument or shared security layer. There are attempts at this, and we're going to get into it, but Ethereum has benefited massively from this very elegant design, I think, of 1559 and how the modular roadmap plugs into that and everyone can kind of get behind. ETH is very good at propagating ETH and limiting the supply of it, whereas cosmos, it has Adam. But the role of the hub is always in question, and it's still being debated today. And there isn't a very clear mechanism for value accrual or capture for Adam, the token. And I think that's both cosmos greatest strength and weakness. I would say it probably has to shift a little bit more towards the ethereum side of things, but I think, and we can get into this later, I think that'll end up being a strength of it overall over a long period of time, too."
+    },
+    {
+        "speaker": "B",
+        "text": "I want to run sort of a thought by you as we go through this, and hopefully this maybe advances the conversation a little bit. And it's back to that scalability trilemma thing. I think one of the points that you're making is very true, Mike, in that all of these chains, these three approaches, are actually not trying to occupy just one side. The purpose of the scalability trilemma, and that mental exercise is actually, as Vitalik laid it out and others have talked about this, they all want to solve the scalability trilemma, correct? They're all trying to solve it. So I think Ethereum is taking this perspective of the modular approach, and that's its attempt to solve it. We've got Solana with kind of a different approach, a monolithic approach, maybe, to solve it. I want to hear what you have to say about that, even the lens of modular versus monolithic, if you think that's right, or if you think that's kind of off, one thing I will agree with you on as well is the element of how Solana is solving this. We've done some episodes with Zaki and Sunny and really Ethan Buchman and really jumped into what Solana is trying to do. And it's very clear to me that the one thing that they feel like their network has fragmented is shared security. And so they're trying to take a mesh approach with respect to shared security. And trying to. That's one thing that Ethereum's approach gets out of the box, is basically like, ether is the economic security for all of the layer twos. You already have that nice shared security module, whereas Cosmos has had to bootstrap its validator set and its economic security in every single chain. And so what they're trying to pursue is this. And I lost track of where this is. But there was a vote for the cosmos hub and atom holders to kind of push some sort of shared security module forward so that they could become a little bit more ethereum like. So I guess I'm doing sort of a plus one on. Like, all of these chains are trying to actually solve the scalability trilemma, and they have a different approaches to it. Do you have anything to add or. Yeah. What's your take on that?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, everyone is trying to solve the scalability trilemma, and I think it's still up for debate in terms of what the optimal solution for that is going to be. But the ideas that are starting to get tossed around from different ecosystems are starting to rhyme and become very similar. So let me go onto this slide here and sort of show you a Venn diagram of how I view each of these validator systems and how each one is sort of different, but then where they overlap as well. And Ethereum, if you. It encourages users to run full nodes, it's very similar to bitcoin. The idea behind it is we think that the users of this network are also going to want to validate the network. Therefore, let's keep the hardware requirements extremely low because I think those two groups are going to be very similar. Then there's Solana, where again, I want to say for the time being, because there's the client that's being developed by Jump Firedancer, there's also a tiny dancer which is going to enable users to verify it. But for now, the assumption actually is, you know what, mostly it's going to be professional validators that are validating the network for the time being, and users are going to trust them because there are so many of them that it would be extremely difficult to collude. And the consensus protocol is there to make sure that they don't collude. And a lot of people will be fine with that trust assumption. For now, Cosmos is a little bit in the middle where they say, okay, actually, probably the majority of validators that are actually validating all of these different chains are going to be professional node operators. And fun piece of history, Ryan, you might know this from back your days in Cosmos. Most of the big node operators today originated in Cosmos because that was the first proof of stake network."
+    },
+    {
+        "speaker": "B",
+        "text": "And then they chorus one figment they were a part of the original validator set of the Cosmos hub when it first launched."
+    },
+    {
+        "speaker": "A",
+        "text": "Right? So oftentimes, I think we implicitly think about this from the perspective of a person. What would it cost for me to validate this network? I think another, maybe a slightly better way of looking at it would be from the perspective of most of the validation is being done through these professional node operator networks. And what do the economics look like for these node operators? I think Cosmos caught that early and they were like, professional node operators are largely going to validate the chain, but we do not want to sacrifice the decentralization here. And they made something called a light client. The light client is essentially a lighter, cheaper version of the node. It's cheap and easy enough for users to run, and it's also a central part of how interoperability works. So I think the overlap between Ethereum and Cosmos today is that solo staking is feasible in both of these networks. I think for Ethereum and Solana, the idea is that full nodes are the default. That's similar. I know there is a light client implementation in Ethereum, but I think it's probably more, more typical for people to just run a full node and then both Solana and Cosmos assume a professional validator set. And just to end this, this is a snapshot for the time being. I see this changing over time. But what's starting to happen is there are these ideas and arguments that are originating in different ecosystems that are based on lessons that have been learned elsewhere. So let me kind of like walk some of, some of where I see this overlapping, for instance, is the increased scope of validators. So where this crops up in Ethereum land, the language that you might have heard this described is Pepsi. So Pepsi and restaking are both increasing the scope of what a validator is supposed to do."
+    },
+    {
+        "speaker": "B",
+        "text": "Because let's, let's talk about Pepsi for a second. So this is not like the soft drink, right? This is, what is this? Mike, for people who haven't heard of."
+    },
+    {
+        "speaker": "A",
+        "text": "This, Pepsi is originally proposed by Barnaby Monot, who's in charge of the robust incentives group at the Ethereum foundation. It stands for protocol enforced proposer commitments. And the idea to drastically oversimplify this, sort of originated out of a more generalized spec for epbs. But the idea is, hey, because one of the consequences to having dumb commoditized validators is we need big centralized builders to actually build the blocks. They're just going to propose the header to validators. Validators will see how much mev they can extract, they will sign the header, and that block will get propagated to the network. We have these big builders now, and it's a very small amount of builders that build most of the blocks in Ethereum. And now people are starting to say, wait a minute, maybe we want to keep these validators dumb and commoditized, but maybe not that dumb. Maybe we want validators to be able to make credible commitments. And actually if those commitments aren't met, then the block will not be valid. And it's a way of transferring a little bit more power back to the hand of proposers. Similar with restaking, in a sense. Right? What Sriram has identified, I think with Eigen layer, is that a, there are going to be other operators that want the security of ETH, and they're willing to rent and pay security. But also maybe Ethereum validators are going to want to re hypothecate their stake a little bit, opt into either delegating like redelegating, or running additional hardware requirements. And they'll earn a little bit more yield, but that's also going to add a lot more complexity. Very similar idea to something called vote extensions in cosmos. And vote extensions are the way that consensus works in Cosmos is you've got something called a pre vote, you've got a pre commit, and then that's where the block actually gets finalized before it's executed. But what vote extensions enable you to do is say, hey, before this next block gets finalized, I want to submit some stuff that if it doesn't end up getting into the next block, then that block will be invalid. And it allows you to run a credibly neutral auction, which is what Pepsi allows you to do. These ideas are not perfectly one to one, but they are getting at the same thing. And if you want more information on this, because I know this is a pretty technical subject, I would read Barnaby's post on what is Pepsi? And he actually links the connection in between Pepsi and ABci and the cosmos ecosystem."
+    },
+    {
+        "speaker": "C",
+        "text": "I think the thing that you're articulating right now is what I was saying. When we have the blockchain trilemma, and then we have these ecosystems that plant their flag on one specific angle, and then they need to work to achieve the rest. And this is what you're saying. These are the different strategies that these ecosystems are employing to achieve the rest of the spectrum. I think if we go back a slide, Mike, to your overlapping Venn diagrams, which is just a. And super elegant chart here, I want to. It's my philosophy about layer ones is that they want to eat everything. If you are, if you take the perspective of being a layer one, if you are Ethereum, if you are Solana, if you are cosmos, you want to be everything. You want to subsume all of the utility that the crypto industry has to offer. Right? And so at least that's my philosophy about layer ones. I call them the empire model for change. They kind of want to do it all. They kind of want to grow into the full spectrum of services that crypto economics can provide to the world. And so, like Ethereum, the Ethereum spectrum, it has, it needs strategies to consume the rest of the spectrum that you present here with the areas that it doesn't have from genesis for the cosmos and Solana side of things. And Cosmos wants to do the same with Ethereum and Solana and Solana wants to do the same with Cosmos and Ethereum. And so now if we go back forward into the first chart, you're saying, like restaking, for example, and also Pepsi Pepsi Barnaby from the EF. I'll kind of call it state sponsored restaking. If the Ethereum foundation built a version of restaking that was core to the protocol, they would be Pepsi, Cosmos, and Solana. They all have these same kind of strategies. Restaking specifically is the Ethereum strategy for entering into the world of app chains, into the world of additional validator overhead and requirements to allow for extra utility and expressiveness that kind of aligns with the Cosmos app chain vision to manifest. That's my understanding thus far."
+    },
+    {
+        "speaker": "A",
+        "text": "That's exactly right. Let's reconnect it to this diagram and just go through point by point, how each one of these ecosystems wants to reach across the aisle and start solving the part of the trilemma that they haven't focused on. The most obvious one, I think, is this connection in between the Ethereum and Cosmos. That's going to be the least controversial because the app chain thesis, in many ways, is actually playing out on cosmos. What you're starting to see is Ethereum rollups actually run into some of the same issues that already came to the cosmos. And here's a good one, actually, that I'm not sure. I think folks have started to make this connection between, let's call it framework value capture. So that problem that the cosmos has in terms of how can we accrue value to Adam is playing out right now in optimism with the law of chains and conduit. So what's happened with optimism, from my perspective is, hey, we've created this great network, right? We've created this framework for you, this interchangeable set of modules. You can plug it in and build your own chain. And people did, you know, base went on to, went on to. They used the op stack. You have people that are actually building chains and creating value. And then a little project called Conduit came along and said, you know what? We're going to actually stand and be one layer on top of that, a roll up as a service provider, and you pay your monies to us. And then optimism said, whoa, hold on a second. We're the ones doing the work here. We laid the framework out, so now we're going to do a little thing called the super chain, and it has a lot of chains. And if you want to be a part of this law of chains, then you have to conform to this basic set of standards. And that's going to be nice, because if you ever want to interface with a custodian, like fireblocks or something like that, I'm making this up. These aren't real vendors, but then you have to conform to this set of interoperability. And what they are trying to solve is something that the hub slash the atom economic zone was trying to solve a while ago, which is, hey, guys, we got all these people that are building with the cosmos SDK and they're using IBC. But Adam isn't seeing much value. So what we want to do, actually is a little bit constrain what you can do in terms of your flexibility, make the block space a little bit more homogenous, but more value will ultimately end up accruing there. So it's just really interesting to see that whole dynamic playing out. Now, let's go back to this Venn diagram and take another example. So Solana, I think, has done the most out of any of these ecosystems in terms of solving for the eventual deluge of users that are going to come, none of these chains. Right now, there are very few products that have product market fit outside of, like, Ethereum, frankly, the layer ones and then a couple of different apps. And what we're not ready for at all is for any app to have, like, 5 million users and thousands of transactions per second. So Solana has kind of been toiling away doing this, and what they've done is they've created parallel execution in the SVM. They've got localized fee markets, and they've basically optimized themselves for applications like Dexs, which thrive on low latency. So now roll ups are starting to say, hey, guys, our users really like low latency. Turns out that's a massive value proposition, actually, for a chain to have. Solana, what's going on over here? How have you guys started to solve this problem? Right? And it's just interesting to see all of this kind of, you know, coalesce into this shared set of solutions."
+    },
+    {
+        "speaker": "C",
+        "text": "It sounds like there's, like, three different timelines here, and each one is, like, now learning that they need to speed run the other people's timelines."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah, yeah. That is what's happening. That's what's happening."
+    },
+    {
+        "speaker": "B",
+        "text": "I think I want to throw a take in here, right? And this is maybe gets into, I won't call it, like, eth maximalism, because I don't think, like, a true maximalist would do an episode like this."
+    },
+    {
+        "speaker": "A",
+        "text": "Which."
+    },
+    {
+        "speaker": "B",
+        "text": "Is like, explore all of these ecosystems and approaches. But we're also, Mike, all of us here in crypto, we're investors, right? So in order to be investors, you have to make bets on the winning strategy and the winning ecosystem. And this three part strategy. It's definitely evolved since 2018, but it was also in place in 2018, and some of the players are the same and some of them are different. So Ethereum was still Ethereum. It did not have a roll up strategy. So there's a big question of how would it scale. Cosmos was still Cosmos. It was pursuing the app chain model, which clearly had some resonance. I was involved in the Cosmos community in the early days as one of the early validators because I was very excited about that strategy. And then Solana has become kind of the successor of an EOS type of system. And I don't mean any negative implications with EOS. EOS, obviously, they ran their chain into the ground. In many ways, it was mismanaged. There's lots of problems with it. Solana is not quite like that, but it is still occupying the space that we talked about on the trilemma. At some stage, though, and this is part of my journey in 2018 and 2019, to try to figure out this industry, you have to make a beta, unlike the ecosystem, or you don't have to make just one bet. Of course, you can diversify your bets. You don't have to have 100%, you don't have to be all in. You diversify it across these ecosystems. But in order to be a good investor in this space, you have to make predictions onto where the puck is going to land. I guess one of my takes here is what we're actually seeing, or evidence this would be a strong ethereum take here, is that Ethereum is eating up the strategies of these other chains. So Ethereum now has this app chain type model. It's called a layer two, except it did it the right way in that it's doing a layer two that already has an app chains that already have security built in and low validated requirements. Because the thing that ethereum has focused on, which is, in my opinion, still the right decision, is the ability to solo stake, or at least the ability to have the option to solo stake, because that's what makes the network decentralized. It's done that. It's also, from an execution perspective, the execution layer is, to your point, that's what Solana has really innovated on, and they're doing a fantastic job. We see wallets, applications like Phantom Wallet. I look at that and I'm like, that's an amazing thing. They have handled high volume, high load well. Now Ethereum is getting there with very low cost transactions with validiums, for instance, and also with these roll up EVM type chains. And now we also have, like, sharding, proto dank sharding, which is going to further drop the cost of rollups. So there's another strong Ethereum case that might push back against that. Not push back against what you're saying, because I don't know if you're drawing any investment conclusions, you're just making the case that, oh, there's convergent evolution here, and I totally see that. But what if the convergent evolution is Ethereum is just eating these strategies and adopting them as their own strategy? What if Ethereum is taking the best of the app chain and rolling that out into layer twos? What if Ethereum is taking the best of everything Solana has to offer from an execution environment and rolling that in? I will say that's where my bets have been placed so far. I feel like that's the way the strategy has played out. The one thing that none of us have talked about yet, which is core to all of this, is the economic security. So David made the point earlier that all these layer one chains are actually competing for the big prize. They all want to be Rome, they all want to be the empire model, and the empire has to have a money, has to have a currency. That is the economic security for the entire structure of what we're building here. And so you have to have your asset as money. And this is why I sort of left cosmos in 2018 2019. I was like, where's the money? Adams is not going to be money. It's going to import its money from bitcoin. Okay? That doesn't help the security of your network. I look at Solana, and bankless has done some fantastic podcasts here lately, engaging with the Solana community a bit more. And I don't know what the path to money is for the sol token either. And so I can't get my head wrapped around, like, the idea of these other networks achieving moneyness and economic security at the base layer and for them to out compete, kind of the modular setup that Ethereum has put in place and bust me out of my bubble here, Mike, because that's part of the reason for, I think, this episode. Do you think that strategy is wrong, or where do you think I'm missing? What do you think I'm missing on this?"
+    },
+    {
+        "speaker": "A",
+        "text": "I'm glad you brought this up, and I want to return to the philosophy from which you come at it, because I actually want to articulate what I think my philosophy is in terms of crypto as well, in terms of different ecosystems. But I'm actually going to push back on you here, Ryan, and actually suggest that Ethereum is becoming more cosmos and Solana like than Cosmos and Solana are becoming Ethereum like. To illustrate this point, I'm going to show you a little slide I put together called Ethereum versus the invisible hand. And the invisible hand is a reference to the invisible hand of the market. And I want to lay out these two core decisions that Ethereum made very early in its design that I think are going to start to get walked back. So there's going to be a little controversial side. Please push back on me. One is solo staking based on the decentralization definition that bitcoin laid out, and the other is no delegated proof of stake. And the reason for the no delegated proof of stake model is both of them had extremely good reasons here. The no delegated proof of stake washing, because you could see from Cosmos, Ryan, as I'm sure you know, and David as well, is that delegated proof of stake tends to end up with a very top heavy validate stake, like the Pareto for how stake is distributed across different validators is very, very concentrated with the best ones. And that's a non desirable outcome, I would say so. I think that was the right decision."
+    },
+    {
+        "speaker": "B",
+        "text": "So the Cosmos model, just to describe that a little bit more, right. That's delegated proof of stake. And I remember in the early days of me staking in the cosmos network, there could only be 100 validators. They've since expanded that validator set. Only 100. And to your point, Mike, that was generally concentrated towards, like, the top five, the top ten validators in terms of stake weighting. So that's what you're talking about. That's the disadvantage of delegated proof of stake."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, that's exactly right. Because if you think about it from the perspective of someone who's about to delegate their stake, there's an in protocol mechanism for doing that. And you can see which validators have stake. And consider, if you don't know who these people are, it's very difficult to find the company or the person or the entity behind these validators. All you can see, the only proxy that you have for quality in this validator set is how much stake they currently have. So you very easily see, hey, I'm looking at 20 different options here. All the stake is with three validators. You're probably going to delegate it to the validators that have all the stake based on the assumption that those would be the best validators. I think there's good reason to suggest that that might not be the case. So that's the problem that's being worked on. Solo staking as well, is kind of this idea that users are going to validate the chain themselves. And I think that is something we can't lose in crypto. But I want to poke at how we get there and what the correct version of that ultimately ends up being, and I think to maybe be a little controversial. I think ethereum has a history of making very well intended, values based design decisions that the free market then ultimately ends up walking back for them. So I'm going to give you examples here of the solo staking and no delegated proof of stake. But on the solo staking side of things, what you ended up getting was, I should have done this actually sequentially. So just bear with me here. I'm just going to describe one, then go to the other. You get low performance, you got to keep long block times. You do not have high transaction throughput, all that kind of stuff. So you need something else which ends up being centralized builders. Now the builders are these off chain entities that run extremely. First of all, they have extremely expensive hardware setup. They have a lot of inventory. They manage that inventory. They build very optimized blocks. But we don't really like the fact that most blocks in Ethereum get built by about five entities. So instead what we ended up with is Pep C, which is Barnaby's suggestion. Not that this is definitely going to be implemented, but this is the way the thinking is moving and the outcome of Pepsi is increased complexity and cost for validators. Similarly, on the no delegated proof of stake, what we got was Lido. Now, liquid staking is actually an idea which originated in Cosmos, but first had product market fit in the in Ethereum. So Felix Lutch, the COO at course one was the original guy who wrote about liquid staking. He called them delegation vouchers back in either 2019 or 2020. But it didn't take off. It took off in Ethereum because a, there was a vibrant DeFi ecosystem, and B because there was no native delegated proof of stake. The consequence of liquid staking taking off in Ethereum is that eventually you're going to get lower staking yields. Because Ethereum, if you look at it today, it has the lowest stake rate of almost all the proof of stake chains. That's because it started as proof of work. But now that you have liquid staking and it's proof of stake, that stake rate is going up, up, up. Which means that yields are going down, down, down, because you need to split the same consensus level of rewards across a greater array of validators. It's not necessarily causal, but I think the result of that is going to be validators still need to be profitable. So what they're going to do is opt into re hypothecating their stake through Eigen layer. So they say, hey, I used to be getting 6% yield, now I'm only getting 3%. And by the way, people are working on execution layer rewards in the form of mev. So now maybe I'm only getting 2%. The treasury is at 6%. This doesn't make much sense unless I take on a little bit more risk or I accept a little bit more principle agent problem in the form of eigen layer. And I think the end result for both of those things is increased complexity and cost at the validator level. So that would be my pushback. That would be my pushback for you, Ryan, there. I actually think Ethereum is starting to look a little bit more cosmos and solana y and to just bookend this whole conversation. I've thought about this a lot. The perspective that I come at different blockchain ecosystems from IsdeV. I live in America. I think America is. I know what people hate when Americans say this. I think it's the best country in the world. I freaking. I love it, but I don't wish that it was the only country in the world. I'm really glad that there are other countries out there, and I think if everything became America, America would stop being America, and it would actually be much worse. So I think there is real, genuine, there's real, genuine value in having multiple different ecosystems with multiple different viewpoints. Variety is the spice of life, so to speak. And the other thing that I think about this from is just look at how we've solved this blockchain scalability problem. You know, in the beginning of each one of these ecosystems, you get a lot of groupthink, and I think that's kind of a feature, not a bug. It's the same thing as being in a startup. You really want everyone to be, like, totally aligned. You don't want everyone questioning every little thing, right? You want to be laser focused on solving one problem, everyone rowing in the same direction. And that's good for you to think like that, but you also probably want different ecosystems solving different parts of the problem. So I actually come at it from the perspective of, I think it's a good thing for, I want crypto to succeed. I want it overall to have a diversity of thought. Probably the best way to organize that diversity of thought is in different ecosystems, and that's the perspective that I ultimately come at it from."
+    },
+    {
+        "speaker": "C",
+        "text": "I really like this articulation of Ethereum versus the invisible hand. And I think in addition to the blockchain trilemma spectrums that we have articulated, I think there's another one that's actually closer to being in the background, just the contextual behind all of these ecosystems that I actually haven't heard many ecosystems articulate. But it's been something that I've been thinking about more and more, more lately, which is what does the respective ecosystem want to consider as like state sponsored infrastructure versus left up to the free market? And I think the Ethereum philosophy has been to minimize the amount of actual utility and features that we bake into the protocol. And if we can, then we will let the application layer or the private market build that solution on top of Ethereum, because that is what the beauty of smart contracts allows you to do. So we're going to build solo staking, even though you know that eventually Lida will show up, we're going to reduce the burden of validators, even though Eigen layer is going to eventually come. And it's the philosophy of Ethereum, and I think a lot of, there's a lot of just like research and development from the Ethereum foundation side of things to go and research solutions that they know might never actually be deployed because they never actually are required to do that to save the protocol. Because the way that the free market expresses itself on top of Ethereum is aligned and uncorrupting. But then if there is something like a centralized builder, then we need to deploy proposer builder separation as an antitrust mechanism to make sure that the free market doesn't corrupt deeper than the layer that it is experimenting with. And I think you see this also. I see this a lot in Solana, where you have infrastructure like Solana pay developed by this. Is it the Solana foundation or maybe Solana Labs? I don't know, but it feels like closer to here's state sponsored infrastructure that the organization itself is building. And this is the thing that we are going to build and that's closer to the app layer. I think that another dynamic just to, just to summarize my point is that there's a. There are things that you are saying that he or the market is going to build eventually. Do you want that build built by, you know, the EF or the Solana foundation or. I don't know what the equivalent is in cosmos, or do you want that left up to the free market? And when the free market ultimately does build that, how do you contend with that variable? That's my interpretation so far."
+    },
+    {
+        "speaker": "A",
+        "text": "Such a good question. I. I don't have a great answer for you. I think you're starting to get at the metal of just how people interact with one another, and it's always going to be a very difficult, thorny problem. I don't really have many notes for how the Ethereum foundation conducts itself. I think it does a really good job of focusing on the core things that Ethereum needs in order to just be technically feasible and successful. I think it does a really good job of not meddling or tipping the scales in anyone's favor. I don't know how it could do, and I agree with the overall ethos of allowing things to happen outside of the protocol, but once there's some sort of perceived either threat or vulnerability, then they take action. And, yeah, I don't have any notes for that. I kind of think it's very similarly to how the US developed, actually, the US developed articles of Confederation. Right. I was super loose, and there were however many states there were at that point, then everyone said, well, actually, we need a little bit more coordination than this. This is not enough."
+    },
+    {
+        "speaker": "C",
+        "text": "We need an army colonies."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, we need 13 constitutions."
+    },
+    {
+        "speaker": "A",
+        "text": "We got to do better than this, fellas, that we came up with the constitution. But then you start to run into financial crises and you say, maybe like a national bank would be a good idea, right? Like something to organize the finances of these colonies. And I think very similarly, that's how things are playing out in Ethereum land. And I think it's the right thing to do. I also think. Cause one of. But the downside of that is that things move more slowly. This is the trade off between different styles of governance. And when something happens in Ethereum, it's like, well, we should release like ten research papers and yada yada. Cosmos has this advantage, actually of securing less stake, where they can just take a shot and just make decisions and be opinionated. It's a little bit refreshing sometimes where. Here's a great example, the lido self limiting debate. Should it be 30%? Should we limit the yada yada? So something called the liquid staking module just came out in cosmos. They're like, yeah, we're capping it at 20%. Going to try that, see how it goes. It just. And the reason that they can do that is because it's more heterogeneous in terms of the block spacing communities and because the stakes are a little bit lower for the time being. But it, you know, I kind of like it. I kind of like that approach as well. So, and they've also really leaned into governance, which I think the roll ups on Ethereum are going to need to do over time."
+    },
+    {
+        "speaker": "B",
+        "text": "So let me reply to some of this, because I think it's very interesting. The way you lay it out is very good. First, let me just say one point that you made earlier is plus one on multiple experiments. I totally think that's fantastic. We should try all routes to lead us to the promised land of what we're trying to create in crypto, which is a permissionless, open digital property rights system. So it's fantastic that we don't just have the United States experiment, we have all of these other countries and experiments, and that's a big plus one for me. And still, and yet the role as well of investors and for us, even if you're an entrepreneur, you're trying to figure out what ecosystem do I invest in? You got to try to see the future and see how this stuff will play out. So I do think, even though it's great that these experiments are playing out, it's important to try to figure out, do our best, where the puck is kind of going here. And I guess I have a few thoughts on what you're presenting here is Ethereum versus the invisible hand. So the invisible hand is something that we've talked about a lot at bankless. We call the invisible hand Moloch. It's basically like this continuation of threat, of centralization that invades all decentralized systems. So if you're kind of the Constitution and what you're doing, the project, the experiment of America, is you're trying to create a corruption resistant protocol that can withstand incredible malachian pressures, centralization, power like pressures, corruption pressures. And so you have to embed this idea and see how long it can last, this idea of separation of powers, right? So we have three branches of governments and all of these things, right, to try to separate our powers and all sorts of rules in the constitution embedded to try to preserve this union from corruption, the centralizing forces that are continuously going to be attacking it. So I agree with you that sometimes the Ethereum community and their culture is a bunch of starry eyed dreamers that is overly pragmatic and sometimes unicorns and rainbows. Yeah, unicorns and rainbows. And like, wouldn't it be great with everyone solo staked and nobody staked with lido and like, the world was amazing. And just all you have to do is go through these like 50 steps to try to run your validator at home. And like, it'll take hours out of your, it's not that bad, but you know what I'm saying? It's, sometimes Ethereum doesn't quite get the pragmatism of like, there's an open market that's going to like push against what you're trying to do in your protocol design. Okay, so I get that. I get that. And yet, and yet the Ethereum community still tries. And I think the reason it still tries is, and I'll get to two points here. One is because decentralization is everything, okay? You can build, you can build something centralized on top of something decentralized, but you can't build something decentralized on top of something that's centralized. Like, that's just a law of kind of, of nature, right? And so the one thing you can't compromise on to the best of your ability is that decentralization, the ability for solo stakers to actually validate and participate individual participants. So that's the one thing that you need to prioritize. And then you try to work within the boundaries of that. And I do think there's actually hope on that, though, Mike, which is this ace in the sleeve that Ethereum has deployed to great effect. That's actually surprised me in a pleasant way. And that ace in the sleeve is cryptography. It's crypto economic mechanism design. Okay, so example of Ethereum mainnet won't scale. And so bitcoiners are like, you're never going to scale. It's just bitcoin. That's it. And so they are content with kind of like limiting the transactions per second on bitcoin and offloading that to all of these crypto bank side chains. And so we get blockfi and we get like large institutions, we know where that leads, right? Ethereum instead was able to scale using a crypto economic design, which is roll ups, fraud proofs. And then we got this miracle, this miracle called zero knowledge proofs, ZK snarks, that whole tech stack, and now we can scale using cryptography. These are some of the breakthroughs that I think Ethereum is banking on and has actually paid off. Even when you look at Ethereum's roadmap. Yes, there's problems of more state going into a lido, for instance, not consolidating or more centralization of the builder process. But then you have these mechanism designs and changes that are put in place to keep that at bay, we get into the ability to run a validator on your phone. Okay, what do we need all of the ingredients that we need for Ethereum to be able to do that? Well, we need some sort of, like, client state kind of mechanism in place. We need to make sure that we kind of separate all the builders and keep that as a separate function. There's all sorts of designs that need to go into that, but that's what the Ethereum roadmap is betting on, and it seems like that's the best bet. And the reason is because if we lose this element of decentralization, I feel like we lose everything that actually makes crypto important, special, that gives it value, that enables it to create kind of a monetary instrument at the base layer and accrue those network effects. Yeah. So what's your response to that? I guess what I'm kind of saying is the invisible hand is known. And so Ethereum's way of dealing with that invisible hand is through breakthroughs in cryptography and kind of research. And we've actually seen some of that bear out. And it's gone well so far. Not to say that this is science sealed and delivered, the story is over, we're done. But, like, it's worked so far. What do you think about this?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I don't have a great answer for you on the Moloch thing. It's something I've thought quite a bit about. I sometimes wonder if we're waiting for an Overton window to shift in crypto, and the risk is that we're actually all just way too early, in a sense. I mean, like a great example of this. If you've ever tried to explain the value of bitcoin to someone who's a real normie, I mean, you might as well be speaking a different language, right? I mean, the threat of people, it's very difficult to even explain something very. I think Josh Rosenthal does the great, great example of this. Digital property rights, non sovereign money. These are things that I feel like, with the benefit of hindsight, will be very obvious, but they're not now. And I do wonder and worry a little bit sometimes if we're waiting for an Overton window to shift in society, to care about what we're building, I care about it. So I'm happy to be here. But I do sometimes wonder if we're waiting a little bit for that. So I don't have a great answer for the mullet question, Ryan, other than to say I'll just repeat what I said about the Ethereum foundation. I think it's great that people care about this and are striving, and I genuinely trust with each of these ecosystems that everyone believes in these values. They have slightly different vibes. We've talked about. If I had to define the culture of each one of these ecosystems, I think Ethereum, you put it best, right? It's probably starry eyed dreamer a little bit. I would say the Solanans are the pragmatists. I think they're very pragmatic group, maybe a little bit more engineering focused than Ethereum's academia. And I think cosmos are the tinkerers. They're the ones who are the nights and weekends of into all this weird stuff like intense. And then two years later, everyone's talking about intense. Shout out. Chris goes. So I think there are these different perspectives that I just want to see continuously represented. And I do want to poke though a little bit at this solo validator. Here's a great. So I think each one, again, I think every one of these ecosystems cares about solo validators. But again, the specific definition matters. So what I think a Solana would say is we care about solo validating. Our thesis is that hardware is eventually going to scale to such a degree that it's going to be trivial to validate the network at a much lower computer cost. Similarly to how you look at the IBM mainframes in the 1980s, and you're like a huge room like this, and now you have twice the amount of power on your iPhone. So I think a Solanan, who's a little more pragmatic, would say, we care about this, too. We're just waiting for the hardware to scale."
+    },
+    {
+        "speaker": "B",
+        "text": "Let's just ask on that point, because there's something I don't understand about that argument, which I've heard many times. That's the Moore's law type of argument. Doesn't that apply equally to all chains? It does, yeah, it does. Right. But also the other thing that also kind of scales is also demand for that block space. And so you'd have Moore's law, which basically lowers the validator requirements, but you'd also have this increase in actual validated requirements because you're putting more transactions per second on the blockchain. So does that kind of balance itself out? That's an argument I've actually not understood up to this point. Maybe you could shed some light on it."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, the design that I think everyone is going to largely get to is, I think Cosmos has the right. Take on this, which is that there are going to be validator full nodes, and then there are light clients, and light clients will be the thing that users end up running, and that's another convergent. So, Solana is this is going to be the biggest challenge for them. They've got fire dancer, but they're also building something called tiny dancer as well. So that's going to be their sort of equivalent of a light client. The cosmos already has, like, clients and full nodes. ETh has it as well, I think. And to your point, Ryan, the only pushback that I would have about decentralization is that you can have a broader version of what decentralization outside of just solo stakers running full nodes. For instance, if we just said, look, eventually we have to figure out a way for this stuff to become more performant. We want people using it. A light client that is validated by many, many different users on their cell phone, even though it's not as good as everyone, running a full node is like an acceptable compromise, I would say. And I think Celestia, I should have included Celestia here as well. They are driving towards that same future as well, the light mode."
+    },
+    {
+        "speaker": "B",
+        "text": "I agree. It's interesting. These communities all have sort of slightly different definitions of decentralization. One thing that's often repeated to me from the cosmos community, which is basically like cosmos, is more decentralized because it doesn't just have one empire token called Eth. So you don't like the cosmos hub, you don't like atoms. Spin up your own. Go create your own. That's decentralization to us. You can always just spin up a new. A new app chain, and you don't have to be under the burden of this ethereum economic model. You can spin up your own token. I do see these different definitions of decentralization. I'm just trying to put the pieces together. The problem with that definition of decentralization for cosmos is, all right, cool, but you're fragmenting your liquidity here. Now, you don't have an economic shield that spans across your entire network. So you are right. There are different definitions of decentralization, and there are different trade offs. It's a matter of trying to figure out which are the right set of trade offs that actually create the strongest, most censorship resistant network that can be the underpinnings of a global property rights system. That's the main question we're all trying to answer here."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So this is where I feel no longer able to speak for each ecosystem. I think Solana probably has a different version. I've heard Anatoly say that he doesn't consider Solana money. And to your point, Ryan, I think there's maybe just a different future vision for this stuff. And this is where I don't feel qualified to just speak unilaterally, the vision of each one of these ecosystems. But I would bet that each one of these ecosystems have a slightly different version of the future. And that's what I was going to say. The cosmos perspective would be. There's no single one unifying thing. So you have the freedom. Right? It's a. The way that this was best articulated to me is that cosmos is a framework. It's an idea. Like Batman. It can live on across many different ecosystems. And maybe you're okay with that, and if you're a real believer and you just want to see the world improve, then that's good enough. You know, I don't. I don't know. But I do think in terms of Ethereum's vision for the future, wanting to be a store value form of collateral, I think it's the best suited to be doing what it's trying to do. Yeah, I'm in agreement with you on that."
+    },
+    {
+        "speaker": "C",
+        "text": "As we talk about these conversations, the convergent evolution of all of these ecosystems, this conversation started off with the three different points in the triangle. Each cosmos, Solana, Ethereum, all pick a point and then try to expand to the rest. I don't think we should consider that when in the fullness of time, when all of these ecosystems do each simulation of the universe, where each ecosystem wins and does its job, maybe not wins, but just like completes its own vision of completing the rest of the trilemma. Actually, I think the point that you incept at actually defines, even in the fullness of time, even in the full completing the spectrum, you still are defined by the choice that you made when you enter the game. And this is just a matter of just the architecture, the technical architecture of if you optimize for decentralization first and then you go through the gamut, you go through the maze of how to get the rest of the spectrum. The choice that you made to enter at the decentralization spectrum will still ultimately dictate how you complete the rest of the spectrum. And so while we're all trying to converge at the same point, there are still differences where these final visions are differing for each other. And that's true on a technical level. I also think it's true on a social level, too, because where you start and how you express your values and the reasonings for why you chose the place that you chose will attract a certain community. And that's, I think, why, Mike, you were able to, like, give the archetypes of these three different. Three different ecosystems. Cosmos, the tinkerers, Solana, the engineering pragmatists, and then Ethereum, the academic starite dreamers. And so while we're all trying to learn and figure out what this fullness of the spectrum is, ultimately, the inception point, I think, will still be the way to the lens to view these specific ecosystems, because that is the place that they prioritize first and foremost. How do you think about that?"
+    },
+    {
+        "speaker": "A",
+        "text": "I'm not actually sure about that. I'm not sure if I even have an intelligent opinion. I think the world is a really interesting, very fast evolving place. This could be a totally different landscape in 20 years than it is today. And I actually am not 100% sure if the inception point defines you. I do think culture matters a lot. Culture is the one thing in a company you can't rip out. It kind of originates with the founders, really. And there are all these stories in corporate lore of, you can rip the whole company out, you can change every individual person, but the culture still stays. And I find that comforting, because I do think that at least of the three ecosystems that we're talking about, I think there's a lot of value to each one of these archetypes and that culture that's been set up, and I think it's quite good. And. Yeah, that's what I'd say about it."
+    },
+    {
+        "speaker": "B",
+        "text": "Can I ask you a question about sort of power laws here, Mike? Do you think that there's one sort of power law winner, right? Or do you think there are many. The analogy of countries, obviously, there are many more countries than the US than just one. And these are all different networks. There are probably, I don't know, three or four different economic spheres of influence across the world. Maybe there are three defense, military spheres of influence, that sort of thing. I'm wondering what you think about there are these three strategies. Do you think one will win from a power law perspective? I go back to kind of like, there's only one homo sapien on earth, right? And yet what's interesting is, and so we have been, we are humans, we are product of this power law win that we have kind of dominated over all of our ancestors. If you look at, there are no neanderthals. They're gone. And yet we have four to 6% of neanderthal DNA inside of homo sapiens. So, you know, somehow we ate that other species and it became part of us. It was a major power law win. How do you think this shapes up from a win perspective across these networks? Is there one winning strategy, or do you think that all of these are equal? A third, a third, a third type thing?"
+    },
+    {
+        "speaker": "A",
+        "text": "I don't think it's a third, a third, a third. I think actually there will probably, if you made me really guess at the market structure that I think makes sense is I bet there end up being about four to five layer ones that we end up with in an end state. I think the definition of layer one might evolve over time. I don't think each one of those will consider themselves a money. I just. I think they'll have different definitions of what they're trying to do. And I think even the definition of where different applications sit will start to become more confusing. And I'll give you an example of what I mean by that. So let's just say right now, Uniswap is an ethereum application, right? Dap on Ethereum. And everyone knows it's part of the Ethereum ecosystem, et cetera. But let's just say that with the birth of the modular ecosystem, that you have an application that uses the Solana at the SVM, the execution environment, that maybe they need parallelization or something like that. They want to save on data availability costs for whatever reason. This application, we don't think we need all the Ethereum validators. We don't want to pay all of them. We're going to route this through Celestia, and then for settlement and consensus, they end up going back to the Ethereum network as an application. Maybe it even uses tendermint for consensus. What is that chain? Where does that chain belong? I think even the definition of what we're talking about is going to be harder to even slot where these chains to define what ecosystem it belongs to."
+    },
+    {
+        "speaker": "C",
+        "text": "Honestly, I think that will spark the imagination of everyone in the audience here. Mike, let's move on, unless you have anything else you want to add to this particular conversation. I think we ended up in an end state of the conversation, but we still have two more slides to get to and two more conversations to have. Let's move on to the next one, which is the world of Ethereum. Roll apps versus Cosmos app chains. How do you think about this dynamic? There's a tension here that I think is definitely felt by all the people who pay attention to both, where with very similar visions, one wants to become the other. What are the differences here, and how should we navigate this?"
+    },
+    {
+        "speaker": "A",
+        "text": "So I think, again, these things exist on a little bit of a spectrum. So what I've outlined here is a slide where there's a spectrum of Cosmos app chains on one side, sovereign roll ups in the middle. And I actually just said the op super chain, because I think they got the architecture. They're the one I'm most familiar with, and I think I like their architecture quite a bit in terms of what they've done. And if I had to articulate the different bets here, these exist on a spectrum of customization and value capture that you have over your block space. And there are different trade offs. So I've sort of scored the Cosmos app chain and the op super chain. And to be honest, sovereign roll ups are very new, and I am not 100% sure what some of these trade offs are going to be. So I put a big question mark. But in general, in Cosmos app chains, you have 100% granular control over your block space, and you have 100% granular control over your economics. So today, what that looks like is you have control over the full stack. And there are some things that you can do on Cosmos app chains that you cannot do on an Ethereum roll up app chain. But what you lack is distribution. And today, it's much cheaper and easier to spin up something on the op super chain than it would be on a Cosmos app chain. What you surrender is customizability on the op super chain. So, because now there's the law of chains and there's some governing body which says, hey, these are the rough standards that you need to adhere to. What they're making a bet on is more homogenized block space. So you surrender a little bit of control, but what you get is distribution. You get low cost. And I think, for the time being, that's going to be a very good strategy and a very difficult one to beat. But the bull case for Cosmos over a long period of time would be what we aren't seeing right now is that there's a sequencing effect. So let's just talk about the life of an app, right? Maybe you start as adapt on Eth main chain, then you go to layer two, and maybe you get your own roll up because you have more customizability over your block space. But then let's say you hit it out of the park. Let's say I forget the 100,000 users today or the 200 that friendtech has. That's our number one app, whatever. But you get millions of users. Millions. And let's say, then in that instance, you are the one app in your super chain that has product market fit. You might look around then and say, I think I'm delivering most of the value here. You know, I know the other chains that are in my super chain are getting a lot of value, but what am I getting for being a part of this chain? This is a classic bundling problem."
+    },
+    {
+        "speaker": "C",
+        "text": "And I think a re articulation problem is like, California is like 20."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, my God. I was going to say that."
+    },
+    {
+        "speaker": "C",
+        "text": "And California, and also in the world of crypto, there are no armies pointing guns at California to keep California part of the United States. So California is free to just become its own app chain in this world of crypto economics."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Not to get political, but they're talking about secession. They're talking about it. So is Texas. I know Texas is God talking about different reasons. Yeah, but, but, yeah, it's. So I think that's the, what you might see is more app chains after they achieve product market fit, which, God willing, we get either in this cycle or the next one, you might see more of them migrate over to cosmos. Now Cosmos has to figure out how they're going to get that to benefit Cosmos even. But it's funny. I mean, like, look at. Look at the two. Some of the two most recent successes for the op stack in Cosmos. Dydx, biggest, most used app on Ethereum, goes over to Cosmos. But you got Antonio on Twitter saying, I don't want to be associated with Cosmos and I just want to be dy DX. A win, but a symbolic win, maybe. For now. Hard to tie economics to that base on being a part of the super chain or using the op stack. This is great. It's awesome. Look at bases. Optimism has crushed it. Real revenues, though, are those getting back to optimism? They're not. I think both of those."
+    },
+    {
+        "speaker": "C",
+        "text": "Hold on. 15% of base sequencer revenues goes to the op collective."
+    },
+    {
+        "speaker": "A",
+        "text": "I didn't realize that, actually 15%."
+    },
+    {
+        "speaker": "B",
+        "text": "But Mike's point, though, is for now, right, if base or a successor to base becomes so big, it's like looking at all of its other chains and it's saying, I'm not going to call any states out like Alabama or Louisiana or low gdp. Sorry, low gdp states."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm not going to call them out."
+    },
+    {
+        "speaker": "B",
+        "text": "But you're the base."
+    },
+    {
+        "speaker": "C",
+        "text": "But here are the names."
+    },
+    {
+        "speaker": "B",
+        "text": "And they might be looking around and they might be like, well, why am I paying 15%? I'm delivering like 70% of the GDP in this little economic zone. So how to reduce my tax rate. And they might have, to Mike's point, the."
+    },
+    {
+        "speaker": "C",
+        "text": "The power to do that and the."
+    },
+    {
+        "speaker": "B",
+        "text": "Way to do that."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think it's a pretty simple trade off for now. And that you have, in a Cosmos app chain, you have 100% block space control. You've got great interoperability in the form of IBC, and you've got great value capture. What sucks, and these are big sucks, is the cost in terms of, a, actually the complexity of recruiting a network of validators, but b, paying them inflation, and then c, distribution. You have no distribution. This is the thing that cosmos, I think, needs to fix the most. And it's an inversion over on the op super chain where you don't have as much block space control if you want to be part of the super chain. Interop is TBD. I put that as TBD. But they'll figure that out. Value capture is a little murkier. You got good value capture. Not as good as it would be if you had your own set of validators. Cost much cheaper distribution. That should have been a ten, a very good distribution. So I think those are. I think that's how I see the trade off. The trade off today."
+    },
+    {
+        "speaker": "B",
+        "text": "I see that. One thing I'll say, though, that cosmos doesn't have in the app chain is money. It doesn't have money. So the thing. The thing I get so fixated on, I think, actually, you know what I. This is what I kind of the path I went down in 2018, 2019, I was like, it's actually all about money."
+    },
+    {
+        "speaker": "C",
+        "text": "Like, this all about money."
+    },
+    {
+        "speaker": "B",
+        "text": "Yo, the bitcoin hurts. Are right. They're right. It's all about money."
+    },
+    {
+        "speaker": "C",
+        "text": "Bitcoiners are totally right in ideology. They just f'ed up on execution."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, but. And what I mean by is, like, yes, you can have ether on Cosmos, but it has to be, like, bridged or wrapped, or there's some sort of, like, trusted intermediary where the promise of layer twos is you have a trustless bridge. Again, there could be smart contract code type issues with that bridge, but it's, for all intents and purposes, a trustless bridge. And you can actually have a crypto native money without any third party security holes inside of a base, for example. And you can't get that on Cosmos, at least not right now. Maybe there's some ZK bridge tech that I don't know about, but, yeah, we don't have the money in the cosmos ecosystem."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think, again, I'll just articulate. I think that's something that cosmos needs to solve, eventually they need to find. I mean, at some point, all analogies are sort of broken. I think the thing that is actually the best shot at being a gold type money is still bitcoin. But what ethereum I've started to look at is I kind of view it as like, the bond market I've started. The Internet bond meme has resonated with me and its use as collateral resonates with me. And even if you start, like, no need to go too far into the macro here, but economists, there's m one, m two, m three. There are different types of money for different types of entities and people. There's bank money, there's asset manager money, and then there's people money. And so I think money actually, ironically paints everything with a broad brush. Ethereum has done a wonderful job of making ether a great form of collateral within its trust zone, sort of economic zone. The question is going to be how that gets exported to other economic zones. So the bridges are probably only going to work within the Ethereum trust zone. So these bridges in between Ethereum and rollups, for instance. But here's an interesting example of exporting. Have you guys heard of Babylon, the project? So Babylon exports bitcoin's security, in a sense, to cosmos. Now, a big problem in cosmos is the unbonding period that you have there just because of how their consensus works. What Babylon has found a way to do is to. Bitcoin very securely generates a block around every, I think it's ten minutes or something like that. You can actually view it as one of the big properties of bitcoin, block spaces being a very secure sort of clock. What they found a way to do is export that property to the cosmos to make their own consensus more secure. So what they're doing is they're exporting. It's a weird concept, but they're exporting a property of their block space that is extremely attractive to cosmos, that it lacks. Now, they're not actually exporting the physical lowercase bitcoin into the cosmos ecosystem, but they're exporting a property of their block space that's attractive."
+    },
+    {
+        "speaker": "C",
+        "text": "They're using bitcoin to sink cosmos."
+    },
+    {
+        "speaker": "A",
+        "text": "Right? So weird futures, Ryan, like, weird, weird futures. Wherever there's the two way, the trust minimized bridge of actually exporting the asset. But you could export properties of the blockchain that are attractive to other blockchains that aren't as strong on that property and that, I don't know how value."
+    },
+    {
+        "speaker": "B",
+        "text": "You have the sovereign roll ups in the center here and a big question mark here that is one of those new models I still haven't wrapped my head around. I don't know what a sovereign roll up fully is yet. Does that, does any, what is a sovereign roll up?"
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, a big part of it is the lack of they don't have a two way, trust minimized bridge. But one of the things about a, something I've been wondering about for the roll ups, maybe you guys, I'd be curious what you guys think about this is eventually, are roll ups their own entities or are they, are they scaling ethereum in a future where there are multiple different layer ones? Let's say that we all like and think are good and the transaction should be able to settle to. Is optimism continuing to only do Ethereum? They've aligned with Ethereum right now, but do they eventually allow you to settle transactions to other blockchains? Because some of these sovereign roll ups, like sovereign labs, is one that I like a lot. And their perspective is that the world is not going to continue to play out like that. Distribution is going to not. It's going to be more at the app layer and they'll allow users to route their transactions to a specific place. But for the time being, it seems like the alignment, you get distribution and that's an extremely good strategy. So I hate to give you a non answer here, but it's murky. I don't know how that's going to ultimately end up playing out."
+    },
+    {
+        "speaker": "C",
+        "text": "Is this downstream of this conversation that John Charmano injected into the sphere with his whole roll ups aren't real article, which kinda. Yeah, yeah, it was great. Yeah. The TLDR of this article was that, well, from the perspective of the roll up, if you listener take your brain and put it inside of the agency of a roll up. So if you are optimism, if you are arbitrum, what is your relationship to Ethereum? And I think that the TL doctor of that exploration was that, well, it's social consensus all the way down. It's up to the community of that roll up, which is starting to feel a little, making it make that roll up feel a little bit more like an app change."
+    },
+    {
+        "speaker": "B",
+        "text": "And the reason why, David, is because you can, like if you want yourself, you can fork out the trusted bridge and swap it out for, you know, a trusted bridge somewhere else."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, yeah. You, the roll up can, you know, uproot yourself from Ethereum and plant yourself into celestia if you so choose."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "C",
+        "text": "And I think what the mike, that Mike's asking this question like all right, what does optimism want? Ethereum. Like, what, what does it want to be? And I think that is a question that every single roll up has to answer for themselves, because now we're talking about the Cosmos app chain vision. I can tell you that optimism specifically is like, if they uproot themselves from Ethereum, they'll be the last ship to leave the layer one."
+    },
+    {
+        "speaker": "B",
+        "text": "That's social, right?"
+    },
+    {
+        "speaker": "C",
+        "text": "That's very social. That's because you can't necessarily optimism.org spawn directly downstream of Ethereum themselves. Like, other less aligned Ethereum roll ups would be quicker to uproot themselves and to be more cosmos like, yo, that's."
+    },
+    {
+        "speaker": "B",
+        "text": "Why your layer one has to be a money, so you have the economic power so that your roll up stone uproot."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So if you uproot yourself without money at the ether distribution. Yeah, this is really, really interesting, Mike."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I don't know. I totally take the point that there could be all sorts of new blockchain and app designs in the future that our current minds are too limited to sort of understand and model out in analogies here. And that could be a. A flaw of my thesis and kind of like the general banking bankless thesis so far, for sure."
+    },
+    {
+        "speaker": "A",
+        "text": "I would love to see. I think this conversation is playing out. The big question, and maybe this will segue into the MEV conversation, is what is the model for sequencers going to look like on these different roll ups? I think that is the big question, because right now, all of these different roll ups have a single sequencer. And I think for the time being, that's okay, because just like anything else in crypto, all these ecosystems, they start very centralized. Bitcoin, Ethereum, Solana, Cosmos, and then they kind of have these training wheels, and then they get off them over time. And I think all of the roll ups today have their training wheels on, and the contracts are still upgradable. They're controlled by a multisig in many instances. So that's okay for now because there's. That's the whole point of training wheels, and there's going to be work to be done there. But the big question is, which rollups are okay with having a single sequencer versus which ones want their own set of decentralized sequencers, and then which ones have their own, a set of shared sequencers that sequences across many different rollups? And again, this is another thing I."
+    },
+    {
+        "speaker": "B",
+        "text": "Haven'T been able to figure out. And you've been on the frontier of this more so than me, Mike. So I'm just wondering. It's like what incentive does any roll up sequencer have to actually give up that power? And then what incentive does their dao have and their token holders essentially to allow them to. Why would arbitrum ever give up that source of revenue, which is basically their source of mev? Why would optimism."
+    },
+    {
+        "speaker": "C",
+        "text": "Isn't that why they're here?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, isn't that why they're here? And isn't that, by the way, what if you decentralize it? It's a decision of the community. Well, I'm a token holder in that community. No way I'm going to vote to let my tax money go to somewhere else. I want it, don't I?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think it depends. Regulation might be a factor here, especially if you're maybe a chain like base, something like that. The other thing I think is it depends on the application that you're doing. And there'll probably be a spectrum of roll ups or roll ups that have more decentralized sequencer sets because similar value prop to Ethereum is, hey, I don't actually want to risk this central point of failure of one single sequencer having a monopoly over ordering up the block space and extracting mev. I'm not actually comfortable with that. That doesn't feel like a long term arrangement. I'd much prefer it if there was some sort of rotation mechanism for different sequencers that look kind of like consensus on the layer one. The challenge with that. So I think there will be applications that only want to build on more decentralized roll ups and actually the force inclusion to layer one. I think rollups need to do a little bit more work on that. I'm the least technical user on the face of the planet. This would be if my roll up crashed and they were like, you can force include the transaction to layer one. I'd be like, it's gone, give me the button. It's gone. I need the button. But more seriously also, people really approach that from the perspective of a user. And hey, I can port my assets down to the layer one. What if I'm building a business on that roll up? What if I'm an entrepreneur and I'm selecting which roll up I want to invest the next five years of my life on building a business? Maybe I would consider one single centralized sequencer as a point of failure as opposed to a roll up that had five and some sort of leader rotation mechanism and answer for Sybil resistance or something like that. So I do think approaching it from the perspective of the Dapp developers and the builders will be important as well, and it just remains to be seen if they actually care about that. But those would be the reasons Ryan and I do think rollups are going to need to find a way of value accrual, and the sequencer is the best way to do that, I think."
+    },
+    {
+        "speaker": "C",
+        "text": "We've been exploring, Mike, the super chain. We just did a super chain episode with Ben Jones and Jesse from base. This is something that we've been exploring recently, and I want to check a conclusion that I've made with you. We have the op stack optimism SDK, and that is going to become the super chain. You have arbitrum orbits for Arbitrum's world. We have the ZK stack for Zksync's hyperchains. You have polygon supernets. You can only imagine that scroll and Tycho are also going to produce these things. Then we have each of these SDKs. The goal here is to let 10,000 chains blossom out of the Ethereum layer one. And now we have all of these different SDKs to allow each one of these things to happen. And so you would. You would call this thing. It's a super chain. It's the optimism super chain. But that's actually not where the boundary is on this optimism country that's spawning out of Ethereum. The boundary is the sequencer. The sequencers define what the boundary is. This is my conclusion is that. Is that."
+    },
+    {
+        "speaker": "B",
+        "text": "Wait, what do you mean? I don't even know what you mean yet, David. Why is the sequencer defined the boundary?"
+    },
+    {
+        "speaker": "C",
+        "text": "So the sequencer is we have all of these 10,000 optimism op stack chains that are all agreeing to the standards of the op stack block space. The law of chains."
+    },
+    {
+        "speaker": "B",
+        "text": "Got it."
+    },
+    {
+        "speaker": "C",
+        "text": "But it's the sequencer of the super chain that orders the transactions and also keeps out other transactions or includes them. So there is a world where a shared sequencer does a handshake between. Could you imagine optimism and arbitrum, where a shared sequencer is spanning the transactions between both of these economic zones, and all of a sudden, we have independent economic zones, but a sequencer that spans these two economic zones and settles transactions between these two chains, these two ecosystems, before settling down to the Ethereum layer one. All of a sudden, the arbitrum and optimism super chains are also this sharing an economic zone because of shared sequencing between these two things. And so while we have, like, the names, optimism super chain is actually the sequencer that defines what the border is and who can cross the border and how they and how they are allowed to cross the border and under what conditions is this right, Mike?"
+    },
+    {
+        "speaker": "A",
+        "text": "So I think of sequencers, the important thing to remember is that they are a dumb pipe. They're not stateful, they're not actually aware. Part of the reason why people get really interested in this concept of a shared sequencer is this domain of this honey pot of cross domain MeV. That's what people get really, really pumped about, I think. Got to give credit to Sam Hart, who wrote the Atom 2.0 white paper, who pioneered this idea of the scheduler and the out of the scheduler, right, which is this idea of, hey, we've got a whole bunch of different chains over on, in Cosmos land, and wouldn't it be great if there was one central place where looks kind of like intents, you aggregated all of that in one spot and you could extract Mev from. The only challenge with that is that sequencers are not aware of what the state actually means, they just sequence, and then you actually need a large centralized builder to execute on that. So there would be, again, a little bit of a compromise there. But I do have questions about what MEV is going to look like on these chains is a really good example of how I think there's going to be a lot of MeV. Ethereum has done a, an extremely good job of building up, I think, very robust answers to the MEV problem on main chain. So a lot of talk about EPBs or proposer builder separation flashbots is the first instantion of this, but eventually it's going to get enshrined in the protocol. We haven't built that same layer of infrastructure for any of these roll ups yet, so there's probably going to be a, a lot of MEV that gets extracted that way. But in terms of, I think what a lot of people think about cross domain MeV is, hey David, wouldn't it be great if there's a Dex on Polygon, or like, let's just say on arbitrum's Dex and optimism's Dex, and they don't say exactly the same thing. So you could arb that transaction out and extract some mev. The problem with that is that there's one chain that really rules them all in terms of price discovery, and it's binance. So the much more likely thing that ends up happening, this is what happens today, is if you, if you almost consider like, this is what price movement is doing on binance, and it's updating on a twelve second basis, or not like a microsecond basis, ethereum has twelve second block times that are much slower. So that dot might be the same at the end of the twelve second block time, or it might have moved all the way up here. And because all the price discovery happens on binance, people assume that this is the accurate price. So really what everyone's going to do, instead of arbing between the optimism and the arbitrum decks, optimism is going to be armed between binance and arbitrum is going to be arbitrain binance. And so this cross domain mev, I think is a little bit murkier in terms of what the actual opportunity means."
+    },
+    {
+        "speaker": "B",
+        "text": "At least from my perspective. Whoever has the liquidity becomes the source of truth, don't they?"
+    },
+    {
+        "speaker": "A",
+        "text": "For price discovery, I think it would be a very noble, we got to get price discovery to happen on chain. I really think that would be a very good thing for the industry. I would be pumped if someone figured."
+    },
+    {
+        "speaker": "B",
+        "text": "Out, I hope we're moving that direction. I mean, last month, 40% of all exchange trades in crypto were on Dexus. This is what Vance Spencer recently told us. I haven't looked up the stat, but I'm depending on that. So I'm wondering, Mike, where's the answer to Mev value accrual? So who gets the meV? We talked about the sequencers. We talked about maybe roll up token holders. There are these other participants we've mentioned. How do you think that plays out in its final form?"
+    },
+    {
+        "speaker": "A",
+        "text": "I've been liking the John Charbonneau definition of proof of governance for roll ups, and I think you're probably going to see the last challenge that I'll say about a sequencer set is if you have rotating sequencers, which have a monopoly on creating individual blocks, you need a form of Sybil resistance, which is what proof of stake is on the layer one. So you would need to implement something that looks like proof of stake and a fair way to rotate those leaders. And then what you end up with is something that looks really like Ethereum layer one, proof of stake. And then you're like, what are we doing here? I mean, this just seems really complicated. So I think John Charbonneau has done a great. I think we're probably going to end up in his proof of governance system that he's outlined. And in terms of where the MEV gets captured, I would bet that a lot of it ends up getting captured at the roll up level. But in order for that to happen, what we need is for activity to migrate onto the roll up level. Most of the MEV still gets extracted on ETh main chain today for whatever reason. I think maybe it's because whales are down there and they have a lot of money. I don't know. But, like, every meme coin that gets released, that generates tons of mev. It happens on ETh main chain. The other. The other big mev thing that happens is this. We call it top of block arbitrage. It's what I just described to you, but it's these very sophisticated integrated builder searchers who are. They're trading on binance by the microsecond, and then they're waiting for uniswap prices to get to where binance is, and then they're arbing that difference out. So there are these very leaky MEV applications on ETH mainchain. So until we solve that as well, I think most of it's going to be on main chain. Once we get more applications that are designed with MEV in mind, and we get more activity moving up to the roll ups, then I think that MEV is going to be successfully extracted up there. That's what I would guess."
+    },
+    {
+        "speaker": "B",
+        "text": "This has been great, Mike. One just general question I have for you guys, for both you guys as kind of crypto educators, myself included in that is everything we talked about felt very 300, 400 level. I'm thinking to myself, this is taking just in order to hang with a conversation we just had. It's taken years of work. How on earth does anyone catch up to, like, all of the acronyms we just used, all of the different layers, all of the kind of the. Like, how does anyone catch up if they're just starting with crypto today?"
+    },
+    {
+        "speaker": "C",
+        "text": "It is a graduate level amount of knowledge that one needs."
+    },
+    {
+        "speaker": "B",
+        "text": "It's hard. Like, this episode was so deep in."
+    },
+    {
+        "speaker": "C",
+        "text": "All of the deepest ones we've ever done."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. And so, like, I don't know if you guys have any said. Are they just lost? Do they just, you know, have to. I don't."
+    },
+    {
+        "speaker": "C",
+        "text": "I think there's a cohort of bankless listeners who are having the time of their absolute lives with this episode, and they are about 5% of the overall listener sphere. That made it to the very end."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. The rest are like, get this man off. No, no."
+    },
+    {
+        "speaker": "B",
+        "text": "What do you do? It's just, you have to understand what you. Everything you just said in order to understand the future. And yet it's so much like it takes. It takes months, years to understand all of this."
+    },
+    {
+        "speaker": "A",
+        "text": "I don't have a great answer for you. I will. The one thing that has resonated with me, the one thing that's really resonated with. With me, you guys have done a great job of this. But Kobe, in one of his up only episodes many moons ago during the bull market, was asked, how do you succeed in this space? How do you make it? And what you need to do is find a way to get genuinely interested during this period of time. Guys, we're 18 months. Yeah, we've passed the exciting implosions, and it's just boar and apathy. I could show you guys a slide Jason and I presented at the beginning of the offsite that we did this year, where stage one is like. It's like fear, anger, and then just apathy and depression, and that's what we're in right now. So you just got to find a way to genuinely get excited about this stuff and want to learn. But it's, you know, do people. Does everyone in the world really need to know about all of the semantics of market structure and crypto? Probably not, actually. I'm glad there are some nerds out there that like it. But I do look forward to a day where people are building apps, and the three of us are maybe the next time we're having a conversation. On bankless, we're talking about any number of successful apps, and it's more high level strategy of these apps and who their customers are, and that's just more accessible. That's the world that I want to be in. In crypto."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that would be a very bullish outcome, and I think we can certainly get there. Mike, as we conclude all of these amazing conversations that we just had, I just kind of want to ask where your attention is. So we just said, like, hey, in order to make it through the boar market, you need to find something that strikes your curiosity and gets you entertained. And so, like, what. What corners of the rabbit hole currently captivate your attention? I'll tell you, like, the. The super chain and the relationship between roll ups as a service providers, I think, is an unexplored frontier that has captured my attention, and I think there's a lot of information in Alpha to glean from that corner. And so I think that's something that you and I share. But, like, where else. Where else are you looking in the crypto landscape to just dig into the research and scratch your curiosity itch?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, easy answer that comes to mind. David, is permissionless. Permissionless?"
+    },
+    {
+        "speaker": "C",
+        "text": "I was getting there, too, brother. We were going there no matter what."
+    },
+    {
+        "speaker": "A",
+        "text": "Permissionless. But really, I think one of the. It's. It's two it's kind of two sources, which is a obsessively listen to podcasts. But I think the value of curating your, I hate to be so generic with this advice, curating your Twitter feed to people that have, I think, really restricting the amount of people that are on there and then allowing yourself to go down rabbit holes and connect dots and then also find people that are as interested, sort of interested in the same stuff that you are. So you can just have practically."
+    },
+    {
+        "speaker": "B",
+        "text": "How do you do that, Mike? How do you curate on Twitter these days? You just follow unfollow, like pretty liberally, or do you have lists or do you have a method for that?"
+    },
+    {
+        "speaker": "A",
+        "text": "I go through and I unfollow pretty often, and then every once in a while I'll see a good take and I'll click on that person's profile and I'll kind of go through and I'll say, hey, I listen, honestly, I listen to a lot of bank lists, and I'm like, oh, I hadn't heard of this person before. And then I'll go check out their twitter and I'll be like, I like this person's takes quite a bit, but I don't think. Yeah, I would love to give some grand answer, but I think that's about the strategy that I do, at least."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, Mike, I'll tell you that one of the things I'm excited for, like you said at permissionless, we're going to be co moderating this conversion evolution of Ethereum, Cosmos, and Solana, Anatoly, Ben Jones, Ethan Buckman, the three representatives from each of these camps. And let me tell you, this episode helps me really prepare for that."
+    },
+    {
+        "speaker": "B",
+        "text": "That's why you did it, huh?"
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, man, it's going to be awesome. I'm up to see you guys. Is this. How many times in person have you met before?"
+    },
+    {
+        "speaker": "C",
+        "text": "This will be number three."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Ryan randomly decided to show up in New York once, and so we spent."
+    },
+    {
+        "speaker": "B",
+        "text": "A couple days together, and then I was there for, like, days, and you were like, get out of my house, Ryan. But I just kept coming back every day."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, this will be the third time."
+    },
+    {
+        "speaker": "A",
+        "text": "Awesome."
+    },
+    {
+        "speaker": "B",
+        "text": "Okay, so permissionless conference. Refresh everybody on the dates there, Mike."
+    },
+    {
+        "speaker": "C",
+        "text": "Mm hmm."
+    },
+    {
+        "speaker": "A",
+        "text": "This is gonna be in Austin, Texas. It's September 11 through the 13th, so. So it's coming up. Make sure you book your tickets if listeners of Bell curve, listeners of bankless. This conference was basically tailor made for you. And it's really the best conferences. We've been organizing conferences across many years in crypto. It really is bear market conferences. You flushed a lot of the excess enthusiasm. It's where the alpha is. It's where the true settlers are that are going to be here for a long period of time. It's worth it. It really is."
+    },
+    {
+        "speaker": "C",
+        "text": "I have every single bias under the sun here, but permissionless is really special. I've gone to almost every single conference under the sun, but I'll just pat ourselves on the s three on the back here and all the other organizers at blockworks and the content sphere of permissionless. When podcasters organize content tracks at a conference, things go well. I agree with that. So the value of the conversations are just going to be much more valuable. And to me, the way I've been expressing what permissionless is to the bankless listeners, it's like the manifestation of bankless. And also, block works in real life. Like, it's a festival of this thing that you only get in your podcast feed, and now it's in real life and it only happens once a year."
+    },
+    {
+        "speaker": "A",
+        "text": "Honestly. No notes? Yeah, couldn't have said it better myself. That is. I'm super pumped and looking for, and I'm looking forward to seeing you guys. That'll be a lot of fun."
+    },
+    {
+        "speaker": "C",
+        "text": "Even though, Mike, you live about like half a mile away."
+    },
+    {
+        "speaker": "A",
+        "text": "Not that far."
+    },
+    {
+        "speaker": "C",
+        "text": "See you in Texas."
+    },
+    {
+        "speaker": "A",
+        "text": "I know."
+    },
+    {
+        "speaker": "B",
+        "text": "Looking forward to it, guys. It's definitely the only conference I go to all year, so this will be the one. Mike, thank you so much for joining us today. This has been like a forked version of David who pushes the frontier into non Ethereum blockchain. And I mean that in the most complimentary way. Mike, this has been a pleasure. Thank you so much."
+    },
+    {
+        "speaker": "A",
+        "text": "Thanks for having me on, guys. I appreciate it."
+    },
+    {
+        "speaker": "B",
+        "text": "Action items for you bankless nation will include a link to Mike's podcast in the show notes. So go check that out. Is definitely a kindred spirit, but got to end with this. Risks and disclaimers. Of course, none of this has been financial advice. It never is on bankless crypto is risky. You could lose what you put in. But we are headed west. This is the frontier. It's not for everyone. But we're glad you're with us on the bankless journey. Thanks a lot."
+    }
+]

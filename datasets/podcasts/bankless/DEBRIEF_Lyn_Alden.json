@@ -1,0 +1,566 @@
+[
+    {
+        "speaker": "A",
+        "text": "Hey, guys, welcome to our debrief episode after our episode with Lynn Alden. This is one of many that we've had with her, but this was a basement level. This was fundamentals. This was Basil stuff. This is. What is money? We did an episode, our second episode of Bankless ever, on this very question, what is money? And I'd say we did a fairly good job on that episode."
+    },
+    {
+        "speaker": "B",
+        "text": "It was like, we did a killer job of that site. We did so much research for that episode."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, it's a great episode. Episode number two. It's probably like Lynn Alden Light, I would say, sort of theme, same sort of story. Not the encyclopedic level of detail that Lynn goes into. I mean, she is an absolute master at this, and she's basically aggregated a whole bunch of the sources that crypto has used through the years to try to understand this area. Like, I would say before crypto, there wasn't a concise narrative body of knowledge on what money actually is in, like, one place. Like, there weren't books like this, David. Right. And so you had to go to. You had to piece it together on your own. And so I think Lynn's great service is putting aggregating all of this into a single book that can be a reference to guide you through the history of money and really help you understand it. And as we said in the intro, that's, like, step one on your crypto journey. I don't think you can understand crypto without understanding what money is. And, David, I would just add, I think there's still a lot of people in crypto who still don't understand what money is, and they're at a disadvantage."
+    },
+    {
+        "speaker": "B",
+        "text": "As well, and I'm embarrassed for them."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, you know, so it's a great episode. I feel, like, greatly enriched after this. Were there any things that you learned from this episode besides the detail, any major themes, any mental models that came out of this for you?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think she did a fantastic job pushing the spectrums of money apart. So commodity versus ledgere. I have a grow."
+    },
+    {
+        "speaker": "A",
+        "text": "An increased commodity versus credit. Do you mean commodity versus credit?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Appreciating that a little bit more, understanding that both of those are technologies that are independent and also simultaneously growing. I think the new bits of knowledge I have is money is modular. It's one module of a ledger, one module of a commodity. One module later comes in with a communications network. Later, some form of encryption or verification comes in. I guess that's like, maybe seashells, I guess, is like, yes, that's a seashell. I can verify that the properties of money are very modular. And that's why money is never, ever one thing. First it's seashells, then it's copper, and then it's silver, and then it's golden. Meanwhile, it was also cows at one point in time, and salt. Why was it. Why was it those things? And then it was paper, but paper. Like, well, like, all of these reasons about why money is is because there's different ingredients that makes a money. So money can take on a variety of factors. That's not just, like, physical goods, but it can still. It can remain an idea. It can remain intangible if it has a lot of the properties that make up money. And that's why, like, the concept of money just throws people for a tizzy. Like, just throws a huge curveball at people. Because, like, our crypto money is, like, encrypted ledger money, but it's very synonymous with, like, cowry shells. And. But those things are so different, so far apart, yet they have components that produce the properties of money. And I think, like, kind of understanding that there's different technological arcs of different facets of what makes money. That goes throughout history, I think I have increased appreciation for that."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. By the way, when you said at one point during the episode a primitive form of encryption technology, and you were talking about, like, some silk road type money, I was like, dude, I have a primitive form of encryption technology for you. It's called my freaking checkbook. I had to write a checkbook earlier this week. And, God, it felt so much like a primitive form of encryption technology. Imagine I'm signing this not via private key, but by signing an unforgeable in air quotes, like, signature. And then that's my signature these days."
+    },
+    {
+        "speaker": "B",
+        "text": "Funny, I have a pen in my hands. My signature these days. I don't sign anything. So I just line."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, dude, I do that, too. You ever do, like the coffee? The coffee? Like, checkout. You buy coffee or something, and then I just do a smiley face sometimes. Just like, no one checks it."
+    },
+    {
+        "speaker": "B",
+        "text": "No one checks."
+    },
+    {
+        "speaker": "A",
+        "text": "No one checks it. This is not a private key that you're assigning."
+    },
+    {
+        "speaker": "B",
+        "text": "Why are we doing these things?"
+    },
+    {
+        "speaker": "A",
+        "text": "I don't know. It's dumb. It's very stupid. I'll tell you, one of my big takeaways from this episode was I don't think it was fully clear in my mind that money is actually two technologies in one. And that was kind of codified for me. So there's, like, money and there's banking is one way to think of it. And we are developing kind of both sides of this technology. Another way that Lynn referred to it as is there's the medium, the unit. Right. So that can get better. You'd have better forms of, you know, the unit of money itself. So you go from, like, shells, and that doesn't work. So, like, you know, cows. That doesn't. You kind of upgrade. And that is subject to evolutionary pressures. And that's the reason we sort of settled on the best technology that we had. Once all of the civilizations and societies collided, it was very clearly either silver or gold. And then gold kind of won out. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "The hard games of money."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. So there's that technology itself, which is like the technology around the unit or the money itself, or the hardness of the money. Right. And all of those properties, the commodity side. And then there's the other side, which is, I'll call it for short, the banking side. She called it, like, the transaction side, like the transaction speed side. It's like what I used to call in bankless, like the money verbs. Right? Pay, lend, borrow. And so this is a function that the banks have kind of taken over. So what do banks do? They issue credit, or they can take your commodity money and get it somewhere faster."
+    },
+    {
+        "speaker": "B",
+        "text": "Right. They wrap verbs around the money."
+    },
+    {
+        "speaker": "A",
+        "text": "Yep. And so that's all it is. That's what. That's what this whole thing is. It's. It's money. Right. And it's the currency. It's the unit. It's the commodity side, if you will. And then it's banking. And the banking is kind of like all of the verbs that make kind of life easier. It wasn't really clear to me how, like, the banking layer just totally destroyed gold. Cause that's been the story of, like, you know, the 20th century. Basically, we had a gold, and now gold is a relic of the past. And why? Well, she gives a very compelling reason to telegraph so much faster, to transmit an IOU via telegraph. Right. So much, so much more convenient. And then, like, credit facilities, you can't do credit in the way a bank can on top of a commodity money. Right? And so these are the two pieces of innovation. When we're talking about, like, money and banking as a finance, we really have to look at it. Money and banking, both of these things kind of evolve together. And the last 150 years have really seen, like, complete stagnation on the scarcity piece of it. On the commodity side of it, complete stagnation. Like, we apex, we hit gold, and then we got no further. And a lot of innovation on the banking side of it. And now crypto is like, it's coming full circle. And now we're like, oh, we actually have a better version of the commodity money thing. We have a better version of golden. And that is partially what's interesting, but it also is innovating on the banking layer, too. Like, Defi is a total innovation on that. Stable coins are a big innovation on that. So that was a big takeaway for me. Is that mental model unlock?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. One of the ideas that I think Van Spencer was the last person I saw in my feed to articulate this idea. It's just like, capital has a mind of its own. Like, capital wants to be free. Capital wants something like same thing with money and natural evolutionary forces. Capital has a mind of its own. It wants to collect, it wants to grow. It wants to grow. Mainly it wants to be free. Capital wants to be free. And so when we put, why do banks exist? Well, because there was this desire for economic occurrences that gold wasn't able to express. And so a banking layer wrapped around gold and helped gold express itself better by being a better means of payment for more use cases. More economic activity was happening because banks wrapped around gold and unlocked the expression of that value in more use cases. I see very similar parallels in the crypto world where we have bitcoin. And it's just like, it's inert, it doesn't, it's got, it's got lighting network. And so it kind of can be expressed there, but not really. It actually uses crypto banks to express itself more than the lightning network, because that's what it is. And when we see Ethereum, and just like you said, like DeFi layer twos, layer twos of all types, ZK layer twos, like payment layer twos, other networks, this is all, to me, just like a wrapper around what is the thing that powers the Ethereum network, which is ether, and its allowing capital to be free. It's allowing ether to escape and be collateral in DeFi, be payments on a layer two, be a collateral that produces a stable coin. And so there's, and this is the power of Ethereum. And why we think that ether is the best monetary unit of all time is because every single contract on Ethereum is unlocking the power, the latent potential of the capital inside of ether, which makes ether more valuable."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. This reminds me of conversations I used to have in 20 16, 20, 17, 20 18, around what is my throwback day? Yeah, and very much so. The bitcoin community would be like, hey, bitcoin is a better gold because it's much more portable, it's even more fungible than gold. It's much easier to verify an assay and all of these things. And I'm like, yup, yup, yup, I get it all. And the one thing that it was missing, though, and the reason I was captivated by Ethereum in those days, was it was missing a killer feature of digital currencies, which is programmability. That is an actual technology unlock. And so that's why I gravitated so much towards Ethereum, is because it seemed very clear to me that if this, then that type statements like the smart contract, like the programmability of the moneyness was going to be a very important function. And so if you're just making something digital, but you're not making it programmable, you're like missing an entire unlock here. And so that's one thing I would say about this, and I think that's remained true in that in order to innovate on the banking and end the unit layer, you need something like Defi, you need that programmability type feature. That's probably where you and I and Lynn disagree. So in her book, I don't know if you read the sections, but she's definitely hardcore bitcoin, and nothing comes close as the money. It's almost like she's made her choice, kind of, and now she's written it in a book, very emphatically. In fact, there's some chapters here that I think if you're from the Ethereum community, you'd read them and kind of be like, ugh, nope, that's not true. Like, yeah, you'd probably cringe a little bit, which is interesting. And she kind of acknowledged here. But I think that Lynn tells the story of money so well. And if then you get to the end and she starts talking about kind of bitcoin maximalism, I sort of substitute. No, it's not bitcoin maximalism. Now there's this competition for money. Bitcoin's in there for sure. So is ether. So are some other assets. And now we're into this realm of competition. Yeah, I think they're all competing as money. I mean, we said this, they're all competing layer ones are competing as money."
+    },
+    {
+        "speaker": "B",
+        "text": "Yes."
+    },
+    {
+        "speaker": "A",
+        "text": "So it's just the viability of them as the money. So. And I, by the way, I am open to another, like, money challenger kind of coming down the pike. I think bitcoin maximalists are less open to that. They're very much like bitcoin already wondehen. Everything else is a shitcoin, and you're."
+    },
+    {
+        "speaker": "B",
+        "text": "A scammer for saying otherwise."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I don't, by the way, I don't think Lynn goes that far. I just think that. Yeah, that's probably a point of difference, but where was I going with that? Programmability. That is a killer feature. I think you want out of a digital money."
+    },
+    {
+        "speaker": "B",
+        "text": "Right? Yeah. Because it's the banking layer. Right. I actually kind of don't understand how Lynn would be able to argue with that or what she would say to that. It's like. Because. What did she say? Like, why is she so bullish of crypto? Oh, it's the best of. Best of both technologies. It's the best scarcity and the best network. The best communications network. Right. That was the other thing. The communications network."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think she. I think the argument is more focus. You're more focused on sort of the commodity itself. And then speed."
+    },
+    {
+        "speaker": "B",
+        "text": "It was speed. It was scarcity and speed."
+    },
+    {
+        "speaker": "A",
+        "text": "But you get that with the memetic layer of, like, the lightning network. Right. So you have your currency and then you have lightning, and that's your speed."
+    },
+    {
+        "speaker": "B",
+        "text": "And that, like, put your everything lightning network basket."
+    },
+    {
+        "speaker": "A",
+        "text": "Of course not. But that's. I think that is, like, at some level, bitcoin has fan for this type of a story. It has fantastic narrative market fit and memetic market fit and is still a great way to start understanding, like, crypto."
+    },
+    {
+        "speaker": "B",
+        "text": "Money portal into the crypto world."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think it's a great, like, case study or first case, or I would call it a proof of concept. Like, there's some level where I think that there is a digital silver and a digital gold out there and they're competing. Except I tend to think that ethereum is the gold. Like, it's gonna win."
+    },
+    {
+        "speaker": "B",
+        "text": "We also have, we also have the data to back that up. We know which one's being issued at a faster rate."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Over time."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. I know, but, like, so bitcoiners would wait. Other things differently. They would say that, hey, if you change the monetary properties at all, then, like, I know this is a whole nother debate. This is not a bitcoin versus ethereum."
+    },
+    {
+        "speaker": "B",
+        "text": "Debate, but throwback to 2018. We've done this all before."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "I kind of feel. I do kind of feel bad for, like, the bank listeners that came in 2021 to and beyond after we have just exhausted some of the very core conversations that make up the bank list podcast that, like this one, for example."
+    },
+    {
+        "speaker": "A",
+        "text": "What's the archives for David go back in time."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, we were shittier podcasts back then. With shittier, it's not that bad."
+    },
+    {
+        "speaker": "A",
+        "text": "I've gone back and listened to some of our early episodes. I did at least a year and a half ago. I mean, they're not bad. They're pretty good."
+    },
+    {
+        "speaker": "B",
+        "text": "I was listening to Lynn on what Bitcoin did podcast, and she was talking about the strategy behind writing this book, and she titled the book broken money. She didn't title it bitcoin fixes this or the bitcoin standard. She titled it broken money because. And then also, she doesn't talk about crypto until the later stages of the book."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, Castawider."
+    },
+    {
+        "speaker": "B",
+        "text": "She does the chronological orders. Like, first we had barter, then we needed money, then there was credit, then there was banks. I've given this talk three times now, and I'm about to do it again at East Lisbon. And I always get, like, fantastic feedback on this talk, and it's always about just, like, understanding crypto. It's the crypto 101 talk. Like, whenever I'm at some, like."
+    },
+    {
+        "speaker": "A",
+        "text": "But it's understanding money. Or is it understanding crypto that you're doing?"
+    },
+    {
+        "speaker": "B",
+        "text": "It's understanding crypto. Crypto 101, yeah. And so, like, why are people attending this talk? Well, because they want to understand crypto. And then I just tell them at the very beginning, it's like, I'm about to give you a talk that's not about crypto. If you want to understand crypto, you have to first understand money. And so this talk is about money. And I also give them the line. The best way to understand crypto is unlearning things that you've learned first that we need you to unlearn so you can begin to learn crypto. And so, like, me and Lynn came to the same conclusion of just like, yo, if you want to teach people how to understand crypto, you have to unbundle what they think is money, which is the dollar, and place them into history, monetary history, and show them that in the grand arc of time, it's not money coming. Go."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, money's come and go. It's not that, like, what we're doing here in crypto is not that crazy. It's not new broken money. Broken money happens every 60 years. Every 60 to 70 years. Like, a money, like, money breaks, and we, like, we reset the ledgers and we do something new or parents haven't experienced."
+    },
+    {
+        "speaker": "B",
+        "text": "It doesn't mean that you won't."
+    },
+    {
+        "speaker": "A",
+        "text": "I know it's. But it is hard to break out of that, right. Especially with the dollar. Seems like it's just never going to be anything less than the world reserve currency, right. And I'm sure during like 1905 and 1905, the pound sterling was like the reigning king and people couldn't imagine a different world. Right. And like how quickly things change. I hope we're not destined for a world war. I'm not implying that, by the way. Yeah, I mean, I think that's where you have to kind of get to, to understand all this. What do you think of this whole. One thing that's really interesting to me is this whole fiat era that we've been in since like, Nixon just. Yeah, yeah, France. Sorry, you're gonna have to turn that ship around. You can't go home. And then how did he get away with that? Like, how did the US get away with it?"
+    },
+    {
+        "speaker": "B",
+        "text": "People were like, oh, okay, I guess the money not backed by gold no more."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. And then everyone's supposed to be okay with that. Like Lynn's story was a great story, which is basically like they got the oil priced in dollars, so they created more reserve demand. Um, and they basically, the US went around and was like, yeah, we have the biggest stick. We will use our stick to protect you if you price gold in dollars. And if you buy our bonds with like all of your wealth, like your."
+    },
+    {
+        "speaker": "B",
+        "text": "Price oil in dollars."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, sorry, price oil in dollars. And then, and then buy buyer bonds. And by the way, we'll, you know, we'll, we'll do things to not wreck it. Like we'll have a sensible monetary, you know, policy basically. And that was enough. And the world was like, yeah, okay, sounds good."
+    },
+    {
+        "speaker": "B",
+        "text": "Like we didn't really have too many options now, did they?"
+    },
+    {
+        "speaker": "A",
+        "text": "Well, but they could have gone back to gold. But I get, but I guess you have to like go get the gold."
+    },
+    {
+        "speaker": "B",
+        "text": "From money wants to converge."
+    },
+    {
+        "speaker": "A",
+        "text": "You have to get the gold from Fort Knox too. So you still have to send your ships."
+    },
+    {
+        "speaker": "B",
+        "text": "But what was I gonna say about this? Well, I have a honking car out. It's really distracting."
+    },
+    {
+        "speaker": "A",
+        "text": "New York, huh?"
+    },
+    {
+        "speaker": "B",
+        "text": "They are angry. Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "The other thing that I find so interesting is like how the story of how the UK just rug pulled everybody else who had purchased their bonds and the idea that when you do that, like, you get kind of one shot at destroying your reserve currency status. It's just like you have like one bullet in the chamber."
+    },
+    {
+        "speaker": "B",
+        "text": "But that wasn't right. It's not use, not one shot. It's like you have some amount of stored up energy in your currency and you can choose to consume that energy, you can't consume all of it. You have, you have some amount of storage in your battery and you can consume some."
+    },
+    {
+        "speaker": "A",
+        "text": "Are you saying, like, the US has gotten, like, basically already one shot in kind of post Bretton Woods 1970s was one of their shots and they still have a bullet in the chamber, it seems like, because they're still the world reserve currency status."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, right. Like, anytime we print money, you are draining your monetary battery, and if you drain it too much, then it depletes and it gets harder to recapture it because your money's not devalued."
+    },
+    {
+        "speaker": "A",
+        "text": "But I think the difference is they shot that shot in the 1970s, and at that point in time, debt to GDP for the US was like 20%. And so they could do all sorts of. They had, like, that."
+    },
+    {
+        "speaker": "B",
+        "text": "They deployed so much fuel."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Now we're so much debt to GDP."
+    },
+    {
+        "speaker": "A",
+        "text": "125%, something like that. Right now it's like wartime level debt. So we don't have very much energy left to kind of shoot our next shot. But we still have one. I think the US still has one shot to go devalue all their currency, rug, pull everyone, screw everyone over. But then after that, it's kind of over. You don't get another shot."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, especially when there's like a release valve now, which is crypto. And this is why we celebrate the burn so much. Like people who I think don't understand this story, we don't do this so much. Nearly as much. But, like, back in 2021 when you and I were celebrating the burn every single week, the east burn. The east burn, yeah, right. That is Ethereum pocketing savings into ETH. That is a positive economic surplus that the Ethereum economy is pocketing into ether, unlike all other fiat systems that have come before it, which has decimated savings, funded wars, and rug pulled the world. And so when we, when the stupid etH maxis are, like, celebrating the eth burn over and over and over again, and it's a cringe fest because they keep on talking about how much ether is being burned. What we're doing is we're celebrating the inversion of that, the actual lowering of the ratio of debt to GDP, the improvement of the economics of Ethereum, the proliferation of people's savings rather than the depletion of people's savings. There's so much meaning caught up in the ETH burn that I think if you don't understand the story of money, you don't really get the significance."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I think that's right. I think burning ETH is kind of a symbol for. We have algorithms. Yeah. Algorithm driven monetary policy for this thing, right? Which you can't be used to fund. I don't know, whatever the devs want, whatever the government wants at a whim, and the entire community can opt out. So it's a different type of monetary instrument. But here's something interesting to you. To me, anyway, I was thinking, I want to ask Lin this, but we didn't have time, which is, okay, we have nature's money, right? So nature created this money. It's like, all of these commodities we settled on. The best one is, like, silver or gold, gold one, right? So we've nature's money, and then we have, like, human created money, which is our paper money, our ious, our fiat. Okay? Those are the two technologies that have been in play. What about crypto? Is it fiat or is it commodity? Because it's not nature. Humans still created this thing. There was a human named Satoshi. So it's not nature. You can't tell me it's nature. As much as Michael Saylor will be, like. It's energy instantiated in, like, you know, bitcoins and sats. I don't think it's that. Like, a human actually created it and it's human maintained. It's not just handed down to us from, like, you know, the periodic table of elements. It wasn't birthed in the center of a star. Okay, so it's nothing. I'm contending it's not nature, and it's also not fiat in the same way that fiat is in that it's not controlled by twelve bankers in suits or, like, one Jerome Powell, one guy at the Fed and the political nation state, but it's something in between. If I was more bold, maybe on crypto Twitter, I'd be like, oh, it's decentralized fiat. What we've created is it's almost like a decentralized, bottom up, consensus opt in fiat because it's still human made and it's still, like, memetically powered. Yeah. What's your reaction to that? What do you think of when I say that?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think we will have this conversation. Debate, and we'll ultimately end up agreeing. But, yeah, it's totally nature, bro. Like, we just."
+    },
+    {
+        "speaker": "A",
+        "text": "Nature? No way."
+    },
+    {
+        "speaker": "B",
+        "text": "Bitcoin is like pie. We're like, yeah, there are some, like, man made parameters, but bitcoin would be discovered if you rerolled the dice of the universe. We would."
+    },
+    {
+        "speaker": "A",
+        "text": "Wait, wait, wait, wait, wait. You think bitcoin was discovered? It wasn't man. What wasn't human created? Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "So, like, did Newton invent gravity, or did he discover gravity?"
+    },
+    {
+        "speaker": "A",
+        "text": "It definitely discovered it."
+    },
+    {
+        "speaker": "B",
+        "text": "He definitely discovered it. Yeah. So Satoshi made bitcoin, but somebody else would have made. Would have put the components."
+    },
+    {
+        "speaker": "A",
+        "text": "That's a different thing. Somebody else would have made bitcoin. You could say that. But doesn't mean that, like, nature made that. It's like, I mean, if you classify the into. There's two types of things. There's, like, nature, natural things, or there's human made things. You can't tell me that bitcoin was a natural thing. It didn't, like, like, evolve from, you know, the earth."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, there's something, like, there's something magical about the fact that, like, if we reroll the dice of the universe, something like bitcoin will come out of it, that every single time there's something natural about that."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, I think that might be just a different semantic."
+    },
+    {
+        "speaker": "B",
+        "text": "It's semantics. It's semantics."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, like, definition of."
+    },
+    {
+        "speaker": "B",
+        "text": "But I think the answer to your question, like, is it nature or is it fiat? The answer is both. Like, ether is valued based off of the economic surplus of the ethereum economics. Like, a US dollar is valued based off the fiscal policy of the United States."
+    },
+    {
+        "speaker": "A",
+        "text": "One thing I."
+    },
+    {
+        "speaker": "B",
+        "text": "And they're both commodities. One thing I want, ether is a commodity."
+    },
+    {
+        "speaker": "A",
+        "text": "One thing I wanted to ask Lynn, too, is, like, we have commodity theory of money and credit theory of money. And I get how they're interwoven, how they're different, and how both are true. What about memetic theory of money? Is that a different kind of axis? Or, like, what about this idea that."
+    },
+    {
+        "speaker": "B",
+        "text": "I think that's what you get when you submit everything. The memetic feature of money is just like, the last cherry on top of the money stack."
+    },
+    {
+        "speaker": "A",
+        "text": "Do you mean any successful money just becomes."
+    },
+    {
+        "speaker": "B",
+        "text": "Starts to become memetic?"
+    },
+    {
+        "speaker": "A",
+        "text": "Memetic and a shared story."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't know what to do with all my surplus. What do I do? I don't know. I'll just do the thing that everyone else does. I'll just sell it for money, and I'll have the money."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so that's just actual, like, that's just another, like, that's just the consensus money, right? Right. So that maybe memetic money is just another word for consensus. Anyway. That's another thing that, you know, people say when they understand money. Or, like, when you're trying to explain money, like, someone's like, well, what backs up an ether? What backs of bitcoin do bitcoin bitcoin."
+    },
+    {
+        "speaker": "B",
+        "text": "Doesn'T have any value. Well, but then you sold on the market for 30,000."
+    },
+    {
+        "speaker": "A",
+        "text": "But then what you would say. Right. Is, well, what backs the dollar, right."
+    },
+    {
+        "speaker": "B",
+        "text": "And they, and they say, like, tax us military. I'm like, tell me how the government backs the dollar."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, but, but they're, they're also not wrong, though, in that, like, yeah, but."
+    },
+    {
+        "speaker": "B",
+        "text": "They don't even know what they're saying."
+    },
+    {
+        "speaker": "A",
+        "text": "It doesn't say the words. It's actually, it's actually, I mean, that's basically what Lyn Alden said. He was basically like, yeah, the kind of the bigger stick and all of these, you know, petrodollar selling, you know, selling weapons to the Middle east and US security. But that does actually reinforce the dollar. But yes, I get that. You know, that those connections are, the."
+    },
+    {
+        "speaker": "B",
+        "text": "Dollar is backed by the government because. Yeah, we don't have anything else better to say for that answer to that question. All right, well, you mean the thing with the money printer is backing the dollar."
+    },
+    {
+        "speaker": "A",
+        "text": "Did this episode accomplish what you hoped?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yes, I mean, I would have loved to. I would love to do that episode 17 different times with 17 different people because you would get 17 different episodes."
+    },
+    {
+        "speaker": "A",
+        "text": "Really? Who else is equipped to do that episode?"
+    },
+    {
+        "speaker": "B",
+        "text": "David. I wanted David Graber, bro. I'm so sad about that. Okay, I'm glad we brought that. I brought this up. I'm glad I brought this up. So the history of money goes back even earlier than what Lynalden accounted for. I need to reread the David Graeber debt 1st 5000 years for the third time. I've read it twice. Some of the words we use, like thank you. The words thank you have etymology in credit and like, I owe you one. And there's this idea of gratitude and favor and credit that we use in our words that are synonymous with the evolution of money."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure, yeah, I agree with we'll never know which came first."
+    },
+    {
+        "speaker": "B",
+        "text": "I tend to think it's a chicken and egg problem. They all kind of wove together."
+    },
+    {
+        "speaker": "A",
+        "text": "But you know, what was another unlock for me is like, well, yes, I think that there are times where commodity money is more scalable technology. There are times where debt based, credit based money is more scalable technology. And here's what I mean. Like, you know that example of if I owe you some money, right? Like you don't care because, you know, I'm good for it. Because we, like, we operate a business together, we're friends, you know, like, you know, nine times out of ten, I'll pay you back, David, I promise nine times. But, like, the reason that's less scalable than us just completing a transaction by me, like, giving you some gold or something, and, like, transaction complete is, what if I die? You know, does that obligation carry over to my. My family? And they're like, I don't."
+    },
+    {
+        "speaker": "B",
+        "text": "Ryan died, but he actually owed me a ton of money."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, exactly. It's not very scalable. Like, even in small groups, you know, across time, it's not as scalable as me just actually handing you the amount of bearer instrument that I owe. Like, gold that I owe you."
+    },
+    {
+        "speaker": "B",
+        "text": "When money is working, it deloads your brain."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah. You don't have to keep track of all the freaking ious. Like, um, anyway, but. But Graeber does have a point. I I think the. Where I don't in Lynn does. Lynn. Lynn totally understood it too. I have heard this simplistic explanation of money, which is like, the straw man version of money is, first there was barter, and humanity spent hundreds of years trying to barter with one another."
+    },
+    {
+        "speaker": "B",
+        "text": "State of barter."
+    },
+    {
+        "speaker": "A",
+        "text": "And they. And then suddenly, you know, some guy."
+    },
+    {
+        "speaker": "B",
+        "text": "Came to the market with money."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Like, the newton was like, how about we take your wants and your wants and we create, like, we imbue it."
+    },
+    {
+        "speaker": "B",
+        "text": "In this show middle one."
+    },
+    {
+        "speaker": "A",
+        "text": "Not how it worked at all, but anyway, it's good stuff. I can."
+    },
+    {
+        "speaker": "B",
+        "text": "Man, I could geek out about money forever. The last thing I'll say about the whole David Graber book is that, like, money is inherently a social technology. It is social. It is a pro social bit of technology that unlocks so much. In my early money article, I talked about vampire bats, I think. Yeah, where vampire bats, very social. And they would all go out and they would feed, and then they would come back and some fed a lot, and others were hungry. And so one hungry bat would, like, knock on another bat and like, hey, give me some food. And then one bat would, like, regurgitate and the other bat's mouth. Gross. But that's how they shared favors. And they would keep accounts inside of each other's brains about which bats give each other favors and which bass are stingy."
+    },
+    {
+        "speaker": "A",
+        "text": "Really?"
+    },
+    {
+        "speaker": "B",
+        "text": "Which bats, which. Which bass are pro social and which bass are selfish."
+    },
+    {
+        "speaker": "A",
+        "text": "So other mammals have money concepts of money, basically."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, in their head, it's like social credit, credit score, credit scores in their brains. And they would keep ledgers in their brains about points, about, like, hey, that guy did me a favorite, therefore I owe him one. And if you did a favor for someone and they never reciprocated, then you like, you're like, well, I'm not ever giving you any of my food. And so, like, this is."
+    },
+    {
+        "speaker": "A",
+        "text": "Was."
+    },
+    {
+        "speaker": "B",
+        "text": "This is ledger money inside of heads. It's, like, regurgitated, you know, insects. It's money for bats, and they keep account for it in their head, and eventually they become sophisticated enough to, like, be able to write this shit down. Tom owes me this or something, and that turns into money."
+    },
+    {
+        "speaker": "A",
+        "text": "I guess, in that way, it's very much a natural kind of emergence there, right? It's been with us for a very long time. One other thing I'll say as we kind of end this, though, is it is so fascinating how money has moved into profane territory so often throughout history. Like, even now, you get into, like, money is kind of a dirty word, right? Like, money is kind of like, you know, it's. It's just sort of like, kind of seedy. It's. It's evil. People are."
+    },
+    {
+        "speaker": "B",
+        "text": "Usury was sinful for user is sinful, right?"
+    },
+    {
+        "speaker": "A",
+        "text": "And so, and so, like, and so much so that there are, like, movements."
+    },
+    {
+        "speaker": "B",
+        "text": "Is llama coin. Uh, announcement."
+    },
+    {
+        "speaker": "A",
+        "text": "What's that? A usury free coin?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, it's like. It's like. It's like a Islam compliant cryptocurrency."
+    },
+    {
+        "speaker": "A",
+        "text": "Sharia law compliant, yeah, exactly. Yeah. So, but, but you can understand why. Like, even so, some people say, well, wouldn't it be great if we could have a world without money or like a society with money? And I'm like, but like, okay, but money is like a technology. I mean, like, that's almost like saying, let's have a society without, like, language or without writing or something like that. It is a good thing, and it can be a good thing. Yet there's probably an entire episode on why money goes bad, why sometimes it's sacred and sometimes it's profane, and why we have such a weird relationship with money. That's probably another episode and probably has to do with wealth inequality and all of these other topics that we should dive into another time. There's more. There's more to this rabbit hole. David."
+    },
+    {
+        "speaker": "B",
+        "text": "There was a post Covid. I went on a date in Seattle with the first date with this girl in Seattle, and we were hitting it off. She was great. And just talking about a bunch of different things. And then at some point, like the. I think it must have been through crypto. I think I brought up crypto, and she's like, yeah, wouldn't be. I just would think it'd be better if we just didn't have any money. And I was like, no way. Oh, there it goes."
+    },
+    {
+        "speaker": "A",
+        "text": "That was it."
+    },
+    {
+        "speaker": "B",
+        "text": "Like, we're done here. We can't do this."
+    },
+    {
+        "speaker": "A",
+        "text": "David, you need to take this episode and send this to her. Take the episode. If you go look her up, David, go send this episode to her. And I'd be like, I remember one."
+    },
+    {
+        "speaker": "B",
+        "text": "Time you said, I can fix her."
+    },
+    {
+        "speaker": "A",
+        "text": "This is why we need money. This is why we need money. No, just help her understand. I mean, there was a time I didn't understand why we need this. Sure. Yeah. Anyway."
+    },
+    {
+        "speaker": "B",
+        "text": "Oh, I definitely said the words, I wish we could do away with money. I was just in, like, middle school when I said it."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, we will end it there. Bankless nation. Thanks so much for hanging with us. This has been the debrief."
+    }
+]

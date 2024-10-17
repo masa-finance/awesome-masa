@@ -1,0 +1,622 @@
+[
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited premium wireless. Everybody get 30."
+    },
+    {
+        "speaker": "C",
+        "text": "30, baby get 30, baby get 20."
+    },
+    {
+        "speaker": "B",
+        "text": "2020, baby get 2020."
+    },
+    {
+        "speaker": "C",
+        "text": "Bid to get 15. 1515 just $15 a month."
+    },
+    {
+        "speaker": "A",
+        "text": "So give it a try at Mint mobile.com switch $45 upfront for three months, plus taxes and fees. Promoting for new customers for limited time unlimited. More than 40gb per month slows full terms at Mint mobile.com dot."
+    },
+    {
+        "speaker": "C",
+        "text": "Hello, and welcome back to real Vision Crypto daily briefing. Here's why you should tune in to today's show. We're covering breaking news, the bombshell announcement from FTX and Binance. We have crypto pragmatist Jack Niewald and crypto tax guy Jason Schwartz to discuss. My name is Mark Oliveira. With me is ash Bennington. What a day. Ash, I know that you just came off a train from Connecticut to jump into this. That's crazy. How are you doing today?"
+    },
+    {
+        "speaker": "B",
+        "text": "I'm doing great, man. The one day I take to renew my passport so we can go to Cayman Islands and do this real vision conference event. This is what happens. Amazing story. Look, I've been following this on Metro north for the last hour. Just extraordinary, extraordinary day in crypto. Marco."
+    },
+    {
+        "speaker": "C",
+        "text": "Absolutely. Well, let's, let's bring in the rest of the panel and let's just kick off the discussion, I mean, and take it however, however which way will go? Obviously, we had this tweet come out from, from CZ earlier today. This afternoon, FTx asked for our help. This, there's a significant liquidity crunch to protect users. We signed a non binding letter of intent intending to fully acquire ftx.com and help cover the liquidity crunch. We will be conducting a full Dd in the coming days. I mean, what do you guys make of it? Let's start with, with Jack. How are you thinking about this?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, it's absolutely one of the wildest stories in crypto in the last history of crypto. Right now I'm just thinking about the implications of this with FTX being a US focused product, founders being based from us, and all the implications of this acquisition for the consolidation of the industry. There's so many implications to be considered from this and so much to develop in the kind of coming days and weeks that will be fascinating to follow."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, absolutely. Chime in, Jason, I don't know. What was your first take on the story?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I mean, my mind is really blown at how rapidly this story developed. I would say, obviously, there's a lot of information that is unknown still, and all we're getting is sort of bits and pieces from different tweets. I will say it's a really fascinating posture, in particular because SPF has been so active in the policy discussion in DC, and now it might look to many people like, the emperor has no clothes. And I do wonder how that's going to frame the discussion in DC going forward."
+    },
+    {
+        "speaker": "B",
+        "text": "Look, this is an extraordinary story. This is like the bear Stearns moment on blotter acid in hyperdrive. It's just an extraordinary, extraordinary story. Uh, you know, as we said, obviously, we're, we're taking the, we're taking the field here very quickly. We're running the hurry up offense. We're working out of the shotgun. We're literally just calling audibles on the field here, I think, is the place to start is with the tweets, which are really the source of the data, the primary source that we have. Marco, you read CZ's tweet, I think a fairly sort of vanilla tweet in terms of the content. It makes all of the essential points. But for me, the really interesting tweet thread here actually comes from SBF rather than from CZ. I think we just read through the tweet stream, talk about it, because this is really where all the issues lie. Let's just jump in right here. Here we go, SPF. This is when we get the timestamp right. 11:03 a.m. so just over an hour ago, 11:03 a.m. eastern time. Hey, all, I have a few announcements to make. Things have come full circle, and FTX's first and last investor are the same. We have come to an agreement on a strategic transaction with finance for FTx.com dot pending DD, et cetera. Boy, you know, so much to say here on this, right out of the gate, full circle. Obviously, the first investor, as Sam Bankman free points out, and the last meaning, this is it. This is the acquisition, this is the moment. You know, they've come to an agreement on a strategic transaction, pending due diligence. First question specifically, we have a lawyer on this call. What are the possibilities here that this is going to get hung up in due diligence? That there's some kind of an issue that prevents the transaction from going through?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I mean, it's entirely possible. Right. Like, again, we don't have the details. We all saw very publicly how difficult it was to close a deal between Elon Musk and Twitter. Right. There's a lot that hangs in the language of whatever letter of intent was drafted and signed between these two entities, which we obviously haven't seen. I imagine there are a lot of outs for binance in the event that some of the due diligence proves or establishes that FTX isn't maybe worth as much as binance expected or what have you. So we'll obviously just have to wait and see and watch. But look, typically a letter of intent is what it means is that it's an effort to negotiate in good faith to reach a deal. So this is huge. The likelihood usually is that a deal goes through in the end."
+    },
+    {
+        "speaker": "B",
+        "text": "So let's move on to the next tweet. Jack, I'm going to pull you in in just a second here. Tweet number two in the Sam Bankman freed stream. This one shortly after it looks like the first tweet, 1103, it was probably all sent simultaneously. Quote, our teams are working on clearing out the withdrawal backlog as is. This will clear out liquidity crunches. All assets will be covered one to one. This is one of the main reasons we've asked finance to come in. It may take a bit to settle, et cetera. We apologize for that. This, to me, really is the whole meat of the issue right here, laid bare in a single tweet. Let me just break it down, give you a little bit of context. Jack. Pull you in in 1 second. Our teams are working on clearing out the withdrawal backlog. Okay, so that's an admission that there is, in fact, a withdrawal backlog. This means that customers have had some difficulty liquidating their positions. This is not the place you want to be if you're an exchange with customers that you're not able to meet in a timely fashion. This is a real challenge. So this will clear out the liquidity crunches. Boy. Okay, here we go. Liquidity crunch. What's a liquidity crunch? A liquidity crunch is essentially when you have the inability to either buy or sell something in a timely fashion. The challenge here, we should probably make the distinction here between liquidity and solvency. A solvency crisis is when there's a. A fundamental mismatch in the value of assets. This is kind of a quick and dirty study in it. A liquidity crisis, or a liquidity crunch, is when you have a temporal mismatch. There's a time mismatch. In other words, you have enough to cover a position, but you're not able to sell things quickly enough and at a price that will be close to where what you believe the innate value of it is. This is the challenge that's happening at FTX. If we're to take Sam's tweets as being indicative of what's happening there, this is really what it's about, the inability for folks to withdraw assets because of liquidity. And then he says it, quite frankly, this is one of the main reasons we've asked binance to come in. It may take a bit to settle. Settlement is when you effectively, at the end of a trade, when you match. So you go through an execution of a trade, you go through the clearing of the trade, which is essentially making sure that all the buying and selling information lines up, and then you settle it. You switch in the case of securities, securities for cash. Cash for securities. That's the settlement process. So he's saying, hey, listen, be patient. This may take some time. And then he finally says right out there, we apologize for that. So an actual apology in that tweet, Jack, a huge amount of material in one tweet there. What are your thoughts?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, there's definitely a couple of things to unpack here. First, this tweet makes it seem like their assets were at some point not backed, one to one. So that FTX perhaps did not have the complete coverage of all customer deposits on the platform."
+    },
+    {
+        "speaker": "B",
+        "text": "So explain what that means and how it relates to the liquidity issue."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, absolutely. So basically, what this means is if we think of FTX as a bank, it means that they didn't have all the, all the money on hand to cover the probably billion plus, I think the last time I checked, that was flowing out of the platform. Right. So if you had a dollar in FTX, FTX didn't have your dollar on hand, or their dollar was being held in some other place, lent out, perhaps, to Alameda, this closely tied trading institution."
+    },
+    {
+        "speaker": "B",
+        "text": "This is the FTX. It's usually described as the sister company. It's believed Sam Bankman fried has a very large position in Alameda, and we've seen that there have been questions that arose from some coindesk reporting about whether, in fact, the assets were being held, for example, FTT tokens on the Alameda balance sheet. And what the interrelationship unknown. We're saying it flagging is, is it unknown what the interrelationship of the assets and the balance sheets between those companies were?"
+    },
+    {
+        "speaker": "D",
+        "text": "Right. So it's obviously kind of been made clear that the link between these two companies is perhaps a lot closer than some might have expected. Right. Because we've seen just hundreds of millions of dollars of stable coins being passed over to FTX in the last 48 hours. And that makes it look like there was definitely some common mingling of funds there, or that FTX was really kind of relying on Alameda for its liquidity needs. Right. But again, going back to that tweet, it shows that there's clear evidence of insolvency, not just a liquidity problem. Right. Because it's looking like binance has come in to actually bail out FTX in terms of backing up."
+    },
+    {
+        "speaker": "B",
+        "text": "Is that really an unknown deposits? Is that really an unknown? One of the challenges with liquidity crises in general is the fact that you may have an asset, you may have backing for an asset, but you hold it in some other marketable security, some other risk asset. And what happens is if you have a large position of something and you need to unwind it, what happens is if you think about a limit order book, you've got bids and asks. And what winds up happening when you try and dump a very large position is you just start hitting bids and the price starts dropping. And when it becomes apparent to the market that there's a huge amount of supply that's getting dumped, suddenly the bids start dropping really dramatically. So we don't really know, and there's a bit of a sort of fine line here between sometimes liquidity insolvency, but we don't really know. We know what he said, which is that it was a liquidity crisis. So I guess it's an open question whether or not it was a solvency or liquidity issue and what exactly those terms of art mean. We should pull in Jason here on this, who I'm sure has spotted about some of these issues in the past."
+    },
+    {
+        "speaker": "E",
+        "text": "No, no, I honestly don't have, I don't have anything to add there because, you know, all I have is some speculation that I've seen on Twitter over the past 24 hours or so, and I know that people have been trying to track down some FTX cold storage that establishes solvency. And the last I saw, like, no one had really been able to track that down without sort of digging into Alameda's books. Right. So I agree with Jack that just based on the information we have, it appears that there may have been, at least at some point, a potential solvency crisis that they're now calling a liquidity crunch."
+    },
+    {
+        "speaker": "B",
+        "text": "This is a really interesting question. Let me ask the devil's advocate question. If there was a fundamental crisis insolvency why would CZ want to bid those assets by the company if he thought that there was a fundamental issue with solvency? Just as a hypothetical question, as we try to unpack this."
+    },
+    {
+        "speaker": "D",
+        "text": "Sure, I'll take this. If we look back to FTX's acquisition of Blockfi, FTX acquired Blackfy, which was a unicorn, for about $15 million. So if there is clear evidence of insolvency here and not just the liquidity problem, it's definitely probable that, sorry, Binance could have picked up FTX for an incredible, incredible discount. Right. And FTX has a pretty remarkable market share for being such a young exchange. I imagine CZ is pretty eager to pick up FTX and it's, you know, all of its customers and branding, its us penetration, all of these things are huge assets that could be picked up by binance and potentially at an enormous, enormous discount."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, theres almost no question at this point that it was bought at a discount, right. I mean, nobodys paying full price for an exchange thats in either, in the best case, a liquidity crisis, and in the worst case, the solvency crisis. Right?"
+    },
+    {
+        "speaker": "D",
+        "text": "Absolutely. But I think, I don't know what numbers are floating around out there, but if Binance is having to back up billions of consumer deposits, of customer deposits there, I can see it, I can see FTX being marked down by not just a couple percent or 20% on their last, I think, $32 billion raise could be picked up for single digit billions potentially."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. I mean, look, this could be, again, we're just speculating, but this could be a tremendous deal for binance."
+    },
+    {
+        "speaker": "D",
+        "text": "Right."
+    },
+    {
+        "speaker": "E",
+        "text": "Because, because asset solvency doesn't mean that FTX isn't worth a ton of value, right. I mean, just in terms of goodwill, in terms of us market share also. I mean, I look, FTX was Binance's biggest competitor and growing very, very rapidly, and I think making inroads in the United States much, much more quickly than binance. So I think this could be a tremendous coup for CZ. And if the cost is just topping up some value inside to enable depositors to withdraw if they want, which, by the way, this news might actually sort of reverse the risk of the bank run. So in the end, it might not actually be as necessary for CZ to come out of pocket as much as FTX would have to in the absence of this news, that just might be. It seems like CZ has been playing this game of 40 chess that we've, you know, we've just been watching over the last 24 to 48 hours kind of flooding, FTT, you know, retweeting, you know, whale alerts about the Alameda movement of tokens. And then, and then we get the news that CZ is, you know, coming to the rescue. It's kind of amazing."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, we rescue in double quotes, right? Depending upon, upon, you know, the price paid and all of those other intangible variables that we don't know. Uh, we should probably also point out this story has obviously been on our radar pretty intensely for the last 24 hours, but it's been kind of a train wreck in slow motion since Bloomberg did the initial reporting on this, uh, sometime in, in, uh, in mid September, about a month ago, where they reported, uh, some of these, you know, issues between Alameda and FTX, and some of those open questions, uh, one of the reporters there in the story actually said, is the sort of metaphor for helping people understand why this issue matters. Uh, it's is if, it's as if the New York Stock Exchange in Citadel were run by the same company. This idea that you have this potential conflict of interest, and I dont know if that phrase was actually used in the article, but that you have these challenges with the nature of the ownership of FTX and Alameda itself. And then this story just started to accelerate extremely rapidly in the last 24 hours. I want to just keep going here to jump into the next tweet, because, uh, Jack, you mentioned the customers. This is a, this is a, a single sentence tweet, which is really interesting because I think every other tweet in this thread is multiple sentences. It's tweet three, uh, and the Sam Bankman freed screed. And it is. But the important thing is that the customers are protected. You know, that's a really interesting statement to make. Right? It's like, if I called you up and I told you, I just need you to know my apartment is not on fire, you'd be like, well, well, why would I think your apartment was on fire? Right? I mean, obviously we don't want to read too much between the lines here, but it's a pretty extraordinary statement to have the CEO of exchange say, but the important thing is the customers are protected. What do you guys think about that? Jump in, Jack?"
+    },
+    {
+        "speaker": "D",
+        "text": "Well, overnight in the US, I think there was like a ten or twelve hour period where there were no stable coins exiting FTX wallets. So, you know, there was a period of time where FTX was completely illiquid. I'm sure that's the first."
+    },
+    {
+        "speaker": "B",
+        "text": "And just to be clear, for people to understand that the implication there is that they were not able. They were not able to effectively, they were not able to settle those transactions because of challenges that they had with their balance sheet or with the liquidity of their balance sheet."
+    },
+    {
+        "speaker": "D",
+        "text": "Yep. So, yeah, that's the. I'm sure a lot of customers of FTX are very concerned about that. This will hopefully ease some of those direct worries of, will I be able to get my deposits off of this platform? Will I be able to continue to trade or buy crypto on this platform? And it seems like for now, the answer is definitely a lot closer to yes than it was perhaps just an hour or two ago."
+    },
+    {
+        "speaker": "B",
+        "text": "Jason, what do you make of that extraordinary tweet? Customer assets are protected."
+    },
+    {
+        "speaker": "E",
+        "text": "I think it's something he had to say. I do think it's somewhat ironic that FTX has been on a buying spot free, you know, including, like, you know, you know, Voyager, which. Which, you know, didn't protect customers, unfortunately. So, you know, I think it had to be said. I think, you know, what will. Like, what, what would be the alternative for him to be silent and encourage, you know, sort of further, you know, further concern?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I guess that is the question. The alternative would have been to leave that line out, I guess, which, and as you say, it almost feels as though he had to say it. I want to move on to the next tweet here. This is number four in the SPF thread, a huge in asterisks to boldface. Thank you to CZ Finance and all of our supporters. I mean, this is extraordinary. These guys were literally going at each other on Twitter 24 hours ago, and now it's a huge thank you to CZ Binance and all of our supporters. This is a user centric development that benefits the entire industry. I'm not sure what that statement means. It sounds a little bit like marketing speak to me. I'm not sure how much substantive value there is in that one. CZ has done and will continue to do an incredible job building out the global crypto ecosystem and creating a freer economic world. I mean, that's just an unqualified show of support for the. For the now owner of FTX, or am I reading that wrong?"
+    },
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile, unlimited premium wireless. How do you get 30?"
+    },
+    {
+        "speaker": "C",
+        "text": "30, baby, get 30 bid to get."
+    },
+    {
+        "speaker": "B",
+        "text": "20, 20, 20, 20, 15, 15."
+    },
+    {
+        "speaker": "C",
+        "text": "Just $15 a month."
+    },
+    {
+        "speaker": "A",
+        "text": "So give it a try@mintmobile.com. dot $45 up front for three months, plus taxes and fees. Promoting for new customers for limited time unlimited, more than 40gb per month slows full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "B",
+        "text": "If we look at it."
+    },
+    {
+        "speaker": "D",
+        "text": "Excuse me. You know, there's probably one institution within crypto we can talk about institutions outside of crypto that potentially could have come to the rescue for FTX, but there's really one institution within crypto that could save FTX, and that is binance. So, you know, Samuel Benkman fried has to kind of bow his head to the king right here. And the king is Cz. And there's no two ways about it."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, that's exactly what I was going to say. That's the kiss the ring moment. I mean, SPF may have, you know, may have sort of over stepped a bit and he woke up the king. And I don't know, it's sort of paying the price now."
+    },
+    {
+        "speaker": "B",
+        "text": "Really fascinating stuff. So tweet five. I know there have been rumors in media of conflict between our two exchanges. I mean, we actually saw the tweets. I don't know that they were rumors. They were really, these two are two heavyweight boxers who were exchanging blows. Anyway, I know there have been rumors in media of conflict between our two exchanges. However, binance has shown time and again that they are committed to a more decentralized global economy while working to improve industry relations with regulators. We are in the best of hands, guys. I mean, more of the same theme, I think, from the prior tweet, but essentially saying we're in the best of hands with the company now belongs to them."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I guess. Not your keys, not your coins. This can happen to anyone, right? So FTX looks so, so, you know, dominant, right? In the summer, you know, with their purchase of blockfi and now. Yeah, they're being totally exposed. Yeah. It's absolutely insane, right? There's just no precedent here. And I hope kind of the last domino has fallen with FTX. But who knows, right? These liquidity crunches have a, have a way of just kind of being one domino after another, perhaps the early summer. We're just the canaries in the coal mine and there's more pain to be seen."
+    },
+    {
+        "speaker": "B",
+        "text": "Interesting here, we should point out, by the way, talking about canary in the coal mine, bitcoin has just dropped below $20,000 now trading at 19,904. For most of this conversation, bitcoin had been above 20,000, ethereum still above 1500. These are key psychological levels. Interesting that we have not seen. And maybe this is really a point to make about the decentralization of the underlying bitcoin and ethereum ecosystems. Not been a huge hit. Uh, looks like down 4%, uh, on or 4% and change, call it on. Bitcoin and Ethereum trailing 24 hours. These are not huge moves, especially considering the volatility of the space in some ways. Is this an affirmation of the space that you can see this absolute chaos happening, uh, with FTX? And yet, and yet the underlying value of the bitcoin, uh, above, of bitcoin and Ethereum, uh, remains largely intact."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, Ashley, I think it definitely shows how strong the industry is. And to Jack's earlier point here, I was going to say, it's just crazy how things turn around so quickly in terms of, at one point, FTX was seen as the savior for the industry. They were saving all these exchanges. They were saving blockfi. There was talks about them doing things with Voyager and Celsius, and now things have turned on its head, on its head here with this move with binance. But again, is this move also with binance, like, could be from spreading more contagion? Obviously, if FTX is kind of going down, that could also be another factor that could play into here. And so maybe the fact that the market is, or the fact that binance is stepping in is giving the market some security here, and that's why maybe the price hasn't gone down as much."
+    },
+    {
+        "speaker": "B",
+        "text": "As well, first of all, Marco, welcome back. I know we had some technical problems. We're glad to get you back in the conversation. But listen, as you said, and we've sort of stressed throughout this conversation, all of this is, is highly speculative. These are events that are literally unfolding within the last 90 minutes. We're trying to get our heads around what it means. Just trying to give a bit of a context on this extraordinary thread. That's probably the best direct evidence that we have in terms of coming directly from the horse's mouth, so to speak, in Sam Bankman Fried's tweet thread. Marco, any other bigger, broader points that you wanted to make?"
+    },
+    {
+        "speaker": "C",
+        "text": "Well, you know, I just, I think the whole thing is, in general, I think it's just kind of an interesting story for, for the industry as a whole. I would say that with, you know, this move, obviously, I'm not sure what you guys already covered. I'm sure you guys covered a few things, like when I. I mean, perhaps maybe I could get, like a recap of what you guys covered first. So that way I'm not repeating points here, but what more or less have you guys discussed so far?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, we've just been trying to dive in and run through this tweet thread and get our heads around it. But talking of which, let's. Let's just move on and continue, continue to go through this, because we have yet to hit the 6th tweet in the thread, which I think is a really interesting one. Six. And this is number six. The entire tweet is in parentheses. Make of that grammatical convention what you will note that FTX us and binance us, two separate companies, are not currently impacted by this. FTX's Us withdrawals are and have been live, is fully backed one to one and operating normally. Well, I thought everything was fully backed one to one. I'm a little confused by that. I mean, this is just a sort of fascinating open question. What does this mean that FTX us and binance us are carved out on this one? Guys, any thoughts?"
+    },
+    {
+        "speaker": "D",
+        "text": "I think two times SBF alludes in this tweet thread that perhaps it wasn't just a liquidity crisis and perhaps assets were not backed one to one. And, you know, like the famous quote goes, if the tide goes out and you're not wearing any swim trunks, you've got to make something happen. Right. So I think he was really backed against the wall, and this tweet kind of alludes to that in so many words."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Well, to your point in tweet number two, where he says, our teams are working on clearing out the withdrawal backlog as is, this will clear out liquidity crunches, all assets will be covered one to one, will be covered one to one. So it's like, if I tell you, hey, Marco, I'm going to pay you back that $100 I owe you tomorrow, then it sort of sounds like I still owe you $100, right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, absolutely. And I think, I mean, it was interesting with this information that came out last week about Alameda's bank balance sheet."
+    },
+    {
+        "speaker": "B",
+        "text": "Right."
+    },
+    {
+        "speaker": "C",
+        "text": "There's a lot of tokens. They were backed by a lot of crypto tokens that they had. They had Solana. And this is one of the reasons we saw the Solana price decrease, because maybe people think there's some connections to it. So if you're backed, if your backings are based on crypto tokens, and that makes it kind of a little bit. You're not sure. I mean, what happens when crypto falls? You kind of don't have as much in your balance sheet to support it. So I think that's kind of an interesting point there to bring up, by."
+    },
+    {
+        "speaker": "B",
+        "text": "The way, just looking at the screen here, as I said, uh, bitcoin now looks like off 3% and change trailing 24 hours. I'm just looking down the top, the top ten coins here. Uh, and to your point, marko, the only one that's down double digits in the trailing 24 hours column at it looks like as well as the seven day column is, uh, is Solana. Yeah, Solana is off. Let me just read through these numbers. Uh, 1 hour. By the way, did they just add this new 1 hour column here on Coinmarketcap? I think this one's new. Uh, they're off 12.44% in the last hour, off 16%, trailing 24 hours. Trailing seven days. Solana down just a shade under 17%. Real movement on that, that we have not seen in bitcoin and ethereum."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, absolutely. I mean, who knows if they, I'm not sure what the current standing is on the balance sheet for FTX. I mean, they could have maybe sold it in a move, obviously, because even for the earlier on in the week, you know, as or not just earlier, I mean, just yesterday, we had as they were having issues. I mean, maybe preemptively FTX was selling some of that. We'll have to find out later on as we get more information. But it could be the case that that's what was happening there, and maybe that's why we're seeing that plunge there for Solana."
+    },
+    {
+        "speaker": "B",
+        "text": "Jack, any thoughts?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, obviously a couple of interesting coins to watch here. Bitcoin and Ethereum. For me, it was really shocking. I think Ethereum was up 7% immediately after the announcement. So it's wild that things have really permeated the market this far. So FTX, a company that's really relatively small relative to bitcoin, is kind of moving like the one source of price action. It's almost like the exchange coin, FTT is leading the rest of the market. An interesting dynamic to follow. Nonetheless, today."
+    },
+    {
+        "speaker": "E",
+        "text": "I would say that there's been such a significant drawdown in all crypto in the last few months that it could be that we're just already hardened against terrible news. Some of this news, in a sense, may have already been priced in. Ever since the Terra Luna collapse, a lot of people have been saying, well, what's the next, what's the next shoot of all? I'm not saying that this was at all predictable, but I'm not that surprised that there hasn't been a more significant drawdown in ETH prices or bitcoin prices just yet. I will note just again on the policy discussion, I am concerned that."
+    },
+    {
+        "speaker": "D",
+        "text": "The."
+    },
+    {
+        "speaker": "E",
+        "text": "Aftermath of this whole thing will be that the US just continues to become less and less relevant in the global crypto discussion."
+    },
+    {
+        "speaker": "B",
+        "text": "And why is that? Is that the idea that essentially that they're going to try and move in for investor protection reasons and they're going to want to regulate and restrict when they see this kind of, frankly, disorderly markets happening? Yeah."
+    },
+    {
+        "speaker": "E",
+        "text": "Let's say you're a policymaker who really doesn't know much about crypto, and what you see is just constant turmoil in these centralized exchanges. And you frankly don't really know the difference between centralized finance and decentralized finance. You just see it all as one industry, and it's an industry that's in disarray. And now the industry is basically owned by one man. And that one man happens to be chinese. And right now, the US is, a lot of policymakers are particularly suspicious of chinese businesses. I think that this can be really, really bad, particularly on the heels of very aggressive and negative regulatory action in the United States."
+    },
+    {
+        "speaker": "B",
+        "text": "Let me just read a quote here. And this is news reporting coming out of coindesk. Quote, investors had taken out a significant amount of assets from FTX, withdrawing bitcoin en masse over the last 24 hours, cutting the balance sheet there from about 20,000 bitcoin to just one on Tuesday morning. Just one. According to data from Coinglass. Essentially what happens when you have a liquidity crunch is you want to sell down the best collateral you have first. Bitcoin, obviously considered very strong collateral in this space, clearly much stronger than FTT. If you look at those charts, pretty extraordinary. And also pretty extraordinary that we haven't seen large price movements in bitcoin, despite the fact that if these numbers are right, 20,000 bitcoin being liquidated to meet these positions."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, absolutely."
+    },
+    {
+        "speaker": "B",
+        "text": "Go ahead, Jason. I thought you might want to add something."
+    },
+    {
+        "speaker": "E",
+        "text": "No, no, I think it's, look, I mean, the day is still young, so we'll see what happens. But I think this could have been much, much worse."
+    },
+    {
+        "speaker": "D",
+        "text": "Right?"
+    },
+    {
+        "speaker": "E",
+        "text": "I mean, if this, you know, imagine what the next 24 hours news cycle would have looked like if finance had not come in to save FTX and, you know, the sort of crypto Twitter fud had just continued unabated. I think, you know, you could have, you know, you could have had sort of, you know, a significant bank run and, and maybe prices would have looked a lot worse."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, Jason, let me ask you this. The situation being what it is the deal appearing based on the information that we have to be currently in motion. What would the next steps be, from a legal point of view, in terms of mechanics, of how a sale like this gets managed?"
+    },
+    {
+        "speaker": "E",
+        "text": "So you shouldn't have brought a tax lawyer on. You should have brought, like, a corporate m and a lawyer on."
+    },
+    {
+        "speaker": "B",
+        "text": "You're infinitely more qualified than I am. That's right."
+    },
+    {
+        "speaker": "E",
+        "text": "I mean, so FTX is a huge multinational entity, right? I think that they have their sort of headquartered in the Bahamas, and they have us subsidiaries, and I assume they have subsidiaries in many other countries. The next step is going to be a very arduous due diligence process, probably by the finance team looking into the finances of all of those FTX entities, their relationships to Alameda and any other entities in the crypto space, to determine whether there's potential contagion risk or any sort of problematic bookkeeping in there. And simultaneously, the lawyers will get to work on drafting the relevant sort of acquisition agreements and determining which entities are in, which entities are out, and the business people will have to discuss pricing. So all of this sort of happens in parallel. At any point, there might be an impasse, for example, if during the due diligence process, something untoward is discovered that might, you know, scare off CZ, in which case we're sort of back to square one. Or if the, you know, if the business people can't, you know, agree on price, I imagine that there's some kind of price range set in the Loi. Of course, we haven't seen it, but."
+    },
+    {
+        "speaker": "B",
+        "text": "Letter of intent."
+    },
+    {
+        "speaker": "E",
+        "text": "Letter of intent. But, you know, if. If there's, you know, if something is discovered that, you know, that, you know, requires a price adjustment or something, everyone might be back to the drawing board. And then similarly, in the discussions of which entities are in and out, the terms under which finance acquires the entities, the amount of capitalization finance would put into those entities, all of these are up for discussion."
+    },
+    {
+        "speaker": "B",
+        "text": "It sounds like what you're saying is there's still room for some potential challenges here in terms of the due diligence process. I also want to bring Marco, and I know who is following the Twitter feed for some reactions. Marco, what's happening out there right now?"
+    },
+    {
+        "speaker": "C",
+        "text": "So it looks like Will Clement, you know, he sent a tweet out. He said, CZ starves FTX of revenue with 0% trading fees on binance, attracting volume from FTX. CZ shoots headshot by publicly announcing FTT concerns causing a bank run on FTX and decline in FTT's price FTX. Unable to cover holes in balance sheet, CZ acquires FTx. Thanks for playing, is what will Clemente says."
+    },
+    {
+        "speaker": "E",
+        "text": "I mean, do you remember a few months ago, CZ tweeted something about uniswap, about Uniswap, you know, claiming that there had been an exploit on Uniswap when clearly it was a phishing attack, not an exploit. You know, I've always thought, Jason, tell folks the difference."
+    },
+    {
+        "speaker": "B",
+        "text": "You may not know because there's a material distinction to be made there."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, so effectively, what CZ was suggesting was that Uniswap had been hacked in some way, that it had, that actual uniswap protocol had been the subject of some kind of attack which had not occurred. Which had not occurred. In fact, I don't remember the exact details, but it was something about holders of LP tokens, I think, receiving a malicious airdrop or receiving a malicious link or something that when they clicked on it."
+    },
+    {
+        "speaker": "B",
+        "text": "So it was a fishing attack of the limited parts."
+    },
+    {
+        "speaker": "E",
+        "text": "Right. And, you know, I don't know CZ personally, and I don't, you know, I haven't had the pleasure of doing business with him, but it's sort of interesting to see that he's clearly, you know, pretty masterful at this kind of, you know, this kind of, you know, manipulation to his own ends. Right? He was clearly, like, one step ahead of the game when he started tweeting about FTX and FTT, and this was probably on his mind. Right. So you can sort of go back and reread those tweets with hindsight and sort of start wondering, you know, at what point did he think, oh, here's my opportunity to pounce? And it's really. It's really interesting that he waited, right? He waited until FTX was pretty vulnerable. Sam Begman Fried has been excoriated on Twitter by Defi Degens for his recent policy proposals. And then the coindesk article came out, questioning FTX's balance sheet. And CZ, I think, saw his chance to pounce."
+    },
+    {
+        "speaker": "B",
+        "text": "By the way, that is another extraordinary story. The excoriation for the proposal that Sandbankman freed floated out. This is another aspect of the story that's pretty extraordinary. And some news breaking over the weekend about Iran using, I believe it was Tron, to move $8 billion. And you sort of go, well, okay, that's the argument that Sam Bankman Fried was making, that these are going to be the challenges. And I've called this, you know, I was calling this the biggest story in crypto. I'm not sure, that's true today just because of the breaking news here for the next 24 hours or so. But this idea that you have OFAC compliance, us sanctions, regime compliance, which the federal government takes very, very seriously, probably with a lot more vigorous prosecution than maybe even investor protections, it seems like there's been some regulatory forbearance there to a certain extent. Then on the other side of that coin, you have these ideals that are so core to the Ethereum space, for example, phrases like credible neutrality and censorship resistance. And then I think we brought that story up on screen from Reuters that broke over the weekend. A pretty extraordinary story, $8 billion despite sanctions, as you can read from that headline. And this, of course, is binance. So, Boyden, the intersection, the nexus of all of this stuff, it's enough to make your brain pop."
+    },
+    {
+        "speaker": "C",
+        "text": "Absolutely."
+    },
+    {
+        "speaker": "E",
+        "text": "For sure. It's interesting. A lot of people were sort of positing that SPF's position on his policy proposals is sort of his ambition was to effectively cause all of Defi in the US to be illegal, except when done through an exchange such as FTX. Right. Because one of his proposals, and by the way, for what it's worth, I actually give him props for providing what I thought was a starting off point for discussion and appearing on the Bankless podcast, for example, to discuss it with."
+    },
+    {
+        "speaker": "B",
+        "text": "Eric Voorhees, who was arguing with Eric Voorhees. Yeah."
+    },
+    {
+        "speaker": "E",
+        "text": "Right. And I happen, you know, I happen to align more with Eric than with Sam on the points. But I still think that, you know, discussion is really important. So, you know, I don't want to criticize. I'm not criticizing Sam for doing this, but I will note that, you know, one of the criticisms of his proposals was that he suggested that front ends be regulated. Right. So that, you know, a website hosted in the US would be required, for example, to conduct Aml Kyc on anyone. And the effect of that would be that really, no one would be able to spin up a US front end other than someone with massive resources to obtain a license to do so. And that someone, presumably, would be FTS. Right. So it's. It's really, you know, it's really interesting now, like, we'll see how that plays out now with finance. Right?"
+    },
+    {
+        "speaker": "F",
+        "text": "This podcast is sponsored by Ramp. Are you the decision maker in your company? Consider this. For the first time in decades, there's a better option for a corporate card and spend management platform. Meet Ramp, the only corporate card and spend management system designed to help you spend less money so you can make more. With Ramp, you get full visibility into your company's spending and control who spends what with each vendor, Ramp software collects and verifies receipts instantly to save your team valuable time. Ramp automates data entry and routine tasks with automated approvals, expense categorization, and bill payments. Time consuming tasks, which means youll stop wasteful spending and close your books in hours instead of days. Businesses that use Ramp add up to 5% to their bottom line the first year. If youre a decision maker, adding ramp could be one of the best decisions youve ever made. Get dollar 250 when you join ramp for free. Just go to ramp.com easy ramp.com easy ramp.com easy cards issued by Sutton bank."
+    },
+    {
+        "speaker": "B",
+        "text": "And celtic bank members of DIC."
+    },
+    {
+        "speaker": "F",
+        "text": "Terms and conditions apply."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, a fair amount of open questions out there, Marco. Other Twitter reactions. What else are you seeing?"
+    },
+    {
+        "speaker": "C",
+        "text": "So this one's from Eric Newcomer. He's saying Sequoia invested in a $420 million round in FTX at a $25 billion valuation in October 2021. And according and a consortium with Paradigm invested 400 million out of 32 billion valuation in January 2022. And now it's selling in a fire sale. This is truly crazy. Event in startup world.com, bus level event."
+    },
+    {
+        "speaker": "B",
+        "text": "I want to get, I want to get Jack's view on that. But first, I just want to talk a little bit here very briefly about FTT now trading at $12.56. I'm looking at this chart over one year, down from a high of around 65. That's like an 80 plus percent drop. It's hideous. So, Jack, reactions on FTT and the tweet that Marco just read."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I've been following the FTT price and a little window over here, and it's interesting, the announcement brought it up back almost to the 22, the famous $22 price level, and now we've just fallen off a cliff again. I wonder what's triggering that price action. Sometimes it feels like price action is a little bit ahead of the news. So I have no idea what's happening. But people seem to be not particularly bullish on the FTT token. As far as the tweet. Yeah. Oh, it's absolutely insane. And you look at institutions like paradigm, I know they have something like a cup, 1 billion or 2 billion to deploy, right? They can raise FTX, can raise a little round for a little round for $400 million, but they're not going to cover their, they're not going to get acquired for $8 billion. As I mentioned previously, there's about one institution in crypto that can do that. And it's finance. And yeah, we're seeing it play out. So a really powerful, maybe even a powerful message to the space, right, about who is the king, who is number one. And. And sometimes, especially in the US, we forget it."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, Jack, let me ask you this. Talking of people in the space who are well positioned, who must be watching this, what's Brian Armstrong thinking over at Coinbase right now?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, well, Coinbase is interesting, right, because we've seen binance and FTX really kind of battle it out over perpetual futures, the kind of most profitable leverage trading tool in the space. So now there really is no second option for perps, right? I can't really think of one. We've got bybit, ok, exchange some of these kind of second tier exchanges. But Coinbase famously doesn't service perpetual future contracts. Perhaps we'll see volume even go to decentralized purpose. Perpetual exchanges. Right. So that's interesting, but it seems like Coinbase could, it could be kind of at a. In an opportune situation to leverage themselves as kind of a dominant player, at least in the US. Right. Their biggest competitor has been completely wiped out, and it doesn't appear that the US is going to be particularly friendly towards finance. We'll see how that plays out. But Coinbase is certainly in the driver's seat for now. Dominant us based exchange. Right?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So let's go round the horn here and get some final thoughts on this story. I know Marco wants to talk about library as well. Lots of stuff happening in the space. Jason, final thoughts on FTX, where we are, obviously, extraordinary day. How do you sort of put a ribbon around this?"
+    },
+    {
+        "speaker": "E",
+        "text": "I mean, my mind is still blown. I think we have to wait and see. We have to wait and see what happens to. I think that, you know, a, you know, today, today's global king has been crowned, but it's a real game of Thrones in crypto. So, you know, wait another month or two and, you know, maybe we'll have a new king."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, important point here, that this is obviously, this is breaking and we're just going through it as best we can with the information that we have on hand. But I should say, and to follow up on Jack's point, it looks like FTT is now below $12. And I'm looking here on the intraday chart, it's just a leg straight down for the last. It's not been a good 25 minutes in trading here."
+    },
+    {
+        "speaker": "E",
+        "text": "I mean, you have to ask, what role does FTT play in the future, if any? I don't think FTT is offered to us people. I think there are securities law issues with offering FTT in the US. So I think it's like an international FTX offering. And if non us FTX is now part of binance, I'm not sure what your role FTt has anymore in that ecosystem."
+    },
+    {
+        "speaker": "B",
+        "text": "Jason. It looks like traders and investors are asking themselves that question right now as we see the price continuing to fall."
+    },
+    {
+        "speaker": "D",
+        "text": "Right. If we look at the kind of fully diluted valuation of the FTX token or, sorry, FTT token, it's still sitting at about a $5 billion fully diluted valuation. If you're doing the math around what."
+    },
+    {
+        "speaker": "B",
+        "text": "What is that full dilution value equivalent to versus the network value or market cap?"
+    },
+    {
+        "speaker": "D",
+        "text": "Sure. So fully diluted value is kind of all the tokens in existence promised to all investors who have some stake or investment. So it's all the tokens that could possibly exist, but it's still a meaningful."
+    },
+    {
+        "speaker": "B",
+        "text": "Number because just looking at it to interrupt here, but the fully diluted market cap is roughly, it looks like 3.5 x. The market cap. The market cap is on ftT now. It looks like about 1.5 billion, is that right? One and a half billion. And the fully diluted market cap, as you say, is 5.4, right?"
+    },
+    {
+        "speaker": "D",
+        "text": "So I know that's on the balance. A lot of the FTT token is on the balance sheets of both FTX, the exchange and Alameda research. But you've still got to ask yourself, right, what is the purchase price that Binance is going to acquire FTX for? What is the role that token is going to play in that acquisition? And if so, if the token is part of it, what is the kind of valuation that binance is going to either buy out that token for or dismantle the token for? Right? So it's hard to believe that it's going to continue at this $5 billion fully diluted valuation, especially when it's conceivable that binance might have bought out FTX for like a 5 billion to 8 billion or $10 billion valuation. I don't know. Those are some of the numbers I'm playing around with my, within my head right now. But I think who knows what's going to happen to FTT? And yeah, it could be more bad news. Who knows?"
+    },
+    {
+        "speaker": "B",
+        "text": "And to your point, and to Jason's point, and what are the claims on cash flows that FTT token represents in the post CZ buyout era at FTX? Open question, right?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I know. You know, previously it's been representative of some of the exchange fees at FTX. Now, there are potentially no exchange fees at FTX. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "And those tokens represented also, they were the ability to get a discount on those fees. Right. And they were also probably presumably in some way tied to them from a revenue perspective and also utility discount. Confusing before this buyout and after the buyout, really kind of baffling. Right."
+    },
+    {
+        "speaker": "D",
+        "text": "You've got to ask yourself, where is the bid coming from here? Who is trying to pick up a discount token for trading on FTX? I'm not. Who's trying to purchase equity in FTX? I can't think of a single kind of institutional investor who's curious about that right now. So, yeah, it's a lot of questions specifically around the FTT token and then some implications there for Alameda research, the sister company of FTX. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "We haven't talked about that yet. Where do you think Alameda research stands in this? It's obviously been less transparent than FTX, which isn't terribly transparent itself. What does this mean for Alameda and Sam Bankman fridge role there?"
+    },
+    {
+        "speaker": "D",
+        "text": "I'd be surprised if Alameda research weathers the storm here. We had that look at the balance sheet about a week ago, and with all these crypto, they're holding FTT tokens. We know FTT and Solana, which are the two worst performers I think, right now of the top 50 over the last 24 hours. So it looks like it's bad and getting to worse. Right. As far as I've heard, CZ is probably not particularly interested in a prop trading firm right now, especially one in distress such as Alameda Research. So. Yeah, could be a lot of damage on that side as well."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. Plus he's also plunked down a pretty considerable amount of cash right now. We would have to expect on FTX. Jack, some final thoughts. I know we've been talking about this for a while, but I wanted to give you a chance to just bring your ideas together in terms of big picture, where you think we are as we head into the 01:00 hour eastern time on this story."
+    },
+    {
+        "speaker": "D",
+        "text": "Sure. Obviously one of the craziest events. It calls to mind some of the events in the spring, such as the Luna collapse, which probably took out a, a comparable amount of value from the ecosystem. What I'm really thinking about going forwards, is this indicative of we've got further down to go, that there are further dominoes to collapse, or is this kind of a bottom signal for the space? I know which one I'm hoping for, but it definitely remains to be seen."
+    },
+    {
+        "speaker": "B",
+        "text": "Marco, I know we've got another big story here. It seems like everything pales in comparison today to this one, but this is an interesting story from the legal perspective, what's happening with the library token."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. So the library recently lost their battle against the SEC, and this is important because obviously they could be setting a precedent for the crypto industry. So in March of 2021, the securities and Exchange Commission charged library for selling unregistered securities, alleging that its native LBC token were securities, and therefore the startup violated securities laws by selling them. Library, of course, pushed back on those claims. But on Monday, New Hampshire federal Judge Paul Barbadoro ruled in favor of the SEC. Jeremy Kaufman, who is library's founder and CEO, he said that the SEC versus library case establishes a precedent that threatens the entire us cryptocurrency industry. Under the SEC versus library standard, almost every cryptocurrency, including ethereum and doge, are securities. And those are some pretty ominous words there, because if that turns out to be the case, it would be a tough blow to the industry on a day where we're getting another, possibly potentially tough blow where you haven't even fully seen what is going to happen with the rest of this binance FTX story. Then, as well, we have this ongoing case with Ripple, and this could impact that. So we're here to ask Jason his thoughts about this. Jason, what do you make of that story?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, so, again, I'm a tax lawyer, not a securities lawyer, but I know enough to be dangerous. So remember that the determination of whether something is a security under us securities law is really, really important for crypto, because if a crypto asset is a security, then technically it can't be sold to us people without filing registration statements and a bunch of stuff that just is in practicable in most of the crypto sphere. The determination of whether something is a security is made under this test called the Howey test, which is a really old test dealing with orange groves. And basically the Howie test is something is a security if it's an investment of money in a common enterprise with a reasonable expectation of profits to be derived primarily from the investment of the efforts of others. Okay, so investment of money, common enterprise, expectation of profits from the efforts of others. Now, the only issue that was, the only thing that was that issue here was expectation of profit from the efforts of others. Okay? So for some reason, and I'm not sure why, the posture here was basically library said, okay, like, we can seed the other points, we concede that there was an investment of money. We concede that there was a common enterprise, but we don't believe that there was a reasonable expectation of profits from the investment of others. And what the court said was, I think, really, really, really problematic. Number one, the court basically said, in response to libraries claim that, look, this token has utility. So there were lots of people who were buying it to actually use it, because library is like a decentralized data storage and sharing ecosystem. And the judge said nothing in the case law suggests that a token with both consumptive and speculative use cases cannot be an investment contract, a security under that."
+    },
+    {
+        "speaker": "B",
+        "text": "Jason, let me just to clarify on that point, because it's an important one, does that essentially mean that the idea of a utility token in this judge's view, simply doesn't exist? If there's no distinction between consumptive and speculative value, does that essentially say writ large, hey, utility token, that's not a thing?"
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, I think it does because there's no such thing as a, well, I shouldn't say that, but the vast majority of tokens are not solely consumptive, right? Like the whole kind of purpose of tokens is to build like sort of digital commons, right, an ecosystem, as we keep saying that it's like the most overused term in the crypto world, but it's true. And in order to build an ecosystem, you need this kind of flywheel where people are buying for consumptive use cases, but people are also buying because they think that the price is going to go up."
+    },
+    {
+        "speaker": "C",
+        "text": "Right?"
+    },
+    {
+        "speaker": "E",
+        "text": "And in this judge's view, if you have that ladder, it doesn't matter that you have the former. It doesn't matter that some people are buying for consumption, if others are buying for speculation, and then to add insult to injury or to sort of bring the whole thing home, the judge also said, oh, and by the way, even if the core team had never promoted the tokenization, even if they said nothing, the fact that there was a pre mine, the fact that they held some of the tokens for themselves, is enough to establish that people who bought the tokens had an expectation of profit."
+    },
+    {
+        "speaker": "B",
+        "text": "And talk about why this idea of a pre mine is so important in establishing this precedent."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, why it's dangerous or why it's."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, I think why it's dangerous or problematic, but really what it is about a pre mine and why that's important for us to understand."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, so basically, I think the judge's rationale was, look, like, clearly there was this, clearly there was this implied statement by the founding team that they expected the token price to go up because they were."
+    },
+    {
+        "speaker": "B",
+        "text": "I think we may have lost jason. Oh."
+    },
+    {
+        "speaker": "E",
+        "text": "Oh. Can you. Can you hear me?"
+    },
+    {
+        "speaker": "B",
+        "text": "You're back. You're back."
+    },
+    {
+        "speaker": "E",
+        "text": "Okay. Oh, no. The most important, I said everything that you needed to hear. So basically, what the judge was saying was any reasonable person looking at this set of facts would understand that the founders were sending a message that there was an expectation that the price would go up. Up because they were compensating themselves by holding on to, you know, a slug of the tokens. So, yeah, now, for what it's worth, this was dicta, right. Because, in fact, the judge found that the founders did, in fact, make statements on Twitter and discord about building great things and, you know, a flywheel effect that would cause the token price to go up. So, you know, the judge did say, like, look, they did promote this as a, you know, for speculative use case, but the judge also said, like, by the way, even if they didn't, I would still say there was an expectation of profit because any reasonable person seeing a pre mine would think that there, you know, would have an expectation."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, you know, what this really speaks directly to, and I think is important for people to understand is the island, the question of how applicable this is to other projects and how likely it is that this will be overturned on appeal or that similar cases might be overturned on appeal. In other words, is it specific to this important to point out that Ethereum had a significant pre mine, I think, 72 million tokens back in 2014? So this idea of a pre mine, this question of utility, seems as though it has broader applicability, a broader question, at least in the space."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. So, right. It's important to make, you know, to offer a few caveats. Okay. I think this is a terrible precedent. So I don't want to, you know, I don't want to detract from that statement. But in the same breath, I will say this is one judge's opinion, right, in New Hampshire. This doesn't mean that, like, tokens are dead in the US. We still have battles to fight."
+    },
+    {
+        "speaker": "B",
+        "text": "By the way, one of the battles we're fighting right now is the bottom seems to be falling out of Solana down below $25. It's just looking on the intraday chart is hideous. And the volume of the sell off is rising pretty dramatically on volume here."
+    },
+    {
+        "speaker": "E",
+        "text": "You know, study and analyze the law so you don't have to look at, you know, charts because it's too depressing."
+    },
+    {
+        "speaker": "B",
+        "text": "So send the angry Twitter tweets to jason on that."
+    },
+    {
+        "speaker": "E",
+        "text": "So in Ripple for example, which is in a different, you know, a different court. Right. Ripple has not conceded the existence of a common enterprise. So for whatever reason, in other words."
+    },
+    {
+        "speaker": "B",
+        "text": "They'Re still disputing that specific prong of how we test. They're still saying, hey, this is not a common enterprise."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. And it's worth noting that the SEC's argument for a common enterprise, I personally, again, I'm not a securities lawyer, but I personally think it's a pretty weak argument. The SEC is basically saying that the common enterprise in Ripple is ripple itself, which is sort of interesting because that turns the Howey test, which is a three prong test, into a two prong test. Because if ripple itself is both the investment of money and the common enterprise, then basically what the SEC is saying is that any investment of money with the expectation of profit from efforts of others is a security. And that's sort of, you know, that's really not what, how he says, Howie says there has to be a common enterprise. So the SEC seems to be trying to write out the common enterprise requirement out of the Howey test, and we'll see what the judge in the ripple case thinks of that."
+    },
+    {
+        "speaker": "B",
+        "text": "One imagines it will at very least be vigorously challenged in court."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, look, case might be appealed. The Ripple case, you know, might end up different. But, you know, I will say like this, you know, this is terrible precedent. It's, you know, another indication to me, I'm editorializing here, that the US is falling behind in the sort of efforts to retain technological primacy vis a vis the rest of the world."
+    },
+    {
+        "speaker": "B",
+        "text": "Because, guys, we got some real motion happening in price action right now. Bitcoin below 19,000, ethereum below 1400. This is just obviously happening here within the last couple of minutes. Significant, significant downward momentum. We remarked earlier in the show that we had not seen that. We're seeing it right now. Ethereum off in the last hour, about eight and a half percent."
+    },
+    {
+        "speaker": "C",
+        "text": "Wow."
+    },
+    {
+        "speaker": "E",
+        "text": "Yikes. Never, never a dull day in crypto."
+    },
+    {
+        "speaker": "D",
+        "text": "No."
+    },
+    {
+        "speaker": "B",
+        "text": "Marco, any thoughts that you want to add? I know you follow price action quite closely."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, every time that I'm on with more, it's Morris mentions like, hey, we're not seeing a move. We saw that quick tick up. I'm sure that maybe some volume traders are going to be really happy."
+    },
+    {
+        "speaker": "D",
+        "text": "Right."
+    },
+    {
+        "speaker": "C",
+        "text": "Because that means that the volatility should be increasing. So maybe there's the potential to kind of see something else happen. But, yeah, I mean, this is just, this is kind of brutal. I mean, is this going to maybe potentially be the leg lower that everyone's been looking for it could be. And I think, but in any case, I think that us getting closer to a bottom and like a bottom forming is good for the industry, it's good for everybody, because as we start to be in this type of space, as we're in this area where people can accumulate, I think it's a good place for people to think about."
+    },
+    {
+        "speaker": "B",
+        "text": "How are."
+    },
+    {
+        "speaker": "C",
+        "text": "They thinking about the tokens long term, if you believe in bitcoin long term, this might be a good opportunity to buy in. And if you have on this volatility on these news days where the price is dropping like this ethereum now below."
+    },
+    {
+        "speaker": "B",
+        "text": "1400 off more than 9% in the last 1 hour. So things obviously moving very quickly. Gentlemen, unfortunately, we're going to have to leave it here. I think it's been a marathon session. Fantastic conversation. Jason, fantastic to have you on the show. Well have to have you both back soon. I cant promise that the day is going to be this eventful, but it was an extraordinary conversation here on this extraordinary day. And Marco, fantastic to have you with us. Always a pleasure to be on camera doing these shows with you, man."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, sorry about the tech issues. I mean, my computer was having all types of things with the microphone. So I appreciate you for taking over in terms of the conversation flow."
+    },
+    {
+        "speaker": "B",
+        "text": "Ashley, I just got. We got you in. Look, obviously there's a lot to follow on this story. We're going to be on it on real vision, crypto, daily briefing, we're going to be on it on real vision, Twitter. Lots happening here. This is the kind of coverage that we have spun up this show to bring you. Stay safe out there. Everybody have a good day."
+    }
+]

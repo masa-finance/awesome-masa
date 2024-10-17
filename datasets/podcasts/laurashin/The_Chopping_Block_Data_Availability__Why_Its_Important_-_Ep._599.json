@@ -1,0 +1,614 @@
+[
+    {
+        "speaker": "A",
+        "text": "You know, if we zoom out and you're listening to the show and you're like, who the fuck cares about this data storage thing? Like, why is ephemeral storage versus long term? Who cares? All you need to think about is this allows you to lower fees in some certain way."
+    },
+    {
+        "speaker": "B",
+        "text": "Not a dividend."
+    },
+    {
+        "speaker": "A",
+        "text": "It's a tale of Tukwan."
+    },
+    {
+        "speaker": "C",
+        "text": "Now. Your losses are on someone else's balance sheet."
+    },
+    {
+        "speaker": "D",
+        "text": "Generally speaking, airdrops are kind of pointless anyways."
+    },
+    {
+        "speaker": "C",
+        "text": "I named trading firms who were very involved."
+    },
+    {
+        "speaker": "A",
+        "text": "Pollock Eth is the ultimate console."
+    },
+    {
+        "speaker": "B",
+        "text": "Defi protocols are the antidote to this problem."
+    },
+    {
+        "speaker": "C",
+        "text": "Hello, everyone. Welcome to the chopping block. Every couple weeks, the four of us get together and give the industry insider's perspective on the crypto topics of the day. So quick intros. First, you got Tom, the defi maven and master of memes."
+    },
+    {
+        "speaker": "D",
+        "text": "Hello, everyone."
+    },
+    {
+        "speaker": "C",
+        "text": "Next we've got Robert, the crypto connoisseur and tsar of Superstate GM, everybody. Then we've got Tarun the Giga brain and grand poo bah at gauntlet."
+    },
+    {
+        "speaker": "A",
+        "text": "Yo."
+    },
+    {
+        "speaker": "C",
+        "text": "Finally, I'm Haseeb, the head hype man at dragonfly. So we are early stage investors in crypto, but I want to caveat that nothing we say here is investment advice, legal advice, or even life advice. Please see chopping block XYZ for more disclosures. Okay, so we've finally gotten to the post ETF hangover. I think as much as we're tired of the ETF, it looks like the market is even more tired of the ETF, because the market has just been basically puking for the last, I don't know, three, four days. BTC is down about 20% from the high. So it was at 49k on the high side. It was threatening to touch fifty k. And as the ETF has been live, it's just been kind of slowly drooping downward. To today, as a press time, it's something on the order of about 40k circling up and down. It hit a low of. I think it blew below 38. So a lot of the downshift in BTC has been blamed on GBTC. So if you recall from the previous shows, we were talking about the net inflows to the other ETF products. I think Blackrock finally hit a billion in net inflows, and almost all the other products have been net inflows, but that has not been able to counter the outflows coming from GBTC. So initially, I think last week, we tallied up the GBTC outflows. I think a day or two after the ETF's had launched and it got into about 500 million of outflows and we were like, wow, that actually doesn't seem like that much, given the 20 some odd billion they have. However, it looks like people were eventually waking up and realizing like, oh shit, I'm paying all these fees in GBTC, it's time for me to get out. And there's been now net estimated something on the order of $4 billion in total GPTC outflows. And it looks like that's not being balanced with inflows from other, for other ETF's. And so a lot of these people are not just rotating out of GBTC into other ETF's, they're just selling and getting the hell out. So this seems to be a big drag on the overall market. Apparently the FTX estate has sold over a billion dollars of GBTC shares. And so it looks like if this is to be expected, there may just be more puking to go as GBTC continues its many of these people who have higher cost bases rotating out of GBTC and just getting out of their positions."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I'll be the first one to actually take a slight disagreeing position on this one. So I don't think you can blame GPTC because the total net flows across the entire ETF and ETP complex for all of the bitcoin products is actually positive. So GBTC, we can look at the exact data as of this morning, was about $3.4 billion of outflows or so, and there was about $4 billion across every single product of inflows. And so in aggregate, the flows were, you know, call it ballpark, close to zero. Over the, you know, over the last week, um, no more money has been moving in or out of bitcoin in the aggregate through these products. Um, it's basically flat and the price is down dramatically, even with roughly flat flows. And this is just in my opinion, you know, a result of the fact that there's hype leaving the market. And what we're not seeing are the flows outside of the exchange traded complex. We're seeing only the exchange traded complex. There's clearly net sales action in spot markets elsewhere. And you can blame JPTC is that's the product that's losing the most money, but it just seems to be moving into other products, into ishares, moving into bitwise, moving into all of the other products. And really just a transfer from GBTC. Yeah, if GBTC didn't exist at all, or if the SEC had declined Grayscale's application while approving all of the others, we might see a significantly larger net flow in the ETF's."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, if you look at the flows basis, my understanding was that day one, day two, it was quite positive, and basically it's been turning negative to balance out and end up zeroing out. And I think this was the opposite of what people were expecting, which is that GBDC maybe pukes day one, but then everything else starts really gaining. We end up in a net positive flow position, but it seems like we went from positive to negative, which ended up net flat."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I mean, the bad day was the day where GBTC lost a billion dollars. And I think it completely transformed the narrative around the ETF's into one in which there was more assets at stake to leave the products than there was to enter them in the aggregate. And I think that's really transformed the narrative across the market and has led to a declining price, even though the flows in the aggregate since launch are."
+    },
+    {
+        "speaker": "C",
+        "text": "Positive, but the expectation was that they'd be even more positive. It's always a question of relative to expectations."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I mean, a billion dollars net sounds like a lot, but like, for an asset that trades, you know, $40 billion a day, like over several days, is really pretty insignificant. And there are a lot of forced sellers like the FTX estate and things like that. But I also think there's a little bit of reflexivity to GPTC too, where if you think, hey, people who are in loss are the ones who are selling, where it's like if you add any sort of incremental negative sell pressure, then more people are going to be lost and more inclined to rotate. So I don't think it's exactly a super efficient market, and I don't know what that sort of cost basis breakdown looks like for GPTC holders, but people are sort of optimistic that volume on GPTC are going down over time. And so hopefully we're sort of reaching the end, but who knows?"
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that seems plausible to me. And I guess the other thing is, I think this market is probably going to continue being spooked until we see the GBTC outflows stop and it finally finds the equilibrium of, okay, these were all the sellers, they're done. Now we go back to net inflows because all the other ETF's are only going to accumulate capital over the year as the financial advisors and allocators finally start getting some of their clients into this product, which I don't think we expect it to be all at once. I think it's a slow grind over the course of the year."
+    },
+    {
+        "speaker": "D",
+        "text": "Tarun looks so bored right now."
+    },
+    {
+        "speaker": "B",
+        "text": "Tarun hates the bitcoin ETF's."
+    },
+    {
+        "speaker": "C",
+        "text": "Wake up, wake up."
+    },
+    {
+        "speaker": "A",
+        "text": "Please tell me, please kill me if I have to hear again."
+    },
+    {
+        "speaker": "B",
+        "text": "This will be the last show where we talk about the bitcoin ETF for at least one show."
+    },
+    {
+        "speaker": "C",
+        "text": "I don't know if that's true. We'll see. I hope that's true. All right, all right. Well, look, we've. So we've made our sacrifice to the ETF gods. I think we can move on now. There was one much more interesting crypto native story which was around a bug in one of the Ethereum clients called Nethermind. So I think it's maybe worth doing a bit of backstory just so people understand what the story is about. Ethereum. Back in the day, Ethereum had one client, and when we say client, we mean the program that people run in order to validate the Ethereum network. Back in the day, Ethereum basically just had geth, which was the go Ethereum client written in the programming language go, which is basically existed from the very beginning of time. Essentially when Ethereum first came into existence, when Ethereum went to Ethereum 2.0, they split up into two clients. One is called the execution client and one is the consensus client. The consensus client runs basically the staking and the consensus layer, what was called the beacon chain. And the execution client actually runs the code on Ethereum. And right now there's been this big hullabaloo around what's called client diversity, which is basically how much concentration is there in which client everybody is running to actually validate the Ethereum network or to run execution of the Ethereum network. On the consensus layer for ethereum, there's actually very good client diversity. There are many different clients like, you know, prismatic labs and, you know, Nethermind and whatever. All these different people have clients, and there's. There's a good distribution where I think it's like, you know, 40, 30, 20 or whatever. It's pretty good. Um, the execution clients, however, are a very, very different story on the execution clients. More than, what is it, like 90%, uh, or 85% or something?"
+    },
+    {
+        "speaker": "D",
+        "text": "78% are geth."
+    },
+    {
+        "speaker": "C",
+        "text": "78%. I see. Okay, so about 80% of the clients that run execution on Ethereum are running Gethenne. Now, geth again, it's the oldest. It's also the one that most other networks that forked the EVM also use Geth. So most of the roll ups, avalanche, phantom, all these other guys. As far as I know, pretty much everybody runs Geth. It's just the most battle tested and it's the most used. Now the problem with this, this came to a head on January 21. There was a critical bug in Nethermind in their Ethereum client, which powers roughly 8% of validators. And now Nethermind is a minority client. It's not the most used client. But this got people worried that like hey, what if this bug, instead of being in Nethermind, was in Geth? Ethereum was able to continue running because Nethermind was such a small portion of the Ethereum validator set. But if this bug was in Geth, then this would halt this, this would completely halt the network and it would mean that Ethereum would stop producing blocks and it would just get stuck until somebody would go in and fix the geth bug. And there'd be no realistic way that people could rotate clients in that period of time rather than just waiting for the bug to somehow get fixed. This has led to a big conversation in Ethereum about should we work to intentionally increase client diversity and move away from the monopoly that Geth has over execution in Ethereum. A lot of people going back and forth. One thing to also note is that this is pretty weird in the sense that almost no other blockchain has client diversity at all. So if you look at bitcoin, bitcoin core is the bitcoin spec. There is no other client that has any meaningful market share. You look at other chains like Solana or near or whatever, none of them have any other client. Theres only the canonical client, effectively. So Ethereum is unique in having other clients to begin with, but its increasingly being talked about as hey, maybe we need to push as consumers of staking services or the exchanges push them to start adopting other clients to enforce client diversity. So what do you guys think about this whole client diversity debacle and debate? And where do you feel like this is going? Do you think that client diversity can happen or is this a pipe dream?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I personally don't think that client diversity is necessary. What you need is operator diversity, geographic diversity, resilience and strength through numbers. It doesn't matter if you have twelve different clients running the network. It's about at the end of the day how many different validators are there and having diversity and resilience from how wide your validation is. I think it's almost safer to have one completely battle hardened client that everybody's focused on, as opposed to assuming that through having multiple clients it doesn't matter if there's an issue. Yes, bitcoin core moves slowly, and yes, geth moves slowly as well. But implementing clients in the first place is unbelievably complicated. The effort that it would take to create I think multiple new clients, hypothetically would be astounding. Implementing the Ethereum spec, so to speak, is not easy. It's not trivial. The odds that you get it wrong I think are significantly higher from a new client that's originated from scratch than an existing one. When I entered the Ethereum world in 2016, 2017, this was actually a pretty big conversation back then, and I feel like the conversations died out over the years. And it was oh well, we need to implement this in multiple languages. Geth was go how do we implement this in rust? How do we implement this in Java? How do we do this in different programming languages? Because the idea was that one language itself wasn't dependable. I mean, I think that's a risk that can be taken. And I think it's almost more reasonable to have the entire community get behind Geth, make it strong and perfect, than to try to spin up new clients, which is a herculean effort. And the amount of effort that goes into getting it right, I almost think potentially can't even be done safely at this point."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I would mainly echo that, although I think if you look at the history of sort of mission critical open source software, so like compilers, Linux operating systems, you generally do see this thing where there's some core component that is conserved. There's very very very few sort of like core kernels. Like there's all these people who make research kernels in academia, but there's not really like something that's used in millions of production servers that differs that much from the core Linux kernel. Like obviously you have modules and stuff in the operating system that are different, but there's also the same thing with compilers. It took so long for there to be compiler to competitor to GCC in null VM. And there's sort of this question of like why you want to do it. Usually one of the reasons people kind of, when they take a mission critical piece of software and they want to rewrite it, Linux did it because it got over licensing and patenting issues from Bell Labs and Unix and then Windows eventually. That makes sense, right? That's the reason to make another operating system. It's cheaper, open source aihdem, it's the same thing. It's like getting around the licensing agreements and stuff. But if you look at other mission critical software. It's very rarely that there's a reason to do it that's like, hey, we want to make sure that there's Kumbaya for every possible programming language. There's a reason almost all compilers still just use the C compiler, the C compilers at the bottom of the stack and then, and write stuff around it as opposed to writing their own from first principles. This is very easy to make mistake, and the mistake is catastrophic and very hard to find. On the other hand, I do think there is some benefit. Another reason that people will make mission critical things that are not just closed source competitor is extensibility. So in order to make a system more modular, so you have the core component and then things that people can extend, you may have to rewrite the main thing, because it was initially written as this monolithic single code base, and so you can't really break it apart into pieces. And there's a reason to make another one. So in the compiler case for LLVM, that was sort of the big deal, right? Like it separated the front end and back end more cleanly and so people could build compilers for other programming languages using it. And so kind of had this nice little feedback loop. I don't really see an argument for that here either. It's not like adding other clients makes you more modular. Adding other clients does give you some new functionality. Like, you know, you can double check particular implementations of like very core cryptography. You can make sure that, like, hey, multiple people have seen it in different languages and come to the same thing. So like, everyone's agreeing on the math correctly. But I think there's sort of. Yeah, there's kind of always been this war, like Robert was saying, I think it's only become kind of more interesting with staking derivatives and also with the fact that there are tons of forks of these clients for different purposes that exist, and maintaining the forks, the forks you could think of as like the modular components, right? Like I have the main thing, I can add these other pieces and use it for my use case. So I guess, long story short, I think client diversity is generally a bad idea. I think it is a good idea as an academic exercise of proving, hey, there's these faults that you can correct, but I don't think it's necessarily a good production software exercise, because like I said, I think there's only really two reasons you rewrite mission critical software. One is licensing, getting over licenses, and the other is kind of this modularity thing. And neither of those applied to this."
+    },
+    {
+        "speaker": "D",
+        "text": "Scenario I thought that the Linux kernel analogy is actually really apt. The difference is that the Linux kernel does not update nearly as frequently as something like Geth. Right? Geth is expected to be this sort of core that then people sort of."
+    },
+    {
+        "speaker": "A",
+        "text": "Sort of, I think Linus Torvalds from the nineties who would be offended by what you just said."
+    },
+    {
+        "speaker": "D",
+        "text": "No, I think if anything that's the whole point, is they're very protective and he's an asshole about the kernel. So that it is solid and robust."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I just meant in the nineties it was updating."
+    },
+    {
+        "speaker": "D",
+        "text": "Oh sure, everyone does crazy shit in their twenties. But I think it really comes down to an incentive issue, right? If you look at the clients today, and actually to your point around get, if you remember back in the day, there was also parity, right? And the idea with parity is that we need more sort of for profit red hat fedora kind of style. And like therefore there was sort of a profit motive to it. There's maybe a story around modernization these days all of the clients are basically sort of research or grant driven development. There's Reth, which is coming out of paradigm. So it is possible to build a new client, but there's not really a profit motive. There's not really a business incentive. There's not really anything sort of self serving around developing it. And so I think therefore there isn't really a desire or movement or any reason to, hey, have a competitive marketplace of these things. These are kind of like R and D projects, almost sort of like nonprofits in a way. And so it's like how are you going to incentivize people to build new clients and run new clients if there isn't really any sort of marketplace for these kinds of things?"
+    },
+    {
+        "speaker": "C",
+        "text": "So I will gently take the other side of that. Although I'm somewhat sympathetic to the arguments you guys have levied, I think if you look at the execution layer, it kind of looks like, okay, well clearly this is impossible. There's just naturally going to be centralization in the most robust version of the Ethereum client, which is geth. And the end, if you look at the consensus layer, it's kind of the existence proof that that's not necessarily true. The consensus layer is pretty dispersed. There is not a lot of concentration in a single client. And Tarun, you're making the point that look something that as actually mission critical. You have one implementation and that's the implementation. And that's the view that bitcoin has always taken is that look, bitcoin, bitcoin core is the spec for bitcoin. There is no external thing that is bitcoin. There's just bitcoin core. Literally. This piece of code is the spec for the protocol. Ethereum does not take that view. And I think in a way that is, in some ways you could say it slows it down. In other ways you could say I think it makes it more robust."
+    },
+    {
+        "speaker": "A",
+        "text": "Also, to be fair, I think bitcoin is a weird example nowadays because now people are making all these custom clients for ordinal support and l two s and stuff. So bitcoin actually I think is evolving more quickly than you think right now. But I agree, the three year ago."
+    },
+    {
+        "speaker": "C",
+        "text": "Vision is sort of like Linux. It's sort of like Linux in the way you're describing, right, where like core is the kernel and you can kind of add."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, but I think these add ons now, thanks to ordinals, have been getting seeping in more into innards, if that makes sense."
+    },
+    {
+        "speaker": "C",
+        "text": "True, true, true. But I mean, RSK was doing that back in the day and there's all sorts of other stuff like lightning is kind of this weird. You can think of it as."
+    },
+    {
+        "speaker": "A",
+        "text": "The thing that's worth remembering is the first ethereum client was neither in Russ nor and go. It was C Ethereum, written by Gavin Wood. And it's very important to remember that Ethereum itself flipped its client pretty quickly. And thats a historical vestige thats quite different than bitcoin."
+    },
+    {
+        "speaker": "C",
+        "text": "Right. There was also Ethereum J, which was, I think what Tron originally was a fork of Ethereum J, which is the Java version. There have been many ethereum clients over the years and theyve come and gone. But I guess the point that Im trying to make here is actually, I thought the analogy you were making like, okay, mission critical software means theres one implementation. The one canonical example that I actually remember learning about when I first got into crypto was space shuttles. Space shuttles actually do precisely this, which is that they have, I think it was four implementations by different programmers of the same mission critical code. Because a space shuttle, it's like if there's a bug, at least especially back in the day when you can't do over the air updates, if there's a bug, it's like game over the space shuttle crap. There's billions of dollars down the toilet. And so they have four implementations of the same code or the same program, and they run byzantine fault tolerance over those, like a byzantine fault tolerant algorithm over those four implementations of the same code. Because of course there can be bugs, there can be cosmic rays, flipping bits, and all sorts of craziness. And that's what mission critical comes from. Space shuttles. That's where the term comes from. And that is the place where, yes, you actually do want this reimplementation of code because it's very, very important that this thing always works. Works now in normal software, right? If I'm just running like an operating."
+    },
+    {
+        "speaker": "A",
+        "text": "System, this is why I left the trapdoor of like, the academic exercise of using it is good, I think, in production, that's kind of annoying. I think the thing about space shuttles that's very nice is they have a finite lifetime, so you need it to work for this u turn lifetime. I think the problem with blockchains is they have this, like, perpetual nature that makes the, the running multiple versions, like, a lot more hairy to deal with."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, it's true. And obviously Ethereum moves pretty slowly. I mean, obviously bitcoin moves slowly too. So maybe it's more a function of age than of the fact that they're multiple clients. But you can tell Ethereum development was very slowly because of all the coordination that's required across all of the client development. That said, that's just kind of where Ethereum's at. I would never recommend Solana or any new generation of blockchain. Start by saying, great, let's go multi client and support multiple clients simultaneously. Although Solana is trying to do that a little bit with firedancer, but they're still saying, look, we're not going to slow down for firedancer to catch up. We're just going to keep iterating and keep improving the tech. And I think that's right when you are a startup, when you are in first flush as a new blockchain, trying to get your footing. But I think where Ethereum's at, I think it's possible, and you're seeing it right now. There was this tweet thread from, who is it? Who is the guy who yelled at Coinbase and was like, I'm pulling out all my stake from rocket pool. No, no, no, let me see who it was. Whatever, I don't remember. There was some guy who was like, hey, I'm pulling out my money from Coinbase because I don't like the fact that Coinbase is all running on Geth. And Brian Armstrong replied and said, hey, we're going to look into this and fix it and make Coinbase cloud go multiclient and make sure that we're staking through different validators. DC investor. Yeah, yeah. Exactly. DC investor. So now, look, it's one guy. I don't know that there's this flood of people who are going to be following in his footsteps, but I think it's relatively easy for a small number of players to just kind of feel the zeal that's coming at them and decide to change their minds. The same way that in bitcoin mining pools, people just got mad on Twitter, and then the things changed even though the incentives weren't really there. Right. We know, look, the bug was not in Gethse. The bug was in nether my, which is a minority client. There was a bug previously in Besu, which is another minority client. Most of the bugs are in the minority client. So the reason why Geth is dominant is not because people are lazy. It's because people are rational, is that they know this is the most battle tested and the oldest of the realistic clients that one can use. So people are smart people, you know, people are maximizing their own profit. But if consumers can change the incentives and say, hey, it's really important to me that you actually lower your usage of the majority client, it's kind of like the Ethereum version of ESG. I think it can. I think it can work, and I think it's already starting to work."
+    },
+    {
+        "speaker": "A",
+        "text": "I think it's not that I don't think it's possible. It's that I think investors have never fucking done DevOps in their life and had to do an on call regression. And all I got to say is, fuck you. People who've never had to do that. Cause, like, it is very stressful. Let me tell you. In, like, many different contexts, it's like the worst. And it's usually just some, like, when token asshole yelling at Peter S. The main maintain. One of the main maintainers of geth about, like, shit like this. And I'm like, I don't know how that guy does the thankless job. Not only does he have to deal with the emergency stuff, he has to deal with these fucking asshole airdrop farmers. Like, you know, it's. It is kind of like a very thankless thing to work on bitcoin because they're on Ethereum. No, no. Sorry, sorry, sorry, sorry. In his Twitter, like, if you. If you ever see, like, him complaining about tokens, you know, like, the airdrop farmers will just be like, giving him shit. And you're like, you wouldn't have any airdrops without this guy. It's just, they're just so dumb. Like, it's like, actually impressively like idiotic in some ways."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. I mean, look, it is obviously technically possible to have client diversity. I think the point is it's not natural, it's very inefficient, and you have to sort of force it and be willing to eat the inefficiency. You're buying a ton of tail risk insurance, which you're basically never going to cash in. And so you're like, hey, this is just something that we're going to eat. And even the consensus client example, like your prism and lighthouse, are pretty much a duopoly. So it's not that actually diverse. And those were also, that was also a very concerted effort with ETH two, as you said, wherever large grants from the Ethereum foundation from consensus went out to build these things, if you went through the ETH staking flow on ethereum.org, they pushed you to choose a more diverse client. It was a very concerted effort. And so I think if there is willingness to basically burn cash for the sake of sort of this tail risk insurance, then yes, you absolutely can do it. I think my question is more how can you make this sort of self reinforcing? How can you make the market desire client diversity? How can you make it entrepreneurs want to go out and make a brand new client? I don't really know what that answer looks like today. If you have an answer for that, then I think you kind of have a self sustaining solution."
+    },
+    {
+        "speaker": "C",
+        "text": "No, that's a fair point. I don't know that you're ever going to get an economic mechanism to make this kind of thing happen. And blockchains, I think they are about tail risk because it's about being the whole point of blockchain. It's up all the time, it's usable all the time. And the one thing that could really shatter Ethereum story is that it fails in a catastrophic way. At the same time, look, it's almost certainly the case that there are bugs in Geth. There's no way that there are zero bugs in Geth. I mean, we've had bugs in OpensSL and the Linux kernel and things that have been around much, much longer than Geth and have had many fewer eyeballs on them over that period of time. So there's just no way that there's literally zero and we'll never find another bug in Geth ever again. So there will be bugs. And at some point we are going to have a bug that ends up causing some kind of consensus failure. It will just happen. If it's not a chain split, then some kind of massive downtime. For ethereum, I think it's a matter of creating the resilience to what is more or less inevitable at the expense of, yeah, we're going to eat more complexity and we're going to move slower in the meantime. But I don't think Ethereum at this point is about being the fastest, to iterate or to move. I think it's probably wrong for Ethereum to prioritize that at this point in its life cycle."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, maybe, but I think that's also, there's a sort of bandit problem type of thing here. I have a fixed amount of resources. I have a bunch of different places I can spend them. I could spend them on having ten clients, or I could spend them on having one client, but get dank sharding working, or 48, 44, you know, like. And from an engineering organization standpoint, I think it's kind of, it's. Yeah, it's a different trade off point on the trade off surface. Right? Like, the Solana version of this is kind of interesting because they somehow outsourced clients to other people, which is a bizarro. Well, I mean, yes, but they also have GDO soul. They also have the forks of the salon labs validator that. I think Solana is actually much more diverse than you think. All the people doing SVM roll ups also have client forks. It is starting to look like Ethereum's ecosystem, probably the only l one that has that many client implementations. But I just think you have to remember, whenever people are complaining about, my feature didn't make it into Mainnet, or why do we have no bandwidth on, and we need alt da layers, you know, like, all of that stuff stems from the fact that we split the fixed engineering pie, fixed budget across many places. And so. And look, look, it's a values judgment, right? Community made that value."
+    },
+    {
+        "speaker": "C",
+        "text": "But hold on, I'm just pointing out for Solana. Yeah, for Solana. My understanding, I mean, correct me if I'm wrong, but my understanding is, like, everything is derived from the Solana core client. And, like, they added little things on the same way that people have added stuff on the gas. Oh, no, it's all still the same."
+    },
+    {
+        "speaker": "A",
+        "text": "So many little soul is added."
+    },
+    {
+        "speaker": "C",
+        "text": "It's like."
+    },
+    {
+        "speaker": "A",
+        "text": "But fire dancers is an adult fire dancer and c plus."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, fire dancer. Fire dancers are ground up rewrite, but fire dancer, they didn't, they didn't. They constrain their initial launch to say, like, look, we actually. A bunch of the stuff. We're just going to run the original code and then we're just going to add like, modules over time, because the ground up rewrite was just way too big for them to, they changed, like."
+    },
+    {
+        "speaker": "A",
+        "text": "Everything, even though, like, erasure codes are completely rewritten. Like I think you should in the v one. Yeah, I mean, the reed solvent implementation there is completely different. So I think, at least from what I see in their GitHub, which is my north star on this, I think you should really consider fire dancer a complete, it's like Reth and Geth."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, that's my assumption, is that they want to eventually get to a complete rewrite where they jettison all the old code. Yeah, but my understanding was that they were basically like, look, we're going to chew up, we're going to bite off something that we can actually chew initially as opposed to waiting until we have the entire client rewritten. But, yeah, fair point. I understand. Obviously, fire dancer is not live and well."
+    },
+    {
+        "speaker": "A",
+        "text": "I just feel that they chose different engineering choices. Right. Like fire dancer chose particular optimizations they want to do. They're going to rewrite it, whatever. But they didn't hold up hard fork inclusion. It wasn't like they had engineering resources that would have gone towards adding new features for the next hard fork into maintaining another client. Right. Whereas in Ethereum, I do think that's actually true. I'd really think there's a, I don't think the pool of people working on clients is growing anywhere near as fast as transaction demand is growing. And you have this finite resource and you have to allocate it, and you chose an allocation as a community to spread it across clients. But you could have imagined an alternative universe where all these features that everyone talks about, which aren't implemented, actually are already in the chain, because instead of rewriting the client x times, you actually added the features. There's also this."
+    },
+    {
+        "speaker": "C",
+        "text": "What are all these features that you're."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, dank sharding and all of the data availability related stuff? Are you kidding me? Like that. There's the entire, there's tens of billions of dollars of market cap that have arisen because of how slow this is. Never forget that. Right, like that, literally, because people just didn't want to invest time. So it is a management thing, it's an organizational behavior thing of like, we have finite resources and we're treating them as if they're not finite, but they actually are. And so what's the opportunity cost? Well, it's this thing, and then, so now we have a da layer war."
+    },
+    {
+        "speaker": "C",
+        "text": "So actually, maybe there's a good transition to talk about den kun. So den kun is the name for the upgrade that is going to be actually shipping proto dank sharding. So proto dank sharding. For those who are not familiar, long story short, this is essentially what's going to implement EIP 4844, which is the blob storage. So essentially what this is going to do is right now, if you're a roll up and you want to post some data to Ethereum, you have to pay a lot of money. And basically you're taking up the same space that every other competition in Ethereum is taking up of writing volatile storage onto Ethereum. In a proto dank sharding world, there's going to be a separate lane that is only going to be for data availability, basically, meaning it's going to be short term storage where you can just dump some blob of data, arbitrary data. Ethereum doesn't care what you're putting there. It's just anything, and it's stored in retrieval for a short amount of time. Essentially, this is more or less ready to go. I think people are projecting right now maybe like end of Q one. I think this is projected to potentially hit mainnet. There was a testnet trial run that was taking place on Gurley. Apparently it didn't go very well, and so they're now going back to the drawing board. That may end up delaying things, but this is projected to lower the data availability costs for rollups on Ethereum significantly. Now, that being said, from what I've read, the expectation for the throughput, meaning the total amount of data that's going to be writable to the blob storage on Ethereum, is something on the order of 0.6 megabytes per second, something like that. We don't know the exact numbers right now, but it's not huge relative to what people are talking about. For data availability layers like Celestia or avail or Eigen DA, those are projected to be more. In the many megabytes per second of total data throughput that they can withstand, Ethereum is going to be relatively low. And so there's a lot of projection that even in a proto dank sharding world, although it will lower costs for rollups significantly, the total demand for DA is so high that there's still going to be, we're still going to have to use external DA in order to withstand all the demand for data availability."
+    },
+    {
+        "speaker": "A",
+        "text": "Usually you are the person who forces everyone to stop and define some terms, but I'm going to flip the script on you and make you define data availability for the listener. I used it first, but I'm going to still make you do it."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, thank you. No, good shout. Data availability, it's the new hot term that everybody's talking about. Celestia, eigen, Da, and avail are all data availability layers. Data availability is basically the very simple explanation is that there are certain kinds of storage that are not needed for long term storage, but basically short term storage or medium term storage. For example, for rollups, especially optimistic rollups, oftentimes you have what's called this challenge period where you need to be able to see the data that has been committed to this layer two for up to two weeks or up to a week or two weeks or whatever. Roll ups parameterize it differently. And so data availability is a mechanism to prove this data has been stored and it's available for up to some short period of time. It's not forever, like a network like Filecoin or Arweave. What's the infinite store Arweave or arweave, which claims that it stores data forever, or Filecoin, which stores data up to some long contract period, but instead it's like, hey, this data is going to be available for x period of time, and then no bets are off on whether or not this data will continue to be available. The replication and the availability is very important to roll ups in particular. So almost everybody, when we talk about data availability, we're mostly pointing at rollups. Almost nobody else really has this data access pattern. But rollups are the big story for Ethereum scaling, and that's why data availability has become such an important idea that many different teams are trying to add on to the capacity of Ethereum in a proto dank sharding world to give it more data availability capacity. So what do you guys think is going to happen when we get data availability increases? A lot of people are now projecting that because of the total demand and the total number of rollups increasing so much that we may actually not even get the discount in DA prices that people are projecting with proto dank sharding, because basically as soon as we get more capacity, demand just increases."
+    },
+    {
+        "speaker": "A",
+        "text": "Fill it up. So do you know what braces paradox is?"
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, is that the."
+    },
+    {
+        "speaker": "A",
+        "text": "Yes, exactly. It's one where when you add a road, you actually increase congestion in certain networks under certain types of flows. Um, I feel like this is a nice apt version of this where like sometimes you build a road and actually all you do is increase congestion because everyone wants to take the fastest road or the safest road or whatever. And so they all just kind of keep doing that."
+    },
+    {
+        "speaker": "C",
+        "text": "That does seem, I mean, on the face of it, it seems implausible today because almost everyone is using the main road. Ethereum as da. Yeah, everyone is using the main road. Right. So I think braces paradox only works if there's already multiple roads."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, you need, you need roads of different amounts of traffic. Like you need roads that are of highways and that they kind of have constant speed. That doesn't, the speed it takes you doesn't depend on how many other people are on the road versus like single lane roads where like speed you go at depends on. But you could argue that a lot of the alternative da layers now, in a world where you have multiple of them, you might actually start having this kind of brace like effect."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, what's going to happen is the newest data availability layer that, you know, people get excited about will be the one with this paradox because everyone's going to race to whichever layer."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I agree. I agree. I kind of agree with that. Well, they're all fighting to be the layer. Everyone wants to be the brace paradox. You want to be the brace data availability. Right."
+    },
+    {
+        "speaker": "B",
+        "text": "That's the paradox. It's a double paradox is that it's going to happen because the road itself wants it to happen."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, data availability is kind of weird because it is, it is in a sense like a b two b thing in that consumers like don't know where their data is being made available because they don't necessarily care."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, exactly."
+    },
+    {
+        "speaker": "C",
+        "text": "So would that not be an indication that actually the protocols themselves are likely to be pretty rational and sort of allocate efficiently across all the roads, so to speak."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean, I think we're seeing certain roll ups or like people who have moved some of their applications to their own roll up, like Avo announced today they're using Celestia Ava was like a large perpetuals, decentralized perpetuals exchange. That disclaimer I think everyone in this show is investor in, and I think there's Lyra finance a couple of weeks ago. So you're starting to see people who have real users and are paying the DA costs suddenly be like, wait, I don't want to pay the DA costs anymore. And I think the market is starting to flip into this fee mindset now. I was talking to someone today. Even if the DA layers lower the fees to Solana like levels for a lot of these applications, I think that's like the goal in some ways of like if we zoom out and you're listening to the show, and you're like, who the fuck cares about this data storage thing? Like, why is ephemeral storage versus long term? Who cares? All you need to think about is, this allows you to lower fees in some certain way, because it turns out these data storage fees are quite high. Make them perpetual, but if you time bound them, you can make them cheaper. And I still don't think that you can say that roll up Ux is like, roll ups are like, one to one with Solana just because the fees are the same, because I really think that Ux difference is still not very non trivial between the two. I mean, how do you feel when you. Do you feel like if you went to a roll up to use an application, the fee went down 100 x, you'd be like, okay, great, I'm going to stay here. Versus moving to a cheaper."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I don't know how much. I mean, this is actually also an interesting argument. Uh, I think there's, like, if the fee is low, it doesn't really change the ux, at least not for me. If the. If the fee is, like, $0.10 versus, like, a 10th of a cent, I."
+    },
+    {
+        "speaker": "A",
+        "text": "Think for meme coin traders is that's the only place where it matters. Cause it's like people who are like, I have $10. I want to buy ten different meme coins right now. You know, it's like, okay, then you're very, very fee sensitive."
+    },
+    {
+        "speaker": "C",
+        "text": "Yes, yes. But I mean, if you look at binance smart chain or you look at Polygon, fees are not. I don't think there's a lot of evidence that you need to be that basically demand is responsive to fractions of a fraction of a cent. I think maybe there's a theory that, oh, the guy with $10, he can do all these things on Solana, he can't do on binance smart chain. But I just don't think there's a lot of actual evidence for that story being a driver of behavior."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I'm just saying that this is something I. This is something I feel like I hear all the time that people are saying. It's like, oh, like, these are like, solana, then we will compete for the meme coins again. I just don't feel like that's true to me, but I'm willing to be wrong."
+    },
+    {
+        "speaker": "C",
+        "text": "It doesn't feel like that's true to me either. I don't know. Tom, what do you think?"
+    },
+    {
+        "speaker": "D",
+        "text": "Oh, I was gonna say, I mean, I think, you know, sort of like the whole, like, log versus linear wealth debate. I think there's sort of like a inverse log, like, cost debate here thing, too, where I think you're right, if you go from, I think, a 10th of a cent to 100th of percent or a thousandth of a percent, like, it's actually, like, so negligible at that point. And I think even we get this argument too, around, like, latency as well. People say, okay, you know, Solana, you have a few hundred millisecond block times versus 1 second confirmation time on a roll up. Sure. Maybe if you're a high frequency trader, maybe you're trying to do Nasdaq on chain. That is a meaningful difference. For people who are trying to send USDT back and forth to their friends or mint NFT, that is really not a meaningful difference. And so I just find it hard to believe that that is going to be where people are sort of making their decision. I think it's going to be much more around where do developers want to actually build their next application? Is this a place where they feel like they can find users and they can find capital and they can find a great experience to build on top of? Again, that gets more. Where Solana succeeds versus a roll up, is that it's simple, it's monolithic. You can come up and you can deploy. But obviously, the downsides of the SVm, people having to bridge over having to find new users and capital. So I think in many respects, the cost of the tech are a very minor determiner of usage, and it's much more about these other factors. As I go back to your fee question, there's actually a polymarket, um, for the gas price per blob one month after EIP 4844. I don't know, like, what one blob question."
+    },
+    {
+        "speaker": "A",
+        "text": "You want to show it?"
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "I have not done the back of the envelope math to even, like, grok the basics."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I didn't know what this means."
+    },
+    {
+        "speaker": "D",
+        "text": "Um, so, yeah, I'm like, I realized, like, we're actually, we actually are like one unit off from like a, like, average, like, transaction or like, you know, call data amount or like, you, you know, storage size. But interestingly, there's already a market here. I guess if listeners know what a blob corresponds to in terms of practical usage, I'd be curious to hear."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, so none of us actually know what this means? No, I just not. I'm glad we threw it up here. Is like a roll up. Is a roll up settling one blob per block."
+    },
+    {
+        "speaker": "D",
+        "text": "Okay. A blob is 128 temporary data yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "It'S just 100 it."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay."
+    },
+    {
+        "speaker": "B",
+        "text": "This doesn't seem that off. I mean, in this prediction market, it doesn't seem that off from vaguely what the costs are today in the status quo. I mean, looking at the upper bounds of like 0.01 ether and stuff to 0.1 ether. No, that is cheaper. It is cheaper."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, yeah, yeah. The market is pricing in a ten x, effectively."
+    },
+    {
+        "speaker": "B",
+        "text": "Sorry."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "If it's 128k. Let me zoom out, let me zoom out and look at this from first principles for a second. So I think data availability does lead to different types of applications fundamentally. I think everyone's focused on like, oh, at least l two is being efficient. But I also think it could lead potentially to very different things. When you look at what is the cost of writing something to a blockchain? Some data. The reason it's so expensive is because you're not writing it to one computer, you're writing it to 200,000 computers and like forever. That's like the notion that most people have about bitcoin or ethereum. I mean, it's like, data is crazy expensive because like, you're writing it all over the place and you're writing it in forever versus writing it all over the place for a short amount of time. That's way cheaper. Right. But it's still fundamentally like crazy expensive because you're writing it all over the place. You know, to write one hundred twenty eight k of data to like, you know, an s three bucket is nothing. It's free forever. So I think what happens is you start to innovate on the data availability products. Oh, it's not forever. It's for a week. It's for two weeks, it's for two minutes. You get different applications entirely. I actually think crypto gaming actually might be a weird long term beneficiary of like, blobs and more transient storage in general. Just because if I'm making a video game, I don't need the data to persist for 20 years, I need it to persist for, I don't know, maybe a couple months in some sense, and maybe it just completely unlocks a new type of application there. And yeah, maybe there's a lot of on chain Nasdaq trading that just doesn't function at all. But when it's more transient, it does function. And I'm curious to know what sort of like, the use cases that erupt from this are, that aren't just like, oh, this was designed for l two s to post data that you need for exactly two weeks."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, I mean, so far I haven't seen a single, I don't think I've seen a single game. I don't think I've seen a single application claim to me that they're going to use DA for this alternate use case. That said, the further away you get from the more crypto native stuff of like Defi or layer twos or whatever, the less people even care about any of these concepts theyre like, oh yeah, I mean look, my games already centralized so I might as well just store all the shit myself."
+    },
+    {
+        "speaker": "A",
+        "text": "Theres a $15 billion market cap coin that says theres some amount of care."
+    },
+    {
+        "speaker": "C",
+        "text": "A 15 billion market cap coin that."
+    },
+    {
+        "speaker": "A",
+        "text": "Wait, what about Celestia pair and these things? Im saying, im just saying FTV."
+    },
+    {
+        "speaker": "C",
+        "text": "Excuse me. FTV, market cap. FTV."
+    },
+    {
+        "speaker": "A",
+        "text": "Sorry, sorry. FTP F two."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, I was thinking market cap. Yeah, look. Yes, yes, yes. Okay, here's the other thing I would say, and kind of going back to the previous point about performance, right, because I want to continue this thread of like how much are people sensitive to fees and also how much are people sensitive to latency? Because I think this is also a big part of the story about roll ups and about Solana and about why people are going to be moving away from Ethereum mainnet and these traditional experiences."
+    },
+    {
+        "speaker": "A",
+        "text": "I mean this is also something, by the way, is unique to crypto. This like fee versus latency trade off in Ux design, right? Like in what? In, in, like if I made Robin Hood or revolut. I don't really ever think about that. Right. I just try to."
+    },
+    {
+        "speaker": "C",
+        "text": "What you do in that you want to get as low as possible. Yeah, exactly. Exactly. You make both zero. Yeah, exactly."
+    },
+    {
+        "speaker": "B",
+        "text": "But the data is plentiful because you just store it on one server."
+    },
+    {
+        "speaker": "C",
+        "text": "Oh, totally."
+    },
+    {
+        "speaker": "B",
+        "text": "And you can do it on a limited scale."
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, ironically, I'm pretty sure that storing stuff on Arweave, which is supposed to be forever, is cheaper than call data on Ethereum, which is supposed to be temporary. Right. So like, I think the, the absolute, um, externality is not how these things are being priced. It's just a, it's just a market. And there's like some constraints that are being set somewhat arbitrarily on like why, why is Ethereum call data more expensive? But the data on Arweeve storage on."
+    },
+    {
+        "speaker": "B",
+        "text": "Arweave can't really do anything. There's no, like other applications that are composable with that data, really, at least to my current knowledge."
+    },
+    {
+        "speaker": "C",
+        "text": "There's no applications composable with call data. Right. Call data is transient."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, that's true. But like, on Ethereum and on Solana and all these places, the data is super valuable because it represents token balances and the transfer of those tokens. And it's like extremely valuable data, like storing a photo or a movie or something like that. It's not as valuable."
+    },
+    {
+        "speaker": "A",
+        "text": "I also think there's this weird thing that I still have not been able to philosophically get around, which is philosophically blockchain started as append only. There's no notion of this delete transient behavior. Of course, you eventually add that back on. But the history of computing has always been this. Just in time storage, just in time compute. That's how the cache hierarchy means that, you know, whatever. You're not really a von Norman architecture computer in any sense of the word, in a modern computer. But it's never been clear to me like, what blockchains get from these types of caching optimizations. Like, I think l two s are an example, but it's sort of a blockchain eating a blockchain. It's not like a caching thing that without the caching, you would just like never work. Right? Like l two s are working right now without blobs. Space more expensive in some. Some sense. So there's just kind of this weird thing to me where I. I don't. I haven't seen something that isn't just like, what's the use case of this particular thing, another blockchain? You know, like we haven't quite."
+    },
+    {
+        "speaker": "C",
+        "text": "That is true. That said, we love blockchains, especially on the show. We love blockchains. That's the best. That's the best. Christmas present is more blockchain."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, the chopping block chain."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah, exactly."
+    },
+    {
+        "speaker": "A",
+        "text": "I'm just saying I would like to see some, like, you know, like, how could you?"
+    },
+    {
+        "speaker": "C",
+        "text": "You're ruining Christmas."
+    },
+    {
+        "speaker": "A",
+        "text": "I know, I know. I'm sorry, I'm sorry. I'm just. I'm just saying, like, like, it would be cool if the. Like to Robert's point of like, is there something else? Because, like, okay, yeah, I agree."
+    },
+    {
+        "speaker": "B",
+        "text": "What is there?"
+    },
+    {
+        "speaker": "C",
+        "text": "Tarun, you are in the wrong industry. If you're asking, is there something else? I think maybe you need to take a vacation, come back, renew your love of blockchain."
+    },
+    {
+        "speaker": "A",
+        "text": "No, no, no, I love that."
+    },
+    {
+        "speaker": "C",
+        "text": "I think if there are more blockchains, that's fucking awesome."
+    },
+    {
+        "speaker": "A",
+        "text": "I just think caching enabled a lot of things in operating systems, like window managers. Why do you have the UX that you have with having multiple windows? Caching helps a lot with a very basic level for them that's like some application that was enabled not just strictly like, oh, I could like do more of this compute, you know, and like, I just feel like somehow that is not obvious to me in a lot of these systems, like where that comes from, other than fee. Like the fee part I get, right. You know, I honestly would say something like privy and like, embedded wallets is much better for user UX than this ten x fee reduction because it makes it feel closer to a web two app for Solana. And the fee reduction matters until some point, right? People aren't elastic, like what we were just saying, right?"
+    },
+    {
+        "speaker": "C",
+        "text": "Like, but we're not anywhere near that point for something like ethereum, right? Ethereum fees are crazy, I agree."
+    },
+    {
+        "speaker": "A",
+        "text": "But now suppose we, we take the DA layers. We made the fees, Solana fees. I still think the marginal utility to the user actually goes up more from the privy style embedded wallet experience versus the, the fee beyond. Like there's some threshold at which they completely flip, right?"
+    },
+    {
+        "speaker": "C",
+        "text": "But here's the point that I was going to make, is that l two s also enable a lot of this. Not necessarily, you don't need a privy style thing, but you just need the fact that l two s have these sequencers who basically run the chain, right. It's potentially even a centralized entity, although people want it to be decentralized sequencers over time. One of the advantages of these sequencers is that you can give people these optimistic confirmations. Instead of saying, okay, we're going to fully achieve consensus and do all this fancy shit. Instead we're going to say, look, we're going to tell you thumbs up, you're in the blockchain even though you're not actually in the blockchain yet. But I promise you, you'll be in the blockchain. And if you're not, you can at me and take some. I'll pay you some money. I'll give you a refund later if it turns out you're not in the blockchain. And this actually enables really great Ux and even lower latencies than Solana. You can basically say, look, the moment you ping my ip and I give you a check mark, you're good. So that can get you down to like 100 millisecond latency or like more web two style latencies. I think this kind of the intermediated architecture where you have this optimistic layer in between yourself and the chain confirmation. I think this is going to be the direction that all blockchains go over time. Or not all blockchains. But I should say all applications go over time, right. If you're a Dexe, if you're a game, I'm not actually going to wait until the blockchain says yay or nay because, yeah, I don't, even if I'm a game, I don't want, even if I'm on Solana, I don't want people to wait 400 milliseconds. Like, that sucks. No game would ever say, great, let's, we have to wait 400 milliseconds. Cause the blocks, you know, block time says so."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, it does ask the server, you know, very quickly."
+    },
+    {
+        "speaker": "C",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "Did like you get the kill shot or not or whatever."
+    },
+    {
+        "speaker": "C",
+        "text": "Exactly. But it doesn't wait 400 milliseconds to ask whether you got the kill shot, right. Super snappy latency. And it uses a lot of optimistic tricks to assume the answer is yes. And if the answer is no, then I go and revert."
+    },
+    {
+        "speaker": "A",
+        "text": "This optimistic thing is effectively the same as, in some ways, what caches and a processor do, right? They optimistically store a cache line even if it doesn't know it needs to read it because it assumes there's some sequentiality. And you'll get some benefit from that."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, it's more like the super scaler processors for sure."
+    },
+    {
+        "speaker": "A",
+        "text": "Sure. But I just don't, to me, there's still this missing thing of like I open phantom and I use salon applications and it's very responsive. I mean, they have problems with transactions on landing. They have tons of problems with spam. So let's ignore that. But the actual application usage is just so much easier onboarding for a new user than an l two. And l two, you kind of need an intermediary lending you money on the l two. Otherwise you have to go through the canonical bridge. It takes forever. You don't have the same onboarding ux either, I feel like, and that's something I don't think."
+    },
+    {
+        "speaker": "D",
+        "text": "I disagree. There are exchanges that will give you a direct deposit on an l two."
+    },
+    {
+        "speaker": "A",
+        "text": "Going to base is easy. Going to base looks nice."
+    },
+    {
+        "speaker": "D",
+        "text": "This is like a very."
+    },
+    {
+        "speaker": "C",
+        "text": "On binance, it's like almost every l two, they support direct withdrawals."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah, I guess I was gonna say, imagine this is just like a, this is like a twist on chinese room argument. You know, you're, you're sending transactions into a box and, you know, on the outside, hey, transaction was confirmed. Does it matter if it's just, you know, a single server sitting somewhere that's actually processing all the transactions, or it's, you know, this entire Solana blockchain going through consensus practically not. Especially if the end result is you're gonna get you to the same point, you know, several days down the line."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I just think, I just think somehow, like features that improve UX seem to never get any priority in these roadmaps. And again, maybe we're back to where we started of like, hey, we have fixed engineering budget, maybe we shouldn't spend it on duplicating the thing more than three times. Right."
+    },
+    {
+        "speaker": "C",
+        "text": "Well, going back to Vitalik's post about cypherpunk values, I think it is really like, yes, look, you're totally right. And obviously four of us are investors and we care a lot about creating great products as opposed to just great protocols. But Ethereum is Ethereum because of the values that it espouses."
+    },
+    {
+        "speaker": "D",
+        "text": "For sure."
+    },
+    {
+        "speaker": "C",
+        "text": "We're not focused on ux. The UX of Ethereum is shit."
+    },
+    {
+        "speaker": "B",
+        "text": "No, it's like C. Okay, well that's."
+    },
+    {
+        "speaker": "C",
+        "text": "I mean, I don't know, for a startup that's shit, right? Like from the perspective of product building. And bitcoin is even worse. Yeah, and bitcoin, it's like, yeah, yes, you're right, it's bad. And it's going to stay bad forever. God bless bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, that I actually am, I would be willing to bet against, I think."
+    },
+    {
+        "speaker": "B",
+        "text": "On the next shopping block."
+    },
+    {
+        "speaker": "A",
+        "text": "I think the bitcoin roll ups are the bitcoin roll up world. Kind of interesting lately."
+    },
+    {
+        "speaker": "C",
+        "text": "Okay, all right, all right. Interesting maybe."
+    },
+    {
+        "speaker": "A",
+        "text": "But I guess to me it's just more like I want to kind of feel like the l two progress is more than just fees. And because like I get the fees are important, but I think, I think the, the fees are not linearly elastic. It's not like I decrease the fees ten x, I get ten x more utility for a user. And I somehow think like, that keeps just being completely missed and it in ways that like annoy me when I use, try to use some products."
+    },
+    {
+        "speaker": "D",
+        "text": "Yeah. There's definitely diminishing marginal utility for reducing fees, but we're not there yet. Right. We can still reduce and we will get a much, you know, much better ux."
+    },
+    {
+        "speaker": "C",
+        "text": "Yeah. I think that that gap is between like Solana and the roll ups is where, or like Solana and Polygon. Right? Like that's where there is this just inelasticity where nobody really cares if it's like a 10th of a cent or a thousandth of a cent, but people really, really do care between, like it's $2 to do a swap versus it's two cent to do a swap. I think there's a lot of elasticity in that, in that gap. So, anyway, we're up on time. We'll be back next week. I'm sure there's going to be no more ETF conversations at all in any way. So, uh, look forward to, for the record, postcf talking block."
+    },
+    {
+        "speaker": "A",
+        "text": "I feel like somehow someone on the Internet will interpret what I said as being a Solana shill. So I want to let the record be straight."
+    },
+    {
+        "speaker": "C",
+        "text": "Are you not a Solana shill?"
+    },
+    {
+        "speaker": "A",
+        "text": "I think. I think there's duality where both of both ecosystems have their right, and, like, each, like, using products in both places gives you. It just, like, gives you a lot more insight into, like, there are things they could learn from each other, but instead, everyone's just, like, constantly beating each other up. And, like, I think the code bases the products. Like, if you use those and read the code, there's a lot of lessons that could be learned. And somehow I just think in eth, this obsession with optimizing DA, I feel like at some point, the returns to that are going to zero. Right. And so we need to do something else. And I think that's why people are excited about restaking, because it's like. It has, like, yes, there's da, but then there's more. Right? And then, like."
+    },
+    {
+        "speaker": "C",
+        "text": "Sounds like something a Solana shill would say. All right. With that? Thank you for giving us the last word. Tarun. We're going to sign off. Thank you, everybody."
+    }
+]

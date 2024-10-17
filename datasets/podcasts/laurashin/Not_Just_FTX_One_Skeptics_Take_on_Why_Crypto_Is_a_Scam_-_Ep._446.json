@@ -1,0 +1,438 @@
+[
+    {
+        "speaker": "A",
+        "text": "Hi everyone. Welcome to Unchained, your no hype resource for all things crypto. I'm your host, Laura Shin, author of the Crypto Pns. I started covering Crypto seven years ago and as a senior editor at Forbes, was the first mainstream media reporter to cover cryptocurrency full time. This is the January 24, 2023 episode of Unchained. If you've been enjoying Unchained, consider signing up for Unchained premium for exclusive content, leaving us a review on Apple Podcasts, or sharing Unchained with a friend. Hey unchained listeners. As you know, its hard keeping up with a fast paced world of crypto, so weve got just the thing for you. Subscribe to our free unchained daily newsletter at unchainedcrypto dot substack.com. youll get the latest crypto news and original articles from our reporters, as well as summaries of other happenings and bullet points. Plus our meme of the day, all curated and written by our amazing team. Its still your no hype resource for all things crypto, just in newsletter form. Sign up at unchainedcrypto dot substack.com. again, the URL is unchainedcrypto dot substack.com dot Defisaver is an all in one management app for top lending protocols on Ethereum such as Aave Maker, liquite, and compound. Theyre best known for their one transaction rebalancing options and automated liquidation protection features, and you can check them out on ethereum, arbitrum, and optimism today. Buy, earn, and spend crypto on the crypto.com app. New users can enjoy zero credit card fees on crypto purchases the first seven days. Download the crypto.com app and get $25 with the code Laura link in the description today's guest is James Block, the author of the Dirty Bubble Media newsletter. Welcome, James hi, glad to be here. So you are actually a doctor, but you published this extensive and actually fairly frequent newsletter on crypto. How did that even happen? How did you even get into crypto?"
+    },
+    {
+        "speaker": "B",
+        "text": "I learned about it probably a year and a half ago, so I'm relatively new to it. I've always had a fascination with financial fraud and finance in general, going back to when I was a young kid even, and it was difficult to choose between medicine and finance. But I ended up going into medicine for my career. But I've always kind of kept an eye on things. And when I learned about crypto, one of the first things I learned about was the tether stablecoin in some of the companies that were associated with them, I saw a lot of red flags that made me concerned that there might be something nefarious going on with these companies. And it kind of was organic. It wasn't like I was planning to do this. It went from me just being on Twitter following people and learning to doing my own research, to eventually writing things and actually trying to make a contribution. So it's kind of grown over those months into what it is now."
+    },
+    {
+        "speaker": "A",
+        "text": "Wow. I have to say, I'm super impressed that you only started getting into crypto a year and a half ago, because your newsletter will go into blockchain analytics and you have this understanding of, I mean, I guess you said you already had an interest in finance, but still. Yeah, I'm actually very impressed. And when did you launch the newsletter?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think it was in January. I actually started it. I was concerned that my Twitter account was going to get taken down or hacked or something, which actually ended up happening at one point, and I wanted to have a place to save the things I had done so far. So I started basically copying threads I had done on Twitter over to substack. And then I think the first actual article I wrote for Substack was in February."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, wow. But why did you have that fear that your Twitter account would be hacked? Because you can secure it?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, so I was getting targeted by bots a lot. I was posting a lot about a few different things. I was focused a lot on the Celsius network, and, I don't know, I just had a few interactions that made me think that my account might be targeted either for, like, mass reporting or something. So I figured I might as well put the stuff somewhere else safe, actually. And then in May of 2022, or, sorry, it would have been June of 2022, my account actually was hacked, and I lost control of it for about two and a half months. And my substack was also targeted by fraudulent copyright claims and actually taken down for a little bit as well. I had a fun summer trying to preserve what I had already been working on."
+    },
+    {
+        "speaker": "A",
+        "text": "Wow. And wait, is that simply because of your involvement in crypto that all that happened?"
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, thats all I write about. So I assume that I made somebody upset, whether it was related to my work on Celsius or certain other things id been working on, im not sure. But the timing was interesting because it was right around the same time as Celsius for those withdrawals. And I was publishing a lot of real time tracking of some of the things they were doing in terms of moving money around, and that was when things happened. So I don't know. I think the copyright stuff against my blog was actually a separate thing, but that's just me speculating. So."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, we'll talk offline, because I have some thoughts for you. I don't want to make my thoughts on this public, but anyway. Okay. You said that you had an interest in financial stuff, but I don't know if you have any training or anything like that. But I was curious to hear exactly what your finance background is."
+    },
+    {
+        "speaker": "B",
+        "text": "My finance background amounts to growing up with an accountant for a grandfather and a lawyer for a dad, and they would argue about. Argue about investing every weekend when we would go and visit them. And so I picked that up. I don't know. I didn't have a lot of video games and stuff, so I ended up reading the Wall Street Journal and things. I was a weird kid. So that's really my background is just piecemeal, sort of reading books about history of different light frauds and other companies and things. Have a few of them on my bookshelf. And, like, you know, you start to pick up sort of how things work. You don't necessarily have to have a formal understanding of everything. Like, my accounting skills are abysmal, but, like, do I. Can I. Can I recognize how a company works and kind of piece together kind of the broad strokes? Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "Wow. Okay. Like I said, very impressive that it's, you know, kind of more self taught, I guess, than I would have expected. So, at least for me, I think the first post of yours that I remember seeing Washington, the one is Alameda research and solvent, and it's the one that came out a couple of days after the coindesk article on Alameda's balance sheet. So I was curious, like, you know, you said you launched in February of last year, your newsletter. What was your experience in terms of the trajectory of that newsletter? And, you know, how it really started getting around?"
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, I just started writing about the things I thought were interesting. So, in addition, when I was doing, I did a medical degree and a doctorate in research during, like, my graduate training, what I learned was about research and learning how things work is you have to almost force yourself to write about things. To really understand something. You have to force yourself to try to explain it to other people. And so that kind of grew out of that was like, okay, well, I found this interesting thing. How about I try to write it in a way that anybody could understand it, then that way I know that I understand it. So that's really how it started. And. Yeah, I don't know. It just kind of grew from there. You know, I got some attention because of the Celsius stuff. A couple things I wrote about nfts and, like, celebrities and things got a little bit of attention. But really, the Alameda thing was really what got a lot of people looking at what I had been doing."
+    },
+    {
+        "speaker": "A",
+        "text": "Was that your first viral post, the one that I mentioned?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I would say so, yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "So, as I alluded to earlier, your articles can be somewhat long, and the analysis sometimes is pretty detailed. And given that you have this completely different job in a totally unrelated field, I was wondering how you even have time to do this. And, like, so I really, you know, you just said that you did it because you wanted to force yourself to understand, and writing does that. But, like, is that really the main reason at this point? Like, you. You basically have this entire other career, so why is it that you're spending so much time and effort publishing this newsletter?"
+    },
+    {
+        "speaker": "B",
+        "text": "It's fun. I mean, like, I almost quit doing this a few months ago, actually. I had done a lot of stuff with Celsius. I had actually found some original things that were cited in other, other papers and coindesk and things I kind of thought, like, well, I've made my contribution to this. I can just quit. I just have too much fun doing this. I've met so many interesting people and learned so many interesting things about real finance in addition to crypto. And literally, I know everybody. I know people all around the world now because of this. Right. So, like, I can't really stop now, unfortunately. Maybe. But in terms of time, I mean, I find. I find time. Nights, weekends, whatever. I. That when this is your hobby, when you have a hobby that you really like and care about, like, I don't really watch a lot of Netflix. You know, like, I don't. I'm way behind on reading books. I'm way behind on, like, other things I like to do because this is basically what I do for fun."
+    },
+    {
+        "speaker": "A",
+        "text": "I love it. I love it. And now the crypto world is benefiting."
+    },
+    {
+        "speaker": "B",
+        "text": "Maybe. I don't know if they. I don't know if everybody thinks they're benefiting, but."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, well, even if they don't realize they're benefiting, they're benefiting. And I was curious, how do you create the graphics of the blockchain flows in your articles like, it looks like you?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, it's easy. No, that's a free tool called wow. Bit query explorer, bitquery IO. It's literally a free. It's very easy to use and it's very accurate from what I found. I've actually gone through and aggregated transactions and made sure that the numbers they're saying are accurate. I mean, there's certain limitations, obviously, but, yeah, I mean, it's a free. Is free software. I actually wrote an article about how to do this a few months ago."
+    },
+    {
+        "speaker": "A",
+        "text": "Oh, my God."
+    },
+    {
+        "speaker": "B",
+        "text": "How to do everything that I do. Because I figured, like, it really isn't that hard. It just takes the time of, like, clicking through a bunch of stuff and trying to figure out who owns what. That's the hard part. But in terms of actually doing the. Doing the math and, like, understanding what's happening, that's not that difficult once you spend a little time, you know, familiarizing yourself with it."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, great. I'm definitely going to check that article out. I don't know how I missed it because I was obviously reading a ton of your posts then. I also was wondering why you chose the name dirty bubble media."
+    },
+    {
+        "speaker": "B",
+        "text": "I don't know. A lot of things just sort of happen. I don't remember when I came up with it exactly, but it was fairly early on. I think it was when I was. I encountered. I think it's Jim Chanos who calls this the golden age of fraud. And I had this thought pump into my head that it's really just a dirty bubble. And then I'm a millennial, so I watch SpongeBob. So it was like a natural. Like, that's the villain. That's a villain from SpongeBob. So it's like a perfect, like, I don't know. It worked out, and I thought I could make a cool little thing out of it, so I did."
+    },
+    {
+        "speaker": "A",
+        "text": "I started out with SpongeBob."
+    },
+    {
+        "speaker": "B",
+        "text": "So it's just like a minor character in that show that's like a villain. Like a. Like a supervillain. That's just like a bubble that goes around and, like. Like, grabs people with its, like, bubble. It's like, it's a dirty. Literally, it's a dirty bubble. Like, that's it. It's a kids show. Like, this is not sophisticated, but it worked because of the idea that what this is is a vast economic bubble that's filled with fraud. And that's kind of the idea there."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "Also, he's a villain, and a lot of people see me as a villain, so I figured it was fitting."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, actually, that was kind of my next question for you, because your newsletter calls out a lot of problems with crypto. So I just wanted to hear your overall take on the space, what do you think the main issues are and how do you think it needs to change?"
+    },
+    {
+        "speaker": "B",
+        "text": "What I can say is that I've spent a lot of time and I'm pretty single minded person, and when I have an opinion, I usually like will defend it. And so I can definitely get one sided at times. That being said, I haven't really found a single project that's at least a project that's facing consumers and selling tokens in a project or selling some sort of investment scheme or whatever to consumers that ever seems to really be legitimate. And that's a problem. You know, I mean, look at, look at the crypto lending industry. Not one of those companies, as far as I can tell, operated in a forthright and legitimate fashion. The only one that's left now is Nexo. And they just got raided in Bulgaria for apparently helping Russians invade sanctions. So, like, you know, there's, there's problems with all of them. And I'm agnostic about whether there are certain potential applications for the technology. I'm sure there are, but the problem is, any opportunity that's offered to retail investors to actually invest in these things to me seems to be like smoke and mirrors. And that's, it's sad, but that's just the reality of the situation."
+    },
+    {
+        "speaker": "A",
+        "text": "But, and so you're differentiating that from just like kind of a straight up exchange where you can just buy and sell or I."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, so even those, I mean, what are they. Here's the thing. What are you buying and selling? Theoretically, it's like Coinbase, an example, and I have been short coinbase in the past, so I'll disclose that I actually never really write about them. But I mean, theoretically, they're operating in a legitimate fashion. Obviously they've had some problems with KYC, they've had some problems with following regulations, and they may have additional problems in the future. But at least theoretically, it seems like they're doing things in above more fashion. They're not FTX, right? They're not like stealing people's money or anything. But like, at the end of the day, if all you're doing is helping Ponzi schemes sell investment contracts that are unregulated to consumers, what is your business? Right? I mean, even if you're doing that in a legitimate and honest fashion, you're still facilitating vast scams. And Coinbase in particular is an example where they've listed all sorts of things that, you know, any rational person would say, this is not good for anybody. So I dont know. I havent found anything yet that really catches my attention and makes me think this is a sustainable business that generates cash flow thats going to actually end up surviving for more than a couple of years and make something positive for the world. I havent found that yet."
+    },
+    {
+        "speaker": "A",
+        "text": "Out of curiosity, when you talk about the different assets that Coinbase lists, would you put things like, well, lets start with bitcoin. Would you put bitcoin in that same category?"
+    },
+    {
+        "speaker": "B",
+        "text": "I think that bitcoin, to me it's irrelevant. And the reason why it's irrelevant is that the price of all of these tokens is determined by exchanges and operators who are offshore, unregulated, and using variety of market manipulation tactics to control the price. Right. So, like for example, the bitcoin ETF's that have been denied by the SEC and everybody's up in arms about it. There's a very clear list. I think it's like seven or eight things that the SEC lists every time they reject one of these applications about the problems with bitcoin markets and why they cant allow one of these things to be registered in the United States. And thats a laundry list of problems that has not been fixed. So my thing is, again, Im agnostic about things like bitcoin, because to me its irrelevant. The price is what is important right now. The price is whats sucking people in and having them spend their money on it. And theyre vastly overpaying, almost certainly because the price is determined by fraud. And thats the problem. I focus on that. It's sort of like arguing about religion or something. It's like you can set things aside and say, okay, well, there's certain problems that we have to focus on before we can talk about these more philosophical questions of what the value is when we don't have any way to tell right now, because the entire value is based on largely on fraud."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, so you're agnostic on whether bitcoin intrinsically has value?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I mean, I don't know what that even means. I mean, here's the thing. I buy, or I tend to buy assets that generate cash flow or assets that I can use. So, for example, I buy a house because I can live in it. I buy stocks and companies that I think are honest. I mean, obviously they can lie to you and you can get tricked. But I try to buy companies that I think are going to survive for more than a couple years and make profits. I try to buy bonds that generate returns, that sort of thing. So like something like bitcoin that doesn't generate returns. And also, it's like gold, at least gold, you can like bury it in the backyard or something and it'll sit there forever. And it's an element. It literally was made by stars. Like, it's not going to go anywhere. Right. But like bitcoin depends on certain things. Like a network that operates continuously. Right. There's certain things it has to have. So I would say I'm like, I'm skeptical that I would ever invest in it myself, but whether or not it has intrinsic value is a question that I don't think anybody can answer because its one of those philosophical questions that I dont think has an answer."
+    },
+    {
+        "speaker": "A",
+        "text": "Right. Meaning theres just opinions."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, those are opinions. Frankly, markets are opinions. Right. This idea of efficient markets, look at, I could get people mad at me and say, look at GameStop or something. But even in supposedly real regulated markets, theres all sorts of, I mean, theres real fraud, too. And thats the problem, I think, with a lot of the people in crypto is that youll point out and say, well, look at all the fraud happening here. They say, well, but look at the real markets or the regulated markets and look at all the fraud happening there. And thats true. There is a lot of fraud in those spaces, but its like an order of magnitude less. And at least theyre trading things that have some intrinsic value that you can prove, right? Like cash flow is intrinsic value. To me, thats intrinsic value."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. But I think then, actually, the way I was starting to characterize it is correct that you are agnostic on whether bitcoin intrinsically has value. You're saying it's more, the question is around how these markets operate. Am I right?"
+    },
+    {
+        "speaker": "B",
+        "text": "That's the problem that I'm interested in. Yeah, that's the problem that I think is because that's the problem that's relevant right now. The problem that's relevant is all these people across the world are investing their money in this stuff. And if it's not a fair system for determining prices, if the prices don't represent whatever the intrinsic value may or may not be, right, then that's the problem that we have to address before we move forward with arguing about what the actual value or use cases of these things may or may not be."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, because I was going to ask you for your opinion on Ethereum next, but I don't know if it's basically the same as what you just said."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, I think that it's interesting. I use almost exclusively, I look at the Ethereum blockchain. Right. The interesting part for me is that this is probably the first time in history where you can track fraud in real time publicly. Right? Like, I can see every transaction they make, at least on, on chain. Obviously, there's a lot happening outside of that, but you can still learn a lot. And that's not, that's never happened in history as far as I know. So there are cool aspects to it. But like, again, what's the activity on the Ethereum blockchain doing? It's transacting in Ponzi schemes and frauds. So, like, it's basically, so like, you have software as a service, which is a major, like, category of business to me. Ethereum and other blockchains like it are scam as a service. That's what they're offering. But really, I mean, like, let's be fair. I mean, look at all the tokens listed on Ethereum. How many of them even, even to someone who believes in, say, something like bitcoin, how many of them have intrinsic value even to that degree? They don't. And that's what, that's what it's used for. That's what most of the volume on this, that, on that blockchain is for. So what is it then?"
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I mean, I think probably for some of the crypto entrepreneurs that listen to my show, they're probably listening to this and they're thinking, well, I'm building something legitimate. We're actually trying to do XYZ. So for those, how would you categorize those?"
+    },
+    {
+        "speaker": "B",
+        "text": "So here's what I think, right, this goes back to what I was saying before about theoretically there are use cases for blockchains, right? Like there are banks playing around with them. Theoretically, maybe you could use it for like tracking inventory or something. Whether or not you need a public decentralized blockchain for that, versus a private blockchain that has nothing to do with bitcoin or ethereum or any of the other, like public blockchains that we see. That's one question that I think needs to be answered. But regardless, there may be legitimate projects happening, but the problem is that none of those projects are selling tokens to customers or to consumers because it's almost certainly illegal, right? Like securities laws say that these things are almost certainly securities. So like, anyone who's trying to do this in a legitimate fashion is not selling this stuff to people. So it's not even relevant. Again, it's like these, these are, these are projects that I even see is like related to the question of like what's happening in crypto, they're, they're doing their own thing that's completely separate. They don't need the Ethereum blockchain because they're building their own. Right. I mean, name one project using the Ethereum blockchain that actually generates cash flow or generates something of value. I haven't found it yet."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, I mean, yeah, I guess it was for some of what you said. I, it almost feels like you're saying like literally every ERC 20 token is, is a Ponzi or a scam."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, they either are or they're, they're used to transacting them. I mean, I don't think like USDC, I don't think is a, is a fraud, but I think that it's, what, what is it used for? I mean, it's used, it's used probably to do things that is used to move money in a way that can't be moved through banks legitimately. So maybe there's some questions there that need to be answered, but that's, I mean, I don't think like USDC is a ponzi, but like most of the tokens that are sold on there are."
+    },
+    {
+        "speaker": "A",
+        "text": "Just, I do think there are a lot of legitimate payments that are made in USDC and I don't think they're only the ones that can't be made via banks because I can think of plenty of instances of people who either get paid in USDC or people who have asked me to pay them in USDC or whatever that are just, they're just normal payments, so."
+    },
+    {
+        "speaker": "B",
+        "text": "Sure. But those are just transferring money to people. Thats not whats actually people are investing their money in. Right. People arent investing in stablecoins thinking theyre going to get rich. Theyre buying stable coins to do other transactions on the blockchain."
+    },
+    {
+        "speaker": "A",
+        "text": "Right, right. Okay. But for some reason I thought you were saying that every USDC transaction was one that couldnt be done legitimately through."
+    },
+    {
+        "speaker": "B",
+        "text": "No, I dont think every one of them is. But I think you can find a lot of examples of ones that are, and that wouldnt be possible in the traditional finance system. And thats going to be a problem when regulators, now that theyre finally aware of whats happening here, its going to be interesting to see if the stable coins are able to function in the way that they function currently. I dont know if thats going to be possible if regulators really start to get digging their teeth into it."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay, but what do you mean by that? I mean the way they function currently is you can just transfer them on a blockchain. And you were saying that somehow regulators won't allow that to happen."
+    },
+    {
+        "speaker": "B",
+        "text": "Or I guess we're going to see. I don't know. I think it's going to be very interesting to see what happens with all of this stuff in about a year."
+    },
+    {
+        "speaker": "A",
+        "text": "Okay. Meaning you think that maybe they'll require intermediaries to send the money and that will take you."
+    },
+    {
+        "speaker": "B",
+        "text": "Kyc, I have no idea what those regulations, what form they'll take, but I think what's going to happen is that a lot of the companies that have been facilitating the banking side of the stable coins are going to face problems. And the problem is if you can't find a bank to do the transactions or to hold the money for you or to facilitate transitioning it in and out of the crypto ecosystem, then that's probably where the regulations are going to come. But we'll see who knows."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, I do have a question for you about banking, because I did notice you tend to write about that a lot recently."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "A",
+        "text": "But one other question I wanted to ask about your general stance is that do you think that crypto will take off, you know, as a technology, or is, or is that just still a separate question from what you like to even tackle?"
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, I think it is a separate question from what I like to tackle. That being said, I mean, blockchain technology has existed for what, 30 years now or something? I remember exactly when it was invented."
+    },
+    {
+        "speaker": "A",
+        "text": "But no, 2008. 2008."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, that's, that's bitcoin."
+    },
+    {
+        "speaker": "A",
+        "text": "Bitcoin."
+    },
+    {
+        "speaker": "B",
+        "text": "But like, in terms of, like, private blockchains, that's been around much longer. That technology's been around for a long time."
+    },
+    {
+        "speaker": "A",
+        "text": "I. Well, as far as I understand, I think bitcoin's the first blockchain now."
+    },
+    {
+        "speaker": "B",
+        "text": "Bitcoin is the first decentralized blockchain. There are, there are early instances of blockchains. You can go, I remember the name of them. But that's been developed since the nineties. Yeah, yeah. It's not like private blockchains are not a new technology. So the fact that they haven't been adopted in any broad, I mean, they would have been adopted by now, I guess, is what I'm trying to say. I mean, do I think bitcoin has certain advantages? Sure it does. Again, I guess. I don't know. I haven't seen what its really used for beyond selling drugs and saying its a store of value, which I dont see the argument for that."
+    },
+    {
+        "speaker": "A",
+        "text": "And so earlier when you were talking about how you feel like its really the markets that are the main issue here. What do you feel would need to happen to make the space something more legitimate or to just resolve some of these issues that you talked about?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I mean, realistically, the space, it won't exist the way it does if there's regulation, right? Like if these things are considered securities, and this SEC is very strict about that and says, hey, any token that's issued by a company is a security. They won't be issued. Because the whole point of doing this was regulatory arbitrage, right? Like, that's why they did it the way they did it. That's why all these VC firms got so interested in it, was that this was a way to offer, basically offer securities contracts to, to consumers without having to go through all the rigor of actually following regulations or offering something that had any kind of link to anything in reality, because none of these tokens confer any kind of legal right to any, you know, it's not like they're dead instruments or their stock or anything. They just pieces of code on a blockchain. I don't even know if the space will exist in a very similar fashion to what it is right now with true regulation. I mean, the question would be, what is it going to be used for, right? I mean, could I see theoretically, like, here's an example. Theoretically, could you have stocks on the blockchain? Sure you could, but that would require. It would be a completely different thing. And I don't know how much of a difference it would make between having it set up on a blockchain versus the way it is currently. I don't know what difference that would really make. And then the final point would be, just because blockchain is a good technology or not, let's say it is, that doesn't mean they're going to use ethereum. It doesn't mean they're going to use bitcoin. It doesn't mean they're going to use, I don't know, Solana or whatever. Anybody can set up their own blockchain to do whatever they want. They could copy the code. They literally can copy the code. I mean, that's what signature bank did for their private blockchain. They largely copied the code for Ethereum and modified it. Anybody can do that and set up their own blockchain. So I just don't see the case that you have to invest in Ethereum or Solana or whatever, when anybody else who's well resourced and motivated can create their own blockchain. To do whatever it is they want to do."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. Just to go back to using blockchains to trade stocks. Paxos is working on something, or frankly they already have a product like that and the advantage is shorter settlement times. So that became an issue with Robinhood and Gamestop."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I mean that I don't, I don't want to talk about that because I'm not an expert, but I know that there were certain other issues with the failure to delivers on that, that actually do sort of bail out the whole short squeeze thing. But that's, that's probably a topic for another day. I mean, I don't know. Yeah, theoretically, sure. Theoretically it's possible. But again, like, if like the Nasdaq wanted to do it on a blockchain, they could just make their own blockchain and set it up on there. They don't need to go buy Ethereum. That's my problem. You can buy Ethereum thinking, well, this is going to be the future. And maybe you're right. I don't think you are, but maybe you're right. But that doesn't mean that Ethereum is the future. It's like buying stock in MySpace thinking that that's going to be the only social media network in the world. Right. I mean it's the same problem."
+    },
+    {
+        "speaker": "A",
+        "text": "Right, but. So then is that like an admission that one of these with the token will eventually take off or."
+    },
+    {
+        "speaker": "B",
+        "text": "I. No, it's a statement that that could happen. Theoretically. I don't think it will could, but I don't think any of the ones that currently exist will be used because there's no motivation to. Why would you like, if you're, if you're the Nasdaq or you're JP Morgan and you want to use, set up your own blockchain to do whatever or you want to set it, use a blockchain. Why would you like, go use somebody else's when you can just make your own, I mean, and control it from day, day one? I mean, there's no motivation for that. So, like, I, that's why I don't see the point of owning any of these projects because they can be easily replaced by somebody else's project that's used for whatever purpose it is they're using it for."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah. I mean, I think the private ones, in order for them to make sense, it needs to be consortiums, but because these are private companies that are used to competing with each other, they haven't really taken off."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, who wants to, I mean, realistically, who actually wants to have all of their transactions public. Like, do I want people knowing where I spend every dollar? I mean, like, that's the whole CBDC thing, right? Like, would you want that to be legible to everyone? No, I don't want that. Does a company want their competitors to be able to see, like where they're moving inventory or something? No, they don't. They don't want that. Privacy and secrecy are valuable assets, and when you're doing real business. So like, that's another argument about public blockchains I've never really understood is that a lot of people want privacy and there's no advantage to using a blockchain that's public, especially. In fact, there's a disadvantage."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, we'll see what happens. With zero knowledge technology, which could make things private but also have public guarantees. I feel like that could maybe change things, but we're going to move on from some of this theoretical conversation and talk about pretty specific things in the news. But first, a quick word from the sponsors who make the show possible. Defisaver is an all in one management application for a number of decentralized finance protocols on ethereum, arbitrum and optimism. The app has dedicated dashboards for lending protocols such as Aave, Makerdao, liquite, and compound, as well as integrations that allow quick access to yield earning protocols such as yearn, Convex, mstable and the newly released chicken bonds from the liquitee team. Some of their most notable features include quick one transaction rebalancing and automated liquidation protection of collateralized debt positions. On top of that, they also have tools for collateral swaps, debt swaps and instantly moving positions between different protocols. Once you load up the app@defisaver.com comma make sure to enable the simulation mode first so you can freely test all available features before diving in further. Join over 50 million people using crypto.com dot one of the easiest places to buy, earn and spend over 250 cryptocurrencies. New users enjoy zero credit card fees on crypto purchases in their first seven days with crypto.com earn get industry leading interest rates of up to 14.5% on over 30 coins, including bitcoin. Earn up to 8.5% on stablecoins. With the crypto.com Visa card, you can spend your crypto anywhere, enjoy up to 5% cash back instantly, plus 100% rebates for your Netflix and Spotify subscriptions and zero annual fees. Download the crypto.com app and get $25 with the code Laura link in the description back to my conversation with James. So let's talk about FTX. You had that breakaway post about Alameda, and I was just curious for your kind of overall general thoughts on what happened there and what the crypto industry can learn from that situation."
+    },
+    {
+        "speaker": "B",
+        "text": "So I focused when I wrote this article because I mean, obviously we only found out a few days later the extent of the fraud that had been happening there. But the part that I focused on was how they had used various tokens to create billions of dollars in fictitious value, which they then borrowed money against and also showed to their VC investors and said, look how much money we have. Please give us some more money for us to continue to build our elaborate scheme here. I mean, I think that part of the reason I was able to recognize what they were doing is that that's what a lot of these guys are doing, right? If you go back to I focused a lot on Celsius network, they were doing the same thing with their token. They had created a token. They were going to do what they call the flywheel, which is this idea that somehow their token would be used to capture value and basically create this like virtuous cycle of almost like perpetual motion in finance. And if you really think about what was happening, it didnt make any sense. What was actually happening was they were spending their own customers money to drive the price of this token up, and then marking it to their market on their balance sheet and saying, look how much money we have going to pension funds and saying please invest with us. And thats what happened in the case of FTX. They were doing something similar, but then they were also taking these tokens and using them as collateral to borrow against, which is a problem because the tokens were worth nothing. So the reason why these scams are effective, or have been effective, is that they use this veneer of a market to make it look like theres value. So in the case of FTT token, Sam could point to Coinmarketcap or something and say, look, CoinMarketcap aggregates all this data from all these exchanges and says the FTT is worth $100 a token and were going to be conservative, were going to mark it down to dollar 80 a token on our balance sheet because were just so conservative. And then they would use it to borrow against, et cetera. But in reality, if you looked at where the trading was actually happening, most of it was happening on FTX shocker. And then if you actually looked at the daily trading amounts, the volume and the liquidity was so low that if they had tried to sell any significant fraction of their token, it would have crashed it to zero. And additionally, you could show basically that they were the only people owning this token, meaning that there was no real organic demand for this thing. Nobody wanted it, nobody was buying it. And that if anything changed in their little closed ecosystem that caused them to need to try to get money fast, it was game over for them. And so that's what I published, essentially. But that's true for a lot of the projects and the companies in the space, is that's exactly what they've all done, or a lot of them have done. That's the point of these tokens, is the ones that aren't just frank rug pulls, where they just immediately sell all the tokens that they have and make a quick buckley. There's some version of the scheme that FTX and Celsius were doing. I think a lot of them were doing that."
+    },
+    {
+        "speaker": "A",
+        "text": "And you have alluded a few times to Celsius. So what similarities and differences do you see between Celsius and FTX? Because they have vastly different reputations. And yet, from what you've written, there are perhaps more similarities than people might expect."
+    },
+    {
+        "speaker": "B",
+        "text": "I'm going to say allegedly because I want to be careful. But, you know, the founder of Celsius, whose name was Alex Mashinsky, was recently sued by the New York attorneys general for fraud and basically using his own statements against him. So Celsius was very badly mismanaged, to say the least. They took lots of money and invested in very bad ideas, like investing in bitcoin mining at the top of the market into basically they have a giant mining investment now that's totally. And it doesnt make profits. So theyre having a hard time paying even to keep the rigs actually core scientific, which was a large bitcoin miner, recently declared bankruptcy, in part because of this agreement they have with Celsius, where Celsius wasnt paying their bills. So, I mean, that was just a question of horrible mismanagement and potentially fraud, which needs to be determined in the coming months. Ill let the court system figure that one out. I mean, the difference is that we can account for most of the money that's missing in Celsius, like where most of the losses were. Some of them we can't. But I've come fairly close to figuring out where it all went. And mostly it looks like just really bad investments, maybe some related parties who profited from it, but nothing like Sam, who apparently was just taking money and just doing whatever he wanted with it. We haven't seen any evidence of that with Celsius. So that's the one difference. But I mean, Celsius and FTX were very closely linked. Right? Like Celsius did a lot of business on FTX. Their token sell, token traded largely. I mean, it wasn't exclusively on FTX, but FTX was by far the largest market for a long time based on legal filings. In my own work, it looks like Celsius was actually doing their scheme to drive the price up on FTX, and then they used FTX to sell over a billion dollars of assets after they had froze withdrawals to try to pay these loans back. They had in Defi. Long story, but they had a very close and very interesting relationship with FTX that went back a long time. And I think part of that can be tied back to tether because tether was an investor in Celsius. They were one of the first investors in Celsius, one of the largest shareholders. They had lent over around a billion dollars worth of tether to Celsius using bitcoin as collateral. Then obviously, Tether and FTX and Alameda are very closely linked as well. So theres an interesting little triad there of related parties and similar interests that I haven't totally figured out yet. But I don't think it's a coincidence that FTX and Celsius were so closely linked."
+    },
+    {
+        "speaker": "A",
+        "text": "And so at minimum, just from what I read of your newsletter, it seems that you were just saying at minimum, FTX, or rather the FTX executives or founding team, was somewhat close or friendly with the Celsius team and the tether."
+    },
+    {
+        "speaker": "B",
+        "text": "Teams is that, yeah, I dont think weve fully understood that relationship yet. All I can say is that Celsius did a lot of business with FTX and a lot of business with Alameda to the point where it was, I mean, it was, I think, a unique relationship. Why that was, I mean, saying that Im speculating as to why, but I think that the fact that they were both so closely linked with the tether cryptocurrency and that team as well, that, I dont know. I think that theres probably a reason for it, but hopefully well find out. I mean, I don't know. There's still so much that we don't know about these things that has yet to be explored or uncovered, and hopefully we figure it out. I mean, you never know. Some of this stuff may never be totally resolved."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah. One thing that I saw in your newsletter that I feel like I had not seen at least too much discussion of was the history of some of the executives at FTX's european subsidiary. And I was curious if you could just talk about that for my audience."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah. So FTX expanded into Europe. I think it was mid 2021. I'd have to go back and look at my article. I don't even remember anymore. But long story short, they bought a few different entities in Europe. And I'm actually working on a follow up article about another one of those entities. But their european component of their business was licensed in Cyprus, and it was licensed by, after they purchased a company called KDNA Financial Services, which turns out, was linked very closely to whats called the binary options industry. So binary options, very briefly, are a type of financial instrument that allow you to bet on certain outcomes. And its like a yes or no thing. So itd be like, is Tesla stock going to be above $100 on Tuesday? If its yes, you get paid some set amount. If no, you lose your money. And there are versions of that that are more convoluted, but theyre all basically the same product. The thing about the binary options industry is that it's almost exclusively dominated by fraud. And in fact, in, I believe, 2017, it was banned in Israel, which was the primary country where most of these people were originally operating from, because of the egregious amount of fraud that was uncovered in that space. So it turns out that KDNA was a binary options company prior to being taken over by FTX. That after FTX took it over, they actually retained, it appears, most of the executives from that binary options business in their other exchange. And this ties back to some very, very dirty people involved in that industry. So the fact that FTX just so happened to buy that company at that time with those ties, it was very interesting. And its an interesting coincidence to say the least. And actually, that ties back to Celsius because it turns out that Celsius also has interesting ties to the binary options industry. Some of its early investors, Mashi Hogeg being one of them, a fairly prominent guy in crypto a few years ago who later turned out to be a fraud, also had some very close ties to that industry. I dont know. Its interesting to say the least. And Im working on another article that shows that thats not the only tie that FTX has to binary options."
+    },
+    {
+        "speaker": "A",
+        "text": "And when will you publish that article?"
+    },
+    {
+        "speaker": "B",
+        "text": "Hopefully soon. Ive been busy with a lot of other stuff, but its interesting. I mean, the thing is, the historical stuff, its like it can kind of wait. It's not like it's going to break the news or anything, but I think it's interesting, and I think it's kind of instructive as to who these guys were doing business with. And then it raises some interesting questions about why they were doing business with these people and how they happen to know that they existed in the first place. Because these aren't like, it's not like this KD and a company was like some really prominent, well known company. There's barely any mention of it on the Internet before FTX buys it. It was very, it was not very well known, and it was basically a shell company that was used to operate these apparent frauds. So it's very interesting that Sam found them."
+    },
+    {
+        "speaker": "A",
+        "text": "One other article that I found interesting was you wrote a post about the bank of credit and Commerce International, and you described this. It's kind of a historical, I believe that this bank was around probably before you were an adult. And anyway, you described it's similarities to FTX. And I was curious how you even dug that up. Uh, you know, if you, if you could just recap, you know, what you found there and how it's similar, that'd be great."
+    },
+    {
+        "speaker": "B",
+        "text": "So, I mean, I think that like, the reason why I am able to recognize these things for what they are is that fraud kind of. It's sort of like history doesn't repeat, but it rhymes, right? Like, things look very similar and I like history. So that's kind of like why I know stuff about finances. I read books about, you know, I don't know, I have like a John Rockefeller or like, you know, banking scams or whatever, like, so that's kind of where I get my experience or my knowledge from. And the bank of commerce and credit International is just a fascinating piece of history because it ties to so many different people across the whole world and so many different crazy events. So, I mean, briefly, it was a bank that was founded, I believe, early eighties, late seventies, early eighties, by a guy named Bettye, who was from Pakistan, who had an interesting, somewhat checkered past. Prior to that, hed been always in banking, but he ended up founding this bank with investments from the UAE as well as, I believe, bank of America, which subsequently, a couple of years later said, this is getting too hot for us. And they got out. But essentially it was designed to be or build itself as the bank of the third world that will do business where nobody else is willing to do business. They ended up having branches in 78 different countries, and they ended up actually operating very heavily in England. They ended up actually buying banks in the United States secretly. That they were able to get away with for several years and move money through those. And on the face of it, they were this very successful, rapidly growing financial institution that was really trying to do good. The founder of it, the Sabeti, he was a very charitable person. He gave away millions and millions of dollars to all sorts of good causes. And one of the people he ended up being very close with was the former president, Jimmy Carter, who's known for being a philanthropy oriented guy. And actually, they were such good friends that Carter would regularly fly in his plane. Carter. When Betty was sick, Carter actually went to visit him in the hospital and was, like, having his own personal doctors come and see him and things. So, like, he had a very close relationship, and that was far from the only person. This guy networked with everyone across the world. Like, he was very well connected. Like, seeing Sam up on stage with Bill Clinton and former prime minister of England, that's basically what this guy was doing. He's the same thing. But what it turned out was that it was a massive fraud in every regard. The bank was operating with no controls. It was set up, in a way, to obfuscate it from regulators and auditors. So there were, like, separate. Each entity in each country was like a separate entity. So you might get audited there, but they would never see the whole picture. Very similar to how FTX was, with over 200 different companies operating all in concert, in ways that make it very difficult for anyone to know the whole picture of what's really going on. And what BCCI was doing was actually laundering billions of dollars for everyone from the Marcos family, the corrupt dictators, Noriega, the dictator of Panama, the CIA. Actually, they were moving millions of dollars to the CIA in the Iran Contra affair. Um, they literally touched almost every, like, I mean, drug traffickers, you name it, like, they did business with everyone. And so it's really fascinating, because, like, you see all these things, and then when they finally collapsed and all these political connections came out and all these donations came out, and there's a lot of the story that a lot of people say never got told. And then you look at FTX, and you see, like, this company that, to anybody who's looking at it from the outside, said, there's serious problems here. I. You have the guy who founded it and runs it as this icon who's going in front of Congress, who goes on a podcast and literally says his business is running Ponzi schemes. Like, he literally describes his own business model as a Ponzi, and he basically admits that's what it is. Publicly and nobody does anything about it."
+    },
+    {
+        "speaker": "A",
+        "text": "You're talking about odd lots."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, I'm talking about the odd lots thing. There are other examples of that. There are examples where he brags essentially about committing bank fraud, where he's having a other individuals do banking for him. I think there was actually in that sequoia, the sequoia VC firm that invested in FTX. They had a whole article about their investment thats now been taken down. And I believe theres a part of it where they talk basically about how FTX had some creative banking strategies. So this all was known. And he was still managed to create this aura of being this charitable guy whos going to give away all his money. He managed to give tens of millions of dollars to all these politicians. His picture with Bill Clinton and everybody else. And I don't know, you have to wonder what was really going on there. That's kind of the point of that article is, I mean, I have no idea to the extent to which this goes, but it's just very interesting that someone was able to infiltrate our government and our media to that extent so quickly and so effectively. So I guess we'll see."
+    },
+    {
+        "speaker": "A",
+        "text": "Yeah, yeah, I found those parallels super interesting. So now let's talk about some of the ripple effects of the FTX collapse. One that you wrote about was trouble at Signature bank. And on my show, we went into depth on the issues at Silvergate. They're both obviously banks that cater to the crypto crowd. So just talk a little bit about what you think is happening at signature and how you expect things to unfold from here."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, I don't like to try to predict the future, but signature and Silvergate are basically doing very similar business to each other. I mean, I think one difference is that signature, I believe, has done a couple crypto based or bitcoin based loans, but its not a very significant portion of their loan book compared to silvergates taking more risk that way. But signature has, like Silvergate, been doing business with a lot of entities that are questionable entities that are using questionable methods to do banking. So the example of FTX, one of the big problems that Silvergate is having is that Alameda research was actually the one getting all the customers transfers for a long time, and the bank knew that and didnt do anything about it. And thats a problem. And if it turns out that it looks like that may have been also happening with signature. So signature has their own blockchain, which we talked about a little bit before, called Signet. Silvergate has the send network blockchains, but they operate only theoretically inside the bank. Actually, it turns out that there are ways to transfer money between those blockchains using fireblocks, which is an interesting side point that I think is going to be fun for regulators to try to untangle. But long story short, it looks like FTX was using Signet through Alameda research. So the question becomes, was signature providing basically the same type of service as Silvergate, Washington to FTX? The other thing is that both of them appear to have banked finance through a shell company based in the Seychelles called key Vision Development Limited, which was actually apparently struck off the register in Seychelles over a year ago. And signature continued to bank them. So there are concerns that they've been doing business with people that a responsible bank probably wouldn't. And that's why most banks haven't done business with crypto and theyre doing business with people that are using some very questionable tactics to do their banking. So I think those are the problems. And then obviously, besides that, theres the risk of holding all of these deposits for stablecoins that are potentially at risk of sudden bank runs. If you look at Silvergate, I think the actual earnings are out tomorrow. So well find out how bad it really was. But I think the preliminary numbers were like they lost like $700 million because they had to sell all these short term securities they were holding in order to pay out these withdrawals from FTX. So there are also, in addition to the regulatory problems, there are just the basic financial problems of holding a lot of money for people that are subject to sudden massive withdrawals when people panic. So theres that. And then signature. The other thing about signature is that they have some interesting loans called their fund banking division, which is by far their largest division thats grown very rapidly in the last couple of years. And nobody seems to know who they've been lending to. I don't know. We're going to find out, I think, in the next couple of months what's happening there. But signature has an interesting history, too, if you go back and look at some of the people they've done business with. So."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, well, we'll have to see. And I just want to flag for people that we're recording on Monday, January 16. So when he said the earnings will be out tomorrow, they'll have been out a week by the time you guys get this podcast. Let's talk about another kind of big domino. In the FTX story, which is DCG, you wrote a post called digital Currency grift. Tell us a little bit about your perspective on what's happening at DCG."
+    },
+    {
+        "speaker": "B",
+        "text": "So when I wrote that, that's one example where, like I said, I can be kind of one sided and unfair at times. And so when I wrote that article entitled the Digital Currency Grift, after I published it, I wondered if id been unfair to burry, but it turns out I was not really unfair at all. So digital currency group was kind of this conglomerate in the crypto space. All of its businesses are crypto related. He was a very big bitcoin guy, but he also did other business as well. Two of the major components of that were Genesis, basically, ostensibly, um, offering prime broker services, and reality was actually operating as its own trading house. And then, uh, uh, Grayscale, which is the holds the grayscale bitcoin product, as well as a number of other crypto, uh, trusts that are publicly traded. Basically a way for people that don't want to own crypto or bitcoin directly. Theoretically, they can buy shares of this trust and then hold it, and then they have exposure to bitcoin. So the problem is that there are a number of different problems, but it appears based on statements from, um, former three arrows. Three arrows heads. Suzu, I believe Kyle Davies has also made statements. Essentially, what was happening was, in order to create grayscale shares, Genesis was lending bitcoin to a variety of different trading houses who would then use that bitcoin to create shares. One of them was the \u20ac3 capital. And for a while, grayscale, the bitcoin product, was trading at a premium to bitcoin. So there was basically this way you could make print money for free, essentially, by doing this trade. The problem is, obviously, free money only lasts for so long, and eventually that premium became a discount and everybody blew up. So, long story short, Genesis ends up owed over a billion dollars by this three year olds capital. And the problem was, they didnt have the money. And theyve been also borrowing a lot of money from a variety of people, including the Gemini exchange, which was offering this, quote, unquote, earn product, basically a crypto interest account. And they were basically giving all of the money directly to Genesis to do whatever they wanted with it. So Genesis wasn't able to pay that money back. So what they did was they filled the hole with the promissory note from the parent company that said, hey, we'll pay you $1.1 billion, I think in like 2029 or something. I remember how far out it is several years ago."
+    },
+    {
+        "speaker": "A",
+        "text": "2032."
+    },
+    {
+        "speaker": "B",
+        "text": "2032. Okay. Even worse. But apparently what they were doing, according to recent reports, and I think according to even what the Winklevice said in their little recent post there, they were marking that as a current asset on their balance sheet. So this thing that's not going to be paid off for nine years was being marked as something that was valued at $1.1 billion today. And I mean, I'm not a lawyer, but I think that that's going to be problematic for them. It also turned out that DCG had spent, I think it was $500 million or so, basically buying back their own stock from other people basically to keep the value of this company afloat. So they were doing all sorts of these very problematic things with other peoples money. And eventually it got exposed. I think the FTX thing happening finally made people realize, hey, theres all this hidden risk in the system. We need our money back. And they werent able to make the calls when people said, hey, we want our money back. So apparently theyre like $3 billion in the hole, and it doesnt seem like they have anywhere close to that. Theyre trying to sell their venture portfolio off. The estimate thats worth 500 million to me, I think is pretty generous given current market conditions. I think its probably worth a lot less than that. They can try to sell coindesk. I guess dirty bubble media will buy coindesk someday. We'll just have to wait a couple more years. But no, I mean, it's really tragic because it turns out Barry's original, Barry Silbert, the guy who runs DCG, his original business was actually trading in the shares of bankrupt companies. So he has a lot of experience with bankruptcy. And it sounds like he's trying to drag things out in a way that will try to save him. But I think that things are not going to go well. And I mean, it's already well along the path towards serious repercussions for everyone involved. I mean, the SEC just filed their lawsuit a couple of days ago against both Gemini and Genesis for offering this earned product illegally. And I think there's going to be a lot more coming related to all of this very soon."
+    },
+    {
+        "speaker": "A",
+        "text": "But like generally kind of your take on what went wrong there really is that it's sort of like they didn't manage their risk. They were just long everything, and then it sort of blew up for them. Is that kind of, that's part of it."
+    },
+    {
+        "speaker": "B",
+        "text": "But I mean, also, you really shouldn't because DCG is a private company, so it's not like their stock trades on the Nasdaq or your stock exchange or something, it's illiquid. Right. And the same thing. They had a lot of venture investments that they made that are illiquid. And actually Celsius did something very similar. All of the money that they had borrowed, or at least all the money that I know about that they had borrowed, like all the money from Gemini, those weren't like locked deposits that they had to pay back within like in five years or something. It was, those were demand deposits that people could come back at any time and say, hey, we want our money back. And instead of investing that money in things that were liquid, that could be easily sold in exchange back for dollars, that could pay people back, they made investments in things that are totally illiquid, like their own stock, and apparently all these venture things. And they did all that, of course, during this bull market where the prices were inflated and I'm sure vastly overpaid for all of it. Right. I mean, what's DCG stock worth today? Not, not much. So that money's basically gone. And I don't think it's really ethical to do what they did at all. I mean, it's very questionable, obviously, from a business standpoint to do that. And I think the regulators and law enforcement are going to be very interested in all of this because it's very questionable."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, so one other thing that I wanted to ask about in terms of this kind of whole crypto contagion of 2022 is that you had written quite a lot about a number of these different lenders, but you also just in general talked about the problems with tokens associated with these different companies, such as FTT, the cell token. You also wrote about Nexo's problems. And Nexo disclosure is a former sponsor of Unchained, and Nexo has its own token as well. And I wondered if you had a general opinion on these kinds of tokens that are associated with companies."
+    },
+    {
+        "speaker": "B",
+        "text": "I mean, the fact that they havent been regulated as securities already is amazing to me. I think that its going to happen. I mean, they dont. So they dont confer anything of value. Right. Its not like owning Cel token meant that you own some equity in Celsius or owning Nexo. Token confers equity in Nexo. It doesn't confer anything. You maybe get some benefit to. Like in the case of FTT, you could get cheaper exchange fees or something. But like the, basically it's like a rewards program, right? It's like, it's like going and like, I don't even know, like if there's a good comparison in the real world for this. It's like, it's like trading like Chuck E. Cheese tokens on the, on the, on the New York Stock Exchange. Like there's no. But even those, you can at least use them for something. You just go play games with them. You can't even do that with these things. So practically, theres very little use to any of them. The value of them is essentially zero. And the only reason why anybody thought they had value was that these markets were used to manipulate people into thinking that they had value. And thats true for, I think, all of them. I havent seen an exception to that. Its not going to. Thats an example of what I mean, if theres true regulation in the space, those things would have never existed. They never would have happened. I'm sure they would have found other ways. I mean, the market always finds a way to blow themselves up in correlation, hidden risks and stuff. I'm sure they would have figured something out. But the tokens, as they exist today, they would not have existed if it had been any kind of real regulation."
+    },
+    {
+        "speaker": "A",
+        "text": "Well, here's a token that's adjacent. You had a really interesting post about binance and the binance chain and BNB. And interestingly, you kind of basically said it's another variation on the one coin scam. So I was curious if you could just sort of recap what your thoughts are there and what you think might happen to that chain in those coins."
+    },
+    {
+        "speaker": "B",
+        "text": "Well, so onecoin was a pyramid scheme, and it turned out that essentially what they were doing was saying, we're going to sell this crypto and it's going to be the next, it's going to be the bitcoin killer, I think is what they called it. And I was run by this very charismatic woman who later disappeared and has never been seen since. I think she's on the most wanted list or something. But it turned out they actually never created a blockchain at all. The token didn't even exist. It was just a number on a database somewhere in their Excel documents. Essentially, it was on a spreadsheet. When I compare those things, this is based on other people's work. I've validated the best I can. But a lot of the features of how the binance blockchains operate, they don't really operate like public blockchains at all. The code has been essentially obfuscated for a very long time. They're finally releasing bits and pieces of it. It appears that certain workarounds are used to basically retroactively rewrite code and things that. It's very questionable. I mean, it's not like something that Satoshi would not be happy with it, let's put it that way. And the whole idea of a company owning its own blockchain, I mean, the thing, again, it's sort of like going back to the idea of these things as scam, as a service. What is their blockchain actually used for? Right. Like, look at what the projects are on there. They're almost exclusively very, very poor rug pull type projects. Almost exclusively. And they have a few DeFi, quote unquote DeFi decentralized finance protocols that are actually run essentially by binance directly. So there's nothing decentralized about the binance blockchain. That's why I don't really think of it like a real. I don't think it's really like. It's not really like Ethereum or anything else. I mean, whether or not Ethereum has value is a separate question. At least it is a public blockchain, right? At least there is something there that is public binance is not like that. And then the price mechanics of the BNB token are incredibly questionable based on multiple people's analysis of how that token behaves. So there's a lot of. A lot of questionable things about it. And I think that. I think it's going to be interesting to see what happens with it. Let's put it that way."
+    },
+    {
+        "speaker": "A",
+        "text": "So the last kind of, like, news bit that I wanted to ask you about from your newsletter was you wrote about the case of Abraham Eisenberg, the mango markets exploiter. And I felt that your takeaway was definitely different from what we hear in the rest of the crypto space. So can you talk a little bit about what your perspective is on that case?"
+    },
+    {
+        "speaker": "B",
+        "text": "Well, I don't know what the takeaway is for everybody else. What's everybody else's takeaway?"
+    },
+    {
+        "speaker": "A",
+        "text": "You know, they think that he, you know, manipulated markets and that, like, even though sometimes they might say code is law, I think in this case they're like, no, no, no, no. He's like exploiting this. It's like an economic exploit. And then. But then the other thing is that some. I had some lawyers on my show who said that they felt that some of the enforcement around this put at risk the ability for white hat hackers to do the kind of work that they typically do in Defi, which was kind of an interesting take, but. So what's your."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, my take. I mean, my take is that it's not borrowing if you don't intend to pay somebody back. And that's what he did, right? Like, he figured out a way to trick a protocol into lending him money, and he never paid it back. And he had no intention of paying it back. He paid back some of it because he. I don't know if. Because he had to or because he felt like it. I don't know why he did what he did, but he kept. He kept at least half. Right, or around half of the money. And obviously, like, you can read the lawsuit that's been filed against him. I mean, like, even if you think of these things as commodities, like, there are certain rules about how you trade commodities, and he clearly violated all of them. I mean, he used everything from, like, you know, trading. He was trading with himself, and he was, you know, creating these, like, vast price movements using, basically, manipulation. Like, I mean, again, I'm not a lawyer, so I don't know what's going to happen. But I mean, but that's the thing is, like, what he's doing is the part, I guess maybe that's different from the other crypto people or whatever, is that. I don't think that what he's doing is all that different from what crypto is doing in general. Right? Like, again, these tokens would not exist if they were truly regulated like the securities and commodities that they are. Right? Like, this is all regulatory arbitrage. All of that. All of this, or a very large portion of what's happening is that. So what he's doing is just like, an extreme version, right? It's not like these exchanges aren't trading against their own customers. They all admit they're doing it. That's what Sam was doing on FTX. That's what binance does. They admit that their market makers are owned by CZ. He's admitted that they're trading against their own customers. It's the same, same thing. It's just that he, he did it in a way that got him in trouble faster than them because he was so obvious about it. And it doesn't help. It doesn't help. When you go on Twitter and admit what you did and say that, explain exactly how you did it. I mean, that if you look at, like, Alex Machinsky's other example where, like, I mean, literally read the lawsuit against him and they're just, like, listing all the tweets that he wrote about different things, and it's like, okay, well, you just, I mean, you dug your own grave, right? So. And then again, and the genesis thing, too. Like, I think the reason why the SEC moved when they did, I know the Winklevie complained about that, but it's probably because all this stuff is public, and now it's very easy for them to say, okay, well, you guys said this. You just basically admitted the whole thing. Like, you know, good luck. Now, like, they don't have to worry about trying to litigate it, because they're gonna. They basically already gave. Gave them the. Gave them the whole case. So I think the lesson from Abraham is, you know, if you're gonna do these things, at least try not to be too public about it."
+    },
+    {
+        "speaker": "A",
+        "text": "Um. All right, well, this has been a fascinating conversation. What? Have I not asked you that you want my listeners to know?"
+    },
+    {
+        "speaker": "B",
+        "text": "No, it's been a good conversation. I can't think of anything."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, well, where can people learn more about you and your work?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, they can go to dirtybubblemediaubstack.com. i also tweet under the name Mike Bergersberg, which, you know, if Elon decides to shut me down, I guess you might. So I'd say focus on the substack. That's where the real work is done, so."
+    },
+    {
+        "speaker": "A",
+        "text": "All right, perfect. Well, thank you so much for coming on Unchained."
+    },
+    {
+        "speaker": "B",
+        "text": "Thank you."
+    },
+    {
+        "speaker": "A",
+        "text": "Thanks so much for joining us today. To learn more about James and his ongoing investigations, check out the show notes for this episode. Unchained is produced by me, Laura Shin, with help from Anthony Yoon, Mark Murdock, Matt Pilchard, Zach Seward, Varna Ranovich, Sam Sriram, Pama, Jimdar Shishank, and CLK transcription. Thanks for listening."
+    }
+]

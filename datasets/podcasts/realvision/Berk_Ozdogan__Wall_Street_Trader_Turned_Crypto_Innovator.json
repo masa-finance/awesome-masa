@@ -1,0 +1,278 @@
+[
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "B",
+        "text": "Mint Mobile Unlimited Premium wireless everybody get 30. 30, baby get 30, baby get 20. 2020, baby get 2020. Bid to get 15. 1515 just $15 a month, so give."
+    },
+    {
+        "speaker": "A",
+        "text": "It a try at Mint mobile.com switch."
+    },
+    {
+        "speaker": "C",
+        "text": "$45 upfront for three months, plus taxes and fees. Promoting for new customers for limited time unlimited, more than 40gb per month slows full terms at Mint mobile.com dot."
+    },
+    {
+        "speaker": "D",
+        "text": "Hey, everyone, if you like this podcast, go behind the paywall to get privileged access to the smartest minds in finance. Join the real vision community and learn how to become a better investor. Visit realvision.com rvpod and use the promo code podcast ten. That's podcast ten to get 10% off our essential membership for the first year. Now, to the top analysis of today's crypto markets."
+    },
+    {
+        "speaker": "E",
+        "text": "Burke Osdogan Dex, a lot's head of trading. Welcome to real vision crypto daily briefing."
+    },
+    {
+        "speaker": "B",
+        "text": "Hey, Ash, thanks for having me. How are you?"
+    },
+    {
+        "speaker": "E",
+        "text": "I'm doing great. Lots to talk about. Burke, it's a pleasure to have you here. Decentralized exchanges, dexs, and much, much more to cover in this conversation. But first, let's take a look at price action here on the day. Bitcoin, well, it's lost its 27 handle, trading right now at 26,911, down 2.72.8%. Call it trailing 24 hours, trailing seven days, up about two and a quarter percent. Ethereum, we've lost the 19 handle, trading right now at 1858. On my screen, trailing 24 hours, off about two and a quarter percent. Let's call it trailing seven days. It's up around 3.7% over the last week or so. Berk, it's great to have you here on real vision. Crypto, much to talk about. We were chatting a little bit before the show got started. We both spent a bit of time working at banks. Tell us a little bit about your background in tradfi before we get started talking about crypto."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, of course. First of all, thanks for having me. Pleasure to be here. Obviously, I'm a big fan. My background. I'm an engineer by training, of course. Spent 1011 years in Wall street across a few large institutions. Institutions. I was last at JPMorgan, part of the effects trading team, specifically focusing on the algo trading business. Essentially, we built the software that institutional clients would use to execute their very large size FX transactions day in and day out, obviously one of the most liquid markets. And since 2016 or so, I've been quite involved in crypto, obviously, first as a hobbyist enthusiast, and eventually now full time and glad to be here and looking forward to this conversation. That's how. That's why I'm here now."
+    },
+    {
+        "speaker": "E",
+        "text": "So how did you get involved in crypto? What was it that sparked your interest as a former tradfi guy? What potential did you see there for doing all the things that we're about to discuss?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, funny. Multiple stories, actually. So in 2016, you know, I had a reasonably long commute. I live in a New York city, New Jersey area. Commutes are usually 30 minutes or longer from where I live to work. And I sort of was like, hey, this seems like a new asset class. Let me get on some podcasts. One podcast, particularly from a gentleman named Emin Gun Siraj, you know, the founder of Avalanche back then was a professor of Cornell of Distributed Systems. Changed my entire perspective. It was about multisig, non custodial wallets that basically allowed for the non custodial relationship to interact with various things. But also, I had an additional security feature. I was like, huh, this is interesting. And may have real applications in traditional finance. One thing led to another. I fell down the rabbit hole, the proverbial rabbit hole, and I actually left JPMorgan in 2018 timeframe specifically to go work on what's now known as defi primitives. Right. The most interesting thing I've done then was basically a decentralized exchange, very much like a Nasdaq or NYSE or Coinbase on the Ethereum blockchain. Obviously, this is well before Ethereum 2.0. This was right around the big ico boom. And basically the team that I was part of built a ground up club, central limit order book on Ethereum, right? It was intending to trade what's, what's known as security tokens. And the user experience didn't quite work out. I ended up going back to JP Morgan, but with the full vision that whenever blockchains, and whenever specifically smart contract capability advanced to the point where it can rival traditional exchanges, that I would eventually go back. That was kind of the idea. Funny enough, in October of 2020, I pitched a generation three blockchain based central limit order book exchange idea to then the head of macro trading at JPMorgan, whom I reported to effectively. And while the idea was very intriguing to everybody that I talked about, the unfortunate reality at the time was not enough regulatory framework in place. And even if we build it great we're going to make, I can't remember the exact numbers, but it was like, we're going to make 5100 million something and we're going to get hit by a potential regulatory penalty in the billions. Right."
+    },
+    {
+        "speaker": "E",
+        "text": "Right."
+    },
+    {
+        "speaker": "B",
+        "text": "Therefore, let's sleep on this. Right. That was sort of the, that was the answer I got. At the end of 2020, of course, as 2021 rolled around, other businesses started showing interest. And, you know, similar to other banks, JPMorgan also started building things. But as you can imagine, without the regulatory clarity, you know, with what SEC, as well as other regulators are doing globally, you know, that project is kind of, you know, was dormants, at which point."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, which by the way, we should point out, when you say SEC and other regulators, they are not currently, at least in the United States, harmonized. On the view of how this industry works, by the way, I very much like the way that you started that, which is sitting in George Washington bridge traffic on route 80 is enough to change anyone's view of the world. I know it did."
+    },
+    {
+        "speaker": "B",
+        "text": "Absolutely. That's exactly how it was. I was trying to consume as much information outside of my own world as possible, because, look, these things are real, and there's a lot of people out there that are complete non believers. But I'm one of those people that this type of technology, once it can become the fundamental building block of some other service that I use, it's going to change things. And that's how I ended up where I am now full time in crypto, if you will, or website."
+    },
+    {
+        "speaker": "E",
+        "text": "Let me ask you this. What was it that really caught your attention the most? Was it the potential to trade digital assets natively on these decentralized exchanges? Or was it the idea of what might be coming down the pike in terms of the digitization of everything, tokenization, the ability to trade securities tokens, which was it that really caught your eye from the perspective of use cases?"
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, quite honestly, it was not tokenization for me, like, tokenization makes a lot of sense for certain use cases. I'm not one of the folks that believe everything should be tokenized. I think there are a lot of illiquid markets that needs to be tokenized, and eventually there will be. But what really caught my attention was how trading as we know it in traditional finance could change if we integrated blockchains into the business. And the answer is not a single thing, it's multifold, number one, I'll talk more about the recent stuff. Think about the ftxs of the world. Think about the exchanges that disappeared, created losses, for people created a lot of headaches for regulators. Those problems can actually be solved by transparency, number one, and then non custodial relationships, number two, transparency. Because if you actually have full transparency on where trading activity is taking place, like which wallets have what positions and who's doing what, I think it levels the playing field, right? You no longer have individual private companies potentially doing bad things with other people's money. That sort of becomes extremely difficult. Second, regulators, and believe me, I've been at the end of a lot of regulator questions in my time in Wall street, will have a significantly easier time looking at data and understanding what's actually happening in the market. The way this worked, at least for me in Tradfi, is we had a lot of algos. They would go out in the market, they would make certain decisions and execute. And then a few months later, maybe a couple years later, you would receive a question saying, what did your Algo do here and why did it do it? Explain to me and make sure it's not nefarious. The reason why they had to ask those questions were, in OTC markets, information wasn't as readily available. Some of your liquidity trades and dark pools, etcetera. And it was making it very difficult for regulators to get a true picture and therefore regulate with a lot of information in their hands. I think blockchain based trading, if and when it becomes as efficient, that's my caveat, is going to make it much easier for these markets to operate. Those were the two things. And of course, the non custodial angle where I don't have to put my assets on a specific platform that is owned by a private company, which makes me sign all sorts of subscripted contracts is an added benefit, in my opinion, if I continue to keep my assets in my own wallet, I think that's a big plus. And those were the things that made me believe that this is the way forward."
+    },
+    {
+        "speaker": "E",
+        "text": "Hey, everyone, we're going to take a quick pause and hear a word from our partners. We'll be right back."
+    },
+    {
+        "speaker": "A",
+        "text": "Ryan Reynolds here from Mint Mobile. With the price of just about everything going up during inflation, we thought we'd bring our prices down. So to help us, we brought in a reverse auctioneer, which is apparently a thing."
+    },
+    {
+        "speaker": "E",
+        "text": "Mint Mobile, unlimited premium wireless."
+    },
+    {
+        "speaker": "B",
+        "text": "Everybody get 30, 30, better 30 get 20, 20, 20, 20, 15, 15. Just $15 a month, so give it."
+    },
+    {
+        "speaker": "A",
+        "text": "A try at mint mobile.com."
+    },
+    {
+        "speaker": "C",
+        "text": "Switch $45 up front for three months, plus taxes and fees. Promoting for new customers for limited time unlimited, more than 40gb per month. Slows full terms at mint mobile.com dot."
+    },
+    {
+        "speaker": "E",
+        "text": "So let's talk a little bit about that trajectory forward. You started off talking about building cloud, centralized limit order books. So let's talk a little bit about this transition from a traditional centralized limit order book controlled by a financial large financial services institution, uh, to the, uh, type of trading that we see on centralized exchanges in crypto today, ultimately through to decentralized exchanges, or dexs, which you're most interested in. Talk a little bit about what that journey looked like in terms of your own view of the space."
+    },
+    {
+        "speaker": "B",
+        "text": "Yeah, absolutely. Uh, the journey is continuing, to say the least. But, uh, it started out, like I said, with Ethereum and a club that was deployed on Ethereum. Right. Now, if you think about how tradfi works today, almost all asset classes today, you have sub second execution in the equities market. You actually have sub ten milliseconds execution for most of the cases in effects, it's sub 100 milliseconds, et cetera. And back in 2017, 1819, Ethereum couldn't support that kind of user experience. Right? What that means is you attempt to do a trade. Your transaction is going through for the next ten minutes while the market is doing its thing, and you're sitting there waiting and taking market risk. So that's where the journey started. Even though the world computer, the Ethereum world computer, as people call it, allowed a developer to actually develop the matching engine as what, you know, what matches people's orders on chain, the user experience didn't work. It wasn't possible to risk manage effectively. And quite honestly, clubs didn't work on Ethereum. Right then, obviously, we saw very clever folks come up with the concept of a constant product formula to eliminate the need of a central limit order book. And instead they created these liquidity pools, amms, as they're called in the web three world, which allow people to basically tie assets together, become a market maker, and provide liquidity to the market."
+    },
+    {
+        "speaker": "E",
+        "text": "Speaking of that shift from centralized limit order books to liquidity pools, I think about that really as a function of strengths and weaknesses, trade offs in technology. When you have a tradfi, centralized limit order book framework, as you said, sub ten millisecond execution times. You can't do that on blockchains. But what you can do is something that's very interesting, which is to lock in smart contracts in ways that third parties and even the parties who entered into those contracts cannot alter. So you have essentially this mechanism where you can say, okay, we can lock money so that we can build a liquidity pool with price matching. And when you have price deltas and they move, you obviously get a change in the movement of that liquidity pool. It's really actually kind of an interesting and clever solution to a challenge and also an advantage that DeFi specifically and more generally, crypto and smart contracts provide."
+    },
+    {
+        "speaker": "B",
+        "text": "Absolutely agreed. So first of all, in my opinion, this is one of the most clever things I've actually witnessed in web three. Basically, you have this issue with the underlying protocol not being developed enough to provide you the speed that you need so that you can execute trades quickly. And instead, folks created a mathematical solution that sort of worked around the protocol level issue, reduced the number of transactions you would need to do a trade and simultaneously improved the user experience tremendously. Like imagine a traditional exchange experience, right? You have to deposit, wait for the deposit to clear, then you have to enter orders. And if you're entering limit orders, you have to wait for somebody to hit your limit orders. In the case of an amm, one click atomic execution happens in your wallet and boom, you're done. You only suffer one click and one confirmation time. So by the way, when you, when."
+    },
+    {
+        "speaker": "E",
+        "text": "You mean when you say atomic, for folks who may not understand, you're talking about essentially locking down multiple sides, legs of a trade simultaneously with a smart contract in a way that be very difficult to do in traditional finance."
+    },
+    {
+        "speaker": "B",
+        "text": "Exactly. I'm sorry, I should have explained that a little bit better, but. Exactly. With one action, everything you need for one asset to become another happens. Right, right. And, you know, it's a significant and fundamental shift. And I would argue that was the first and one of the biggest user experience improvements in defi, in my opinion. Now, obviously with the, what I call generation three blockchains, you have avalanches of the world, solanas of the world, and many new up and comers who are pushing the boundaries of time to finality. Specifically, I believe clubs are a lot more feasible now. And I'm going to compare why clubs versus amms, but clubs are a lot more feasible now because the user experience is coming very close to what it was in traditional finance clubs, without compromising on the non custodial aspect, that is, you don't deposit your assets anywhere other than the blockchain. And then of course, you still have that transparency layer where you know what's happening on chain, directly on chain."
+    },
+    {
+        "speaker": "E",
+        "text": "So this is extremely interesting. And let me just do a little bit of translating here for the audience. Essentially what you're saying is that some of the original weaknesses for centralized limit order books that caused DeFi to move in the direction of liquidity pools in the first place by these, what you call third generation blockchains, which have transaction finality, meaning final settlement on the chain, happening much faster. In your view, if I'm understanding it correctly, you're saying essentially that this is a universe in which centralized limit order books actually can live and thrive, and therefore provide more similar functionality to what we saw in trad five. Really interesting."
+    },
+    {
+        "speaker": "B",
+        "text": "Absolutely. I mean, think about how tradfi market and how electronic trading developed right over the course of the eighties, nineties, early two thousands, and now I think the market has truly settled in the most capital efficient and the most generally everything else efficient way of trading, which is central limit order books. And also think about how big the traditional finance market is, how many actors there are, etcetera, for them to move to this space. I think while amms are cool, novel and interesting, their capital efficiency, or I should say capital deficiency, as well as the way they operate, are so different with non deterministic execution pricing. Meaning once you click, you think you're going to get a price, but you actually have a margin of error. Right."
+    },
+    {
+        "speaker": "E",
+        "text": "This is what people talk about, slippage. And the important thing I think to understand here is that on a limit order book you can do precisely that. You can place limits against individual trades and obviously a whole series of other order execution management type of parameters that you just cannot do today on liquidity pools."
+    },
+    {
+        "speaker": "B",
+        "text": "Exactly. And the fact that everybody already built big infrastructure APIs, workflows relating to Clovis."
+    },
+    {
+        "speaker": "E",
+        "text": "I think API for people who may not know application programming interface. This is essentially the ability to allow computers to talk to each other programmatically in a way that you can develop an open standard, you can publish that open standard, and then you can have different systems integrate without necessarily having centralized coordination."
+    },
+    {
+        "speaker": "B",
+        "text": "Exactly. So think about all the infrastructure that traditional finance institutions have built. If you can give them the exact type of connectivity, communication protocols, APIs, application programming interfaces, and the general behavior, while giving them the added benefit of non custodial relationships with the counterparties that they're trading with, plus the transparency. I think there is a real shot on decentralized central limit order book exchanges taking off, especially if you think about the events of 2022 and all the bad things that happened because of, quite honestly, a handful of bad actors and the dominant effect they caused. I expect the market and the trends to shift in that direction."
+    },
+    {
+        "speaker": "E",
+        "text": "Well, that plays precisely into the point that you made about non custodial trading. Talk a little bit about what that is for the layperson who may be struggling to get their head around it, sure."
+    },
+    {
+        "speaker": "B",
+        "text": "So let's talk about what a custodial relationship is. Essentially what that means is you're allowing another entity or a participant to take custody of your assets. You are depositing your assets to a wallet that belongs to somebody else, and you're essentially trusting them to safeguard your assets and direct your assets in the same way that you would tell them to direct it. To further break it down, when you deposit your assets into a centralized exchange, they will take it into their own wallet and they will create a virtual account with credit for you to trade with. One way to think about it is the exact link between the balances that you have on the exchange that you see on the front end, the webpage, and the actual balances you deposit. The link between them becomes blurry and maybe disappears. That's what we've seen with some of the exchanges that unfortunately went bust, where the number of assets that were deposited versus the amount of trading and the volume that was occurring was not the same. Decentralized exchanges eliminate that trust into an individual institution, and it typically replaces it with either your own wallet. In the case of one transaction trading, or in the case of central limit order books typically replaces it with a smart contract that you can always look and see the contents of on the blockchain."
+    },
+    {
+        "speaker": "E",
+        "text": "Hey everyone, we're going to take another quick break and hear a word from our partners. We'll be right back to the real vision Crypto daily briefing."
+    },
+    {
+        "speaker": "C",
+        "text": "You're a podcast listener, and this is a podcast ad. Reach great listeners like yourself with podcast advertising from Lips and ads. Choose from hundreds of top podcasts offering host endorsements, or run a reproduced ad like this one across thousands of shows. To reach your target audience with lips and ads, go to lipsandads.com. now that's Libsyn ads.com dot."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah, and it's important to point out that the risk on this is not just technical, but it's also currently legal. In other words, if you have deposit on an exchange and the exchange goes bust, it's guess what, get in line and stand behind the rest of the creditors. Figure out jockey for position. In terms of creditor classes, in terms of where you get paid out in the bankruptcy, that's a challenge. And obviously something that, as you point out, non custodial trading, non custodial asset solutions more generally have the capacity to significantly, significantly change the landscape of, in a way that, quite frankly, is very novel to this space. And I think it's just incredibly exciting. Let's talk a little bit about the underlying technology that you guys are using at Dexalot. Why Avax?"
+    },
+    {
+        "speaker": "B",
+        "text": "So I mentioned this part earlier as well. Time to finality, which you eloquently expressed as time for the final settlement to occur in avalanche is quite quick, right? Avalanche under the covers has a very novel consensus mechanism which allows a blockchain and transactions to become final, as in non changeable, very quickly. The biggest and probably one of the most important reasons for us was the fact that avalanche doesn't have reorgs. Even in Ethereum or other Ethereum like blockchains, you have something called reorgs, where once the transaction is confirmed, until a few more confirmations happen, you have a probabilistic chance of potentially losing that transaction. I'm simplifying, of course, but avalanche does not have that problem. And if you think about, obviously, if you exaggerate the problem and think about trading, imagine you do a trade, right? 20 minutes passes and all of a sudden that trade, that risk that you have recorded, disappears because the blockchain reorged. Because there was a longer chain, longer source of truth, somebody took over and your transaction disappeared. This was a real risk and we didn't like it. From an exchange perspective, we felt like none of our users would like it. And of course, ability to finalize a transaction within at most 2 seconds was extremely important. The last reason, which is where dexalot is now, is that avalanche allowed scaling through something called subnets. Subnets are essentially blockchains that you can spin up quickly, eliminate the sharing of the bandwidth with other projects. Imagine if you're an exchange, a very successful degen loved NFT project drops, the chain gets clogged. Right. I think I read something about, you know, ordinals are quite popular in bitcoin today. The bitcoin mempool is so full that it's going to take a few days to clear. Right. You don't want other successes on the blockchain affecting your product. And by spinning up a separate blockchain that's still connected to the main chain to run your application was incredibly important to us."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah."
+    },
+    {
+        "speaker": "B",
+        "text": "And it's there now. Yep."
+    },
+    {
+        "speaker": "E",
+        "text": "It's a perfect metaphor too, because of obviously the consternation that that's caused in the bitcoin community. Essentially you have transaction finality being delayed for all types of transactions while the mempool gets flooded with requests for ordinals or whatever else. We don't want to pick on anyone here, but it's just the premise that you can have one category of transaction clogging, the ability to execute across the board on the rest of the chain. Talking of which, talking about risks and vulnerabilities, one of the things that we've seen on Avax avalanche here in the last call it 60 days is challenges with performance degradation and some mini network outages on the c and X chains. Talk a little bit about that in terms of the scaling solution, in terms of the risks that it provides, but also in terms of the opportunities that folks in the avalanche community see from this multi chain world."
+    },
+    {
+        "speaker": "B",
+        "text": "Absolutely. So I actually do keep up with most of the gen three blockchains. I can't say I keep up as much as I keep up with avalanche, but avalabs, the team behind the blockchain, is one of those teams, particularly on the engineering side, incredibly fast in delivering additional features. Right. Unfortunately, like there is a trade off between shipping new features fast and making sure everything doesn't break. And quite honestly, no matter how much testing you do, I think it is sometimes difficult to create the exact condition of a main net. And there was an outage relatively recently after an update that was done on the platform chain on Avalanche. Now the cool thing is that subnets, the separate application specific chains, were not affected by this outage. The outage affected the platform chain and the c chain, which the two are connected."
+    },
+    {
+        "speaker": "E",
+        "text": "But can you explain those two chains and what they're functioning in the course?"
+    },
+    {
+        "speaker": "B",
+        "text": "Of course, avalanche as a platform, I'm going to call it, consists of three main chains. First chain is what's called the X chain. It's a blockchain purely for transfers. X comes from exchange. It's not exactly a traditional exchange, but it allows people to send value from one wallet to the other very quickly and very cheap. That's the first chain. The second chain is called the P chain, stands for platform chain. And this is the chain where the network nodes and the node related, the validator related operations take place. This is the chain where the entire validation of the network occurs. And then you have the C chain, which stands for the contract chain where it is the EVM clone or EVM compatible chain."
+    },
+    {
+        "speaker": "E",
+        "text": "This is Ethereum virtual machine clone."
+    },
+    {
+        "speaker": "B",
+        "text": "This is the Ethereum virtual machine where you deploy your software and let the validators run your software. Most of the activity, of course, occurs on the C chain. And essentially what I'm saying is subnets are similar chains to the C chain with specific customizations designed to support typically a subset or maybe a single application. In the case of dexalot, it's a single blockchain that is designed only to do trading in a central limit order book."
+    },
+    {
+        "speaker": "E",
+        "text": "Yeah. Obviously for folks who are relatively new to this space, this can seem a little bit confusing, a lot of moving parts here. But let's talk about the general framework for how you think about the scaling of this network and what you think the potential is to start executing at scale that we can see. For example, in tradfi, you mentioned FX, we talked about equities. Obviously this type of trading. Absolutely massive scale in terms of what the throughput is currently in traditional finance."
+    },
+    {
+        "speaker": "B",
+        "text": "Absolutely. I mean, the speed with which this development is occurring is incredible, right? Like the original avalanche consensus which still stands today, allows you to scale to millions of nodes without significant degradation in time to finality, ability to finalize these transactions quickly. Right. That's one, one aspect of it that is, you can push through a lot more operations per second without compromising on the fact that once transactions occur, they cannot be changed. Right. That's number one. Number two is this subnet scaling solution. You can spin up as many subnets as you want, and it doesn't have to be one subnet for application. Imagine the case of an exchange typically. For example, you mentioned equities, right? In the equities world, traditional finance trading systems will strike their infrastructure by buckets. For example, in the equities world, the letter a, the stocks that start with the letter a typically have higher volume. There are a lot more names in that bucket. So people will create a hardware tranche that only manages the stocks that start with a. Then you have b through c, blah blah blah. You can use subnets the same way. If, for example, you start running into capacity issues on one chain, you can strike the assets that you listed across multiple different blockchains that are connected to each other and that talk to each other. So I view the subnet scaling solution infinitely scalable in terms of capacity, that is, its ability to support number of assets. That's one aspect of."
+    },
+    {
+        "speaker": "E",
+        "text": "Let me ask you a question about that. So talking about these subnets and the striping, obviously the goal here is to increase throughput. But talk about the risks of striping in terms of, one of the challenges with any type of dynamic load balancing solution in computer science is that you have to keep things synchronized. And the risk is you can get price deltas and arbitrage opportunities if those get out of sync. Talk a little bit about that because it's a considerable challenge."
+    },
+    {
+        "speaker": "B",
+        "text": "So I'm actually thinking about mutually exclusive assets that you would list, not assets that have to constantly connect between subnets. But the theoretical numbers that subnet to subnet communication development that's happening on the avalanche side at least, seem very promising. As you know, bridges have become probably the largest product after, you know, after the trading exchanges and one of the."
+    },
+    {
+        "speaker": "E",
+        "text": "Largest vectors for comparison."
+    },
+    {
+        "speaker": "B",
+        "text": "And it's very young. I honestly can't claim to know what the future holds in terms of technology to allow this. But again, I think if you're able to completely separate mutually exclusive assets into potential stripes, I think there is throughput and bandwidth to be gained there. The second aspect that I want to mention is EVM. The way I think about the EVM, and I have to take my hat off. EVM is probably the biggest innovation since bitcoin. EVM allowed this entire ecosystem to appear. And now we're at a stage where we think of the EVM as a generic engine for most cars. But if you want to build a Ferrari, or if you want to build a brand new specialized car, you have to take the EVM, you have to get rid of the components that you don't need, and you have to specialize it. Again, the subnet solution allows people to build their own specific engines, to do specific things for their application. The best example I can think of."
+    },
+    {
+        "speaker": "E",
+        "text": "Is."
+    },
+    {
+        "speaker": "B",
+        "text": "Fabric of the exchange allows you to do Kyc AML. It only allows certain actors that we know are properly KYC to interact with the exchange. And this can be built directly into the blockchain. So these."
+    },
+    {
+        "speaker": "E",
+        "text": "Let me just ask you one question. I could geek out and talk about this stuff with you for the next 3 hours, but unfortunately we're getting close to running out of time. I wanted to ask you about the token for Dexalot. This is a lot. Alpha Lima, Oscar Tango, the token off about 72% on the trailing twelve month basis. Talk a little bit about the role that that token plays in the ecosystem and also how you think about that. Frankly, quite significant decline in the last twelve months or so. Sure."
+    },
+    {
+        "speaker": "B",
+        "text": "So quite honestly, over the last twelve months, any assets had trouble holding their value. And let me talk about the utility and what the Dexloc token is for, and then I'll let the audience make their own minds about why and what's happening in the market. So the native token a lot is intended to be the transaction token for the subnets, right? The Dexalot exchange runs on a blockchain of its own, and every time a person does a transaction allot, token is what's used to pay for that transaction effectively to get that validation in. That's the primary purpose essentially as more volume goes through the exchange, more users need a lot to execute those trades. That was the primary purpose of why we created the allot token."
+    },
+    {
+        "speaker": "E",
+        "text": "So Burke, what's the specific functionality and how do the tokenomics work?"
+    },
+    {
+        "speaker": "B",
+        "text": "The specific functionality is for you to be able to place a trade you need to expand a tiny amount of a lot. And the way this works obviously is we understand that people coming from an ethereum ecosystem or an arbitrary ecosystem may not necessarily want to do a trade in a lot. So it's all automated. But essentially when you do a trade, that trade to go through needs to pay a little bit of a lot for the transaction to occur. Ultimately we have an autofill mechanism where know once people on board to the exchange and once they start trading it manages this balance for them. And every time there's a trade that's what's expanded. What was the second part of the question? I'm sorry?"
+    },
+    {
+        "speaker": "E",
+        "text": "And what are the tokenomics that drive price?"
+    },
+    {
+        "speaker": "B",
+        "text": "Essentially the tokenomics dexalot actually did a capital raise about a year and a half ago. At this point some of those tokens were given to our partners and majority of the tokens are currently being used as a part of something that we aptly named Dip. Dip stands for Dexalot incentive program. And essentially we created this program where market makers who add value to the exchange are going to be rewarded by this token that they need to basically perform trades as well. And when I say add value, it's sort of three components. Think about what liquidity is. Liquidity means depth, liquidity means standing there when somebody else is wanting to trade. And then we have a third component for keeping the token and holding it on the exchange. So if you add orders to the exchange, that gives you a score how close you are to the mid, how much size you add, and then if you actually perform executions that gives you an additional score. And then if you hold balances of a lot in the exchange, which is kind of a small kicker that we put in there, that gives you a combined score based on where you land with respect to the participants in the exchange, you get awarded the token. So the exchange is essentially a dynamic."
+    },
+    {
+        "speaker": "E",
+        "text": "Liquidity, scoring that award based on an algorithm that you guys have developed to attempt to maximize liquidity across. Interesting. A fantastic conversation. This has been a true deep dive. I know people who are interested in decentralized trading have found this very useful. And I also imagine that folks who have backgrounds in traditional finance trading systems, e commerce, have found this to be an incredible conversation. I hope you come back and join us again to continue this conversation. But I want to ask you, we've covered a lot of ground here today. Final thoughts, key takeaways that you'd like to leave our viewers and our listeners with."
+    },
+    {
+        "speaker": "B",
+        "text": "Sure. First and foremost, I start these types of questions always with we're all going to make it. This is a brand new industry that's in the making. This is a brand new asset class that just emerged. And quite frankly, if you think about how traditional finance markets developed, those were not without pain. Traditional finance markets are quite efficient. Now theres a very robust, not perfect, but robust set of rules that people play within. Right. And quite honestly, the big events that we saw in 2020 arent unique. Weve seen stuff like this at Treadfire. Weve seen stuff like the, in 2018. And as bad as they are, these are the signs and these are the signals that make regulators really think about these things and put rules in place for people to grow. I'm actually one of those people that believe us is not going to exit this market because the regulations are too extreme. We'll see if I'm right or wrong, but we're all going to make it right. Builders have to build. We need to continue pushing the envelope and building these cool solutions so that we can, you know, we can move the financial rails over. That's how I, that's how I look at my daily job, if you will."
+    },
+    {
+        "speaker": "E",
+        "text": "Well said. In a perfect place to end. Burke Osdogan, thank you so much for joining us."
+    },
+    {
+        "speaker": "B",
+        "text": "Thank you so much for having me."
+    },
+    {
+        "speaker": "E",
+        "text": "Thank you. That's it for today. Remember to sign up for real Vision crypto. It's free, of course. Go to real vision.com crypto. That's real vision.com crypto. We'll be back again tomorrow, of course, with Jacob Robert Steevesen, founder of Bitten. So make sure to join us live 09:00 a.m. pacific time, noon Eastern and 05:00 p.m. in London. Thanks for watching, everybody. Have a great afternoon."
+    },
+    {
+        "speaker": "A",
+        "text": "What's up, revolutionaries? Thanks for tuning in. For more content like this, head over to realvision.com and get unfiltered access to the very best, brightest and biggest names in finance."
+    }
+]

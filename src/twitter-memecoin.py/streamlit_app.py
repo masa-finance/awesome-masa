@@ -16,7 +16,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # URLs for data loading
 DATA_URLS = [
-    "data/twitter_data/memecoin.json",
+    "data/__memecoin_.json",
 ]
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
@@ -38,10 +38,10 @@ def get_streaming_rag_response(question: str):
     logging.info(f"Generating response for question: {question}")
     response, steps = rag_agent.get_rag_response(graph, question)
     
-    words = response.split()
-    for word in words:
-        yield word + " "
-        time.sleep(0.05)
+    sentences = response.split('. ')
+    for sentence in sentences:
+        yield sentence.strip() + '. '
+        time.sleep(0.5)
 
 st.title("💬 Masa Chat")
 
@@ -87,8 +87,8 @@ if prompt := st.chat_input("Ask a question:"):
         for chunk in get_streaming_rag_response(prompt):
             thinking_placeholder.empty()  # Remove thinking animation
             full_response += chunk
-            message_placeholder.markdown(full_response + "▌")
-        message_placeholder.markdown(full_response)
+            message_placeholder.markdown(full_response)
+            time.sleep(0.05)  # Small delay between sentences
 
     st.session_state.message_history.append({"role": "assistant", "content": full_response})
 
