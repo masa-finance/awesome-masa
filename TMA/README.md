@@ -1,5 +1,5 @@
 
-# Telegram SRC Generator
+# Telegram Asset Generator
 
 A Python package designed to generate creative image prompts and corresponding validation questions using OpenAI's APIs. It generates images based on these prompts and manages associated metadata.
 
