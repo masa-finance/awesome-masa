@@ -4,6 +4,7 @@ from typing import Tuple, Optional
 from PIL import Image
 from io import BytesIO
 import aiohttp
+from datetime import datetime
 
 class ImageDownloader:
     """Downloads images from given URLs."""
@@ -24,8 +25,12 @@ class ImageDownloader:
                 if response.status == 200:
                     img_data = await response.read()
                     img = Image.open(BytesIO(img_data))
+                    
+                    # Sanitize the prompt and create a unique filename
                     sanitized_prompt = "".join(c if c.isalnum() or c in (' ', '_') else '_' for c in prompt[:20])
-                    image_path = os.path.join(batch_dir, f"{sanitized_prompt.replace(' ', '_')}.png")
+                    timestamp = datetime.now().strftime("%Y%m%d%H%M%S")
+                    image_path = os.path.join(batch_dir, f"{sanitized_prompt.replace(' ', '_')}_{timestamp}.png")
+                    
                     img.save(image_path)
                     logging.info(f"Image saved to {image_path}")
                     return image_path, image_url

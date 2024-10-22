@@ -1,8 +1,7 @@
 import click
 import os
 import asyncio
-from tma_asset_generator.client import OpenAIClient
-from tma_asset_generator.batch import BatchProcessor
+from tma_asset_generator import OpenAIClient, BatchProcessor
 
 @click.group()
 def main():
@@ -32,7 +31,6 @@ def run_batch(num_prompts):
 def test():
     """Run basic tests."""
     click.echo("Running tests...")
-    # Implement tests as needed
 
 if __name__ == '__main__':
     main()
