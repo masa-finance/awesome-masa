@@ -1,5 +1,4 @@
 import click
-import os
 import asyncio
 from tma_asset_generator import OpenAIClient, BatchProcessor
 
@@ -16,14 +15,16 @@ def run_batch(num_prompts):
 
     :param num_prompts: Number of prompts to generate.
     """
-    api_key = os.getenv('OPENAI_API_KEY')
-    if not api_key:
-        click.echo("Error: OPENAI_API_KEY environment variable not set.")
+    try:
+        # Initialize OpenAIClient which loads the API key from .env
+        client = OpenAIClient()
+    except EnvironmentError as e:
+        click.echo(f"Error: {e}")
         return
 
-    client = OpenAIClient(api_key=api_key)
     processor = BatchProcessor(client)
 
+    # Run the batch job asynchronously
     asyncio.run(processor.run_batch_job(num_prompts))
     click.echo(f"Batch job completed with {num_prompts} prompts.")
 

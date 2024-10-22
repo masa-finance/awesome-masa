@@ -4,10 +4,11 @@ import asyncio
 from datetime import datetime
 import pandas as pd
 import duckdb
-from typing import List
+from typing import List, Optional
 from .prompts import PromptGenerator
 from .images import ImageGenerator
 from .client import OpenAIClient
+from PIL import Image
 
 class BatchProcessor:
     """Processes batch jobs to generate prompts and images, and save metadata."""
@@ -30,10 +31,12 @@ class BatchProcessor:
 
         :param num_prompts: Number of prompts to generate.
         """
-        # Generate a unique subfolder name using the current timestamp
+        # Generate a unique batch ID using the current timestamp
         batch_timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-        batch_dir = os.path.join(self.image_dir, f"batch_{batch_timestamp}")
-        os.makedirs(batch_dir, exist_ok=True)  # Create the subfolder
+        batch_id = f"batch_{batch_timestamp}"
+        batch_dir = os.path.join(self.image_dir, batch_id)
+        os.makedirs(batch_dir, exist_ok=True)  # Create the batch directory
+        logging.info(f"Batch ID: {batch_id}")
         logging.info(f"Saving images to subfolder: {batch_dir}")
 
         logging.info(f"Generating {num_prompts} prompts...")
@@ -42,17 +45,33 @@ class BatchProcessor:
         logging.info(f"Generated {len(prompts)} prompts.")
 
         logging.info("Generating images for prompts...")
+        # Record the start time for image generation
+        generation_start_time = datetime.now()
         image_data = await self.image_generator.generate_images_for_prompts(prompts, batch_dir)
+        generation_end_time = datetime.now()
         logging.info("Image generation complete.")
 
         metadata = []
         for prompt, (image_path, image_url) in zip(prompts, image_data):
             if image_path and image_url:
+                prompt_length = len(prompt['image_prompt'].split())
+
+                # Get image resolution (Assuming PIL is used in ImageGenerator)
+                try:
+                    with Image.open(image_path) as img:
+                        width, height = img.size
+                except Exception as e:
+                    logging.error(f"Error getting image size for {image_path}: {e}")
+                    width, height = None, None
+
+                
                 metadata.append({
-                    'prompt': prompt['image_prompt'],
-                    'validation_question': prompt['validation_question'],
+                    **prompt,
+                    'prompt_length': prompt_length,
                     'image_path': image_path,
-                    'image_url': image_url
+                    'image_url': image_url,
+                    'image_width': width,
+                    'image_height': height
                 })
 
         if metadata:
@@ -67,6 +86,7 @@ class BatchProcessor:
                 CREATE TABLE IF NOT EXISTS image_metadata AS 
                 SELECT * FROM read_parquet(?)
             """, [parquet_file])
-            logging.info(f"Metadata saved to parquet file 'image_metadata_{batch_timestamp}.parquet'.")
+            logging.info(f"Metadata saved to DuckDB from parquet file '{parquet_file}'.")
         else:
             logging.warning("No metadata to save.")
+
