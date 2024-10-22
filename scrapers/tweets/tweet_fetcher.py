@@ -29,6 +29,8 @@ import json
 from tweet_service import setup_logging, ensure_data_directory, save_tweets, create_tweet_query, load_existing_tweets
 from requests.exceptions import ReadTimeout, ConnectionError, RequestException
 from loguru import logger
+import concurrent.futures
+from functools import partial
 
 
 def load_config():
@@ -61,6 +63,117 @@ class NoWorkersAvailableError(Exception):
 
 
 
+def fetch_tweets_for_date_range(config, start_date, end_date):
+    api_calls_count = 0
+    records_fetched = 0
+    all_tweets = load_existing_tweets(config['data_directory'], config['query'])
+
+    while start_date <= end_date:
+        iteration_end_date = end_date
+        iteration_start_date = max(start_date, end_date - timedelta(days=config['days_per_iteration']))
+        
+        query = create_tweet_query(config['query'], iteration_start_date, iteration_end_date)
+        request_body = {"query": query, "count": config['tweets_per_request']}
+
+        try:
+            logger.debug(f"Sending request for {iteration_start_date.strftime('%Y-%m-%d')} to {iteration_end_date.strftime('%Y-%m-%d')}")
+            logger.debug(f"Request body: {request_body}")
+            
+            start_time = time.time()
+            response = requests.post(config['api_endpoint'], 
+                                     json=request_body, 
+                                     headers=config['headers'], 
+                                     timeout=config['request_timeout'])
+            end_time = time.time()
+            response_time = end_time - start_time
+            
+            # Log response time in red color
+            logger.info(f"\033[91mResponse time: {response_time:.2f} seconds\033[0m")
+            
+            api_calls_count += 1
+
+            logger.debug(f"Response status code: {response.status_code}")
+            logger.debug(f"Response content: {response.text[:1000]}...")  # Log first 1000 characters of response
+
+            response_data = response.json()
+
+            if response.status_code == 200:
+                if response_data == {"Error": {}, "Tweet": None}:
+                    logger.warning(f"Received an empty response for {iteration_start_date.strftime('%Y-%m-%d')} to {iteration_end_date.strftime('%Y-%m-%d')}. Waiting {config['empty_response_delay']} seconds before retrying...")
+                    time.sleep(config['empty_response_delay'])
+                    continue
+
+                if response_data and 'data' in response_data and response_data['data'] is not None:
+                    new_tweets = response_data['data']
+                    all_tweets.extend(new_tweets)
+                    num_tweets = len(new_tweets)
+                    records_fetched += num_tweets
+                    worker_peer_id = response_data.get('workerPeerId', 'Unknown')
+                    logger.info(f"Fetched {num_tweets} tweets for {iteration_start_date.strftime('%Y-%m-%d')} to {iteration_end_date.strftime('%Y-%m-%d')} from worker {worker_peer_id}")
+                    save_tweets(all_tweets, config['data_directory'], config['query'])
+                else:
+                    logger.warning(f"No tweets fetched for {iteration_start_date.strftime('%Y-%m-%d')} to {iteration_end_date.strftime('%Y-%m-%d')}. Unexpected response format: {response_data}")
+                    time.sleep(config['retry_delay'])
+            elif response.status_code == 429:
+                logger.error(f"Received 429 error for {iteration_start_date.strftime('%Y-%m-%d')} to {iteration_end_date.strftime('%Y-%m-%d')}: {response_data}")
+                logger.warning(f"Twitter API rate limit exceeded. Pausing for {config['rate_limit_delay']} seconds before retrying...")
+                time.sleep(config['rate_limit_delay'])
+            elif response.status_code == 417:
+                logger.error(f"No workers available on the network. Response: {response_data}")
+                raise NoWorkersAvailableError("No workers available on the network")
+            elif response.status_code == 504:
+                logger.warning(f"Received 504 error for {iteration_start_date.strftime('%Y-%m-%d')} to {iteration_end_date.strftime('%Y-%m-%d')}. Response: {response_data}")
+                time.sleep(config['retry_delay'])
+            elif response.status_code == 500:
+                error_details = response_data.get('details', '')
+                if "All workers failed" in error_details and "all accounts are rate-limited" in error_details:
+                    logger.warning(f"All workers are rate-limited. Error details: {error_details}")
+                    logger.warning(f"Pausing for {config['rate_limit_delay']} seconds before retrying...")
+                    time.sleep(config['rate_limit_delay'])
+                    continue
+                else:
+                    logger.error(f"Failed to fetch tweets for {iteration_start_date.strftime('%Y-%m-%d')} to {iteration_end_date.strftime('%Y-%m-%d')}: Status code {response.status_code}, Response: {response_data}")
+                    break
+            else:
+                logger.error(f"Failed to fetch tweets for {iteration_start_date.strftime('%Y-%m-%d')} to {iteration_end_date.strftime('%Y-%m-%d')}: Status code {response.status_code}, Response: {response_data}")
+                break
+
+        except NoWorkersAvailableError as e:
+            logger.warning(f"No workers available on the network: {str(e)}")
+            logger.warning("Try again later when workers become available.")
+            return  # Exit the function, ending the tweet fetching process
+        except ReadTimeout as e:
+            error_message = f"Read timeout occurred for {iteration_start_date.strftime('%Y-%m-%d')} to {iteration_end_date.strftime('%Y-%m-%d')}: {str(e)}"
+            logger.warning(error_message)
+            logger.debug(f"Full error details: {repr(e)}")
+            
+            # Try to get partial response
+            if hasattr(e, 'response') and e.response is not None:
+                logger.debug(f"Partial response status code: {e.response.status_code}")
+                logger.debug(f"Partial response headers: {e.response.headers}")
+                logger.debug(f"Partial response content: {e.response.text[:1000]}...")
+            else:
+                logger.debug("No partial response available")
+            
+            logger.warning(f"Retrying in {config['retry_delay']} seconds...")
+            time.sleep(config['retry_delay'])
+        except ConnectionError as e:
+            logger.warning(f"Connection error occurred for {iteration_start_date.strftime('%Y-%m-%d')} to {iteration_end_date.strftime('%Y-%m-%d')}: {str(e)}")
+            logger.debug(f"Full error details: {repr(e)}")
+            logger.warning(f"Retrying in {config['retry_delay']} seconds...")
+            time.sleep(config['retry_delay'])
+        except RequestException as e:
+            logger.error(f"An error occurred while fetching tweets for {iteration_start_date.strftime('%Y-%m-%d')} to {iteration_end_date.strftime('%Y-%m-%d')}: {str(e)}")
+            logger.debug(f"Full error details: {repr(e)}")
+            if hasattr(e, 'response') and e.response is not None:
+                logger.debug(f"Error response status code: {e.response.status_code}")
+                logger.debug(f"Error response headers: {e.response.headers}")
+                logger.debug(f"Error response content: {e.response.text[:1000]}...")
+            break
+
+    return all_tweets, api_calls_count
+
+
 def fetch_tweets(config):
     api_calls_count = 0
     records_fetched = 0
@@ -69,6 +182,7 @@ def fetch_tweets(config):
     start_date = datetime.strptime(config['start_date'], '%Y-%m-%d').date()
     end_date = datetime.strptime(config['end_date'], '%Y-%m-%d').date()
     days_per_iteration = config['days_per_iteration']
+    concurrent_requests = config['concurrent_requests']
 
     ensure_data_directory(config['data_directory'])
 
@@ -81,122 +195,36 @@ def fetch_tweets(config):
     else:
         current_date = end_date
 
-    while current_date >= start_date:
-        success = False
-        attempts = 0
-        while not success and attempts < config['max_retries']:
-            iteration_start_date = current_date - timedelta(days=days_per_iteration)
-            day_before = max(iteration_start_date, start_date - timedelta(days=1))
-
-            query = create_tweet_query(config['query'], day_before, current_date)
-            request_body = {"query": query, "count": config['tweets_per_request']}
-
-            try:
-                logger.debug(f"Sending request for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}")
-                logger.debug(f"Request body: {request_body}")
-                
-                response = requests.post(config['api_endpoint'], 
-                                         json=request_body, 
-                                         headers=config['headers'], 
-                                         timeout=config['request_timeout'])
-                api_calls_count += 1
-
-                logger.debug(f"Response status code: {response.status_code}")
-                logger.debug(f"Response content: {response.text[:1000]}...")  # Log first 1000 characters of response
-
-                response_data = response.json()
-
-                if response.status_code == 200:
-                    if response_data == {"Error": {}, "Tweet": None}:
-                        logger.warning(f"Received an empty response for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}. Waiting {config['empty_response_delay']} seconds before retrying...")
-                        time.sleep(config['empty_response_delay'])
-                        attempts += 1
-                        continue
-
-                    if response_data and 'data' in response_data and response_data['data'] is not None:
-                        new_tweets = response_data['data']
-                        all_tweets.extend(new_tweets)
-                        num_tweets = len(new_tweets)
-                        records_fetched += num_tweets
-                        worker_peer_id = response_data.get('workerPeerId', 'Unknown')
-                        logger.info(f"Fetched {num_tweets} tweets for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')} from worker {worker_peer_id}")
-                        success = True
-                        
-                        save_tweets(all_tweets, config['data_directory'], config['query'])
-                        save_state({'current_date': current_date.strftime('%Y-%m-%d')}, api_calls_count, records_fetched, all_tweets)
-                    else:
-                        logger.warning(f"No tweets fetched for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}. Unexpected response format: {response_data}")
-                        time.sleep(config['retry_delay'])
-                        attempts += 1
-
-                elif response.status_code == 429:
-                    logger.error(f"Received 429 error for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}: {response_data}")
-                    logger.warning(f"Twitter API rate limit exceeded. Pausing for {config['rate_limit_delay']} seconds before retrying...")
-                    time.sleep(config['rate_limit_delay'])
-                    attempts += 1
-
-                elif response.status_code == 417:
-                    logger.error(f"No workers available on the network. Response: {response_data}")
-                    raise NoWorkersAvailableError("No workers available on the network")
-                elif response.status_code == 504:
-                    logger.warning(f"Received 504 error for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}. Response: {response_data}")
-                    time.sleep(config['retry_delay'])
-                    attempts += 1
-                elif response.status_code == 500:
-                    if "All workers failed" in response_data.get('details', '') and "all accounts are rate-limited" in response_data.get('details', ''):
-                        logger.warning(f"All workers are rate-limited. Pausing for {config['rate_limit_delay']} seconds before retrying...")
-                        time.sleep(config['rate_limit_delay'])
-                        attempts += 1
-                        continue
-                    else:
-                        logger.error(f"Failed to fetch tweets for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}: Status code {response.status_code}, Response: {response_data}")
-                        break
-                else:
-                    logger.error(f"Failed to fetch tweets for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}: Status code {response.status_code}, Response: {response_data}")
+    with concurrent.futures.ThreadPoolExecutor(max_workers=concurrent_requests) as executor:
+        while current_date >= start_date:
+            futures = []
+            for _ in range(concurrent_requests):
+                if current_date < start_date:
                     break
-
-            except NoWorkersAvailableError as e:
-                logger.warning(f"No workers available on the network: {str(e)}")
-                logger.warning("Try again later when workers become available.")
-                save_state({'current_date': current_date.strftime('%Y-%m-%d')}, api_calls_count, records_fetched, all_tweets)
-                return  # Exit the function, ending the tweet fetching process
-            except ReadTimeout as e:
-                error_message = f"Read timeout occurred for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}: {str(e)}"
-                logger.warning(error_message)
-                logger.debug(f"Full error details: {repr(e)}")
+                iteration_end_date = current_date
+                iteration_start_date = max(current_date - timedelta(days=days_per_iteration), start_date)
                 
-                # Try to get partial response
-                if hasattr(e, 'response') and e.response is not None:
-                    logger.debug(f"Partial response status code: {e.response.status_code}")
-                    logger.debug(f"Partial response headers: {e.response.headers}")
-                    logger.debug(f"Partial response content: {e.response.text[:1000]}...")
-                else:
-                    logger.debug("No partial response available")
+                future = executor.submit(
+                    fetch_tweets_for_date_range, 
+                    config, 
+                    iteration_start_date, 
+                    iteration_end_date
+                )
+                futures.append(future)
                 
-                logger.warning(f"Retrying in {config['retry_delay']} seconds...")
-                time.sleep(config['retry_delay'])
-                attempts += 1
-            except ConnectionError as e:
-                logger.warning(f"Connection error occurred for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}: {str(e)}")
-                logger.debug(f"Full error details: {repr(e)}")
-                logger.warning(f"Retrying in {config['retry_delay']} seconds...")
-                time.sleep(config['retry_delay'])
-                attempts += 1
-            except RequestException as e:
-                logger.error(f"An error occurred while fetching tweets for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')}: {str(e)}")
-                logger.debug(f"Full error details: {repr(e)}")
-                if hasattr(e, 'response') and e.response is not None:
-                    logger.debug(f"Error response status code: {e.response.status_code}")
-                    logger.debug(f"Error response headers: {e.response.headers}")
-                    logger.debug(f"Error response content: {e.response.text[:1000]}...")
-                break
+                current_date = iteration_start_date - timedelta(days=1)
 
-        if not success:
-            logger.error(f"Failed to fetch tweets for {current_date.strftime('%Y-%m-%d')} to {day_before.strftime('%Y-%m-%d')} after {attempts} attempts.")
+            for future in concurrent.futures.as_completed(futures):
+                try:
+                    new_tweets, new_api_calls = future.result()
+                    all_tweets.extend(new_tweets)
+                    api_calls_count += new_api_calls
+                    records_fetched += len(new_tweets)
+                except Exception as e:
+                    logger.error(f"An error occurred while fetching tweets: {str(e)}")
 
-        current_date -= timedelta(days=days_per_iteration)
-
-        time.sleep(config['request_delay'])
+            save_tweets(all_tweets, config['data_directory'], config['query'])
+            save_state({'current_date': current_date.strftime('%Y-%m-%d')}, api_calls_count, records_fetched, all_tweets)
 
     logger.info(f"Operation completed. Total API calls made: {api_calls_count}. Total records fetched: {records_fetched}")
 

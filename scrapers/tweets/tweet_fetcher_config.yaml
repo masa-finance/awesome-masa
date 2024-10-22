@@ -1,16 +1,16 @@
 # API settings
-api_endpoint: 'http://157.230.212.224:8080/api/v1/data/twitter/tweets/recent'
+api_endpoint: 'http://localhost:8080/api/v1/data/twitter/tweets/recent'
 headers:
   accept: 'application/json'
   Content-Type: 'application/json'
 
 # Query settings
-query: '($TAO)'
-tweets_per_request: 250
+query: '($GOAT)'
+tweets_per_request: 25
 
 # Add start_date and end_date
-start_date: '2024-01-01'
-end_date: '2024-10-10'
+start_date: '2021-01-01'
+end_date: '2024-10-21'
 days_per_iteration: 1
 
 # File settings
@@ -20,9 +20,12 @@ data_directory: 'data'
 retry_delay: 10 
 request_delay: 5
 max_retries: 10 
-request_timeout: 30
+request_timeout: 120
 rate_limit_delay: 120  # New setting: 2 minutes (120 seconds) for handling 429 errors
 
 # Logging settings
 log_level: 'INFO'
 log_format: '%(asctime)s - %(levelname)s - %(message)s'
+
+# Concurrency settings
+concurrent_requests: 3
