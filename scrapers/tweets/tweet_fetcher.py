@@ -31,6 +31,7 @@ from requests.exceptions import ReadTimeout, ConnectionError, RequestException
 from loguru import logger
 import concurrent.futures
 from functools import partial
+from statistics import mean
 
 
 def load_config():
@@ -63,6 +64,26 @@ class NoWorkersAvailableError(Exception):
 
 
 
+class TweetStats:
+    def __init__(self):
+        self.total_tweets = 0
+        self.response_times = []
+        self.start_time = time.time()
+        self.unique_workers = set()
+
+    def update(self, new_tweets, response_time, worker_id):
+        self.total_tweets += new_tweets
+        self.response_times.append(response_time)
+        self.unique_workers.add(worker_id)
+
+    def get_stats(self):
+        elapsed_time = time.time() - self.start_time
+        avg_response_time = mean(self.response_times) if self.response_times else 0
+        tweets_per_minute = (self.total_tweets / elapsed_time) * 60 if elapsed_time > 0 else 0
+        return self.total_tweets, avg_response_time, tweets_per_minute, len(self.unique_workers)
+
+tweet_stats = TweetStats()
+
 def fetch_tweets_for_date_range(config, start_date, end_date):
     api_calls_count = 0
     records_fetched = 0
@@ -87,9 +108,6 @@ def fetch_tweets_for_date_range(config, start_date, end_date):
             end_time = time.time()
             response_time = end_time - start_time
             
-            # Log response time in red color
-            logger.info(f"\033[91mResponse time: {response_time:.2f} seconds\033[0m")
-            
             api_calls_count += 1
 
             logger.debug(f"Response status code: {response.status_code}")
@@ -111,6 +129,11 @@ def fetch_tweets_for_date_range(config, start_date, end_date):
                     worker_peer_id = response_data.get('workerPeerId', 'Unknown')
                     logger.info(f"Fetched {num_tweets} tweets for {iteration_start_date.strftime('%Y-%m-%d')} to {iteration_end_date.strftime('%Y-%m-%d')} from worker {worker_peer_id}")
                     save_tweets(all_tweets, config['data_directory'], config['query'])
+                    
+                    # Update tweet stats
+                    tweet_stats.update(num_tweets, response_time, worker_peer_id)
+                    total_tweets, avg_response_time, tweets_per_minute, unique_workers = tweet_stats.get_stats()
+                    logger.info(f"\033[93mTotal tweets: {total_tweets}, Avg response time: {avg_response_time:.2f}s, Tweets/min: {tweets_per_minute:.2f}, Unique workers: {unique_workers}\033[0m")
                 else:
                     logger.warning(f"No tweets fetched for {iteration_start_date.strftime('%Y-%m-%d')} to {iteration_end_date.strftime('%Y-%m-%d')}. Unexpected response format: {response_data}")
                     time.sleep(config['retry_delay'])
@@ -233,3 +256,4 @@ if __name__ == "__main__":
     config = load_config()
     logger.add(sys.stderr, format="{time} {level} {message}", filter="my_module", level=config['log_level'])
     fetch_tweets(config)
+
