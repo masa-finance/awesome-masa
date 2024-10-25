@@ -729,11 +729,10 @@ class PromptGenerator:
                     {
                         "role": "system",
                         "content": (
-                            "You are a creative AI assisting in generating prompts for an AI image generation model. "
+                            "You are a creative AI assisting in generating prompts for an image generation model. "
                             "Each prompt consists of two parts: an Image Prompt and a Validation Question. "
-                            "The Image Prompt should describe an image with specific attributes such as difficulty level, scene complexity, hidden object details, etc. "
-                            "The Validation Question should correspond to the image prompt by asking about the presence of a specific object in the image. "
-                            "The answer to the Validation Question should be either 'True' or 'False' based on whether the object is present. "
+                            "Each image prompt will contain a hidden object."
+                            "The answer to the Validation Question should be either 'True' or 'False'"
                             "Please provide the output in JSON format with 'image_prompt' and 'validation_question' keys."
                         ),
                     },
