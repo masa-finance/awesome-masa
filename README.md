@@ -8,21 +8,27 @@ A curated collection of datasets, tools, and agents for AI developers using the 
 
 1. Ensure you have Conda installed.
 2. Create the environment:
-   ```
+
+   ```bash
    conda env create -f environment.yml
    conda activate awesome-masa
    ```
+
 3. Set up environment variables:
    - Copy `env.example` to `.env`
    - Fill in the required values
 
 ## 📚 Contents
 
-- [Datasets](#datasets)
-- [Scrapers](#scrapers)
-- [Agents](#agents)
-- [Contribution](#contribution)
-- [License](#license)
+### [Datasets](#datasets)
+
+### [Scrapers](#scrapers)
+
+### [Agents](#agents)
+
+### [Contribution](#contribution)
+
+### [License](#license)
 
 ## 📊 Datasets
 
@@ -85,4 +91,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-*Made with ❤️ by the Masa Foundation*
+### *Made with ❤️ by the Masa Foundation*
